@@ -32,21 +32,23 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Hillsight Shaped Mine       | -       | slash & force | 10ft cone, 4d10+25   | n/a       | all       | 2.4        |
 
 ###### Durandurm Upgrades
-| Name                                | Range  | Type | Use                                        | Ammo? | Imprters             | Cost in AC |
-| ----------------------------------- | ------ | ---- | ------------------------------------------ | ----- | -------------------- | ---------- |
-| Loose Trigger                       | -      | side | multishot per d6, -2 to hit                | n/a   | all                  | 0.2        |
-| Advanced Sight Scope                | -      | upg. |                                            |       |                      |            |
-| Refined Handblaster Receiver        | -      | upg. | +1 to hit, +1 dam                          | n/a   | mercs, troopers      | 2.0        |
-| Blessed Handblaster Receiver        | -      | upg. | +1d4 to hit, +1d4                          | n/a   | wfm, extramis        | 2.0        |
-| Extended Handblaster Barrel         | +5/+30 | upg. | +1d6                                       | n/a   | all                  | 4.0        |
-| Refined Carbine Receiver            | -      | upg  | +2 to hit, +2 dam                          | n/a   | mercs                | 3.2        |
-| Dual-pop Carbine Receiver           | -      | upg  | +1 to hit, +1d6                            | n/a   | mercs, troopers, wfm | 4.0        |
-| Ares Manual-Switch Carbine Receiver | 45/120 | upg. | multishot per d6                           | n/a   | scavs, troopers      | 1.5        |
-| Magazine Extender, 20-shot          | -      | upg. | 2x mag cap                                 | n/a   | all                  | 0.8        |
-| Magazine Extender, 40-shot          | -      | upg. | 4x mag cap                                 | n/a   | all                  | 2.4        |
-| Magazine Belt Feeder                | -      | upg. | 12x mag cap                                | n/a   | all                  | 5.6        |
-| TacLight! Cone Lamp                 | 45/90  | upg. | Dim light for 90', bright for 45'          | n/a   | all                  |            |
-| TacLight! Prefire Tracer Module     | 30/90  | upg. | +2 to hit within 30', +1 to hit within 90' | n/a   | all                  |            |
+| Name                                | Range   | Type | Use                                        | Ammo? | Imprters             | Cost in AC |
+| ----------------------------------- | ------- | ---- | ------------------------------------------ | ----- | -------------------- | ---------- |
+| Loose Trigger                       | -       | side | multishot per d6, -2 to hit                | n/a   | all                  | 0.2        |
+| Advanced Sight Scope                | -       | upg. |                                            |       |                      |            |
+| Tight Tracer Muzzle Attachment      | -5/-30  | side |                                            |       |                      |            |
+| Tracer Suppresser Muzzle System     | -15/-90 | side |                                            |       |                      |            |
+| Refined Handblaster Receiver        | -       | upg. | +1 to hit, +1 dam                          | n/a   | mercs, troopers      | 2.0        |
+| Blessed Handblaster Receiver        | -       | upg. | +1d4 to hit, +1d4                          | n/a   | wfm, extramis        | 2.0        |
+| Extended Handblaster Barrel         | +5/+30  | upg. | +1d6                                       | n/a   | all                  | 4.0        |
+| Refined Carbine Receiver            | -       | upg  | +2 to hit, +2 dam                          | n/a   | mercs                | 3.2        |
+| Dual-pop Carbine Receiver           | -       | upg  | +1 to hit, +1d6                            | n/a   | mercs, troopers, wfm | 4.0        |
+| Ares Manual-Switch Carbine Receiver | 45/120  | upg. | multishot per d6                           | n/a   | scavs, troopers      | 1.5        |
+| Magazine Extender, 20-shot          | -       | upg. | 2x mag cap                                 | n/a   | all                  | 0.8        |
+| Magazine Extender, 40-shot          | -       | upg. | 4x mag cap                                 | n/a   | all                  | 2.4        |
+| Magazine Belt Feeder                | -       | upg. | 12x mag cap                                | n/a   | all                  | 5.6        |
+| TacLight! Cone Lamp                 | 45/90   | upg. | Dim light for 90', bright for 45'          | n/a   | all                  |            |
+| TacLight! Prefire Tracer Module     | 30/90   | upg. | +2 to hit within 30', +1 to hit within 90' | n/a   | all                  |            |
 
 #### EQUIPMENT
 | Name                                   | Type                   | Use                             | Importers   | Cost in AC |

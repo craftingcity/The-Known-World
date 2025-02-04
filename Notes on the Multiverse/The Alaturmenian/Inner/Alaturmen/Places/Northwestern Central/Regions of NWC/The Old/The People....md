@@ -203,3 +203,5 @@ The Fallen are more than well equipped, sporting heavily modded Durandurm Carbin
 
 ###### Politics
 - Kill the heretic, burn the infidel, slay the invader.
+- Fight without honor, for your enemy will do the same.
+- If you become disabled, join the Obelisk in your final blaze.
