@@ -21,9 +21,10 @@ aliases:
 | Grekk     | Kallo       | Maxine     |
 | Gurrak    | Lou         | Sally      |
 | Marley    | Maxyu       | Viliuam    |
-| Mateus    | Yandee      | Tianna           |
-| Paulo     | Yeirruk     | Sarhin           |
-| Wilson    |             |            |
+| Mateus    | Yandee      | Tianna     |
+| Paulo     | Yeirruk     | Sarhin     |
+| Wilson    |             | Mariana    |
+| Simon     |             |            |
 
 ## Last Names
 
@@ -54,7 +55,7 @@ aliases:
 | Vaught       |       |
 | Fyrren       |       |
 | Seashell     |       |
-| Moore             |       |
+| Moore        |       |
 
 # Southeastern (Combine)
 ## First Names
@@ -66,7 +67,7 @@ aliases:
 | Reyan     | Grundle | Poppy    |
 | Bonj      | Jasper  | Srioh    |
 | Nike      | River   | Yyu      |
-| Glot      | Toor    |          |
+| Glot      | Toor    | Marilynn |
 | Jerran    |         |          |
 | Nylan     |         |          |
 | Revari    |         |          |

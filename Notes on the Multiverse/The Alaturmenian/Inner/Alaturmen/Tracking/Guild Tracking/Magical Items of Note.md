@@ -294,7 +294,7 @@ aliases:
 	GME-017 "NECKLACE OF COMPULSION"
 	Threat Level: COLOR
 	Entry Class: CLASS
-	Source: AUTHOR //arstovich//
+	Source: Mariana Arstovich (TL-B uncontained, location unknown)
 	Last Known Keeper: KEEPER
 
 	Entry Description: ...
@@ -305,7 +305,7 @@ aliases:
 	GME-019 "MASK OF THE FALLEN JESTER"
 	Threat Level: PURPLE
 	Entry Class: TRINKET
-	Source: AUTHOR //moore//
+	Source: Tianna Moore (TL-B uncontained, confirmed deceased)
 	Last Known Keeper: Syther Malkovich
 
 	Entry Description: ...
@@ -331,7 +331,7 @@ aliases:
 	GME-020 "COMPALATI"
 	Threat Level: COLOR
 	Entry Class: CLASS
-	Source: AUTHOR //hollyanne//
+	Source: Simon Hollyanne (TL-G contained, confirmed deceased)
 	Last Known Keeper: KEEPER
 
 	Entry Description: ...

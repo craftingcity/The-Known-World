@@ -12,9 +12,11 @@ The following is a reference sheet for the Authors of all [[Magical Items of Not
 ### Sarhin Bodaim
 ### Frankie Avaati
 ### Jurran Malkovich
+### Simon Hollyanne
 ## TL-BLUE
 ### Tianna Moore
 ### Guraxlog
+### Mariana Arstovich
 ## TL-PURPLE
 ## TL-RED
 ## TL-ORANGE
