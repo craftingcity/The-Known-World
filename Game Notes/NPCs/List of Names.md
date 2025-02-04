@@ -68,7 +68,7 @@ aliases:
 | Bonj      | Jasper  | Srioh    |
 | Nike      | River   | Yyu      |
 | Glot      | Toor    | Marilynn |
-| Jerran    |         |          |
+| Jerran    |         | Wren         |
 | Nylan     |         |          |
 | Revari    |         |          |
 |           |         |          |
@@ -106,7 +106,7 @@ aliases:
 | Hektor    | Enoch   |          |
 | Abraham   | Raam    |          |
 | Jorrin    | Valerio |          |
-| Marcus    |         |          |
+| Marcus    | Roan        |          |
 | Nicolas   |         |          |
 
 ## Last Names
@@ -131,8 +131,8 @@ aliases:
 | ------------ | ------- | --------- |
 | Barthalamule | Dante   | Agrandica |
 | Boris        | Sivir   | Ginger    |
-| Edward       | Frin        |           |
-| Fulton       |         |           |
+| Edward       | Frin    | Saria          |
+| Fulton       | Pax     |           |
 | Houran       |         |           |
 
 ## Last Names
