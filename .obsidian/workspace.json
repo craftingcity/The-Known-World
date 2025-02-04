@@ -168,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"time before",
+                "query": "Longshot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.51240158081055,
-    "collapsed": true
+    "width": 322.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -370,7 +369,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a9256cc3f5ad85a",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
