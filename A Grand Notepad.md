@@ -287,3 +287,4 @@ magical items
 - [[Campaigns]]
 	- [[Kaliqeill, Lich of Orcus]] (`hes still floating around the outer planes trying to fuck shit up`)
 - [[Lingering Injuries]]
+- [[List of Names]]

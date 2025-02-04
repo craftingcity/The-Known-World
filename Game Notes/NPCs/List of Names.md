@@ -2,6 +2,67 @@
 tags: npc
 aliases:
 ---
+
+# Northeastern (Prosperian)
+## First Names
+
+| Masculine | Uniform | Feminine |
+| --------- | ------- | -------- |
+| Alisinder |         | Adriana  |
+| Arrek     |         | Alergra  |
+| Alisar          |         |          |
+
+## Last Names
+
+| Family Name | Notes |
+| ----------- | ----- |
+| Franx       |       |
+| Barrowinch  |       |
+| Rancarlo    |       |
+| Bozkin      |       |
+| Arstovich   |       |
+| Guir        |       |
+| Wumfingle            |       |
+
+# Southeastern (Combine)
+## First Names
+
+| Masculine | Uniform | Feminine |
+| --------- | ------- | -------- |
+| Abraham   |         |          |
+
+## Last Names
+
+| Family Name | Notes |
+| ----------- | ----- |
+| ben Yaam    |       |
+
+# Northwestern (of Flame)
+## First Names
+
+| Masculine | Uniform | Feminine |
+| --------- | ------- | -------- |
+|           |         |          |
+
+## Last Names
+
+| Family Name | Notes |
+| ----------- | ----- |
+|             |       |
+
+# Southwestern (Tetrimocal)
+## First Names
+
+| Masculine | Uniform | Feminine  |
+| --------- | ------- | --------- |
+|           |         | Agrandica |
+
+## Last Names
+
+| Family Name | Notes |
+| ----------- | ----- |
+| Alamore     |       |
+
 # List of Names
 Masc | Femme | Neutral
 --------|--------|--------

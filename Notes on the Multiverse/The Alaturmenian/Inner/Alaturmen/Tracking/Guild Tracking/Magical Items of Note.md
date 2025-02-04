@@ -270,8 +270,8 @@ aliases:
 ###### The Ring of False Wishes
 ```
 	GME-016 "RING OF FALSE WISHES"
-	Threat Level: COLOR
-	Entry Class: CLASS
+	Threat Level: RED
+	Entry Class: TRINKET
 	Source: AUTHOR
 	Last Known Keeper: KEEPER
 

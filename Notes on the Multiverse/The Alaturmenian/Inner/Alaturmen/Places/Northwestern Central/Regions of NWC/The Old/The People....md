@@ -32,11 +32,11 @@ The Scavs are very likely underequipped.
 	- *Talons* and *Troopers* fight against *Fallen* coming from [[The Places...#The Temple]] or [[The Places...#Flats (6/rr)]].
 
 ###### Politics
-- Other *Scavangers* can be shady, but the *Rookies* and *Talons* are good.
-- *Militants* try to shoot us on sight. We fight back.
-- *Mercenaries* are shady. They are worth dealing with.
-- *Extramis* are the good guys. They help us, we help them.
-- *Troopers* are shady. They usually try to fight us if we meet outside [[The Places...#The Shipyard]].
+- Other *Scavangers* can be shady, but the *Rookies* and *Talons* are good folk.
+- *Militants* try to shoot us on sight. We fight back. `(Hostile)`
+- *Mercenaries* are shady. They are worth dealing with. `(Neutral)`
+- *Extramis* are the good guys. They help us, we help them. `(Allied)`
+- *Troopers* are shady. They usually try to fight us if we meet outside [[The Places...#The Shipyard]]. `(Neutral)`
 
 ##### White-Flame Militants
 [[The Church of the White Flame]] is - according to official Guild records - only maintaining a border presence to prevent any further entrance into these very dangerous and historic ruins. Anyone who has actually seen this place can tell you that is not true. Bands of well-equipped soldiers actively patrol the Old and more commonly attack on sight than arrest and eject "trespassers".
@@ -63,11 +63,11 @@ The WFM are reasonably equipped for military containment, but undersupplied for 
 	- *Troopers* and *Militants* fight against *Fallen*, *Mercenaries*, and *Extramis* here.
 
 ###### Politics
-- *Scavangers* are fugitives and heretics. They aren't worth the bullets, but we must.
-- Other *Militants* are good kin. We're all trying to do our duty.
-- *Mercenaries* are terrible. No better than Scavs, just harder to kill.
-- *Extramis* doesn't exist. Those are Scavs.
-- *Troopers* are terrible. No better than Scavs, just harder to kill.
+- *Scavangers* are fugitives and heretics. They aren't worth the bullets, but we must. `(Hostile)`
+- Other *Militants* are good kin. We're all trying to do our duty. 
+- *Mercenaries* are terrible. No better than Scavs, just harder to kill. `(Hostile)`
+- *Extramis* doesn't exist. Those are Scavs. `(Hostile)`
+- *Troopers* are terrible. No better than Scavs, just harder to kill. `(Hostile)`
 
 ##### Mercenaries
 Hired soldiers willing to keep their employer's identity secret, the Mercenary groups within the Old are mysterious and fickle. While often reliable, when an opportunity presents itself, the Mercenaries have no issue betraying their otherwise well-earned trust for the benefit of their patrons. 
@@ -102,11 +102,11 @@ The Mercenaries are well-equipped.
 	- Sometimes, you need to buy more bullets. Sneak in, sneak out. *Troopers* don't like us sticking around too long.
 
 ###### Politics
-- *Scavangers* are too inexperienced to survive here. May as well scam 'em first.
-- *Militants* can be trouble, but we always need them gone.
+- *Scavangers* are too inexperienced to survive here. May as well scam 'em first. `(Neutral)`
+- *Militants* can be trouble, but we always need them gone. `(Hostile)`
 - Other *Mercenaries* are good. We can all go home if we work together.
-- *Extramis* are fine, they don't mess with us, so we don't mess with them.
-- *Troopers* have a weird sense of honor. Sell you a gun only to hunt you with it's sister.
+- *Extramis* are fine, they don't mess with us, so we don't mess with them. `(Neutral)`
+- *Troopers* have a weird sense of honor. Sell you a gun only to hunt you with it's sister. `(Hostile)`
 
 ##### Extramis
 Extramis is a loose collective of ex-soldiers and experienced seekers that claim to be members of [[Arthur's Knights]] with the common drive to liberate Minyostalma into the hands of the Arthurian people. While the validity of their claim to [[The Kingdom of Prosper]] is subject to question, their effectiveness within the Old is not.
@@ -137,11 +137,11 @@ Extramis is underequipped, but knowledgeable.
 	- *Extramis* work with either *Mercenaries* or *Scavengers* to fight against the other factions here.
 
 ###### Politics
-- *Scavangers* can be honorable.
-- *Militants* are enemies to us, holding us all here.
-- *Mercenaries* are typically dishonorable, but not an enemy to us.
-- Other *Extramis* will help you if you need it.
-- *Troopers* are typically dishonorable. Fight them when you can.
+- *Scavangers* can be honorable. They need us. `(Allied)`
+- *Militants* are enemies to us, holding us all here. `(Hostile)`
+- *Mercenaries* are typically dishonorable, but not an enemy to us. `(Neutral)`
+- Other *Extramis* will help you if you need it. 
+- *Troopers* are typically dishonorable. Fight them when you can. `(Hostile)`
 
 ##### Mountain Troopers
 Equipped and ordered by the [[Nobles of Mountain Hall]], the Mountain Troopers are most identifiable by their thick shining metal armors and their well supplied durandurm blasters.
@@ -171,10 +171,10 @@ The Mountain Troopers are well equipped. Typically, fresh Troopers sport Tank-Pl
 	- We try to keep the peace here for the sake of our profits.
 
 ###### Politics
-- *Scavangers* are fools, and poor ones at that. Don't let them pull anything.
-- *Militants* are reasonable, just trying to work. Sometimes, we need them gone, but usually we can leave them be.
-- *Mercenaries* are terrible. Greedy, sneaky bastards.
-- *Extramis* would be better off fighting against the Mercs, not with them. Shame we have to put them down too.
+- *Scavangers* are fools, and poor ones at that. Don't let them pull anything. `(Neutral)`
+- *Militants* are reasonable, just trying to work. Sometimes, we need them gone, but usually we can leave them be. `(Neutral)`
+- *Mercenaries* are terrible. Greedy, sneaky bastards. `(Hostile)`
+- *Extramis* would be better off fighting against the Mercs, not with them. Shame we have to put them down too. `(Hostile)`
 - Other *Troopers* are good folk. Even if we're not cousins, the blood we spill pushes us together.
 
 ##### Fallen
@@ -202,6 +202,6 @@ The Fallen are more than well equipped, sporting heavily modded Durandurm Carbin
 	- <Blessed be the Obelisk. Ohum, Obelisk. Blessed be the Obelisk. Ohum, Obelisk.>
 
 ###### Politics
-- Kill the heretic, burn the infidel, slay the invader.
-- Fight without honor, for your enemy will do the same.
-- If you become disabled, join the Obelisk in your final blaze.
+- Kill the heretic, burn the infidel, slay the invader. `(Hostile)`
+- Fight without honor, for your enemy will do the same. `(Hostile)`
+- If you become disabled, join the Obelisk in your final blaze. `(Hostile)`
