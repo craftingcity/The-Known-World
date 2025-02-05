@@ -38,11 +38,12 @@ Porter (1) - Alexandra
 Guard (5) - Tobias, Bhodi, Thomas, Marylynn, Roan
 Miner (8) - Sivir, Fulton, Marcus, Valerio, Toor, Revari, Pax, Saria
 
-At 8 hours of mining, and 8 miners at 2lb/hr, we make 128lbs of Raw Mithril
+At 12 hours of mining, and 8 miners at 2lb/hr, we make 128lbs of Raw Mithril
 
-150sp/oz * 16oz/lb * 128lb = 307,200sp
+8 miners * 12h * 2lb/hr = 192lb
+150sp/oz * 16oz/lb * 128lb = 460,800sp
 
-Minora is going to cut expenses first, so we'll say 275,000sp. We said we'd do 50%, but they might not actually notice, and we're doing the math to screw them.
+Minora is going to cut expenses first, so we'll say 450,000sp. We said we'd do 50%, but they might not actually notice, and we're doing the math to screw them.
 
 Miners get 15k each, leaving 155k. Porter gets 25k, leaving 130k. If we give guards 20k, Minora gets 30k.
 
@@ -65,8 +66,8 @@ Intellect Devourer (4)
 11 - Mary
 11 - Bhodi
 10 - The Slaves
-	A. 11, 
-	B. 11, 
+	~~A. 11, 22, 45~~
+	~~B. 11, 24, 36~~
 	~~C. 22, 37, 46~~
 	~~D. 22, 34, 45, 56~~
 	~~E. 22, 37, 50, ~~
@@ -77,6 +78,8 @@ Intellect Devourer (4)
 	~~C. 10, ~~
 	~~D. 15, 30~~
 	~~E. 6, 16, 23, ~~
+
+XP: (450 * 4) + (700 * 6) + (2900) = 1800 + 4200 + 2900
 
 ### What happened?
 
