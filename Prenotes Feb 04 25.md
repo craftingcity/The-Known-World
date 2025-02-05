@@ -20,6 +20,8 @@ With a lack of viable job opportunities, you pursue an entrepreneurial spirit, a
 
 Minora has graciously allowed you to stay with her and Tobias for now, and has quickly assembled a team of 9 others, excluding Tobias and yourselves, for this expedition. 
 
+> What do you do?
+
 Once you are prepared, and the group is assembled, you exit the city proper, and begin to follow Tobias' direction west, and down. The miners are strapped with equipment, and each carry a two-handed brass-encased drill, excepting one, who carries a leather messenger bag instead.
 
 You travel for more than half a day, down and around, through tunnels and caverns, some so small you must crawl through. You encounter some creatures on your way, but none who come close enough to conflict with you, and before the day's end, you arrive at a winding cavern, where each chamber breaks into three others, creating a mild maze of grey stone.
@@ -27,7 +29,14 @@ You travel for more than half a day, down and around, through tunnels and cavern
 "You smell that? That's Mithril. We'll mine here."
 
 ### What does the World Know?
+##### Minora's Mining Operation
 Minora is mining for Mithril, which should be a big profit. We're getting to where we need to be, mining for a day, and then heading back home. 
+
+```
+Foreman (1) - Minora
+Porter (1) - Alexandra
+Guard (5) - Tobias, Bhodi, Thomas, Marylynn, Roan
+Miner (8) - Sivir, Fulton, Marcus, Valerio, Toor, Revari, Pax, Saria
 
 At 8 hours of mining, and 8 miners at 2lb/hr, we make 128lbs of Raw Mithril
 
@@ -35,17 +44,19 @@ At 8 hours of mining, and 8 miners at 2lb/hr, we make 128lbs of Raw Mithril
 
 Minora is going to cut expenses first, so we'll say 275,000sp. We said we'd do 50%, but they might not actually notice, and we're doing the math to screw them.
 
-Miners get 15k each. Thats 120k, leaving 155k. Porter gets 25k, leaving 130k. If we give guards 20k, Minora gets 30k.
+Miners get 15k each, leaving 155k. Porter gets 25k, leaving 130k. If we give guards 20k, Minora gets 30k.
 
-Math says we need to say we're making 160k, making the 80k we're giving 50%.
+Math says we need to say we're making 160k, making the 80k we're giving the party '50%'.
+```
 
-All of this is 
+All of this is if we actually make it back up.
 
-##### Minora's Mining Operation
-Foreman (1) - Minora
-Porter (1) - Alexandra
-Guard (5) - Tobias, Bhodi, Thomas, Marylynn, Roan
-Miner (8) - Sivir, Fulton, Marcus, Valerio, Toor, Revari, Pax, Saria
+##### The Fight
+```
+Ilithid (1)
+Ilithid Slave (6)
+Intellect Devourer (4)
+```
 
 
 
