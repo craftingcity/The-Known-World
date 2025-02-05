@@ -132,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mithril",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.51240158081055,
-    "collapsed": true
+    "width": 322.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -334,7 +333,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8e8832e5f401a41",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Game Notes/NPCs/List of Names.md",
     "Prenotes Feb 04 25.md",
