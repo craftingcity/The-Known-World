@@ -215,7 +215,7 @@ Bull Whips are *finesse*, *long*, and *stashable*. Once per rest, you may use th
 Chain Whips are typically impromptu weapons in urban or industrial areas - a simple weight on the end of a metal chain, sometimes adorned in barbs or blades, spun around and then towards a target.
 
 Chain Whips deal 2d3 slashing damage.
-Chain Whips are *heavy*, *long*
+Chain Whips are *heavy*, *long*, *two-handed*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 #### Meteor Hammer
 #### Rope Dart
