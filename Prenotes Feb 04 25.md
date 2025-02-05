@@ -61,22 +61,22 @@ Intellect Devourer (4)
 ```
 
 ~~22 - The Ilithid 7, 22, 36, 54, 70~~
-13 - Roan
+13 - Rowan
 11 - Mary
 11 - Bhodi
 10 - The Slaves
-	A.
-	B.
-	C.
-	D.
-	E.
-	F.
+	A. 11, 
+	B. 11
+	C. 22, 37
+	D. 22
+	E. 22
+	F. 22
 9 - Thomas
 6 - The Iddies
-	A.
-	B.
-	C.
-	D.
+	B. 
+	~~C. 10, ~~
+	D. 15
+	E. 6, 16, 
 
 ### What happened?
 
