@@ -67,15 +67,15 @@ Intellect Devourer (4)
 10 - The Slaves
 	A. 11, 
 	B. 11
-	C. 22, 37
-	D. 22
-	E. 22
+	C. 22, 37, 
+	D. 22, 34, 
+	~~E. 22, 37, 50, ~~
 	F. 22
 9 - Thomas
 6 - The Iddies
-	B. 
+	~~B. 13, ~~
 	~~C. 10, ~~
-	D. 15
+	~~D. 15, 30~~
 	E. 6, 16, 
 
 ### What happened?
