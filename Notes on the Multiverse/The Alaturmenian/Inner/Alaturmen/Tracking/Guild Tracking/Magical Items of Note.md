@@ -275,7 +275,9 @@ aliases:
 	Source: Frankie Avaati (TL-G contained, confirmed deceased)
 	Last Known Keeper: KEEPER
 
-	Entry Description: ...
+	Entry Description: GME-016 is stored within Vault 1's Warm Storage sector in a cube of pure force over 6" in each diameter.
+
+	GME-016 is a simple golden ring enscribed with the phrase 'Money, Power, Respect' in Arthurian. While worn, if the wearer speaks the words "I wish", their following sentance is considered GME-016-1.
 ```
 
 ###### The Token of Indestructability

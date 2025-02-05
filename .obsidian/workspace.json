@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f335cd369a7cd5d9",
+        "id": "c4323fd9d036dd8b",
         "type": "tabs",
         "children": [
           {
-            "id": "e8e8832e5f401a41",
+            "id": "1650538dd8791a1b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,16 +22,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Feb 04 25.md",
+                "file": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Feb 04 25"
+              "title": "Armors of Alaturmen"
             }
           },
           {
-            "id": "7e813d0aa46934f5",
+            "id": "cc4dadcc7e080e38",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -45,16 +45,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Combat Mechanics and Positioning"
+              "title": "Weapons of Alaturmen"
             }
           },
           {
-            "id": "e4d6984b3208ea07",
+            "id": "e41612a46e273893",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -68,12 +68,109 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Jan 28 25.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Jan 28 25"
+              "title": "Magical Items of Note"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "e5058f8612f09e6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c025880ea6fb8c5c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magical Items of Note"
+            }
+          },
+          {
+            "id": "2f18091fcb16cd74",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
+              },
+              "icon": "lucide-image",
+              "title": "AlchemicalComponentMotifs"
+            }
+          },
+          {
+            "id": "90dc9bb6b8d7fadd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Guilded Mystic Entries"
+            }
+          },
+          {
+            "id": "aff37c1588540e98",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magic Item Authors"
             }
           }
         ]
@@ -125,7 +222,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mithril",
+                "query": "force",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,8 +276,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.51240158081055,
-    "collapsed": true
+    "width": 322.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -327,11 +423,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8e8832e5f401a41",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Prenotes Jan 28 25.md",
-    "Prenotes Feb 04 25.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
+    "Prenotes Feb 04 25.md",
     "Game Notes/NPCs/List of Names.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
