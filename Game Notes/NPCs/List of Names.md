@@ -126,7 +126,7 @@ aliases:
 | Talaveem    |       |
 | Tald        |       |
 | ben Yarom   |       |
-| Avishalom            |       |
+| Avishalom   |       |
 
 # Southwestern (Tetrimocal)
 ## First Names
