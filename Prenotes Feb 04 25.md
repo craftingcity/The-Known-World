@@ -60,7 +60,22 @@ Ilithid Slave (6)
 Intellect Devourer (4)
 ```
 
-
+22 - The Ilithid 7, 22, 36
+13 - Roan
+11 - Mary & Bhodi
+10 - The Slaves
+	A.
+	B.
+	C.
+	D.
+	E.
+	F.
+9 - Thomas
+6 - The Iddies
+	A.
+	B.
+	C.
+	D.
 
 ### What happened?
 

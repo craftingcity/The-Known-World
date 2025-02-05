@@ -31,7 +31,7 @@ Consuming a potion for yourself costs a **Bonus Action**. Forcing someone else t
 ## Flanking
 When two creatures surround an opponent, if they are not adjacent, the allies are *Flanking* their opponent, who is considered *Flanked*.
 
-A creature who is *Flanked* cannot be *Flanking* with their allies, and grants attacks against it have **Advantage**.
+A creature who is *Flanked* cannot be *Flanking* with their allies, and attacks against it have **Advantage**.
 
 ##### Examples
 In the following examples, 'A' and 'B' are allies, fighting 'P', 'Q', and 'R'. 'B' can occupy any of it's labeled spaces in the following examples.

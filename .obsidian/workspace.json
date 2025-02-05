@@ -31,6 +31,29 @@
             }
           },
           {
+            "id": "7e813d0aa46934f5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Combat Mechanics and Positioning"
+            }
+          },
+          {
             "id": "e4d6984b3208ea07",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -307,8 +330,9 @@
   "active": "e8e8832e5f401a41",
   "lastOpenFiles": [
     "Prenotes Jan 28 25.md",
-    "Game Notes/NPCs/List of Names.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Prenotes Feb 04 25.md",
+    "Game Notes/NPCs/List of Names.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
@@ -328,7 +352,6 @@
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
