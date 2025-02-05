@@ -208,10 +208,15 @@ Warscythes are *very heavy*, *long*, and *unwieldy*. Once per rest, you may use 
 #### Bull Whip
 The Bull Whip is a long, flexible length of leather typically used to control farm animals, although it does find use in controlling a battlefield as well.
 
-Bull Whips deal 1d4 peircing damage.
+Bull Whips deal 1d3 slashing damage.
 Bull Whips are *finesse*, *long*, and *stashable*. Once per rest, you may use this weapon's special ability;
 
 #### Chain Whip
+Chain Whips are typically impromptu weapons in urban or industrial areas - a simple weight on the end of a metal chain, sometimes adorned in barbs or blades, spun around and then towards a target.
+
+Chain Whips deal 2d3 slashing damage.
+Chain Whips are *heavy*, *long*
+
 #### Meteor Hammer
 #### Rope Dart
 
