@@ -60,9 +60,10 @@ Ilithid Slave (6)
 Intellect Devourer (4)
 ```
 
-22 - The Ilithid 7, 22, 36
+~~22 - The Ilithid 7, 22, 36, 54, 70~~
 13 - Roan
-11 - Mary & Bhodi
+11 - Mary
+11 - Bhodi
 10 - The Slaves
 	A.
 	B.
