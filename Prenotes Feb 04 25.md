@@ -20,9 +20,11 @@ With a lack of viable job opportunities, you pursue an entrepreneurial spirit, a
 
 Minora has graciously allowed you to stay with her and Tobias for now, and has quickly assembled a team of 9 others, excluding Tobias and yourselves, for this expedition. 
 
-Once you are prepared, and the group is assembled, you exit the city proper, and begin to follow Tobias' direction west, and down. 
+Once you are prepared, and the group is assembled, you exit the city proper, and begin to follow Tobias' direction west, and down. The miners are strapped with equipment, and each carry a two-handed brass-encased drill, excepting one, who carries a leather messenger bag instead.
 
+You travel for more than half a day, down and around, through tunnels and caverns, some so small you must crawl through. You encounter some creatures on your way, but none who come close enough to conflict with you, and before the day's end, you arrive at your destination - a winding cavern, where each chamber breaks into three others, creating a mild maze of grey stone.
 
+"You smell that? That's Mithril."
 
 ### What does the World Know?
 ##### Minora's Mining Operation
