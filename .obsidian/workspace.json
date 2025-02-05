@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.51240158081055
+    "width": 322.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -333,10 +334,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17bba7903284a409",
+  "active": "3ee29eb93f779588",
   "lastOpenFiles": [
-    "Game Notes/NPCs/List of Names.md",
     "Prenotes Feb 04 25.md",
+    "Game Notes/NPCs/List of Names.md",
     "Prenotes Jan 28 25.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",

@@ -106,8 +106,12 @@ aliases:
 | Hektor    | Enoch   |          |
 | Abraham   | Raam    |          |
 | Jorrin    | Valerio |          |
-| Marcus    | Roan        |          |
-| Nicolas   |         |          |
+| Marcus    | Roan    |          |
+| Nicolas   | Erez    |          |
+| Colin     |         |          |
+| Tomas     |         |          |
+| Mathias   |         |          |
+|           |         |          |
 
 ## Last Names
 
@@ -131,9 +135,12 @@ aliases:
 | ------------ | ------- | --------- |
 | Barthalamule | Dante   | Agrandica |
 | Boris        | Sivir   | Ginger    |
-| Edward       | Frin    | Saria          |
+| Edward       | Frin    | Saria     |
 | Fulton       | Pax     |           |
 | Houran       |         |           |
+| Hallis       |         |           |
+| Lucas        |         |           |
+| Doirin       |         |           |
 
 ## Last Names
 
@@ -180,7 +187,7 @@ Qholooji | Aibitiuks | Gnisotruls | Vrarakuuv
 
 Masc | Femme
 ---|---	
-Xonsu ben Benkaei | Shir Li ben Hafetz Hayim
+Xonsu ben | Shir Li ben Hafetz Hayim
 Math'hias | Yomi ben Ohav
 Sene ben Simata | Thea ben Avner
 Erez ben Alice | Mertek ben Akorf

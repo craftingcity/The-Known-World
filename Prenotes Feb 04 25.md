@@ -53,7 +53,9 @@ All of this is if we actually make it back up.
 
 ##### The Fight
 ```
-Ilithid (1)
+Ilithid (1) - Gather Slaves
+	- inf; (Detect Thoughts), (Misty Step), (Levitate)
+	- 1x; (Dominate Monster), (Feeblemind)
 Ilithid Slave (6)
 Intellect Devourer (4)
 ```
