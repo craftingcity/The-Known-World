@@ -238,10 +238,14 @@ Slings deal 1d4 bludgeoning damage.
 Slings are *quick*, *stashable*, *ammunition (0)*, and *ranged (30/120)*. Once per rest, you may use this weapon's special ability;
 
 #### Sling Staff
-Sling Staffs are long poles used to launch sling munitions even further than 
+Sling Staffs are long poles used to launch sling munitions further than a simple sling can, but at the cost of time spent reloading the weapon. When necessary, the wielder can use the staff as a simple melee weapon.
+
+Sling Staffs deal 1d4 bludgeoning damage.
+Sling Staffs are *ammunition (1)*, and *ranged (60/300)*. Once per rest, you may use this weapon's special ability;
 
 ##### Bolts
 #### Light Crossbow
+
 #### Hand Crossbow
 ##### Arrows
 #### Short Bow
@@ -254,11 +258,10 @@ Durandurm Handblasters are small elemental firearms designed as a secondary weap
 Durandurm Handblasters deal 1d6 typed damage.
 Durandurm Handblasters are *ammunition (10)* and *ranged (45/120)*. Once per rest, you may use this weapon's special ability;
 
-| Name / Classification | Range  | Damage   | Original Producer    | Note                                                                                 |
-| --------------------- | ------ | -------- | -------------------- | ------------------------------------------------------------------------------------ |
-| YI-A88 'Hand Cannon'  | 30/90  | 2d6 ammo | Yosimmite Industries | The prototype of the YI-A90, less than 40 were ever produced.                        |
-| YI-A90 'Hand Blaster' | 45/120 | 1d6 ammo | Yosimmite Industries | The dominant sidearm in the Durandurm arsenal before the Age of Warfare expanded it. |
-|                       |        |          |                      |                                                                                      |
+| Name / Classification | Range  | Damage   | Original Producer    | Note                                                                     |
+| --------------------- | ------ | -------- | -------------------- | ------------------------------------------------------------------------ |
+| YI-A88 'Sandstone'    | 30/90  | 2d6 ammo | Yosimmite Industries | The prototype of the YI-A90, less than 40 were ever produced.            |
+| YI-A90 'Basalt'       | 45/120 | 1d6 ammo | Yosimmite Industries | The dominant sidearm in the Durandurm arsenal before the Age of Warfare. |
 
 ##### Firepowder Operated
 #### Boltshot Firepowder Blaster
@@ -286,7 +289,8 @@ Durandurm Handblasters are *ammunition (10)* and *ranged (45/120)*. Once per res
 #### Durandurm Scatterblaster
 #### Durandurm Cannon
 ##### Firepowder Operated
-#### Firepowder Blaster
+#### Firepowder Longblaster
+#### Firepowder Carbine
 #### Firepowder Rotary Repeater
 #### Firepowder Scatterblaster
 #### Firepowder Cannon

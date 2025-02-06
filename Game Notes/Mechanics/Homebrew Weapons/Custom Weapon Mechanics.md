@@ -66,8 +66,10 @@ This weapon is designed to be thrown. The first item in the range column is the 
 ### Ammunition (X)
 This weapon is designed to fire some type of ammunition. The number displayed in parentheses directly after this tag is the number of ammunitions able to be fired before one must take a Reload Bonus Action. If the number is 0, you are reloading the weapon as a part of your Attack with it.
 
-### Ra
-The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon; making such a distanced attack puts the attack roll at disadvantage.
+### Ranged (X/Y)
+The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon; making such a distanced Attack puts the attack roll at Disadvantage.
+
+Attacks made with this weapon use your Dexterity Modifier.
 
 ### Siege
 This weapon is so large or unwieldy that it requires a full action to prepare before it can be used to make any kind of weapon attacks or moved. 
