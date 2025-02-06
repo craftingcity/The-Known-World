@@ -291,6 +291,11 @@ Boltshot Firepowder Scatterblasters are *two-handed*, *ammunition (1)*, and *ran
 ### Martial Ranged Weapons
 ##### Thrown
 #### Javelin
+Javelin are large darts or small spears with sharp metal tips thrown at a target at range.
+
+Javelin deal 1d6 piercing damage.
+Javelin are *thrown (25/100)*. Once per rest, you may use this weapon's special ability;
+
 #### Bolas
 #### Throwing Blade
 #### Throwing Axe
@@ -365,7 +370,7 @@ Firepowder Shot are created in standard size-forms for a given make or model of 
 
 ## Specialized Weaponry
 ##### Explosives
-#### Clay Fire-Bomb
+#### Fire-Bomb
 #### Pipe Bomb
 #### Chili Grenade
 #### Pineapple Grenade
@@ -378,3 +383,9 @@ Firepowder Shot are created in standard size-forms for a given make or model of 
 #### Elemental Implement
 
 ## Common Weave Patches
+##### Melee Weapon Patches
+#### Balanced (I - V)
+
+
+##### Ranged Weapon Patches
+##### Implement Patches

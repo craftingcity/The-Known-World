@@ -44,7 +44,7 @@ Switching your blade-holding stance can be done as a free action on your turn so
 Characters of size categories Large or higher may always use the higher Damage Dice, even when wielding this weapon with one hand.
 
 ### Finesse
-This weapon is designed to be used by skill rather than force. A weilder's DEX is used in place of their STR while making attack and damage rolls with this weapon.
+This weapon is designed to be used by skill rather than force. A wielder's DEX is used in place of their STR while making attack and damage rolls with this weapon.
 
 ### Two-Handed
 This weapon must be held in two hands to be wielded effectively. If wielded in one hand, any weapon attacks are made with Disadvantage. 
@@ -61,15 +61,15 @@ This weapon has a "reach" of roughly 10 feet, though exactly that much when perf
 This weapon can be stored in such a matter that it requires no slots of your carrying capacity to do so.
 
 ### Thrown
-This weapon is designed to be thrown. The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon; making such a distanced attack puts the attack roll at disadvantage.
+This weapon is designed to be thrown. The first number displayed in parentheses directly after this tag is the default range of the weapon. The second number displayed in parentheses directly after this tag is the extended range of the weapon; making such a distanced attack puts the attack roll at disadvantage.
 
 ### Ammunition (X)
 This weapon is designed to fire some type of ammunition. The number displayed in parentheses directly after this tag is the number of ammunitions able to be fired before one must take a Reload Bonus Action. If the number is 0, you are reloading the weapon as a part of your Attack with it.
 
 ### Ranged (X/Y)
-The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon; making such a distanced Attack puts the attack roll at Disadvantage.
+The first number displayed in parentheses directly after this tag is the default range of the weapon. The second number displayed in parentheses directly after this tag is the extended range of the weapon; making such a distanced Attack puts the attack roll at Disadvantage.
 
-Attacks made with this weapon use your Dexterity Modifier.
+A wielder's DEX is used in place of their STR while making attack and damage rolls with this weapon.
 
 ### Siege
 This weapon is so large or unwieldy that it requires a full action to prepare before it can be used to make any kind of weapon attacks or moved. 
@@ -84,7 +84,7 @@ The first item in the range column is the default range of the weapon. The secon
 #### Hitch
 This weapon is designed to be possibly attached to some length of rope or string. In doing so, one could create the weapon known as a *Rope Dart*, or, one could use the weapon as a piton or something else of the sort.
 
-#### Lasso
+#### Lassoing
 This weapon is designed with the sole intention of ensnaring and restraining creatures. 
 
 When you make an attack with this weapon, roll a weapon attack as normal. Your target will make a Dexterity Saving Throw versus your total Attack Roll. If they fail, they are restrained by your weapon.
@@ -92,34 +92,10 @@ When you make an attack with this weapon, roll a weapon attack as normal. Your t
 As an action, a creature under this effect may attempt to free themselves, and end the effect, by succeeding on a Strength Saving Throw of DC 13.
 
 This weapon is vulnerable to slashing damage, has an AC of 12, and a Vitality of 15. It can endure no Wounds.
-
-#### Kurasi-Gama
-This weapon is designed with the intention that it could be used at close or medium range.
-
-When you make an attack with this weapon against a creature within 5ft of you, the attack deals slashing damage. When you make an attack with this weapon against a creature *without* 5ft of you, the attack deals bludgeoning damage.
-
-#### Net, Rope
-This weapon is designed with the sole intention of ensnaring and restraining creatures. 
-
-When you make an attack with this weapon, roll a weapon attack as normal. Your target will make a Dexterity Saving Throw versus your total Attack Roll. If they fail, they are restrained by your weapon.
-
-As an action, a creature under this effect may attempt to free themselves, and end the effect, by succeeding on a Strength Saving Throw of DC 14.
-
-If this weapon is vulnerable to slashing damage, has an AC of 13, and a Vitality of 15. It can endure no Wounds.
-
-#### Net, Wire
-This weapon is designed with the sole intention of ensnaring and restraining creatures. 
-
-When you make an attack with this weapon, roll a weapon attack as normal. Your target will make a Dexterity Saving Throw versus your total Attack Roll. If they fail, they are restrained by your weapon.
-
-As an action, a creature under this effect may attempt to free themselves, and end the effect, by succeeding on a Strength Saving Throw of DC 16.
-
-If this weapon is vulnerable to slashing damage, has an AC of 14, and a Vitality of 20. It can endure no Wounds.
-
 #### Burning
 This weapon shoots some liquid or gas that quickly ignites. When you hit a target with an attack from this weapon, in addition to the normal attack damage, your target(s) make a Dexterity Saving Throw. If they fail, you apply a stack of Burning.
 
-At the beginning of a Burning creature's turn, you deal an amount of damage to them as if you had just hit them with a weapon attack. A Burning creature may spend a Full Action or all of their Movement to remove one stack of Burning.
+At the beginning of a Burning creature's turn, you deal damage to them as if you had just hit them with a weapon attack. A Burning creature may spend a Full Action or all of their Movement to remove one stack of Burning.
 
 # Weapon Specials
 Each of the following "Specials" may only be used once between rests.
