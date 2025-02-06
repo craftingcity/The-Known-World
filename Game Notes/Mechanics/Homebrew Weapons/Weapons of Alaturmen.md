@@ -245,12 +245,19 @@ Sling Staffs are *ammunition (1)*, and *ranged (60/300)*. Once per rest, you may
 
 ##### Bolts
 #### Light Crossbow
+Light Crossbows are stable platforms that use pullies to store tension and launch their projectiles. Light Crossbows are less heavy, but less powerful than the Heavy alternative.
+
+Light Crossbows deal 2d4 piercing damage.
+Light Crossbows are *quick*, *two-handed*, *ammunition (1)*, and *ranged (45/180)*. Once per rest, you may use this weapon's special ability;
 
 #### Hand Crossbow
+Hand Crossbows are small, stable platforms that use pullies to store tension and launch their bolts. Hand Crossbows are the smallest, and therefore weakest, form of Crossbow.
+
+Hand Crossbows deal 1d6 piercing damage.
+Hand Crossbows are *quick*, *ammunition (1)*, and *ranged (30/120)*. Once per rest, you may use this weapon's special ability;
+
 ##### Arrows
 #### Short Bow
-#### Reflex Bow
-#### Long Bow
 ##### Durandurm Operated
 #### Durandurm Handblaster
 Durandurm Handblasters are small elemental firearms designed as a secondary weapon to the Carbine during sustained firefights.
@@ -280,8 +287,7 @@ Durandurm Handblasters are *ammunition (10)* and *ranged (45/120)*. Once per res
 #### Heavy Crossbow
 #### Repeating Crossbow
 ##### Arrows
-#### Recurve Bow
-#### Compound Bow
+#### Longbow
 ##### Durandurm Operated
 #### Durandurm Longblaster
 #### Durandurm Carbine
@@ -289,7 +295,7 @@ Durandurm Handblasters are *ammunition (10)* and *ranged (45/120)*. Once per res
 #### Durandurm Scatterblaster
 #### Durandurm Cannon
 ##### Firepowder Operated
-#### Firepowder Longblaster
+#### Firepowder Blaster
 #### Firepowder Carbine
 #### Firepowder Rotary Repeater
 #### Firepowder Scatterblaster
