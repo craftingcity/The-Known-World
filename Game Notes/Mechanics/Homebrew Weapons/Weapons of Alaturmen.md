@@ -258,6 +258,8 @@ Hand Crossbows are *quick*, *ammunition (1)*, and *ranged (30/120)*. Once per re
 
 ##### Arrows
 #### Short Bow
+Short Bows are simple curved platforms that bends with tension applied through a connecting string. 
+
 ##### Durandurm Operated
 #### Durandurm Handblaster
 Durandurm Handblasters are small elemental firearms designed as a secondary weapon to the Carbine during sustained firefights.
