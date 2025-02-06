@@ -260,6 +260,9 @@ Hand Crossbows are *quick*, *ammunition (1)*, and *ranged (30/120)*. Once per re
 #### Short Bow
 Short Bows are simple curved platforms that bends with tension applied through a connecting string. 
 
+Short Bows deal 1d6 piercing damage.
+Short Bows are *two-handed*, *ammunition (1)*, and *ranged (30/120)*. Once per rest, you may use this weapon's special ability;
+
 ##### Durandurm Operated
 #### Durandurm Handblaster
 Durandurm Handblasters are small elemental firearms designed as a secondary weapon to the Carbine during sustained firefights.
@@ -274,6 +277,10 @@ Durandurm Handblasters are *ammunition (10)* and *ranged (45/120)*. Once per res
 
 ##### Firepowder Operated
 #### Boltshot Firepowder Blaster
+Boltshot Firepowder Blasters are single-shot, manual loading, bolt-action firepowder rifles. Originally made of stone and bronze, most manufactures have matured into a full-metal construction.
+
+Boltshot Firepowder Blasters deal 1d10
+
 #### Boltshot Firepowder Scatterblaster
 
 ### Martial Ranged Weapons
@@ -297,11 +304,11 @@ Durandurm Handblasters are *ammunition (10)* and *ranged (45/120)*. Once per res
 #### Durandurm Scatterblaster
 #### Durandurm Cannon
 ##### Firepowder Operated
-#### Firepowder Blaster
-#### Firepowder Carbine
-#### Firepowder Rotary Repeater
-#### Firepowder Scatterblaster
-#### Firepowder Cannon
+#### Reakshot Firepowder Blaster
+#### Reakshot Firepowder Carbine
+#### Beltshot Firepowder Rotary Repeater
+#### Boltshot Firepowder Scatterblaster
+#### Boltshot Firepowder Cannon
 
 ### Ranged Ammunition
 ##### Stones
