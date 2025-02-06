@@ -208,22 +208,38 @@ Warscythes are *very heavy*, *long*, and *unwieldy*. Once per rest, you may use 
 #### Bull Whip
 The Bull Whip is a long, flexible length of leather typically used to control farm animals, although it does find use in controlling a battlefield as well.
 
-Bull Whips deal 1d3 slashing damage.
+Bull Whips deal 1d4 slashing damage.
 Bull Whips are *finesse*, *long*, and *stashable*. Once per rest, you may use this weapon's special ability;
 
 #### Chain Whip
 Chain Whips are typically impromptu weapons in urban or industrial areas - a simple weight on the end of a metal chain, sometimes adorned in barbs or blades, spun around and then towards a target.
 
-Chain Whips deal 2d3 slashing damage.
+Chain Whips deal 2d6 slashing damage.
 Chain Whips are *heavy*, *long*, *two-handed*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 #### Meteor Hammer
+Meteor Hammers are a long sturdy rope or chain with a weight at one end. When quickly spun and slammed into an opponent, the Meteor Hammer can deal massive damage.
+
+Meteor Hammers deal 2d8 bludgeoning damage.
+Meteor Hammers are *heavy*, *long*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
+
 #### Rope Dart
+Rope Darts are long strings with a small weight or blade on their end. When appropriately maneuvered, even drawing the Rope Dart can be a deadly attack.
+
+Rope Darts deal 1d6 bludgeoning damage.
+Rope Darts are *quick*, *finesse*, *long*, and *stashable*. Once per rest, you may use this weapon's special ability;
 
 ### Simple Ranged Weapons
 ##### Stones
 #### Sling
+Slings are simple straps of leather or woven textiles that are quickly spun and released to fire stones or other small projectiles.
+
+Slings deal 1d4 bludgeoning damage.
+Slings are *quick*, *stashable*, *ammunition (0)*, and *ranged (30/120)*. Once per rest, you may use this weapon's special ability;
+
 #### Sling Staff
+Sling Staffs are long poles used to launch sling munitions even further than 
+
 ##### Bolts
 #### Light Crossbow
 #### Hand Crossbow
@@ -233,14 +249,14 @@ Chain Whips are *heavy*, *long*, *two-handed*, and *unwieldy*. Once per rest, yo
 #### Long Bow
 ##### Durandurm Operated
 #### Durandurm Handblaster
-Durandurm Handblasters are small elemental firearms designed as a secondary weapon used during sustained firefights.
+Durandurm Handblasters are small elemental firearms designed as a secondary weapon to the Carbine during sustained firefights.
 
 Durandurm Handblasters deal 1d6 typed damage.
 Durandurm Handblasters are *ammunition (10)* and *ranged (45/120)*. Once per rest, you may use this weapon's special ability;
 
 | Name / Classification | Range  | Damage   | Original Producer    | Note                                                                                 |
 | --------------------- | ------ | -------- | -------------------- | ------------------------------------------------------------------------------------ |
-| YI-A88 'Hand Cannon'  | 30/90  | 2d4 ammo | Yosimmite Industries | The prototype of the YI-A90, less than 40 were ever produced.                        |
+| YI-A88 'Hand Cannon'  | 30/90  | 2d6 ammo | Yosimmite Industries | The prototype of the YI-A90, less than 40 were ever produced.                        |
 | YI-A90 'Hand Blaster' | 45/120 | 1d6 ammo | Yosimmite Industries | The dominant sidearm in the Durandurm arsenal before the Age of Warfare expanded it. |
 |                       |        |          |                      |                                                                                      |
 

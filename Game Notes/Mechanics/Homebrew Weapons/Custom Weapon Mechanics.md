@@ -64,8 +64,9 @@ This weapon can be stored in such a matter that it requires no slots of your car
 This weapon is designed to be thrown. The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon; making such a distanced attack puts the attack roll at disadvantage.
 
 ### Ammunition (X)
-This weapon is designed to fire some type of ammunition. The number displayed in parentheses directly after this tag is the number of ammunitions able to be fired before one must take a Reload Bonus Action.
+This weapon is designed to fire some type of ammunition. The number displayed in parentheses directly after this tag is the number of ammunitions able to be fired before one must take a Reload Bonus Action. If the number is 0, you are reloading the weapon as a part of your Attack with it.
 
+### Ra
 The first item in the range column is the default range of the weapon. The second item in the range column is the extended range of the weapon; making such a distanced attack puts the attack roll at disadvantage.
 
 ### Siege

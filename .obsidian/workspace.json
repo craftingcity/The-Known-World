@@ -502,104 +502,152 @@
         "type": "window",
         "children": [
           {
-            "id": "c6bf5452ac8f9c76",
-            "type": "tabs",
-            "dimension": 63.415841584158414,
+            "id": "a2974f128104b860",
+            "type": "split",
             "children": [
               {
-                "id": "fe81db0d131128be",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
+                "id": "c6bf5452ac8f9c76",
+                "type": "tabs",
+                "dimension": 53.66894197952219,
+                "children": [
+                  {
+                    "id": "fe81db0d131128be",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "state": "{}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+                        "mode": "source",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "The People..."
                     }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
-                    "mode": "source",
-                    "source": true
                   },
-                  "icon": "lucide-file",
-                  "title": "The People..."
-                }
+                  {
+                    "id": "ab5f0003b1156a91",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "state": "{}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                        "mode": "source",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "Weapons of Alaturmen"
+                    }
+                  }
+                ],
+                "currentTab": 1
               },
               {
-                "id": "ab5f0003b1156a91",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-                    "mode": "source",
-                    "source": true
+                "id": "e83f6449831a34cb",
+                "type": "split",
+                "dimension": 46.33105802047782,
+                "children": [
+                  {
+                    "id": "aefc6b5b4855e2cb",
+                    "type": "tabs",
+                    "dimension": 69.7029702970297,
+                    "children": [
+                      {
+                        "id": "576a4f58436ebc57",
+                        "type": "leaf",
+                        "pane-relief:history-v1": {
+                          "pos": 0,
+                          "stack": [
+                            {
+                              "state": "{}",
+                              "eState": "{}"
+                            }
+                          ]
+                        },
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+                            "mode": "source",
+                            "source": true
+                          },
+                          "icon": "lucide-file",
+                          "title": "Custom Weapon Mechanics"
+                        },
+                        "group": "2ef4828999666fec"
+                      }
+                    ]
                   },
-                  "icon": "lucide-file",
-                  "title": "Weapons of Alaturmen"
-                }
+                  {
+                    "id": "b2ec6fe87adf64d4",
+                    "type": "tabs",
+                    "dimension": 30.297029702970296,
+                    "children": [
+                      {
+                        "id": "34cb71d594e4d7f6",
+                        "type": "leaf",
+                        "pane-relief:history-v1": {
+                          "pos": 0,
+                          "stack": [
+                            {
+                              "state": "{}",
+                              "eState": "{}"
+                            }
+                          ]
+                        },
+                        "state": {
+                          "type": "outline",
+                          "state": {
+                            "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+                            "followCursor": false,
+                            "showSearch": false,
+                            "searchQuery": ""
+                          },
+                          "icon": "lucide-list",
+                          "title": "Outline of Custom Weapon Mechanics"
+                        },
+                        "group": "2ef4828999666fec"
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
               }
             ],
-            "currentTab": 1
-          },
-          {
-            "id": "277f148deca3c880",
-            "type": "tabs",
-            "dimension": 36.584158415841586,
-            "children": [
-              {
-                "id": "576a4f58436ebc57",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Custom Weapon Mechanics"
-                }
-              }
-            ]
+            "direction": "horizontal"
           }
         ],
         "direction": "vertical",
-        "x": 256,
-        "y": 56,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": -1.5
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 912,
+        "maximize": false,
+        "zoom": -2
       }
     ]
   },
-  "active": "ab5f0003b1156a91",
+  "active": "576a4f58436ebc57",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
