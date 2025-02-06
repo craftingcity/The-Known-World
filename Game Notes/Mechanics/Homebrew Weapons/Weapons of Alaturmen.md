@@ -283,7 +283,10 @@ Boltshot Firepowder Blasters deal 1d10 piercing damage.
 Boltshot Firepowder Blasters are *two-handed*, *ammunition (1)*, and *ranged (120/600)*. Once per rest, you may use this weapon's special ability;
 
 #### Boltshot Firepowder Scatterblaster
-Boltshot Firepowder Scatterblasters are single-shot, manual loading, bolt-action, firepower scatterguns. 
+Boltshot Firepowder Scatterblasters are single-shot, manual loading, bolt-action, firepower scatterguns. The ammunition used is a collection of tiny metal balls stored in a thin metallic casing.
+
+Boltshot Firepowder Scatterblasters deal 3d10 piercing damage in a 15' cone divided by the number of creatures hit.
+Boltshot Firepowder Scatterblasters are *two-handed*, *ammunition (1)*, and *ranged (15)*. Once per rest, you may use this weapon's special ability;
 
 ### Martial Ranged Weapons
 ##### Thrown
