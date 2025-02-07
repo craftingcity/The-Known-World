@@ -383,9 +383,12 @@ Firepowder Shot are created in standard size-forms for a given make or model of 
 #### Elemental Implement
 
 ## Common Weave Patches
+##### Uniform Weapon Patches
 ##### Melee Weapon Patches
 #### Balanced (I - V)
+The weapon is magically balanced, providing additional accuracy and power to every attack made.
 
+When you make an Attack Roll or a Damage Roll with this weapon, add a number equal to the Patch Power to the Roll. 
 
 ##### Ranged Weapon Patches
 ##### Implement Patches
