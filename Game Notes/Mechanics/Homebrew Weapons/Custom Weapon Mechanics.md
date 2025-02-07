@@ -91,11 +91,13 @@ When you make an attack with this weapon, roll a weapon attack as normal. Your t
 
 As an action, a creature under this effect may attempt to free themselves, and end the effect, by succeeding on a Strength Saving Throw of DC 13.
 
-This weapon is vulnerable to slashing damage, has an AC of 12, and a Vitality of 15. It can endure no Wounds.
 #### Burning
 This weapon shoots some liquid or gas that quickly ignites. When you hit a target with an attack from this weapon, in addition to the normal attack damage, your target(s) make a Dexterity Saving Throw. If they fail, you apply a stack of Burning.
 
 At the beginning of a Burning creature's turn, you deal damage to them as if you had just hit them with a weapon attack. A Burning creature may spend a Full Action or all of their Movement to remove one stack of Burning.
+
+#### Grenade (X)
+This weapon is a grenade, designed to be readied, thrown, and then explode. When you make an Attack with a grenade, instead of making an Attack Roll, make an Athletics Check. You may throw the grenade a number of feet equal to twice the total of your Athletics Check.
 
 # Weapon Specials
 Each of the following "Specials" may only be used once between rests.

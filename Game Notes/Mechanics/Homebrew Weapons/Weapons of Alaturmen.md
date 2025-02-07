@@ -209,19 +209,19 @@ Warscythes are *very heavy*, *long*, and *unwieldy*. Once per rest, you may use 
 The Bull Whip is a long, flexible length of leather typically used to control farm animals, although it does find use in controlling a battlefield as well.
 
 Bull Whips deal 1d4 slashing damage.
-Bull Whips are *finesse*, *long*, and *stashable*. Once per rest, you may use this weapon's special ability;
+Bull Whips are *finesse*, *lassoing*, *long*, and *stashable*. Once per rest, you may use this weapon's special ability;
 
 #### Chain Whip
 Chain Whips are typically impromptu weapons in urban or industrial areas - a simple weight on the end of a metal chain, sometimes adorned in barbs or blades, spun around and then towards a target.
 
 Chain Whips deal 2d6 slashing damage.
-Chain Whips are *heavy*, *long*, *two-handed*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
+Chain Whips are *heavy*, *long*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 #### Meteor Hammer
 Meteor Hammers are a long sturdy rope or chain with a weight at one end. When quickly spun and slammed into an opponent, the Meteor Hammer can deal massive damage.
 
-Meteor Hammers deal 2d8 bludgeoning damage.
-Meteor Hammers are *heavy*, *long*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
+Meteor Hammers deal 2d12 bludgeoning damage.
+Meteor Hammers are *heavy*, *two-handed*, *long*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 #### Rope Dart
 Rope Darts are long strings with a small weight or blade on their end. When appropriately maneuvered, even drawing the Rope Dart can be a deadly attack.
@@ -297,6 +297,11 @@ Javelin deal 1d6 piercing damage.
 Javelin are *thrown (25/100)*. Once per rest, you may use this weapon's special ability;
 
 #### Bolas
+Bolas are a pair of weighted balls connected by a sturdy length of leather or fabric, and are used to restrain an enemy at range before closing in with your preferred weapons.
+
+Bolas deal 1d4 bludgeoning damage.
+Bolas are *lassoing* and *thrown (20/60)*.
+
 #### Throwing Blade
 #### Throwing Axe
 #### Boomerang
@@ -366,8 +371,6 @@ Firepowder Shot are created in standard size-forms for a given make or model of 
 | --------------------- | ---- | ----------------- | ---- |
 | -                     | -    |                   |      |
 
-## Cultural Weaponry
-
 ## Specialized Weaponry
 ##### Explosives
 #### Fire-Bomb
@@ -381,6 +384,8 @@ Firepowder Shot are created in standard size-forms for a given make or model of 
 #### Arcane Implement
 #### Divine Implement
 #### Elemental Implement
+
+#####
 
 ## Common Weave Patches
 ##### Uniform Weapon Patches

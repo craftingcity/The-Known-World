@@ -19,10 +19,7 @@ When a creature is *Prone*, they are lying on the floor. Standing from *Prone* c
 
 While *Prone*, a creature has **Disadvantage** on **Attack Rolls** if they are not making that **Attack** with a *Firearm*. Additionally, they grant **Disadvantage** to ranged attacks against them, but **Advantage** to **Attacks** within 5'.
 
-## Thrown Weapons and Objects
-Non-traditional throwing weapons, such as alchemical reagents or explosive grenades, use a standard **Attack** when thrown. After choosing a target, the attacker makes an **Athletics** Skill Check. If the result is 20 or higher, they are completely accurate. If the result is less than 20, they are inaccurate by 1 space at 15 or above, by 2 spaces at 10 or above, or by 3 spaces at 5 or above. If the result is a 1, they drop it in front of themselves.
-
-## Changing Weapons
+## Changing Weapons During Combat
 
 ## Ammunition
 Most Ranged Weapons consume Ammunition. If that Ammunition is not *Fragile*, it can be recollected in entirety by spending time and making an **Investigation** Skill Check. If the result is 15 or more, all used Ammunition is recovered. If the result is less than 15, three-quarters is recovered at 10 or above, and half is recovered at 5 or above.
