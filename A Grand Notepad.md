@@ -175,6 +175,11 @@ Artifacts:
 	- Fire Heart-Ruby (3/10)
 
 
+#### Jewel's Troopers - Ruby 7
+##### Cpl. Spitfire
+##### Pvt. Ace
+##### Pvt. Maverick
+##### Pvt. Goose
 ## RHOD (depreciated)
 ##### To-Do
 - rewrite Powerful Form and Powerful Build; ignore two-handed restrictions

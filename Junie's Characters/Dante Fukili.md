@@ -50,7 +50,7 @@ Day to day, she spends most of her money on ammunition. Food and Water are thing
 #### Entering Minyostalma
 I met up with 'Jewels', my contact to get into Minyostalma. We'll go rock hunting eventually, but we need money first.
 
-Jewels introduced me to Ace, Mavarik, Goose, and Spitfire. Spitfire's a cutie.
+Jewels introduced me to Ace, Maverick, Goose, and Spitfire. Spitfire's a cutie.
 
 There's a contract out on a gang of Scavs who are hanging out in the *Showroom*, or we could go get supplies in the *Base*, or hunt for rocks in the *Forests*.
 
