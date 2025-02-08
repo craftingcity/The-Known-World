@@ -53,6 +53,7 @@ for the graph: [[Here lie my suppliments...]]
 - **[[Mild Power]]**
 - **Weak Power**
 	- **[[Combine Citizens]]**
+	- **Folk of No Means**
 	- **King's Tenants**
 		- [[Balthazar Wumfingle]]
 		- [[Barret Bodaim]]
