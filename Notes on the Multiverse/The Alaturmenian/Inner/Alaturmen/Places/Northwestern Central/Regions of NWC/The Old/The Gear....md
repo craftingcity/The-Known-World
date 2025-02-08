@@ -13,7 +13,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | --------------------------- | ------ | --------- | ------------------- | --------- | -------- | ---------- |
 | Steel Machete               | 5ft    | slashing  | 2d4+STR             | none      | all      | 0.1        |
 | Scavenged Handblaster       | 30/90  | dunam     | 1d6+DEX             | durandurm | all      | 0.25       |
-| Scavended Scatterblaster    |        |           |                     |           |          |            |
+| Scavended Scatterblaster    | 10'    | dunam     | 3d6+DEX             | durandurm | all      | 0.35       |
 | Scavenged Repeating Blaster | 60/180 | dunam     | 3d6+DEX             | durandurm | all      | 0.5        |
 | Pipe Grenade                | 0-20   | explosive | 10ft sphere, 3d6+16 | n/a       | all      | 0.2        |
 | Homemade Fire-Bomb          | 0-20   | fire      | 5ft sphere, 3d4+8   | n/a       | all      | 0.1        |
@@ -23,7 +23,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | --------------------------- | ------- | ------------- | -------------------- | --------- | --------- | ---------- |
 | Handblaster                 | 45/120  | dunam         | 1d6+DEX              | durandurm | all       | 0.3        |
 | Longblaster                 | 120/500 | dunam         | 1d10+DEX             | durandurm | all       | 0.5        |
-| Scatterblaster              |         |               |                      |           |           |            |
+| Scatterblaster              | 15'     | dunam         | 5d6+DEX              | durnadurm | all       | 0.6        |
 | Repeating Blaster / Carbine | 90/360  | dunam         | 3d6+DEX              | durandurm | all       | 0.75       |
 | Machine Repeater            | 45/120  | dunam         | 3x(1d6+DEX)          | durandurm | all       | 1.0        |
 | Pineapple Grenade           | 0-20    | slash & force | 15ft sphere, 5d6+20  | n/a       | all       | 0.3        |
@@ -32,21 +32,23 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Hillsight Shaped Mine       | -       | slash & force | 10ft cone, 4d10+25   | n/a       | all       | 2.4        |
 
 ###### Durandurm Upgrades
-| Name                                | Range  | Type | Use                                        | Ammo? | Imprters             | Cost in AC |
-| ----------------------------------- | ------ | ---- | ------------------------------------------ | ----- | -------------------- | ---------- |
-| Loose Trigger                       | -      | side | multishot per d6, -2 to hit                | n/a   | all                  | 0.2        |
-| Advanced Sight Scope                | -      | upg. |                                            |       |                      |            |
-| Refined Handblaster Receiver        | -      | upg. | +1 to hit, +1 dam                          | n/a   | mercs, troopers      | 2.0        |
-| Blessed Handblaster Receiver        | -      | upg. | +1d4 to hit, +1d4                          | n/a   | wfm, extramis        | 2.0        |
-| Extended Handblaster Barrel         | +5/+30 | upg. | +1d6                                       | n/a   | all                  | 4.0        |
-| Refined Carbine Receiver            | -      | upg  | +2 to hit, +2 dam                          | n/a   | mercs                | 3.2        |
-| Dual-pop Carbine Receiver           | -      | upg  | +1 to hit, +1d6                            | n/a   | mercs, troopers, wfm | 4.0        |
-| Ares Manual-Switch Carbine Receiver | 45/120 | upg. | multishot per d6                           | n/a   | scavs, troopers      | 1.5        |
-| Magazine Extender, 20-shot          | -      | upg. | 2x mag cap                                 | n/a   | all                  | 0.8        |
-| Magazine Extender, 40-shot          | -      | upg. | 4x mag cap                                 | n/a   | all                  | 2.4        |
-| Magazine Belt Feeder                | -      | upg. | 12x mag cap                                | n/a   | all                  | 5.6        |
-| TacLight! Cone Lamp                 | 45/90  | upg. | Dim light for 90', bright for 45'          | n/a   | all                  |            |
-| TacLight! Prefire Tracer Module     | 30/90  | upg. | +2 to hit within 30', +1 to hit within 90' | n/a   | all                  |            |
+| Name                                | Range   | Type | Use                                        | Ammo? | Imprters             | Cost in AC |
+| ----------------------------------- | ------- | ---- | ------------------------------------------ | ----- | -------------------- | ---------- |
+| Loose Trigger                       | -       | side | multishot per d6, -2 to hit                | n/a   | all                  | 0.2        |
+| Advanced Sight Scope                | -       | upg. |                                            |       |                      |            |
+| Tight Tracer Muzzle Attachment      | -5/-30  | side |                                            |       |                      |            |
+| Tracer Suppresser Muzzle System     | -15/-90 | side |                                            |       |                      |            |
+| Refined Handblaster Receiver        | -       | upg. | +1 to hit, +1 dam                          | n/a   | mercs, troopers      | 2.0        |
+| Blessed Handblaster Receiver        | -       | upg. | +1d4 to hit, +1d4                          | n/a   | wfm, extramis        | 2.0        |
+| Extended Handblaster Barrel         | +5/+30  | upg. | +1d6                                       | n/a   | all                  | 4.0        |
+| Refined Carbine Receiver            | -       | upg  | +2 to hit, +2 dam                          | n/a   | mercs                | 3.2        |
+| Dual-pop Carbine Receiver           | -       | upg  | +1 to hit, +1d6                            | n/a   | mercs, troopers, wfm | 4.0        |
+| Ares Manual-Switch Carbine Receiver | 45/120  | upg. | multishot per d6                           | n/a   | scavs, troopers      | 1.5        |
+| Magazine Extender, 20-shot          | -       | upg. | 2x mag cap                                 | n/a   | all                  | 0.8        |
+| Magazine Extender, 40-shot          | -       | upg. | 4x mag cap                                 | n/a   | all                  | 2.4        |
+| Magazine Belt Feeder                | -       | upg. | 12x mag cap                                | n/a   | all                  | 5.6        |
+| TacLight! Cone Lamp                 | 45/90   | upg. | Dim light for 90', bright for 45'          | n/a   | all                  |            |
+| TacLight! Prefire Tracer Module     | 30/90   | upg. | +2 to hit within 30', +1 to hit within 90' | n/a   | all                  |            |
 
 #### EQUIPMENT
 | Name                                   | Type                   | Use                             | Importers   | Cost in AC |
@@ -61,16 +63,14 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Tuned Hazardous Location Alert System  | Rad. Detector          | 45-foot radius                  | Mercs       | 15.0       |
 
 ###### Tactical Equipment
-| Name                       | Type    | Use             | Importers | Cost in AC |
-| -------------------------- | ------- | --------------- | --------- | ---------- |
-| TacLight! Pouch of Holding | Belt    |                 |           |            |
-| Flexing Combat Vest        | Vest    |                 |           |            |
-| Goggles of Night-Vision    | Goggles | 300' darkvision | all       |            |
-| Longshot Headgear          | Goggles |                 |           |            |
-| Bayonet                    |         |                 |           |            |
-| Bracing Shield             | Shield  |                 |           |            |
-
-
+| Name                       | Type    | Use                                                                   | Importers | Cost in AC |
+| -------------------------- | ------- | --------------------------------------------------------------------- | --------- | ---------- |
+| TacLight! Pouch of Holding | Belt    | Dimensional Bag for Small or Smaller items                            |           |            |
+| Flexing Combat Vest        | Vest    | +1 AC, occupy Vest slot.                                                                      |           |            |
+| Goggles of Night-Vision    | Goggles | 300' darkvision                                                       | all       |            |
+| Longshot Headgear          | Goggles | Spend 1 charge (of 4, reset at dawn) to gain ADV on next attack roll. |           |            |
+| Bayonet                    |         | Make a dagger attack (1d4+DEX).                                       | all       |            |
+| Bracing Shield             | Shield  | Use a shield and brace your firearm with one hand. (+2AC)             | all       |            |
 
 ### Armors
 #### SCAVANGED / REFIT

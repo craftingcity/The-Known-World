@@ -270,12 +270,14 @@ aliases:
 ###### The Ring of False Wishes
 ```
 	GME-016 "RING OF FALSE WISHES"
-	Threat Level: COLOR
-	Entry Class: CLASS
-	Source: AUTHOR
+	Threat Level: RED
+	Entry Class: TRINKET
+	Source: Frankie Avaati (TL-G contained, confirmed deceased)
 	Last Known Keeper: KEEPER
 
-	Entry Description: ...
+	Entry Description: GME-016 is stored within Vault 1's Warm Storage sector in a cube of pure force over 6" in each diameter.
+
+	GME-016 is a simple golden ring enscribed with the phrase 'Money, Power, Respect' in Arthurian. While worn, if the wearer speaks the words "I wish", their following sentance is considered GME-016-1.
 ```
 
 ###### The Token of Indestructability
@@ -283,7 +285,7 @@ aliases:
 	GME-018 "TOKEN OF INDESTRUCTABILITY"
 	Threat Level: COLOR
 	Entry Class: CLASS
-	Source: AUTHOR
+	Source: Jurran Malkovich (TL-G contained, confirmed deceased)
 	Last Known Keeper: KEEPER
 
 	Entry Description: ...
@@ -294,7 +296,7 @@ aliases:
 	GME-017 "NECKLACE OF COMPULSION"
 	Threat Level: COLOR
 	Entry Class: CLASS
-	Source: AUTHOR
+	Source: Mariana Arstovich (TL-B uncontained, location unknown)
 	Last Known Keeper: KEEPER
 
 	Entry Description: ...
@@ -305,7 +307,7 @@ aliases:
 	GME-019 "MASK OF THE FALLEN JESTER"
 	Threat Level: PURPLE
 	Entry Class: TRINKET
-	Source: AUTHOR //moore// //maxim?//
+	Source: Tianna Moore (TL-B uncontained, confirmed deceased)
 	Last Known Keeper: Syther Malkovich
 
 	Entry Description: ...
@@ -331,7 +333,7 @@ aliases:
 	GME-020 "COMPALATI"
 	Threat Level: COLOR
 	Entry Class: CLASS
-	Source: AUTHOR
+	Source: Simon Hollyanne (TL-G contained, confirmed deceased)
 	Last Known Keeper: KEEPER
 
 	Entry Description: ...

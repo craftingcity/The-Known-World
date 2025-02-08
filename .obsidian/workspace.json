@@ -115,9 +115,32 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.4"
             }
+          },
+          {
+            "id": "128d39fdbfba8374",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -368,8 +391,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "757feeae9043f38e",
+  "active": "128d39fdbfba8374",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Prenotes Feb 04 25.md",
+    "Game Notes/NPCs/Mild Power/Midboss/Yeirruk Fyrren.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "Junie's Characters/Dante Fukili.md",
@@ -396,8 +422,6 @@
     "Game Notes/Prenotes/'25/Prenotes Jan 14 25.md",
     "MEDIA/MAPS/WORLD/underdark.png",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/General/Underdark Flora.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Skillbooks.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Game Notes/Prenotes/'25",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking",

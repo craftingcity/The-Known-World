@@ -2,6 +2,162 @@
 tags: npc
 aliases:
 ---
+
+# Northeastern (Prosperian)
+## First Names
+
+| Masculine | Uniform     | Feminine   |
+| --------- | ----------- | ---------- |
+| Alisinder | Bullryk     | Adriana    |
+| Arrek     | Dimble      | Alergra    |
+| Alisar    | Drazz       | Carrie     |
+| Balthazar | Fig         | Courtney   |
+| Barret    | Frankie     | Dorkanna   |
+| Borhain   | Gail        | Elsa       |
+| Edward    | Glirid      | Erika      |
+| Erik      | Gorebladder | Griss'etel |
+| Franklin  | Hedwig      | Janice     |
+| Grandey   | Hogaak      | Joss       |
+| Grekk     | Kallo       | Maxine     |
+| Gurrak    | Lou         | Sally      |
+| Marley    | Maxyu       | Viliuam    |
+| Mateus    | Yandee      | Tianna     |
+| Paulo     | Yeirruk     | Sarhin     |
+| Wilson    |             | Mariana    |
+| Simon     |             |            |
+
+## Last Names
+
+| Family Name  | Notes |
+| ------------ | ----- |
+| Franx        |       |
+| Barrowinch   |       |
+| Rancarlo     |       |
+| Bozkin       |       |
+| Arstovich    |       |
+| Guir         |       |
+| Wumfingle    |       |
+| Bodaim       |       |
+| a'Huruuc     |       |
+| a'Dregsamony |       |
+| a'LeQuinn    |       |
+| Turing       |       |
+| San-Tymiq    |       |
+| a'Valim      |       |
+| a'Locca      |       |
+| Avaati       |       |
+| Bradley      |       |
+| a'Fingara    |       |
+| a'Alden      |       |
+| a'Chrim      |       |
+| a'Nyrk       |       |
+| Austra       |       |
+| Vaught       |       |
+| Fyrren       |       |
+| Seashell     |       |
+| Moore        |       |
+
+# Southeastern (Combine)
+## First Names
+
+| Masculine | Uniform | Feminine |
+| --------- | ------- | -------- |
+| Yassir    | Benkaei | Amethyst |
+| Issac     | Darwine | Patrica  |
+| Reyan     | Grundle | Poppy    |
+| Bonj      | Jasper  | Srioh    |
+| Nike      | River   | Yyu      |
+| Glot      | Toor    | Marilynn |
+| Jerran    |         | Wren         |
+| Nylan     |         |          |
+| Revari    |         |          |
+|           |         |          |
+
+## Last Names
+
+| Family Name | Notes |
+| ----------- | ----- |
+| Avory       |       |
+| Cassindil   |       |
+| Filip       |       |
+| Glask       |       |
+| Harvord     |       |
+| J'Tail      |       |
+| Jammu       |       |
+| Vannis      |       |
+| Evon        |       |
+| Maxim       |       |
+| Vwem        |       |
+| Stormwind   |       |
+| Roul        |       |
+| Borig       |       |
+| Bumbleheart |       |
+| Madrid      |       |
+| Borns       |       |
+| Powell      |       |
+| Clipwin     |       |
+
+# Northwestern (of Flame)
+## First Names
+
+| Masculine | Uniform | Feminine |
+| --------- | ------- | -------- |
+| Edward    | Caris   | Pirre    |
+| Hektor    | Enoch   |          |
+| Abraham   | Raam    |          |
+| Jorrin    | Valerio |          |
+| Marcus    | Roan    |          |
+| Nicolas   | Erez    |          |
+| Colin     |         |          |
+| Tomas     |         |          |
+| Mathias   |         |          |
+|           |         |          |
+
+## Last Names
+
+| Family Name | Notes |
+| ----------- | ----- |
+| Avner       |       |
+| Ben         |       |
+| Salar       |       |
+| ben Yaam    |       |
+| Bearscarred |       |
+| Macht       |       |
+| Talaveem    |       |
+| Tald        |       |
+| ben Yarom   |       |
+| Avishalom   |       |
+
+# Southwestern (Tetrimocal)
+## First Names
+
+| Masculine    | Uniform | Feminine  |
+| ------------ | ------- | --------- |
+| Barthalamule | Dante   | Agrandica |
+| Boris        | Sivir   | Ginger    |
+| Edward       | Frin    | Saria     |
+| Fulton       | Pax     |           |
+| Houran       |         |           |
+| Hallis       |         |           |
+| Lucas        |         |           |
+| Doirin       |         |           |
+
+## Last Names
+
+| Family Name | Notes |
+| ----------- | ----- |
+| Alamore     |       |
+| Engammo     |       |
+| Farrinik    |       |
+| Fukili      |       |
+| Gunagido    |       |
+| Shepard     |       |
+| Ak-kizi     |       |
+| Venclaw     |       |
+| Bagwell     |       |
+| Vanavar     |       |
+| Copperhammer            |       |
+
 # List of Names
 Masc | Femme | Neutral
 --------|--------|--------
@@ -31,7 +187,7 @@ Qholooji | Aibitiuks | Gnisotruls | Vrarakuuv
 
 Masc | Femme
 ---|---	
-Xonsu ben Benkaei | Shir Li ben Hafetz Hayim
+Xonsu ben | Shir Li ben Hafetz Hayim
 Math'hias | Yomi ben Ohav
 Sene ben Simata | Thea ben Avner
 Erez ben Alice | Mertek ben Akorf

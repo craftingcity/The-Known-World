@@ -172,71 +172,136 @@ Greataxes are *heavy*, *two-handed*, and *unwieldy*. Once per rest, you may use 
 Glaives are tall polearms with a single-edged blade affixed on its working end. Used as a slashing implement, the Glaive is a fearsome weapon of war, most often used by experienced cavalry units.
 
 Glaives deal 2d6 slashing damage.
-Glaives are *heavy*, *two-handed*, *reach*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
+Glaives are *heavy*, *two-handed*, *long*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 #### Halberd
 Halberds are tall polearms with an axe head and a vertical point on its working end. The halberd is commonly seen being used by guards as a very effective crowd-control tool.
 
 Halberds deal 2d8 slashing damage.
-Glaives are *heavy*, *two-handed*, *reach*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
+Glaives are *heavy*, *two-handed*, *long*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 #### Polehammer
 Polehammers are tall polearms with a large hammer head and a sharp claw on its working end. The polehammer is typically used to destroy or damage the armor of opponents.
 
 Polehammers deal 2d6 bludgeoning damage.
-Polehammers are *heavy*, *two-handed*, *reach*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
+Polehammers are *heavy*, *two-handed*, *long*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 #### Spear
 Spears are the classical polearm, used en-mass by hunters, guards, and soldiers alike, the spear is a natural choice for a committed combatant.
 
 Spears deal 2d4 peircing damage.
-Spears are *versatile (d6)* and *reach*. Once per rest, you may use this weapon's special ability;
+Spears are *versatile (d6)* and *long*. Once per rest, you may use this weapon's special ability;
 
 #### Lance
 Lances are generally ceremonial weapons for competition, or disposable cavalry weaponry. A strong lance is most effective when used by an agile or mounted wielder.
 
 Lances deal 1d12 piercing damage.
-Lances are *very heavy*, *reach*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
+Lances are *very heavy*, *long*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
 #### Warscythe
+Warscythes are a very atypical, though still military grade, long-blade polearm. The Warscythe is a result of the militarization of a farming tool, and it still retains the comfortable side-grip of the original design. 
+
+Warscythes deal 2d10 slashing damage.
+Warscythes are *very heavy*, *long*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
+
 ##### Loose
 #### Bull Whip
+The Bull Whip is a long, flexible length of leather typically used to control farm animals, although it does find use in controlling a battlefield as well.
+
+Bull Whips deal 1d4 slashing damage.
+Bull Whips are *finesse*, *lassoing*, *long*, and *stashable*. Once per rest, you may use this weapon's special ability;
+
 #### Chain Whip
+Chain Whips are typically impromptu weapons in urban or industrial areas - a simple weight on the end of a metal chain, sometimes adorned in barbs or blades, spun around and then towards a target.
+
+Chain Whips deal 2d6 slashing damage.
+Chain Whips are *heavy*, *long*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
+
 #### Meteor Hammer
+Meteor Hammers are a long sturdy rope or chain with a weight at one end. When quickly spun and slammed into an opponent, the Meteor Hammer can deal massive damage.
+
+Meteor Hammers deal 2d12 bludgeoning damage.
+Meteor Hammers are *heavy*, *two-handed*, *long*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
+
 #### Rope Dart
+Rope Darts are long strings with a small weight or blade on their end. When appropriately maneuvered, even drawing the Rope Dart can be a deadly attack.
+
+Rope Darts deal 1d6 bludgeoning damage.
+Rope Darts are *quick*, *finesse*, *long*, and *stashable*. Once per rest, you may use this weapon's special ability;
 
 ### Simple Ranged Weapons
 ##### Stones
 #### Sling
+Slings are simple straps of leather or woven textiles that are quickly spun and released to fire stones or other small projectiles.
+
+Slings deal 1d4 bludgeoning damage.
+Slings are *quick*, *stashable*, *ammunition (0)*, and *ranged (30/120)*. Once per rest, you may use this weapon's special ability;
+
 #### Sling Staff
+Sling Staffs are long poles used to launch sling munitions further than a simple sling can, but at the cost of time spent reloading the weapon. When necessary, the wielder can use the staff as a simple melee weapon.
+
+Sling Staffs deal 1d4 bludgeoning damage.
+Sling Staffs are *ammunition (1)*, and *ranged (60/300)*. Once per rest, you may use this weapon's special ability;
+
 ##### Bolts
 #### Light Crossbow
+Light Crossbows are stable platforms that use pullies to store tension and launch their projectiles. Light Crossbows are less heavy, but less powerful than the Heavy alternative.
+
+Light Crossbows deal 2d4 piercing damage.
+Light Crossbows are *quick*, *two-handed*, *ammunition (1)*, and *ranged (45/180)*. Once per rest, you may use this weapon's special ability;
+
 #### Hand Crossbow
+Hand Crossbows are small, stable platforms that use pullies to store tension and launch their bolts. Hand Crossbows are the smallest, and therefore weakest, form of Crossbow.
+
+Hand Crossbows deal 1d6 piercing damage.
+Hand Crossbows are *quick*, *ammunition (1)*, and *ranged (30/120)*. Once per rest, you may use this weapon's special ability;
+
 ##### Arrows
 #### Short Bow
-#### Reflex Bow
-#### Long Bow
+Short Bows are simple curved platforms that bends with tension applied through a connecting string. 
+
+Short Bows deal 1d6 piercing damage.
+Short Bows are *two-handed*, *ammunition (1)*, and *ranged (30/120)*. Once per rest, you may use this weapon's special ability;
+
 ##### Durandurm Operated
 #### Durandurm Handblaster
-Durandurm Handblasters are small elemental firearms designed as a secondary weapon used during sustained firefights.
+Durandurm Handblasters are small elemental firearms designed as a secondary weapon to the Carbine during sustained firefights.
 
 Durandurm Handblasters deal 1d6 typed damage.
 Durandurm Handblasters are *ammunition (10)* and *ranged (45/120)*. Once per rest, you may use this weapon's special ability;
 
-| Name / Classification | Range  | Damage   | Original Producer    | Note                                                                                 |
-| --------------------- | ------ | -------- | -------------------- | ------------------------------------------------------------------------------------ |
-| YI-A88 'Hand Cannon'  | 30/90  | 2d4 ammo | Yosimmite Industries | The prototype of the YI-A90, less than 40 were ever produced.                        |
-| YI-A90 'Hand Blaster' | 45/120 | 1d6 ammo | Yosimmite Industries | The dominant sidearm in the Durandurm arsenal before the Age of Warfare expanded it. |
-|                       |        |          |                      |                                                                                      |
+| Name / Classification | Range  | Damage   | Original Producer    | Note                                                                     |
+| --------------------- | ------ | -------- | -------------------- | ------------------------------------------------------------------------ |
+| YI-A88 'Sandstone'    | 30/90  | 2d6 ammo | Yosimmite Industries | The prototype of the YI-A90, less than 40 were ever produced.            |
+| YI-A90 'Basalt'       | 45/120 | 1d6 ammo | Yosimmite Industries | The dominant sidearm in the Durandurm arsenal before the Age of Warfare. |
 
 ##### Firepowder Operated
 #### Boltshot Firepowder Blaster
+Boltshot Firepowder Blasters are single-shot, manual loading, bolt-action, firepowder rifles. Originally made of stone and bronze, most manufactures have matured into a full-metal construction.
+
+Boltshot Firepowder Blasters deal 1d10 piercing damage.
+Boltshot Firepowder Blasters are *two-handed*, *ammunition (1)*, and *ranged (120/600)*. Once per rest, you may use this weapon's special ability;
+
 #### Boltshot Firepowder Scatterblaster
+Boltshot Firepowder Scatterblasters are single-shot, manual loading, bolt-action, firepower scatterguns. The ammunition used is a collection of tiny metal balls stored in a thin metallic casing.
+
+Boltshot Firepowder Scatterblasters deal 3d10 piercing damage in a 15' cone divided by the number of creatures hit.
+Boltshot Firepowder Scatterblasters are *two-handed*, *ammunition (1)*, and *ranged (15)*. Once per rest, you may use this weapon's special ability;
 
 ### Martial Ranged Weapons
 ##### Thrown
 #### Javelin
+Javelin are large darts or small spears with sharp metal tips thrown at a target at range.
+
+Javelin deal 1d6 piercing damage.
+Javelin are *thrown (25/100)*. Once per rest, you may use this weapon's special ability;
+
 #### Bolas
+Bolas are a pair of weighted balls connected by a sturdy length of leather or fabric, and are used to restrain an enemy at range before closing in with your preferred weapons.
+
+Bolas deal 1d4 bludgeoning damage.
+Bolas are *lassoing* and *thrown (20/60)*.
+
 #### Throwing Blade
 #### Throwing Axe
 #### Boomerang
@@ -246,8 +311,7 @@ Durandurm Handblasters are *ammunition (10)* and *ranged (45/120)*. Once per res
 #### Heavy Crossbow
 #### Repeating Crossbow
 ##### Arrows
-#### Recurve Bow
-#### Compound Bow
+#### Longbow
 ##### Durandurm Operated
 #### Durandurm Longblaster
 #### Durandurm Carbine
@@ -255,10 +319,11 @@ Durandurm Handblasters are *ammunition (10)* and *ranged (45/120)*. Once per res
 #### Durandurm Scatterblaster
 #### Durandurm Cannon
 ##### Firepowder Operated
-#### Firepowder Blaster
-#### Firepowder Rotary Repeater
-#### Firepowder Scatterblaster
-#### Firepowder Cannon
+#### Reakshot Firepowder Blaster
+#### Reakshot Firepowder Carbine
+#### Beltshot Firepowder Rotary Repeater
+#### Boltshot Firepowder Scatterblaster
+#### Boltshot Firepowder Cannon
 
 ### Ranged Ammunition
 ##### Stones
@@ -300,17 +365,15 @@ Durandurm Operated Firearms typically deal d6 elemental damage, but are a variab
 ##### Firepowder Shot
 Firepowder Shot are individual self-contained ammunitions used in the operation of Firepowder Blasters. Shots are sometimes loaded into magazines or belts for use in more complex Firepowder weapons.
 
-Firepowder Shot typically deal d4 piercing damage, but are a variable ammunition.
+Firepowder Shot are created in standard size-forms for a given make or model of Blaster.
 
 | Name / Classification | Dam. | Original Producer | Note |
 | --------------------- | ---- | ----------------- | ---- |
 | -                     | -    |                   |      |
 
-## Cultural Weaponry
-
 ## Specialized Weaponry
 ##### Explosives
-#### Clay Fire-Bomb
+#### Fire-Bomb
 #### Pipe Bomb
 #### Chili Grenade
 #### Pineapple Grenade
@@ -322,4 +385,15 @@ Firepowder Shot typically deal d4 piercing damage, but are a variable ammunition
 #### Divine Implement
 #### Elemental Implement
 
+#####
+
 ## Common Weave Patches
+##### Uniform Weapon Patches
+##### Melee Weapon Patches
+#### Balanced (I - V)
+The weapon is magically balanced, providing additional accuracy and power to every attack made.
+
+When you make an Attack Roll or a Damage Roll with this weapon, add a number equal to the Patch Power to the Roll. 
+
+##### Ranged Weapon Patches
+##### Implement Patches
