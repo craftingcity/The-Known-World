@@ -1,5 +1,5 @@
 ## Subclass Lobotomy
-#### Profane Soul
+#### Soulbound
 ##### Soul Contract (*optional*)
 You may take this feature at 1st level.
 

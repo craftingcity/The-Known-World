@@ -47,7 +47,7 @@ She bought her way east, across the [[Alvalini River]] and into [[The Democratic
 
 Day to day, she spends most of her money on ammunition. Food and Water are things she can scavenge or hunt for, but her need for drugs, supplies, and jobs mean she's been working her way from town to town, where she'll spend a few days to scavenge and hunt before committing to another job or set of jobs. 
 
-#### Entering Minyostalma
+#### Entering Minyostalma (c. 105AF - Session I)
 I met up with 'Jewels', my contact to get into Minyostalma. We'll go rock hunting eventually, but we need money first.
 
 Jewels introduced me to Ace, Maverick, Goose, and Spitfire. Spitfire's a cutie.

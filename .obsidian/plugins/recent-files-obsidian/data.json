@@ -5,8 +5,20 @@
       "path": "A Grand Notepad.md"
     },
     {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
+    },
+    {
       "basename": "Dante Fukili",
       "path": "Junie's Characters/Dante Fukili.md"
+    },
+    {
+      "basename": "Custom Class - Blood Hunter",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md"
     },
     {
       "basename": "The People...",
@@ -19,10 +31,6 @@
     {
       "basename": "The Artifacts...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "Custom Weapon Mechanics",
@@ -91,10 +99,6 @@
     {
       "basename": "MinyostalmaFeatures",
       "path": "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png"
-    },
-    {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
     {
       "basename": "The Monsters...",
@@ -195,10 +199,6 @@
     {
       "basename": "Durgg-Likin",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Durgg-Likin.md"
-    },
-    {
-      "basename": "Hraak Azul",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Hraak Azul.md"
     }
   ],
   "omittedPaths": [],

@@ -177,9 +177,54 @@ Artifacts:
 
 #### Jewel's Troopers - Ruby 7
 ##### Cpl. Spitfire
+> Mountain Hall Dwarf, Soulbound Blood Hunter (5)
+
+| STAT | #       | STAT    | #    |
+| ---- | ------- | ------- | ---- |
+| STR  | 13 (+1) | PRF     | +3   |
+| CON  | 16 (+3) | MAX HP  | 45   |
+| DEX  | 16 (+3) | AC      |      |
+| INT  | 10 (+0) | Cur. HP | 45   |
+| WIS  | 14 (+2) | Hit Die | 5d10 |
+| CHA  | 9  (-1) | Speed   | 30'  |
+
 ##### Pvt. Ace
+> Mountain Hall Dwarf, Soul Contract Blood Hunter (5)
+
+| STAT | #   | STAT    | #   |
+| ---- | --- | ------- | --- |
+| STR  | 10    | PRF     |     |
+| CON  | 16    | MAX HP  |     |
+| DEX  | 15    | AC      |     |
+| INT  | 11    | Cur. HP |     |
+| WIS  | 8    | Hit Die |     |
+| CHA  | 13    | Speed   |     |
+
 ##### Pvt. Maverick
+> Mountain Hall Dwarf, Soul Contract Blood Hunter (5)
+
+| STAT | #   | STAT    | #   |
+| ---- | --- | ------- | --- |
+| STR  | 10  | PRF     |     |
+| CON  | 16  | MAX HP  |     |
+| DEX  | 15  | AC      |     |
+| INT  | 12  | Cur. HP |     |
+| WIS  | 8   | Hit Die |     |
+| CHA  | 12  | Speed   |     |
+
 ##### Pvt. Goose
+> Mountain Hall Dwarf, Soul Contract Blood Hunter (5)
+
+| STAT | #   | STAT    | #   |
+| ---- | --- | ------- | --- |
+| STR  | 8    | PRF     |     |
+| CON  | 16    | MAX HP  |     |
+| DEX  | 15    | AC      |     |
+| INT  |     | Cur. HP |     |
+| WIS  |     | Hit Die |     |
+| CHA  |     | Speed   |     |
+
+
 ## RHOD (depreciated)
 ##### To-Do
 - rewrite Powerful Form and Powerful Build; ignore two-handed restrictions
