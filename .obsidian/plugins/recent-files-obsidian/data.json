@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
+      "basename": "Custom Class - Blood Hunter",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md"
+    },
+    {
+      "basename": "Custom Features",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
     },
     {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
+    },
+    {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
     },
     {
       "basename": "Custom Cultures",
@@ -15,10 +23,6 @@
     {
       "basename": "Dante Fukili",
       "path": "Junie's Characters/Dante Fukili.md"
-    },
-    {
-      "basename": "Custom Class - Blood Hunter",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md"
     },
     {
       "basename": "The People...",
@@ -195,10 +199,6 @@
     {
       "basename": "Howling Warrens",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Howling Warrens.md"
-    },
-    {
-      "basename": "Durgg-Likin",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Durgg-Likin.md"
     }
   ],
   "omittedPaths": [],
