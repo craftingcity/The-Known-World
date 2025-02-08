@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "087ce0901cff476e",
+        "id": "fd98fbd16540fc78",
         "type": "tabs",
         "children": [
           {
-            "id": "bf59cf22e1c2b6f4",
+            "id": "88f13c658e00a587",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,143 +22,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "A Grand Notepad"
+              "title": "Weapons of Alaturmen"
             }
           }
         ]
-      },
-      {
-        "id": "e4b6322937a3dc1c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3047c17da22280bb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The People..."
-            }
-          },
-          {
-            "id": "316608684bba322d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Prenotes Feb 04 25",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Feb 04 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Feb 04 25\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Dante Fukili.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Dante Fukili"
-            }
-          },
-          {
-            "id": "e9444c48c652d79f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Custom Heritages"
-            }
-          },
-          {
-            "id": "971507a3fea9ee3e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Custom Cultures"
-            }
-          },
-          {
-            "id": "17531bca479defdf",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Custom Class - Blood Hunter"
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"time before",
+                "query": "huum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -410,19 +282,49 @@
     }
   },
   "floating": {
-    "id": "1a04e4c54ab4cb9a",
+    "id": "18d5e43a4489cb05",
     "type": "floating",
     "children": [
       {
-        "id": "c7919a6fa4be6e9a",
+        "id": "04b1b63e60bc5a02",
         "type": "window",
         "children": [
           {
-            "id": "4db7e5f816abb965",
+            "id": "e11a6ae46e07ac1e",
             "type": "tabs",
             "children": [
               {
-                "id": "625d3b1cd7ed70a6",
+                "id": "b3baf68628b23845",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Weapons of Alaturmen",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Weapons of Alaturmen\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":45},\"to\":{\"line\":4,\"ch\":45}}}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Custom Weapon Mechanics"
+                },
+                "group": "2f87cb7072e669fe"
+              },
+              {
+                "id": "09a3a6a8e523bc5a",
                 "type": "leaf",
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -436,57 +338,87 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "A Grand Notepad.md",
+                    "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "A Grand Notepad"
+                  "title": "Combat Mechanics and Positioning"
                 }
+              }
+            ]
+          },
+          {
+            "id": "6687b6d758d8392e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c78ef4c29f2256c8",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Weapons of Alaturmen"
+                },
+                "group": "2f87cb7072e669fe"
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": 852,
         "y": 0,
-        "width": 1280,
-        "height": 1400,
+        "width": 688,
+        "height": 912,
         "maximize": false,
-        "zoom": -1.5
+        "zoom": -2.5
       }
     ]
   },
-  "active": "625d3b1cd7ed70a6",
+  "active": "88f13c658e00a587",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-    "A Grand Notepad.md",
-    "Junie's Characters/Dante Fukili.md",
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
-    "Prenotes Feb 04 25.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
-    "conflict-files-obsidian-git.md",
-    "Game Notes/NPCs/Mild Power/Midboss/Yeirruk Fyrren.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
-    "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
-    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+    "Prenotes Jan 28 25.md",
+    "Prenotes Feb 04 25.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
+    "A Grand Notepad.md",
+    "Game Notes/NPCs/Mild Power/Midboss/Yeirruk Fyrren.md",
+    "Game Notes/NPCs/High Power/Loose Wizard NPCs/Sally Seashell.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+    "Junie's Characters/Dante Fukili.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
+    "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
-    "Prenotes Jan 28 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-    "Game Notes/Prenotes/'25/Prenotes Jan 21 25.md",
     "MEDIA/MAPS/WORLD/underdark.png",
     "Game Notes/Prenotes/'25",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
