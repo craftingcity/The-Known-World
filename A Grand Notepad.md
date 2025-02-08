@@ -179,50 +179,52 @@ Artifacts:
 ##### Cpl. Spitfire
 > Mountain Hall Dwarf, Soulbound Blood Hunter (5)
 
-| STAT | #       | STAT    | #    |
-| ---- | ------- | ------- | ---- |
-| STR  | 13 (+1) | PRF     | +3   |
-| CON  | 16 (+3) | MAX HP  | 45   |
-| DEX  | 16 (+3) | AC      |      |
-| INT  | 10 (+0) | Cur. HP | 45   |
-| WIS  | 14 (+2) | Hit Die | 5d10 |
-| CHA  | 9  (-1) | Speed   | 30'  |
+| STAT | #         | STAT    | #    |
+| ---- | --------- | ------- | ---- |
+| STR  | 13 (+1)   | PRF     | +3   |
+| CON  | 16 (+3)   | MAX HP  | 49   |
+| DEX  | 16 (+3) ^ | AC      |      |
+| INT  | 10 (+0) ^ | Cur. HP | 45   |
+| WIS  | 14 (+2)   | Hit Die | 5d10 |
+| CHA  | 9  (-1)   | Speed   | 30'  |
+
+
 
 ##### Pvt. Ace
-> Mountain Hall Dwarf, Soul Contract Blood Hunter (5)
+> Mountain Hall Dwarf, Banneret Fighter (3)
 
-| STAT | #   | STAT    | #   |
-| ---- | --- | ------- | --- |
-| STR  | 10    | PRF     |     |
-| CON  | 16    | MAX HP  |     |
-| DEX  | 15    | AC      |     |
-| INT  | 11    | Cur. HP |     |
-| WIS  | 8    | Hit Die |     |
-| CHA  | 13    | Speed   |     |
+| STAT | #       | STAT    | #   |
+| ---- | ------- | ------- | --- |
+| STR  | 10 (+0) | PRF     | +2  |
+| CON  | 16 (+3) | MAX HP  | 31    |
+| DEX  | 15 (+2) | AC      |     |
+| INT  | 11 (+0) | Cur. HP |     |
+| WIS  | 8  (-1) | Hit Die |     |
+| CHA  | 13 (+1) | Speed   | 30' |
 
 ##### Pvt. Maverick
-> Mountain Hall Dwarf, Soul Contract Blood Hunter (5)
+> Mountain Hall Dwarf, Totem Barbarian (3)
 
-| STAT | #   | STAT    | #   |
-| ---- | --- | ------- | --- |
-| STR  | 10  | PRF     |     |
-| CON  | 16  | MAX HP  |     |
-| DEX  | 15  | AC      |     |
-| INT  | 12  | Cur. HP |     |
-| WIS  | 8   | Hit Die |     |
-| CHA  | 12  | Speed   |     |
+| STAT | #       | STAT    | #   |
+| ---- | ------- | ------- | --- |
+| STR  | 10 (+0) | PRF     | +2  |
+| CON  | 16 (+3) | MAX HP  | 35    |
+| DEX  | 15 (+2) | AC      |     |
+| INT  | 12 (+1) | Cur. HP |     |
+| WIS  | 8  (-1) | Hit Die |     |
+| CHA  | 12 (+1) | Speed   | 30' |
 
 ##### Pvt. Goose
-> Mountain Hall Dwarf, Soul Contract Blood Hunter (5)
+> Mountain Hall Dwarf, War Cleric (3)
 
-| STAT | #   | STAT    | #   |
-| ---- | --- | ------- | --- |
-| STR  | 8    | PRF     |     |
-| CON  | 16    | MAX HP  |     |
-| DEX  | 15    | AC      |     |
-| INT  |     | Cur. HP |     |
-| WIS  |     | Hit Die |     |
-| CHA  |     | Speed   |     |
+| STAT | #       | STAT    | #   |
+| ---- | ------- | ------- | --- |
+| STR  | 8  (-1) | PRF     | +2  |
+| CON  | 16 (+3) | MAX HP  | 27    |
+| DEX  | 15 (+2) | AC      |     |
+| INT  | 10 (+0) | Cur. HP |     |
+| WIS  | 11 (+0) | Hit Die |     |
+| CHA  | 13 (+1) | Speed   | 30' |
 
 
 ## RHOD (depreciated)
