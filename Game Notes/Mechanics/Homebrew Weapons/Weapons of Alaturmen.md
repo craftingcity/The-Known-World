@@ -294,7 +294,7 @@ Boltshot Firepowder Scatterblasters are *two-handed*, *ammunition (1)*, and *ran
 Javelin are large darts or small spears with sharp metal tips thrown at a target at range.
 
 Javelin deal 1d6 piercing damage.
-Javelin are *thrown (25/100)*. Once per rest, you may use this weapon's special ability;
+Javelin are *thrown (30/90)*. Once per rest, you may use this weapon's special ability;
 
 #### Bolas
 Bolas are a pair of weighted balls connected by a sturdy length of leather or fabric, and are used to restrain an enemy at range before closing in with your preferred weapons.
@@ -385,7 +385,8 @@ Firepowder Shot are created in standard size-forms for a given make or model of 
 #### Divine Implement
 #### Elemental Implement
 
-#####
+##### Liquid Operated
+#### Huumpo Spitter
 
 ## Common Weave Patches
 ##### Uniform Weapon Patches
