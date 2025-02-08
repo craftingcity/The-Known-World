@@ -193,26 +193,26 @@ Artifacts:
 ##### Pvt. Ace
 > Mountain Hall Dwarf, Banneret Fighter (3)
 
-| STAT | #       | STAT    | #   |
-| ---- | ------- | ------- | --- |
-| STR  | 10 (+0) | PRF     | +2  |
-| CON  | 16 (+3) | MAX HP  | 31    |
-| DEX  | 15 (+2) | AC      |     |
-| INT  | 11 (+0) | Cur. HP |     |
-| WIS  | 8  (-1) | Hit Die |     |
-| CHA  | 13 (+1) | Speed   | 30' |
+| STAT | #       | STAT    | #    |
+| ---- | ------- | ------- | ---- |
+| STR  | 10 (+0) | PRF     | +2   |
+| CON  | 16 (+3) | MAX HP  | 31   |
+| DEX  | 15 (+2) | AC      |      |
+| INT  | 11 (+0) | Cur. HP | 31   |
+| WIS  | 8  (-1) | Hit Die | 3d10 |
+| CHA  | 13 (+1) | Speed   | 30'  |
 
 ##### Pvt. Maverick
 > Mountain Hall Dwarf, Totem Barbarian (3)
 
-| STAT | #       | STAT    | #   |
-| ---- | ------- | ------- | --- |
-| STR  | 10 (+0) | PRF     | +2  |
-| CON  | 16 (+3) | MAX HP  | 35    |
-| DEX  | 15 (+2) | AC      |     |
-| INT  | 12 (+1) | Cur. HP |     |
-| WIS  | 8  (-1) | Hit Die |     |
-| CHA  | 12 (+1) | Speed   | 30' |
+| STAT | #       | STAT    | #    |
+| ---- | ------- | ------- | ---- |
+| STR  | 10 (+0) | PRF     | +2   |
+| CON  | 16 (+3) | MAX HP  | 35   |
+| DEX  | 15 (+2) | AC      |      |
+| INT  | 12 (+1) | Cur. HP | 35   |
+| WIS  | 8  (-1) | Hit Die | 3d12 |
+| CHA  | 12 (+1) | Speed   | 30'  |
 
 ##### Pvt. Goose
 > Mountain Hall Dwarf, War Cleric (3)
@@ -220,10 +220,10 @@ Artifacts:
 | STAT | #       | STAT    | #   |
 | ---- | ------- | ------- | --- |
 | STR  | 8  (-1) | PRF     | +2  |
-| CON  | 16 (+3) | MAX HP  | 27    |
+| CON  | 16 (+3) | MAX HP  | 27  |
 | DEX  | 15 (+2) | AC      |     |
-| INT  | 10 (+0) | Cur. HP |     |
-| WIS  | 11 (+0) | Hit Die |     |
+| INT  | 10 (+0) | Cur. HP | 27  |
+| WIS  | 11 (+0) | Hit Die | 3d8 |
 | CHA  | 13 (+1) | Speed   | 30' |
 
 
