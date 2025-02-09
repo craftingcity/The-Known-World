@@ -342,7 +342,7 @@ Goose's Carbine (30 DRM, FR); +6, 3d6+2 fire
 | 0   | Sacred Flame       | Target creatures makes WIS save or takes 1d8 radiant                                                                              |
 | 0   | Spare The Dying    | You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs. |
 | 0   | Light              | 20' radius bright + 20' radius dim light                                                                                          |
-| 1   | Detect Magic       | 30' radius detecting 'the presence of magic' (**+**); learn school if applicable                                                  |
+| 1   | Detect Magic       | 30' radius detecting 'the presence of magic' **(+)**; learn school if applicable                                                  |
 | 1   | Detect Extraplanar | 30' radius detecting *Aberration*, *Celestial*, *Elemental*, *Fey*, *Fiend*, or *Undead*                                          |
 | 2   | Hold Person        | Target Humanoid makes WIS save or is Paralyzed (save ends)                                                                        |
 
