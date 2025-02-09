@@ -31,6 +31,29 @@
             }
           },
           {
+            "id": "4751c1969731ed1d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Data.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Population Data"
+            }
+          },
+          {
             "id": "39e48c02fbe07734",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -82,7 +105,8 @@
               "title": "Combat Mechanics and Positioning"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e4b6322937a3dc1c",
@@ -161,7 +185,8 @@
               "title": "MinyostalmaFeatures"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -412,9 +437,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9136d634ce81df1a",
+  "active": "a2408b56bac7aa5e",
   "lastOpenFiles": [
     "Junie's Characters/Dante Fukili.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Data.md",
     "A Grand Notepad.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
