@@ -280,7 +280,7 @@ Ace's Carbine (300 DRM, FR); +8, 3d6+2 fire
 | STR  | 10 (+0) ^ | PRF     | +2             |
 | CON  | 16 (+3) ^ | MAX HP  | 44             |
 | DEX  | 15 (+2)   | AC      | 15 (Unarmored) |
-| INT  | 12 (+1)   | Cur. HP | 31             |
+| INT  | 12 (+1)   | Cur. HP | 6              |
 | WIS  | 8  (-1)   | Hit Die | 3d12           |
 | CHA  | 12 (+1)   | Speed   | 30'            |
 
@@ -295,7 +295,7 @@ Ace's Carbine (300 DRM, FR); +8, 3d6+2 fire
 
 ###### ACTIONS
 
-Maverick's Carbine (299 DRM, FR); +6, 3d6+2 fire
+Maverick's Carbine (300 DRM, FR); +6, 3d6+2 fire
 
 (BA) Rage: Bear
 
