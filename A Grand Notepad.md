@@ -226,6 +226,11 @@ Spitfire's Carbine (30 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
 - **Extra Attack I**
 	You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
+###### INVENTORY
+- Isiopara (x10) - +3d4+10hp / 3 rounds
+- Medical Kit (10/10) - 1 Charge, Roll Hit Dice + CON, add to HP
+- Pineapple Grenade (x2) - 5d6+20 @ 15' sphere
+
 ##### Pvt. Ace
 > Mountain Hall Dwarf, Banneret Fighter (3)
 
@@ -261,6 +266,11 @@ Ace's Carbine (30 DRM, FR); +8, 3d6+2 fire
 	On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
 - **Action Surge** (BA, 1/1)
 	On your turn, you can take one additional action.
+
+###### INVENTORY
+- Isiopara (x10) - +3d4+10hp / 3 rounds
+- Medical Kit (10/10) - 1 Charge, Roll Hit Dice + CON, add to HP
+- Pineapple Grenade (x2) - 5d6+20 @ 15' sphere
 
 ##### Pvt. Maverick
 > Mountain Hall Dwarf, Totem Barbarian (3)
@@ -303,6 +313,12 @@ Maverick's Carbine (30 DRM, FR); +6, 3d6+2 fire
 	When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
 - **Danger Sense**
 	You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
+
+###### INVENTORY
+- Isiopara (x10) - +3d4+10hp / 3 rounds
+- Medical Kit (10/10) - 1 Charge, Roll Hit Dice + CON, add to HP
+- Pineapple Grenade (x2) - 5d6+20 @ 15' sphere
+- Unknown Glass Artifact (?)
 
 ##### Pvt. Goose
 > Mountain Hall Dwarf, War Cleric (3)
@@ -351,6 +367,11 @@ Goose's Carbine (30 DRM, FR); +6, 3d6+2 fire
 - **Channel Divinity** (1/1)
 	- *Guided Strike*; When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
 	- *Turn Undead*; As an action, Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is *turned* for 1 minute or until it takes any damage. A *turned* creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+
+###### INVENTORY
+- Isiopara (x10) - +3d4+10hp / 3 rounds
+- Medical Kit (10/10) - 1 Charge, Roll Hit Dice + CON, add to HP
+- Pineapple Grenade (x2) - 5d6+20 @ 15' sphere
 
 ## RHOD (depreciated)
 ##### To-Do
