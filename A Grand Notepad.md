@@ -229,14 +229,14 @@ Spitfire's Carbine (30 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
 ##### Pvt. Ace
 > Mountain Hall Dwarf, Banneret Fighter (3)
 
-| STAT | #       | STAT    | #             |
-| ---- | ------- | ------- | ------------- |
-| STR  | 10 (+0) | PRF     | +2            |
-| CON  | 16 (+3) | MAX HP  | 40            |
-| DEX  | 15 (+2) | AC      | 20 (B. Plate) |
-| INT  | 11 (+0) | Cur. HP | 40            |
-| WIS  | 8  (-1) | Hit Die | 3d10          |
-| CHA  | 13 (+1) | Speed   | 30'           |
+| STAT | #         | STAT    | #             |
+| ---- | --------- | ------- | ------------- |
+| STR  | 10 (+0) ^ | PRF     | +2            |
+| CON  | 16 (+3) ^ | MAX HP  | 40            |
+| DEX  | 15 (+2)   | AC      | 20 (B. Plate) |
+| INT  | 11 (+0)   | Cur. HP | 40            |
+| WIS  | 8  (-1)   | Hit Die | 3d10          |
+| CHA  | 13 (+1)   | Speed   | 30'           |
 
 ###### SKILLS
 - Athletics
@@ -265,14 +265,14 @@ Ace's Carbine (30 DRM, FR); +8, 3d6+2 fire
 ##### Pvt. Maverick
 > Mountain Hall Dwarf, Totem Barbarian (3)
 
-| STAT | #       | STAT    | #              |
-| ---- | ------- | ------- | -------------- |
-| STR  | 10 (+0) | PRF     | +2             |
-| CON  | 16 (+3) | MAX HP  | 44             |
-| DEX  | 15 (+2) | AC      | 15 (Unarmored) |
-| INT  | 12 (+1) | Cur. HP | 44             |
-| WIS  | 8  (-1) | Hit Die | 3d12           |
-| CHA  | 12 (+1) | Speed   | 30'            |
+| STAT | #         | STAT    | #              |
+| ---- | --------- | ------- | -------------- |
+| STR  | 10 (+0) ^ | PRF     | +2             |
+| CON  | 16 (+3) ^ | MAX HP  | 44             |
+| DEX  | 15 (+2)   | AC      | 15 (Unarmored) |
+| INT  | 12 (+1)   | Cur. HP | 44             |
+| WIS  | 8  (-1)   | Hit Die | 3d12           |
+| CHA  | 12 (+1)   | Speed   | 30'            |
 
 ###### SKILLS
 - Athletics
@@ -284,6 +284,11 @@ Ace's Carbine (30 DRM, FR); +8, 3d6+2 fire
 *Languages:* Montal, Fanyaquestan
 
 ###### ACTIONS
+
+Maverick's Carbine (30 DRM, FR); +6, 3d6+2 fire
+
+(BA) Rage: Bear
+
 ###### FEATURES
 - **Rage: Bear** (BA, 3/3)
 	Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
@@ -302,24 +307,50 @@ Ace's Carbine (30 DRM, FR); +8, 3d6+2 fire
 ##### Pvt. Goose
 > Mountain Hall Dwarf, War Cleric (3)
 
-| STAT | #       | STAT    | #             |
-| ---- | ------- | ------- | ------------- |
-| STR  | 8  (-1) | PRF     | +2            |
-| CON  | 16 (+3) | MAX HP  | 36            |
-| DEX  | 15 (+2) | AC      | 20 (B. Plate) |
-| INT  | 10 (+0) | Cur. HP | 36            |
-| WIS  | 11 (+0) | Hit Die | 3d8           |
-| CHA  | 13 (+1) | Speed   | 30'           |
+| STAT | #         | STAT    | #             |
+| ---- | --------- | ------- | ------------- |
+| STR  | 8  (-1)   | PRF     | +2            |
+| CON  | 16 (+3)   | MAX HP  | 36            |
+| DEX  | 15 (+2)   | AC      | 20 (B. Plate) |
+| INT  | 10 (+0)   | Cur. HP | 36            |
+| WIS  | 11 (+0) ^ | Hit Die | 3d8           |
+| CHA  | 13 (+1) ^ | Speed   | 30'           |
 
 ###### SKILLS
+- Athletics
+- Arcana
+- History
+- Religion
+- Medicine
+
+*Languages:* Montal, Fanyaquestan
+
 ###### ACTIONS
+
+Goose's Carbine (30 DRM, FR); +6, 3d6+2 fire
+
+(BA) War Priest Attack
+(FA) Cast a Spell (*DANGER*)
+(BA) CD: Turn Undead
+
 ###### FEATURES
 - **Spellcasting** +2, DC: 10 (I: 4/4, II: 2/2)
+
+| L   | Spell Name         | Effect                                                                                                                            |
+| --- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| 0   | Guidance           | +1d4 for next ability check in 1 min                                                                                              |
+| 0   | Sacred Flame       | Target creatures makes WIS save or takes 1d8 radiant                                                                              |
+| 0   | Spare The Dying    | You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs. |
+| 0   | Light              | 20' radius bright + 20' radius dim light                                                                                          |
+| 1   | Detect Magic       | 30' radius detecting 'the presence of magic' (**+**); learn school if applicable                                                  |
+| 1   | Detect Extraplanar | 30' radius detecting *Aberration*, *Celestial*, *Elemental*, *Fey*, *Fiend*, or *Undead*                                          |
+| 2   | Hold Person        | Target Humanoid makes WIS save or is Paralyzed (save ends)                                                                        |
+
 - **War Priest** (BA, 1/1)
 	When you use the Attack action, you can make one weapon attack as a bonus action.
 - **Channel Divinity** (1/1)
 	- *Guided Strike*; When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
-	- *Tu*
+	- *Turn Undead*; As an action, Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is *turned* for 1 minute or until it takes any damage. A *turned* creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 ## RHOD (depreciated)
 ##### To-Do
