@@ -184,7 +184,7 @@ Artifacts:
 | STR  | 13 (+1)   | PRF     | +3            |
 | CON  | 16 (+3)   | MAX HP  | 65            |
 | DEX  | 16 (+3) ^ | AC      | 20 (B. Plate) |
-| INT  | 10 (+0) ^ | Cur. HP | 63            |
+| INT  | 10 (+0) ^ | Cur. HP | 65            |
 | WIS  | 14 (+2)   | Hit Die | 5d10          |
 | CHA  | 9  (-1)   | Speed   | 30'           |
 
@@ -264,7 +264,7 @@ Ace's Carbine (299 DRM, FR); +8, 3d6+2 fire
 	You gain a +2 bonus to attack rolls with Ranged Weapons.
 - **Second Wind** (BA, 1/1)
 	On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
-- **Action Surge** (BA, 0/1)
+- **Action Surge** (BA, 1/1)
 	On your turn, you can take one additional action.
 
 ###### INVENTORY
@@ -280,7 +280,7 @@ Ace's Carbine (299 DRM, FR); +8, 3d6+2 fire
 | STR  | 10 (+0) ^ | PRF     | +2             |
 | CON  | 16 (+3) ^ | MAX HP  | 44             |
 | DEX  | 15 (+2)   | AC      | 15 (Unarmored) |
-| INT  | 12 (+1)   | Cur. HP | 28             |
+| INT  | 12 (+1)   | Cur. HP | 44             |
 | WIS  | 8  (-1)   | Hit Die | 3d12           |
 | CHA  | 12 (+1)   | Speed   | 30'            |
 
@@ -300,7 +300,7 @@ Maverick's Carbine (299 DRM, FR); +6, 3d6+2 fire
 (BA) Rage: Bear
 
 ###### FEATURES
-- **Rage: Bear** (BA, 1/3)
+- **Rage: Bear** (BA, 3/3)
 	Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 	
 	- You have advantage on Strength checks and Strength saving throws.
@@ -328,7 +328,7 @@ Maverick's Carbine (299 DRM, FR); +6, 3d6+2 fire
 | STR  | 8  (-1)   | PRF     | +2            |
 | CON  | 16 (+3)   | MAX HP  | 36            |
 | DEX  | 15 (+2)   | AC      | 20 (B. Plate) |
-| INT  | 10 (+0)   | Cur. HP | 20            |
+| INT  | 10 (+0)   | Cur. HP | 36            |
 | WIS  | 11 (+0) ^ | Hit Die | 3d8           |
 | CHA  | 13 (+1) ^ | Speed   | 30'           |
 
@@ -362,7 +362,7 @@ Goose's Carbine (297 DRM, FR); +6, 3d6+2 fire
 | 1   | Detect Extraplanar | 30' radius detecting *Aberration*, *Celestial*, *Elemental*, *Fey*, *Fiend*, or *Undead*                                          |
 | 2   | Hold Person        | Target Humanoid makes WIS save or is Paralyzed (save ends)                                                                        |
 
-- **War Priest** (BA, 0/1)
+- **War Priest** (BA, 1/1)
 	When you use the Attack action, you can make one weapon attack as a bonus action.
 - **Channel Divinity** (1/1)
 	- *Guided Strike*; When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.

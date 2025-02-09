@@ -56,7 +56,8 @@ There's a contract out on a gang of Scavs who are hanging out in the *Showroom*,
 
 After we buy some medical supplies, we are going to sleep, and then we're going to go kill the gang in the *Showroom*. Maverik picked up a glass artifact on our way. We made our way into the *Hangars* where Dante started investigating an open container-building. A blue tracer shot right where her head would be...
 
-#### ...
+#### The Battle at the Hangars
+We fought against a bunch of guys! I think they were scavs, because they didn't have any identifiers. What a thrill!
 
 ## Important Knowledge
 
@@ -105,7 +106,7 @@ On your turn, you can use a *bonus action* to regain hit points equal to 1d10 + 
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
 
-##### Action Surge (FA, 0/1)
+##### Action Surge (FA, 1/1)
 On your turn, you can take one additional action.
 
 Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
