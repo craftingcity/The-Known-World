@@ -280,7 +280,7 @@ Ace's Carbine (300 DRM, FR); +8, 3d6+2 fire
 | STR  | 10 (+0) ^ | PRF     | +2             |
 | CON  | 16 (+3) ^ | MAX HP  | 44             |
 | DEX  | 15 (+2)   | AC      | 15 (Unarmored) |
-| INT  | 12 (+1)   | Cur. HP | 22             |
+| INT  | 12 (+1)   | Cur. HP | 42             |
 | WIS  | 8  (-1)   | Hit Die | 3d12           |
 | CHA  | 12 (+1)   | Speed   | 30'            |
 
@@ -300,7 +300,7 @@ Maverick's Carbine (300 DRM, FR); +6, 3d6+2 fire
 (BA) Rage: Bear
 
 ###### FEATURES
-- **Rage: Bear** (BA, 2/3)
+- **Rage: Bear** (BA, 1/3)
 	Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 	
 	- You have advantage on Strength checks and Strength saving throws.
@@ -369,7 +369,7 @@ Goose's Carbine (297 DRM, FR); +6, 3d6+2 fire
 	- *Turn Undead*; As an action, Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is *turned* for 1 minute or until it takes any damage. A *turned* creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 ###### INVENTORY
-- Isiopara (x10) - +3d4+10hp / 3 rounds
+- Isiopara (x9) - +3d4+10hp / 3 rounds
 - Medical Kit (10/10) - 1 Charge, Roll Hit Dice + CON, add to HP
 - Pineapple Grenade (x2) - 5d6+20 @ 15' sphere
 
