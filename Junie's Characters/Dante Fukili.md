@@ -57,7 +57,9 @@ There's a contract out on a gang of Scavs who are hanging out in the *Showroom*,
 After we buy some medical supplies, we are going to sleep, and then we're going to go kill the gang in the *Showroom*. Maverik picked up a glass artifact on our way. We made our way into the *Hangars* where Dante started investigating an open container-building. A blue tracer shot right where her head would be...
 
 #### The Battle at the Hangars
-We fought against a bunch of guys! I think they were scavs, because they didn't have any identifiers. What a thrill!
+We fought against a bunch of guys! I think they were scavs, because they didn't have any identifiers. What a thrill! We took a rest, healing up a little, catching our breath, and then we gathered and sorted the loot around here;
+`9 bodies, 6 buildings`
+
 
 ## Important Knowledge
 
