@@ -67,13 +67,13 @@ After we buy some medical supplies, we are going to sleep, and then we're going 
 | STR  | 12 (+1) ^ | PRF   | +3        |
 | CON  | 17 (+3) ^ | M. HP | 46 Max HP |
 | DEX  | 20 (+5)   | AC    | (16)      |
-| INT  | 10 (+0)   | C. HP | 25 HP     |
+| INT  | 10 (+0)   | C. HP | 42 HP     |
 | WIS  | 11 (+0)   | HD    | 3d8, 2d10 |
 | CHA  | 14 (+2)   | SPD   | 35' (7s)  |
 
 | Weapon                  | To Hit             | Damage         |
 | ----------------------- | ------------------ | -------------- |
-| Dante's Carbine (200 Y) | +10 (DEX+PRF+FS:A) | 3d6+5 thunder  |
+| Dante's Carbine (198 Y) | +10 (DEX+PRF+FS:A) | 3d6+5 thunder  |
 | Dante's Claws           | +8 (DEX+PRF)       | 1d4+6 slashing |
 
 #### Proficiencies
@@ -105,7 +105,7 @@ On your turn, you can use a *bonus action* to regain hit points equal to 1d10 + 
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
 
-##### Action Surge (FA, 1/1)
+##### Action Surge (FA, 0/1)
 On your turn, you can take one additional action.
 
 Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.

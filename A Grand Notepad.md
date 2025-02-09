@@ -184,7 +184,7 @@ Artifacts:
 | STR  | 13 (+1)   | PRF     | +3            |
 | CON  | 16 (+3)   | MAX HP  | 65            |
 | DEX  | 16 (+3) ^ | AC      | 20 (B. Plate) |
-| INT  | 10 (+0) ^ | Cur. HP | 65            |
+| INT  | 10 (+0) ^ | Cur. HP | 63            |
 | WIS  | 14 (+2)   | Hit Die | 5d10          |
 | CHA  | 9  (-1)   | Speed   | 30'           |
 
@@ -200,7 +200,7 @@ Artifacts:
 
 ###### ACTIONS
 
-Spitfire's Carbine (30 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
+Spitfire's Carbine (298 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
 
 (BA) Crimson Rite: Flame
 (BA) Curse, Marked
@@ -254,7 +254,7 @@ Spitfire's Carbine (30 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
 
 ###### ACTIONS
 
-Ace's Carbine (30 DRM, FR); +8, 3d6+2 fire
+Ace's Carbine (300 DRM, FR); +8, 3d6+2 fire
 
 (BA) Second Wind
 (BA) Action Surge
@@ -264,7 +264,7 @@ Ace's Carbine (30 DRM, FR); +8, 3d6+2 fire
 	You gain a +2 bonus to attack rolls with Ranged Weapons.
 - **Second Wind** (BA, 1/1)
 	On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
-- **Action Surge** (BA, 1/1)
+- **Action Surge** (BA, 0/1)
 	On your turn, you can take one additional action.
 
 ###### INVENTORY
@@ -280,7 +280,7 @@ Ace's Carbine (30 DRM, FR); +8, 3d6+2 fire
 | STR  | 10 (+0) ^ | PRF     | +2             |
 | CON  | 16 (+3) ^ | MAX HP  | 44             |
 | DEX  | 15 (+2)   | AC      | 15 (Unarmored) |
-| INT  | 12 (+1)   | Cur. HP | 44             |
+| INT  | 12 (+1)   | Cur. HP | 31             |
 | WIS  | 8  (-1)   | Hit Die | 3d12           |
 | CHA  | 12 (+1)   | Speed   | 30'            |
 
@@ -295,7 +295,7 @@ Ace's Carbine (30 DRM, FR); +8, 3d6+2 fire
 
 ###### ACTIONS
 
-Maverick's Carbine (30 DRM, FR); +6, 3d6+2 fire
+Maverick's Carbine (299 DRM, FR); +6, 3d6+2 fire
 
 (BA) Rage: Bear
 
@@ -343,7 +343,7 @@ Maverick's Carbine (30 DRM, FR); +6, 3d6+2 fire
 
 ###### ACTIONS
 
-Goose's Carbine (30 DRM, FR); +6, 3d6+2 fire
+Goose's Carbine (298 DRM, FR); +6, 3d6+2 fire
 
 (BA) War Priest Attack
 (FA) Cast a Spell (*DANGER*)
