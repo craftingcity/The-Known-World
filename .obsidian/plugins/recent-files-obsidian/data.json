@@ -5,8 +5,32 @@
       "path": "A Grand Notepad.md"
     },
     {
+      "basename": "Dante Fukili",
+      "path": "Junie's Characters/Dante Fukili.md"
+    },
+    {
+      "basename": "MinyostalmaFeatures",
+      "path": "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png"
+    },
+    {
       "basename": "The Gear...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
+    },
+    {
+      "basename": "Custom Features",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
+    },
+    {
+      "basename": "Custom Class - Blood Hunter",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
+    },
+    {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
     },
     {
       "basename": "Weapons of Alaturmen",
@@ -15,26 +39,6 @@
     {
       "basename": "The People...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md"
-    },
-    {
-      "basename": "Custom Features",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
-    },
-    {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
-    },
-    {
-      "basename": "Custom Class - Blood Hunter",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md"
-    },
-    {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
-    },
-    {
-      "basename": "Dante Fukili",
-      "path": "Junie's Characters/Dante Fukili.md"
     },
     {
       "basename": "Prenotes Feb 04 25",
@@ -99,10 +103,6 @@
     {
       "basename": "The Old",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md"
-    },
-    {
-      "basename": "MinyostalmaFeatures",
-      "path": "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png"
     },
     {
       "basename": "The Monsters...",

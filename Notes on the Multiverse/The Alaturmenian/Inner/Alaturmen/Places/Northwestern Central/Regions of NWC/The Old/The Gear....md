@@ -4,7 +4,7 @@ The primary business within the Old is death. Death as business is fueled by amm
 Given this, Traders within the Old will often quote prices in Ancient Coin rather than Silver or Gold, but nevertheless they are very willing to take barter exchanges of equal or greater value.
 
 > Ancient Coin is worth 200sp or more outside the Old to some collectors, but within the Old, it can be exchanged for only some 50sp of equipment.
-> Otherwise, when Ancient Coin is not exchanged, five Durandurm Magazines, three Pineapple Grenades, or a Carbine and some RDM are generally acceptable alternatives.
+> Otherwise, when Ancient Coin is not exchanged, five Durandurm Magazines, three Pineapple Grenades, or a Carbine and some DRM are generally acceptable alternatives.
 
 
 ### Arms
