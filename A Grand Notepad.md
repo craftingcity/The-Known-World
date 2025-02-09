@@ -179,14 +179,14 @@ Artifacts:
 ##### Cpl. Spitfire
 > Mountain Hall Dwarf, Soulbound Blood Hunter (5)
 
-| STAT | #         | STAT    | #    |
-| ---- | --------- | ------- | ---- |
-| STR  | 13 (+1)   | PRF     | +3   |
-| CON  | 16 (+3)   | MAX HP  | 65   |
-| DEX  | 16 (+3) ^ | AC      |      |
-| INT  | 10 (+0) ^ | Cur. HP | 65   |
-| WIS  | 14 (+2)   | Hit Die | 5d10 |
-| CHA  | 9  (-1)   | Speed   | 30'  |
+| STAT | #         | STAT    | #             |
+| ---- | --------- | ------- | ------------- |
+| STR  | 13 (+1)   | PRF     | +3            |
+| CON  | 16 (+3)   | MAX HP  | 65            |
+| DEX  | 16 (+3) ^ | AC      | 20 (B. Plate) |
+| INT  | 10 (+0) ^ | Cur. HP | 65            |
+| WIS  | 14 (+2)   | Hit Die | 5d10          |
+| CHA  | 9  (-1)   | Speed   | 30'           |
 
 ###### SKILLS
 - Athletics
@@ -200,14 +200,13 @@ Artifacts:
 
 ###### ACTIONS
 
-Spitfire's Carbine: +11, 3d6+3 fire (+ 1d6 fire)
+Spitfire's Carbine (30 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
 
 (BA) Crimson Rite: Flame
 (BA) Curse, Marked
 (BA) Curse, Warrior
 
 ###### FEATURES
-- 
 - **Hunters Bane** (HD: d6)
 	You have advantage on Wisdom (Survival) checks to track fey, fiends, or undead, as well as on Intelligence checks to recall information about such creatures.
 	*Hemocraft Save* = 13 (8 + PRF + WIS)
@@ -230,39 +229,97 @@ Spitfire's Carbine: +11, 3d6+3 fire (+ 1d6 fire)
 ##### Pvt. Ace
 > Mountain Hall Dwarf, Banneret Fighter (3)
 
-| STAT | #       | STAT    | #    |
-| ---- | ------- | ------- | ---- |
-| STR  | 10 (+0) | PRF     | +2   |
-| CON  | 16 (+3) | MAX HP  | 40   |
-| DEX  | 15 (+2) | AC      |      |
-| INT  | 11 (+0) | Cur. HP | 40   |
-| WIS  | 8  (-1) | Hit Die | 3d10 |
-| CHA  | 13 (+1) | Speed   | 30'  |
+| STAT | #       | STAT    | #             |
+| ---- | ------- | ------- | ------------- |
+| STR  | 10 (+0) | PRF     | +2            |
+| CON  | 16 (+3) | MAX HP  | 40            |
+| DEX  | 15 (+2) | AC      | 20 (B. Plate) |
+| INT  | 11 (+0) | Cur. HP | 40            |
+| WIS  | 8  (-1) | Hit Die | 3d10          |
+| CHA  | 13 (+1) | Speed   | 30'           |
+
+###### SKILLS
+- Athletics
+- Intimidation
+- Insight
+- Medicine
+- Survival
+
+*Languages:* Montal, Fanyaquestan
+
+###### ACTIONS
+
+Ace's Carbine (30 DRM, FR); +8, 3d6+2 fire
+
+(BA) Second Wind
+(BA) Action Surge
+
+###### FEATURES
+- **Fighting Style: Archery**
+	You gain a +2 bonus to attack rolls with Ranged Weapons.
+- **Second Wind** (BA, 1/1)
+	On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
+- **Action Surge** (BA, 1/1)
+	On your turn, you can take one additional action.
 
 ##### Pvt. Maverick
 > Mountain Hall Dwarf, Totem Barbarian (3)
 
-| STAT | #       | STAT    | #    |
-| ---- | ------- | ------- | ---- |
-| STR  | 10 (+0) | PRF     | +2   |
-| CON  | 16 (+3) | MAX HP  | 44   |
-| DEX  | 15 (+2) | AC      |      |
-| INT  | 12 (+1) | Cur. HP | 44   |
-| WIS  | 8  (-1) | Hit Die | 3d12 |
-| CHA  | 12 (+1) | Speed   | 30'  |
+| STAT | #       | STAT    | #              |
+| ---- | ------- | ------- | -------------- |
+| STR  | 10 (+0) | PRF     | +2             |
+| CON  | 16 (+3) | MAX HP  | 44             |
+| DEX  | 15 (+2) | AC      | 15 (Unarmored) |
+| INT  | 12 (+1) | Cur. HP | 44             |
+| WIS  | 8  (-1) | Hit Die | 3d12           |
+| CHA  | 12 (+1) | Speed   | 30'            |
+
+###### SKILLS
+- Athletics
+- Animal Handling
+- Survival
+- Perception
+- Medicine
+
+*Languages:* Montal, Fanyaquestan
+
+###### ACTIONS
+###### FEATURES
+- **Rage: Bear** (BA, 3/3)
+	Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+	
+	- You have advantage on Strength checks and Strength saving throws.
+	- You have resistance to non-psychic damage.
+	- If you are able to cast spells, you can't cast them or concentrate on them while raging.
+	- When you make a melee weapon attack using Strength, you gain a bonus to the damage roll.
+- **Unarmored Defense**
+	While you are not wearing any armor, your armor class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
+- **Reckless Attack**
+	When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
+- **Danger Sense**
+	You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
 
 ##### Pvt. Goose
 > Mountain Hall Dwarf, War Cleric (3)
 
-| STAT | #       | STAT    | #   |
-| ---- | ------- | ------- | --- |
-| STR  | 8  (-1) | PRF     | +2  |
-| CON  | 16 (+3) | MAX HP  | 36  |
-| DEX  | 15 (+2) | AC      |     |
-| INT  | 10 (+0) | Cur. HP | 36  |
-| WIS  | 11 (+0) | Hit Die | 3d8 |
-| CHA  | 13 (+1) | Speed   | 30' |
+| STAT | #       | STAT    | #             |
+| ---- | ------- | ------- | ------------- |
+| STR  | 8  (-1) | PRF     | +2            |
+| CON  | 16 (+3) | MAX HP  | 36            |
+| DEX  | 15 (+2) | AC      | 20 (B. Plate) |
+| INT  | 10 (+0) | Cur. HP | 36            |
+| WIS  | 11 (+0) | Hit Die | 3d8           |
+| CHA  | 13 (+1) | Speed   | 30'           |
 
+###### SKILLS
+###### ACTIONS
+###### FEATURES
+- **Spellcasting** +2, DC: 10 (I: 4/4, II: 2/2)
+- **War Priest** (BA, 1/1)
+	When you use the Attack action, you can make one weapon attack as a bonus action.
+- **Channel Divinity** (1/1)
+	- *Guided Strike*; When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
+	- *Tu*
 
 ## RHOD (depreciated)
 ##### To-Do
