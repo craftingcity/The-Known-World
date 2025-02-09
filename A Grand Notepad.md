@@ -360,7 +360,11 @@ Goose's Carbine (297 DRM, FR); +6, 3d6+2 fire
 | 0   | Light              | 20' radius bright + 20' radius dim light                                                                                          |
 | 1   | Detect Magic       | 30' radius detecting 'the presence of magic' **(+)**; learn school if applicable                                                  |
 | 1   | Detect Extraplanar | 30' radius detecting *Aberration*, *Celestial*, *Elemental*, *Fey*, *Fiend*, or *Undead*                                          |
+| 1   | Divine Favor       | BA; attacks deal an extra 1d4 radiant damage on a hit.                                                                                                                                  |
+| 1   | Shield of Faith    | BA; target gets +2 AC                                                                                                                                  |
 | 2   | Hold Person        | Target Humanoid makes WIS save or is Paralyzed (save ends)                                                                        |
+| 2   | Magic Weapon       | BA; weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.                                                                                                                                  |
+| 2   | Spiritual Weapon   |                                                                                                                                   |
 
 - **War Priest** (BA, 1/1)
 	When you use the Attack action, you can make one weapon attack as a bonus action.
