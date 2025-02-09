@@ -270,7 +270,7 @@ Ace's Carbine (300 DRM, FR); +8, 3d6+2 fire
 ###### INVENTORY
 - Isiopara (x10) - +3d4+10hp / 3 rounds
 - Medical Kit (10/10) - 1 Charge, Roll Hit Dice + CON, add to HP
-- Pineapple Grenade (x1) - 5d6+20 @ 15' sphere
+- Pineapple Grenade (x0) - 5d6+20 @ 15' sphere
 
 ##### Pvt. Maverick
 > Mountain Hall Dwarf, Totem Barbarian (3)
@@ -280,7 +280,7 @@ Ace's Carbine (300 DRM, FR); +8, 3d6+2 fire
 | STR  | 10 (+0) ^ | PRF     | +2             |
 | CON  | 16 (+3) ^ | MAX HP  | 44             |
 | DEX  | 15 (+2)   | AC      | 15 (Unarmored) |
-| INT  | 12 (+1)   | Cur. HP | 6              |
+| INT  | 12 (+1)   | Cur. HP | 22             |
 | WIS  | 8  (-1)   | Hit Die | 3d12           |
 | CHA  | 12 (+1)   | Speed   | 30'            |
 
@@ -300,7 +300,7 @@ Maverick's Carbine (300 DRM, FR); +6, 3d6+2 fire
 (BA) Rage: Bear
 
 ###### FEATURES
-- **Rage: Bear** (BA, 3/3)
+- **Rage: Bear** (BA, 2/3)
 	Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 	
 	- You have advantage on Strength checks and Strength saving throws.
@@ -328,7 +328,7 @@ Maverick's Carbine (300 DRM, FR); +6, 3d6+2 fire
 | STR  | 8  (-1)   | PRF     | +2            |
 | CON  | 16 (+3)   | MAX HP  | 36            |
 | DEX  | 15 (+2)   | AC      | 20 (B. Plate) |
-| INT  | 10 (+0)   | Cur. HP | 36            |
+| INT  | 10 (+0)   | Cur. HP | 19            |
 | WIS  | 11 (+0) ^ | Hit Die | 3d8           |
 | CHA  | 13 (+1) ^ | Speed   | 30'           |
 
@@ -343,7 +343,7 @@ Maverick's Carbine (300 DRM, FR); +6, 3d6+2 fire
 
 ###### ACTIONS
 
-Goose's Carbine (298 DRM, FR); +6, 3d6+2 fire
+Goose's Carbine (297 DRM, FR); +6, 3d6+2 fire
 
 (BA) War Priest Attack
 (FA) Cast a Spell (*DANGER*)

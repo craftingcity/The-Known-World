@@ -67,7 +67,7 @@ After we buy some medical supplies, we are going to sleep, and then we're going 
 | STR  | 12 (+1) ^ | PRF   | +3        |
 | CON  | 17 (+3) ^ | M. HP | 46 Max HP |
 | DEX  | 20 (+5)   | AC    | (16)      |
-| INT  | 10 (+0)   | C. HP | 42 HP     |
+| INT  | 10 (+0)   | C. HP | 46 HP     |
 | WIS  | 11 (+0)   | HD    | 3d8, 2d10 |
 | CHA  | 14 (+2)   | SPD   | 35' (7s)  |
 
@@ -144,7 +144,7 @@ You can move up to half your speed as a *reaction* when an enemy ends its turn w
 		- Sheath (Dagger)
 		- Scabbard (Shortsword)
 		- Ammo Sack (20 DRM, EY)
-		- Medical Sack (2x Isiopara)
+		- Medical Sack (0x Isiopara)
 *Legs*:
 	Chainmail
 *Feet*:
