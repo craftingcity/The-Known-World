@@ -67,7 +67,7 @@ After we buy some medical supplies, we are going to sleep, and then we're going 
 | STR  | 12 (+1) ^ | PRF   | +3        |
 | CON  | 17 (+3) ^ | M. HP | 46 Max HP |
 | DEX  | 20 (+5)   | AC    | (16)      |
-| INT  | 10 (+0)   | C. HP | 46 HP     |
+| INT  | 10 (+0)   | C. HP | 25 HP     |
 | WIS  | 11 (+0)   | HD    | 3d8, 2d10 |
 | CHA  | 14 (+2)   | SPD   | 35' (7s)  |
 
