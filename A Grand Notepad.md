@@ -239,7 +239,7 @@ Spitfire's Carbine (298 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
 | STR  | 10 (+0) ^ | PRF     | +2            |
 | CON  | 16 (+3) ^ | MAX HP  | 40            |
 | DEX  | 15 (+2)   | AC      | 20 (B. Plate) |
-| INT  | 11 (+0)   | Cur. HP | 40            |
+| INT  | 11 (+0)   | Cur. HP | 11            |
 | WIS  | 8  (-1)   | Hit Die | 3d10          |
 | CHA  | 13 (+1)   | Speed   | 30'           |
 
@@ -254,7 +254,7 @@ Spitfire's Carbine (298 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
 
 ###### ACTIONS
 
-Ace's Carbine (300 DRM, FR); +8, 3d6+2 fire
+Ace's Carbine (299 DRM, FR); +8, 3d6+2 fire
 
 (BA) Second Wind
 (BA) Action Surge
@@ -280,7 +280,7 @@ Ace's Carbine (300 DRM, FR); +8, 3d6+2 fire
 | STR  | 10 (+0) ^ | PRF     | +2             |
 | CON  | 16 (+3) ^ | MAX HP  | 44             |
 | DEX  | 15 (+2)   | AC      | 15 (Unarmored) |
-| INT  | 12 (+1)   | Cur. HP | 42             |
+| INT  | 12 (+1)   | Cur. HP | 28             |
 | WIS  | 8  (-1)   | Hit Die | 3d12           |
 | CHA  | 12 (+1)   | Speed   | 30'            |
 
@@ -328,7 +328,7 @@ Maverick's Carbine (300 DRM, FR); +6, 3d6+2 fire
 | STR  | 8  (-1)   | PRF     | +2            |
 | CON  | 16 (+3)   | MAX HP  | 36            |
 | DEX  | 15 (+2)   | AC      | 20 (B. Plate) |
-| INT  | 10 (+0)   | Cur. HP | 19            |
+| INT  | 10 (+0)   | Cur. HP | 3             |
 | WIS  | 11 (+0) ^ | Hit Die | 3d8           |
 | CHA  | 13 (+1) ^ | Speed   | 30'           |
 
@@ -371,7 +371,7 @@ Goose's Carbine (297 DRM, FR); +6, 3d6+2 fire
 ###### INVENTORY
 - Isiopara (x9) - +3d4+10hp / 3 rounds
 - Medical Kit (10/10) - 1 Charge, Roll Hit Dice + CON, add to HP
-- Pineapple Grenade (x2) - 5d6+20 @ 15' sphere
+- Pineapple Grenade (x1) - 5d6+20 @ 15' sphere
 
 ## RHOD (depreciated)
 ##### To-Do

@@ -97,7 +97,7 @@ This weapon shoots some liquid or gas that quickly ignites. When you hit a targe
 At the beginning of a Burning creature's turn, you deal damage to them as if you had just hit them with a weapon attack. A Burning creature may spend a Full Action or all of their Movement to remove one stack of Burning.
 
 #### Mechanical
-This weapon operates using complicated mechanics
+This weapon operates using complicated mechanics, and can be prone to malfunction. When you roll a 1 on an Attack Roll, you end your Action (you cannot make any Extra Attacks).
 
 #### Grenade (X)
 This weapon is a grenade, designed to be readied, thrown, and then explode. When you make an Attack with a grenade, instead of making an Attack Roll, make an Athletics Check. You may throw the grenade a number of feet equal to twice the total of your Athletics Check.
