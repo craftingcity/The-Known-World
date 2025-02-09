@@ -270,7 +270,7 @@ Ace's Carbine (30 DRM, FR); +8, 3d6+2 fire
 ###### INVENTORY
 - Isiopara (x10) - +3d4+10hp / 3 rounds
 - Medical Kit (10/10) - 1 Charge, Roll Hit Dice + CON, add to HP
-- Pineapple Grenade (x2) - 5d6+20 @ 15' sphere
+- Pineapple Grenade (x1) - 5d6+20 @ 15' sphere
 
 ##### Pvt. Maverick
 > Mountain Hall Dwarf, Totem Barbarian (3)
@@ -362,7 +362,7 @@ Goose's Carbine (30 DRM, FR); +6, 3d6+2 fire
 | 1   | Detect Extraplanar | 30' radius detecting *Aberration*, *Celestial*, *Elemental*, *Fey*, *Fiend*, or *Undead*                                          |
 | 2   | Hold Person        | Target Humanoid makes WIS save or is Paralyzed (save ends)                                                                        |
 
-- **War Priest** (BA, 1/1)
+- **War Priest** (BA, 0/1)
 	When you use the Attack action, you can make one weapon attack as a bonus action.
 - **Channel Divinity** (1/1)
 	- *Guided Strike*; When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
