@@ -8,7 +8,9 @@ When you gain this feature, you, the real player, have made a deal with the Fate
 ##### Curse Specialty
 You take this feature instead of the **Pact Magic** feature at 3rd level.
 
-You learn a *blood curse* of your choice. Learn another at 6th, 9th, 12th, 15th, and 18th levels.
+You learn a *blood curse* of your choice. Learn another at 6th, 9th, 12th, 15th, and 18th levels. 
+
+You gain additional uses of the **Blood Maledict** feature equal to your Constitution Modifier.
 
 ##### Blood Frenzy
 You take this feature instead of the **Mystic Frenzy** feature at 7th level.
@@ -22,7 +24,7 @@ Your soul is your own again.
 
 ## Blood Curses
 ##### Curse of the Warrior
-As a bonus action, choose a creature you have already made an Attack against this turn. Then, make an Attack roll against that creature. You may use this *blood curse* a number of times equal to the maximum value of your *hemocraft die*. You regain the uses of this feature after a long rest.
+As a bonus action, choose a creature you have already made an Attack against this turn. Then, make an Attack roll against that creature. You may use this *blood curse* a number of times equal to the maximum value of your *hemocraft die*. Invoking this *blood curse* does not expend a use of your **Blood Maledict**. You regain the uses of this *blood curse* after a long rest.
 
 *Amplify*. You may choose any creature instead. 
 

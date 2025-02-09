@@ -194,18 +194,38 @@ Artifacts:
 - Investigation
 - Survial
 - Perception
+- Medicine
 
-######
+*Languages:* Montal, Fanyaquestan
+
+###### ACTIONS
+
+Spitfire's Carbine: +11, 3d6+3 fire (+ 1d6 fire)
+
+(BA) Crimson Rite: Flame
+(BA) Curse, Marked
+(BA) Curse, Warrior
 
 ###### FEATURES
-- **Hunters Bane**
+- 
+- **Hunters Bane** (HD: d6)
 	You have advantage on Wisdom (Survival) checks to track fey, fiends, or undead, as well as on Intelligence checks to recall information about such creatures.
 	*Hemocraft Save* = 13 (8 + PRF + WIS)
-- **Blood Maledict** (1/1), 2 Curses
+- **Blood Maledict** (4/4), 2 Curses
 	Each time you use your Blood Maledict feature, you choose which curse to invoke from the curses you know. While invoking a blood curse, but before it affects the target, you can choose to amplify the curse by taking necrotic damage equal to one roll of your hemocraft die. This damage can’t be reduced in any way. 
 	An amplified curse gains an additional effect, noted in the curse’s description. Creatures that do not have blood are immune to blood curses unless you have amplified the curse.
 		- *Curse of the Marked* (BA)
 		- Mark a creature that you can see within 30 feet of you. Until the end of your turn, whenever you hit the marked creature with a weapon for which you have an active *crimson rite*, you roll an additional hemocraft die when determining the extra damage from the rite. **(+)**; The next attack roll you make against the target before the end of your turn has advantage.
+		- *Curse of the Warrior* (BA)
+		- As a bonus action, choose a creature you have already made an Attack against this turn. Then, make an Attack roll against that creature. You may use this *blood curse* a number of times equal to the maximum value of your *hemocraft die*. Invoking this *blood curse* does not expend a use of your **Blood Maledict**. You regain the uses of this *blood curse* after a long rest. **(+)**; You may choose any creature instead. 
+- **Fighting Style: Archery**
+	You gain a +2 bonus to attack rolls with Ranged Weapons.
+- **Crimson Rite: Flame** (BA)
+	As a bonus action, you can activate any rite you know on one weapon you’re holding. The effect of the rite lasts until you finish a short or long rest. When you activate a rite, you take necrotic damage equal to one roll of your hemocraft die. This damage can’t be reduced in any way.
+
+	While the rite is in effect, *attacks you make with this weapon are magical, and deal extra damage equal to your hemocraft die* of the type determined by the chosen rite. A weapon can hold only one active rite at a time. Other creatures can’t gain the benefit of your rite.
+- **Extra Attack I**
+	You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ##### Pvt. Ace
 > Mountain Hall Dwarf, Banneret Fighter (3)
