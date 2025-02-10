@@ -9,14 +9,14 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Arms
 #### SCAVANGED / REFIT
-| Name                        | Range  | Type      | Dam.                | Ammo      | Crafters | Cost in AC |
-| --------------------------- | ------ | --------- | ------------------- | --------- | -------- | ---------- |
-| Steel Machete               | 5ft    | slashing  | 2d4+STR             | none      | all      | 0.1        |
-| Scavenged Handblaster       | 30/90  | dunam     | 1d6+DEX             | durandurm | all      | 0.25       |
-| Scavended Scatterblaster    | 10'    | dunam     | 3d6+DEX             | durandurm | all      | 0.35       |
-| Scavenged Repeating Blaster | 60/180 | dunam     | 3d6+DEX             | durandurm | all      | 0.5        |
-| Pipe Grenade                | 0-20   | explosive | 10ft sphere, 3d6+16 | n/a       | all      | 0.2        |
-| Homemade Fire-Bomb          | 0-20   | fire      | 5ft sphere, 3d4+8   | n/a       | all      | 0.1        |
+| Name                     | Range  | Type      | Dam.                | Ammo      | Crafters | Cost in AC |
+| ------------------------ | ------ | --------- | ------------------- | --------- | -------- | ---------- |
+| Steel Machete            | 5ft    | slashing  | 2d4+STR             | none      | all      | 0.1        |
+| Scavenged Handblaster    | 30/90  | dunam     | 1d6+DEX             | durandurm | all      | 0.25       |
+| Scavended Scatterblaster | 10'    | dunam     | 3d6+DEX             | durandurm | all      | 0.35       |
+| Scavenged Carbine        | 60/180 | dunam     | 3d6+DEX             | durandurm | all      | 0.5        |
+| Pipe Grenade             | 0-20   | explosive | 10ft sphere, 3d6+16 | n/a       | all      | 0.2        |
+| Homemade Fire-Bomb       | 0-20   | fire      | 5ft sphere, 3d4+8   | n/a       | all      | 0.1        |
 
 #### IMPORTED / FORGED
 | Name                        | Range   | Type          | Dam.                 | Ammo      | Importers | Cost in AC |

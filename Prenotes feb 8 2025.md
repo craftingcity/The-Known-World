@@ -38,5 +38,24 @@ Spitfire (20) 65, 51,
 ~~B(19) 65, 29, 45, 5, 25,~~
 ~~C(17) 50, 14, 31, 8~~
 ##### THE BODIES
+Black A 'Big Dog'
+	- Durandurm Carbine
+Black B 'Hunter'
+	- Durandurm Carbine
+Black C 'Gatherer'
+	- Durandurm Carbine
+Red A 'Vermin'
+	- Durandurm Carbine
+Red B 'Worm'
+	- Durandurm Carbine
+Red C 'Crow'
+	- Durandurm Carbine
+Red D 'Bunny'
+	- Durandurm Carbine
+Red E 'Ratkin'
+	- Durandurm Carbine
+Red F 'Racoon'
+	- Durandurm Carbine
+
 ##### THE BUILDINGS
 
