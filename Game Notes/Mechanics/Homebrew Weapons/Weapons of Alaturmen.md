@@ -303,6 +303,11 @@ Bolas deal 1d4 bludgeoning damage.
 Bolas are *lassoing* and *thrown (20/60)*.
 
 #### Throwing Blade
+Throwing Blades are small pointed daggers with a smooth grip designed to be launched from the hand toward the target, either straight forward or in a spinning motion, notably used by assassins and bandits throughout history.
+
+Throwing Blades deal 1d4 slashing damage.
+Throwing Blades are *finnesse* *thrown*
+
 #### Throwing Axe
 #### Boomerang
 ##### Stones
