@@ -9,13 +9,13 @@ Scavs tend to group together in buddy-groups (2-4), teams (4-6), or gangs (8+).
 ###### Equipment
 The Scavs are very likely underequipped.
 
-| Class (lvl)       | HP  | AC                    | ATK           | DMG                              |
-| ----------------- | --- | --------------------- | ------------- | -------------------------------- |
-| Tourist   (450xp) | 35  | (Leather)          13 | +4 (15' Cone) | 5d6+2 dam     (D. Scatter)       |
-| Scavenger (450xp) | 50  | (Chitin Mail)      17 | +5      (2x)  | 3d6+3 dam     (D. Carbine)       |
-| Bandit    (450xp) | 65  | (P. Scout Armor)   19 | +6      (2x)  | 3d6+3 dam     (D. Carbine)       |
-| Seeker    (450xp) | 80  | (P. Combat Armor)  20 | +7+1d4  (2x)  | 3d6+1d4+4 dam (Blessed Carbine)  |
-| Veteran   (450xp) | 95  | (D. Tank Plate)    21 | +9      (3x)  | 4d6+5 dam     (Dual-pop Carbine) |
+| Class (lvl)        | HP  | AC                    | ATK           | DMG                              |
+| ------------------ | --- | --------------------- | ------------- | -------------------------------- |
+| Tourist   (450xp)  | 35  | (Leather)          13 | +4 (15' Cone) | 5d6+2 dam     (D. Scatter)       |
+| Scavenger (700xp)  | 50  | (Chitin Mail)      17 | +5      (2x)  | 3d6+3 dam     (D. Carbine)       |
+| Bandit    (1200xp) | 65  | (P. Scout Armor)   19 | +6      (2x)  | 3d6+3 dam     (D. Carbine)       |
+| Seeker    (1600xp) | 80  | (P. Combat Armor)  20 | +7+1d4  (2x)  | 3d6+1d4+4 dam (Blessed Carbine)  |
+| Veteran   (2100xp) | 95  | (D. Tank Plate)    21 | +9      (3x)  | 4d6+5 dam     (Dual-pop Carbine) |
 
 ###### Areas of Operation
 - [[The Places...#The Haven]]
@@ -47,13 +47,13 @@ Militants typically are grouped in squads (4-8) or companies (10-20) for their m
 ###### Equipment
 The WFM are reasonably equipped for military containment, but undersupplied for deep exploration.
 
-| Class (lvl)      | HP  | AC                      | ATK         | DMG                                   |
-| ---------------- | --- | ----------------------- | ----------- | ------------------------------------- |
-| Ensign   (450xp) | 40  | (Half Plate)         17 | +6+1d4      | 1d6+1d4+4 dam   (Blessed Handblaster) |
-| Private  (450xp) | 60  | (Blessed Half Plate) 19 | +7+1d4 (x2) | 3d6+1d4+5 dam   (Blessed Carbine)     |
-| Corporal (450xp) | 80  | (Blessed Half Plate) 19 | +8+1d4 (x2) | 3d6+1d4+6 dam   (Blessed Carbine)     |
-| Captain  (450xp) | 100 | (Blessed Platemail)  20 | +10    (x2) | 4d6+7 dam       (Dual-pop Carbine)    |
-| Major    (450xp) | 120 | (Blessed Platemail)  20 | +11    (x3) | 4d6+8 dam       (Dual-pop Carbine)    |
+| Class (lvl)       | HP  | AC                      | ATK         | DMG                                   |
+| ----------------- | --- | ----------------------- | ----------- | ------------------------------------- |
+| Ensign   (700xp)  | 40  | (Half Plate)         17 | +6+1d4      | 1d6+1d4+4 dam   (Blessed Handblaster) |
+| Private  (1200xp) | 60  | (Blessed Half Plate) 19 | +7+1d4 (x2) | 3d6+1d4+5 dam   (Blessed Carbine)     |
+| Corporal (1600xp) | 80  | (Blessed Half Plate) 19 | +8+1d4 (x2) | 3d6+1d4+6 dam   (Blessed Carbine)     |
+| Captain  (2100xp) | 100 | (Blessed Platemail)  20 | +10    (x2) | 4d6+7 dam       (Dual-pop Carbine)    |
+| Major    (2600xp) | 120 | (Blessed Platemail)  20 | +11    (x3) | 4d6+8 dam       (Dual-pop Carbine)    |
 
 ###### Areas of Operation
 - [[The Places...#The Cordon]]
@@ -77,13 +77,13 @@ Hired soldiers willing to keep their employer's identity secret, the Mercenary g
 
 Mercenaries are typically grouped into squads (3-6) or teams (8-12). Solo Operators are inadvisable, but many find their profit margin rise when compared to so-called 'group-work'.
 
-| Class (lvl)             | HP  | AC                          | ATK      | DMG                           |
-| ----------------------- | --- | --------------------------- | -------- | ----------------------------- |
-| Team Prospect   (450xp) | 45  | (Patched S. Armor) 17       | +5  (x2) | 3d6+4 dam  (D. Carbine)       |
-| Team Member     (450xp) | 60  | (P. Scout Armor)   19       | +8  (x2) | 3d6+8 dam  (Refined Carbine)  |
-| Team Specialist (450xp) | 80  | (P. Combat Armor)  22       | +8  (x2) | 4d6+8 dam  (Dual-pop Carbine) |
-| Team Leader     (450xp) | 100 | (P. Combat Armor)  23       | +9  (x3) | 4d6+10 dam (Dual-pop Carbine) |
-| Solo Operator   (450xp) | 125 | (D. Power Plate)   23, DR 5 | +10 (x3) | 4d6+10 dam (Dual-pop Carbine) |
+| Class (lvl)              | HP  | AC                          | ATK      | DMG                           |
+| ------------------------ | --- | --------------------------- | -------- | ----------------------------- |
+| Team Prospect   (700xp)  | 45  | (Patched S. Armor) 17       | +5  (x2) | 3d6+4 dam  (D. Carbine)       |
+| Team Member     (1200xp) | 60  | (P. Scout Armor)   19       | +8  (x2) | 3d6+8 dam  (Refined Carbine)  |
+| Team Specialist (1600xp) | 80  | (P. Combat Armor)  22       | +8  (x2) | 4d6+8 dam  (Dual-pop Carbine) |
+| Team Leader     (2100xp) | 100 | (P. Combat Armor)  23       | +9  (x3) | 4d6+10 dam (Dual-pop Carbine) |
+| Solo Operator   (2600xp) | 125 | (D. Power Plate)   23, DR 5 | +10 (x3) | 4d6+10 dam (Dual-pop Carbine) |
 
 ###### Equipment
 The Mercenaries are well-equipped.
@@ -121,13 +121,13 @@ Extramis tend to group together in buddy-groups (2-4) or teams (4-6), when we ca
 ###### Equipment
 Extramis is underequipped, but knowledgeable.
 
-| Class (lvl)        | HP  | AC                         | ATK           | DMG                          |
-| ------------------ | --- | -------------------------- | ------------- | ---------------------------- |
-| Fratrem    (450xp) | 40  | (Chitin Plate)    18       | +4 (15' Cone) | 5d6+2 dam (D. Scatter)       |
-| Patruus    (450xp) | 60  | (P. Combat Armor) 21       | +7 (x2)       | 3d6+5 dam (Refined Carbine)  |
-| Redigo     (450xp) | 80  | (P. Combat Armor) 22       | +7 (x2)       | 4d6+4 dam (Dual-pop Carbine) |
-| Produco    (450xp) | 100 | (D. Tank Plate)   21, DR 2 | +8 (x2)       | 4d6+5 dam (Dual-pop Carbine) |
-| Ratiocinor (450xp) | 120 | (E. Power Plate)  22, DR 2 | +9 (x3)       | 4d6+6 dam (Dual-pop Carbine) |
+| Class (lvl)         | HP  | AC                         | ATK           | DMG                          |
+| ------------------- | --- | -------------------------- | ------------- | ---------------------------- |
+| Fratrem    (450xp)  | 40  | (Chitin Plate)    18       | +4 (15' Cone) | 5d6+2 dam (D. Scatter)       |
+| Patruus    (700xp)  | 60  | (P. Combat Armor) 21       | +7 (x2)       | 3d6+5 dam (Refined Carbine)  |
+| Redigo     (1200xp) | 80  | (P. Combat Armor) 22       | +7 (x2)       | 4d6+4 dam (Dual-pop Carbine) |
+| Produco    (1600xp) | 100 | (D. Tank Plate)   21, DR 2 | +8 (x2)       | 4d6+5 dam (Dual-pop Carbine) |
+| Ratiocinor (2100xp) | 120 | (E. Power Plate)  22, DR 2 | +9 (x3)       | 4d6+6 dam (Dual-pop Carbine) |
 
 ###### Areas of Operation
 - [[The Places...#The Haven]]
@@ -158,13 +158,13 @@ Troopers tend to group together in buddy-groups (2-4), teams (4-6), or gangs (8+
 ###### Equipment
 The Mountain Troopers are well-equipped. Typically, fresh Troopers sport Tank-Plate, a HEPF2, and a standard Carbine, but after time within the M.B.E.D., they will likely have modified their Carbine to the best of their ability, and the best of the best eventually sport their own Durandurm Powered Plate.
 
-| Class (lvl)      | HP  | AC                         | ATK      | DMG                          |
-| ---------------- | --- | -------------------------- | -------- | ---------------------------- |
-| Ensign   (450xp) | 45  | (R. Tank Plate)   20, DR 1 | +8       | 3d6+4 dam (Refined Carbine)  |
-| Private  (450xp) | 60  | (D. Tank Plate)   21, DR 2 | +9  (x2) | 4d6+2 dam (Dual-pop Carbine) |
-| Corporal (450xp) | 80  | (D. Tank Plate)   21, DR 2 | +11 (x2) | 4d6+3 dam (Dual-pop Carbine) |
-| Captain  (450xp) | 100 | (E. Power Plate)  22, DR 2 | +12 (x2) | 4d6+3 dam (Dual-pop Carbine) |
-| Major    (450xp) | 125 | (D. Power Plate)  23, DR 5 | +14 (x3) | 4d6+4 dam (Dual-pop Carbine) |
+| Class (lvl)       | HP  | AC                         | ATK      | DMG                          |
+| ----------------- | --- | -------------------------- | -------- | ---------------------------- |
+| Ensign   (450xp)  | 45  | (R. Tank Plate)   20, DR 1 | +8       | 3d6+4 dam (Refined Carbine)  |
+| Private  (700xp)  | 60  | (D. Tank Plate)   21, DR 2 | +9  (x2) | 4d6+2 dam (Dual-pop Carbine) |
+| Corporal (1200xp) | 80  | (D. Tank Plate)   21, DR 2 | +11 (x2) | 4d6+3 dam (Dual-pop Carbine) |
+| Captain  (1600xp) | 100 | (E. Power Plate)  22, DR 2 | +12 (x2) | 4d6+3 dam (Dual-pop Carbine) |
+| Major    (2100xp) | 125 | (D. Power Plate)  23, DR 5 | +14 (x3) | 4d6+4 dam (Dual-pop Carbine) |
 
 ###### Areas of Operation
 - [[The Places...#The Factory]] & [[The Places...#The Base]]
@@ -194,13 +194,13 @@ Deep within the Walled ruins, there is some artifact that the White Flame was at
 ###### Equipment
 The Fallen are more than well equipped, sporting heavily modded Durandurm Carbines or Machine Repeaters, powered armors, and an array of the finest ammunition, explosives, and artifacts in Minyostalma.
 
-| Class (lvl)      | HP  | AC                          | ATK      | DMG                          |
-| ---------------- | --- | --------------------------- | -------- | ---------------------------- |
-| Alpha    (450xp) | 80  | (P. Scout Armor)   19       | +8  (x2) | 4d6+6 dam (Dual-pop Carbine) |
-| Beta     (450xp) | 135 | (P. Combat Armor)  23       | +9  (x2) | 4d6+7 dam (Dual-pop Carbine) |
-| Epsilon  (450xp) | 160 | (P. Combat Armor)  23       | +10 (x2) | 4d6+7 dam (Dual-pop Carbine) |
-| Omega    (450xp) | 210 | (D. Power Plate)   23, DR 5 | +11 (x3) | 4d6+7 dam (Dual-pop Carbine) |
-| Omnicron (450xp) | 300 | (D. Power Plate)   23, DR 5 | +12 (x3) | 4d6+8 dam (Dual-pop Carbine) |
+| Class (lvl)        | HP  | AC                          | ATK      | DMG                          |
+| ------------------ | --- | --------------------------- | -------- | ---------------------------- |
+| Alpha    (700xp)   | 80  | (P. Scout Armor)   19       | +8  (x2) | 4d6+6 dam (Dual-pop Carbine) |
+| Beta     (2300xp)  | 135 | (P. Combat Armor)  23       | +9  (x2) | 4d6+7 dam (Dual-pop Carbine) |
+| Epsilon  (5600xp)  | 160 | (P. Combat Armor)  23       | +10 (x2) | 4d6+7 dam (Dual-pop Carbine) |
+| Omega    (7900xp)  | 210 | (D. Power Plate)   23, DR 5 | +11 (x3) | 4d6+7 dam (Dual-pop Carbine) |
+| Omnicron (14000xp) | 300 | (D. Power Plate)   23, DR 5 | +12 (x3) | 4d6+8 dam (Dual-pop Carbine) |
 
 ###### Areas of Operation
 - [[The Places...#The Base]]
