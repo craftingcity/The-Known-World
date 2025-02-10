@@ -40,22 +40,37 @@ Spitfire (20) 65, 51,
 ##### THE BODIES
 Black A 'Big Dog'
 	- Durandurm Carbine
+	- DRM, EY x00
 Black B 'Hunter'
 	- Durandurm Carbine
+	- DRM, EY x00
 Black C 'Gatherer'
 	- Durandurm Carbine
+	- DRM, EY x00
 Red A 'Vermin'
 	- Durandurm Carbine
+	- DRM, EY x00
 Red B 'Worm'
 	- Durandurm Carbine
+	- DRM, EY x00
 Red C 'Crow'
 	- Durandurm Carbine
+	- DRM, EY x00
 Red D 'Bunny'
 	- Durandurm Carbine
+	- DRM, EY x00
 Red E 'Ratkin'
 	- Durandurm Carbine
+	- DRM, EY x00
 Red F 'Racoon'
 	- Durandurm Carbine
+	- DRM, EY x00
 
 ##### THE BUILDINGS
+###### Building #1
+###### Building #2
+###### Building #3
+###### Building #4
+###### Building #5 (TRAPHOUSE)
+###### Building #6
 
