@@ -20,9 +20,8 @@ When last we left our heroes...
 
 
 ### What happened?
-
-
-We leave our heroes on the date of ... AF, as they ...
+#### In the Hangars
+##### THE FIGHT
 A(21) 95, 61, 43, 29
 jewels 
 Maverick (15) 44, 31
@@ -38,3 +37,6 @@ dante
 Spitfire (20) 65, 51, 
 ~~B(19) 65, 29, 45, 5, 25,~~
 ~~C(17) 50, 14, 31, 8~~
+##### THE BODIES
+##### THE BUILDINGS
+
