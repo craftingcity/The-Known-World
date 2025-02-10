@@ -294,21 +294,26 @@ Boltshot Firepowder Scatterblasters are *two-handed*, *ammunition (1)*, and *ran
 Javelin are large darts or small spears with sharp metal tips thrown at a target at range.
 
 Javelin deal 1d6 piercing damage.
-Javelin are *thrown (30/90)*. Once per rest, you may use this weapon's special ability;
+Javelin are *thrown (40/120)*. Once per rest, you may use this weapon's special ability;
 
 #### Bolas
 Bolas are a pair of weighted balls connected by a sturdy length of leather or fabric, and are used to restrain an enemy at range before closing in with your preferred weapons.
 
 Bolas deal 1d4 bludgeoning damage.
-Bolas are *lassoing* and *thrown (20/60)*.
+Bolas are *lassoing*, *finesse*, and *thrown (20/60)*. Once per rest, you may use this weapon's special ability;
 
 #### Throwing Blade
-Throwing Blades are small pointed daggers with a smooth grip designed to be launched from the hand toward the target, either straight forward or in a spinning motion, notably used by assassins and bandits throughout history.
+Throwing Blades are small pointed daggers with a smooth grip designed to be launched from the hand toward the target, either straight forward or in a spinning motion, and notably has been used by assassins and bandits throughout history.
 
 Throwing Blades deal 1d4 slashing damage.
-Throwing Blades are *finnesse* *thrown*
+Throwing Blades are *quick*, *finesse*, and *thrown (30/90)*. Once per rest, you may use this weapon's special ability;
 
 #### Throwing Axe
+Throwing Axes are small axes designed to be thrown from the hand at a target in a spinning motion, and has notably been used by druids and bandits alike in rural areas.
+
+Throwing Axes deal 2d4 slashing damage.
+Throwing Axes are *thrown (30/60)*. Once per rest, you may use this weapon's special ability;
+
 #### Boomerang
 ##### Stones
 #### Pellet Crossbow
