@@ -73,10 +73,13 @@ We fought against a bunch of guys! I think they were scavs, because they didn't 
 	- 18x DRM, EY
 	- 15x Pineapple Grenades
 	- 10x Isiopara
-	- 1x 'Orange Triforce' Necklace
+	- 0x 'Orange Triforce' Necklace
 `Looting the buildings...`
-- First
-	- 1x Big Dark Metal, No Opening?
+	- 6x Darksteel/Lead Crate - *Opened by 'Orange Triforce'*
+	- *3x Cannot Open w/ Orange Triforce*
+		- Swirl of Colors, shaped in Spiral, vibrant neon colors
+		- Sheet of Marbles, flexible like paper, bright red, feels wet
+		- Big Round, like foil - shiny and silver, polished, feel a slight pulse
 	- 2x Big Boxes, Propped Open
 		- 50x DRM, EY
 		- 10x Pineapple Grenade
@@ -84,6 +87,7 @@ We fought against a bunch of guys! I think they were scavs, because they didn't 
 		- 50x Isiopara
 		- 20x Nova
 		- 2x Secreclude Propital Injectors
+	- 
 
 
 ## Important Knowledge
