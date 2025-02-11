@@ -67,8 +67,10 @@ We fought against a bunch of guys! I think they were scavs, because they didn't 
 	- 2x Chitin Mail
 	- 9x HEFP I
 	- 1x PDA ('Big A')
+		- Need some help from Spitfire, but we get it alive
+		- A unnoted, non-descript marker over a building within the Village
 	- 5x Ancient Coin
-	- 2x 'Dual-Pop' Carbine
+	- 2x 'Dual-Pop' Carbine -> 0x
 	- 7x D. Carbine
 	- 18x DRM, EY
 	- 15x Pineapple Grenades
@@ -80,15 +82,16 @@ We fought against a bunch of guys! I think they were scavs, because they didn't 
 		- Swirl of Colors, shaped in Spiral, vibrant neon colors
 		- Sheet of Marbles, flexible like paper, bright red, feels wet
 		- Big Round, like foil - shiny and silver, polished, feel a slight pulse
-	- 2x Big Boxes, Propped Open
+	- 3x Big Boxes, Propped Open
 		- 50x DRM, EY
 		- 10x Pineapple Grenade
 		- 5x Fire Grenade
 		- 50x Isiopara
 		- 20x Nova
 		- 2x Secreclude Propital Injectors
-	- 
+		- 50x Sealed Rations (1+ Year Old)
 
+We push all the Unopened Darksteel Crates, unclaimed Weapons & Armor into one building, then lock it behind us.
 
 ## Important Knowledge
 
@@ -99,7 +102,7 @@ We fought against a bunch of guys! I think they were scavs, because they didn't 
 | STR  | 12 (+1) ^ | PRF   | +3        |
 | CON  | 17 (+3) ^ | M. HP | 55 Max HP |
 | DEX  | 20 (+5)   | AC    | (21, DR1) |
-| INT  | 10 (+0)   | C. HP | 46 HP     |
+| INT  | 10 (+0)   | C. HP | 55 HP     |
 | WIS  | 11 (+0)   | HD    | 3d8, 3d10 |
 | CHA  | 14 (+2)   | SPD   | 35' (7s)  |
 
