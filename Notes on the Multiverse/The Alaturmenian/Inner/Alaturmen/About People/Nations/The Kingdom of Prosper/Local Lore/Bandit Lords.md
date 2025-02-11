@@ -17,8 +17,12 @@ The Northern Lords were the greatest powers of the era. Before the [[Unification
 
 
 ##### Bodaim
+The Bodaim Family ruled over the [[Greenhilles]] and the surrounding cities, particularly the area now known as [[Yerba]].
+
 ##### Avaati
 ##### Arstovich
+The Arstovich Family ruled over a small section of the north-west, around and including the city of [[Gambleum]]
+
 ##### Moore
 ##### Hollyanne
 ##### Malkovich
