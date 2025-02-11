@@ -179,14 +179,14 @@ Artifacts:
 ##### Cpl. Spitfire
 > Mountain Hall Dwarf, Soulbound Blood Hunter (5)
 
-| STAT | #         | STAT    | #             |
-| ---- | --------- | ------- | ------------- |
-| STR  | 13 (+1)   | PRF     | +3            |
-| CON  | 16 (+3)   | MAX HP  | 65            |
-| DEX  | 16 (+3) ^ | AC      | 20 (B. Plate) |
-| INT  | 10 (+0) ^ | Cur. HP | 65            |
-| WIS  | 14 (+2)   | Hit Die | 5d10          |
-| CHA  | 9  (-1)   | Speed   | 30'           |
+| STAT | #         | STAT    | #                   |
+| ---- | --------- | ------- | ------------------- |
+| STR  | 13 (+1)   | PRF     | +3                  |
+| CON  | 16 (+3)   | MAX HP  | 65                  |
+| DEX  | 16 (+3) ^ | AC      | 19 (P. Scout Armor) |
+| INT  | 10 (+0) ^ | Cur. HP | 65                  |
+| WIS  | 14 (+2)   | Hit Die | 5d10                |
+| CHA  | 9  (-1)   | Speed   | 30'                 |
 
 ###### SKILLS
 - Athletics
@@ -275,14 +275,14 @@ Ace's Carbine (299 DRM, FR); +8, 3d6+2 fire
 ##### Pvt. Maverick
 > Mountain Hall Dwarf, Totem Barbarian (3)
 
-| STAT | #         | STAT    | #              |
-| ---- | --------- | ------- | -------------- |
-| STR  | 10 (+0) ^ | PRF     | +2             |
-| CON  | 16 (+3) ^ | MAX HP  | 44             |
-| DEX  | 15 (+2)   | AC      | 15 (Unarmored) |
-| INT  | 12 (+1)   | Cur. HP | 44             |
-| WIS  | 8  (-1)   | Hit Die | 3d12           |
-| CHA  | 12 (+1)   | Speed   | 30'            |
+| STAT | #         | STAT    | #                   |
+| ---- | --------- | ------- | ------------------- |
+| STR  | 10 (+0) ^ | PRF     | +2                  |
+| CON  | 16 (+3) ^ | MAX HP  | 44                  |
+| DEX  | 15 (+2)   | AC      | 18 (P. Scout Armor) |
+| INT  | 12 (+1)   | Cur. HP | 44                  |
+| WIS  | 8  (-1)   | Hit Die | 3d12                |
+| CHA  | 12 (+1)   | Speed   | 30'                 |
 
 ###### SKILLS
 - Athletics

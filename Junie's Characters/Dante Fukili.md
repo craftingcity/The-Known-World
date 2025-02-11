@@ -63,7 +63,7 @@ We fought against a bunch of guys! I think they were scavs, because they didn't 
 
 `Looting the bodies...`
 	- 2x D. Tank Plate -> 1x
-	- 5x. P. Scout Armor -> 4x
+	- 5x. P. Scout Armor -> 2x
 	- 2x Chitin Mail
 	- 9x HEFP I
 	- 1x PDA ('Big A')
@@ -72,6 +72,18 @@ We fought against a bunch of guys! I think they were scavs, because they didn't 
 	- 7x D. Carbine
 	- 18x DRM, EY
 	- 15x Pineapple Grenades
+	- 10x Isiopara
+	- 1x 'Orange Triforce' Necklace
+`Looting the buildings...`
+- First
+	- 1x Big Dark Metal, No Opening?
+	- 2x Big Boxes, Propped Open
+		- 50x DRM, EY
+		- 10x Pineapple Grenade
+		- 5x Fire Grenade
+		- 50x Isiopara
+		- 20x Nova
+		- 2x Secreclude Propital Injectors
 
 
 ## Important Knowledge
@@ -82,7 +94,7 @@ We fought against a bunch of guys! I think they were scavs, because they didn't 
 | ---- | --------- | ----- | --------- |
 | STR  | 12 (+1) ^ | PRF   | +3        |
 | CON  | 17 (+3) ^ | M. HP | 55 Max HP |
-| DEX  | 20 (+5)   | AC    | (16)      |
+| DEX  | 20 (+5)   | AC    | (21, DR1) |
 | INT  | 10 (+0)   | C. HP | 46 HP     |
 | WIS  | 11 (+0)   | HD    | 3d8, 3d10 |
 | CHA  | 14 (+2)   | SPD   | 35' (7s)  |
@@ -146,7 +158,7 @@ You learn three maneuvers of your choice.
 *Hands*:
 	Leather Gloves
 *Arms*:
-	Chainmail
+	Darksteel Tank Plate
 *Head*:
 	HEFP I      < +5 RR >
 *Torso*:
@@ -165,7 +177,7 @@ You learn three maneuvers of your choice.
 		- Ammo Sack (20 DRM, EY)
 		- Medical Sack (0x Isiopara)
 *Legs*:
-	Chainmail
+	Darksteel Tank Plate
 *Feet*:
 	Irontoe Boots
 
