@@ -91,7 +91,7 @@ We fought against a bunch of guys! I think they were scavs, because they didn't 
 		- 2x Secreclude Propital Injectors
 		- 50x Sealed Rations (1+ Year Old)
 
-We push all the Unopened Darksteel Crates, unclaimed Weapons & Armor into one building, then lock it behind us.
+We push all the Unopened Darksteel Crates, unclaimed Weapons & Armor into one building, then lock it behind us after we take a long rest. We're headed through the Base.
 
 ## Important Knowledge
 
