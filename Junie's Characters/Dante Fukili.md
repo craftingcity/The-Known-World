@@ -59,8 +59,19 @@ After we buy some medical supplies, we are going to sleep, and then we're going 
 #### The Battle at the Hangars (c. 105AF - Session II & III)
 We fought against a bunch of guys! I think they were scavs, because they didn't have any real emblems. We're a rest, healing up a little, catching our breath, and then we're going to gather and sort the loot around here.
 
-2 * 2100 + 5 * 1200 + 2 * 450
+*+11,100 xp*
 
+`Looting the bodies...`
+	- 2x D. Tank Plate -> 1x
+	- 5x. P. Scout Armor -> 4x
+	- 2x Chitin Mail
+	- 9x HEFP I
+	- 1x PDA ('Big A')
+	- 5x Ancient Coin
+	- 2x 'Dual-Pop' Carbine
+	- 7x D. Carbine
+	- 18x DRM, EY
+	- 15x Pineapple Grenades
 
 
 ## Important Knowledge
@@ -70,10 +81,10 @@ We fought against a bunch of guys! I think they were scavs, because they didn't 
 | Stat | #         | Stat  | #         |
 | ---- | --------- | ----- | --------- |
 | STR  | 12 (+1) ^ | PRF   | +3        |
-| CON  | 17 (+3) ^ | M. HP | 46 Max HP |
+| CON  | 17 (+3) ^ | M. HP | 55 Max HP |
 | DEX  | 20 (+5)   | AC    | (16)      |
 | INT  | 10 (+0)   | C. HP | 46 HP     |
-| WIS  | 11 (+0)   | HD    | 3d8, 2d10 |
+| WIS  | 11 (+0)   | HD    | 3d8, 3d10 |
 | CHA  | 14 (+2)   | SPD   | 35' (7s)  |
 
 | Weapon                  | To Hit             | Damage         |
@@ -126,6 +137,9 @@ You can take a *bonus action* on each of your turns in combat. This action can b
 ##### Skirmisher (R)
 You can move up to half your speed as a *reaction* when an enemy ends its turn within 5 feet of you. This movement doesn’t provoke opportunity attacks.
 
+##### Maneuvers (3)
+You learn three maneuvers of your choice. 
+
 #### Equipment
 (0.0sp)
 
@@ -161,8 +175,9 @@ You can move up to half your speed as a *reaction* when an enemy ends its turn w
 3. F2, R1 - Expertise, Sneak Attack (1d6), Thieves' Cant
 4. F2, R2 - Cunning Action
 5. F2, R3 - Roguish Archetype: Scout (*Skirmisher*, *Survivalist*), Sneak Attack (2d6)
-`*?*`
 6. F3, R3 - Martial Archetype: Battlemaster (4d8, *Maneuvering*, *Precision*, and *Pushing*)
+`*?*`
+
 7. F4, R3 - Ability Score Improvement -> (*Sharpshooter*)
 8. F5, R3 - Extra Attack (x1)
 9. F5, R4 - Ability Score Improvement -> (*Tough*)
