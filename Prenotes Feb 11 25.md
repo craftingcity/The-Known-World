@@ -22,7 +22,13 @@ While you don't have the money in your hands just yet, Minora has been kind enou
 
 The Repelling Rapier (+2)
 - The Rapier has 3 charges. It regains a charge at the beginning of the day.
-- When you hit an enemy with this weapon, you may spend a charge. When you do, you deal +1d8 thunder damage, and the target must make a DC 15 STR Save or be pushed 5'.
+- When you hit an enemy with this weapon, you may spend a charge. When you do, you deal +1d8 thunder damage, and the target must make a DC 15 STR Save or be pushed 5' backwards.
+
+Overdrive Ring (+1)
+- The Ring has 3 charges. It regains a charge at the beginning of the day.
+- When you cast a spell that deals Fire, Lightning, or Thunder damage, you may spend a charge. When you do, the damage the spell deals is increased by 1 dice (3d6 -> 4d6, eg).
+
+
 
 
 
