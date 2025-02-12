@@ -13,7 +13,7 @@ When you make an attack with a blaster or firearm, add twice your Dexterity Modi
 
 When you kill a humanoid who is Frightened of you or is affected by your Brand of Castigation, their corpse becomes Creepered.
 
-If you spend an hour and 75sp of components to ritualisticly sacrifice a corpse that was Creepered within the last 24 hours, you may choose an organ to consume during the ritual and gain the corresponding benefit.
+If you spend an hour and 75sp of components to ritualistically sacrifice a corpse that was Creepered within the last 24 hours, you may choose one organ to consume during the ritual and gain the corresponding benefit. The potential of the other organs are lost.
 
 (Tongue) -  +1/3 CHA
 (Stomach) - +1/3 CON
