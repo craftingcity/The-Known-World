@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f178bf70a5464090",
+        "id": "6e69224ef144ab39",
         "type": "tabs",
         "children": [
           {
-            "id": "eeec1a34bc11c438",
+            "id": "2a0e1130d01143e5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,35 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Dante Fukili.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dante Fukili"
-            }
-          },
-          {
-            "id": "18e5fc318134e663",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Gear..."
+              "title": "Weapons of Alaturmen"
             }
           }
         ]
@@ -305,152 +282,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "77081654ceeb373a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ad678a3d2d839575",
-        "type": "window",
-        "children": [
-          {
-            "id": "245326e0d33b2fd5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e3c57b896b268251",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Junie's Characters/Dante Fukili.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Dante Fukili"
-                }
-              },
-              {
-                "id": "4ad2f3663f01768c",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "MinyostalmaFeatures"
-                }
-              },
-              {
-                "id": "ce91b3369b7d7a4f",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "A Grand Notepad.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "A Grand Notepad"
-                }
-              },
-              {
-                "id": "f6ad658032fb5c58",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "The Gear..."
-                }
-              },
-              {
-                "id": "942c3a4037c240e4",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "The Artifacts..."
-                }
-              }
-            ],
-            "currentTab": 4
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 0,
-        "width": 768,
-        "height": 912,
-        "maximize": false,
-        "zoom": -1.5
-      }
-    ]
-  },
-  "active": "eeec1a34bc11c438",
+  "active": "2a0e1130d01143e5",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Junie's Characters/Dante Fukili.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
-    "Junie's Characters/Dante Fukili.md",
     "A Grand Notepad.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
