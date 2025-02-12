@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "08cc4b4d96d45d3b",
+            "id": "d6ca8306ca4339cb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -39,28 +39,21 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Combat Mechanics and Positioning",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Combat Mechanics and Positioning\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":14},\"to\":{\"line\":6,\"ch\":14}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Feb 04 25.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Feb 04 25"
+              "title": "Homebrew Alchemy System"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -312,12 +305,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08cc4b4d96d45d3b",
+  "active": "349522a56c49896a",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
-    "Prenotes Feb 01 25.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
     "Prenotes Feb 11 25.md",
     "Prenotes Feb 04 25.md",
+    "Game Notes/Prenotes/'24/Prenotes Jan 25 24.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
+    "Prenotes Feb 01 25.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Junie's Characters/Dante Fukili.md",
@@ -340,8 +335,6 @@
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Data.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "MEDIA/MAPS/WORLD/underdark.png",
     "Game Notes/Prenotes/'25",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",

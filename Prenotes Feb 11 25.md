@@ -28,7 +28,10 @@ Overdrive Ring (+1)
 - The Ring has 3 charges. It regains a charge at the beginning of the day.
 - When you cast a spell that deals Fire, Lightning, or Thunder damage, you may spend a charge. When you do, the damage the spell deals is increased by 1 dice (3d6 -> 4d6, eg).
 
-
+Aloe (+1)
+Good (+2)
+Blood (+1)
+Jade (+1)
 
 
 
