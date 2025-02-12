@@ -39,21 +39,28 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Combat Mechanics and Positioning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Combat Mechanics and Positioning\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":14},\"to\":{\"line\":6,\"ch\":14}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
+                "file": "Prenotes Feb 04 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Combat Mechanics and Positioning"
+              "title": "Prenotes Feb 04 25"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -305,9 +312,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "349522a56c49896a",
+  "active": "08cc4b4d96d45d3b",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
+    "Prenotes Feb 01 25.md",
     "Prenotes Feb 11 25.md",
     "Prenotes Feb 04 25.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
@@ -326,7 +334,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Prenotes feb 8 2025.md",
-    "Prenotes Feb 01 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Arms Companies and their Supply Regions.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Kickoff.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/The Progress of Technology.md",
