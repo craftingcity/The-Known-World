@@ -20,12 +20,9 @@ While you don't have the money in your hands just yet, Minora has been kind enou
 
 ### What does the World Know?
 
-| Item               | #   | Price | Total |
-| ------------------ | --- | ----- | ----- |
-| Ring of Protection | 4   | 1,200 | 4,800 |
-|                    |     |       |       |
-
-Ring of Protection (+1)
+The Repelling Rapier (+2)
+- The Rapier has 3 charges. It regains a charge at the beginning of the day.
+- When you hit an enemy with this weapon, you may spend a charge. When you do, you deal +1d8 thunder damage, and the target must make a DC 15 STR Save or be pushed 5'.
 
 
 
