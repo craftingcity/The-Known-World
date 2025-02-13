@@ -30,11 +30,14 @@ If you spend an hour and 75sp of components to ritualistically sacrifice a corps
 
 ##### Potent Menagerie
 *Prerequisite:* Proficiency in Animal Handling
-> "For whatever reason, you have access to a number of magical creatures who come to your aid when you call them."
+> "For whatever reason, you have can call upon the aid of a number of magical creatures."
 
-You may only ever have one Pet active at any given time.
+You may only ever have one Pet active at any given time. During a short or long rest, you may replace your currently active Pet with another Pet in your Menagerie.
+
+You can add a given Pet to your Menagerie by performing an associated ritual, the components of which are listed in the Pet's description.
 
 *Pet Rock*
+	- 
 *Brown Bat*
 *Black Cat*
 *Baby Dragon*
