@@ -38,12 +38,20 @@ You may only ever have one Pet active at any given time.
 *Brown Bat*
 *Black Cat*
 *Baby Dragon*
-*Horse*
+*White Horse*
 *Griffin*
 *Phoenix*
-*White Wolf*
-*Rat*
-*Spider*
-*Tiger*
+*Grey Wolf*
+*Black Rat*
+*Baby Spider*
+*Stripped Tiger*
 *Turtle*
-**
+*Chicken*
+*Teacup Pig*
+*Rabbit*
+*Monkey*
+*Lynx*
+*Shark*
+*Blue Fish*
+*Sheep*
+*Owl*
