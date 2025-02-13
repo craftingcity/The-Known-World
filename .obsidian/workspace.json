@@ -78,35 +78,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "470a1e5b4f85338e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4baa1d157c994299",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Custom Features"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -357,6 +328,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false
     }
+  },
+  "floating": {
+    "id": "5f174ccaef5f7a20",
+    "type": "floating",
+    "children": [
+      {
+        "id": "266b247f934ad514",
+        "type": "window",
+        "children": [
+          {
+            "id": "5b28ab377041d67b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4baa1d157c994299",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Custom Features"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 274,
+        "y": 0,
+        "width": 988,
+        "height": 912,
+        "maximize": true,
+        "zoom": -2.5
+      }
+    ]
   },
   "active": "4baa1d157c994299",
   "lastOpenFiles": [

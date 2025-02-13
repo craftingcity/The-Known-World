@@ -30,45 +30,34 @@ If you spend an hour and 75sp of components to ritualistically sacrifice a corps
 
 ##### Potent Menagerie
 *Prerequisite:* Proficiency in Animal Handling
-> "For whatever reason, you have can call upon the aid of a number of magical creatures."
+> "For whatever reason, you have can call upon the aid of a number of magical creatures. While they never directly assist you, their presence emboldens you."
 
 You may only ever have one Pet active at any given time. During a short or long rest, you may replace your currently active Pet with another Pet in your Menagerie.
 
 You can add a given Pet to your Menagerie by performing an associated ritual, the components of which are listed alongside the Pet's active effects.
 
-| Pet      | Ritual Cost | Active Effects |
-| -------- | ----------- | -------------- |
-| Pet Rock |             |                |
-| Rabbit   |             |                |
-| Bat      |             |                |
-| Chicken  |             |                |
-| Pig      |             |                |
-| Monkey   |             |                |
-| Lynx     |             |                |
-| Sheep    |             |                |
-| Owl      |             |                |
-| Blue          |             |                |
+| Pet           | Ritual Cost | Active Effects                                                                                                                                                                          |
+| ------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pet Rock      |             | While active, this Pet increases your Armor Class by 1, and increases your Hit Points by a number equal to your Level.                                                                  |
+| Rabbit        |             | While active, this Pet increases your Dexterity Saving Throw by a number equal to half your Level.                                                                                      |
+| Vampire Bat   |             | While active, this Pet decreases your Hit Points by a number equal to your level, and increases your Spell Attack Bonus and Spell Save DC by a number equal to your level divided by 4. |
+| Chicken       |             | While active, this Pet                                                                                                                                                                  |
+| Pig           |             | While active, this Pet                                                                                                                                                                  |
+| Monkey        |             | While active, this Pet                                                                                                                                                                  |
+| Lynx          |             | While active, this Pet                                                                                                                                                                  |
+| Sheep         |             | While active, this Pet                                                                                                                                                                  |
+| Owl           |             | While active, this Pet                                                                                                                                                                  |
+| Blue Fish     |             | While active, this Pet                                                                                                                                                                  |
+| Shark         |             | While active, this Pet                                                                                                                                                                  |
+| Black Rat     |             | While active, this Pet                                                                                                                                                                  |
+| Spider        |             | While active, this Pet                                                                                                                                                                  |
+| Tiger         |             | While active, this Pet                                                                                                                                                                  |
+| Wolf          |             | While active, this Pet                                                                                                                                                                  |
+| Turtle        |             | While active, this Pet increases your Armor Class by 2, and increases your Damage Resistance by a number equal to your level divided by 4.                                                                                                                                                                 |
+| Horse         |             | While active, this Pet                                                                                                                                                                  |
+| Bull          |             | While active, this Pet                                                                                                                                                                  |
+| Black Cat     |             | While active, this Pet                                                                                                                                                                  |
+| Griffin       |             | While active, this Pet                                                                                                                                                                  |
+| Phoenix       |             | While active, this Pet                                                                                                                                                                  |
+| Golden Dragon |             | While active, this Pet                                                                                                                                                                  |
 
-~~*Pet Rock* (a palm-sized stone, 10sp in ritual components)~~
-	- While active, this Pet increases your Hit Points by a number equal to your Level.
-	- While active, this Pet increases your Armor Class by 1.
-~~*Brown Bat*~~
-*Black Cat*
-*Golden Dragon*
-*White Horse*
-*Griffin*
-*Phoenix*
-*Grey Wolf*
-*Black Rat*
-*Baby Spider*
-*Stripped Tiger*
-*Turtle*
-~~*Chicken*~~
-~~*Teacup Pig*~~
-~~*Rabbit*~~
-~~*Monkey*~~
-*Lynx*
-*Shark*
-*Blue Fish*
-*Sheep*
-*Owl*
