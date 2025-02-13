@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Combat Mechanics and Positioning",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Underdark",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Underdark.md"
-    },
-    {
-      "basename": "Seattle Exports Misery",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md"
     }
   ],
   "omittedPaths": [],
