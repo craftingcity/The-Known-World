@@ -56,10 +56,42 @@ There's a contract out on a gang of Scavs who are hanging out in the *Showroom*,
 
 After we buy some medical supplies, we are going to sleep, and then we're going to go kill the gang in the *Showroom*. Maverik picked up a glass artifact on our way. We made our way into the *Hangars* where Dante started investigating an open container-building. A blue tracer shot right where her head would be...
 
-#### The Battle at the Hangars (c. 105AF - Session II)
-We fought against a bunch of guys! I think they were scavs, because they didn't have any identifiers. What a thrill! We took a rest, healing up a little, catching our breath, and then we gathered and sorted the loot around here;
+#### The Battle at the Hangars (c. 105AF - Session II & III)
+We fought against a bunch of guys! I think they were scavs, because they didn't have any real emblems. We're a rest, healing up a little, catching our breath, and then we're going to gather and sort the loot around here.
 
+*+11,100 xp*
 
+`Looting the bodies...`
+	- 2x D. Tank Plate -> 1x
+	- 5x. P. Scout Armor -> 2x
+	- 2x Chitin Mail
+	- 9x HEFP I
+	- 1x PDA ('Big A')
+		- Need some help from Spitfire, but we get it alive
+		- A unnoted, non-descript marker over a building within the Village
+	- 5x Ancient Coin
+	- 2x 'Dual-Pop' Carbine -> 0x
+	- 7x D. Carbine
+	- 18x DRM, EY
+	- 15x Pineapple Grenades
+	- 10x Isiopara
+	- 0x 'Orange Triforce' Necklace
+`Looting the buildings...`
+	- 6x Darksteel/Lead Crate - *Opened by 'Orange Triforce'*
+	- *3x Cannot Open w/ Orange Triforce*
+		- Swirl of Colors, shaped in Spiral, vibrant neon colors
+		- Sheet of Marbles, flexible like paper, bright red, feels wet
+		- Big Round, like foil - shiny and silver, polished, feel a slight pulse
+	- 3x Big Boxes, Propped Open
+		- 50x DRM, EY
+		- 10x Pineapple Grenade
+		- 5x Fire Grenade
+		- 50x Isiopara
+		- 20x Nova
+		- 2x Secreclude Propital Injectors
+		- 50x Sealed Rations (1+ Year Old)
+
+We push all the Unopened Darksteel Crates, unclaimed Weapons & Armor into one building, then lock it behind us after we take a long rest. We're headed through the Base.
 
 ## Important Knowledge
 
@@ -68,10 +100,10 @@ We fought against a bunch of guys! I think they were scavs, because they didn't 
 | Stat | #         | Stat  | #         |
 | ---- | --------- | ----- | --------- |
 | STR  | 12 (+1) ^ | PRF   | +3        |
-| CON  | 17 (+3) ^ | M. HP | 46 Max HP |
-| DEX  | 20 (+5)   | AC    | (16)      |
-| INT  | 10 (+0)   | C. HP | 46 HP     |
-| WIS  | 11 (+0)   | HD    | 3d8, 2d10 |
+| CON  | 17 (+3) ^ | M. HP | 55 Max HP |
+| DEX  | 20 (+5)   | AC    | (21, DR1) |
+| INT  | 10 (+0)   | C. HP | 55 HP     |
+| WIS  | 11 (+0)   | HD    | 3d8, 3d10 |
 | CHA  | 14 (+2)   | SPD   | 35' (7s)  |
 
 | Weapon                  | To Hit             | Damage         |
@@ -124,13 +156,16 @@ You can take a *bonus action* on each of your turns in combat. This action can b
 ##### Skirmisher (R)
 You can move up to half your speed as a *reaction* when an enemy ends its turn within 5 feet of you. This movement doesn’t provoke opportunity attacks.
 
+##### Maneuvers (3)
+You learn three maneuvers of your choice. 
+
 #### Equipment
 (0.0sp)
 
 *Hands*:
 	Leather Gloves
 *Arms*:
-	Chainmail
+	Darksteel Tank Plate
 *Head*:
 	HEFP I      < +5 RR >
 *Torso*:
@@ -149,7 +184,7 @@ You can move up to half your speed as a *reaction* when an enemy ends its turn w
 		- Ammo Sack (20 DRM, EY)
 		- Medical Sack (0x Isiopara)
 *Legs*:
-	Chainmail
+	Darksteel Tank Plate
 *Feet*:
 	Irontoe Boots
 
@@ -159,8 +194,9 @@ You can move up to half your speed as a *reaction* when an enemy ends its turn w
 3. F2, R1 - Expertise, Sneak Attack (1d6), Thieves' Cant
 4. F2, R2 - Cunning Action
 5. F2, R3 - Roguish Archetype: Scout (*Skirmisher*, *Survivalist*), Sneak Attack (2d6)
-`*?*`
 6. F3, R3 - Martial Archetype: Battlemaster (4d8, *Maneuvering*, *Precision*, and *Pushing*)
+`*?*`
+
 7. F4, R3 - Ability Score Improvement -> (*Sharpshooter*)
 8. F5, R3 - Extra Attack (x1)
 9. F5, R4 - Ability Score Improvement -> (*Tough*)

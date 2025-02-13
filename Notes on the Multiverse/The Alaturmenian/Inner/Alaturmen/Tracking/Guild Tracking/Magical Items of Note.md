@@ -279,7 +279,7 @@ aliases:
 
 	GME-016 is a simple golden ring enscribed with the phrase 'Money, Power, Respect' in Arthurian. While worn, if the wearer speaks the words "I wish", their following sentance is considered by GME-016, which then attempts to enact the most harmful rendition of that wish.
 
-	GME-016 was contained by Kakurak after it's singular use by Frankie Avaati to remove the acting government of 
+	GME-016 was contained by Kakurak after it's singular use by Frankie Avaati to remove the acting government of the 
 ```
 
 ###### The Token of Indestructability

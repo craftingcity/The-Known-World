@@ -315,6 +315,11 @@ Throwing Axes deal 2d4 slashing damage.
 Throwing Axes are *thrown (30/60)*. Once per rest, you may use this weapon's special ability;
 
 #### Boomerang
+Boomerangs are small light L-curves of wood or metal designed to be thrown in such a manner that when they fail to hit their target, they continue to spin, and will fly back to where it was thrown from.
+
+Boomerang deal 1d4 bludgeoning damage.
+Boomerangs are *thrown (60/180)*. Once per rest, you may use this weapon's special ability;
+
 ##### Stones
 #### Pellet Crossbow
 ##### Bolts
