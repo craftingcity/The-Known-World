@@ -40,7 +40,7 @@ You can add a given Pet to your Menagerie by performing an associated ritual, th
 	- 
 *Brown Bat*
 *Black Cat*
-*Baby Dragon*
+*Golden Dragon*
 *White Horse*
 *Griffin*
 *Phoenix*
