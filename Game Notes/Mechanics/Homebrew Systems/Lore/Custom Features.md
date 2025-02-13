@@ -1,3 +1,5 @@
+
+## Background Features
 ##### Company Arms Training
 When you deal damage with a blaster or firearm, add twice your Dexterity Modifier to the damage instead.
 
@@ -7,6 +9,7 @@ When you make an attack with a blaster or firearm, add 2 to your Attack Roll. If
 ##### Trooper Arms Training
 When you make an attack with a blaster or firearm, add twice your Dexterity Modifier to the Attack Roll instead.
 
+## Class Features
 ##### Organ Creeper
 *Prerequisite:* L11 Bloodhunter
 > "Your connection to entities of great power has begun to effect your organs. You will need to take from others, they have to be fresh."
@@ -22,5 +25,9 @@ If you spend an hour and 75sp of components to ritualistically sacrifice a corps
 (Heart) - +1/3 STR
 (Spleen) - Resist poison, radiant, and necrotic damage for 48 hours.
 (Brain) - +1/6 INT & WIS
-(Eyes & Ocular Nerves) - +2 <stacking> to Perception, Investigation, and Survival for 48 hours.
-(Skin & Veins) - Resist "weapon" damage <bludgeoning, slashing, piercing> for 48 hours
+(Eyes & Ocular Nerves) - +2 stacking to Perception, Investigation, and Survival for 48 hours.
+(Skin & Veins) - Resist "weapon" damage (*bludgeoning, slashing, piercing*) for 48 hours
+
+##### Potent Menagerie
+*Prerequisite:* Find Familiar or Proficiency in Animal Handling
+> "For whatever reason, when you need them most, a "
