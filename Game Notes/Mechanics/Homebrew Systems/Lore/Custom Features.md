@@ -34,3 +34,16 @@ If you spend an hour and 75sp of components to ritualistically sacrifice a corps
 
 You may only ever have one Pet active at any given time.
 
+*Pet Rock*
+*Brown Bat*
+*Black Cat*
+*Baby Dragon*
+*Horse*
+*Griffin*
+*Phoenix*
+*White Wolf*
+*Rat*
+*Spider*
+*Tiger*
+*Turtle*
+**
