@@ -29,5 +29,8 @@ If you spend an hour and 75sp of components to ritualistically sacrifice a corps
 (Skin & Veins) - Resist "weapon" damage (*bludgeoning, slashing, piercing*) for 48 hours
 
 ##### Potent Menagerie
-*Prerequisite:* Find Familiar or Proficiency in Animal Handling
-> "For whatever reason, when you need them most, a "
+*Prerequisite:* Proficiency in Animal Handling
+> "For whatever reason, you have access to a number of magical creatures who come to your aid when you call them."
+
+You may only ever have one Pet active at any given time.
+
