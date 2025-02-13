@@ -34,11 +34,25 @@ If you spend an hour and 75sp of components to ritualistically sacrifice a corps
 
 You may only ever have one Pet active at any given time. During a short or long rest, you may replace your currently active Pet with another Pet in your Menagerie.
 
-You can add a given Pet to your Menagerie by performing an associated ritual, the components of which are listed in the Pet's description.
+You can add a given Pet to your Menagerie by performing an associated ritual, the components of which are listed alongside the Pet's active effects.
 
-*Pet Rock*
-	- 
-*Brown Bat*
+| Pet      | Ritual Cost | Active Effects |
+| -------- | ----------- | -------------- |
+| Pet Rock |             |                |
+| Rabbit   |             |                |
+| Bat      |             |                |
+| Chicken  |             |                |
+| Pig      |             |                |
+| Monkey   |             |                |
+| Lynx     |             |                |
+| Sheep    |             |                |
+| Owl      |             |                |
+| Blue          |             |                |
+
+~~*Pet Rock* (a palm-sized stone, 10sp in ritual components)~~
+	- While active, this Pet increases your Hit Points by a number equal to your Level.
+	- While active, this Pet increases your Armor Class by 1.
+~~*Brown Bat*~~
 *Black Cat*
 *Golden Dragon*
 *White Horse*
@@ -49,10 +63,10 @@ You can add a given Pet to your Menagerie by performing an associated ritual, th
 *Baby Spider*
 *Stripped Tiger*
 *Turtle*
-*Chicken*
-*Teacup Pig*
-*Rabbit*
-*Monkey*
+~~*Chicken*~~
+~~*Teacup Pig*~~
+~~*Rabbit*~~
+~~*Monkey*~~
 *Lynx*
 *Shark*
 *Blue Fish*
