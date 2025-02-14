@@ -76,7 +76,8 @@
               "title": "Homebrew Alchemy System"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -367,18 +368,17 @@
           }
         ],
         "direction": "vertical",
-        "x": 274,
+        "x": 768,
         "y": 0,
-        "width": 988,
+        "width": 768,
         "height": 912,
-        "maximize": true,
-        "zoom": -0.5
+        "maximize": false,
+        "zoom": -2.5
       }
     ]
   },
-  "active": "349522a56c49896a",
+  "active": "4baa1d157c994299",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
     "Prenotes Feb 11 25.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
     "Prenotes Feb 04 25.md",
@@ -406,6 +406,7 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/The Progress of Technology.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Data.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
     "MEDIA/MAPS/WORLD/underdark.png",
     "Game Notes/Prenotes/'25",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
