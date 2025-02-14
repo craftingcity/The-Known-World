@@ -69,7 +69,7 @@ The WFM are reasonably equipped for military containment, but undersupplied for 
 - *Scavangers* are fugitives and heretics. They aren't worth the bullets, but we must.
 - Other *Militants* are good kin. We're all trying to do our duty.
 - *Mercenaries* are terrible. No better than Scavs, just harder to kill.
-- *Extramis* doesn't exist. Those are Scavs.
+- *Extramis* don't exist. Those are Scavs.
 - *Troopers* are terrible. No better than Scavs, just harder to kill.
 
 ##### Mercenaries

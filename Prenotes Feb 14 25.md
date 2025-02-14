@@ -16,9 +16,9 @@ aliases:
 
 When last we left our heroes, they had ventured into the [[The Old|Minyostalma Blockade and Exclusion District]] on the advice of 22, or 'Zipper' as they are known here, having told the rest of you that the reward is in fact worth the risk. Having entered through the Western Gate, you travelled into the Cordon to gather supplies and a paying job before then heading beyond.
 
-Find a paying job you did - an open contract on the WhiteTech Bounty-Board paying 12 coin-credits for the recovery and upload of Cpl. Lazarus' PDA data. Following information indicating the Cpl. and his teammates were last operating in the north-eastern half of the Village, you and your party headed south. Before you could arrive at the Village proper, you were accosted by a group of chitin-wearing, carbine-wielding bandits.
+Find a paying job you did - an open contract on the WhiteTech Bounty-Board paying 12 coin-credits for the recovery and upload of Cpl. Lazarus' PDA data. Following information indicating the Cpl. and his teammates last reported from the north-eastern half of the Village, you and your party headed south, but before you could arrive at the Village proper, you were accosted by a group of chitin-wearing, carbine-wielding bandits.
 
-Their bodies lay before you, eight in total. What do you do?
+The burning smell of spent durandurm fills the air, and your muscles ache of combat. The bodies of the bandits lay before you, eight in total. What do you do?
 
 ### What does the World Know?
 ##### Of Bandits and Bodies
@@ -29,7 +29,7 @@ Their bodies lay before you, eight in total. What do you do?
 - 1x PDA, Damaged
 
 ##### The Squad lost in the Village
-Cpl. Lazarus, Pvt. Yohian, and Pvt. Steward are members of 
+Cpl. Lazarus, Pvt. Yohian, and Pvt. Steward are members of *Disciple-5*, which was recently forced to disperse during an operation in [[The Places...#The City]]. 
 
 
 ### What happened?
