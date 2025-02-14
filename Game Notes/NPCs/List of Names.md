@@ -68,7 +68,7 @@ aliases:
 | Bonj      | Jasper  | Srioh    |
 | Nike      | River   | Yyu      |
 | Glot      | Toor    | Marilynn |
-| Jerran    |         | Wren         |
+| Jerran    |         | Wren     |
 | Nylan     |         |          |
 | Revari    |         |          |
 |           |         |          |
@@ -108,7 +108,7 @@ aliases:
 | Jorrin    | Valerio |          |
 | Marcus    | Roan    |          |
 | Nicolas   | Erez    |          |
-| Colin     |         |          |
+| Colin     | Lazarus |          |
 | Tomas     |         |          |
 | Mathias   |         |          |
 |           |         |          |
