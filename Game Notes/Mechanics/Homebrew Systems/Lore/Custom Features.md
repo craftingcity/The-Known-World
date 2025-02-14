@@ -28,7 +28,7 @@ If you spend an hour and 75sp of components to ritualistically sacrifice a corps
 (Eyes & Ocular Nerves) - +2 stacking to Perception, Investigation, and Survival for 48 hours.
 (Skin & Veins) - Resist "weapon" damage (*bludgeoning, slashing, piercing*) for 48 hours
 
-##### Potent Menagerie
+##### Menagerie Manager
 *Prerequisite:* Proficiency in Animal Handling
 > "For whatever reason, you have can call upon the aid of a number of magical creatures. While they never directly assist you, their presence emboldens you."
 
@@ -36,28 +36,27 @@ You may only ever have one Pet active at any given time. During a short or long 
 
 You can add a given Pet to your Menagerie by performing an associated ritual, the components of which are listed alongside the Pet's active effects.
 
-| Pet           | Ritual Cost | Active Effects                                                                                                                                                                          |
-| ------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pet Rock      |             | While active, this Pet increases your Armor Class by 1, and increases your Hit Points by a number equal to your Level.                                                                  |
-| Rabbit        |             | While active, this Pet increases your Dexterity Saving Throw by a number equal to half your Level.                                                                                      |
-| Vampire Bat   |             | While active, this Pet decreases your Hit Points by a number equal to your level, and increases both your Spell Attack Bonus and Spell Save DC by a number equal to one-fourth your Level. |
-| Chicken       |             | While active, this Pet increases your Charisma Saving Throw by a number equal to half your Level.                                                                                       |
-| Pig           |             | While active, this Pet increases your Hit Points by a number equal to thrice your Level.                                                                                                                                                                 |
-| Monkey        |             | While active, this Pet increases your Reach by 5', and increases your both Acrobatics and Sleight of Hand Skills by a number equal to one-fourth your Level.                                                                                                                                                                  |
-| Lynx          |             | While active, this Pet increases your Speed by 5', and increases your both Stealth and Perception Skills by a number equal to one-fourth your Level.                                                                                                                  |
-| Sheep         |             | While active, this Pet decreases your Armor Class by 1, and increases your Spell Attack Bonus by a number equal to half your level.                                                                                                                                                                |
-| Owl           |             | While active, this Pet increases your Arcana, History, Nature, and Religion Skills by a number equal to one-fourth your Level.                                                                                                                                                                 |
-| Blue Fish     |             | While active, this Pet                                                                                                                                                                  |
-| Shark         |             | While active, this Pet                                                                                                                                                                  |
-| Black Rat     |             | While active, this Pet                                                                                                                                                                  |
-| Spider        |             | While active, this Pet                                                                                                                                                                  |
-| Tiger         |             | While active, this Pet                                                                                                                                                                  |
-| Wolf          |             | While active, this Pet                                                                                                                                                                  |
-| Turtle        |             | While active, this Pet increases your Armor Class by 2, and increases your Damage Resistance by a number equal to your level divided by 4.                                              |
-| Horse         |             | While active, this Pet                                                                                                                                                                  |
-| Bull          |             | While active, this Pet                                                                                                                                                                  |
-| Black Cat     |             | While active, this Pet increases your Dexterity Score by 1, and, once per rest, grants Advantage to an Attack Roll, Ability Check, or Saving Throw of your choice.                      |
-| Griffin       |             | While active, this Pet                                                                                                                                                                  |
-| Phoenix       |             | While active, this Pet                                                                                                                                                                  |
-| Golden Dragon |             | While active, this Pet                                                                                                                                                                  |
+| Pet             | Ritual Cost | Active Effects                                                                                                                                                                             |
+| --------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Pet Rock        |             | While active, this Pet increases your Armor Class by 1, and increases your Hit Points by a number equal to your Level.                                                                     |
+| Baby Rabbit     |             | While active, this Pet increases your Dexterity Saving Throw by a number equal to half your Level.                                                                                         |
+| Vampire Bat     |             | While active, this Pet decreases your Hit Points by a number equal to your level, and increases both your Spell Attack Bonus and Spell Save DC by a number equal to one-fourth your Level. |
+| Chicken         |             | While active, this Pet increases your Charisma Saving Throw by a number equal to half your Level.                                                                                          |
+| Heavy Pig       |             | While active, this Pet decreases your Speed by 5', and increases your Hit Points by a number equal to thrice your Level.                                                                   |
+| Monkey          |             | While active, this Pet increases your Reach by 5', and increases your both Acrobatics and Sleight of Hand Skills by a number equal to one-fourth your Level.                               |
+| Slick Lynx      |             | While active, this Pet increases your Speed by 5', and increases your both Stealth and Perception Skills by a number equal to one-fourth your Level.                                       |
+| Sheep           |             | While active, this Pet decreases your Armor Class by 1, and increases your Spell Attack Bonus by a number equal to half your level.                                                        |
+| Old Owl         |             | While active, this Pet increases your Arcana, History, Nature, and Religion Skills by a number equal to one-fourth your Level.                                                             |
+| Blue Fish       |             | While active, this Pet                                                                                                                                                                     |
+| Hunter Shark    |             | While active, this Pet                                                                                                                                                                     |
+| Black Rat       |             | While active, this Pet                                                                                                                                                                     |
+| Venomous Spider |             | While active, this Pet                                                                                                                                                                     |
+| Tiger           |             | While active, this Pet                                                                                                                                                                     |
+| Lone Wolf       |             | While active, this Pet                                                                                                                                                                     |
+| Turtle          |             | While active, this Pet decreases your speed by 10', increases your Armor Class by 2, and increases your Damage Resistance by a number equal to one-fourth your Level.                      |
+| Bull            |             | While active, this Pet                                                                                                                                                                     |
+| Black Cat       |             | While active, this Pet grants Advantage to an Attack Roll, Ability Check, or Saving Throw of your choice a number of times per long rest equal to one-fifth your Level.                    |
+| Griffin         |             | While active, this Pet                                                                                                                                                                     |
+| Phoenix         |             | While active, this Pet                                                                                                                                                                     |
+| Golden Dragon   |             | While active, this Pet                                                                                                                                                                     |
 

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Prenotes Feb 11 25",
       "path": "Prenotes Feb 11 25.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Nations",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md"
-    },
-    {
-      "basename": "About People",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md"
     }
   ],
   "omittedPaths": [],
