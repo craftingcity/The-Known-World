@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Custom Features",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
+      "basename": "Prenotes Feb 14 25",
+      "path": "Prenotes Feb 14 25.md"
+    },
+    {
+      "basename": "Prenotes Jan 18 25",
+      "path": "Game Notes/Prenotes/'25/Prenotes Jan 18 25.md"
     },
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "ParaeducatorGame",
+      "path": "Game Notes/Campaign Rosters/ParaeducatorGame.md"
+    },
+    {
+      "basename": "Homebrew Alchemy System",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md"
+    },
+    {
+      "basename": "Custom Features",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
     },
     {
       "basename": "Prenotes Feb 11 25",
@@ -19,10 +35,6 @@
     {
       "basename": "Mechanics of Plane-walking",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Mechanics of Plane-walking.md"
-    },
-    {
-      "basename": "Homebrew Alchemy System",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md"
     },
     {
       "basename": "Combat Mechanics and Positioning",
@@ -187,18 +199,6 @@
     {
       "basename": "Underdark Flora",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/General/Underdark Flora.md"
-    },
-    {
-      "basename": "Local Lore",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Local Lore.md"
-    },
-    {
-      "basename": "The Kingdom of Prosper",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
-    },
-    {
-      "basename": "Nations",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md"
     }
   ],
   "omittedPaths": [],

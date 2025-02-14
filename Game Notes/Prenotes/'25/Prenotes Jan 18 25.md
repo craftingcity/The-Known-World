@@ -61,7 +61,7 @@ A two-story stone brick house in the X Ward of [[Coalition City]], of the suppos
 - Otto's Wonderous Wardrobe
 - Otto's Display Case
 ###### Wash & Source Room
-> *Above the Workroom, a simple space holds a ceramic chair full of water, a set of sponges and soaps on a the edge of a large basin, and a encased water production system.*
+> *Above the Workroom, a simple space holds a ceramic chair full of water, a set of sponges and soaps on the edge of a large basin, and an encased water production system.*
 
 - Washbasin & Tools
 - Bucket Funnel System
@@ -69,7 +69,7 @@ A two-story stone brick house in the X Ward of [[Coalition City]], of the suppos
 
 
 ### What happened?
-They went to Minyostalma instead
+They went to Minyostalma instead, lol
 
 9 - Data at Intel Center (HARD, MANY STEPS)
 3 - Package to Flea Market

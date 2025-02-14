@@ -16,7 +16,7 @@ aliases:
 - lets get that bread!!
 - i'd like to go back home at some point
 ##### Nikolai, the Researcher's Son
-- what happened to my family, and or my adoptive father figure, but very specifically the research they were doing together
+- what happened to my family?, and or my adoptive father figure, but very specifically the research they were doing together?
 ##### Saoirse, the Cursed
 - what the fuck really happened, what is the NotADeer, how do I stop it?
 
@@ -36,6 +36,8 @@ Otto would eventually meet with Victor and Anna, the parents of Nikolai, and com
 
 ### Faction Reputation
 (-) [[Northstone Family Trading Company]]
+(-) [[Guilds of Coalition]]
+(+) [[Slimknives]]
 ## Places
 ### Scenarios Changed
 ## Notes
