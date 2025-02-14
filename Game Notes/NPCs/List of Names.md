@@ -111,7 +111,8 @@ aliases:
 | Colin     | Lazarus |          |
 | Tomas     |         |          |
 | Mathias   |         |          |
-|           |         |          |
+| Yohain    |         |          |
+| Steward   |         |          |
 
 ## Last Names
 

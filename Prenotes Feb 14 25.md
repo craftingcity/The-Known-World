@@ -29,7 +29,7 @@ Their bodies lay before you, eight in total. What do you do?
 - 1x PDA, Damaged
 
 ##### The Squad lost in the Village
-Cpl. Lazarus, Pvt. Yohian, and Pvt. Steward 
+Cpl. Lazarus, Pvt. Yohian, and Pvt. Steward are members of 
 
 
 ### What happened?

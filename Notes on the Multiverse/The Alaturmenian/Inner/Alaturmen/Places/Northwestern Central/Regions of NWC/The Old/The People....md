@@ -4,7 +4,7 @@ Many people who come and go from this place are peaceful folk who need money, an
 ##### Scavengers
 A collective name for the individuals and groups without a greater affiliation to a faction without or within the Old. Most of these people came to find their fortune, and were miserably mistaken. They have likely tried and failed to escape this place, and have instead reluctantly gathered with others to survive in this place.
 
-Scavs tend to group together in buddy-groups (2-4), teams (4-6), or gangs (8+).
+Scavs tend to group together in buddy-groups (2-4), teams (4-6), or gangs (8+). Typically, our groups are named after our leaders (Eg. *Nail's Gang*).
 
 ###### Equipment
 The Scavs are very likely underequipped.
@@ -42,7 +42,7 @@ The Scavs are very likely underequipped.
 ##### White-Flame Militants
 [[The Church of the White Flame]] is - according to official Guild records - only maintaining a border presence to prevent any further entrance into these very dangerous and historic ruins. Anyone who has actually seen this place can tell you that is not true. Bands of well-equipped soldiers actively patrol the Old and more commonly attack on sight than arrest and eject "trespassers".
 
-Militants typically are grouped in squads (4-8) or companies (10-20) for their missions. We don't go out alone.
+Militants typically are grouped in squads (4-8) or companies (10-20) for their missions. Our groups are assigned names after theological concepts and values (Eg. *Virtue-6*)
 
 ###### Equipment
 The WFM are reasonably equipped for military containment, but undersupplied for deep exploration.
@@ -75,7 +75,7 @@ The WFM are reasonably equipped for military containment, but undersupplied for 
 ##### Mercenaries
 Hired soldiers willing to keep their employer's identity secret, the Mercenary groups within the Old are mysterious and fickle. While often reliable, when an opportunity presents itself, the Mercenaries have no issue betraying their otherwise well-earned trust for the benefit of their patrons. 
 
-Mercenaries are typically grouped into squads (3-6) or teams (8-12). Solo Operators are inadvisable, but many find their profit margin rise when compared to so-called 'group-work'.
+Mercenaries are typically grouped into squads (3-6) or teams (8-12). Our groups are assigned names after the Tactical Alphabet (Eg. *Delta-3*).
 
 | Class (lvl)              | HP  | AC                          | ATK      | DMG                           |
 | ------------------------ | --- | --------------------------- | -------- | ----------------------------- |
@@ -116,7 +116,7 @@ The Mercenaries are well-equipped.
 ##### Extramis
 Extramis is a loose collective of ex-soldiers and experienced seekers that claim to be members of [[Arthur's Knights]] with the common drive to liberate Minyostalma into the hands of the Arthurian people. While the validity of their claim to [[The Kingdom of Prosper]] is subject to question, their effectiveness within the Old is not.
 
-Extramis tend to group together in buddy-groups (2-4) or teams (4-6), when we can.
+Extramis tend to group together in buddy-groups (2-4) or teams (4-6), when we can. Typically, our groups are named after the Heroes of Unification (Eg. *Buster's 3rd*).
 
 ###### Equipment
 Extramis is underequipped, but knowledgeable.
@@ -153,7 +153,7 @@ Extramis is underequipped, but knowledgeable.
 ##### Mountain Troopers
 Equipped and ordered by the [[Nobles of Mountain Hall]], the Mountain Troopers are most identifiable by their thick shining metal armors and their well supplied durandurm blasters.
 
-Troopers tend to group together in buddy-groups (2-4), teams (4-6), or gangs (8+).
+Troopers tend to group together in buddy-groups (2-4), teams (4-6), or gangs (8+). Our groups are assigned names after metals and gemstones (Eg. *7th Steel*)
 
 ###### Equipment
 The Mountain Troopers are well-equipped. Typically, fresh Troopers sport Tank-Plate, a HEPF2, and a standard Carbine, but after time within the M.B.E.D., they will likely have modified their Carbine to the best of their ability, and the best of the best eventually sport their own Durandurm Powered Plate.
@@ -189,7 +189,7 @@ The Mountain Troopers are well-equipped. Typically, fresh Troopers sport Tank-Pl
 ##### Fallen
 Deep within the Walled ruins, there is some artifact that the White Flame was attempting to destroy when it came to this place so long ago. Those who travel too deep are said to rarely return, and when they do, they are not the same, raving about the *glorious flame* and it's *beautiful oblivion*. The only mercy for them is death. They are beyond reason. Resist them.
 
-<The Fallen speak [[Ancient Elvish (language)]], and have access to an incredible arsenal. Fallen will gather in groups of 8-32+.>
+<The Fallen speak [[Ancient Elvish (language)]], and have access to an incredible arsenal. Fallen will gather in groups of 8-32+. We have no need for designation, for we are one under the Obelisk.>
 
 ###### Equipment
 The Fallen are more than well equipped, sporting heavily modded Durandurm Carbines or Machine Repeaters, powered armors, and an array of the finest ammunition, explosives, and artifacts in Minyostalma.
@@ -211,4 +211,4 @@ The Fallen are more than well equipped, sporting heavily modded Durandurm Carbin
 	- <Blessed be the Obelisk. Ohum, Obelisk. Blessed be the Obelisk. Ohum, Obelisk.>
 
 ###### Politics
-- Kill the heretic, burn the infidel, slay the invader.
+- <Kill the heretic, burn the infidel, slay the invader.>
