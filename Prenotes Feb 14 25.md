@@ -83,7 +83,7 @@ Alpha-9079; AC 19, HP (80)
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
-Alpha-1101; AC 19, HP (80)
+Alpha-1101; AC 19, HP (80, 59)
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
