@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
       "basename": "Prenotes Feb 14 25",
       "path": "Prenotes Feb 14 25.md"
+    },
+    {
+      "basename": "APGtAv1",
+      "path": "APGtAv1.md"
     },
     {
       "basename": "The People...",
@@ -137,10 +145,6 @@
       "path": "Junie's Characters/Dante Fukili.md"
     },
     {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
-    },
-    {
       "basename": "Arms Companies and their Supply Regions",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Arms Companies and their Supply Regions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Forgehome",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md"
-    },
-    {
-      "basename": "Currency of Alaturmen",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
     }
   ],
   "omittedPaths": [],
