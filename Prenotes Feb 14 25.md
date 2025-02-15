@@ -50,46 +50,40 @@ Pvt. Steward;
 A squad of Fallen have been dispatched to recover Pvt. Steward, and will likely encounter the party as they investigate the area.
 
 ```
-~~Alpha-5660; AC 19, HP (80, 70, 61, 50, 30, 25, )~~
+~~Alpha-5660; AC 19, HP (80, 70, 61, 50, 30, 25, 0)~~
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
 	- Adv. Anti-Rad Box > Artyom's Skin (4/4 T: 1 in 45', DC 17 > 4d4 + Prone)
-Alpha-6485; AC 19, HP (80, 70, 55, )
+~~Alpha-6485; AC 19, HP (80, 70, 55, 0)~~
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
-	- 2x Pineapple Grenade
 	- Adv. Anti-Rad Box > Glass Dreams (ADV on Charm, Fear, Confuse)
 ~~Alpha-0031; AC 19, HP (80, 40, 0)~~
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 3x Daerenamon
-	- 2x Pineapple Grenade
 	- Adv. Anti-Rad Box > Duram Battery (4/5 Charges)
 ~~Alpha-7614; AC 19, HP (80, 46, 37, 30, 0)~~
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
-	- 2x Pineapple Grenade
 ~~Alpha-2500; AC 19, HP (80, 40, 0)~~
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
-	- 2x Pineapple Grenade
 ~~Alpha-9079; AC 19, HP (80, 70, 31, 0)~~
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 6x Nova
-	- 2x Pineapple Grenade
 ~~Alpha-1101; AC 19, HP (80, 59, 25, 6, 0)~~
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
-	- 2x Pineapple Grenade
 ~~Beta-7523; AC 23, HP (135, 125, 86, 65, 50, 0)~~
 	- P. Combat Armor
 	- Dual-Pop Carbine, +TTMA, +TLPTM (x2 +9/10/11, 4d6+7)
@@ -110,6 +104,6 @@ Alpha-6485; AC 19, HP (80, 70, 55, )
 14 - ~~Wren~~
 10 - **WHITE**
 
-They fought hard against the Fallen, holding fast in the face of certain harm. 
+They fought hard against the Fallen, holding fast in the face of certain harm. Wren ended up dying, but we made it out of the contact okay - thank the gods for Isiopara.
 
 We leave our heroes on the date of ... AF, as they ...
