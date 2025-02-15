@@ -6,7 +6,7 @@ aliases:
 
 *This page is a #stub. You can help by expanding it!*
 
-Ancient Elvish is a old language, and is dying through the eras. 
+Ancient Elvish is the first linguistic permutation of [[Sylvan (language)]] on Alatermen, and was spoken in the Capital City of the New Empire - [[The Old|Minyostalma]].
 
 ##### Combat Calls
 | Call                  | Translation            | Pronunciation                 |

@@ -40,13 +40,14 @@ Pvt. Steward;
 A squad of Fallen have been dispatched to recover Pvt. Steward, and will likely encounter the party as they investigate the area.
 
 ```
-Alpha-5660
-Alpha-6485
-Alpha-0031
-Alpha-7614
-Alpha-2500
-Alpha-9079
-Alpha-1101
+Alpha-5660;
+Alpha-6485;
+Alpha-0031;
+Alpha-7614;
+Alpha-2500;
+Alpha-9079;
+Alpha-1101;
+Beta-7523;
 ```
 
 ### What happened?
