@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5afde104ed4115f7",
+        "id": "fad1826690b72376",
         "type": "tabs",
         "children": [
           {
-            "id": "60f0fdf8481cbf7b",
+            "id": "349522a56c49896a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,83 +22,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Campaign Rosters/ParaeducatorGame.md",
+                "file": "Prenotes Feb 11 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ParaeducatorGame"
+              "title": "Prenotes Feb 11 25"
             }
           },
           {
-            "id": "73bff45841a8bc5c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes Jan 18 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Jan 18 25"
-            }
-          },
-          {
-            "id": "4207c761b61a440c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png"
-              },
-              "icon": "lucide-image",
-              "title": "MinyostalmaFeatures"
-            }
-          },
-          {
-            "id": "f7895b8409a2a8c6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The People..."
-            }
-          },
-          {
-            "id": "1600f02b1b9eb065",
+            "id": "6e58b3850a0f12c7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -108,40 +41,10 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Ancient Elvish (language)",
+                  "title": "Custom Features",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Ancient Elvish (language).md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Ancient Elvish (language)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":8},\"to\":{\"line\":2,\"ch\":8}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Time Before Time/Sylvan (language).md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sylvan (language)"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "7b673cd10216773b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f70badcf8f3ac018",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Custom Features\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":0},\"to\":{\"line\":62,\"ch\":0}},\"scroll\":29.878186191324442}"
                 }
               ]
             },
@@ -157,7 +60,7 @@
             }
           },
           {
-            "id": "097a0a3b10d76221",
+            "id": "d6ca8306ca4339cb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -171,12 +74,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Feb 14 25.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Feb 14 25"
+              "title": "Homebrew Alchemy System"
             }
           }
         ],
@@ -432,77 +335,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "5f174ccaef5f7a20",
-    "type": "floating",
-    "children": [
-      {
-        "id": "266b247f934ad514",
-        "type": "window",
-        "children": [
-          {
-            "id": "5b28ab377041d67b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4baa1d157c994299",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Custom Features"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 274,
-        "y": 0,
-        "width": 988,
-        "height": 912,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "1600f02b1b9eb065",
+  "active": "6e58b3850a0f12c7",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Ancient Elvish (language).md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
-    "Prenotes Feb 14 25.md",
-    "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
-    "Game Notes/Prenotes/'25/Prenotes Jan 18 25.md",
-    "Game Notes/NPCs/List of Names.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "README.md",
-    "Game Notes/Campaign Rosters/ParaeducatorGame.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
+    "Prenotes Feb 14 25.md",
+    "README.md",
     "Prenotes Feb 11 25.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
     "Prenotes Feb 04 25.md",
     "Game Notes/Prenotes/'24/Prenotes Jan 25 24.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Prenotes Feb 01 25.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Junie's Characters/Dante Fukili.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+    "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "A Grand Notepad.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
@@ -510,6 +361,10 @@
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+    "Prenotes feb 8 2025.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Arms Companies and their Supply Regions.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Kickoff.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/The Progress of Technology.md",
     "MEDIA/MAPS/WORLD/underdark.png",
     "Game Notes/Prenotes/'25",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
