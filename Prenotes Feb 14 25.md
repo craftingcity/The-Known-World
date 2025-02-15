@@ -32,9 +32,18 @@ The burning smell of spent durandurm fills the air, and your muscles ache of com
 Cpl. Lazarus, Pvt. Yohian, and Pvt. Steward are members of *Disciple-5*, which was recently forced to disperse during an operation in [[The Places...#The City]]. These three last reported from the [[The Places...#The Villas (4/rr)]], after which they encountered a minefield, where their remains now rest. Cpl. Lazarus and Pvt. Yohian were both killed by the explosion, and Pvt. Steward sustained critical injuries, from which he has been attempting to recover for the last 24 hours.
 
 ```
-Cpl. Lazarus;
+Cpl. Lazarus; 
+	- Scraps of P. Combat Armor
+	- Broken Carbine
+	- Simple Anti-Rad Box > 
 Pvt. Yohian;
+	- Scraps of P. Combat Armor
+	- Broken Carbine
 Pvt. Steward;
+	- P. Combat Armor
+	- D. Carbine
+	- x26 DRM, FR
+	- Medkit (3/10)
 ```
 
 A squad of Fallen have been dispatched to recover Pvt. Steward, and will likely encounter the party as they investigate the area.
