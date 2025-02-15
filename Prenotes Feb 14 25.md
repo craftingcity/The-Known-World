@@ -50,7 +50,7 @@ Pvt. Steward;
 A squad of Fallen have been dispatched to recover Pvt. Steward, and will likely encounter the party as they investigate the area.
 
 ```
-Alpha-5660; AC 19, HP (80, 70, 61, 50)
+Alpha-5660; AC 19, HP (80, 70, 61, 50, 30)
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
@@ -62,24 +62,24 @@ Alpha-6485; AC 19, HP (80, 70)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
 	- Adv. Anti-Rad Box > Glass Dreams (ADV on Charm, Fear, Confuse)
-Alpha-0031; AC 19, HP (80)
+~~Alpha-0031; AC 19, HP (80, 40, 0)~~
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 3x Daerenamon
 	- 2x Pineapple Grenade
 	- Adv. Anti-Rad Box > Duram Battery (4/5 Charges)
-Alpha-7614; AC 19, HP (80, 46, 37, 30)
+~~Alpha-7614; AC 19, HP (80, 46, 37, 30, 0)~~
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
-Alpha-2500; AC 19, HP (80)
+~~Alpha-2500; AC 19, HP (80, 40, 0)~~
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
-~~Alpha-9079; AC 19, HP (80, 70, 31)~~
+~~Alpha-9079; AC 19, HP (80, 70, 31, 0)~~
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
@@ -104,7 +104,7 @@ Beta-7523; AC 23, HP (135, 125, 86, 65)
 #### The Fight!
 24 - Zipper
 23 - Nikolai
-20 - **BLACK**
+~~20 - **BLACK**~~
 18 - Roan
 15 - Saoirse
 14 - ~~Wren~~
