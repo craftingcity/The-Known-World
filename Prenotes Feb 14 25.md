@@ -68,7 +68,7 @@ Alpha-0031; AC 19, HP (80)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
 	- Adv. Anti-Rad Box > Duram Battery (4/5 Charges)
-Alpha-7614; AC 19, HP (80)
+Alpha-7614; AC 19, HP (80, 46)
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
@@ -83,7 +83,7 @@ Alpha-9079; AC 19, HP (80)
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
-Alpha-1101; AC 19, HP (80, 59)
+~~Alpha-1101; AC 19, HP (80, 59, 25, 6, 0)~~
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
