@@ -50,13 +50,51 @@ A squad of Fallen have been dispatched to recover Pvt. Steward, and will likely 
 
 ```
 Alpha-5660;
+	- P. Scout Armor
+	- Dual-Pop Carbine, +TTMA, +TLCL
+	- 3x Isiopara
+	- 2x Pineapple Grenade
+	- Adv. Anti-Rad Box > Artyom's Skin (4/4 T: 1 in 45', DC 17 > 4d4 + Prone)
 Alpha-6485;
+	- P. Scout Armor
+	- Dual-Pop Carbine, +TTMA, +TLCL
+	- 3x Isiopara
+	- 2x Pineapple Grenade
+	- Adv. Anti-Rad Box > Glass Dreams (ADV on Charm, Fear, Confuse)
 Alpha-0031;
+	- P. Scout Armor
+	- Dual-Pop Carbine, +TTMA, +TLCL
+	- 3x Isiopara
+	- 2x Pineapple Grenade
+	- Adv. Anti-Rad Box > Duram Battery (4/5 Charges)
 Alpha-7614;
+	- P. Scout Armor
+	- Dual-Pop Carbine, +TTMA, +TLCL
+	- 3x Isiopara
+	- 2x Pineapple Grenade
 Alpha-2500;
+	- P. Scout Armor
+	- Dual-Pop Carbine, +TTMA, +TLCL
+	- 3x Isiopara
+	- 2x Pineapple Grenade
 Alpha-9079;
+	- P. Scout Armor
+	- Dual-Pop Carbine, +TTMA, +TLCL
+	- 3x Isiopara
+	- 2x Pineapple Grenade
 Alpha-1101;
+	- P. Scout Armor
+	- Dual-Pop Carbine, +TTMA, +TLCL
+	- 3x Isiopara
+	- 2x Pineapple Grenade
 Beta-7523;
+	- P. Combat Armor
+	- Dual-Pop Carbine, +TTMA, +TLPTM
+	- 5x Isiopara
+	- 2x Secreclude Propital
+	- 4x Pineapple Grenade
+	- Adv. Anti-Rad Box > Vorpal Shoreline (Prone Teleports)
+	- Adv. Anti-Rad Box > Fireheart Ruby (10/10 +1d4 fire or heal 1d4)
 ```
 
 ### What happened?
