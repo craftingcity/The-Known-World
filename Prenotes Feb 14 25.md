@@ -35,7 +35,7 @@ Cpl. Lazarus, Pvt. Yohian, and Pvt. Steward are members of *Disciple-5*, which w
 Cpl. Lazarus; 
 	- Scraps of P. Combat Armor
 	- Broken Carbine
-	- Simple Anti-Rad Box > 
+	- Simple Anti-Rad Box > Spiral Eye
 Pvt. Yohian;
 	- Scraps of P. Combat Armor
 	- Broken Carbine

@@ -59,8 +59,7 @@
               "title": "A Grand Notepad"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1ad106e8dfc95411",
@@ -139,8 +138,14 @@
             "id": "65638a3c424fecf9",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "things are",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"things are.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"things are\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -157,9 +162,32 @@
               "icon": "lucide-file",
               "title": "The Artifacts..."
             }
+          },
+          {
+            "id": "57a574f5edb82c8b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Things Aren't Right Here..."
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -410,14 +438,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a95047e65f76ab2",
+  "active": "57a574f5edb82c8b",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+    "things are.md",
     "Prenotes Feb 14 25.md",
+    "A Grand Notepad.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "APGtAv1.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
@@ -433,13 +463,11 @@
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Junie's Characters/Dante Fukili.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
-    "A Grand Notepad.md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "MEDIA/MAPS/WORLD/underdark.png",
     "Game Notes/Prenotes/'25",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
