@@ -50,13 +50,13 @@ Pvt. Steward;
 A squad of Fallen have been dispatched to recover Pvt. Steward, and will likely encounter the party as they investigate the area.
 
 ```
-Alpha-5660; AC 19, HP (80)
+Alpha-5660; AC 19, HP (80, 70)
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
 	- Adv. Anti-Rad Box > Artyom's Skin (4/4 T: 1 in 45', DC 17 > 4d4 + Prone)
-Alpha-6485; AC 19, HP (80)
+Alpha-6485; AC 19, HP (80, 70)
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
@@ -78,7 +78,7 @@ Alpha-2500; AC 19, HP (80)
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
-Alpha-9079; AC 19, HP (80)
+Alpha-9079; AC 19, HP (80, 70)
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
@@ -88,7 +88,7 @@ Alpha-9079; AC 19, HP (80)
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
-Beta-7523; AC 23, HP (135)
+Beta-7523; AC 23, HP (135, 125)
 	- P. Combat Armor
 	- Dual-Pop Carbine, +TTMA, +TLPTM (x2 +9/10/11, 4d6+7)
 	- 5x Isiopara
@@ -105,7 +105,7 @@ Beta-7523; AC 23, HP (135)
 20 - **BLACK**
 18 - Roan
 15 - Saoirse
-14 - Wren
+14 - ~~Wren~~
 10 - **WHITE**
 
 
