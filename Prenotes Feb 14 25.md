@@ -50,7 +50,7 @@ Pvt. Steward;
 A squad of Fallen have been dispatched to recover Pvt. Steward, and will likely encounter the party as they investigate the area.
 
 ```
-Alpha-5660; AC 19, HP (80, 70)
+Alpha-5660; AC 19, HP (80, 70, 61, 50)
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
@@ -66,9 +66,10 @@ Alpha-0031; AC 19, HP (80)
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
+	- 3x Daerenamon
 	- 2x Pineapple Grenade
 	- Adv. Anti-Rad Box > Duram Battery (4/5 Charges)
-Alpha-7614; AC 19, HP (80, 46)
+Alpha-7614; AC 19, HP (80, 46, 37, 30)
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
@@ -78,17 +79,18 @@ Alpha-2500; AC 19, HP (80)
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
-Alpha-9079; AC 19, HP (80, 70)
+~~Alpha-9079; AC 19, HP (80, 70, 31)~~
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
+	- 6x Nova
 	- 2x Pineapple Grenade
 ~~Alpha-1101; AC 19, HP (80, 59, 25, 6, 0)~~
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
-Beta-7523; AC 23, HP (135, 125)
+Beta-7523; AC 23, HP (135, 125, 86, 65)
 	- P. Combat Armor
 	- Dual-Pop Carbine, +TTMA, +TLPTM (x2 +9/10/11, 4d6+7)
 	- 5x Isiopara
