@@ -257,13 +257,22 @@ The Hospital lies host to a clutch of [[The Monsters...#The Demon]] in its basem
 ## The Village
 #### The Hovels (4/rr)
 
+A series of tents and small shed-homes.
+
 #### The Homes (4/rr)
+
+A neighborhood of large houses.
 
 #### The Villas (4/rr)
 
+A tight neighborhood of dense apartments.
+
 #### The Fields (4/rr)
 
+A large farming field.
+
 #### The Market (4/rr)
+
 
 #### The Outskirts, North (2/rr)
 
