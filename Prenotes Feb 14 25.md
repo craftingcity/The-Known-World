@@ -49,47 +49,47 @@ Pvt. Steward;
 A squad of Fallen have been dispatched to recover Pvt. Steward, and will likely encounter the party as they investigate the area.
 
 ```
-Alpha-5660;
+Alpha-5660; AC 19, HP (80)
 	- P. Scout Armor
-	- Dual-Pop Carbine, +TTMA, +TLCL
+	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
 	- Adv. Anti-Rad Box > Artyom's Skin (4/4 T: 1 in 45', DC 17 > 4d4 + Prone)
-Alpha-6485;
+Alpha-6485; AC 19, HP (80)
 	- P. Scout Armor
-	- Dual-Pop Carbine, +TTMA, +TLCL
+	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
 	- Adv. Anti-Rad Box > Glass Dreams (ADV on Charm, Fear, Confuse)
-Alpha-0031;
+Alpha-0031; AC 19, HP (80)
 	- P. Scout Armor
-	- Dual-Pop Carbine, +TTMA, +TLCL
+	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
 	- Adv. Anti-Rad Box > Duram Battery (4/5 Charges)
-Alpha-7614;
+Alpha-7614; AC 19, HP (80)
 	- P. Scout Armor
-	- Dual-Pop Carbine, +TTMA, +TLCL
+	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
-Alpha-2500;
+Alpha-2500; AC 19, HP (80)
 	- P. Scout Armor
-	- Dual-Pop Carbine, +TTMA, +TLCL
+	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
-Alpha-9079;
+Alpha-9079; AC 19, HP (80)
 	- P. Scout Armor
-	- Dual-Pop Carbine, +TTMA, +TLCL
+	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
-Alpha-1101;
+Alpha-1101; AC 19, HP (80)
 	- P. Scout Armor
-	- Dual-Pop Carbine, +TTMA, +TLCL
+	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
 	- 2x Pineapple Grenade
-Beta-7523;
+Beta-7523; AC 23, HP (135)
 	- P. Combat Armor
-	- Dual-Pop Carbine, +TTMA, +TLPTM
+	- Dual-Pop Carbine, +TTMA, +TLPTM (x2 +9/10/11, 4d6+7)
 	- 5x Isiopara
 	- 2x Secreclude Propital
 	- 4x Pineapple Grenade

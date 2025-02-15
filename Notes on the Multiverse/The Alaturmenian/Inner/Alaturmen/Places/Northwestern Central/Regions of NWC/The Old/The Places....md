@@ -273,16 +273,23 @@ A large farming field.
 
 #### The Market (4/rr)
 
+A large open market full of stands and shops.
 
 #### The Outskirts, North (2/rr)
 
+A wide neighborhood of many farming estates.
+
 #### The Windmill (2/rr)
+
+A communal windmill, just outside of the market.
 
 #### The Empty Fences (4/rr)
 
+A series of plots marked by decrepit wooden fences.
+
 #### The Outskirts, South (6/rr)
 
-
+A wide neighborhood of many farming estates. A thin fog radiates throughout the area.
 
 
 ## The Temple
