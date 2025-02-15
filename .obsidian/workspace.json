@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7b673cd10216773b",
@@ -448,14 +448,56 @@
         "height": 912,
         "maximize": false,
         "zoom": -0.5
+      },
+      {
+        "id": "4a63d6550396b56a",
+        "type": "window",
+        "children": [
+          {
+            "id": "708c381083e7ee68",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d4db8a360319acaf",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Prenotes Feb 14 25.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Prenotes Feb 14 25"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1280,
+        "y": 0,
+        "width": 1280,
+        "height": 1400,
+        "maximize": false,
+        "zoom": -1.5
       }
     ]
   },
-  "active": "097a0a3b10d76221",
+  "active": "d4db8a360319acaf",
   "lastOpenFiles": [
-    "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
-    "Prenotes Feb 14 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+    "Prenotes Feb 14 25.md",
+    "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "Game Notes/Prenotes/'25/Prenotes Jan 18 25.md",
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
