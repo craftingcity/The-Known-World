@@ -36,6 +36,7 @@ Cpl. Lazarus;
 	- Scraps of P. Combat Armor
 	- Broken Carbine
 	- Simple Anti-Rad Box > Spiral Eye
+	- Lazarus' PDA
 Pvt. Yohian;
 	- Scraps of P. Combat Armor
 	- Broken Carbine
@@ -98,6 +99,14 @@ Beta-7523; AC 23, HP (135)
 ```
 
 ### What happened?
+#### The Fight!
+24 - Zipper
+23 - Nikolai
+20 - **BLACK**
+18 - Roan
+15 - Saoirse
+14 - Wren
+10 - **WHITE**
 
 
 We leave our heroes on the date of ... AF, as they ...
