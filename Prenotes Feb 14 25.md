@@ -107,17 +107,18 @@ They fought hard against the Fallen, holding fast in the face of certain harm. W
 
 We haven't looted yet, but this is the total count;
 
-- 2x Scrap of P. Combat Armor
+- 3x Scrap of P. Combat Armor
 - 2x Broken Carbine
 - 7x P. Scout Armor
 - 1x P. Combat Armor
 - 7x Dual-pop Carbine (+TTMA, +TLCL)
 - 1x Dual-pop Carbine (+TTMA, +TLPTM)
-- 26x Isiopara
+- 64x Isiopara
 - 2x Secreclude Propital
 - 6x Nova
 - 3x Daerenamon
 - x26 DRM, FR
+- x4 DRM, WB
 - 1x Medkit (3/10)
 - Lazarus' PDA
 - SARD > ~~Spiral Eye~~
@@ -126,6 +127,10 @@ We haven't looted yet, but this is the total count;
 - AARD > ~~Duram Battery~~
 - AARD > ~~Vorpal Shoreline~~
 - AARD > ~~Fireheart Ruby~~
+- Wren's Carbine
+- 2x Fire Grenade
+- 1x Pineapple Grenade
+- 2312sp
 
 
 We leave our heroes on the date of ... AF, as they ...
