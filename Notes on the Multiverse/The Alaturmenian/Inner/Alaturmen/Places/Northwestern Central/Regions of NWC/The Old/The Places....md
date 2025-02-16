@@ -265,7 +265,7 @@ A neighborhood of large houses.
 
 #### The Villas (4/rr)
 
-A tight neighborhood of dense apartments.
+A tight neighborhood of dense apartments and alleys.
 
 #### The Fields (4/rr)
 
@@ -389,6 +389,7 @@ The central hangar's personnel doors are unlocked and openable. Inside, a large 
 #### The Overwatch Tower (4/rr)
 
 #### The Ship (2/rr)
+The 
 
 #### The Keep (4/rr)
 
