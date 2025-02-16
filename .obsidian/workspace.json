@@ -4,87 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "fad1826690b72376",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "349522a56c49896a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Prenotes Feb 11 25",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Feb 11 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Feb 11 25\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":29},\"to\":{\"line\":20,\"ch\":29}},\"scroll\":9.300511484185987}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Feb 14 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Feb 14 25"
-            }
-          },
-          {
-            "id": "3998fd0934c529fb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Ancient Elvish (language).md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ancient Elvish (language)"
-            }
-          },
-          {
-            "id": "2a95047e65f76ab2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Grand Notepad.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "A Grand Notepad"
-            }
-          }
-        ]
-      },
-      {
         "id": "1ad106e8dfc95411",
         "type": "tabs",
         "children": [
@@ -460,98 +379,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "6222e92df4a281c5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1595e9c992ba9cf0",
-        "type": "window",
-        "children": [
-          {
-            "id": "c0be28621d086687",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8f0b03756803bffa",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Prenotes Feb 11 25",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Feb 11 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Feb 11 25\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":29},\"to\":{\"line\":20,\"ch\":29}},\"scroll\":9.300511484185987}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Prenotes Feb 14 25.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prenotes Feb 14 25"
-                }
-              }
-            ]
-          },
-          {
-            "id": "ff88572cfc123f54",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a659ce83bd99be2b",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "A Grand Notepad.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "A Grand Notepad"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 274,
-        "y": 0,
-        "width": 988,
-        "height": 912,
-        "maximize": true,
-        "zoom": -1.5
-      }
-    ]
-  },
-  "active": "8f0b03756803bffa",
+  "active": "81982615a29239a1",
   "lastOpenFiles": [
     "A Grand Notepad.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Ancient Elvish (language).md",
     "Prenotes Feb 14 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Ancient Elvish (language).md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "things are.md",
