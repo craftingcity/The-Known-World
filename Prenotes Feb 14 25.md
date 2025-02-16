@@ -54,7 +54,6 @@ A squad of Fallen have been dispatched to recover Pvt. Steward, and will likely 
 	- P. Scout Armor
 	- Dual-Pop Carbine, +TTMA, +TLCL (x2 +8, 4d6+7)
 	- 3x Isiopara
-	- 2x Pineapple Grenade
 	- Adv. Anti-Rad Box > Artyom's Skin (4/4 T: 1 in 45', DC 17 > 4d4 + Prone)
 ~~Alpha-6485; AC 19, HP (80, 70, 55, 0)~~
 	- P. Scout Armor
@@ -105,5 +104,28 @@ A squad of Fallen have been dispatched to recover Pvt. Steward, and will likely 
 10 - **WHITE**
 
 They fought hard against the Fallen, holding fast in the face of certain harm. Wren ended up dying, but we made it out of the contact okay - thank the gods for Isiopara.
+
+We haven't looted yet, but this is the total count;
+
+- 2x Scrap of P. Combat Armor
+- 2x Broken Carbine
+- 7x P. Scout Armor
+- 1x P. Combat Armor
+- 7x Dual-pop Carbine (+TTMA, +TLCL)
+- 1x Dual-pop Carbine (+TTMA, +TLPTM)
+- 26x Isiopara
+- 2x Secreclude Propital
+- 6x Nova
+- 3x Daerenamon
+- x26 DRM, FR
+- 1x Medkit (3/10)
+- Lazarus' PDA
+- SARD > ~~Spiral Eye~~
+- AARD > ~~Artyom's Skin~~
+- AARD > ~~Glass Dreams~~
+- AARD > ~~Duram Battery~~
+- AARD > ~~Vorpal Shoreline~~
+- AARD > ~~Fireheart Ruby~~
+
 
 We leave our heroes on the date of ... AF, as they ...
