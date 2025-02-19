@@ -17,16 +17,16 @@ On the morning of the 3rd, forces from the Delectus Chapter of [[Arthur's Knight
 ## First Battle of Kohnstamm
 #### 105AF/05/08 - 05/15
 
-The Arthurian Push continued westward, towards [[Kohnstamm]] and it's surrounding area. The Delectus Chapter Knights were reportedly joined by the '1st Revolution Infantry' of [[Wychway]]. Upon reaching the surrounding settlements, the Arthurian Forces faced significant resistance. The Church's soldiers would ambush the incoming force by using the previously evacuated civilian buildings and having a portion of their own forces disguise as civilians.
+The Arthurian Push continued westward, towards [[Kohnstamm]] and it's surrounding area. The Delectus Chapter Knights were reportedly joined by the '1st Revolution Infantry' of [[Wychway]]. Upon reaching the surrounding settlements, the Arthurian Forces faced significant resistance. The Church's soldiers would ambush the incoming force by occupying the previously evacuated civilian buildings and having a portion of their own forces disguise as civilians.
 
-The Arthurian forces attempted to rally and centralize their force, but the Church had already done too much damage to them, and the survivors would instead flee from the battle.
+The Arthurian forces attempted to rally and centralize their force, but the Church had already done too much damage to them, and the survivors would instead be forced to flee from the battle.
 
 ## Battle of the Bridge, Wychway
 #### 105AF/05/18 - 05/20
 
-As quickly as the Arthurians struck, so too did the Church strike back. The Church rallied its forces from the north and attempted to surround the city of Wychway as the Arthurian forces recovered. As the Church's army approached, the battle commenced. While supported by the city walls, the Arthurian forces performed poorly in their initial engagement, and began to fall back into the city using the bridge. The Church's forces followed, and as the final Arthurian soldier cleared the bridge, it was immolatted, along with all of the Church forces on the bridge. 
+As quickly as the Arthurians struck, so too did the Church strike back. The Church rallied its forces from the north and attempted to surround the city of Wychway as the Arthurian forces recovered. As the Church's army approached, the battle commenced. While supported by the city walls, the Arthurian forces performed poorly in their initial engagement, and began to fall back into the city using the bridge. The Church's forces followed, and as the final Arthurian soldier cleared the bridge, it was immolated, along with all of the Church forces on the bridge. 
 
-As Syr Grain spoke on the event, he said "[the Church's force] kept running after us, and we got them back for their bullshit in Kohnstamm. They all got what they deserved. We got to shoot down the runners too, thank the Gods. We cleared all of 'em after too, with their idol-worship bullshit."
+As Syr Grain spoke on the event, he said "[the Church's force] kept running after us, and we got them back for their bullshit in Kohnstamm. They all got what they deserved. We hit all the runners, thank the Gods. We cleared all of 'em after too, with their idol-worship undead bullshit."
 
 ## First Battle for the Centers
 #### 105AF/06/02 - 07/08
