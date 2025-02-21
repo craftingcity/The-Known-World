@@ -245,13 +245,13 @@ Sling Staffs are *ammunition (1)*, and *ranged (60/300)*. Once per rest, you may
 
 ### Bolts
 #### Light Crossbow
-Light Crossbows are stable platforms that use pullies to store tension and launch their bolts. Light Crossbows are less heavy, but less powerful than the Heavy alternative.
+Light Crossbows are stable platforms used to store tension and fire metal bolts. Light Crossbows are less heavy, but less powerful than a Heavy alternative.
 
 Light Crossbows deal 2d4 piercing damage.
 Light Crossbows are *quick*, *two-handed*, *ammunition (1)*, and *ranged (45/180)*. Once per rest, you may use this weapon's special ability;
 
 #### Hand Crossbow
-Hand Crossbows are small, stable platforms that use pullies to store tension and launch their bolts. Hand Crossbows are the smallest, and therefore weakest, form of Crossbow.
+Hand Crossbows are small, stable platforms used to store tension and fire metal bolts. Hand Crossbows are the smallest, and weakest, form of Crossbow.
 
 Hand Crossbows deal 1d6 piercing damage.
 Hand Crossbows are *quick*, *ammunition (1)*, and *ranged (30/120)*. Once per rest, you may use this weapon's special ability;
@@ -322,9 +322,10 @@ Boomerangs are *thrown (60/180)*. Once per rest, you may use this weapon's speci
 
 ### Stones
 #### Pellet Crossbow
-Pellet Crossbows are small 
+Pellet Crossbows are an alternative to the Light Crossbow that fires small stones or pellets through a cylindrical barrel. The Pellet Crossbow is a significant precursor to the modern class of firearms. 
 
-weewee goes peepee
+Pellet Crossbows deal 1d4 piercing damage.
+Pellet Crossbows are *two-handed*, *ranged (30/90)*, and *ammunition (1)*. Once per rest, you may use this weapon's special ability;
 
 ### Bolts
 #### Heavy Crossbow
