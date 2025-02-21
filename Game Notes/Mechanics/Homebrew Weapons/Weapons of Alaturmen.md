@@ -1,10 +1,10 @@
-## Generic Weaponry
+# Generic Weaponry
 Melee weapons, unless otherwise stated, add STR to attack and and damage rolls, while Ranged weapons use DEX for those rolls.
 
-### Simple Melee Weapons
+## Simple Melee Weapons
 Simple weapons can be used by most people. There is no extensive training required to safely handle the weapon, and it is simple enough to produce on a large scale.
 
-##### Natural
+### Natural
 #### Improvised Weapon
 Improvised Weapons are items and objects that are not traditionally seen or used as "weapons". 
 
@@ -16,7 +16,7 @@ Environmental Damage is the damage done to creatures as they are pushed into wal
 
 Environmental Damage deals 1d6 bludgeoning damage.
 
-##### Blunts
+### Blunts
 #### Knuckle Dusters
 Knuckle Dusters are small metal weapons designed to concentrate force during hand-to-hand combat.
 
@@ -53,7 +53,7 @@ Capped Staves are a simple improvement on the design of the Carved Staff, electi
 Capped Staves deal 2d4 bludgeoning damage.
 Capped Staves are *versatile (d6)* and *long*. Once per rest, you may use this weapon's special ability;
 
-##### Blades
+### Blades
 #### Metal Fan
 Metal Fans are small sheets of metal sharpened to a blade on it's edge carried in a safe, flip-open container. These blades are most commonly used where true blades or other offensive weapons are disapproved of. 
 
@@ -78,10 +78,10 @@ Handaxes are the most common tool-turned-weapon, as it is simply a sharp metal e
 Handaxes deal 2d4 slashing damage.
 Handaxes are *light*. Once per rest, you may use this weapon's special ability;
 
-### Martial Melee Weapons
+## Martial Melee Weapons
 Martial Weapons are designed for a trained soldier to wield. To effectively use a Martial weapon, significant practice or experience is required.
 
-##### Blunts
+### Blunts
 #### War Club
 War Clubs are sturdy, reliable weapons made of a solid material, characterized by a heavy head and a tight grip.
 
@@ -112,7 +112,7 @@ Morning Stars are another curious choice, very similar in construction to the Fl
 Morning Stars deal 2d4 bludgeoning damage.
 Morning Stars are *heavy* and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
-##### Blades
+### Blades
 #### Push Dagger
 Push Daggers are daggers made to be gripped in a closed fist such that the blade is at the face of your fist.
 
@@ -167,7 +167,7 @@ Greataxes are gaudy implements of death used by the arrogant or the effective. S
 Greataxes deal 3d8 slashing damage.
 Greataxes are *heavy*, *two-handed*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
-##### Polearms
+### Polearms
 #### Glaive
 Glaives are tall polearms with a single-edged blade affixed on its working end. Used as a slashing implement, the Glaive is a fearsome weapon of war, most often used by experienced cavalry units.
 
@@ -204,7 +204,7 @@ Warscythes are a very atypical, though still military grade, long-blade polearm.
 Warscythes deal 2d10 slashing damage.
 Warscythes are *very heavy*, *long*, and *unwieldy*. Once per rest, you may use this weapon's special ability;
 
-##### Loose
+### Loose
 #### Bull Whip
 The Bull Whip is a long, flexible length of leather typically used to control farm animals, although it does find use in controlling a battlefield as well.
 
@@ -229,8 +229,8 @@ Rope Darts are long strings with a small weight or blade on their end. When appr
 Rope Darts deal 1d6 bludgeoning damage.
 Rope Darts are *quick*, *finesse*, *long*, and *stashable*. Once per rest, you may use this weapon's special ability;
 
-### Simple Ranged Weapons
-##### Stones
+## Simple Ranged Weapons
+### Stones
 #### Sling
 Slings are simple straps of leather or woven textiles that are quickly spun and released to fire stones or other small projectiles.
 
@@ -243,7 +243,7 @@ Sling Staffs are long poles used to launch sling munitions further than a simple
 Sling Staffs deal 1d4 bludgeoning damage.
 Sling Staffs are *ammunition (1)*, and *ranged (60/300)*. Once per rest, you may use this weapon's special ability;
 
-##### Bolts
+### Bolts
 #### Light Crossbow
 Light Crossbows are stable platforms that use pullies to store tension and launch their projectiles. Light Crossbows are less heavy, but less powerful than the Heavy alternative.
 
@@ -256,14 +256,14 @@ Hand Crossbows are small, stable platforms that use pullies to store tension and
 Hand Crossbows deal 1d6 piercing damage.
 Hand Crossbows are *quick*, *ammunition (1)*, and *ranged (30/120)*. Once per rest, you may use this weapon's special ability;
 
-##### Arrows
+### Arrows
 #### Short Bow
 Short Bows are simple curved platforms that bends with tension applied through a connecting string. 
 
 Short Bows deal 1d6 piercing damage.
 Short Bows are *two-handed*, *ammunition (1)*, and *ranged (30/120)*. Once per rest, you may use this weapon's special ability;
 
-##### Durandurm Operated
+### Durandurm Operated
 #### Durandurm Handblaster
 Durandurm Handblasters are small elemental firearms designed as a secondary weapon to the Carbine during sustained firefights.
 
@@ -275,7 +275,7 @@ Durandurm Handblasters are *ammunition (10)* and *ranged (45/120)*. Once per res
 | YI-A88 'Sandstone'    | 30/90  | 2d6 ammo | Yosimmite Industries | The prototype of the YI-A90, less than 40 were ever produced.            |
 | YI-A90 'Basalt'       | 45/120 | 1d6 ammo | Yosimmite Industries | The dominant sidearm in the Durandurm arsenal before the Age of Warfare. |
 
-##### Firepowder Operated
+### Firepowder Operated
 #### Boltshot Firepowder Blaster
 Boltshot Firepowder Blasters are single-shot, manual loading, bolt-action, firepowder rifles. Originally made of stone and bronze, most manufactures have matured into a full-metal construction.
 
@@ -288,8 +288,8 @@ Boltshot Firepowder Scatterblasters are single-shot, manual loading, bolt-action
 Boltshot Firepowder Scatterblasters deal 3d10 piercing damage in a 15' cone divided by the number of creatures hit.
 Boltshot Firepowder Scatterblasters are *two-handed*, *ammunition (1)*, and *ranged (15)*. Once per rest, you may use this weapon's special ability;
 
-### Martial Ranged Weapons
-##### Thrown
+## Martial Ranged Weapons
+### Thrown
 #### Javelin
 Javelin are large darts or small spears with sharp metal tips thrown at a target at range.
 
@@ -320,28 +320,32 @@ Boomerangs are small light L-curves of wood or metal designed to be thrown in su
 Boomerang deal 1d4 bludgeoning damage.
 Boomerangs are *thrown (60/180)*. Once per rest, you may use this weapon's special ability;
 
-##### Stones
+### Stones
 #### Pellet Crossbow
-##### Bolts
+Pellet Crossbows are small 
+
+weewee goes peepee
+
+### Bolts
 #### Heavy Crossbow
 #### Repeating Crossbow
-##### Arrows
+### Arrows
 #### Longbow
-##### Durandurm Operated
+### Durandurm Operated
 #### Durandurm Longblaster
 #### Durandurm Carbine
 #### Durandurm Rotary Repeater
 #### Durandurm Scatterblaster
 #### Durandurm Cannon
-##### Firepowder Operated
+### Firepowder Operated
 #### Reakshot Firepowder Blaster
 #### Reakshot Firepowder Carbine
 #### Beltshot Firepowder Rotary Repeater
 #### Boltshot Firepowder Scatterblaster
 #### Boltshot Firepowder Cannon
 
-### Ranged Ammunition
-##### Stones
+## Ranged Ammunition
+### Stones
 Stones are small, less-than palm-sized rocks, usually thrown or fired from a Sling.
 
 Stones deal 1d4 bludgeoning damage.
@@ -350,7 +354,7 @@ Stones deal 1d4 bludgeoning damage.
 | --------------------- | ---- | ----------------- | ---- |
 | -                     | -    |                   |      |
 
-##### Bolts
+### Bolts
 Bolts are short, metal tipped shafts that have been fletched and are fired from Crossbows.
 
 Bolts typically deal 1d6 piercing damage, but are a variable ammunition.
@@ -359,7 +363,7 @@ Bolts typically deal 1d6 piercing damage, but are a variable ammunition.
 | --------------------- | ---- | ----------------- | ---- |
 | -                     | -    |                   |      |
 
-##### Arrows
+### Arrows
 Arrows are long, metal tipped shafts that have been fletched and are fired from Bows.
 
 Arrows typically deal 1d8 piercing damage, but are a variable ammunition.
@@ -368,7 +372,7 @@ Arrows typically deal 1d8 piercing damage, but are a variable ammunition.
 | --------------------- | ---- | ----------------- | ---- |
 | -                     | -    |                   |      |
 
-##### Durandurm Magazines
+### Durandurm Magazines
 Durandurm Magazines are complex ammunition storage modules that contain a number of pellets, usually 10, and an active Durandurm charge. Durandurm Magazines are used in the operation of Durandurm Operated Firearms.
 
 Durandurm Operated Firearms typically deal d6 elemental damage, but are a variable ammunition.
@@ -377,7 +381,7 @@ Durandurm Operated Firearms typically deal d6 elemental damage, but are a variab
 | ----------------------------- | ------- | ----------------- | ---- |
 | Durandurm 'Fire Red' Magazine | fire    |                   |      |
 
-##### Firepowder Shot
+### Firepowder Shot
 Firepowder Shot are individual self-contained ammunitions used in the operation of Firepowder Blasters. Shots are sometimes loaded into magazines or belts for use in more complex Firepowder weapons.
 
 Firepowder Shot are created in standard size-forms for a given make or model of Blaster.
@@ -387,7 +391,7 @@ Firepowder Shot are created in standard size-forms for a given make or model of 
 | -                     | -    |                   |      |
 
 ## Specialized Weaponry
-##### Explosives
+### Explosives
 #### Fire-Bomb
 #### Pipe Bomb
 #### Chili Grenade
@@ -395,21 +399,21 @@ Firepowder Shot are created in standard size-forms for a given make or model of 
 #### Viper Grenade
 #### Skunk Grenade
 
-##### Weave-Manipulation Instruments
+### Weave-Manipulation Instruments
 #### Arcane Implement
 #### Divine Implement
 #### Elemental Implement
 
-##### Liquid Operated
+### Liquid Operated
 #### Huumpo Spitter
 
 ## Common Weave Patches
-##### Uniform Weapon Patches
-##### Melee Weapon Patches
+### Uniform Weapon Patches
+### Melee Weapon Patches
 #### Balanced (I - V)
 The weapon is magically balanced, providing additional accuracy and power to every attack made.
 
 When you make an Attack Roll or a Damage Roll with this weapon, add a number equal to the Patch Power to the Roll. 
 
-##### Ranged Weapon Patches
-##### Implement Patches
+### Ranged Weapon Patches
+### Implement Patches
