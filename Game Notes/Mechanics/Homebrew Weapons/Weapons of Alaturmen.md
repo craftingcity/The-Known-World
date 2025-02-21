@@ -245,7 +245,7 @@ Sling Staffs are *ammunition (1)*, and *ranged (60/300)*. Once per rest, you may
 
 ### Bolts
 #### Light Crossbow
-Light Crossbows are stable platforms that use pullies to store tension and launch their projectiles. Light Crossbows are less heavy, but less powerful than the Heavy alternative.
+Light Crossbows are stable platforms that use pullies to store tension and launch their bolts. Light Crossbows are less heavy, but less powerful than the Heavy alternative.
 
 Light Crossbows deal 2d4 piercing damage.
 Light Crossbows are *quick*, *two-handed*, *ammunition (1)*, and *ranged (45/180)*. Once per rest, you may use this weapon's special ability;
