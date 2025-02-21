@@ -29,8 +29,30 @@
               "icon": "lucide-file",
               "title": "Northern Conflicts, c.105af"
             }
+          },
+          {
+            "id": "87a1e84579f482d6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,7 +303,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "701f6ffd4ee867c8",
+  "active": "87a1e84579f482d6",
   "lastOpenFiles": [
     "Summer Communicae, 105AF.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
