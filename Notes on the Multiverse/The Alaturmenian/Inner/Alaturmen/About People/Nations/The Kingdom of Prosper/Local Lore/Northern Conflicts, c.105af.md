@@ -36,7 +36,7 @@ After committing time to repairs and rearmament, the Arthurian forces moved from
 ## Second Battle of Kohnstamm (1)
 #### 105AF/07/24 - 
 
-In an honor-driven attempt to reconnoiter [[Kohnstamm]], Chapter Delectus and a group of volunteer companies split from the larger group and are caught out. The resulting battle was concise, favoring the Church's forces. 
+In an honor-driven attempt to reconnoiter [[Kohnstamm]], Chapter Delectus and a group of volunteer companies split from the larger group and are caught out. The resulting battle was concise, favoring the Church's forces 10-to-1. The survivors retreated under the command of 
 
 ## Battle of Wychway (11)
 
