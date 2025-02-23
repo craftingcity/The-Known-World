@@ -311,7 +311,7 @@ Throwing Blades are *quick*, *finesse*, and *thrown (30/90)*. Once per rest, you
 #### Throwing Axe
 Throwing Axes are small axes designed to be thrown from the hand at a target in a spinning motion, and has notably been used by druids and bandits alike in rural areas.
 
-Throwing Axes deal 2d4 slashing damage.
+Throwing Axes deal 1d6 slashing damage.
 Throwing Axes are *thrown (30/60)*. Once per rest, you may use this weapon's special ability;
 
 #### Boomerang
@@ -329,7 +329,10 @@ Pellet Crossbows are *two-handed*, *ranged (30/90)*, and *ammunition (1)*. Once 
 
 ### Bolts
 #### Heavy Crossbow
+Heavy Crossbows are large stable platforms using strong fiber and heavy pullies to deliver devastating force behind a bolt-head. The Heavy Crossbow is a favorite choice among guards and mercenaries alike.
 
+Heavy Crossbows deal 1d8 piercing damage.
+Heavy Crossbows are *heavy*, *two-handed*, *ranged (90/270)*, and *ammunition (1)*. Once per rest, you may use this weapon's special ability;
 
 #### Repeating Crossbow
 ### Arrows
