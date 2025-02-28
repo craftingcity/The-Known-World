@@ -111,7 +111,7 @@ We haven't looted yet, but this is the total count;
 - 2x Broken Carbine
 - 7x P. Scout Armor
 - 1x P. Combat Armor
-- 7x Dual-pop Carbine (+TTMA, +TLCL)
+- 7x Dual-pop Carbine (+TTMA, +TLCL) 
 - 1x Dual-pop Carbine (+TTMA, +TLPTM)
 - 64x Isiopara
 - 2x Secreclude Propital
@@ -122,15 +122,15 @@ We haven't looted yet, but this is the total count;
 - 1x Medkit (3/10)
 - Lazarus' PDA
 - SARD > ~~Spiral Eye~~ *
-- AARD > ~~Artyom's Skin~~ 
+- AARD > ~~Artyom's Skin~~ 3/4
 - AARD > ~~Glass Dreams~~ *
-- AARD > ~~Duram Battery~~
+- AARD > ~~Duram Battery~~ 1/5
 - AARD > ~~Vorpal Shoreline~~
 - AARD > ~~Fireheart Ruby~~ 4/10
 - Wren's Carbine
 - 2x Fire Grenade
 - 1x Pineapple Grenade
-- 2312sp
+- 2312sp > Roan gets 578sp
 
 
 We leave our heroes on the date of ... AF, as they ...
