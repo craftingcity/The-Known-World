@@ -70,7 +70,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Goggles of Night-Vision    | Goggles | 300' darkvision                                                       | all       |            |
 | Longshot Headgear          | Goggles | Spend 1 charge (of 4, reset at dawn) to gain ADV on next attack roll. |           |            |
 | Bayonet                    |         | Make a dagger attack (1d4+DEX).                                       | all       |            |
-| Bracing Shield             | Shield  | Use a shield and brace your firearm with one hand. (+2AC)             | all       |            |
+| Bracing Shield             | Shield  | Use a shield and brace your longarm with one hand. (+2AC)             | all       |            |
 
 ### Armors
 #### SCAVANGED / REFIT
