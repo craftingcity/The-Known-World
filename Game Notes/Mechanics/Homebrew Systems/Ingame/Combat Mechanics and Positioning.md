@@ -2,7 +2,7 @@
 ## Opportunity Attack
 When a creature **Moves** away from an opponent, unless they have **Disengaged**, they present their opponent with a chance to strike; an *Opportunity Attack*. By spending their Reaction, the second creature can make one Melee Weapon Attack against the first.
 
-A creature triggers an *Opportunity Attack* when they voluntarily **Move** outside their opponent's 'Engagement Range', the area they can **Reach** with whatever they're holding. 
+A creature triggers an *Opportunity Attack* when they voluntarily **Move** outside their opponent's 'Engagement Range', the area they can *reach* with whatever they're holding. 
 
 ## High Ground
 When a creature makes an **Attack** against an opponent that is below them by 5' or more, that **Attack** is made with **Advantage**.
@@ -49,15 +49,16 @@ EXAMPLE 4: Not Valid
 
 # Combat Mechanics
 ## Ammunition
-Most Ranged Weapons consume Ammunition. If that Ammunition is not *Fragile*, it can be recollected in entirety by spending time and making an **Investigation** Skill Check. If the result is 15 or more, all used Ammunition is recovered. If the result is less than 15, three-quarters is recovered at 10 or above, and half is recovered at 5 or above.
+Most Ranged Weapons consume Ammunition. If that Ammunition is not *fragile*, it can be recollected in entirety by spending time and making an **Investigation** Skill Check. If the result is 15 or more, all used Ammunition is recovered. If the result is less than 15, three-quarters is recovered at 10 or above, and half is recovered at 5 or above.
 
 ## Consuming Potions
 Consuming a potion for yourself costs a **Bonus Action**. Forcing someone else to drink a potion is a **Standard Action**.
 
 ## Changing Weapons or Held Items During Combat
-Dropping something in your hands is a Free Action. The item or items 
-Putting something away is an Object Interaction.
-Pulling something out is an Object Interaction.
+Dropping something in your hands is a **Free Action**. The item or items land at your feet.
+Putting something away is an **Object Interaction**. The item is stowed.
+Pulling something out is an **Object Interaction**. The item is wielded.
+You may perform a second **Object Interaction** on your turn by using your **Bonus Action**.
 
 ## Oversized Weapons
 Larger creatures can wield larger weapons more easily. Melee Weapons with the *two-handed* property and without the *very heavy* property become *versatile (d+)*.

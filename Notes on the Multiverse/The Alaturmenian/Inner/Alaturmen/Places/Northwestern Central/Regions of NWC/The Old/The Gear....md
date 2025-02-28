@@ -267,6 +267,9 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Hunter Cloak v.1.70             | PDA Cloaker | Trooper Cloaker                       |           |            |
 | Unidentified Signal Brooch      | PDA Data    | Attempt to Crack or Exchange for Loot |           |            |
 
+To generate the contents of a given "random" PDA, roll 1d8 the following table and follow the prompt;
+| 
+
 ### Medical
 #### PROTECTION
 | Name             | Type | Desc. | Cost in AC |
