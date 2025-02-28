@@ -117,7 +117,7 @@ We haven't looted yet, but this is the total count;
 - 2x Secreclude Propital
 - 6x Nova
 - 3x Daerenamon
-- x26 DRM, FR - 23 - 21 - 17 - 15
+- x26 DRM, FR - 23 - 21 - 17 - 15 > 3x for Roan
 - x4 DRM, WB - 3 - 2 - 0
 - 1x Medkit (3/10)
 - Lazarus' PDA
