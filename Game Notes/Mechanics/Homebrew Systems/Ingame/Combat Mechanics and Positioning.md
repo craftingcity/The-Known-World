@@ -1,4 +1,4 @@
-# Combat Mechanics
+# Positioning
 ## Opportunity Attack
 When a creature **Moves** away from an opponent, unless they have **Disengaged**, they present their opponent with a chance to strike; an *Opportunity Attack*. By spending their Reaction, the second creature can make one Melee Weapon Attack against the first.
 
@@ -18,12 +18,6 @@ When a creature is **Attacked**, they attempt to take *Cover*, and gain a bonus 
 When a creature is *Prone*, they are lying on the floor. Standing from *Prone* costs 15' of **Movement**.
 
 While *Prone*, a creature has **Disadvantage** on **Attack Rolls** if they are not making that **Attack** with a *Firearm*. Additionally, they grant **Disadvantage** to ranged attacks against them, but **Advantage** to **Attacks** within 5'.
-
-## Ammunition
-Most Ranged Weapons consume Ammunition. If that Ammunition is not *Fragile*, it can be recollected in entirety by spending time and making an **Investigation** Skill Check. If the result is 15 or more, all used Ammunition is recovered. If the result is less than 15, three-quarters is recovered at 10 or above, and half is recovered at 5 or above.
-
-## Consuming Potions
-Consuming a potion for yourself costs a **Bonus Action**. Forcing someone else to drink a potion is a **Standard Action**.
 
 ## Flanking
 When two creatures surround an opponent, if they are not adjacent, the allies are *Flanking* their opponent, who is considered *Flanked*.
@@ -53,6 +47,41 @@ EXAMPLE 4: Not Valid
 | x  | P  | x  |
 | B  | B  | B  | 
 
-## Changing Weapons During Combat
+# Combat Mechanics
+## Ammunition
+Most Ranged Weapons consume Ammunition. If that Ammunition is not *Fragile*, it can be recollected in entirety by spending time and making an **Investigation** Skill Check. If the result is 15 or more, all used Ammunition is recovered. If the result is less than 15, three-quarters is recovered at 10 or above, and half is recovered at 5 or above.
+
+## Consuming Potions
+Consuming a potion for yourself costs a **Bonus Action**. Forcing someone else to drink a potion is a **Standard Action**.
+
+## Changing Weapons or Held Items During Combat
+Dropping something in your hands is a Free Action. The item or items 
+Putting something away is an Object Interaction.
+Pulling something out is an Object Interaction.
 
 ## Oversized Weapons
+Larger creatures can wield larger weapons more easily. Melee Weapons with the *two-handed* property and without the *very heavy* property become *versatile (d+)*.
+
+## Equipment Slots
+To gain the benefits of a given item, you must assign it to a valid slot. You may only gain the benefits of a single item in a given slot. Some items may occupy more than one slot, in which case, you must assign it to all slots to gain its benefits.
+
+The item slots are as follows:
+	- Head (4)
+		- *Armor*
+		- Top of Head
+		- Eyewear / Face Cover
+		- Earrings
+		- Necklace
+	- Torso (6)
+		- *Armor*
+		- Vest
+		- Back
+		- Bracers / Wristwear
+		- Gloves
+		- Left Ring
+		- Right Ring
+	- Legs (3)
+		- *Armor*
+		- Belt
+		- Shinguard / Pants
+		- Shoes

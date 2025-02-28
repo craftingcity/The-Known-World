@@ -66,7 +66,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Name                       | Type    | Use                                                                   | Importers | Cost in AC |
 | -------------------------- | ------- | --------------------------------------------------------------------- | --------- | ---------- |
 | TacLight! Pouch of Holding | Belt    | Dimensional Bag for Small or Smaller items                            |           |            |
-| Flexing Combat Vest        | Vest    | +1 AC, occupy Vest slot.                                                                      |           |            |
+| Flexing Combat Vest        | Vest    | +1 AC, occupy Vest slot.                                              |           |            |
 | Goggles of Night-Vision    | Goggles | 300' darkvision                                                       | all       |            |
 | Longshot Headgear          | Goggles | Spend 1 charge (of 4, reset at dawn) to gain ADV on next attack roll. |           |            |
 | Bayonet                    |         | Make a dagger attack (1d4+DEX).                                       | all       |            |
