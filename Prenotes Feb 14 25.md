@@ -125,7 +125,7 @@ We haven't looted yet, but this is the total count;
 - AARD > ~~Artyom's Skin~~ 3/4
 - AARD > ~~Glass Dreams~~ *
 - AARD > ~~Duram Battery~~ 1/5
-- AARD > ~~Vorpal Shoreline~~
+- AARD > ~~Vorpal Shoreline~~ *
 - AARD > ~~Fireheart Ruby~~ 4/10
 - Wren's Carbine
 - 2x Fire Grenade
