@@ -121,12 +121,12 @@ We haven't looted yet, but this is the total count;
 - x4 DRM, WB
 - 1x Medkit (3/10)
 - Lazarus' PDA
-- SARD > ~~Spiral Eye~~
-- AARD > ~~Artyom's Skin~~
-- AARD > ~~Glass Dreams~~
+- SARD > ~~Spiral Eye~~ *
+- AARD > ~~Artyom's Skin~~ 
+- AARD > ~~Glass Dreams~~ *
 - AARD > ~~Duram Battery~~
 - AARD > ~~Vorpal Shoreline~~
-- AARD > ~~Fireheart Ruby~~
+- AARD > ~~Fireheart Ruby~~ 4/10
 - Wren's Carbine
 - 2x Fire Grenade
 - 1x Pineapple Grenade
