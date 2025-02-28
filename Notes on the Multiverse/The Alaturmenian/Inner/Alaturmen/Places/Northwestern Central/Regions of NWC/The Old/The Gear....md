@@ -274,7 +274,7 @@ To generate the contents of a given "random" PDA, roll 1d8 the following table a
 | 1   | This PDA has a multi-factor authenticator. Generate 1d3 valuable entries.                                  | +8  |
 | 2   | This PDA's storage has been corrupted. Generate 1d6 inaccessible entries.                                  | +4  |
 | 3   | This PDA's storage has been damaged, but contains some recoverable data. Generate 1d4 recoverable entries. |     |
-| 4   | This PDA has hg                                                                                            |     |
+| 4   | This PDA's storage is intact. Generate 1d6 accessible entries.                                                                                            |     |
 | 5   |                                                                                                            |     |
 | 6   |                                                                                                            |     |
 | 7   |                                                                                                            |     |
