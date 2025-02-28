@@ -268,7 +268,17 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Unidentified Signal Brooch      | PDA Data    | Attempt to Crack or Exchange for Loot |           |            |
 
 To generate the contents of a given "random" PDA, roll 1d8 the following table and follow the prompt;
-| 
+
+| #   | xxx                                                                                                        | +DC |
+| --- | ---------------------------------------------------------------------------------------------------------- | --- |
+| 1   | This PDA has a multi-factor authenticator. Generate 1d3 valuable entries.                                  | +8  |
+| 2   | This PDA's storage has been corrupted. Generate 1d6 inaccessible entries.                                  | +4  |
+| 3   | This PDA's storage has been damaged, but contains some recoverable data. Generate 1d4 recoverable entries. |     |
+| 4   | This PDA has                                                                                                            |     |
+| 5   |                                                                                                            |     |
+| 6   |                                                                                                            |     |
+| 7   |                                                                                                            |     |
+| 8   |                                                                                                            |     |
 
 ### Medical
 #### PROTECTION
