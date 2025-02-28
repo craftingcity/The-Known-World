@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "alaturmen-hexmap-105",
+      "path": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
+    },
+    {
       "basename": "Prenotes Feb 14 25",
       "path": "Prenotes Feb 14 25.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Yeirruk Fyrren",
       "path": "Game Notes/NPCs/Mild Power/Midboss/Yeirruk Fyrren.md"
-    },
-    {
-      "basename": "Sally Seashell",
-      "path": "Game Notes/NPCs/High Power/Loose Wizard NPCs/Sally Seashell.md"
     }
   ],
   "omittedPaths": [],
