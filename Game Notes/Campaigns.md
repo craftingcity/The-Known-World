@@ -14,7 +14,11 @@ Vibe Notation: This campaign will begin at middle-low level, and nearly all ques
 Politics / Tactics: *2* / *5*
 
 Evocative Title: **"The Baron's Instruments"**
-Description: *'The year is 106AF. Since the Invasion of Celaena, the Combine has changed. She created a power vacuum when she killed Xuiop and scattered his "Righteous Beasts". I'm paying you to make sure we're the ones filling that gap.'*
+Description: *'The year is 106AF. Since the Invasion of Celaena, the Combine has changed. The Demon  created a power vacuum when she killed Xuiop and scattered his "Righteous Beasts" to the fields. I'm paying you to make sure we are the ones who fill that vacuum.'*
 Vibe Notation: This campaign will begin at low level, and initial questing will focus on exploring and providing services to Barons and Baronies throughout the Combine of Democratic Peoples.
-Politics / Tactics: *3* / *2*
+Politics / Tactics: *3* / *3*
 
+Evocative Title: **"The Gameshow from Hell"**
+Description: *'It doesn't matter how you got here, if you came willingly, what you did before. You're a Contestant now. You're playing for your life - and they laugh. They taunt and prod. It's enough to drive anyone mad.'*
+Vibe Notation: This campaign will begin at middle-low level, and will be entirely contained within Kailkeep. This campaign will contain themes of 
+Politics / Tactics: *1* / *4*
