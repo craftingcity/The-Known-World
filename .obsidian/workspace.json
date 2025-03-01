@@ -4,11 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "ecc757a4595a50e3",
+        "id": "d0981f3182f30616",
         "type": "tabs",
         "children": [
           {
-            "id": "9b620c928b152f7b",
+            "id": "508b55653c841c20",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "World Features",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"World Features\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Custom Features"
+            }
+          },
+          {
+            "id": "063ad0bcd53a61a8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,180 +51,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "file": "Game Notes/Campaigns.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Gear..."
-            }
-          },
-          {
-            "id": "f96e92c30783fe9e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Weapons of Alaturmen"
-            }
-          },
-          {
-            "id": "4447e7cca1d19a0d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Combat Mechanics and Positioning"
-            }
-          },
-          {
-            "id": "f5612eb95de291f6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Feb 14 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Feb 14 25"
-            }
-          },
-          {
-            "id": "bab077c2727492aa",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
-              },
-              "icon": "lucide-image",
-              "title": "alaturmen-hexmap-105"
+              "title": "Campaigns"
             }
           }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "2e4418f9a0f38fb1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "36822598eb539b38",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Artifacts..."
-            }
-          },
-          {
-            "id": "8be4aa87f8cadb94",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png"
-              },
-              "icon": "lucide-image",
-              "title": "MinyostalmaFeatures"
-            }
-          },
-          {
-            "id": "de89170715628033",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Things Aren't Right Here..."
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -447,16 +311,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bab077c2727492aa",
+  "active": "508b55653c841c20",
   "lastOpenFiles": [
-    "Prenotes Feb 14 25.md",
+    "Game Notes/Campaigns.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
+    "Prenotes Feb 14 25.md",
+    "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
     "Summer Communicae, 105AF.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
@@ -466,8 +334,6 @@
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Ancient Elvish (language).md",
     "things are.md",
     "APGtAv1.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
     "Game Notes/Prenotes/'25/Prenotes Jan 21 25.md",
     "Prenotes Jan 28 25.md",

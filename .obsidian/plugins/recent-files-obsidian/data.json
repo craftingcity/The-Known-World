@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "alaturmen-hexmap-105",
-      "path": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
+      "basename": "Custom Features",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
     },
     {
-      "basename": "Prenotes Feb 14 25",
-      "path": "Prenotes Feb 14 25.md"
+      "basename": "Campaigns",
+      "path": "Game Notes/Campaigns.md"
+    },
+    {
+      "basename": "World Features",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md"
+    },
+    {
+      "basename": "Things Aren't Right Here...",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md"
     },
     {
       "basename": "MinyostalmaFeatures",
@@ -15,14 +23,6 @@
     {
       "basename": "The Artifacts...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md"
-    },
-    {
-      "basename": "Things Aren't Right Here...",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md"
-    },
-    {
-      "basename": "Homebrew Alchemy System",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md"
     },
     {
       "basename": "The Gear...",
@@ -35,6 +35,18 @@
     {
       "basename": "Combat Mechanics and Positioning",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
+    },
+    {
+      "basename": "Prenotes Feb 14 25",
+      "path": "Prenotes Feb 14 25.md"
+    },
+    {
+      "basename": "alaturmen-hexmap-105",
+      "path": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
+    },
+    {
+      "basename": "Homebrew Alchemy System",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md"
     },
     {
       "basename": "Northern Conflicts, c.105af",
@@ -67,14 +79,6 @@
     {
       "basename": "APGtAv1",
       "path": "APGtAv1.md"
-    },
-    {
-      "basename": "Custom Features",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
-    },
-    {
-      "basename": "World Features",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md"
     },
     {
       "basename": "The Monsters...",
@@ -195,10 +199,6 @@
     {
       "basename": "Prenotes Feb 04 25",
       "path": "Prenotes Feb 04 25.md"
-    },
-    {
-      "basename": "Yeirruk Fyrren",
-      "path": "Game Notes/NPCs/Mild Power/Midboss/Yeirruk Fyrren.md"
     }
   ],
   "omittedPaths": [],
