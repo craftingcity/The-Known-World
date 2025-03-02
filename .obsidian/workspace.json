@@ -4,8 +4,45 @@
     "type": "split",
     "children": [
       {
+        "id": "64c2132a4d1e49b6",
+        "type": "tabs",
+        "dimension": 24.253164556962027,
+        "children": [
+          {
+            "id": "2ee42ea1102e783e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "a_ Chapter One - Introduction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"a_ Chapter One - Introduction\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":234,\"ch\":151},\"to\":{\"line\":234,\"ch\":151}},\"scroll\":171.66112674078153}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Kailkeep"
+            }
+          }
+        ]
+      },
+      {
         "id": "d0981f3182f30616",
         "type": "tabs",
+        "dimension": 75.74683544303798,
         "children": [
           {
             "id": "508b55653c841c20",
@@ -59,8 +96,7 @@
               "title": "Campaigns"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -312,15 +348,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "063ad0bcd53a61a8",
+  "active": "508b55653c841c20",
   "lastOpenFiles": [
+    "Game Notes/Campaigns.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Animan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Aquan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ignan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ventan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Terran.md",
-    "Game Notes/Campaigns.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
@@ -340,8 +378,6 @@
     "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Ancient Elvish (language).md",
     "things are.md",
-    "APGtAv1.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/MAPS/WORLD/underdark.png",
     "Game Notes/Prenotes/'25",

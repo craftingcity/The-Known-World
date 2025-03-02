@@ -30,9 +30,9 @@ From a design perspective, I wish to present a series of problems that ask for a
 
 This is an experience built for players to survive and run from, not beat. Put a little fear back in the hearts and minds of your friends, family, or otherwise. I chose Kobolds as my muse because of the Tale of Tucker's Kobolds. Its funny, but I wished for a more Griffon McElroy's Wonderland than the basic power-dungeon designing kobolds. So, I built Kailkeep.
 
-I wanted the freedom to do what Tucker couldn't, which is bust his Kobolds to fucking bits. These shits work the best metals and have captured / partnered with a ***primordial idol***. They watch deadly rooms behind walls of impenetrable yet transparent and thin rock. They *want* you here. So they can torture you. 
+I wanted the freedom to do what Tucker couldn't, which is bust his Kobolds to fucking bits. These shits work the best metals and have captured / partnered with a ***primordial idol***. They watch deadly rooms behind walls of impenetrable yet transparent rock. They *want* you here. So they can torture you. 
 
-But not your players. Again, this should be a dark, stormy night of fun.
+But not your players. Again, this should be a dark, stormy night of **fun**.
 
 ## Running Kailkeep
 For the purposes of running this module "from the book"; No matter where the players ascend from, they enter somewhere on the next level presented here – some intervention by the fates, perhaps. 
@@ -46,7 +46,7 @@ Groups of Kobold who commit a grievous crime are sentenced to Kailkeep's Hells. 
 
 The many kobold "civilians" who work and keep Kailkeep, both it's Hells and Proper, enjoy spending time with their clutchmates and watching the higher levels of the Hells on their free time. Some lucky kobold make good bets on particular newcomers and gain spectacular winnings. Generally, they spend this newfound wealth investing in prospects, betting again, then losing, but some keep winning and the economy of Kailkeep flows.
 
-## The Kobold's Goals
+### The Kobold's Goals
 1. First and foremost, the Kobolds of Kailkeep want to protect themselves. Their survival is the most important thing to them both as a collective and individually; a Kobold values their clutchmate's security over their own life if they fucked up and got caught out. Thankfully, the Hells of Kailkeep provide a very thorough defense. 
 2. Secondarily, the Kobolds want to gain more power than they have now. Again, this is true of the individual and the collective, some Kobolds run the Hells for a chance for a change of fate, and all Kobolds want Kobolds to rule Alaturmen, just like everyone else does, right?
 3. Tertiarily, the Kobolds want to appease their partner, Terra, and their followers. The easiest way to do that is to entertain them while they are well-fed and warm-bedded.
@@ -222,7 +222,7 @@ Some doors in Kailkeep are "Ko-Bolted", meaning they cannot (as enforced by an O
 > No-one with an Access Binding is allowed to Entertain in the Hells, for the hopefully obvious reason of the massive advantage and security threat they present. They do maintenance work whenever an area is clear of Entertainers, and some Operators go so far as to temporarily enclose areas in stone to work in peace.
 
 ##### Illumination
-The Kobolds who view the Hells as entertainment typically have no need for light, except in the larger rooms of the Hells, in which case the bio-luminescent mushroom Glowbulb has been cultivated. In most cases, the light the entertainers provide for themselves is sufficient.
+The Kobolds who view the Hells as entertainment typically have no need for light. In most cases, the light the entertainers provide for themselves is sufficient.
 
 ##### Formatted Markings
 Markings that are not magically hidden from Terra and the Operators are formatted in Terra's script with the date as mm-dd-yyy and a two centimeter wide, one centimeter deep border. Whenever any member of the [[Grand Pantheon]] or the concept of a higher power is mentioned, Terra's name is made its replacement upon formatting.
@@ -232,4 +232,4 @@ Around Kailkeep there are "scoreboard" rooms. These places are often small, and 
 
 The main feature of this room, however, is the indented wall and extended 2' slab below it. The slab is enchanted to display an image of the viewer's hand in its center. The indent, too is enchanted, and when one's hand is pressed to the slab below, a bank of information is accessed and returned to the illusion, publicly displaying the betting odds (vs the current Main Contenders) and "entertainment rating" of the owner of the hand, given they are still alive, and compared to their most direct competitors.
 
-Generally, a player's character's rating should rise as they ascend the levels of Kailkeep, and - setting depending - should begin around three thousand, hinting at the current population of competitors upon their first interaction with the scoreboard.
+Generally, a player's character's rating should rise as they ascend the levels of Kailkeep, and - setting depending - should begin around three hundred, hinting at the current population of competitors upon their first interaction with the scoreboard.
