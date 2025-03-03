@@ -25,7 +25,7 @@ Six damaged busts are displayed between the columns, each displaying the now-bro
 #### Grand Chamber
 The Grand Chamber is a large rectangular room egressed by double doors of the [[#Entrance Hall]], and four other single doors.
 
-The Grand Chamber is centered on a large communal table, surrounded by a dozen stone chairs. Opposing the set of double doors, a large stone throne sits at the head of the table]\
+The Grand Chamber is centered on a large communal table, surrounded by a dozen stone chairs. Opposing the set of double doors, a large stone throne sits at the head of the table.
 
 #### Kitchen
 #### Workshops
