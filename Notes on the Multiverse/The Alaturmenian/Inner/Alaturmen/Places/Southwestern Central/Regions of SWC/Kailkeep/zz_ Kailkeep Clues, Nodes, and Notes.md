@@ -8,7 +8,7 @@ A number of notes, clues, warnings, and "red herrings" have been left by the unl
 Given Kailkeep's nature as a living, breathing place, the following notes should only act as a base from which to build and create your own narrative through *~environmental storytelling~*.
 
 ## L1-3; The Allure
-While there are no notes from passing adventurers here (whether from Terra's influence or an ignorance of need), but rather art and tapestries describe the tale of the first settlers of this place.
+While there are no notes from passing adventurers here (whether from Terra's influence or an ignorance of need), but rather art and tapestries describe the false tale of the first settlers of this place.
 
 ```timeline-labelled
 date: Unknown
@@ -32,8 +32,8 @@ title: Wailing Complaints & Misunderstandings
 content:
 	- There is no escape. I am running out of food. (Desertspeech)
 	- The company has fallen. There is worse here than a Kobold. (Montal)
-	- Damn you Cobalt. You will pay in you next lives. (Desertspeech)
-	- I want to see my kids again. Will they recognize me still? Or will I still have blood on my hands? (Any)
+	- Damn you Cobalt. You will pay in your next lives. (Desertspeech)
+	- I want to see my kids again. Will they recognize me still? Or will I have too much blood on my hands? (Any)
 
 date: Unknown
 title: True Warnings
@@ -43,7 +43,7 @@ content:
 	- Beware the green smoke. (Arthurian & Desertspeech)
 	- Beware! Dogs ahead! (Desertspeech)
 	- You cannot outrun the boulder. Beware tube halls. (Montal)
-	- There is a reward for playing games. (Any)
+	- There is always reward for playing games. (Any)
 	- Take comfort in knowing your Code. It is here as it is at home. (Desertspeech)
 
 date: Unknown

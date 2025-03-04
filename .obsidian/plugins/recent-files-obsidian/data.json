@@ -5,8 +5,52 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md"
     },
     {
+      "basename": "i_ Chapter Eleven - Maintaining Kailkeep",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/i_ Chapter Eleven - Maintaining Kailkeep.md"
+    },
+    {
+      "basename": "zz_ Kailkeep Clues, Nodes, and Notes",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md"
+    },
+    {
       "basename": "Kailkeep",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md"
+    },
+    {
+      "basename": "j_ Chapter Twelve - Faction Deep Dive",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/j_ Chapter Twelve - Faction Deep Dive.md"
+    },
+    {
+      "basename": "h_ Chapter Ten - Level Nine; A Final Test",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/h_ Chapter Ten - Level Nine; A Final Test.md"
+    },
+    {
+      "basename": "g_ Chapter Nine - Level Eight; The Floor Is Ooze!",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/g_ Chapter Nine - Level Eight; The Floor Is Ooze!.md"
+    },
+    {
+      "basename": "f_ Chapter Eight - Level Seven; Kadabbi",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md"
+    },
+    {
+      "basename": "e_ Chapter Seven - Level Six; Here Comes an Old Soldier",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md"
+    },
+    {
+      "basename": "d_ Chapter Six - Level Five; Pick-up Sticks",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md"
+    },
+    {
+      "basename": "d_ Chapter Five - Level Four; Four Corners",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md"
+    },
+    {
+      "basename": "c_ Chapter Four - Level Three; Sinker",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/c_ Chapter Four - Level Three; Sinker.md"
+    },
+    {
+      "basename": "b_ Chapter Three - Level Two; Line",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/b_ Chapter Three - Level Two; Line.md"
     },
     {
       "basename": "Custom Features",
@@ -15,6 +59,10 @@
     {
       "basename": "Campaigns",
       "path": "Game Notes/Campaigns.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "a_ Chapter One - Introduction",
@@ -151,54 +199,6 @@
     {
       "basename": "ParaeducatorGame",
       "path": "Game Notes/Campaign Rosters/ParaeducatorGame.md"
-    },
-    {
-      "basename": "Skillbooks",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Skillbooks.md"
-    },
-    {
-      "basename": "Mechanics of Plane-walking",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Mechanics of Plane-walking.md"
-    },
-    {
-      "basename": "Alchemy Processes & Products",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md"
-    },
-    {
-      "basename": "Alaturmenian Travel Table",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md"
-    },
-    {
-      "basename": "Bandit Lords",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md"
-    },
-    {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
-    },
-    {
-      "basename": "AlchemicalComponentMotifs",
-      "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
-    },
-    {
-      "basename": "Guilded Mystic Entries",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md"
-    },
-    {
-      "basename": "Magic Item Authors",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md"
-    },
-    {
-      "basename": "Custom Weapon Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md"
-    },
-    {
-      "basename": "Armors of Alaturmen",
-      "path": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md"
-    },
-    {
-      "basename": "Prenotes feb 8 2025",
-      "path": "Prenotes feb 8 2025.md"
     }
   ],
   "omittedPaths": [],
