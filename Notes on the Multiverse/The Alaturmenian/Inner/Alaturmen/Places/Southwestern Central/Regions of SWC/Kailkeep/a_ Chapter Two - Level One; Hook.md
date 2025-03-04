@@ -35,7 +35,10 @@ The Kitchen is comparably smaller than the [[#Grand Chamber]], although a famili
 The contents of the kitchen are meager, composed of an oven, an open cauldron, and a thick cabinet filled with cookware and utensils.
 
 #### Workshops
-
+##### Crude Metalworks
+##### Fine Metalworks
+##### Textiles Mill
+##### Leatherworks
 
 #### Servant Quarters
 #### Servant Halls
