@@ -30,9 +30,13 @@ The Grand Chamber is centered on a large communal table, surrounded by a dozen s
 The Grand Chamber has an open-ceiling. Above the entrance to the Chamber, a seating balcony on *Level Two* looks over the Grand Chamber.
 
 #### Kitchen, Bottom
-The Kitchen is comparably smaller than the [[#Grand Chamber]], although a familiar rectangular shape. A door leads to a hall connecting the Kitchen and the [[#Grand Chamber]].
+The Kitchen is comparably smaller than the [[#Grand Chamber]], although a familiar rectangular shape. A door leads to a hall connecting the Kitchen and the [[#Grand Chamber]]. On the other side of the Kitchen, a set of stairs lead up to the Kitchen on *Level Two*.
+
+The contents of the kitchen are meager, composed of an oven, an open cauldron, and a thick cabinet filled with cookware and utensils.
 
 #### Workshops
+
+
 #### Servant Quarters
 #### Servant Halls
 #### Uncut Tunnels
