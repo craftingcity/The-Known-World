@@ -37,6 +37,27 @@
             }
           },
           {
+            "id": "a4ab064dcfae1730",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
             "id": "063ad0bcd53a61a8",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -59,7 +80,8 @@
               "title": "Campaigns"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -311,7 +333,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "508b55653c841c20",
+  "active": "a4ab064dcfae1730",
   "lastOpenFiles": [
     "Game Notes/Campaigns.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
