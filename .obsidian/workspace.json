@@ -58,6 +58,29 @@
             }
           },
           {
+            "id": "6ee5d88f5eb721a6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "063ad0bcd53a61a8",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -81,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -333,8 +356,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4ab064dcfae1730",
+  "active": "6ee5d88f5eb721a6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Game Notes/Campaigns.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md",
@@ -362,7 +386,6 @@
     "Prenotes Feb 11 25.md",
     "README.md",
     "Prenotes Feb 04 25.md",
-    "Game Notes/Prenotes/'24/Prenotes Jan 25 24.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/MAPS/WORLD/underdark.png",
     "Game Notes/Prenotes/'25",
