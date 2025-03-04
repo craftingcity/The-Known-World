@@ -27,10 +27,10 @@ The Grand Chamber is a large rectangular room egressed by double doors of the [[
 
 The Grand Chamber is centered on a large communal table, surrounded by a dozen stone chairs. Opposing the set of double doors, a large stone throne sits at the head of the table. The table is not set.
 
-The Grand Chamber has an open-ceiling. Above the entrance to the Chamber, a seating balcony looks over the Grand Chamber.
+The Grand Chamber has an open-ceiling. Above the entrance to the Chamber, a seating balcony on *Level Two* looks over the Grand Chamber.
 
 #### Kitchen, Bottom
-The Kitchen is comparably smaller than the [[#Grand Chamber]], although a familiar rectangular shape. A door leads to a hall connecting the Kitchen to the [[#Grand Chamber]]
+The Kitchen is comparably smaller than the [[#Grand Chamber]], although a familiar rectangular shape. A door leads to a hall connecting the Kitchen and the [[#Grand Chamber]].
 
 #### Workshops
 #### Servant Quarters
