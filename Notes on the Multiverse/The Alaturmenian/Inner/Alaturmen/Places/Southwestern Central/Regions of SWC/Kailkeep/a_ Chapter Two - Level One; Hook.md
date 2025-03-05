@@ -16,11 +16,11 @@ A population of Unusual Rodents has escaped containment and survived the meager 
 For a few miles, at the bottom of this great hell, a series of chambers continually produce a varied combination of the following types of rooms.
 
 ### Navigation
-Level One is accessed through an [[#Entrance Hall]], which leads into a [[#Grand Chamber]]. While exploring the interior of Level One, an [[#Entrance Hall]] connects one [[#Grand Chamber]] to another.
+*Level One* is accessed through an [[#Entrance Hall]], which leads into a [[#Grand Chamber]]. While exploring the interior of *Level One*, an [[#Entrance Hall]] connects one [[#Grand Chamber]] to another.
 
-A [[#Grand Chamber]] leads into four of the other rooms, which connect via the [[#Servant Halls]]. The [[#Servant Halls]] themselves connect to additional adjacent rooms, which in turn, connects the entirety of Level One.
+A [[#Grand Chamber]] leads into four of the other rooms, which connect via the [[#Servant Halls]]. The [[#Servant Halls]] themselves connect to additional adjacent rooms, which in turn, connects the entirety of *Level One*.
 
-Level One can be exited by ascending the [[#Main Stairs]], the stairs in the [[#Kitchen]], or by climbing onto the balcony overlooking the [[#Grand Chamber]].
+*Level One* can be exited by ascending the [[#Main Stairs]], the stairs in the [[#Kitchen]], or by climbing onto the balcony overlooking the [[#Grand Chamber]].
 
 ### Detail
 #### Entrance Hall
@@ -28,7 +28,7 @@ An Entrance Hall is a long hall of ornate, carved-stone walls and columns that i
 
 Six damaged busts are displayed between the columns, each displaying the now-broken face of a supposed dwarven royal. Below each bust, a plaque has been scratched and defaced into illegibility.
 
-Passing the middle point of an Entrance Hall invokes an *alert* style spell that 
+Passing the middle line of an Entrance Hall invokes a hidden rune, alerting the residents of the connecting section of *Level One* to the presence of 'intruders'.
 
 #### Grand Chamber
 The Grand Chamber is a large rectangular room egressed by double doors of the [[#Entrance Hall]], and four other single doors at the edges of the room. Each of these single doors lead to one of the other rooms that compose this level.
@@ -38,6 +38,7 @@ The Grand Chamber is centered on a large communal table, surrounded by a dozen s
 The Grand Chamber has an open-ceiling. Above the entrance to the Chamber, a seating balcony on *Level Two* looks over the Grand Chamber.
 
 #### Main Stairs
+The Main Stairs 
 
 #### Kitchen
 The Kitchen is comparably smaller than the [[#Grand Chamber]], although a familiar rectangular shape. A door leads to a hall connecting the Kitchen and the [[#Grand Chamber]]. On the other side of the Kitchen, a set of stairs lead up to the Kitchen on *Level Two*.
@@ -48,9 +49,9 @@ The contents of the kitchen are meager, composed of an oven, an open cauldron, a
 A hallway connects from the [[#Grand Chamber]] to an opposing pair of single doors. Behind each is one of the four following Workshop layouts.
 
 ##### Crude Metalworks
-The Crude Metalworks is a large workshop. Four crucibles are manually fed raw metals collected from the secure drop-shoot on the wall opposing the door. In the center of the room, surrounded by the crucibles, a table carries dozens of casts and shaping tools.
+The Crude Metalworks is a large workshop. Four crucibles are manually fed raw metals collected from the secure drop-shoot on the wall opposing the door. In the center of the room, surrounded by the crucibles, a table carries dozens of simple casts and shaping tools.
 
-
+A stone cart is somewhere within this room, having been used by Loyalist Workers to transport materials around the room. 
 
 ##### Fine Metalworks
 ##### Textiles Mill
