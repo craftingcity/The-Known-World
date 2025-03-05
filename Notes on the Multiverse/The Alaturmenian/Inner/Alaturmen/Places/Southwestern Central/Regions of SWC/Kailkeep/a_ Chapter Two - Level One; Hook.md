@@ -24,9 +24,11 @@ Level One can be exited by ascending the [[#Main Stairs]], the stairs in the [[#
 
 ### Detail
 #### Entrance Hall
-The Entrance Hall is a long hall of ornate, carved-stone walls and columns that is egressed by two sets of double doors made of this same thick red stone. Passing between either set of 
+An Entrance Hall is a long hall of ornate, carved-stone walls and columns that is egressed by two sets of double doors made of this same thick red stone. 
 
 Six damaged busts are displayed between the columns, each displaying the now-broken face of a supposed dwarven royal. Below each bust, a plaque has been scratched and defaced into illegibility.
+
+Passing the middle point of an Entrance Hall invokes an *alert* style spell that 
 
 #### Grand Chamber
 The Grand Chamber is a large rectangular room egressed by double doors of the [[#Entrance Hall]], and four other single doors at the edges of the room. Each of these single doors lead to one of the other rooms that compose this level.
