@@ -16,13 +16,15 @@ A population of Unusual Rodents has escaped containment and survived the meager 
 For a few miles, at the bottom of this great hell, a series of chambers continually produce a varied combination of the following types of rooms.
 
 ### Navigation
-Level One is accessed through an [[#Entrance Hall]], which leads into a [[#Grand Chamber]].
+Level One is accessed through an [[#Entrance Hall]], which leads into a [[#Grand Chamber]]. While exploring the interior of Level One, an [[#Entrance Hall]] connects one [[#Grand Chamber]] to another.
 
-A [[#Grand Chamber]] leads into four of the other rooms, which connect via the [[#Servant Halls]]. The [[#Servant Halls]] themselves connect to 
+A [[#Grand Chamber]] leads into four of the other rooms, which connect via the [[#Servant Halls]]. The [[#Servant Halls]] themselves connect to additional adjacent rooms, which in turn, connects the entirety of Level One.
+
+Level One can be exited by ascending the [[#Main Stairs]], the stairs in the [[#Kitchen]], or by climbing onto the balcony overlooking the [[#Grand Chamber]].
 
 ### Detail
 #### Entrance Hall
-The Entrance Hall is a long hall of ornate, carved-stone walls and columns that is egressed by two sets of double doors made of this same thick red stone. 
+The Entrance Hall is a long hall of ornate, carved-stone walls and columns that is egressed by two sets of double doors made of this same thick red stone. Passing between either set of 
 
 Six damaged busts are displayed between the columns, each displaying the now-broken face of a supposed dwarven royal. Below each bust, a plaque has been scratched and defaced into illegibility.
 
@@ -33,7 +35,9 @@ The Grand Chamber is centered on a large communal table, surrounded by a dozen s
 
 The Grand Chamber has an open-ceiling. Above the entrance to the Chamber, a seating balcony on *Level Two* looks over the Grand Chamber.
 
-#### Kitchen, Bottom
+#### Main Stairs
+
+#### Kitchen
 The Kitchen is comparably smaller than the [[#Grand Chamber]], although a familiar rectangular shape. A door leads to a hall connecting the Kitchen and the [[#Grand Chamber]]. On the other side of the Kitchen, a set of stairs lead up to the Kitchen on *Level Two*.
 
 The contents of the kitchen are meager, composed of an oven, an open cauldron, and a thick cabinet filled with cookware and utensils.
