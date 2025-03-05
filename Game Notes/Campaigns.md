@@ -20,5 +20,5 @@ Politics / Tactics (*Political Conflict*): *3* / *3*
 
 Evocative Title: **"The Gameshow from Hell"**
 Description: *'It doesn't matter how you got here, if you came willingly, what you did before. You're an Entertainer now. You're playing for your life - and they laugh. They taunt and prod. It's enough to drive anyone mad.'*
-Vibe Notation: This campaign will begin at middle-low level, and will be entirely contained within Kailkeep, where you are forced to perform feats of combat, intelligence, and betrayal.
+Vibe Notation: This campaign will begin at middle-low level, and will be entirely contained within Kailkeep, where you are forced to perform feats of combat, intelligence, and betrayal. 
 Politics / Tactics(*Survival Horror*): *2* / *4*

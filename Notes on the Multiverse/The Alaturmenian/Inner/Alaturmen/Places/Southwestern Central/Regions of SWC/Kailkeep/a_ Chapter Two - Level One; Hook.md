@@ -51,9 +51,11 @@ A hallway connects from the [[#Grand Chamber]] to an opposing pair of single doo
 ##### Crude Metalworks
 The Crude Metalworks is a large workshop. Four crucibles are manually fed raw metals collected from the secure drop-shoot on the wall opposing the door. In the center of the room, surrounded by the crucibles, a table carries dozens of simple casts and shaping tools.
 
-A stone cart is somewhere within this room, having been used by Loyalist Workers to transport materials around the room. 
+A stone cart is somewhere within this room, having been used by Loyalist Workers to transport materials from the shoot to the crucibles. 
 
 ##### Fine Metalworks
+
+
 ##### Textiles Mill
 ##### Leatherworks
 
