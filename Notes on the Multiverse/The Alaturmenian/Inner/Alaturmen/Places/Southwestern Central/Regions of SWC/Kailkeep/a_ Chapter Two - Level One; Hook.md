@@ -38,7 +38,7 @@ The Grand Chamber is centered on a large communal table, surrounded by a dozen s
 The Grand Chamber has an open-ceiling. Above the entrance to the Chamber, a seating balcony on *Level Two* looks over the Grand Chamber.
 
 #### Main Stairs
-The Main Stairs 
+The Main Stairs are an ornate set of curved stairs two-folk wide. At the top landing, a single door - identical to it's twin at the bottom landing - leads into one of the rooms on *Level Two*.
 
 #### Kitchen
 The Kitchen is comparably smaller than the [[#Grand Chamber]], although a familiar rectangular shape. A door leads to a hall connecting the Kitchen and the [[#Grand Chamber]]. On the other side of the Kitchen, a set of stairs lead up to the Kitchen on *Level Two*.
