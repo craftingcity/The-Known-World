@@ -35,7 +35,10 @@ The Kitchen is comparably smaller than the [[#Grand Chamber]], although a famili
 The contents of the kitchen are meager, composed of an oven, an open cauldron, and a thick cabinet filled with cookware and utensils.
 
 #### Workshops
+A hallway connects from the [[#Grand Chamber]] to an opposing pair of single doors. Behind each is one of the four following Workshop layouts.
+
 ##### Crude Metalworks
+The Crude Metalworks is a large workshop. Four crucibles are manually fed raw metals collected from the secure drop-shoot on the wall opposing the door.
 ##### Fine Metalworks
 ##### Textiles Mill
 ##### Leatherworks

@@ -7,7 +7,7 @@ Running the game may seem a difficult task on its own to some of our newest recr
 ### False Allure
 #### Level One
 - Kobolds of Kailkeep pay these retirees in food and supplies to produce weapons and ammo.
-- Partmaking B forges the metals given to them by the Kobolds into the lengths and shapes required for Partmaking A to create the 'finished parts' and for Fine Production to create their 'fine parts'.
+- Crude Metalworks forges the metals given to them by the Kobolds into the lengths and shapes required for Fine Metalworks to create their finished products.
 - Primary takes these Partmaking A's products and creates finished weaponry, which go to Examination, and then Export.
 - Fine takes the material from Production B and creates jewelry, sending them to Examination and then Export.
 
