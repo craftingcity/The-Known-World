@@ -1,28 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Campaigns",
-      "path": "Game Notes/Campaigns.md"
-    },
-    {
-      "basename": "a_ Chapter Two - Level One; Hook",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md"
-    },
-    {
-      "basename": "i_ Chapter Eleven - Maintaining Kailkeep",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/i_ Chapter Eleven - Maintaining Kailkeep.md"
-    },
-    {
-      "basename": "zz_ Kailkeep Clues, Nodes, and Notes",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md"
+      "basename": "a_ Chapter One - Introduction",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md"
     },
     {
       "basename": "Kailkeep",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md"
-    },
-    {
-      "basename": "j_ Chapter Twelve - Faction Deep Dive",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/j_ Chapter Twelve - Faction Deep Dive.md"
     },
     {
       "basename": "h_ Chapter Ten - Level Nine; A Final Test",
@@ -41,6 +25,14 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md"
     },
     {
+      "basename": "j_ Chapter Twelve - Faction Deep Dive",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/j_ Chapter Twelve - Faction Deep Dive.md"
+    },
+    {
+      "basename": "zz_ Kailkeep Clues, Nodes, and Notes",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md"
+    },
+    {
       "basename": "d_ Chapter Six - Level Five; Pick-up Sticks",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md"
     },
@@ -57,16 +49,24 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/b_ Chapter Three - Level Two; Line.md"
     },
     {
+      "basename": "Campaigns",
+      "path": "Game Notes/Campaigns.md"
+    },
+    {
+      "basename": "a_ Chapter Two - Level One; Hook",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md"
+    },
+    {
+      "basename": "i_ Chapter Eleven - Maintaining Kailkeep",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/i_ Chapter Eleven - Maintaining Kailkeep.md"
+    },
+    {
       "basename": "Custom Features",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
     },
     {
       "basename": "conflict-files-obsidian-git",
       "path": "conflict-files-obsidian-git.md"
-    },
-    {
-      "basename": "a_ Chapter One - Introduction",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md"
     },
     {
       "basename": "Coalition City",

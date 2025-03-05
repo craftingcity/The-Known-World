@@ -8,6 +8,7 @@
 ## Ancients of Mountain Hall
 ## Golden Claw Guard
 ## Honorable Thieves
+
 # Gear
 ## Arms
 | Name | Type | Desc. | Cost in sp |

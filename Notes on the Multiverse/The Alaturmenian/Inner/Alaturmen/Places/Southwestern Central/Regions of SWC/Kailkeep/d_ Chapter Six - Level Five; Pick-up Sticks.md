@@ -53,8 +53,8 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 #### Yellowback's Lair
 #### Bernet's Lair
 #### 'Mercy'
-##### Pop: 378
-- This series of chambers is the one Holding within Kailkeep's Hells. There is a population of some 400 survivors who have permanently made their home here.
+##### Pop: 108
+- This series of chambers is the one Holding within Kailkeep's Hells. There is a population of some hundred survivors who have permanently made their home here.
 - A majority of these people are farmers and crafters. Between residents, barter is generally the preferred method of commerce, trading necessities between each other. They generally trade their surplus to for the things that only trips out of town can provide, relying on the few local & trusted Roamers or Merchants.
 	- The following resources are "available to the public";
 		- ###### FOOD

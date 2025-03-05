@@ -32,7 +32,7 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 #### Home Team Red Rover
 - See [[#Red Rover (Entrance Game)]]
 #### Spear Hall
-- A hallway flanked by viewports & spearholes. Either set to manual operation for the joy of the Kobolds or automatic for the operation of unremarkable rooms.
+- A hallway flanked by viewports & spear-holes. Either set to manual operation for the joy of the Kobolds or automatic for the operation of unremarkable rooms.
 - On occasion, one end of the hall does not continue into the Hells further, forcing an adventurer who once passed the spears to do so again.
 - Spears extend once per round. A character who fails on a DC 15 Dex Save takes 2d8 + 1 piecing damage.
 #### Sprinting Boulder
