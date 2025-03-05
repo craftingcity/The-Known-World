@@ -6,7 +6,7 @@ Running the game may seem a difficult task on its own to some of our newest recr
 ## Examining the Existing Levels of the Hells
 ### False Allure
 #### Level One
-- Kobolds of Kailkeep pay these retirees in food and supplies to produce weapons and armor.
+- Kobolds of Kailkeep pay the retirees on *Level One* in food and supplies to produce weapons and armor.
 - Crude Metalworks forges the metals given to them by the Kobolds into the lengths and shapes required for Fine Metalworks to create their finished products.
 
 ### Lower Hells
