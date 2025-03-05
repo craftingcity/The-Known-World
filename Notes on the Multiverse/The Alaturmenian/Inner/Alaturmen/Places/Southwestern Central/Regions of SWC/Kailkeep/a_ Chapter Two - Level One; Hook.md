@@ -16,6 +16,10 @@ A population of Unusual Rodents has escaped containment and survived the meager 
 For a few miles, at the bottom of this great hell, a series of chambers continually produce a varied combination of the following types of rooms.
 
 ### Navigation
+Level One is accessed through an [[#Entrance Hall]], which leads into a [[#Grand Chamber]].
+
+A [[#Grand Chamber]] leads into four of the other rooms, which connect via the [[#Servant Halls]]. The [[#Servant Halls]] themselves connect to 
+
 ### Detail
 #### Entrance Hall
 The Entrance Hall is a long hall of ornate, carved-stone walls and columns that is egressed by two sets of double doors made of this same thick red stone. 
@@ -38,7 +42,10 @@ The contents of the kitchen are meager, composed of an oven, an open cauldron, a
 A hallway connects from the [[#Grand Chamber]] to an opposing pair of single doors. Behind each is one of the four following Workshop layouts.
 
 ##### Crude Metalworks
-The Crude Metalworks is a large workshop. Four crucibles are manually fed raw metals collected from the secure drop-shoot on the wall opposing the door.
+The Crude Metalworks is a large workshop. Four crucibles are manually fed raw metals collected from the secure drop-shoot on the wall opposing the door. In the center of the room, surrounded by the crucibles, a table carries dozens of casts and shaping tools.
+
+
+
 ##### Fine Metalworks
 ##### Textiles Mill
 ##### Leatherworks
