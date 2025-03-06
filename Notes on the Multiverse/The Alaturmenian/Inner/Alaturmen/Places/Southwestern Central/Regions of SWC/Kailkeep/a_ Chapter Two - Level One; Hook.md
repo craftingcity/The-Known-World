@@ -43,18 +43,20 @@ The Main Stairs are an ornate set of curved stairs two-folk wide. At the top lan
 #### Kitchen
 The Kitchen is comparably smaller than the [[#Grand Chamber]], although a familiar rectangular shape. A door leads to a hall connecting the Kitchen and the [[#Grand Chamber]]. On the other side of the Kitchen, a set of stairs lead up to the Kitchen on *Level Two*.
 
-The contents of the kitchen are meager, composed of an oven, an open cauldron, and a thick cabinet filled with cookware and utensils.
+The contents of the kitchen are meager, composed of an oven, an open cauldron, and a thick cabinet filled with cookware and utensils. Food is sometimes stored here in stone vessels, including small amounts of flour, oils, or spice, alongside a significantly larger portion of meat.
 
 #### Workshops
 A hallway connects from the [[#Grand Chamber]] to an opposing pair of single doors. Behind each is one of the four following Workshop layouts.
 
 ##### Crude Metalworks
-The Crude Metalworks is a large workshop. Four crucibles are manually fed raw metals collected from the secure drop-shoot on the wall opposing the door. In the center of the room, surrounded by the crucibles, a table carries dozens of simple casts and shaping tools.
+The Crude Metalworks is a large workshop. Four crucibles are manually fed raw metals collected from the secure drop-shoot on the wall opposing the door. In the center of the room, surrounded by the crucibles, a table carries dozens of simple casts, shaping tools, and metal products.
 
 A stone cart is somewhere within this room, having been used by Loyalist Workers to transport materials from the shoot to the crucibles. 
 
 ##### Fine Metalworks
+The Fine Metalworks is a small workshop. A large stone forge occupies half of the room opposed to the entrance, paired alongside a large anvil and a grinding wheel.
 
+On one of the other walls, a distance from the forge, a dark black metallic altar adorned with a blue runner and a pair of chalices is used to inspect and export the finished products. As an acceptable item is placed on the altar and the command word is spoken, the chalices begin to bubble over in dark blue smog that moves to cover the item. When the smog disipates, the item is gone, having been teleported into the armor
 
 ##### Textiles Mill
 ##### Leatherworks
