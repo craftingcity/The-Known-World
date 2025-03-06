@@ -181,8 +181,6 @@ The Idol of Earth, Terra (or another powerful-earth-manipulating entity who woul
 #### False Allure
 In its lowest floors, the first three, Kailkeep is a carefully crafted dungeon of "false allure" – sandstone cobble halls weaving a tale of mystery and woe, promises of dark treasures left behind in a great abandonment. The antagonist in this story is a Kobold Wizard who binds an elemental to do his bidding and destroy the people who were here before. As the story carved into the reliefs, columns, and in the arts remaining unfolds, promises of hidden riches and weaponry higher up inside the mountain are made, before suddenly...
 
-#### P
-
 ## The Hells of Kailkeep
 ### The World's Biggest Entertainment Center
 Kailkeep has been crafted from the **red sandstone** of the mountain by Kobolds for hundreds of years. It is so large and complex a structure that not all of it could be displayed here. 
@@ -207,7 +205,7 @@ Those who enter Kailkeep would be thinking *wish*fully to believe that they can 
 The ceilings of Kailkeep's Hells are crafted to fit at most Large creatures' height, the distance from ceiling to floor is typically eighteen feet.
 
 ##### Veiwings and Tunnels
-In some places of Kailkeep, there are windows of an incredibly thin, strong, and translucent stone. Behind them, Kobolds gather to view and bet on their favorite teams inside Kailkeep's Hells.
+In some places of Kailkeep, there are windows of an incredibly thin, strong, and translucent stone. Behind them, Kobolds gather to view and bet on their favorite teams inside Kailkeep's Hells. 
 
 Between the areas of viewing, there are tunnels sized for two small creatures to walk side by side, about five by four and a half feet and spiraling staircases of similar sizing between levels.
 
@@ -234,3 +232,6 @@ Around Kailkeep there are "scoreboard" rooms. These places are often small, and 
 The main feature of this room, however, is the indented wall and extended 2' slab below it. The slab is enchanted to display an image of the viewer's hand in its center. The indent, too is enchanted, and when one's hand is pressed to the slab below, a bank of information is accessed and returned to the illusion, publicly displaying the betting odds (vs the current Main Contenders) and "entertainment rating" of the owner of the hand, given they are still alive, and compared to their most direct competitors.
 
 Generally, a player's character's rating should rise as they ascend the levels of Kailkeep, and - setting depending - should begin around three hundred, hinting at the current population of competitors upon their first interaction with the scoreboard.
+
+##### Restricted Teleportation
+As benefit to the Kobold's control of their Entertainers, Terra has restricted the effectiveness of teleportation magic - including major effects such as *plane shift* - to function only within the area from which the teleportation occurs. No barriers between rooms or tunnels can be passed through by means of teleportation.
