@@ -59,7 +59,7 @@ The Fine Metalworks is a small workshop. A large stone forge occupies half of th
 On one of the other walls, a distance from the forge, a dark black metallic altar adorned with a blue runner and a pair of chalices is used to inspect and export the finished products. As an acceptable item is placed on the altar and the command word is spoken, the chalices begin to bubble over in dark blue smog that moves to cover the item. When the smog dissipates, the item is gone, having been teleported into the armories of the Operators.
 
 ##### Textiles Mill
-The Textiles Mill is a large workshop equipped with 
+The Textiles Mill is a large workshop equipped with two each of 
 
 ##### Leatherworks
 
