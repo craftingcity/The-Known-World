@@ -56,9 +56,11 @@ A stone cart is somewhere within this room, having been used by Loyalist Workers
 ##### Fine Metalworks
 The Fine Metalworks is a small workshop. A large stone forge occupies half of the room opposed to the entrance, paired alongside a large anvil and a grinding wheel.
 
-On one of the other walls, a distance from the forge, a dark black metallic altar adorned with a blue runner and a pair of chalices is used to inspect and export the finished products. As an acceptable item is placed on the altar and the command word is spoken, the chalices begin to bubble over in dark blue smog that moves to cover the item. When the smog disipates, the item is gone, having been teleported into the armor
+On one of the other walls, a distance from the forge, a dark black metallic altar adorned with a blue runner and a pair of chalices is used to inspect and export the finished products. As an acceptable item is placed on the altar and the command word is spoken, the chalices begin to bubble over in dark blue smog that moves to cover the item. When the smog dissipates, the item is gone, having been teleported into the armories of the Operators.
 
 ##### Textiles Mill
+The Textiles Mill is a large workshop equipped with 
+
 ##### Leatherworks
 
 #### Servant Quarters
