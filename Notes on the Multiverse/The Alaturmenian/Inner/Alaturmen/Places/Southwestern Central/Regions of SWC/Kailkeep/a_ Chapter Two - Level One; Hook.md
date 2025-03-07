@@ -7,7 +7,7 @@ The purpose of this level is to begin to lull any entrants into a false sense of
 ### Loyalists
 The loyalists in the first level are the weakest of them all - the elders, the children, the limbless. Few could survive a direct confrontation, and fewer could create an advantage to strike intruders against. The plan of action for any loyalists is to disengage and retreat to the nearest *Kobolted Door* to report the incident.
 
-When they are not retreating from intruders, they are harvesting lichen and algae from pools of water, hunting rodents and small insects, and producing simple arms, armors, and textiles with the tools and supplies given to them by their Kobold keepers.
+When they are not retreating from intruders, they are harvesting lichen and algae from pools of water in the [[#Uncut Tunnels]], hunting rodents and small insects, and producing simple arms, armors, and textiles with the tools and supplies given to them by their Kobold keepers.
 
 ### Unusual Rodents
 A population of Unusual Rodents has escaped containment and survived the meager hunts of the loyalists.
@@ -59,9 +59,10 @@ The Fine Metalworks is a small workshop. A large stone forge occupies half of th
 On one of the other walls, a distance from the forge, a dark black metallic altar adorned with a blue runner and a pair of chalices is used to inspect and export the finished products. As an acceptable item is placed on the altar and the command word is spoken, the chalices begin to bubble over in dark blue smog that moves to cover the item. When the smog dissipates, the item is gone, having been teleported into the armories of the Operators.
 
 ##### Textiles Mill
-The Textiles Mill is a large workshop equipped with two each of a combing system, a spinning wheel, and a weaving rack. 
+The Textiles Mill is a large workshop equipped with two each of a combing system, a spinning wheel, and a weaving rack, all of which are used in tandem to create all manner of textile products, including the clothing, beddings, curtains, and ropes that would appear in some rooms of the Hells above.
 
 ##### Leatherworks
+The Leatherworks is a small workshop.
 
 #### Servant Quarters
 #### Servant Halls
