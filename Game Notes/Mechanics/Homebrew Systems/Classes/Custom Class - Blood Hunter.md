@@ -23,9 +23,10 @@ You take this feature at 11th level.
 
 Your soul is your own again.
 
-##### 
+##### Fate's 
 
-##### 
+##### Soulguard
+You may take this feature at 18th level.
 
 ## Blood Curses
 ##### Curse of the Warrior
