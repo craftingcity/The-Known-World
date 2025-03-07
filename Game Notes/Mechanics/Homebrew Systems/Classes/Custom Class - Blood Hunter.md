@@ -14,7 +14,7 @@ You gain additional uses of the **Blood Maledict** feature equal to your Constit
 ##### Blood Frenzy
 You take this feature at 7th level.
 
-When you reduce a creature to 0 hitpoints that you have not affected with a *blood curse*, you regain a use of your **Brand of Castigation** feature.
+When you reduce a creature to 0 hitpoints that you have not affected with a *blood curse*, you regain the use of your **Brand of Castigation** feature.
 
 ##### Fate's Bargain
 You take this feature at 11th level.
