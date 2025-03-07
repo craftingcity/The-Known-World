@@ -23,9 +23,9 @@ You take this feature at 11th level.
 
 Your soul is your own again.
 
-##### Fate's 
+##### Fate's Wonder
 
-##### Soulguard
+##### Fate's Protection
 You may take this feature at 18th level.
 
 ## Blood Curses

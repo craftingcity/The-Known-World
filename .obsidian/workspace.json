@@ -54,6 +54,27 @@
             }
           },
           {
+            "id": "9079da7189dcb323",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "5868ebb8dc26353c",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -123,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "35a8c68ed1e1c795",
@@ -589,62 +610,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "dce617bf0a32322f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "dd7d0a09748771a9",
-        "type": "window",
-        "children": [
-          {
-            "id": "a99998b9350c5db3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "89e302ddb20c9263",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "a_ Chapter Two - Level One; Hook",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"a_ Chapter Two - Level One; Hook\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":16},\"to\":{\"line\":39,\"ch\":16}},\"scroll\":21.016741545470662}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Custom Class - Blood Hunter"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1280,
-        "y": 0,
-        "width": 1280,
-        "height": 1400,
-        "maximize": false,
-        "zoom": -1.5
-      }
-    ]
-  },
-  "active": "89e302ddb20c9263",
+  "active": "9079da7189dcb323",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
@@ -672,7 +640,6 @@
     "Prenotes Feb 14 25.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/MAPS/WORLD/underdark.png",
     "Game Notes/Prenotes/'25",
