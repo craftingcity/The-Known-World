@@ -49,17 +49,19 @@ The contents of the kitchen are meager, composed of an oven, an open cauldron, a
 A hallway connects from the [[#Grand Chamber]] to an opposing pair of single doors. Behind each is one of the four following Workshop layouts.
 
 ##### Crude Metalworks
-The Crude Metalworks is a large workshop. Four crucibles are manually fed raw metals collected from the secure drop-shoot on the wall opposing the door. In the center of the room, surrounded by the crucibles, a table carries dozens of simple casts, shaping tools, and metal products.
+The Crude Metalworks is a large workshop. Four crucibles are manually fed raw metals collected from the secure drop-shoot on the wall opposing the door. In the center of the room, surrounded by the crucibles, a table carries dozens of simple casts, shaping tools, and metal products. By the drop-shoot, a single door leads into the [[#Servant Halls]]
 
 A stone cart is somewhere within this room, having been used by Loyalist Workers to transport materials from the shoot to the crucibles. 
 
 ##### Fine Metalworks
 The Fine Metalworks is a small workshop. A large stone forge occupies half of the room opposed to the entrance, paired alongside a large anvil and a grinding wheel.
 
-On one of the other walls, a distance from the forge, a dark black metallic altar adorned with a blue runner and a pair of chalices is used to inspect and export the finished products. As an acceptable item is placed on the altar and the command word is spoken, the chalices begin to bubble over in dark blue smog that moves to cover the item. When the smog dissipates, the item is gone, having been teleported into the armories of the Operators.
+On one of the other walls, a distance from the forge, a dark black metallic altar adorned with a blue runner and a pair of chalices is used to inspect and export the finished products. As an acceptable item is placed on the altar and the command word is spoken, the chalices begin to bubble over in dark blue smog that moves to cover the item. When the smog dissipates, the item is gone, having been teleported into the armories of the Operators. By the altar, a single door leads into the [[#Servant Halls]]
 
 ##### Textiles Mill
 The Textiles Mill is a large workshop equipped with two each of a combing system, a spinning wheel, and a weaving rack, all of which are used in tandem to create all manner of textile products, including the clothing, beddings, curtains, and ropes that would appear in some rooms of the Hells above.
+
+Opposed in placement, a drop-shoot
 
 ##### Leatherworks
 The Leatherworks is a small workshop. 
