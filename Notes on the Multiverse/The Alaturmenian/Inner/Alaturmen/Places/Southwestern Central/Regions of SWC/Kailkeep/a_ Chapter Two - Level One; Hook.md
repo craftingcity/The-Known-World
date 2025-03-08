@@ -61,7 +61,7 @@ On one of the other walls, a distance from the forge, a dark black metallic alta
 ##### Textiles Mill
 The Textiles Mill is a large workshop equipped with two each of a combing system, a spinning wheel, and a weaving rack, all of which are used in tandem to create all manner of textile products, including the clothing, beddings, curtains, and ropes that would appear in some rooms of the Hells above.
 
-Opposed in placement, a drop-shoot
+Opposed in placement, a drop-shoot in the wall and an altar (both described above) flank the main working space of this room.
 
 ##### Leatherworks
 The Leatherworks is a small workshop. 
