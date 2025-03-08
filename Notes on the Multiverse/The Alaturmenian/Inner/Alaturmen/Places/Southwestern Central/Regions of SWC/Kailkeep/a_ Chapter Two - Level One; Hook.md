@@ -62,7 +62,7 @@ On one of the other walls, a distance from the forge, a dark black metallic alta
 The Textiles Mill is a large workshop equipped with two each of a combing system, a spinning wheel, and a weaving rack, all of which are used in tandem to create all manner of textile products, including the clothing, beddings, curtains, and ropes that would appear in some rooms of the Hells above.
 
 ##### Leatherworks
-The Leatherworks is a small workshop.
+The Leatherworks is a small workshop. 
 
 #### Servant Quarters
 #### Servant Halls
