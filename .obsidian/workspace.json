@@ -98,9 +98,30 @@
               "icon": "lucide-file",
               "title": "i_ Chapter Eleven - Maintaining Kailkeep"
             }
+          },
+          {
+            "id": "ce84163eb226043f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "35a8c68ed1e1c795",
@@ -565,7 +586,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d385204ab79417b3",
+  "active": "ce84163eb226043f",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/i_ Chapter Eleven - Maintaining Kailkeep.md",
