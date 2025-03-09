@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "a_ Chapter Two - Level One; Hook",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md"
+    },
+    {
+      "basename": "b_ Chapter Three - Level Two; Line",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/b_ Chapter Three - Level Two; Line.md"
+    },
+    {
       "basename": "a_ Chapter One - Introduction",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md"
+    },
+    {
+      "basename": "Custom Class - Blood Hunter",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md"
     },
     {
       "basename": "Kailkeep",
@@ -45,16 +57,8 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/c_ Chapter Four - Level Three; Sinker.md"
     },
     {
-      "basename": "b_ Chapter Three - Level Two; Line",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/b_ Chapter Three - Level Two; Line.md"
-    },
-    {
       "basename": "Campaigns",
       "path": "Game Notes/Campaigns.md"
-    },
-    {
-      "basename": "a_ Chapter Two - Level One; Hook",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md"
     },
     {
       "basename": "i_ Chapter Eleven - Maintaining Kailkeep",
@@ -195,10 +199,6 @@
     {
       "basename": "List of Names",
       "path": "Game Notes/NPCs/List of Names.md"
-    },
-    {
-      "basename": "ParaeducatorGame",
-      "path": "Game Notes/Campaign Rosters/ParaeducatorGame.md"
     }
   ],
   "omittedPaths": [],
