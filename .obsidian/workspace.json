@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9fb54ecb5ed210aa",
+        "id": "1670cb71dd9b02ad",
         "type": "tabs",
         "children": [
           {
-            "id": "9468e4d5967ddbd5",
+            "id": "8453e3471c3ce27c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.51240158081055,
-    "collapsed": true
+    "width": 322.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -278,14 +277,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9468e4d5967ddbd5",
+  "active": "8453e3471c3ce27c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Places....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Monsters....md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "A Grand Notepad.md",
     "Junie's Characters/Dante Fukili.md",
-    "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",

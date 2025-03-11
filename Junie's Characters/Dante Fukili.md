@@ -73,7 +73,7 @@ We fought against a bunch of guys! I think they were scavs, because they didn't 
 	- 2x 'Dual-Pop' Carbine -> 0x
 	- 7x D. Carbine
 	- 18x DRM, EY
-	- 15x Pineapple Grenades
+	- 15x Pineapple Grenades -> 10x
 	- 10x Isiopara
 	- 0x 'Orange Triforce' Necklace
 `Looting the buildings...`
@@ -86,12 +86,14 @@ We fought against a bunch of guys! I think they were scavs, because they didn't 
 		- 50x DRM, EY
 		- 10x Pineapple Grenade
 		- 5x Fire Grenade
-		- 50x Isiopara
+		- 50x Isiopara -> 25x -> 
 		- 20x Nova
 		- 2x Secreclude Propital Injectors
 		- 50x Sealed Rations (1+ Year Old)
 
-We push all the Unopened Darksteel Crates, unclaimed Weapons & Armor into one building, then lock it behind us after we take a long rest. We're headed through the Base.
+We push all the Unopened Darksteel Crates, unclaimed Weapons & Armor into one building, then lock it behind us after we take a long rest. I took my watch with Spitfire <3. We're gonna head through the Base.
+
+We passed through the Intel Center, where Jules was interested in learning more about the machines and information here, and into the Importing Pallets. On our way through, we find a pair shooting at each other, but they both turn to us and fire.
 
 ## Important Knowledge
 
@@ -106,10 +108,12 @@ We push all the Unopened Darksteel Crates, unclaimed Weapons & Armor into one bu
 | WIS  | 11 (+0)   | HD    | 3d8, 3d10 |
 | CHA  | 14 (+2)   | SPD   | 35' (7s)  |
 
-| Weapon                  | To Hit             | Damage         |
-| ----------------------- | ------------------ | -------------- |
-| Dante's Carbine (198 Y) | +10 (DEX+PRF+FS:A) | 3d6+5 thunder  |
-| Dante's Claws           | +8 (DEX+PRF)       | 1d4+6 slashing |
+| Weapon                  | To Hit                      | Damage          |
+| ----------------------- | --------------------------- | --------------- |
+| Dante's Carbine (398 Y) | +11 (DEX+PRF+FS:A+DUAL-POP) | 4d6+5 thunder   |
+| Dante's Claws           | +8  (DEX+PRF)               | 1d4+6 slashing  |
+| Pineapple Grenade (5x)  | +1  (Athletics)             | 5d6+20 slashing |
+|                         |                             |                 |
 
 #### Proficiencies
 SKILLS;
@@ -156,8 +160,11 @@ You can take a *bonus action* on each of your turns in combat. This action can b
 ##### Skirmisher (R)
 You can move up to half your speed as a *reaction* when an enemy ends its turn within 5 feet of you. This movement doesn’t provoke opportunity attacks.
 
-##### Maneuvers (3)
-You learn three maneuvers of your choice. 
+##### Maneuvers (4/4d8, 3)
+You learn three maneuvers of your choice. (4d8, *Maneuvering*, *Precision*, and *Pushing*)
+	- *Maneuvering Attack*; 'You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.'
+	- *Precision Attack*; 'When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.'
+	- *Pushing Attack*; 'You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.'
 
 #### Equipment
 (0.0sp)
@@ -169,24 +176,26 @@ You learn three maneuvers of your choice.
 *Head*:
 	HEFP I      < +5 RR >
 *Torso*:
-	Chainmail
+	Darksteel Tank Plate
 	Adjustable Cloth Sling (Durandurm Carbine)
 	Backpack (50' Rope, Steel Crowbar, Steel Canteen)
 		- Bedroll
 		- Common Clothes (dark, hooded)
 		- Journal
+		- Irontoe Boots
 		- 10x Torch
-		- 10x Generic Ration
+		- 19x Generic Ration
 *Groin*:
 	Leather Combat Belt
 		- Sheath (Dagger)
 		- Scabbard (Shortsword)
-		- Ammo Sack (20 DRM, EY)
-		- Medical Sack (0x Isiopara)
+		- Ammo Sack (40 DRM, EY)
+		- Medical Sack (25x Isiopara, 1x Secreclude Propital)
+		- 5x Pineapple Grenade
 *Legs*:
 	Darksteel Tank Plate
 *Feet*:
-	Irontoe Boots
+	Darksteel Tank Plate
 
 #### Level Plan
 1. F1 - Fighting Style (*Archery*), Second Wind
@@ -195,8 +204,7 @@ You learn three maneuvers of your choice.
 4. F2, R2 - Cunning Action
 5. F2, R3 - Roguish Archetype: Scout (*Skirmisher*, *Survivalist*), Sneak Attack (2d6)
 6. F3, R3 - Martial Archetype: Battlemaster (4d8, *Maneuvering*, *Precision*, and *Pushing*)
-`*?*`
-
+`*!*`
 7. F4, R3 - Ability Score Improvement -> (*Sharpshooter*)
 8. F5, R3 - Extra Attack (x1)
 9. F5, R4 - Ability Score Improvement -> (*Tough*)
