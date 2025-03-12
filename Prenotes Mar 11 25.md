@@ -33,16 +33,16 @@ They want to come down! Yay!
 ##### Init
 22 - Marylynn
 20 - Mind Flayer
-	A - 14, 26, 40
+	~~A - 14, 26, 40, 45, 52, 80~~
 	B*
 18 - Thomas
 13 - Rowan
 11 - Bhodi
 10 - Iddies
-	A
+	A - 10
 	B
 	~~C - 17, ~~
-	D
-	E
+	~~D - 28~~
+	~~E - 17, ~~
 
 We leave our heroes on the date of ... AF, as they ...
