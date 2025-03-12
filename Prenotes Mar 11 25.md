@@ -30,6 +30,10 @@ I think they're probably going to go down to the Illithid? Like I think that is 
 ### What happened?
 They want to come down! Yay!
 
-
+##### Init
+22 - Marylnn
+18 - Thomas
+13 - Rowan
+11 - Bhodi
 
 We leave our heroes on the date of ... AF, as they ...
