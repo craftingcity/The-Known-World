@@ -7,7 +7,7 @@
 - [[Holdings]]
 - [[Kitset]]
 - [[NPCs]]
-- [[Prenotes]]
+- [[ORGANIZATION/TEMPLATES/Prenotes]]
 - [[Region]]
 - [[Stub]]
 - [[Table]]
