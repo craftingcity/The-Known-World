@@ -31,9 +31,18 @@ I think they're probably going to go down to the Illithid? Like I think that is 
 They want to come down! Yay!
 
 ##### Init
-22 - Marylnn
+22 - Marylynn
+20 - Mind Flayer
+	A - 14, 26, 40
+	B*
 18 - Thomas
 13 - Rowan
 11 - Bhodi
+10 - Iddies
+	A
+	B
+	~~C - 17, ~~
+	D
+	E
 
 We leave our heroes on the date of ... AF, as they ...
