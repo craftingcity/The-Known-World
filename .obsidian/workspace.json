@@ -4,6 +4,35 @@
     "type": "split",
     "children": [
       {
+        "id": "e1df37d4536f2983",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df06a19a5b9dedb0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Mar 11 25.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes Mar 11 25"
+            }
+          }
+        ]
+      },
+      {
         "id": "ae54194a28e08ede",
         "type": "tabs",
         "children": [
@@ -31,29 +60,6 @@
             }
           },
           {
-            "id": "df06a19a5b9dedb0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Mar 11 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Mar 11 25"
-            }
-          },
-          {
             "id": "fb7c4866e806f92f",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -76,8 +82,7 @@
               "title": "Forgehome"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -332,8 +337,8 @@
   "active": "df06a19a5b9dedb0",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
-    "Prenotes Mar 11 25.md",
     "Prenotes Feb 11 25.md",
+    "Prenotes Mar 11 25.md",
     "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md",
     "Game Notes/Mechanics/Homebrew Systems/Strength As Carrying Capacity.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
