@@ -20,14 +20,22 @@ When it was created in the early 20s, Forgehome was designed as a temporary sett
 
 ## Important Places & Symbolism
 #### The Dry Moat
+A large square channel surrounds Forgehome's walls, adding a layer of protection to the turtle of a city. Huge drawbridges fold down from the walls to allow passage between.
+
 #### The Forge
+
+
 #### The Mines
+
+
 #### The Outlander Exchange
+
+
 #### The Town of Post
 While Forgehome has always been described as a "temporary" settlement, they have stayed long enough to populate an outpost between itself and the [[Grazing Fields]], the primary source of scavenge for Forgehome. As an outpost of an outpost, Post is very insular and protective of it's people and goods. Although it cannot compare to the fortress known as Forgehome, Post is well defended by constructed spikewalls and active guard towers.
 
 #### Deepreach
-The tale of Deepreach is a proud but sad one. The failure of a dwarven kingdom; its riches still lost in the Deep. Halls, passages, and simple trails lead from the edges of Forgehome down to the entrance of Deepreach. 
+The tale of Deepreach is a proud but sad one. The failure of a dwarven kingdom; its riches still lost in the Deep. Halls, passages, and simple trails lead from the edges of Forgehome down to the entrance of Deepreach, although the journey is perilous. 
 
 ## Economics
 |     | # of Traders |
