@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Untitled.md"
+      "basename": "Strength as Carry Capacity",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Strength as Carry Capacity.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
+    },
+    {
+      "basename": "Custom Features",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
+    },
+    {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
+    },
+    {
+      "basename": "Custom Languages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Languages.md"
+    },
+    {
+      "basename": "Lingering Injuries",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lingering Injuries.md"
     },
     {
       "basename": "Combat Mechanics and Positioning",
@@ -101,10 +121,6 @@
       "path": "Game Notes/Campaigns.md"
     },
     {
-      "basename": "Custom Features",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
-    },
-    {
       "basename": "Coalition City",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Prenotes Jan 21 25",
       "path": "Game Notes/Prenotes/'25/Prenotes Jan 21 25.md"
-    },
-    {
-      "basename": "Prenotes Jan 28 25",
-      "path": "Prenotes Jan 28 25.md"
-    },
-    {
-      "basename": "Prenotes Feb 11 25",
-      "path": "Prenotes Feb 11 25.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Sylvan (language)",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Time Before Time/Sylvan (language).md"
     }
   ],
   "omittedPaths": [],

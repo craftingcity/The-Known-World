@@ -29,7 +29,7 @@ aliases:
 		- [[Custom Features]]
 		- [[Custom Heritages]]
 		- [[Custom Languages]]
-	- [[Strength as Carry Capacity]]
+	- [[Strength As Carrying Capacity]]
 - **Homebrew Weapons**
 	- [[Custom Weapon Mechanics]]
 	- [[Weapons of Alaturmen]]
