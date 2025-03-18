@@ -449,7 +449,6 @@ magical items
 	- [[Arms and Armor - North West]]
 	- [[Arms and Armor - North East]]
 ## Factions
-- [[Custom Cultures]] (`everyone needs more specific detail`)
 ### Big Four
 - [[The Church of the White Flame]] (`good, move next econ`)
 - [[Golden Claws]] (`solidify classes & organization, commit government bodies`)
@@ -460,7 +459,7 @@ magical items
 - [[Cenva Minyo]] & [[Dwarven Kingdom Actstow]] (`everyone needs more detail`)
 - [[Guilds of Coalition]]  (`solidify classes & organization, commit government bodies`) 
 - [[Dwarven Kingdom Suremantle]] / [[Mountain Hall]] (`solidify classes & organization, commit government bodies`) 
-- The Druids
+- The Druids (`massive information network, like IT for the world kinda vibe`)
 ### Bandit Gangs
 - [[Bodaim's Bandits]]
 - [[Cult of Reborn Glory]]
@@ -488,5 +487,5 @@ magical items
 	- Specifically, creating NPCs with relevant titles
 - [[Campaigns]]
 	- [[Kaliqeill, Lich of Orcus]] (`hes still floating around the outer planes trying to fuck shit up`)
-- [[Lingering Injuries]]
 - [[List of Names]]
+- [[Custom Cultures]] (`write cultures relevant knowledge and lore for our players`)

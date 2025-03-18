@@ -1,7 +1,7 @@
 # Acentral
 ## Druidic Circle
 
-You spent your life before adventure with one of the many Druidic Circles of Alaturmen. You had little contact with the outside world during your time with the Druids. They taught you their values, trained you in their way, and sent you on your way when they began to see your potential to blossom.
+You spent your life before adventure with one of the many Druidic Circles of Alaturmen. You had little contact with the outside world during your time with the Druids, instead they would teach you their values and techniques in mysticism, survivalism, and secrecy. The location of your home must remain unknown, otherwise risking the life, limb, and unfound secrets of your home - you must be from nowhere and everywhere.
 
 You gain +2 to your *Wisdom Score* and +1 to your *Constitution Score*. You are proficient in the *Nature* and *Survival* skills. You know [[Druidic (language)]] and your choice of one of the following pairs;
 - [[Desertspeech (language)]] and [[Primordial (language)#Terrin]]
