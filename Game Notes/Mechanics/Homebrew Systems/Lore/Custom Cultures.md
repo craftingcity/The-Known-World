@@ -42,7 +42,7 @@ In addition, you have legal identification - whatever that may be - of your memb
 
 # North Western
 ## Kingdom of Prosper
-You spent your life before adventure in [[The Kingdom of Prosper]]. You have personally met with the [[Arthur Simonson|The Great Adventurer King]]. You spoke with him about history, honesty, and the moral right to a happy, educated, and full life. 
+You spent your life before adventure in [[The Kingdom of Prosper]]. You have personally met with the [[Arthur Simonson|The Great Adventurer King]]. You spoke with him about history, honesty, and the moral right to a happy, educated, and full life. Most of the population of Prosper work the hundreds of fields of rye, squash, and beans that feed their neighbors and large military reserve.
 
 You gain +2 to your *Constitution Score* and +1 to your *Charisma Score*. You are proficient in the *History* and *Insight* Skills. You know [[Arthurian (language)]] and your choice of one of the following;
 - [[Fanyaquestan (language)]]
