@@ -13,7 +13,7 @@ In addition, when you take fire, cold, or lightning damage you may spend and rol
 
 ## Guildmember
 
-You spent your life before adventure with the [[Guilds of Coalition]], likely living in one of the Wards of [[Coalition City]]. Your days were full of bureaucracy, transportation, and political conflict. In honest truth, the city life can be boring. To keep yourself safe, you learned when to keep certain information to yourself, and how to tell who you really can trust.
+You spent your life before adventure with the [[Guilds of Coalition]], likely living in one of the Wards of [[Coalition City]]. Your days were full of bureaucracy, transportation, and political conflict. In honest truth, the city life can be boring. To keep yourself safe, you learned when to keep certain information to yourself, and how to tell who you really can trust. You've seen most people of this world, eaten most of the foods, and been almost nowhere. Time to change that.
 
 You gain +2 to your *Wisdom Score* and +1 to your *Intelligence Score*. You are proficient in the *Deception* and *Insight* skills. You know your choice of two of the following;
 - [[Desertspeech (language)]]
@@ -21,28 +21,28 @@ You gain +2 to your *Wisdom Score* and +1 to your *Intelligence Score*. You are 
 - [[Arthurian (language)]]
 - [[Golopak (language)]]
 
-In addition, you have legal identification - whatever that may be - of your membership to your Guild. Your membership and your ability to call upon the full weight of the [[Guilds of Coalition]] could - if used properly - grant you nearly any request you would speak.
+In addition, you have legal identification - whatever that may be - of your membership to your Guild. This membership and your earned ability to call upon the full weight of the [[Guilds of Coalition]] could - if used properly - grant you nearly any request you would speak.
 - [[Guild of Adventurers]]
 	- The Guild of Adventurers is a barely-functionally organized enforcement organization that specializes in disrupting major international or interplanar threats *and* the lives of everyday people through the use of wanton destruction, chaos, and greed.
- - Members of the Guild of Adventures are most often employed as mercenaries, guarding caravans or people as they moved around the world. 
+	- Members of the Guild of Adventures are most often employed as mercenaries, guarding caravans or people as they moved around the world. 
 - [[Guild of Merchants]]
 	- The Guild of Merchants is a major infrastructure and logistics syndicate. Through price manipulation and inter-organization communication, things are made and moved to where they need to be.
- - Members of the Guild of Merchants are most commonly employed as accountants or drivers dealing with consistent, small-load deliveries between major cities or from a major city to its dependants.
+	- Members of the Guild of Merchants are most commonly employed as accountants or drivers dealing with consistent, small-load deliveries between major cities or from a major city to its dependants.
 	- The [[Guild of Merchants#Thieves Guild|Thieves Guild]] is a silent subdivision of the [[Guild of Merchants]] that specializes in the less-than-publicly-acceptable efforts of monopolizing peace, such as burglary, murder, espionage, and threat enforcement or denial.
 - [[Ranger's Guild]]
 	- The Ranger's Guild is a tight-knit network of people defending people. The main responsibility for any Ranger is the border of the Wildlands, preventing people from wandering too far and threats from wandering too close.
- - Most members of the Guild of Rangers are employed as small-town wardens, dealing with local pests or provisional issues - your most important duty, however, is warning the ignorant of the danger presented by the Wildlands.
+	- Most members of the Guild of Rangers are employed as small-town wardens, dealing with local pests or provisional issues - your most important duty, however, is warning the ignorant of the danger presented by the Wildlands.
 - [[Guild of Crafters]]
 	- The Guild of Crafters are responsible for the Coalition's major constructions and their bank of skill-craft information. Many of the Plane's most common technologies are kept well secret by these specialized Craftsfolk.
- - Most members of the Guild of Crafters are genuine artisans, having specialized in a given craft or trade and excelled enough in that field to be hired into the Guilds.
+	- Most members of the Guild of Crafters are genuine artisans, having specialized in a given craft or trade and excelled enough in that field to be hired into the Guilds.
 - [[Guild of Wizards]]
 	- The Guild of Wizards maintains the largest collections of public knowledge avaliable to the world, and acts as the collective body responsible for the major decisions made by the Guilds at large. In addition to this, the Guild of Wizards works to investigate, list, or eliminate any and all spellcasters, magical items, or anomalies and the knowledge, materials, and effects surrounding them.
- - Members of the Guild of Wizards are most commonly employed as accountants or researchers, dealing with magical items or processes and the overwhelming bureaucratic process of recording any and all information regarding the past, present, and future of the subject.
+	- Members of the Guild of Wizards are most commonly employed as accountants or researchers, dealing with magical items or processes and the overwhelming bureaucratic process of recording any and all information regarding the past, present, and future of the subject.
 
 
 # North Western
 ## Kingdom of Prosper
-You spent your life before adventure in [[The Kingdom of Prosper]]. You have personally met with the [[Arthur Simonson|The Great Adventurer King]]. You spoke with him about history, honesty, and the moral right to a happy, educated, and full life. Most of the population of Prosper work the hundreds of fields of rye, squash, and beans that feed their neighbors and large military reserve.
+You spent your life before adventure in [[The Kingdom of Prosper]]. You have personally met with the [[Arthur Simonson|The Great Adventurer King]]. You spoke with him about history, honesty, and the moral right to a happy, educated, and full life. Most of the population of Prosper work the hundreds of fields of rye, squash, and beans that feed their neighbors and large military reserve - the guardsfolk, the Knights, and the engineers that keep Prosper on the cutting edge of military might.
 
 You gain +2 to your *Constitution Score* and +1 to your *Charisma Score*. You are proficient in the *History* and *Insight* Skills. You know [[Arthurian (language)]] and your choice of one of the following;
 - [[Fanyaquestan (language)]]
