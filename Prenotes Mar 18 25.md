@@ -29,18 +29,18 @@ Everything goes down into the City, eventually, so they get to look at my cool g
 #### INIT
 19 - Marylynn
 17 - Rowan
-15 - Pink (AC 18, HP 80, +9 to hit, 2x 3d10+5)
-A
-B
+15 - Pink (AC 18, HP 80, +9 to hit, 2x 3d10+5 sla, WIS 17, 3d6 psy)
+A - 29, 
+B - 29
 C
 D - ~~15, 36, 52, 67, 95~~
 9 - Thomas
 5 - Bhodi
 0 - Black
-A
-B
+A - ~~22, 36, 59, 73, ~~
+B - 15, 
 C
-D
+D - 15
 
 
 We leave our heroes on the date of ... AF, as they ...
