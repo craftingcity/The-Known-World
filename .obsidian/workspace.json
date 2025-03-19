@@ -4,6 +4,35 @@
     "type": "split",
     "children": [
       {
+        "id": "2bacc422d4615e73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac6b8a1c0afcc3ec",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Mar 18 25.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes Mar 18 25"
+            }
+          }
+        ]
+      },
+      {
         "id": "e1df37d4536f2983",
         "type": "tabs",
         "children": [
@@ -28,29 +57,6 @@
               },
               "icon": "lucide-file",
               "title": "Prenotes Mar 11 25"
-            }
-          },
-          {
-            "id": "ac6b8a1c0afcc3ec",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Mar 18 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Mar 18 25"
             }
           },
           {
@@ -99,8 +105,7 @@
               "title": "Custom Cultures"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -351,13 +356,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3fac2a24f73337d",
+  "active": "ac6b8a1c0afcc3ec",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
     "Prenotes Mar 18 25.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "A Grand Notepad.md",
     "Prenotes Mar 11 25.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
     "Prenotes Feb 11 25.md",
     "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md",
     "Game Notes/Mechanics/Homebrew Systems/Strength As Carrying Capacity.md",
