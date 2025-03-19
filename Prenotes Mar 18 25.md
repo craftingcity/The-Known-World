@@ -14,7 +14,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes...
+When last we left our heroes, they were deep underground. Below the soft soil of the world you know, another, harder world survives. You are looking towards a part of that world that failed to do so - Deepreach, a once proud tale of persistence and mutual benefit turned sour as communication broke down before ceasing entirely, leaving only the whisper of speculation to present its explanations; famine, plague, infighting, or invasion are all reasonable theories you've heard
 
 ### What does the World Know?
 
