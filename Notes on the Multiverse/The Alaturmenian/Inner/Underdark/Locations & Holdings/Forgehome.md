@@ -44,7 +44,7 @@ A series of halls and rooms are interconnected and reach downward into the secti
 The 'City' is a collection of three neighborhoods, holding homes, apartments, stores, and public works. Much of the city has been overtaken by a sickly purple film, where veins and tentacles slowly flex about. Many of the exterior walls are broken outward, allowing egress to and from the Depths. 
 
 ##### The Third Floor, The Forge
-Below the eastern end of the C
+Below the center of the City, where each neighborhood, the Forge is a grand workshop, titanic in scale and production. Workrooms are stacked upon eachother, where catwalks and bridges connect the thousands of stations.
 
 ##### The Fourth Floor, The Keep
 
