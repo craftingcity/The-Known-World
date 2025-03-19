@@ -26,6 +26,21 @@ Three doors lead to halls from this room, one of which you see is still flung op
 Everything goes down into the City, eventually, so they get to look at my cool goopis city and my Last of Us / Alien style badguys rip.
 
 ### What happened?
+#### INIT
+19 - Marylynn
+17 - Rowan
+15 - Pink (AC 18, +9 to hit, 3d10+5)
+A
+B
+C
+D - 15, 36
+9 - Thomas
+5 - Bhodi
+0 - Black
+A
+B
+C
+D
 
 
 We leave our heroes on the date of ... AF, as they ...
