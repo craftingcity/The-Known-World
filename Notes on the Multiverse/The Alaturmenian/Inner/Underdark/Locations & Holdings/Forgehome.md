@@ -3,7 +3,7 @@ tags:
   - holding
 aliases:
 ---
-# Name
+# Forgehome
 #### Sub-names?
 ## Holding of The Mayorship
 ### Located in the [[Upper Northwestern Underdark]], X:Y
@@ -16,31 +16,37 @@ The dwarves of Forgehome have grown rightly suspect of outsiders, and will only 
 ### Background
 Forgehome is one of the largest settlements on this side of the surface, and primarily acts as a mining town. Forgehome is an extended outpost of [[Dwarven Kingdom Jammu]] & the [[Darnt Hillkeep]], although they are an autonomous city-state by law.
 
-When it was created in the early 20s, Forgehome was designed as a temporary settlement that would act in-between the [[Darnt Hillkeep]] or other members of the surface and [[#Deepreach]], though eventually the latter's demise would leave Forgehome to uptake their responsibilities - becoming a expansive and permanent city.
+When it was created in the early 20s, Forgehome was designed as a temporary settlement that would act in-between the [[Darnt Hillkeep]] or other members of the surface and [[#Deepreach]], though eventually the latter's demise would leave Forgehome to uptake their responsibilities - becoming an expansive and permanent city.
 
 ## Important Places & Symbolism
-#### The Dry Moat
+### The Dry Moat
 A large square channel surrounds Forgehome's walls, adding a layer of protection to the turtle of a city. Huge drawbridges fold down from the walls to allow passage between.
 
-#### The Forge
+### The Forge
 
 
-#### The Mines
+### The Mines
 
 
-#### The Outlander Exchange
+### The Outlander Exchange
 
 
-#### The Town of Post
-While Forgehome has always been described as a "temporary" settlement, they have stayed long enough to populate an outpost between itself and the [[Grazing Fields]], the primary source of scavenge for Forgehome. As an outpost of an outpost, Post is very insular and protective of it's people and goods. Although it cannot compare to the fortress known as Forgehome, Post is well defended by constructed spikewalls and active guard towers.
+### The Town of Post
+While Forgehome has always been described as a "temporary" settlement, they have stayed long enough to populate an outpost between itself and the [[Grazing Fields]], the primary source of scavenge for Forgehome. As an outpost of an outpost, Post is very insular and protective of it's people and goods. Although it cannot compare to the fortress known as Forgehome, Post is well defended by constructed spike-walls and active guard towers.
 
-#### Deepreach
+### Deepreach
 The tale of Deepreach is a proud but sad one. The failure of a dwarven kingdom; its riches still lost in the Deep. Halls, passages, and simple trails lead from the edges of Forgehome down to the entrance of Deepreach, although the journey is perilous. 
 
-###### The First Floor, The Halls
-###### The Second Floor, The City
-###### The Third Floor, The Forge
-###### The Fourth Floor, The Keep
+##### The First Floor, The Halls
+A series of halls and rooms are interconnected and reach downward into the sections of the city. A number of Illithid patrol these halls, assuring that the bolts are still tight.
+
+##### The Second Floor, The City 
+The 'City' is a collection of three neighborhoods, holding homes, apartments, stores, and public works. Much of the city has been overtaken by a sickly purple film, where veins and tentacles slowly flex about. Many of the exterior walls are broken outward, allowing egress to and from the Depths. 
+
+##### The Third Floor, The Forge
+Below the eastern end of the C
+
+##### The Fourth Floor, The Keep
 
 ## Economics
 |     | # of Traders |
