@@ -5,6 +5,7 @@ You spent your life before adventure with one of the many Druidic Circles of Ala
 
 You gain +2 to your *Wisdom Score* and +1 to your *Constitution Score*. You are proficient in the *Nature* and *Survival* skills. You know [[Druidic (language)]] and your choice of one of the following pairs;
 - [[Desertspeech (language)]] and [[Primordial (language)#Terrin]]
+	- The [[Druids of Terran]]
 - [[Fanyaquestan (language)]] and [[Primordial (language)#Ignin]]
 - [[Arthurian (language)]] and [[Primordial (language)#Aurin]]
 - [[Golopak (language)]] and [[Primordial (language)#Aquin]]

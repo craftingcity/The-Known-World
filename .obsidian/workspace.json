@@ -4,84 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "2bacc422d4615e73",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ac6b8a1c0afcc3ec",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Mar 18 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Mar 18 25"
-            }
-          }
-        ]
-      },
-      {
         "id": "e1df37d4536f2983",
         "type": "tabs",
         "children": [
-          {
-            "id": "df06a19a5b9dedb0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Mar 11 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Mar 11 25"
-            }
-          },
-          {
-            "id": "b3fac2a24f73337d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Forgehome"
-            }
-          },
           {
             "id": "73cd7d39bc24df7e",
             "type": "leaf",
@@ -356,13 +281,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df06a19a5b9dedb0",
+  "active": "73cd7d39bc24df7e",
   "lastOpenFiles": [
-    "Prenotes Mar 18 25.md",
     "Prenotes Mar 11 25.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
+    "Prenotes Mar 18 25.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "A Grand Notepad.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
     "Prenotes Feb 11 25.md",
     "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md",
     "Game Notes/Mechanics/Homebrew Systems/Strength As Carrying Capacity.md",
