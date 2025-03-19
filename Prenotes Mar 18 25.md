@@ -30,17 +30,17 @@ Everything goes down into the City, eventually, so they get to look at my cool g
 19 - Marylynn
 17 - Rowan
 15 - Pink (AC 18, HP 80, +9 to hit, 2x 3d10+5 sla, WIS 17, 3d6 psy)
-A - 29, 54
-B - 29, 54
+A - ~~29, 54, ~~
+B - ~~29, 54, 88~~
 C - ~~13, 34, 53, ~~
 D - ~~15, 36, 52, 67, 95~~
 9 - Thomas
 5 - Bhodi
 0 - Black
 A - ~~22, 36, 59, 73, ~~
-B - 15, 
-C - 12, 
-D - 15, 27
+B - ~~15, 28, 51, 67, 82~~
+C - 12, 46, 71
+~~D - 15, 27 ~~
 
 
 We leave our heroes on the date of ... AF, as they ...
