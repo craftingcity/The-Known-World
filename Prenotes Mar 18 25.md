@@ -23,7 +23,7 @@ You arrived in style, kicking in the door and slaying the Illithid residing in t
 Three doors lead to halls from this room, one of which you see is still flung open by a retreated Illithid. The other two stand closed. What do you do?
 
 ### What does the World Know?
-Everything goes down into the City, eventually.
+Everything goes down into the City, eventually, so they get to look at my cool goopis city and my Last of Us / Alien style badguys rip.
 
 ### What happened?
 
