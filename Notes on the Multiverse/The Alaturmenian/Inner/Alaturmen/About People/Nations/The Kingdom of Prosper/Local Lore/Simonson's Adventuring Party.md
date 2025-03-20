@@ -1,3 +1,4 @@
-- [[Guraxlog]], War-Wizard
-- [[Big Buster]], Big Badass
+- [[Guraxlog]], The War-Wizard
+- [[Big Buster]], The Badass
 - [[Mateus Fyrren]], Cleric of Taruin
+- [[Janice Austra]], The Righteous Warrior

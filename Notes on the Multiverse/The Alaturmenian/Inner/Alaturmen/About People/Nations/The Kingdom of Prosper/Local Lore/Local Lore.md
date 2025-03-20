@@ -8,7 +8,7 @@ aliases:
 - [[Bandit Lords]]
 - [[Carta Prosperitatis]]
 - [[His Greater Plan]]
-- [[Nobles of Prosper]]
+- [[Noble Houses of Prosper]]
 - [[Northern Conflicts, c.105af]]
 - [[Order of Arthurian Saints]]
 - [[Simonson's Adventuring Party]]

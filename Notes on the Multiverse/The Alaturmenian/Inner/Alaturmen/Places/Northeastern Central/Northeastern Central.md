@@ -10,7 +10,7 @@ aliases:
 - [[The Kingdom of Prosper]]
 	- We're all british over here, but like, not posh, like, yknow, the *poors* of the british isles - cockney if you will
 	- [[Arthur's Knights]]
-	- [[Nobles of Prosper]]
+	- [[Noble Houses of Prosper]]
 - [[Blood Clans]]
 	- [[Emorin Clan]]
 	- [[Scrivin Clan]]

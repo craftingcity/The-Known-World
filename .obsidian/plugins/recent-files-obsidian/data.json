@@ -5,6 +5,18 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
     {
+      "basename": "Simonson's Adventuring Party",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md"
+    },
+    {
+      "basename": "Noble Houses of Prosper",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md"
+    },
+    {
+      "basename": "Joss a'Fen",
+      "path": "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Joss a'Fen.md"
+    },
+    {
       "basename": "Prenotes Mar 11 25",
       "path": "Prenotes Mar 11 25.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "alaturmen-hexmap-105",
       "path": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
-    },
-    {
-      "basename": "Homebrew Alchemy System",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md"
-    },
-    {
-      "basename": "Northern Conflicts, c.105af",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md"
-    },
-    {
-      "basename": "Summer Communicae, 105AF",
-      "path": "Summer Communicae, 105AF.md"
     }
   ],
   "omittedPaths": [],

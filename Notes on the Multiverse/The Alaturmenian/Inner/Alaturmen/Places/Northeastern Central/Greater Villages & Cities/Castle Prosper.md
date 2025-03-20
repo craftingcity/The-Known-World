@@ -18,7 +18,7 @@ Since the end of the war, the population of Castle Prosper has continued to grow
 
 Guardsfolk of [[Arthur's Knights]] patrol both the inner- and outer-wall streets regularly, as well as along the walls and in towers throughout the surrounding area. Crime is rarely an issue inside the walls of the city. Many older or injured members of [[Arthur's Knights]] are granted posts inside the walls of the city, when feasible, as a reward for their duty, should they take them would be up to the person.
 
-The major houses of the [[Nobles of Prosper]] have homes inside the city's walls, and many of the minor Houses of the Kingdom do as well, though the land inside the walls is expensive - even to a noble.
+The major houses of the [[Noble Houses of Prosper]] have homes inside the city's walls, and many of the minor Houses of the Kingdom do as well, though the land inside the walls is expensive - even to a noble.
 
 ### General Public Disposition
 The common people of [[The Kingdom of Prosper]] recognize that there is a safety inside the walls of the city that they do not receive, but the stories of [[Arthur Simonson]] shouting orders to the flood of Knights defending the village of Prosper in the days before are still spread with insistent truth, leading most people to accept their place in [[His Greater Plan]]. 

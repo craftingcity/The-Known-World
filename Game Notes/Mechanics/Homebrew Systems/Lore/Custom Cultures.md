@@ -48,7 +48,12 @@ In addition, you have some form of legal identification of your membership to yo
 ## Kingdom of Prosper
 You spent your life before adventure in [[The Kingdom of Prosper]]. You have personally met with the [[Arthur Simonson|The Great Adventurer King]]. You spoke with him about history, honesty, and the moral right to a happy, educated, and full life. Most of the population of Prosper work the hundreds of fields of rye, squash, and beans that feed their neighbors and large military reserve - the guardsfolk, the Knights, and the engineers that keep Prosper on the cutting edge of military might.
 
-The Kingdom of Prosper is a monarchic aristocracy, where each major city and its surrounding region
+The Kingdom of Prosper is a monarchic aristocracy, where each major city and its surrounding region is operated and controlled by one of the [[Noble Houses of Prosper]], who all submit to the unageing [[Arthur Simonson|King Of Prosper]].
+	- [[Janesland]] is ruled by the [[Noble House a'Fen]] and named in honor of 'The Righteous Warrior' [[Janice Austra]].
+	- [[Gambleum]] is ruled by the [[Noble House a'Nyrk]] and named in honor of [[Big Buster]]'s proclivity to gamble away his share of an adventure.
+	- [[Magius]] is ruled by the [[Noble House a'Valim]] and named in honor of 'The War Wizard' [[Guraxlog]].
+	- [[Yerba]] is ruled by the [[Noble House a'LeQuinn]] and named in honor of [[Mateus Fyrren]]'s favorite comical exclamation.
+	- [[Moonlight]] is also ruled by the [[Noble House a'LeQuinn]]
 
 You gain +2 to your *Constitution Score* and +1 to your *Charisma Score*. You are proficient in the *History* and *Insight* Skills. You know [[Arthurian (language)]] and your choice of one of the following;
 - [[Fanyaquestan (language)]]
