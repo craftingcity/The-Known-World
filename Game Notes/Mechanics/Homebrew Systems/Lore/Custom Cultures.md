@@ -9,9 +9,9 @@ You gain +2 to your *Wisdom Score* and +1 to your *Constitution Score*. You are 
 - [[Desertspeech (language)]] and [[Primordial (language)#Ignin]]
 	- The [[Druids of Ignan]] are hidden somewhere within [[The Deserts of Tetrimoc]], and are dispersed through positions of power within the local factions. Some folks claim that the [[Druids of Ignan]] are wholly responsible for maintaining the stalemate between the three Noble Thieves groups.
 - [[Arthurian (language)]] and [[Primordial (language)#Aurin]]
-	- The [[Druids of Ventan]] 
+	- The [[Druids of Ventan]] are hidden somewhere within [[The Kingdom of Prosper]], and act in favor of the massive farming population of the Kingdom by affecting the local weather patterns - holding frost at bay or elongating a spring's bounty.
 - [[Golopak (language)]] and [[Primordial (language)#Aquin]]
-	- The [[Druids of Aquan]]
+	- The [[Druids of Aquan]] are hidden somewhere within [[The Democratic Combine of Peoples]], and traditionally ignore the political ongoings of their homeland, instead leading seminars on culture and communal unity where they preach the power of peacetime.
 
 In addition, when you take fire, cold, or lightning damage you may spend and roll one of your hit die and gain the result as temporary hit points.
 
@@ -47,6 +47,8 @@ In addition, you have some form of legal identification of your membership to yo
 # North Western
 ## Kingdom of Prosper
 You spent your life before adventure in [[The Kingdom of Prosper]]. You have personally met with the [[Arthur Simonson|The Great Adventurer King]]. You spoke with him about history, honesty, and the moral right to a happy, educated, and full life. Most of the population of Prosper work the hundreds of fields of rye, squash, and beans that feed their neighbors and large military reserve - the guardsfolk, the Knights, and the engineers that keep Prosper on the cutting edge of military might.
+
+The Kingdom of Prosper is a monarchic aristocracy, where each major city and its surrounding region
 
 You gain +2 to your *Constitution Score* and +1 to your *Charisma Score*. You are proficient in the *History* and *Insight* Skills. You know [[Arthurian (language)]] and your choice of one of the following;
 - [[Fanyaquestan (language)]]
