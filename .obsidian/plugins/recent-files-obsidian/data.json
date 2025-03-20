@@ -9,6 +9,10 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md"
     },
     {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
+    },
+    {
       "basename": "Simonson's Adventuring Party",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Weapons of Alaturmen",
       "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
-    },
-    {
-      "basename": "Prenotes Feb 14 25",
-      "path": "Prenotes Feb 14 25.md"
     }
   ],
   "omittedPaths": [],
