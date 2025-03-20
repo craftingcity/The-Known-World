@@ -68,11 +68,12 @@ In addition;
 You spent your life before adventure with one of the [[Blood Clans]] of the [[Illburn Forest]]. You knew that if you were not found useful, you would be found dead. You have been spilling blood, sweat, and tears since long before your adventure began.
 
 The Blood Clans were born in response to the growing power of the [[Bandit Lords]], creating an opposed federation. Since the fall of the Bandit Lords circa 060AF, however, the Blood Clans have largely dissolved the collectivism of their federation, and returned to infighting.
-	- The [[Hurraquk Clan]] and the [[Garqwak Clan]] are two opposed halves of one family, and are fighting a bloody war for the other's portion of their mother's territory.
-	- The [[Emorin Clan]] is a capitalist bureaucracy attempting to distance themselves from their 'warmongering cousins' of the other Clans by participating in the commerce of the larger world.
-	- The [[Scrivin Clan]] is an anarchistic arcanacracy who use their accursed magics to attack and annex anyone and everything. Well, they try.
-	- The [[Bulgpim Clan]] is 
-	- The [[Wheernat Clan]]
+
+- The [[Hurraquk Clan]] and the [[Garqwak Clan]] are two opposed halves of one family, and are fighting a bloody war for the other's portion of their mother's territory.
+- The [[Emorin Clan]] is a capitalist bureaucracy attempting to distance themselves from their 'warmongering cousins' of the other Clans by participating in the commerce of the larger world.
+- The [[Scrivin Clan]] is an anarchistic arcanacracy who use their accursed magics to attack and annex anyone and everything. Well, they try.
+- The [[Bulgpim Clan]] is an anonymous theocracy that worships a sect of deities and speaks a language that are both largely unknown.
+- The [[Wheernat Clan]] is a socialist clan of hunter-gatherers that is largely isolated from the other northern communities.
 
 You gain +2 to your *Constitution Score* and +1 to your *Wisdom Score*. You are proficient with the *Nature* and *Survival* Skills. You know [[Kantine (language)]] and your choice of one of the following;
 - [[Arthurian (language)]]
