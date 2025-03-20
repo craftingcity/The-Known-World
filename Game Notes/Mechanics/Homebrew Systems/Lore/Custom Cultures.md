@@ -4,11 +4,14 @@
 You spent your life before adventure with one of the many Druidic Circles of Alaturmen. You had little contact with the outside world during your time with the Druids, instead they would teach you their values and techniques in mysticism, survivalism, and secrecy. The location of your home must remain unknown, otherwise risking the life, limb, and unfound secrets of your home - you must be from nowhere and everywhere.
 
 You gain +2 to your *Wisdom Score* and +1 to your *Constitution Score*. You are proficient in the *Nature* and *Survival* skills. You know [[Druidic (language)]] and your choice of one of the following pairs;
-- [[Desertspeech (language)]] and [[Primordial (language)#Terrin]]
-	- The [[Druids of Terran]]
-- [[Fanyaquestan (language)]] and [[Primordial (language)#Ignin]]
+- [[Fanyaquestan (language)]] and [[Primordial (language)#Terrin]]
+	- The [[Druids of Terran]] are hidden somewhere within [[The Holyl'nds]], and are embroiled in the local conflicts between [[The Church of the White Flame]] and the smaller communities they attempt to supplant. The [[Druids of Terran]] somehow lost their Idol, *Terra*, circa 040AF, and have since made relocating it their top priority.
+- [[Desertspeech (language)]] and [[Primordial (language)#Ignin]]
+	- The [[Druids of Ignan]] are hidden somewhere within [[The Deserts of Tetrimoc]], and are dispersed through positions of power within the local factions. Some folks claim that the [[Druids of Ignan]] are wholly responsible for maintaining the stalemate between the three Noble Thieves groups.
 - [[Arthurian (language)]] and [[Primordial (language)#Aurin]]
+	- The [[Druids of Ventan]] 
 - [[Golopak (language)]] and [[Primordial (language)#Aquin]]
+	- The [[Druids of Aquan]]
 
 In addition, when you take fire, cold, or lightning damage you may spend and roll one of your hit die and gain the result as temporary hit points.
 
@@ -22,7 +25,7 @@ You gain +2 to your *Wisdom Score* and +1 to your *Intelligence Score*. You are 
 - [[Arthurian (language)]]
 - [[Golopak (language)]]
 
-In addition, you have legal identification - whatever that may be - of your membership to your Guild. This membership and your earned ability to call upon the full weight of the [[Guilds of Coalition]] could - if used properly - grant you nearly any request you would speak.
+In addition, you have some form of legal identification of your membership to your Guild. Your earned ability to call upon the full weight of the [[Guilds of Coalition]] could - if used properly - grant you nearly any request you would speak. Choose one of the following;
 - [[Guild of Adventurers]]
 	- The Guild of Adventurers is a barely-functionally organized enforcement organization that specializes in disrupting major international or interplanar threats *and* the lives of everyday people through the use of wanton destruction, chaos, and greed.
 	- Members of the Guild of Adventures are most often employed as mercenaries, guarding caravans or people as they moved around the world. 

@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "animan",
+                "query": "terra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -281,7 +281,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73cd7d39bc24df7e",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Prenotes Mar 11 25.md",
     "Prenotes Mar 18 25.md",
