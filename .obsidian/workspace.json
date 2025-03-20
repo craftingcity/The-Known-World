@@ -53,6 +53,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Simonson's Adventuring Party",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Simonson's Adventuring Party\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":42},\"to\":{\"line\":3,\"ch\":42}},\"scroll\":0}"
+                },
+                {
                   "title": "Noble Houses of Prosper",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Noble Houses of Prosper\"}",
@@ -63,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Simonson's Adventuring Party"
+              "title": "Blood Clans"
             }
           }
         ]
@@ -324,8 +330,9 @@
   },
   "active": "73cd7d39bc24df7e",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md",
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Joss a'Fen.md",
     "Prenotes Mar 11 25.md",
@@ -350,7 +357,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/j_ Chapter Twelve - Faction Deep Dive.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/i_ Chapter Eleven - Maintaining Kailkeep.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/h_ Chapter Ten - Level Nine; A Final Test.md",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/MAPS/WORLD/underdark.png",

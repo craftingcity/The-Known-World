@@ -53,7 +53,7 @@ The Kingdom of Prosper is a monarchic aristocracy, where each major city and its
 	- [[Gambleum]] is ruled by the [[Noble House a'Nyrk]] and named in honor of [[Big Buster]]'s proclivity to gamble away his share of an adventure.
 	- [[Magius]] is ruled by the [[Noble House a'Valim]] and named in honor of 'The War Wizard' [[Guraxlog]].
 	- [[Yerba]] is ruled by the [[Noble House a'LeQuinn]] and named in honor of [[Mateus Fyrren]]'s favorite comical exclamation.
-	- [[Moonlight]] is also ruled by the [[Noble House a'LeQuinn]]
+	- Additionally, the [[Order of Arthurian Saints]] and the collective standing army of [[Arthur's Knights]] are operated by the [[Noble House a'Haruuc]].
 
 You gain +2 to your *Constitution Score* and +1 to your *Charisma Score*. You are proficient in the *History* and *Insight* Skills. You know [[Arthurian (language)]] and your choice of one of the following;
 - [[Fanyaquestan (language)]]
@@ -66,6 +66,13 @@ In addition;
 
 ## Blood Clans
 You spent your life before adventure with one of the [[Blood Clans]] of the [[Illburn Forest]]. You knew that if you were not found useful, you would be found dead. You have been spilling blood, sweat, and tears since long before your adventure began.
+
+The Blood Clans were born in response to the growing power of the [[Bandit Lords]], creating an opposed federation. Since the fall of the Bandit Lords, the Blood Clans have largely dissolved the collectivism of their federation, and returned to infighting.
+	- The [[Hurraquk Clan]] and the [[Garqwak Clan]] are two opposed halves of one family, and are fighting a bloody war for the other's portion of their mother's territory.
+	- The [[Emorin Clan]] is a capitalist bureaucracy attempting to 
+	- The [[Scrivin Clan]]
+	- The [[Bulgpim Clan]]
+	- The [[Wheernat Clan]]
 
 You gain +2 to your *Constitution Score* and +1 to your *Wisdom Score*. You are proficient with the *Nature* and *Survival* Skills. You know [[Kantine (language)]] and your choice of one of the following;
 - [[Arthurian (language)]]

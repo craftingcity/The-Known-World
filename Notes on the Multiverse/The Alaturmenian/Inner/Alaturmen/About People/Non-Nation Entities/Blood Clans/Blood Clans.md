@@ -25,7 +25,7 @@ A elder-matriarchy of fierce militants. The [[Arthur Simonson|son]] of the [[Ame
 The [[Wakquk Twins]] have split their mother's claim into two; the [[Hurraquk Clan]] and the [[Garqwak Clan]]. Many consider this to be a petty disagreement between siblings gone too far - though those without their rule are happy to see disruption in their structures of power. 
 
 #### [[Emorin Clan]]
-A bureaucracy based community of permanent communities that feed large merchant bands. Many consider the Emorin to be the wisest of the Blood-Hobgoblin, as well as the most sharp-tongued.
+A bureaucracy based community of permanent communities that feed large merchant bands. Many consider the Emorin to be the wisest of the Blood-Clans, as well as the most sharp-tongued.
 
 #### [[Scrivin Clan]]
 A elder-patriarchy of fierce militants. Many bands of the [[Scrivin Clan]] make Soul-contracts for magical powers with powerful entities. Other Blood-Clans unite against the Clan Scrivin often, as it is in everyone's best interest that they stay in a position of low power.
@@ -34,7 +34,7 @@ A elder-patriarchy of fierce militants. Many bands of the [[Scrivin Clan]] make 
 A caste clan of permanent farming communities. Few people find communication with members of the Bulgpim clan fruitful, as they speak a powerfully distant dialect of Goblin to eachother. Few high-caste members of this clan speak a common language (usually [[Arthurian (language)]]) for the purposes of facilitating trade and festivity.
 
 #### [[Wheernat Clan]]
-A socialist clan of pseudo-nomadic hunter-gatherers. The people of the Wheernat clan are taught to move with swiftness and grace, as well as to maintain a focus on your immediate community before the community of the others. It is a rarity to meet with a member of the clan who does not wish to be speaking with you, specifically. 
+A socialist clan of pseudo-nomadic hunter-gatherers. The people of the Wheernat clan are taught to move with swiftness and grace, as well as to maintain a focus on your immediate community before the community of the others. It is a rarity to meet with a member of the clan who would be caught speaking with you. 
 
 ## Culture
 #### Heritage

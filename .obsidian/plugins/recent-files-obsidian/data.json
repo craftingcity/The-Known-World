@@ -5,6 +5,10 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
     {
+      "basename": "Blood Clans",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md"
+    },
+    {
       "basename": "Simonson's Adventuring Party",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Prenotes Feb 14 25",
       "path": "Prenotes Feb 14 25.md"
-    },
-    {
-      "basename": "alaturmen-hexmap-105",
-      "path": "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png"
     }
   ],
   "omittedPaths": [],
