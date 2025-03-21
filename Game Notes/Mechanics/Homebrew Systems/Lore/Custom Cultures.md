@@ -83,7 +83,7 @@ You gain +2 to your *Constitution Score* and +1 to your *Wisdom Score*. You are 
 In addition, you cannot be surprised while you are conscious.
 
 ## Actstow / Cenva Minyo
-You spent your life before adventure in the [[Actstow Hills]]. You may have lived in a home within a suspended forest village, or in the tunnels in the hills themselves. You have learned to navigate the social complexities of co-existing in-between these two vastly different and yet deeply entangled societies.
+You spent your life before adventure in the [[Actstow Hills]]. You may have lived in a home within the suspended forest village, or in the tunnels of the hills themselves. The [[Dwarven Kingdom Actstow]] took in a large population of refugees as the [[Great Fires]] began and continued, who would eventually go on to form [[Cenva Minyo]], a state whose sole purpose is the abolition of [[Its Greatness|The Great White Flame]] and it's [[The Church of the White Flame|White Church]].
 
 You gain +2 to your *Charisma Score* and +1 to your *Dexterity Score*. You are proficient with the *Perception* and *Persuasion* Skills. You know [[Actcenvan (language)]] and your choice of one of the following;
 - [[Fanyaquestan (language)]]
