@@ -4,6 +4,35 @@
     "type": "split",
     "children": [
       {
+        "id": "37d044157a3c8751",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfb7754d1364f78a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Campaign Rosters/ParaeducatorGame.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ParaeducatorGame"
+            }
+          }
+        ]
+      },
+      {
         "id": "5a531b2f47c63727",
         "type": "tabs",
         "children": [
@@ -28,29 +57,6 @@
               },
               "icon": "lucide-file",
               "title": "Prenotes Mar 21 25"
-            }
-          },
-          {
-            "id": "a67614dadf1fca04",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes Feb 14 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Feb 14 25"
             }
           }
         ]
@@ -306,11 +312,11 @@
   "active": "2a52f76d4b0d6bc3",
   "lastOpenFiles": [
     "Game Notes/Prenotes/'25/Prenotes Feb 14 25.md",
+    "Game Notes/Campaign Rosters/ParaeducatorGame.md",
     "Prenotes Mar 21 25.md",
     "Game Notes/Prenotes/'25/Prenotes Feb 01 25.md",
     "Game Notes/Prenotes/'25/Prenotes Feb 04 25.md",
     "Game Notes/Prenotes/'25/Prenotes Feb 11 25.md",
-    "Game Notes/Campaign Rosters/ParaeducatorGame.md",
     "Game Notes/Prenotes/'25/Prenotes Mar 18 25.md",
     "Game Notes/Prenotes/'25/Prenotes Mar 11 25.md",
     "Game Notes/Prenotes/'25/Prenotes Jan 28 25.md",
