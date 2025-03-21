@@ -32,13 +32,13 @@ aliases:
 Otto would eventually meet with Victor and Anna, the parents of Nikolai, and come to convince them to join in his research. Victor would come to develop a line of research regarding the extension of mortal life via transference into a viable non-mortal vessel (similarly to [[Kaliqeill, Lich of Orcus]]). As Otto reported on the team's research, he would come to find himself restricted and eventually imprisoned within the [[The Holy City of Kanielkiln|Kanielkiln]], where he continues to develop and experiment with the concept of Soul Transferance.
 
 ##### The White Flame Geneticists
-
+Within the White Church, a section of government sponsored research has gone towards the Ideology Correction Corp's Experimental Genetics Program located in [[Kohnstamm]].
 
 ### Faction Reputation
-(-) [[Northstone Family Trading Company]]
-(-) [[Guilds of Coalition]]
-(+) [[Slimknives]]
+( - )  : [[Northstone Family Trading Company]]
+( - )  : [[Guilds of Coalition]]
+( + ) : [[Slimknives]]
+
 ## Places
 ### Scenarios Changed
 ## Notes
-Wren is interested in finding out more about her past and maybe who specifically her parents are, and how they can be useful?
