@@ -11,8 +11,14 @@
             "id": "31640e42815aab09",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Magical Items of Note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Magical Items of Note\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":45},\"to\":{\"line\":16,\"ch\":45}},\"scroll\":0.14200082383341373}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -203,8 +209,7 @@
               "title": "The Planes of Existence"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9d944979ad9c9e85",
@@ -283,7 +288,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "banker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -484,15 +489,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76dfcf6ecdd4186c",
+  "active": "31640e42815aab09",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Game Notes/Campaign Rosters/ParaeducatorGame.md",
     "Game Notes/Prenotes/'25/Prenotes Feb 14 25.md",
     "Prenotes Mar 21 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Golden Ward.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Otto Malkovich.md",
-    "Game Notes/Campaign Rosters/ParaeducatorGame.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
     "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
@@ -511,7 +517,6 @@
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Joss a'Fen.md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
-    "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
