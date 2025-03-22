@@ -22,6 +22,6 @@ With steps in tandem, one in front of another, what do you all do?
 
 ### What happened?
 
-They did some shopping, and 22 put 7070sp into the Guild of Merchants Bank, and now has a GMB identification card.
+They did some shopping, and 22 put 7070sp into the Guild of Merchants Bank, and now has a GMB identification card. Next time, we're looking at [[Otto Malkovich]]'s place in [[Coalition City]].
 
 We leave our heroes on the date of ... AF, as they ...
