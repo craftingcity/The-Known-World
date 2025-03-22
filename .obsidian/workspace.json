@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37d044157a3c8751",
+        "id": "90e647a7a0f66cf3",
         "type": "tabs",
         "children": [
           {
-            "id": "cfb7754d1364f78a",
+            "id": "31640e42815aab09",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,68 +22,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Campaign Rosters/ParaeducatorGame.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ParaeducatorGame"
+              "title": "Custom Cultures"
             }
           }
         ]
-      },
-      {
-        "id": "5a531b2f47c63727",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2a52f76d4b0d6bc3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Mar 21 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Mar 21 25"
-            }
-          },
-          {
-            "id": "2485dfcfe927d61f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Church of the White Flame"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.51240158081055
+    "width": 322.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -333,10 +281,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfb7754d1364f78a",
+  "active": "31640e42815aab09",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
     "Game Notes/Campaign Rosters/ParaeducatorGame.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
     "Prenotes Mar 21 25.md",
     "Game Notes/Prenotes/'25/Prenotes Feb 14 25.md",
     "Game Notes/Prenotes/'25/Prenotes Feb 01 25.md",
