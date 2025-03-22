@@ -98,7 +98,7 @@ In addition, when you take the Help action to aid another creature’s ability c
 ## Church of the White Flame
 You have spent your life before adventure with [[The Church of the White Flame]]. You were watched by the Flame. Guided by it. [[Its Greatness]] is as real as any other God of Alaturmen. You served Its wishes, and the wishes of Its champions, and in return, you were granted a decent life. Since the turn of the century, your society has significantly recovered from the [[Great Fires]] and begun to stretch it's reach eastward - war has come to the north.
 
-> [[Kohnstamm]]
+> [[Kohnstamm]] is the western-most city in [[The Holyl'nds]], and the largest industrial center of [[The Church of the White Flame]].
 > [[Odaya]]
 > [[Yagil]]
 > [[The Holy City of Kanielkiln]]
