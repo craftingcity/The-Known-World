@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "ParaeducatorGame",
+      "path": "Game Notes/Campaign Rosters/ParaeducatorGame.md"
+    },
+    {
       "basename": "Prenotes Mar 21 25",
       "path": "Prenotes Mar 21 25.md"
     },
     {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
+      "basename": "Arthur's Prairie",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
     },
     {
-      "basename": "ParaeducatorGame",
-      "path": "Game Notes/Campaign Rosters/ParaeducatorGame.md"
+      "basename": "Otto Malkovich",
+      "path": "Otto Malkovich.md"
+    },
+    {
+      "basename": "The Planes of Existence",
+      "path": "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
     {
       "basename": "The Church of the White Flame",
@@ -187,18 +199,6 @@
     {
       "basename": "Custom Class - Blood Hunter",
       "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md"
-    },
-    {
-      "basename": "Campaigns",
-      "path": "Game Notes/Campaigns.md"
-    },
-    {
-      "basename": "Coalition City",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
-    },
-    {
-      "basename": "Druids of Animan",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Animan.md"
     }
   ],
   "omittedPaths": [],
