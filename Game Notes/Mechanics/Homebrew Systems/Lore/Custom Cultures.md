@@ -5,13 +5,13 @@ You spent your life before adventure with one of the many Druidic Circles of Ala
 
 You gain +2 to your *Wisdom Score* and +1 to your *Constitution Score*. You are proficient in the *Nature* and *Survival* skills. You know [[Druidic (language)]] and your choice of one of the following pairs;
 - [[Fanyaquestan (language)]] and [[Primordial (language)#Terrin]]
-	- The [[Druids of Terran]] are hidden somewhere within [[The Holyl'nds]], and are embroiled in the local conflicts between [[The Church of the White Flame]] and the smaller communities they attempt to supplant. The [[Druids of Terran]] somehow lost their Idol, *Terra*, circa 040AF, and have since made relocating it their top priority.
+	>The [[Druids of Terran]] are hidden somewhere within [[The Holyl'nds]], and are embroiled in the local conflicts between [[The Church of the White Flame]] and the smaller communities they attempt to supplant. The [[Druids of Terran]] somehow lost their Idol, *Terra*, circa 040AF, and have since made relocating it their top priority.
 - [[Desertspeech (language)]] and [[Primordial (language)#Ignin]]
-	- The [[Druids of Ignan]] are hidden somewhere within [[The Deserts of Tetrimoc]], and are dispersed through positions of power within the local factions. Some folks claim that the [[Druids of Ignan]] are wholly responsible for maintaining the stalemate between the three Noble Thieves groups.
+	> The [[Druids of Ignan]] are hidden somewhere within [[The Deserts of Tetrimoc]], and are dispersed through positions of power within the local factions. Some folks claim that the [[Druids of Ignan]] are wholly responsible for maintaining the stalemate between the three Noble Thieves groups.
 - [[Arthurian (language)]] and [[Primordial (language)#Aurin]]
-	- The [[Druids of Ventan]] are hidden somewhere within [[The Kingdom of Prosper]], and act in favor of the massive farming population of the Kingdom by affecting the local weather patterns - holding frost at bay or elongating a spring's bounty.
+	> The [[Druids of Ventan]] are hidden somewhere within [[The Kingdom of Prosper]], and act in favor of the massive farming population of the Kingdom by affecting the local weather patterns - holding frost at bay or elongating a spring's bounty.
 - [[Golopak (language)]] and [[Primordial (language)#Aquin]]
-	- The [[Druids of Aquan]] are hidden somewhere within [[The Democratic Combine of Peoples]], and traditionally ignore the political ongoings of their homeland, instead leading seminars on culture and communal unity where they preach the power of peacetime.
+	> The [[Druids of Aquan]] are hidden somewhere within [[The Democratic Combine of Peoples]], and traditionally ignore the political ongoings of their homeland, instead leading seminars on culture and communal unity where they preach the power of peacetime.
 
 In addition, when you take fire, cold, or lightning damage you may spend and roll one of your hit die and gain the result as temporary hit points.
 
@@ -27,34 +27,33 @@ You gain +2 to your *Wisdom Score* and +1 to your *Intelligence Score*. You are 
 
 In addition, you have some form of legal identification of your membership to your Guild. Your earned ability to call upon the full weight of the [[Guilds of Coalition]] could - if used properly - grant you nearly any request you would speak. Choose one of the following;
 - [[Guild of Adventurers]]
-	- The Guild of Adventurers is a barely-functionally organized enforcement organization that specializes in disrupting major international or interplanar threats *and* the lives of everyday people through the use of wanton destruction, chaos, and greed.
-	- Members of the Guild of Adventures are most often employed as mercenaries, guarding caravans or people as they moved around the world. 
+	> The Guild of Adventurers is a barely-functionally organized enforcement organization that specializes in disrupting major international or interplanar threats *and* the lives of everyday people through the use of wanton destruction, chaos, and greed.
+	> Members of the Guild of Adventures are most often employed as mercenaries, guarding caravans or people as they moved around the world. 
 - [[Guild of Merchants]]
-	- The Guild of Merchants is a major infrastructure and logistics syndicate. Through price manipulation and inter-organization communication, things are made and moved to where they need to be.
-	- Members of the Guild of Merchants are most commonly employed as accountants or drivers dealing with consistent, small-load deliveries between major cities or from a major city to its dependants.
-	- The [[Guild of Merchants#Thieves Guild|Thieves Guild]] is a silent subdivision of the [[Guild of Merchants]] that specializes in the less-than-publicly-acceptable efforts of monopolizing peace, such as burglary, murder, espionage, and threat enforcement or denial.
+	> The Guild of Merchants is a major infrastructure and logistics syndicate. Through price manipulation and inter-organization communication, things are made and moved to where they need to be.
+	> Members of the Guild of Merchants are most commonly employed as accountants or drivers dealing with consistent, small-load deliveries between major cities or from a major city to its dependants.
+	> The [[Guild of Merchants#Thieves Guild|Thieves Guild]] is a silent subdivision of the [[Guild of Merchants]] that specializes in the less-than-publicly-acceptable efforts of monopolizing peace, such as burglary, murder, espionage, and threat enforcement or denial.
 - [[Ranger's Guild]]
-	- The Ranger's Guild is a tight-knit network of people defending people. The main responsibility for any Ranger is the border of the Wildlands, preventing people from wandering too far and threats from wandering too close.
-	- Most members of the Guild of Rangers are employed as small-town wardens, dealing with local pests or provisional issues - your most important duty, however, is warning the ignorant of the danger presented by the Wildlands.
+	> The Ranger's Guild is a tight-knit network of people defending people. The main responsibility for any Ranger is the border of the Wildlands, preventing people from wandering too far and threats from wandering too close.
+	> Most members of the Guild of Rangers are employed as small-town wardens, dealing with local pests or provisional issues - your most important duty, however, is warning the ignorant of the danger presented by the Wildlands.
 - [[Guild of Crafters]]
-	- The Guild of Crafters are responsible for the Coalition's major constructions and their bank of skill-craft information. Many of the Plane's most common technologies are kept well secret by these specialized Craftsfolk.
-	- Most members of the Guild of Crafters are genuine artisans, having specialized in a given craft or trade and excelled enough in that field to be hired into the Guilds.
+	> The Guild of Crafters are responsible for the Coalition's major constructions and their bank of skill-craft information. Many of the Plane's most common technologies are kept well secret by these specialized Craftsfolk.
+	> Most members of the Guild of Crafters are genuine artisans, having specialized in a given craft or trade and excelled enough in that field to be hired into the Guilds.
 - [[Guild of Wizards]]
-	- The Guild of Wizards maintains the largest collections of public knowledge avaliable to the world, and acts as the collective body responsible for the major decisions made by the Guilds at large. In addition to this, the Guild of Wizards works to investigate, list, or eliminate any and all spellcasters, magical items, or anomalies and the knowledge, materials, and effects surrounding them.
-	- Members of the Guild of Wizards are most commonly employed as accountants or researchers, dealing with magical items or processes and the overwhelming bureaucratic process of recording any and all information regarding the past, present, and future of the subject.
+	> The Guild of Wizards maintains the largest collections of public knowledge avaliable to the world, and acts as the collective body responsible for the major decisions made by the Guilds at large. In addition to this, the Guild of Wizards works to investigate, list, or eliminate any and all spellcasters, magical items, or anomalies and the knowledge, materials, and effects surrounding them.
+	> Members of the Guild of Wizards are most commonly employed as accountants or researchers, dealing with magical items or processes and the overwhelming bureaucratic process of recording any and all information regarding the past, present, and future of the subject.
 
-
-# North Western
+# North Eastern
 ## Kingdom of Prosper
 You spent your life before adventure in [[The Kingdom of Prosper]]. You have personally met with the [[Arthur Simonson|The Great Adventurer King]]. You spoke with him about history, honesty, and the moral right to a happy, educated, and full life. Most of the population of Prosper work the hundreds of fields of rye, squash, and beans that feed their neighbors and large military reserve - the guardsfolk, the Knights, and the engineers that keep Prosper on the cutting edge of military might - very useful, now that war has come to the north.
 
 The Kingdom of Prosper is a monarchic aristocracy, where each major city and its surrounding region is operated and controlled by one of the [[Noble Houses of Prosper]], who all submit to the unageing [[Arthur Simonson|King Of Prosper]].
 
-- [[Janesland]] is ruled by the [[Noble House a'Fen]] and named in honor of 'The Righteous Warrior' [[Janice Austra]].
-- [[Gambleum]] is ruled by the [[Noble House a'Nyrk]] and named in honor of [[Big Buster]]'s proclivity to gamble away his share of an adventure.
-- [[Magius]] is ruled by the [[Noble House a'Valim]] and named in honor of 'The War Wizard' [[Guraxlog]].
-- [[Yerba]] is ruled by the [[Noble House a'LeQuinn]] and named in honor of [[Mateus Fyrren]]'s favorite comical exclamation.
-- Additionally, the [[Order of Arthurian Saints]] and the collective standing army of [[Arthur's Knights]] are operated by the [[Noble House a'Haruuc]].
+> [[Janesland]] is ruled by the [[Noble House a'Fen]] and named in honor of 'The Righteous Warrior' [[Janice Austra]].
+> [[Gambleum]] is ruled by the [[Noble House a'Nyrk]] and named in honor of [[Big Buster]]'s proclivity to gamble away his share of an adventure.
+> [[Magius]] is ruled by the [[Noble House a'Valim]] and named in honor of 'The War Wizard' [[Guraxlog]].
+> [[Yerba]] is ruled by the [[Noble House a'LeQuinn]] and named in honor of [[Mateus Fyrren]]'s favorite comical exclamation.
+> Additionally, the [[Order of Arthurian Saints]] and the collective standing army of [[Arthur's Knights]] are operated by the [[Noble House a'Haruuc]].
 
 You gain +2 to your *Constitution Score* and +1 to your *Charisma Score*. You are proficient in the *History* and *Insight* Skills. You know [[Arthurian (language)]] and your choice of one of the following;
 - [[Fanyaquestan (language)]]
@@ -70,11 +69,11 @@ You spent your life before adventure with one of the [[Blood Clans]] of the [[Il
 
 The Blood Clans were born in response to the growing power of the [[Bandit Lords]], creating an opposed federation. Since the fall of the Bandit Lords circa 060AF, however, the Blood Clans have largely dissolved the collectivism of their federation, and returned to infighting.
 
-- The [[Hurraquk Clan]] and the [[Garqwak Clan]] are two opposed halves of one family, and are fighting a bloody war for the other's portion of their mother's territory.
-- The [[Emorin Clan]] is a capitalist bureaucracy attempting to distance themselves from their 'warmongering cousins' of the other Clans by participating in the commerce of the larger world.
-- The [[Scrivin Clan]] is an anarchistic arcanacracy who use their accursed magics to attack and annex anyone and everything. Well, they try.
-- The [[Bulgpim Clan]] is an anonymous theocracy that worships a sect of deities and speaks a language that are both largely unknown.
-- The [[Wheernat Clan]] is a socialist clan of hunter-gatherers that is largely isolated from the other northern communities, and typically avoid interacting with others unnecessarily.
+> The [[Hurraquk Clan]] and the [[Garqwak Clan]] are two opposed halves of one family, and are fighting a bloody war for the other's portion of their mother's territory.
+> The [[Emorin Clan]] is a capitalist bureaucracy attempting to distance themselves from their 'warmongering cousins' of the other Clans by participating in the commerce of the larger world.
+> The [[Scrivin Clan]] is an anarchistic arcanacracy who use their accursed magics to attack and annex anyone and everything. Well, they try.
+> The [[Bulgpim Clan]] is an anonymous theocracy that worships a sect of deities and speaks a language that are both largely unknown.
+> The [[Wheernat Clan]] is a socialist clan of hunter-gatherers that is largely isolated from the other northern communities, and typically avoid interacting with others unnecessarily.
 
 You gain +2 to your *Constitution Score* and +1 to your *Wisdom Score*. You are proficient with the *Nature* and *Survival* Skills. You know [[Kantine (language)]] and your choice of one of the following;
 - [[Arthurian (language)]]
@@ -84,9 +83,9 @@ You gain +2 to your *Constitution Score* and +1 to your *Wisdom Score*. You are 
 In addition, you cannot be surprised while you are conscious.
 
 ## Actstow / Cenva Minyo
-You spent your life before adventure in the [[Actstow Hills]]. You may have lived in a home within the suspended forest village, or in the tunnels of the hills themselves. The [[Dwarven Kingdom Actstow]] - a growing industrial powerhouse - would go on to take in a large population of refugees as the [[Great Fires]] began and continued, who would eventually go on to form [[Cenva Minyo]], a state whose sole purpose is the abolition of [[Its Greatness|The Great White Flame]] and it's [[The Church of the White Flame|White Church]]. Along the way, [[Cenva Minyo]] has amassed a significant collection of non-public information.
+You spent your life before adventure in the [[Actstow Hills]]. You may have lived in a home within the suspended forest village, or in the tunnels of the hills themselves. The [[Dwarven Kingdom Actstow]] - a growing industrial powerhouse - would take in a large population of refugees as the [[Great Fires]] began and continued. These refugees, largely of Winter Elven heritage, who would eventually go on to form [[Cenva Minyo]], a state whose sole purpose is the abolition of [[Its Greatness|The Great White Flame]] and it's [[The Church of the White Flame|White Church]]. 
 
-
+The [[Dwarven Kingdom Actstow]] and [[Cenva Minyo]] have grown into a mutually beneficial co-habitual relationship that has led the rest of the world to regard them both as the paired half of the other. Together, they support [[The Kingdom of Prosper]] in their efforts against the [[Blood Clans]] and the [[The Church of the White Flame|White Church]].
 
 You gain +2 to your *Charisma Score* and +1 to your *Dexterity Score*. You are proficient with the *Perception* and *Persuasion* Skills. You know [[Actcenvan (language)]] and your choice of one of the following;
 - [[Fanyaquestan (language)]]
@@ -95,9 +94,15 @@ You gain +2 to your *Charisma Score* and +1 to your *Dexterity Score*. You are p
 
 In addition, when you take the Help action to aid another creature’s ability check, you can make a DC 16 Intelligence (History) check. On a success, that creature’s check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you’re saying.
 
-# North Eastern
+# North Western
 ## Church of the White Flame
 You have spent your life before adventure with [[The Church of the White Flame]]. You were watched by the Flame. Guided by it. [[Its Greatness]] is as real as any other God of Alaturmen. You served Its wishes, and the wishes of Its champions, and in return, you were granted a decent life. Since the turn of the century, your society has significantly recovered from the [[Great Fires]] and begun to stretch it's reach eastward - war has come to the north.
+
+> [[Kohnstamm]]
+> [[Odaya]]
+> [[Yagil]]
+> [[The Holy City of Kanielkiln]]
+> [[Yagil]]
 
 You gain +2 to your *Charisma Score* and +1 to your *Constitution Score*. You are proficient in the *History* and *Intimidation* Skills. You know [[Fanyaquestan (language)]] and your choice of one of the following;
 - [[Montal (language)]]
@@ -259,6 +264,7 @@ You gain +2 to your *Charisma Score* and +1 to your *Intelligence Score*. You ar
 - [[Kantine (language)]]
 - [[Montal (language)]]
 
+In addition, ...
 
 ## Baronless
 You have spent your life before adventure wandering the Combine; you never able to establish a stable relationship with a Baron, and thus you were never safe. First victim of any racket, first removed from a state of housing, first blamed for mishaps unexplained.

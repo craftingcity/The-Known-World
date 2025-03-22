@@ -4,46 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90e647a7a0f66cf3",
+        "id": "ff629512bc69de13",
         "type": "tabs",
         "children": [
           {
-            "id": "31640e42815aab09",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Magical Items of Note",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Magical Items of Note\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":45},\"to\":{\"line\":16,\"ch\":45}},\"scroll\":0.14200082383341373}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Custom Cultures",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Custom Cultures\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":88,\"ch\":0},\"to\":{\"line\":88,\"ch\":0}},\"scroll\":78.25881208625619}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Mar 21 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Mar 21 25"
-            }
-          },
-          {
-            "id": "76dfcf6ecdd4186c",
+            "id": "3b1bb43464e0ed9f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -57,166 +22,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes Feb 14 25.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Feb 14 25"
-            }
-          },
-          {
-            "id": "7fc52c2440f9635f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Otto Malkovich",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Otto Malkovich.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Otto Malkovich\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Campaign Rosters/ParaeducatorGame.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ParaeducatorGame"
-            }
-          },
-          {
-            "id": "53225bff410927b8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Otto Malkovich.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Otto Malkovich"
-            }
-          },
-          {
-            "id": "89d771f91c3da1ca",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Coalition City"
-            }
-          },
-          {
-            "id": "402da7968478f173",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Golden Ward.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Golden Ward"
-            }
-          },
-          {
-            "id": "a07dcaaa44bb7e90",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Arthur's Prairie"
-            }
-          },
-          {
-            "id": "ca853dc34f3cf1bf",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Planes of Existence"
+              "title": "Custom Cultures"
             }
           }
         ]
       },
       {
-        "id": "9d944979ad9c9e85",
+        "id": "1fbc9fa114a88724",
         "type": "tabs",
         "children": [
           {
-            "id": "044dd2ddd76080d9",
+            "id": "5dac1c5558513d5e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -230,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Gear..."
+              "title": "Northwestern Central"
             }
           }
         ]
@@ -489,19 +310,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31640e42815aab09",
+  "active": "3b1bb43464e0ed9f",
   "lastOpenFiles": [
-    "Game Notes/Campaign Rosters/ParaeducatorGame.md",
-    "Game Notes/Prenotes/'25/Prenotes Feb 14 25.md",
-    "Prenotes Mar 21 25.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
+    "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Golden Ward.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Otto Malkovich.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md",
-    "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+    "Game Notes/Campaign Rosters/ParaeducatorGame.md",
+    "Game Notes/Prenotes/'25/Prenotes Feb 14 25.md",
+    "Prenotes Mar 21 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
     "Game Notes/Prenotes/'25/Prenotes Feb 01 25.md",
     "Game Notes/Prenotes/'25/Prenotes Feb 04 25.md",
@@ -515,8 +338,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md",
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Joss a'Fen.md",
-    "A Grand Notepad.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
