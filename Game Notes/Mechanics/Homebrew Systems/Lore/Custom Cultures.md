@@ -46,14 +46,15 @@ In addition, you have some form of legal identification of your membership to yo
 
 # North Western
 ## Kingdom of Prosper
-You spent your life before adventure in [[The Kingdom of Prosper]]. You have personally met with the [[Arthur Simonson|The Great Adventurer King]]. You spoke with him about history, honesty, and the moral right to a happy, educated, and full life. Most of the population of Prosper work the hundreds of fields of rye, squash, and beans that feed their neighbors and large military reserve - the guardsfolk, the Knights, and the engineers that keep Prosper on the cutting edge of military might.
+You spent your life before adventure in [[The Kingdom of Prosper]]. You have personally met with the [[Arthur Simonson|The Great Adventurer King]]. You spoke with him about history, honesty, and the moral right to a happy, educated, and full life. Most of the population of Prosper work the hundreds of fields of rye, squash, and beans that feed their neighbors and large military reserve - the guardsfolk, the Knights, and the engineers that keep Prosper on the cutting edge of military might - very useful, now that war has come to the north.
 
 The Kingdom of Prosper is a monarchic aristocracy, where each major city and its surrounding region is operated and controlled by one of the [[Noble Houses of Prosper]], who all submit to the unageing [[Arthur Simonson|King Of Prosper]].
-	- [[Janesland]] is ruled by the [[Noble House a'Fen]] and named in honor of 'The Righteous Warrior' [[Janice Austra]].
-	- [[Gambleum]] is ruled by the [[Noble House a'Nyrk]] and named in honor of [[Big Buster]]'s proclivity to gamble away his share of an adventure.
-	- [[Magius]] is ruled by the [[Noble House a'Valim]] and named in honor of 'The War Wizard' [[Guraxlog]].
-	- [[Yerba]] is ruled by the [[Noble House a'LeQuinn]] and named in honor of [[Mateus Fyrren]]'s favorite comical exclamation.
-	- Additionally, the [[Order of Arthurian Saints]] and the collective standing army of [[Arthur's Knights]] are operated by the [[Noble House a'Haruuc]].
+
+- [[Janesland]] is ruled by the [[Noble House a'Fen]] and named in honor of 'The Righteous Warrior' [[Janice Austra]].
+- [[Gambleum]] is ruled by the [[Noble House a'Nyrk]] and named in honor of [[Big Buster]]'s proclivity to gamble away his share of an adventure.
+- [[Magius]] is ruled by the [[Noble House a'Valim]] and named in honor of 'The War Wizard' [[Guraxlog]].
+- [[Yerba]] is ruled by the [[Noble House a'LeQuinn]] and named in honor of [[Mateus Fyrren]]'s favorite comical exclamation.
+- Additionally, the [[Order of Arthurian Saints]] and the collective standing army of [[Arthur's Knights]] are operated by the [[Noble House a'Haruuc]].
 
 You gain +2 to your *Constitution Score* and +1 to your *Charisma Score*. You are proficient in the *History* and *Insight* Skills. You know [[Arthurian (language)]] and your choice of one of the following;
 - [[Fanyaquestan (language)]]
@@ -85,6 +86,8 @@ In addition, you cannot be surprised while you are conscious.
 ## Actstow / Cenva Minyo
 You spent your life before adventure in the [[Actstow Hills]]. You may have lived in a home within the suspended forest village, or in the tunnels of the hills themselves. The [[Dwarven Kingdom Actstow]] - a growing industrial powerhouse - would go on to take in a large population of refugees as the [[Great Fires]] began and continued, who would eventually go on to form [[Cenva Minyo]], a state whose sole purpose is the abolition of [[Its Greatness|The Great White Flame]] and it's [[The Church of the White Flame|White Church]]. Along the way, [[Cenva Minyo]] has amassed a significant collection of non-public information.
 
+
+
 You gain +2 to your *Charisma Score* and +1 to your *Dexterity Score*. You are proficient with the *Perception* and *Persuasion* Skills. You know [[Actcenvan (language)]] and your choice of one of the following;
 - [[Fanyaquestan (language)]]
 - [[Kantine (language)]]
@@ -94,17 +97,17 @@ In addition, when you take the Help action to aid another creature’s ability c
 
 # North Eastern
 ## Church of the White Flame
-You have spent your life before adventure with [[The Church of the White Flame]]. You were watched by the Flame. Guided by it. [[Its Greatness]] is as real as any other God of Alaturmen. You served Its wishes, and the wishes of Its champions, and in return, you were granted a decent life. Since the turn of the century, your society has significantly recovered from the [[Great Fires]] and begun to 
+You have spent your life before adventure with [[The Church of the White Flame]]. You were watched by the Flame. Guided by it. [[Its Greatness]] is as real as any other God of Alaturmen. You served Its wishes, and the wishes of Its champions, and in return, you were granted a decent life. Since the turn of the century, your society has significantly recovered from the [[Great Fires]] and begun to stretch it's reach eastward - war has come to the north.
 
 You gain +2 to your *Charisma Score* and +1 to your *Constitution Score*. You are proficient in the *History* and *Intimidation* Skills. You know [[Fanyaquestan (language)]] and your choice of one of the following;
 - [[Montal (language)]]
 - [[Actcenvan (language)]]
 - [[Arthurian (language)]]
 
-In addition, while you are conscious and within 15 feet of a mote of [[Its Greatness|White Flame]], you regain 1d4 hitpoints at the beginning of your turn.
+In addition, while you are conscious and within 15 feet of a source of [[Its Greatness|White Flame]], you regain 1d4 hitpoints at the beginning of your turn.
 
 ## Waster Nomad
-You have spent your life before adventure without [[The Church of the White Flame]]. Servants of the [[Its Greatness|White Flame]] would hunt you if you would make your way too close to civilization. If you were lucky, you joined a band of like minds, and lived in squalor and the safety of numbers.
+You have spent your life before adventure without [[The Church of the White Flame]]. Servants of the [[Its Greatness|White Flame]] hunt you when you make your way too close to 'civilization'. If you were lucky, you joined a band of like minds, and lived in squalor and the safety of numbers. 
 
 You gain +2 to your *Dexterity Score* and +1 to your *Constitution Score*. You are proficient in the *Survival* and *Perception* Skills. You know [[Fanyaquestan (language)]] and your choice of one of the following;
 - [[Montal (language)]]
