@@ -83,9 +83,7 @@ You gain +2 to your *Constitution Score* and +1 to your *Wisdom Score*. You are 
 In addition, you cannot be surprised while you are conscious.
 
 ## Actstow / Cenva Minyo
-You spent your life before adventure in the [[Actstow Hills]]. You may have lived in a home within the suspended forest village, or in the tunnels of the hills themselves. The [[Dwarven Kingdom Actstow]] - a growing industrial powerhouse - would take in a large population of refugees as the [[Great Fires]] began and continued. These refugees, largely of Winter Elven heritage, who would eventually go on to form [[Cenva Minyo]], a state whose sole purpose is the abolition of [[Its Greatness|The Great White Flame]] and it's [[The Church of the White Flame|White Church]]. 
-
-The [[Dwarven Kingdom Actstow]] and [[Cenva Minyo]] have grown into a mutually beneficial co-habitual relationship that has led the rest of the world to regard them both as the paired half of the other. Together, they support [[The Kingdom of Prosper]] in their efforts against the [[Blood Clans]] and the [[The Church of the White Flame|White Church]].
+You spent your life before adventure in the [[Actstow Hills]]. You may have lived in a home within the suspended forest village, or in the tunnels of the hills themselves. The [[Dwarven Kingdom Actstow]] - a growing industrial powerhouse - would take in a large population of refugees as the [[Great Fires]] began and continued. These refugees, largely of Winter Elven heritage, who would eventually go on to form [[Cenva Minyo]], a state whose sole purpose is the abolition of [[Its Greatness|The Great White Flame]] and it's [[The Church of the White Flame|White Church]]. The [[Dwarven Kingdom Actstow]] and [[Cenva Minyo]] have grown into a mutually beneficial co-habitual relationship that has led the rest of the world to regard them both as one paired half of the other. Together, they support [[The Kingdom of Prosper]] in their efforts against the [[Blood Clans]] and the [[The Church of the White Flame|White Church]].
 
 You gain +2 to your *Charisma Score* and +1 to your *Dexterity Score*. You are proficient with the *Perception* and *Persuasion* Skills. You know [[Actcenvan (language)]] and your choice of one of the following;
 - [[Fanyaquestan (language)]]
@@ -98,11 +96,11 @@ In addition, when you take the Help action to aid another creature’s ability c
 ## Church of the White Flame
 You have spent your life before adventure with [[The Church of the White Flame]]. You were watched by the Flame. Guided by it. [[Its Greatness]] is as real as any other God of Alaturmen. You served Its wishes, and the wishes of Its champions, and in return, you were granted a decent life. Since the turn of the century, your society has significantly recovered from the [[Great Fires]] and begun to stretch it's reach eastward - war has come to the north.
 
-> [[Kohnstamm]] is the western-most city in [[The Holyl'nds]], and the largest industrial center of [[The Church of the White Flame]].
-> [[Odaya]]
-> [[Yagil]]
-> [[The Holy City of Kanielkiln]]
-> [[Yagil]]
+> [[Kohnstamm]] is the western-most city in [[The Holyl'nds]], and the largest industrial center of [[The Church of the White Flame]]. As a product of their environment, the few people who leave [[The Holyl'nds]] are typically from here.
+> [[Odaya]] is the northern-most city in [[The Holyl'nds]]
+> [[Yagil]] is the eastern-most city in [[The Holyl'nds]], 
+> [[The Holy City of Kanielkiln]] is the capital city of [[The Church of the White Flame]]. Those who are born here are the few capable of becoming Firstchurch, a high honor in [[The Holyl'nds]]. Honorable too is the 
+> [[Wychway]] is the southern-most city in [[The Holyl'nds]]
 
 You gain +2 to your *Charisma Score* and +1 to your *Constitution Score*. You are proficient in the *History* and *Intimidation* Skills. You know [[Fanyaquestan (language)]] and your choice of one of the following;
 - [[Montal (language)]]

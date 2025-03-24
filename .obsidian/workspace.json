@@ -29,32 +29,8 @@
               "icon": "lucide-file",
               "title": "Custom Cultures"
             }
-          },
-          {
-            "id": "4145853643b52564",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,10 +281,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4145853643b52564",
+  "active": "73cd7d39bc24df7e",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "conflict-files-obsidian-git.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md",
     "Prenotes Mar 11 25.md",
     "Prenotes Mar 18 25.md",
