@@ -5,6 +5,86 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
     {
+      "basename": "Northwestern Central",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md"
+    },
+    {
+      "basename": "Northeastern Central",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md"
+    },
+    {
+      "basename": "The Planes of Existence",
+      "path": "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md"
+    },
+    {
+      "basename": "Arthur's Prairie",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Arthur's Prairie.md"
+    },
+    {
+      "basename": "Golden Ward",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Golden Ward.md"
+    },
+    {
+      "basename": "Coalition City",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
+    },
+    {
+      "basename": "Otto Malkovich",
+      "path": "Otto Malkovich.md"
+    },
+    {
+      "basename": "ParaeducatorGame",
+      "path": "Game Notes/Campaign Rosters/ParaeducatorGame.md"
+    },
+    {
+      "basename": "Prenotes Feb 14 25",
+      "path": "Game Notes/Prenotes/'25/Prenotes Feb 14 25.md"
+    },
+    {
+      "basename": "Prenotes Mar 21 25",
+      "path": "Prenotes Mar 21 25.md"
+    },
+    {
+      "basename": "The Gear...",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
+    },
+    {
+      "basename": "Magical Items of Note",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
+    },
+    {
+      "basename": "The Church of the White Flame",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md"
+    },
+    {
+      "basename": "Prenotes Feb 01 25",
+      "path": "Game Notes/Prenotes/'25/Prenotes Feb 01 25.md"
+    },
+    {
+      "basename": "Prenotes Feb 04 25",
+      "path": "Game Notes/Prenotes/'25/Prenotes Feb 04 25.md"
+    },
+    {
+      "basename": "Prenotes Feb 11 25",
+      "path": "Game Notes/Prenotes/'25/Prenotes Feb 11 25.md"
+    },
+    {
+      "basename": "Prenotes Mar 18 25",
+      "path": "Game Notes/Prenotes/'25/Prenotes Mar 18 25.md"
+    },
+    {
+      "basename": "Prenotes Mar 11 25",
+      "path": "Game Notes/Prenotes/'25/Prenotes Mar 11 25.md"
+    },
+    {
+      "basename": "Prenotes Jan 28 25",
+      "path": "Game Notes/Prenotes/'25/Prenotes Jan 28 25.md"
+    },
+    {
+      "basename": "Prenotes feb 8 2025",
+      "path": "Game Notes/Prenotes/'25/Prenotes feb 8 2025.md"
+    },
+    {
       "basename": "Blood Clans",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md"
     },
@@ -25,24 +105,12 @@
       "path": "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Joss a'Fen.md"
     },
     {
-      "basename": "Prenotes Mar 11 25",
-      "path": "Prenotes Mar 11 25.md"
-    },
-    {
-      "basename": "Prenotes Mar 18 25",
-      "path": "Prenotes Mar 18 25.md"
-    },
-    {
       "basename": "Forgehome",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md"
     },
     {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
-    },
-    {
-      "basename": "Prenotes Feb 11 25",
-      "path": "Prenotes Feb 11 25.md"
     },
     {
       "basename": "Sarahouse Deakred Game",
@@ -93,10 +161,6 @@
       "path": "Junie's Characters/Dante Fukili.md"
     },
     {
-      "basename": "The Gear...",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
-    },
-    {
       "basename": "Kailkeep",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "d_ Chapter Five - Level Four; Four Corners",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md"
-    },
-    {
-      "basename": "c_ Chapter Four - Level Three; Sinker",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/c_ Chapter Four - Level Three; Sinker.md"
-    },
-    {
-      "basename": "b_ Chapter Three - Level Two; Line",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/b_ Chapter Three - Level Two; Line.md"
-    },
-    {
-      "basename": "a_ Chapter Two - Level One; Hook",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md"
-    },
-    {
-      "basename": "a_ Chapter One - Introduction",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md"
-    },
-    {
-      "basename": "Custom Class - Blood Hunter",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md"
-    },
-    {
-      "basename": "Campaigns",
-      "path": "Game Notes/Campaigns.md"
-    },
-    {
-      "basename": "Coalition City",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
-    },
-    {
-      "basename": "Druids of Animan",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Animan.md"
-    },
-    {
-      "basename": "Druids of Aquan",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Aquan.md"
-    },
-    {
-      "basename": "Druids of Ignan",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ignan.md"
-    },
-    {
-      "basename": "Druids of Ventan",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ventan.md"
-    },
-    {
-      "basename": "Druids of Terran",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Terran.md"
-    },
-    {
-      "basename": "World Features",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md"
-    },
-    {
-      "basename": "Things Aren't Right Here...",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md"
-    },
-    {
-      "basename": "The Artifacts...",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md"
-    },
-    {
-      "basename": "Weapons of Alaturmen",
-      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
     }
   ],
   "omittedPaths": [],

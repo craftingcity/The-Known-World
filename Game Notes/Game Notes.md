@@ -13,7 +13,7 @@ connect to [[Notes on the Multiverse]]
 - [[GAAKA 1 Key]]
 - **[[Mechanics]]**
 - **[[NPCs]]**
-- **[[Game Notes/Prenotes/Prenotes]]**
+- **[[Prenotes]]**
 - [[The Bucket List]]
 
 %% End Waypoint %%
