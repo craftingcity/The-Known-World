@@ -97,10 +97,10 @@ In addition, when you take the Help action to aid another creature’s ability c
 You have spent your life before adventure with [[The Church of the White Flame]]. You were watched by the Flame. Guided by it. [[Its Greatness]] is as real as any other God of Alaturmen. You served Its wishes, and the wishes of Its champions, and in return, you were granted a decent life. Since the turn of the century, your society has significantly recovered from the [[Great Fires]] and begun to stretch it's reach eastward - war has come to the north.
 
 > [[Kohnstamm]] is the western-most city in [[The Holyl'nds]], and the largest industrial center of [[The Church of the White Flame]]. As a product of their environment, the few people who leave [[The Holyl'nds]] are typically from here.
-> [[Odaya]] is the northern-most city in [[The Holyl'nds]]
+> [[Odaya]] is the northern-most city in [[The Holyl'nds]], and the most brutal. As a result of [[The Assault of the Giant Dissenters]] and the loss of [[Baskin]], [[Odaya]] has gathered a significant influx of refugees - and at the same time, the city experiences consistent banditry at the hands of the [[#Waster Nomad]]s to their north-west.
 > [[Yagil]] is the eastern-most city in [[The Holyl'nds]], 
-> [[The Holy City of Kanielkiln]] is the capital city of [[The Church of the White Flame]]. Those who are born here are the few capable of becoming Firstchurch, a high honor in [[The Holyl'nds]]. Honorable too is the 
-> [[Wychway]] is the southern-most city in [[The Holyl'nds]]
+> [[The Holy City of Kanielkiln]] is the capital city of [[The Church of the White Flame]]. Those who are born here are the few capable of becoming Firstchurch, a high honor in [[The Holyl'nds]]. Kanielkin is the center of the [[The Church of the White Flame|Church of Flame]]'s empire, wherein the White Church itself hosts the Blackened Brazier and [[Its Greatness|The Great White Flame]] itself.
+> [[Wychway]] is the southern-most city in [[The Holyl'nds]], and is most notable for their social tolerance and their unusual leadership - [[Jorrin Bearscarred]] rules the city as the one leader within the [[The Church of the White Flame|White Church]] that is not Firstchurch or greater, and supports the desegregation & disillusion of the Church's strict caste system.
 
 You gain +2 to your *Charisma Score* and +1 to your *Constitution Score*. You are proficient in the *History* and *Intimidation* Skills. You know [[Fanyaquestan (language)]] and your choice of one of the following;
 - [[Montal (language)]]
@@ -110,7 +110,9 @@ You gain +2 to your *Charisma Score* and +1 to your *Constitution Score*. You ar
 In addition, while you are conscious and within 15 feet of a source of [[Its Greatness|White Flame]], you regain 1d4 hitpoints at the beginning of your turn.
 
 ## Waster Nomad
-You have spent your life before adventure without [[The Church of the White Flame]]. Servants of the [[Its Greatness|White Flame]] hunt you when you make your way too close to 'civilization'. If you were lucky, you joined a band of like minds, and lived in squalor and the safety of numbers. 
+You have spent your life before adventure without [[The Church of the White Flame]]. Servants of the [[Its Greatness|White Flame]] hunt you when you make your way too close to 'civilization'. If you were lucky, you joined a band of like minds, and lived in squalor and the safety of numbers. Your work was simple, but hard. You would perform manual labor, you would rigorously gather food and materials for your tribe, and above all else, you would fight against the 'Homeland Force' and the 'Holy Crusaders' who would come to do you harm.
+
+>
 
 You gain +2 to your *Dexterity Score* and +1 to your *Constitution Score*. You are proficient in the *Survival* and *Perception* Skills. You know [[Fanyaquestan (language)]] and your choice of one of the following;
 - [[Montal (language)]]
