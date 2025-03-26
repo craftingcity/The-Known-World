@@ -112,8 +112,8 @@ In addition, while you are conscious and within 15 feet of a source of [[Its Gre
 ## Waster Nomad
 You have spent your life before adventure without [[The Church of the White Flame]]. Servants of the [[Its Greatness|White Flame]] hunt you when you make your way too close to 'civilization'. If you were lucky, you joined a band of like minds, and lived in squalor and the safety of numbers. Your work was simple, but hard. You would perform manual labor, you would rigorously gather food and materials for your tribe, and above all else, you would fight against the 'Homeland Force' and the 'Holy Crusaders' who would come to do you harm.
 
-> [[Giant's Toe]] is the home of [[Macht's Brood]], who occupy the opulent home of their now dead enslavers from the Plane of Earth.
-> [[]]
+> [[Giant's Toe]] is host to [[Macht's Brood]], who occupy the opulent home of their now dead enslavers from the Plane of Earth. As the Brood grew, a portion of the group would travel south, into the west [[Litteortosta]] to form another Brood, the [[Katz Brood]].
+> [[Littetavarse]] is host to [[Hektor's Bandits]], who are spread throughout the area in a constant war for survival and freedom against the [[The Church of the White Flame|White Church]].
 
 You gain +2 to your *Dexterity Score* and +1 to your *Constitution Score*. You are proficient in the *Survival* and *Perception* Skills. You know [[Fanyaquestan (language)]] and your choice of one of the following;
 - [[Montal (language)]]
