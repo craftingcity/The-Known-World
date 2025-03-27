@@ -139,7 +139,7 @@ You have spent your life before adventure in [[The Deserts of Tetrimoc]], paying
 
 >[[Kickoff]]
 >[[Athenion]] is the defacto capital city of [[Tetrimoc's Blessings]], a lush area to the south of [[The Golden City]] that is heavily patrolled by the [[Golden Claws]].
-> [[Cetaka]] & [[Raezumar]] are the two villages present in the area known as [[Lord's Folly]].
+> [[Cetaka]] & [[Raezumar]] are the two villages present in the area known as [[Lord's Folly]]. Both find greater support from [[Agrandica's Thieves]] or [[Cobalt's Thieves]] than the [[Golden Claws]], though the latter still collect their taxations.
 
 You gain +2 to your *Constitution Score* and +1 to your *Intelligence Score*. You are proficient in the *Survival* and *Athletics* Skills. You know [[Desertspeech (language)]] and your choice of one of the following;
 - [[Golopak (language)]]
