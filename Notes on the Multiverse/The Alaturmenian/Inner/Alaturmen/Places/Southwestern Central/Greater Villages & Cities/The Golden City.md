@@ -14,8 +14,8 @@ aliases:
 ### Background
 ## Important Places & Symbolism
 
-### Outer Ring
-The Outer Ring is a place of refuge and wallow. Very few of the buildings in this dense sprawl are permanent, most are made of stick, cloth, and leather.
+### Upper Ring
+The Upper Ring is a place of refuge and wallow. Very few of the buildings in this dense sprawl are permanent, most are made of stick, cloth, and leather.
 
 - Temple (east anchor)
 - Sneak Thief Gang Hideout (east of CC)

@@ -124,7 +124,7 @@ In addition, when you Forage as a Watch Action, you make the Survival check with
 
 # South Western
 ## Golden Citizen
-You have spent your life before adventure in the cool and relatively safe underground tunnels of [[The Golden City]]. You likely have seen conflict only for mere moments before [[Golden Claws]] descended upon the scene and removed the perpetrator permanently. This control quickly dissipates at the edges of the city, where Noble Thieves, rowdy gangsters, and neighborhood barons rule small sections that are constantly in conflict.
+You have spent your life before adventure in the cool and relatively safe underground tunnels of [[The Golden City]]. You likely have seen conflict occur in the *Inner Ring* only for mere moments before [[Golden Claws]] descended upon the scene and removed the perpetrator permanently. This control quickly dissipates at the edges of the city, where Noble Thieves, rowdy gangsters, and neighborhood barons rule small areas of the city that are constantly in conflict.
 
 You gain +2 to your *Intelligence Score* and a +1 to your *Charisma Score*. You are proficient in the *Persuasion* and *Insight* Skills. You know [[Desertspeech (language)]] and your choice of one of the following;
 - [[Draconic (language)]]
@@ -135,7 +135,11 @@ In addition, you have Advantage on Investigation or Insight checks in attempts t
 
 
 ## Tetrimocal Congregation
-You have spent your life before adventure in [[The Deserts of Tetrimoc]], paying tithe and fealty to He Who Makes the Sun Rise, the Planeborn, the Great Yellow Dragon [[Tetrimoc]]. Your life has been full of hardship and expectation. 
+You have spent your life before adventure in [[The Deserts of Tetrimoc]], paying tithe and fealty to He Who Makes the Sun Rise, the Planeborn, the Great Yellow Dragon [[Tetrimoc]]. Your life has been full of hardship and expectation, but your faith keeps you safe.
+
+>[[Kickoff]]
+>[[Athenion]] is the defacto capital city of [[Tetrimoc's Blessings]], a lush area to the south of [[The Golden City]] that is heavily patrolled by the [[Golden Claws]].
+> [[Cetaka]] & [[Raezumar]] are the two villages present in the area known as [[Lord's Folly]].
 
 You gain +2 to your *Constitution Score* and +1 to your *Intelligence Score*. You are proficient in the *Survival* and *Athletics* Skills. You know [[Desertspeech (language)]] and your choice of one of the following;
 - [[Golopak (language)]]
