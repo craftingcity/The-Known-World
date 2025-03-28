@@ -135,7 +135,7 @@ In addition, you have Advantage on Investigation or Insight checks in attempts t
 
 
 ## Tetrimocal Congregation
-You have spent your life before adventure in [[The Deserts of Tetrimoc]], paying tithe and fealty to He Who Makes the Sun Rise, the Planeborn, the Great Yellow Dragon [[Tetrimoc]]. Your life has been full of hardship and expectation, but your faith keeps you safe.
+You have spent your life before adventure in [[The Deserts of Tetrimoc]], paying tithe and fealty to He Who Makes the Sun Rise, the Planeborn, the Great Yellow Dragon [[Tetrimoc]]. Your life has been full of hardship and expectation, but your faith keeps you safe from the dangers of the desert.
 
 >[[Kickoff]] is a large mining town, hosting the greatest Durandurm mines in all of Alaturmen, and it's artisans are credited with creating the foundation of Durandurm Archanotech.
 >[[Athenion]] is the defacto capital city of [[Tetrimoc's Blessings]], a lush area to the south of [[The Golden City]] that is heavily patrolled by the [[Golden Claws]]' Gleeming Wyvern Riders.
@@ -149,7 +149,9 @@ In addition, beginning at 3rd level, you may seek the aid of [[Tetrimoc]] as if 
 
 
 ## Outlander Nomad
-You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], hunting and raiding to survive. You understand that all meat is meat, and all creatures must eat. 
+You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], hunting and raiding to survive. Life is hard, and although your clan makes things easier, the sands turn the strongest willed among you insane. You understand that all meat is meat, and all creatures must eat. 
+
+The Outlander Nomads have no sense of honorable war, you are fighting to the death every time. Neith
 
 You gain +2 to your *Constitution Score* and +1 to your *Dexterity Score*. You are proficient in the *Perception* and *Insight* Skills. You know [[Infernal (language)]] and [[Desertspeech (language)]].
 

@@ -93,9 +93,32 @@
               "icon": "lucide-file",
               "title": "Southwestern Central"
             }
+          },
+          {
+            "id": "a6a8ea6061abba42",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Custom Cultures"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -346,7 +369,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73cd7d39bc24df7e",
+  "active": "a6a8ea6061abba42",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
