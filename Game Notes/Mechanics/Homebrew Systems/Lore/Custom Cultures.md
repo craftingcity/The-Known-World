@@ -161,7 +161,7 @@ You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], s
 
 > [[Agrandica's Thieves]] occupy [[Agrandica's Savanna]], an area west of [[Kickoff]] and north of [[Lord's Folly]]. [[Agrandica's Thieves]] have an established trade relationship with the [[Dwarven Kingdom Suremantle]] that leaves the Thieves with a majority share of the metallics trade in the Deserts.
 > [[Barthalmule's Thieves]] occupy [[Barthalamule's Shrubland]], an area on the western shore of the [[Alvalini River]]. [[Barthalmule's Thieves]] are the major threat to any water merchants travelling to and from the [[Alvalini River]].
-> [[Cobalt's Thieves]] occupy [[Cobalt's Cacti Field]], a lush area in the far south of [[The Deserts of Tetrimoc]]. [[Cobalt's Thieves]] are 
+> [[Cobalt's Thieves]] occupy [[Cobalt's Cacti Field]], a lush area in the far south of [[The Deserts of Tetrimoc]]. [[Cobalt's Thieves]] are distanced from the rule of the [[Golden Claws]], and have been largely left to their own devices. [[Cobalt]] encourages a productive farming culture for those who reside in the area - to which the Nomads make attempts to take advantage.
 
 You gain +2 to your *Dexterity Score* and +1 to your *Charisma Score*. You are proficient in the *Stealth* and *Survival* Skills. You know [[Desertspeech (language)]], and your choice of one of the following;
 - [[Golopak (language)]]
@@ -172,9 +172,10 @@ In addition, you gain Expertise in your choice of *Stealth* or *Survival*.
 
 
 ## Mountain Halls
-You have spent your life before adventure in the [[Dwarven Kingdom Suremantle]] - more commonly and improperly referred to in-whole as [[Mountain Hall]] - mining for resources and defending the [[Deakred Range]] under one of many familial-esq clans.
+You have spent your life before adventure in the [[Dwarven Kingdom Suremantle]] - more commonly and improperly referred to in-whole as [[Mountain Hall]] - mining and defending the [[Deakred Range]] under one of four clans. 
 
 You gain +2 to your *Consitution Score* and +1 to your *Strength Score*. You are proficient in the *Athletics* and *Medicine* Skills. You know [[Montal (language)]], and your choice of one of the following;
+- [[Arthurian (language)]]
 - [[Fanyaquestan (language)]]
 - [[Desertspeech (language)]]
 
