@@ -5,6 +5,10 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
     {
+      "basename": "Cobalt's Thieves",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md"
+    },
+    {
       "basename": "Dwarven Kingdom Suremantle",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MinyostalmaFeatures",
       "path": "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png"
-    },
-    {
-      "basename": "Dante Fukili",
-      "path": "Junie's Characters/Dante Fukili.md"
     }
   ],
   "omittedPaths": [],

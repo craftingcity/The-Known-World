@@ -128,6 +128,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Dwarven Kingdom Suremantle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Dwarven Kingdom Suremantle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":343},\"to\":{\"line\":9,\"ch\":343}}}"
+                },
+                {
                   "title": "The Code of Thieves",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Code of Thieves.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Code of Thieves\"}",
@@ -138,12 +144,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dwarven Kingdom Suremantle"
+              "title": "Cobalt's Thieves"
             }
           }
         ],
@@ -400,9 +406,10 @@
   },
   "active": "73cd7d39bc24df7e",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Code of Thieves.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
@@ -425,7 +432,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Strength As Carrying Capacity.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Languages.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
