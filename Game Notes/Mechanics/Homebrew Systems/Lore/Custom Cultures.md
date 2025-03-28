@@ -151,7 +151,7 @@ In addition, beginning at 3rd level, you may seek the aid of [[Tetrimoc]] as if 
 ## Outlander Nomad
 You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], hunting and raiding to survive. Life is hard, and although your clan makes things easier, the sands turn the strongest willed among you insane. You understand that all meat is meat, and all creatures must eat. 
 
-The Outlander Nomads have no sense of honorable war, you are fighting to the death every time. Neith
+The Outlander Nomads have no sense of honorable war, you are fighting to the death every time. Neither do the Nomads have a sense of greater community, you are a member of your Clan exclusively.
 
 You gain +2 to your *Constitution Score* and +1 to your *Dexterity Score*. You are proficient in the *Perception* and *Insight* Skills. You know [[Infernal (language)]] and [[Desertspeech (language)]].
 
@@ -159,7 +159,7 @@ In addition, you gain the benefits of the Ranger's Natural Explorer feature whil
 
 
 ## Noble Thief
-You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], stealing from water-merchants and travelers who can afford it alongside bands of like-minds. You do what you must for your kin to survive.
+You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], stealing from water-merchants and the few travelers who could afford it alongside bands of like-minds. You do what you must for your kin to survive.
 
 You gain +2 to your *Dexterity Score* and +1 to your *Charisma Score*. You are proficient in the *Stealth* and *Survival* Skills. You know [[Desertspeech (language)]], and your choice of one of the following;
 - [[Golopak (language)]]
