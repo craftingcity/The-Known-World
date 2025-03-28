@@ -160,7 +160,7 @@ In addition, you gain the benefits of the Ranger's Natural Explorer feature whil
 You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], stealing from water-merchants and the few travelers who could afford it alongside bands of like-minds. You follow [[The Code of Thieves]], an outline of how you and your peer-opponents operate in combat and in life. Above all else, [[The Code of Thieves]] teaches respect for life - both yours and your opponents. We fight for our families, all of us. The pain of a loss is sharper than any blade. Think of their mother. Their partner. Their children. Think of yours. I will, when I have my barrel to your chest, and I know you will show me the same respect.
 
 > [[Agrandica's Thieves]] occupy [[Agrandica's Savanna]], an area west of [[Kickoff]] and north of [[Lord's Folly]]. [[Agrandica's Thieves]] have an established trade relationship with the [[Dwarven Kingdom Suremantle]] that leaves the Thieves with a majority share of the metallics trade in the Deserts.
-> [[Barthalmule's Thieves]]
+> [[Barthalmule's Thieves]] occupy [[Barthalamule's Shrubland]], an area on the western shore of the [[Alvalini River]]. [[Barthalmule's Thieves]] are 
 > [[Cobalt's Thieves]]
 
 You gain +2 to your *Dexterity Score* and +1 to your *Charisma Score*. You are proficient in the *Stealth* and *Survival* Skills. You know [[Desertspeech (language)]], and your choice of one of the following;
