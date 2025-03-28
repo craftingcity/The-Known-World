@@ -5,8 +5,16 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
     {
+      "basename": "Dwarven Kingdom Suremantle",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md"
+    },
+    {
       "basename": "The Code of Thieves",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Code of Thieves.md"
+    },
+    {
+      "basename": "Agrandica's Thieves",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md"
     },
     {
       "basename": "Golden Claws",
@@ -191,14 +199,6 @@
     {
       "basename": "Dante Fukili",
       "path": "Junie's Characters/Dante Fukili.md"
-    },
-    {
-      "basename": "Kailkeep",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md"
-    },
-    {
-      "basename": "zz_ Kailkeep Clues, Nodes, and Notes",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md"
     }
   ],
   "omittedPaths": [],
