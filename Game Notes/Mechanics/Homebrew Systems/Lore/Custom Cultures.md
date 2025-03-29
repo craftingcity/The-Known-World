@@ -237,7 +237,7 @@ In addition, once per turn, you can deal an extra 1d6 damage to one creature you
 ## Righteous Beast
 You have spent your life before adventure in the [[Northern Quillbuck Jungle]] under the protection of the [[Beasts Righteous]]. In recent years, the [[Beasts Righteous]] have fallen, [[Baron Xuiop]] has been slain. The jungle is wild, but life in the cities of men are wilder. We still act in honor of our Fallen Baron, and though our cities have fallen, we aim to retain what we can.
 
-> Your Baron has fallen, but your alliance to your kin has not, nor has the reputation of your name. Before the fall of your cities, the [[Knights in Red]] and [[Grovetenders]] were your most fervent alliances, an they would likely still honor you as an ally. The banditry of the [[SEASEC|South-Eastern Alliance of Security]] and the [[Harvord Trading Company]] has only grown stronger in your absence.
+> Your Baron has fallen, but your alliance to your kin has not, nor has the reputation of your name. Before the fall of your cities, the [[Knights in Red]] and [[Grovetenders]] were your most fervent alliances, an they would likely still honor you in that regard. The banditry of the [[SEASEC|South-Eastern Alliance of Security]] and the [[Harvord Trading Company]] has only grown stronger in your absence.
 
 You gain +2 to your *Wisdom Score* and +1 to your *Strength Score*. You are proficient in the *Acrobatics*, *Nature*, and *Survival* Skills. You know [[Golopak (language)]].
 
@@ -246,6 +246,8 @@ In addition, once per seven days, you may spend an action. If you do so, make a 
 
 ## Hillkeep Loyalist
 You have spent your life before adventure in the [[Grumbling Hills]] working the hard lands controlled by your Baron, [[Baron Jammu|Amethyst Jammu]], for potatoes and gold. When it has been necessary, you have defended these hills against those who would take them. This was not a joyful affair.
+
+> The [[Hillkeep Loyalists]] are very loosely allied with all of the other Baronies for the beni
 
 You gain +2 to your *Strength Score* and +1 to your *Wisdom Score*. You are proficient in the *Athletics* and *Sleight of Hand Skills*. You know [[Golopak (language)]] and your choice of one of the following;
 - [[Arthurian (language)]]
