@@ -191,7 +191,7 @@ In addition, you gain the benefits of the Ranger's Natural Explorer feature whil
 ## Knight in Red
 You have spent your life before adventure in the boardwalk cities of the [[Huntyr Swamp]] working under [[Baron Filip]]. You were trained for your duties, serving the people who serve the Baron, and perhaps were deemed so excellent in your skills to move closer towards Filip's inner circle. Your Baron is kindhearted and fierce, and he expects his Knights to act as he would.
 
-> The [[Knights in Red]] are loosely aligned with the [[Mossburg Enforcers]] and against the newly formed [[SEASEC|South-Eastern Alliance of Security]] containing the [[Slimknives]], [[Riphounds]], and [[Dampguard]].
+> The [[Knights in Red]] are loosely aligned with [[Five Pike]] and the [[Mossburg Enforcers]] and against the newly formed [[SEASEC|South-Eastern Alliance of Security]] containing the [[Slimknives]], [[Riphounds]], and [[Dampguard]]. Another Bandit Lords scenario is unnecessary.
 
 You gain +2 to your *Strength Score* and +1 to your *Charisma Score*. You are proficient in the *Athletics* and *Religion* Skills. You know [[Golopak (language)]] and your choice of one of the following;
 - [[Arthurian (language)]]
@@ -225,7 +225,7 @@ In addition, once per long rest, when you deal damage with a weapon attack, you 
 
 
 ## Slimknife
-You have spent your life before adventure in the dreary villages of the [[Westlick Mossland]]. As an agent of [[Baron Avory]]. You placed items in certain locations, spoke odd phrases to certain peoples, copied documents you didn't understand, and slit the throats of targets whose name or crime you did not dare ask. Your life is calm, and simple. So long as you keep your curiosity to yourself.
+You have spent your life before adventure in the dreary villages of the [[Westlick Mossland]]. As an agent of [[Baron Avory]], you placed items in certain locations, spoke odd phrases to certain peoples, copied documents you didn't understand, and slit the throats of targets whose name or crime you did not dare ask. Your life is calm, simple, and profitable. So long as you can keep your curiosity to yourself.
 
 > In addition to their multitude of interests, the [[Slimknives]] have recently organized the [[SEASEC|South-Eastern Alliance of Security]], a Private Military Conglomerate that acts in service to the Barons of the [[Slimknives]], [[Dampguard]], and [[Riphounds]].
 
@@ -257,7 +257,9 @@ In addition, once per round, when you deal damage with a weapon attack, you may 
 
 
 ## Grovetender
-You have spent your life before adventure as a member of the [[Grovetenders]]. You have nurtured growth throughout the [[Southern Third]] of the [[Great Southern Mossland]] under the gracious watch of the [[Baron Cassindil]].
+You have spent your life before adventure as a member of the [[Grovetenders]]. You have nurtured growth throughout the [[Southern Third]] of the [[Great Southern Mossland]] under the gracious watch of the [[Baron Cassindil]]. You fed yourself and others, your actions were charitable - and this perception has kept you safe.
+
+> The [[Grovetenders]] are held in high regard for their work enriching the [[Southern Third]] and their dedication to Sune. Their tightest alliances are with the [[Dampguard]] and the [[Beasts Righteous]] due to their proximity and the benefits they gain. The [[Harvord Trading Company]] is the antithesis of their work, and a plight on all the lands.
 
 You gain +2 to your *Wisdom Score* and +1 to your *Charisma Score*. You are proficient in the *Nature* and *Religion* Skills. You know [[Golopak (language)]] and your choice of one of the following;
 - [[Druidic (language)]]
@@ -267,7 +269,7 @@ In addition, you know the Druidcraft cantrip, and may cast it as though you had 
 
 
 ## Five-Pike
-You have spent your life before adventure caring for the misfortunate. The [[Wetfoot Greenland]] is ruled by you and yours (and austensibly [[Baron J'Tail]], but you know better than most he is simply a figurehead) with a healing palm. 
+You have spent your life before adventure caring for the misfortunate. The [[Wetfoot Greenland]] is ruled by you and yours (and ostensibly [[Baron J'Tail]], but you know better than most he is simply a figurehead) with a healing palm. Your
 
 You gain +2 to your *Wisdom Score* and +1 to your *Dexterity Score*. You are proficient in the *Arcana* and *History* Skills. You know [[Golopak (language)]], [[Arthurian (language)]], and [[Kantine (language)]].
 
