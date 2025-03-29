@@ -247,7 +247,7 @@ In addition, once per seven days, you may spend an action. If you do so, make a 
 ## Hillkeep Loyalist
 You have spent your life before adventure in the [[Grumbling Hills]] working the hard lands controlled by your Baron, [[Baron Jammu|Amethyst Jammu]], for potatoes and gold. When it has been necessary, you have defended these hills against those who would take them. This was not a joyful affair.
 
-> The [[Hillkeep Loyalists]] are very loosely allied with all of the other Baronies for the beni
+> The [[Hillkeep Loyalists]] are very loosely allied with all of the other Baronies for the benefit of their trade routes - while this allows a Loyalist to traverse the Combine without taxation, they find little protection in the shadier Baronies, such as those under the rule of [[SEASEC]] or [[Baron Harvord]].
 
 You gain +2 to your *Strength Score* and +1 to your *Wisdom Score*. You are proficient in the *Athletics* and *Sleight of Hand Skills*. You know [[Golopak (language)]] and your choice of one of the following;
 - [[Arthurian (language)]]
