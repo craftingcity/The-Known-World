@@ -202,7 +202,9 @@ In addition, you learn one Fighting Style option of your choice from the Fighter
 
 
 ## Dampguard
-You have spent your life before adventure in the [[Gabrin Shrublands]] working under the [[Baron Shimmer]]. You were likely a part of a raiding crew, taking scores from Guild Merchants traveling the [[Alvalini River]], or a feared shadow-blade in the mind of those who would refuse the Baron's taxation.
+You have spent your life before adventure in the [[Gabrin Shrublands]] working under the [[Baron Shimmer]]. You were likely a part of a raiding crew, taking scores from Guild Merchants traveling the [[Alvalini River]].  Or, you were a feared shadow-blade in the mind of those who would refuse the Baron's taxation.
+
+> The [[Dampguard]] are in a tight alliance with the [[Slimknives]] and the [[Riphounds]]
 
 You gain +2 to your *Dexterity Score* and +1 to your *Strength Score*. You are proficient in the Athletics and Intimidation Skills. You know [[Golopak (language)]] and your choice of one of the following;
 - [[Desertspeech (language)]]
