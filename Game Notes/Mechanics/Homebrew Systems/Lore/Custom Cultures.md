@@ -235,7 +235,7 @@ In addition, once per turn, you can deal an extra 1d6 damage to one creature you
 
 
 ## Righteous Beast
-You have spent your life before adventure in the [[Northern Quillbuck Jungle]] under the protection of the [[Beasts Righteous]]. In recent years, the [[Beasts Righteous]] have fallen, [[Baron Xuiop]] has been slain. The jungle is wild, but life in the cities of men are wilder. We still act in honor of our Fallen Baron, and though our cities have fallen, we aim to retain what we can.
+You have spent your life before adventure in the [[Northern Quillbuck Jungle]] under the protection of the [[Beasts Righteous]]. In recent years, the [[Beasts Righteous]] have fallen, [[Baron Xuiop]] has been slain. The jungle is wild, but life in the cities of men are wilder. We act in honor of our Fallen Baron, and though our cities have fallen, we aim to reclaim what we can.
 
 > Your Baron has fallen, but your alliance to your kin has not, nor has the reputation of your name. Before the fall of your cities, the [[Knights in Red]] and [[Grovetenders]] were your most fervent alliances, an they would likely still honor you in that regard. The banditry of the [[SEASEC|South-Eastern Alliance of Security]] and the [[Harvord Trading Company]] has only grown stronger in your absence.
 
@@ -269,7 +269,7 @@ In addition, you know the Druidcraft cantrip, and may cast it as though you had 
 
 
 ## Five-Pike
-You have spent your life before adventure caring for the misfortunate. The [[Wetfoot Greenland]] is ruled by you and yours (and ostensibly [[Baron J'Tail]], but you know better than most he is simply a figurehead) with a healing palm. Your
+You have spent your life before adventure caring for the misfortunate. The [[Wetfoot Greenland]] is ruled by you and yours (and ostensibly [[Baron J'Tail]], but you know better than most he is simply a figurehead) with a healing palm.
 
 You gain +2 to your *Wisdom Score* and +1 to your *Dexterity Score*. You are proficient in the *Arcana* and *History* Skills. You know [[Golopak (language)]], [[Arthurian (language)]], and [[Kantine (language)]].
 
