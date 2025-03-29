@@ -4,6 +4,7 @@ tags:
   - company
   - military
 aliases:
+  - South-Eastern Alliance of Security
 ---
 
 # South East Alliance Security

@@ -191,7 +191,7 @@ In addition, you gain the benefits of the Ranger's Natural Explorer feature whil
 ## Knight in Red
 You have spent your life before adventure in the boardwalk cities of the [[Huntyr Swamp]] working under [[Baron Filip]]. You were trained for your duties, serving the people who serve the Baron, and perhaps were deemed so excellent in your skills to move closer towards Filip's inner circle. Your Baron is kindhearted and fierce, and he expects his Knights to act as he would.
 
-> The [[Knights in Red]] are loosely aligned with the [[Mossburg Enforcers]] and against the 
+> The [[Knights in Red]] are loosely aligned with the [[Mossburg Enforcers]] and against the newly formed [[SEASEC|South-Eastern Alliance of Security]] containing the [[Slimknives]], [[Riphounds]], and [[Dampguard]].
 
 You gain +2 to your *Strength Score* and +1 to your *Charisma Score*. You are proficient in the *Athletics* and *Religion* Skills. You know [[Golopak (language)]] and your choice of one of the following;
 - [[Arthurian (language)]]
