@@ -262,6 +262,7 @@ You have spent your life before adventure as a member of the [[Grovetenders]]. Y
 > The [[Grovetenders]] are held in high regard for their work enriching the [[Southern Third]] and their dedication to Sune. Their tightest alliances are with the [[Dampguard]] and the [[Beasts Righteous]] due to their proximity and the benefits they gain. The [[Harvord Trading Company]] is the antithesis of their work, and a plight on all the lands.
 
 You gain +2 to your *Wisdom Score* and +1 to your *Charisma Score*. You are proficient in the *Nature* and *Religion* Skills. You know [[Golopak (language)]] and your choice of one of the following;
+- [[Arthurian (language)]]
 - [[Druidic (language)]]
 - [[Desertspeech (language)]]
 
@@ -271,7 +272,7 @@ In addition, you know the Druidcraft cantrip, and may cast it as though you had 
 ## Five-Pike
 You have spent your life before adventure caring for the misfortunate. The [[Wetfoot Greenland]] is ruled by you and yours (and ostensibly [[Baron J'Tail]], but you know better than most he is simply a figurehead) with a healing palm. The study of the body and mind is your culture's greatest pass-time, and the application of this knowledge is your hometown's most profitable business.
 
-> [[Five Pike]] are aligned with their kindest neighbors in the [[Knights in Red]] and the [[Mossburg Enforcers]], leaving them remotely 
+> [[Five Pike]] are aligned with their kindest neighbors in the [[Knights in Red]] and the [[Mossburg Enforcers]], leaving them in poor standing with their enemies, where [[SEASEC]] in particular makes regular assaults against your faction's caravans and settlements.
 
 You gain +2 to your *Wisdom Score* and +1 to your *Dexterity Score*. You are proficient in the *Arcana* and *History* Skills. You know [[Golopak (language)]], [[Arthurian (language)]], and [[Kantine (language)]].
 
@@ -279,14 +280,18 @@ In addition, when you make an Intelligence (Medicine) Check to stabilize a creat
 
 
 ## Mossburgian
-You have spent your life before adventure paying fruitless taxes and obeying insignificant laws under the [[Baron Vannis]] and his [[Mossburg Enforcers]]. He rules [[Mossburg]] Proper with a kind smile, but you know the truth. He is as tyrannical as they come.
+You have spent your life before adventure paying fruitless taxes and obeying insignificant laws under the [[Baron Vannis]] and his [[Mossburg Enforcers]]. He rules [[Mossburg]] proper with a kind smile, but you know the truth. He is as tyrannical as they come. You may have come to join one of the many street gangs in the city, or have been lucky enough to be born into the tightly secured High District - where the Enforcers themselves reside.
 
-You gain +2 to your *Intelligence Score* and +1 to your *Strength Score*. You are proficient in the *History* and *Persuasion* Skills. You know [[Golopak (language)]].
+You gain +2 to your *Intelligence Score* and +1 to your *Strength Score*. You are proficient in the *History* and *Persuasion* Skills. You know [[Golopak (language)]], and your choice of one of the following;
+- [[Arthurian (language)]]
+- [[Desertspeech (language)]]
 
 In addition, you have advantage on Wisdom (Insight) checks against those in positions of authority over you.
 
 ## Harvord Contractee
-You have spent your life before adventure working as a "permanent contractor" under the [[Harvord Trading Company]] and [[Baron Harvord]]. With his silver tongue and bold ideals, he controlls a small portion of the [[Southern Quillbuck Jungle]] as a hard-core capitalist autocrat.
+You have spent your life before adventure working as a "permanent contractor" under the [[Harvord Trading Company]] and [[Baron Harvord]]. With his silver tongue and bold ideals, he controls a small portion of the [[Southern Quillbuck Jungle]] as a hard-core capitalist autocrat - and since the unfortunate demise of the [[Baron Xuiop]], a significant vacuum of power has opportunely presented itself. We aim to fill that power vacuum.
+
+> As a Contractee of the [[Harvord Trading Company]], you 
 
 You gain +2 to your *Charisma Score* and +1 to your *Intelligence Score*. You are proficient in the *Persuasion* skill. You know [[Golopak (language)]], [[Arthurian (language)]], and your choice of two of the following;
 - [[Actcenvan (language)]]

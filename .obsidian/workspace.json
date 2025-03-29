@@ -107,6 +107,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Southeastern Central",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Southeastern Central\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":85,\"ch\":19},\"to\":{\"line\":85,\"ch\":19}},\"scroll\":65.52769241131791}"
+                },
+                {
                   "title": "Southwestern Central",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Southwestern Central\"}",
@@ -123,12 +129,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Languages.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Southeastern Central"
+              "title": "Languages"
             }
           }
         ],
@@ -385,9 +391,10 @@
   },
   "active": "73cd7d39bc24df7e",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Languages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range/Deakred Range.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
@@ -410,7 +417,6 @@
     "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
     "Prenotes Feb 11 25.md",
-    "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",

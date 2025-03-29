@@ -5,6 +5,10 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
     {
+      "basename": "Languages",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Languages.md"
+    },
+    {
       "basename": "Southeastern Central",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Lingering Injuries",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lingering Injuries.md"
-    },
-    {
-      "basename": "Combat Mechanics and Positioning",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
     }
   ],
   "omittedPaths": [],
