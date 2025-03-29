@@ -269,7 +269,9 @@ In addition, you know the Druidcraft cantrip, and may cast it as though you had 
 
 
 ## Five-Pike
-You have spent your life before adventure caring for the misfortunate. The [[Wetfoot Greenland]] is ruled by you and yours (and ostensibly [[Baron J'Tail]], but you know better than most he is simply a figurehead) with a healing palm.
+You have spent your life before adventure caring for the misfortunate. The [[Wetfoot Greenland]] is ruled by you and yours (and ostensibly [[Baron J'Tail]], but you know better than most he is simply a figurehead) with a healing palm. The study of the body and mind is your culture's greatest pass-time, and the application of this knowledge is your hometown's most profitable business.
+
+> [[Five Pike]] are aligned with the other 
 
 You gain +2 to your *Wisdom Score* and +1 to your *Dexterity Score*. You are proficient in the *Arcana* and *History* Skills. You know [[Golopak (language)]], [[Arthurian (language)]], and [[Kantine (language)]].
 
