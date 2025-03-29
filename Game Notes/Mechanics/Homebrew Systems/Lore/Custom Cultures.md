@@ -215,7 +215,7 @@ In addition, you have advantage on *Stealth* checks made while underwater.
 
 
 ## Riphound
-You have spent your life before adventure working under the [[Baron Glask]]. The [[Eastlick Mossland]] is ruled with a bloody fist, and it was your duty beat and be beaten. You were born into violence. Your life has been brutal, deadly, and exciting. And so it shall continue to be.
+You have spent your life before adventure working under the [[Baron Glask]]. The [[Eastlick Mossland]] is ruled with a bloody fist, and it was your duty beat and be beaten. You were born into violence. Your life has been painful, brutal, and deadly. And so it shall continue to be.
 
 > The [[Riphounds]] have been a defacto mercenary company since their birth in [[Asilar's Bounty]], but in recent years the gang has allied with the [[Slimknives]] and the [[Dampguard]] under the banner of the [[SEASEC|South-Eastern Alliance of Security]].
 
@@ -225,7 +225,9 @@ In addition, once per long rest, when you deal damage with a weapon attack, you 
 
 
 ## Slimknife
-You have spent your life before adventure as an agent of [[Baron Avory]]. You placed items in certain locations, spoke odd phrases to certain peoples, copied documents you didn't understand, and slit the throats of targets whose name or crime you did not dare ask. 
+You have spent your life before adventure in the dreary villages of the [[Westlick Mossland]]. As an agent of [[Baron Avory]]. You placed items in certain locations, spoke odd phrases to certain peoples, copied documents you didn't understand, and slit the throats of targets whose name or crime you did not dare ask. Your life is calm, and simple. So long as you keep your curiosity to yourself.
+
+> In addition to their multitude of interests, the [[Slimknives]] have recently organized the [[SEASEC|South-Eastern Alliance of Security]], a Private Military Conglomerate that acts in service to the Barons of the [[Slimknives]], [[Dampguard]], and [[Riphounds]].
 
 You gain +2 to your *Dexterity Score* and +1 to your *Intelligence Score*. You are proficient in the *Deception* and *Stealth* Skills. You know [[Golopak (language)]] and [[Thieves Cant (language)]].
 
@@ -233,7 +235,9 @@ In addition, once per turn, you can deal an extra 1d6 damage to one creature you
 
 
 ## Righteous Beast
-You have spent your life before adventure in the [[Northern Quillbuck Jungle]] under the protection of the [[Beasts Righteous]]. Outside influences had great difficulty reaching you, but the Jungle's influences had no such issues.
+You have spent your life before adventure in the [[Northern Quillbuck Jungle]] under the protection of the [[Beasts Righteous]]. In recent years, the [[Beasts Righteous]] have fallen, [[Baron Xuiop]] has been slain. The jungle is wild, but life in the cities of men are wilder. We still act in honor of our Fallen Baron, and though our cities have fallen, we aim to retain what we can.
+
+> 
 
 You gain +2 to your *Wisdom Score* and +1 to your *Strength Score*. You are proficient in the *Acrobatics*, *Nature*, and *Survival* Skills. You know [[Golopak (language)]].
 
