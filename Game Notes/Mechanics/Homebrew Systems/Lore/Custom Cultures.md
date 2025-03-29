@@ -204,7 +204,7 @@ In addition, you learn one Fighting Style option of your choice from the Fighter
 ## Dampguard
 You have spent your life before adventure in the [[Gabrin Shrublands]] working under the [[Baron Shimmer]]. You were likely a part of a raiding crew, taking scores from Guild Merchants traveling the [[Alvalini River]].  Or, you were a feared shadow-blade in the mind of those who would refuse the Baron's taxation.
 
-> The [[Dampguard]] are in a tight alliance with the [[Slimknives]] and the [[Riphounds]]
+> The [[Dampguard]] are in a tight alliance with the [[Slimknives]] and the [[Riphounds]] under the banner of the [[SEASEC|South-Eastern Alliance of Security]] given the proclivity for members of any of the three to be hired to Private Military Companies.
 
 You gain +2 to your *Dexterity Score* and +1 to your *Strength Score*. You are proficient in the Athletics and Intimidation Skills. You know [[Golopak (language)]] and your choice of one of the following;
 - [[Desertspeech (language)]]
@@ -215,7 +215,9 @@ In addition, you have advantage on *Stealth* checks made while underwater.
 
 
 ## Riphound
-You have spent your life before adventure working under the [[Baron Glask]]. The [[Eastlick Mossland]] is ruled with a bloody fist, and it was your duty to see through the administration of the beatings (metaphorically, unless...). Your life has been brutal, deadly, and exciting. And so it shall continue to be.
+You have spent your life before adventure working under the [[Baron Glask]]. The [[Eastlick Mossland]] is ruled with a bloody fist, and it was your duty beat and be beaten. You were born into violence. Your life has been brutal, deadly, and exciting. And so it shall continue to be.
+
+> The [[Riphounds]] have been a defacto mercenary company since their birth in [[Asilar's Bounty]], but in recent years the gang has allied with the [[Slimknives]] and the [[Dampguard]] under the banner of the [[SEASEC|South-Eastern Alliance of Security]].
 
 You gain +2 to your *Strength Score* and +1 to your *Constitution Score*. You are proficient in the *Animal Handling* and *Intimidation* Skills. You know [[Golopak (language)]] and [[Kantine (language)]].
 

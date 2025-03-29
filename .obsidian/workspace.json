@@ -6,6 +6,7 @@
       {
         "id": "e1df37d4536f2983",
         "type": "tabs",
+        "dimension": 65.95208070617906,
         "children": [
           {
             "id": "73cd7d39bc24df7e",
@@ -35,6 +36,7 @@
       {
         "id": "9c3baa2ca4539a6f",
         "type": "tabs",
+        "dimension": 34.04791929382093,
         "children": [
           {
             "id": "7035cd46425d5a71",
@@ -174,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Glask",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,7 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.51240158081055
+    "width": 388.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -375,7 +377,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73cd7d39bc24df7e",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
