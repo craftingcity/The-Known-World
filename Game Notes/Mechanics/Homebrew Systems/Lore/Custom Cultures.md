@@ -192,6 +192,7 @@ In addition, you gain the benefits of the Ranger's Natural Explorer feature whil
 You have spent your life before adventure in the boardwalk cities of the [[Huntyr Swamp]] working under [[Baron Filip]]. You were trained for your duties, serving the people who serve the Baron, and perhaps were deemed so excellent in your skills to move closer towards Filip's inner circle. Your Baron is kindhearted and fierce, and he expects his Knights to act as he would.
 
 > The [[Knights in Red]] are loosely aligned with [[Five Pike]] and the [[Mossburg Enforcers]] and against the newly formed [[SEASEC|South-Eastern Alliance of Security]] containing the [[Slimknives]], [[Riphounds]], and [[Dampguard]]. Another Bandit Lords scenario is unnecessary.
+> [[Red Throne]] is the capital city of the [[Knights in Red]].
 
 You gain +2 to your *Strength Score* and +1 to your *Charisma Score*. You are proficient in the *Athletics* and *Religion* Skills. You know [[Golopak (language)]] and your choice of one of the following;
 - [[Arthurian (language)]]
@@ -205,6 +206,7 @@ In addition, you learn one Fighting Style option of your choice from the Fighter
 You have spent your life before adventure in the [[Gabrin Shrublands]] working under the [[Baron Shimmer]]. You were likely a part of a raiding crew, taking scores from Guild Merchants traveling the [[Alvalini River]].  Or, you were a feared shadow-blade in the mind of those who would refuse the Baron's taxation.
 
 > The [[Dampguard]] are in a tight alliance with the [[Slimknives]] and the [[Riphounds]] under the banner of the [[SEASEC|South-Eastern Alliance of Security]] given the proclivity for members of any of the three to be hired to Private Military Companies.
+> [[Goldfield]] is the capital city of the [[Dampguard]].
 
 You gain +2 to your *Dexterity Score* and +1 to your *Strength Score*. You are proficient in the Athletics and Intimidation Skills. You know [[Golopak (language)]] and your choice of one of the following;
 - [[Desertspeech (language)]]
@@ -218,6 +220,7 @@ In addition, you have advantage on *Stealth* checks made while underwater.
 You have spent your life before adventure working under the [[Baron Glask]]. The [[Eastlick Mossland]] is ruled with a bloody fist, and it was your duty beat and be beaten. You were born into violence. Your life has been painful, brutal, and deadly. And so it shall continue to be.
 
 > The [[Riphounds]] have been a defacto mercenary company since their birth in [[Asilar's Bounty]], but in recent years the gang has allied with the [[Slimknives]] and the [[Dampguard]] under the banner of the [[SEASEC|South-Eastern Alliance of Security]].
+> [[Barkryn]] is the capital city of the [[Riphounds]].
 
 You gain +2 to your *Strength Score* and +1 to your *Constitution Score*. You are proficient in the *Animal Handling* and *Intimidation* Skills. You know [[Golopak (language)]] and [[Kantine (language)]].
 
@@ -228,6 +231,7 @@ In addition, once per long rest, when you deal damage with a weapon attack, you 
 You have spent your life before adventure in the dreary villages of the [[Westlick Mossland]]. As an agent of [[Baron Avory]], you placed items in certain locations, spoke odd phrases to certain peoples, copied documents you didn't understand, and slit the throats of targets whose name or crime you did not dare ask. Your life is calm, simple, and profitable. So long as you can keep your curiosity to yourself.
 
 > In addition to their multitude of interests, the [[Slimknives]] have recently organized the [[SEASEC|South-Eastern Alliance of Security]], a Private Military Conglomerate that acts in service to the Barons of the [[Slimknives]], [[Dampguard]], and [[Riphounds]].
+> [[Beacon]] is the capital city of the [[Slimknives]]
 
 You gain +2 to your *Dexterity Score* and +1 to your *Intelligence Score*. You are proficient in the *Deception* and *Stealth* Skills. You know [[Golopak (language)]] and [[Thieves Cant (language)]].
 
@@ -238,6 +242,7 @@ In addition, once per turn, you can deal an extra 1d6 damage to one creature you
 You have spent your life before adventure in the [[Northern Quillbuck Jungle]] under the protection of the [[Beasts Righteous]]. In recent years, the [[Beasts Righteous]] have fallen, [[Baron Xuiop]] has been slain. The jungle is wild, but life in the cities of men are wilder. We act in honor of our Fallen Baron, and though our cities have fallen, we aim to reclaim what we can.
 
 > Your Baron has fallen, but your alliance to your kin has not, nor has the reputation of your name. Before the fall of your cities, the [[Knights in Red]] and [[Grovetenders]] were your most fervent alliances, an they would likely still honor you in that regard. The banditry of the [[SEASEC|South-Eastern Alliance of Security]] and the [[Harvord Trading Company]] has only grown stronger in your absence.
+> Once upon a time, [[Boneborn]] was the capital city of the [[Beasts Righteous]], but since it has fallen, a majority of the population has traveled south-east and settled the city of [[Korianis]].
 
 You gain +2 to your *Wisdom Score* and +1 to your *Strength Score*. You are proficient in the *Acrobatics*, *Nature*, and *Survival* Skills. You know [[Golopak (language)]].
 
@@ -248,6 +253,7 @@ In addition, once per seven days, you may spend an action. If you do so, make a 
 You have spent your life before adventure in the [[Grumbling Hills]] working the hard lands controlled by your Baron, [[Baron Jammu|Amethyst Jammu]], for potatoes and gold. When it has been necessary, you have defended these hills against those who would take them. This was not a joyful affair.
 
 > The [[Hillkeep Loyalists]] are very loosely allied with all of the other Baronies for the benefit of their trade routes - while this allows a Loyalist to traverse the Combine without taxation, they find little protection in the shadier Baronies, such as those under the rule of [[SEASEC]] or [[Baron Harvord]].
+> The [[Darnt Hillkeep]] is the capital city of the [[Hillkeep Loyalists]].
 
 You gain +2 to your *Strength Score* and +1 to your *Wisdom Score*. You are proficient in the *Athletics* and *Sleight of Hand Skills*. You know [[Golopak (language)]] and your choice of one of the following;
 - [[Arthurian (language)]]
@@ -260,6 +266,7 @@ In addition, once per round, when you deal damage with a weapon attack, you may 
 You have spent your life before adventure as a member of the [[Grovetenders]]. You have nurtured growth throughout the [[Southern Third]] of the [[Great Southern Mossland]] under the gracious watch of the [[Baron Cassindil]]. You fed yourself and others, your actions were charitable - and this perception has kept you safe.
 
 > The [[Grovetenders]] are held in high regard for their work enriching the [[Southern Third]] and their dedication to Sune. Their tightest alliances are with the [[Dampguard]] and the [[Beasts Righteous]] due to their proximity and the benefits they gain. The [[Harvord Trading Company]] is the antithesis of their work, and a plight on all the lands.
+> [[Zalfari]] is the capital city of the [[Grovetenders]].
 
 You gain +2 to your *Wisdom Score* and +1 to your *Charisma Score*. You are proficient in the *Nature* and *Religion* Skills. You know [[Golopak (language)]] and your choice of one of the following;
 - [[Arthurian (language)]]
@@ -273,6 +280,7 @@ In addition, you know the Druidcraft cantrip, and may cast it as though you had 
 You have spent your life before adventure caring for the misfortunate. The [[Wetfoot Greenland]] is ruled by you and yours (and ostensibly [[Baron J'Tail]], but you know better than most he is simply a figurehead) with a healing palm. The study of the body and mind is your culture's greatest pass-time, and the application of this knowledge is your hometown's most profitable business.
 
 > [[Five Pike]] are aligned with their kindest neighbors in the [[Knights in Red]] and the [[Mossburg Enforcers]], leaving them in poor standing with their enemies, where [[SEASEC]] in particular makes regular assaults against your faction's caravans and settlements.
+> [[Lakeview]] is the capital city of [[Five Pike]].
 
 You gain +2 to your *Wisdom Score* and +1 to your *Dexterity Score*. You are proficient in the *Arcana* and *History* Skills. You know [[Golopak (language)]], [[Arthurian (language)]], and [[Kantine (language)]].
 
@@ -281,6 +289,8 @@ In addition, when you make an Intelligence (Medicine) Check to stabilize a creat
 
 ## Mossburgian
 You have spent your life before adventure paying fruitless taxes and obeying insignificant laws under the [[Baron Vannis]] and his [[Mossburg Enforcers]]. He rules [[Mossburg]] proper with a kind smile, but you know the truth. He is as tyrannical as they come. You may have come to join one of the many street gangs in the city, or have been lucky enough to be born into the tightly secured High District - where the Enforcers themselves reside.
+
+> The [[Moss]]
 
 You gain +2 to your *Intelligence Score* and +1 to your *Strength Score*. You are proficient in the *History* and *Persuasion* Skills. You know [[Golopak (language)]], and your choice of one of the following;
 - [[Arthurian (language)]]
@@ -291,7 +301,7 @@ In addition, you have advantage on Wisdom (Insight) checks against those in posi
 ## Harvord Contractee
 You have spent your life before adventure working as a "permanent contractor" under the [[Harvord Trading Company]] and [[Baron Harvord]]. With his silver tongue and bold ideals, he controls a small portion of the [[Southern Quillbuck Jungle]] as a hard-core capitalist autocrat - and since the unfortunate demise of the [[Baron Xuiop]], a significant vacuum of power has opportunely presented itself. We aim to fill that power vacuum.
 
-> As a Contractee of the [[Harvord Trading Company]], you 
+> As a Contractee of the [[Harvord Trading Company]], you serve the whim of the wild-minded [[Baron Harvord]]. His sincere lack of empathy has left him with no friendships among the other Barons, and you with no major alliance. 
 
 You gain +2 to your *Charisma Score* and +1 to your *Intelligence Score*. You are proficient in the *Persuasion* skill. You know [[Golopak (language)]], [[Arthurian (language)]], and your choice of two of the following;
 - [[Actcenvan (language)]]
@@ -300,10 +310,12 @@ You gain +2 to your *Charisma Score* and +1 to your *Intelligence Score*. You ar
 - [[Kantine (language)]]
 - [[Montal (language)]]
 
-In addition, ...
+In addition, you gain the benefits of the Ranger's Natural Explorer feature while you are traveling in a jungle.
 
 ## Baronless
 You have spent your life before adventure wandering the Combine; you never able to establish a stable relationship with a Baron, and thus you were never safe. First victim of any racket, first removed from a state of housing, first blamed for mishaps unexplained.
+
+> Any relationships you have maintained are personal. You have no allegiance to a higher authority than your needs and morals.
 
 You gain +2 to your *Intelligence Score* and +1 to your *Wisdom Score*. You are proficient in the *Sleight of Hand* and *Performance Skills*. You know [[Golopak (language)]] and your choice of one of the following;
 - [[Arthurian (language)]]
