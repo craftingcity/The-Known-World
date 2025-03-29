@@ -175,8 +175,8 @@ In addition, you gain Expertise in your choice of *Stealth* or *Survival*.
 You have spent your life before adventure in the [[Dwarven Kingdom Suremantle]] - more commonly and improperly referred to in-whole as [[Mountain Hall]] - mining and defending the [[Deakred Range]] under one of four clans. Your culture values community first, but material wealth is a close second.
 
 > [[Mountain Hall]] proper is a major capital of world trade, second only to [[Coalition City]], and it is the capital city of the [[Dwarven Kingdom Suremantle]]. The artisans of Mountain Hall are credited with many advances in the field of archanotechnologies, most notably the synthesis of 'Dark Oil' used in the creation of Darksteel, Pressigen, and other alchemical materials.
-> [[Groundiki]] 
-> [[Red Hills]]
+> [[Groundiki]] is the northern-most city ruled by the [[Dwarven Kingdom Suremantle]], and acts as a crucial trade center between the [[Dwarven Kingdom Suremantle]] and [[The Church of the White Flame]]. A small but significant portion of the citizenship of [[Groundiki]] follow the Church's theology.
+> [[Red Hills]] is an important 
 > [[White Hills]] is a collection of small villages cornered on the border of both [[Coalition City]] and [[The Deserts of Tetrimoc]]. A large portion of these villages gather their business from merchants travelling between [[Coalition City]] and [[Kickoff]].
 
 You gain +2 to your *Consitution Score* and +1 to your *Strength Score*. You are proficient in the *Athletics* and *Medicine* Skills. You know [[Montal (language)]], and your choice of one of the following;
