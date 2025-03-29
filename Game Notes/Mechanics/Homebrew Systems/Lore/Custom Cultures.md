@@ -47,7 +47,7 @@ In addition, you have some form of legal identification of your membership to yo
 ## Kingdom of Prosper
 You spent your life before adventure in [[The Kingdom of Prosper]]. You have personally met with the [[Arthur Simonson|The Great Adventurer King]]. You spoke with him about history, honesty, and the moral right to a happy, educated, and full life. Most of the population of Prosper work the hundreds of fields of rye, squash, and beans that feed their neighbors and large military reserve - the guardsfolk, the Knights, and the engineers that keep Prosper on the cutting edge of military might - very useful, now that war has come to the north.
 
-The Kingdom of Prosper is a monarchic aristocracy, where each major city and its surrounding region is operated and controlled by one of the [[Noble Houses of Prosper]], who all submit to the unageing [[Arthur Simonson|King Of Prosper]].
+[[The Kingdom of Prosper]] is a monarchic aristocracy, where each major city and its surrounding region is operated and controlled by one of the [[Noble Houses of Prosper]], who all submit to the unageing [[Arthur Simonson|King Of Prosper]].
 
 > [[Janesland]] is ruled by the [[Noble House a'Fen]] and named in honor of 'The Righteous Warrior' [[Janice Austra]].
 > [[Gambleum]] is ruled by the [[Noble House a'Nyrk]] and named in honor of [[Big Buster]]'s proclivity to gamble away his share of an adventure.
@@ -172,7 +172,9 @@ In addition, you gain Expertise in your choice of *Stealth* or *Survival*.
 
 
 ## Mountain Halls
-You have spent your life before adventure in the [[Dwarven Kingdom Suremantle]] - more commonly and improperly referred to in-whole as [[Mountain Hall]] - mining and defending the [[Deakred Range]] under one of four clans. 
+You have spent your life before adventure in the [[Dwarven Kingdom Suremantle]] - more commonly and improperly referred to in-whole as [[Mountain Hall]] - mining and defending the [[Deakred Range]] under one of four clans. Your culture values community first, but material wealth is a close second.
+
+> [[Mountain Hall]] proper, the city, is a major capital of world trade, second only to [[Coalition City]], and is the capital city of the [[Dwarven Kingdom Suremantle]].
 
 You gain +2 to your *Consitution Score* and +1 to your *Strength Score*. You are proficient in the *Athletics* and *Medicine* Skills. You know [[Montal (language)]], and your choice of one of the following;
 - [[Arthurian (language)]]
