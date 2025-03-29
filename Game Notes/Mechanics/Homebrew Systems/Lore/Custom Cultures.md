@@ -175,6 +175,9 @@ In addition, you gain Expertise in your choice of *Stealth* or *Survival*.
 You have spent your life before adventure in the [[Dwarven Kingdom Suremantle]] - more commonly and improperly referred to in-whole as [[Mountain Hall]] - mining and defending the [[Deakred Range]] under one of four clans. Your culture values community first, but material wealth is a close second.
 
 > [[Mountain Hall]] proper, the city, is a major capital of world trade, second only to [[Coalition City]], and is the capital city of the [[Dwarven Kingdom Suremantle]].
+> [[Groundiki]]
+> [[Red Hills]]
+> [[White Hills]]
 
 You gain +2 to your *Consitution Score* and +1 to your *Strength Score*. You are proficient in the *Athletics* and *Medicine* Skills. You know [[Montal (language)]], and your choice of one of the following;
 - [[Arthurian (language)]]
