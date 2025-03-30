@@ -1,6 +1,5 @@
 Presented in order of commonality. Please consider all people to become adults at about 1/4th their maximum age, and consider all height and weight statements to be guidelines, not rules.
 
-
 # Alaturmenian
 ## Goblin
 
