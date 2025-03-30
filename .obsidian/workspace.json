@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b4797e9b98ae7448",
+        "id": "d1734fe13900169e",
         "type": "tabs",
         "children": [
           {
-            "id": "1c0a42cdfab4b3b5",
+            "id": "58a431e0259ec141",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,14 +20,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Alchemy Processes & Products"
+              "title": "New tab"
             }
           }
         ]
@@ -134,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.51240158081055,
-    "collapsed": true
+    "width": 388.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -282,70 +277,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "f376bf171904b303",
-    "type": "floating",
-    "children": [
-      {
-        "id": "dd3d85e6fec91b1e",
-        "type": "window",
-        "children": [
-          {
-            "id": "46cbdc50180cc12b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b736b1921f24c93e",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Alchemy Processes & Products"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 0,
-        "width": 768,
-        "height": 912,
-        "maximize": false,
-        "zoom": -1.5
-      }
-    ]
-  },
-  "active": "b736b1921f24c93e",
+  "active": "58a431e0259ec141",
   "lastOpenFiles": [
-    "Alchemical Motif Combinations.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
-    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
-    "MEDIA/SUPP/SCRIPTS/motifdisplay.py",
-    "MEDIA/SUPP/AlchemicalComponentsChart.png",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Languages.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+    "MEDIA/SUPP/SCRIPTS/motifdisplay.py",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range/Deakred Range.md",
@@ -361,8 +300,15 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/The Holy City of Kanielkiln.md",
+    "conflict-files-obsidian-git.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md",
+    "Prenotes Mar 11 25.md",
+    "Prenotes Mar 18 25.md",
+    "A Grand Notepad.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
+    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/MAPS/WORLD/underdark.png",
     "Game Notes/Prenotes/'25",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
@@ -373,6 +319,7 @@
     "MEDIA/SUPP/SPREADS/moodboards.pdf",
     "MEDIA/SUPP/SPREADS/moodboards.odp",
     "MEDIA/SUPP/SPREADS/metalics.ods",
+    "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "MEDIA/CHAR/danteFinal.jpg"
   ]
 }
