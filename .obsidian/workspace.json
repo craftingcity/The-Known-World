@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "057447b10b9873d2",
+        "id": "27ec60e247e6a3e9",
         "type": "tabs",
         "children": [
           {
-            "id": "4f73c86be794741a",
+            "id": "36f893f6968e44a3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,22 +18,22 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Magical Items of Note",
+                  "title": "World Features",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Magical Items of Note\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":312,\"ch\":54},\"to\":{\"line\":312,\"ch\":54}},\"scroll\":361.5696733273612}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"World Features\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Custom Heritages"
+              "title": "Custom Features"
             }
           }
         ]
@@ -288,8 +288,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f73c86be794741a",
+  "active": "36f893f6968e44a3",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
@@ -314,8 +316,6 @@
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md",
     "Prenotes Mar 11 25.md",
-    "Prenotes Mar 18 25.md",
-    "A Grand Notepad.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",

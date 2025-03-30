@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Features",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
+    },
+    {
+      "basename": "World Features",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md"
+    },
+    {
       "basename": "Custom Heritages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Strength As Carrying Capacity",
       "path": "Game Notes/Mechanics/Homebrew Systems/Strength As Carrying Capacity.md"
-    },
-    {
-      "basename": "Custom Features",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
-    },
-    {
-      "basename": "Custom Languages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Languages.md"
     }
   ],
   "omittedPaths": [],
