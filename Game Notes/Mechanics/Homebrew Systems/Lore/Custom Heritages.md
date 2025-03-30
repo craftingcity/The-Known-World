@@ -1,5 +1,3 @@
-Presented in order of commonality. Please consider all people to become adults at about 1/4th their maximum age, and consider all height and weight statements to be guidelines, not rules.
-
 # Alaturmenian
 ## Goblin
 
@@ -12,7 +10,7 @@ People with a heavy Goblin heritage find themselves in possession of odd pretern
 - You may be anywhere from 4 to 8 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 - You gain your choice of one of the following;
-	- You have a darkvision of 30 feet.
+	- You have a darkvision of 45 feet.
 	- You have a climbing speed equal to your walking speed. You cannot use this climbing speed while wearing heavy armor.
 	- You have a crawling speed equal to your walking speed. You cannot use this crawling speed while wearing heavy armor.
 	- You have an additional 5 feet of reach for the purposes of making melee attacks.
@@ -213,15 +211,15 @@ People with a heavy Elven heritage find themselves in possession of preternatura
 - You may, instead of voluntarily sleeping, enter a state of near unconsciousness known as a Trance to gain the same effects as a sleeping human would in 8 hours in 4 hours instead. 
 	- While this feature does reduce the amount of time you must spend Unconscious per day, it does not reduce the total amount of time you must spend Resting in a day without incurring Exhaustion.
 - You gain your choice of the following, corresponding with the Ceelie Court from which your ancestral Eladrin forbearers belonged;
-	- Childer of the Court of Spring gain the following;
+	- Childer of the *Court of Spring* gain the following;
 		- You have advantage on Perception checks that rely on sight.
 		- You have a walking speed of 35 feet per round.
-	- Childer of the Court of Summer gain the following;
+	- Childer of the *Court of Summer* gain the following;
 		- You know the Produce Flame cantrip, and may cast it as though you had the Wizard's Spellcasting feature.
 		- You have a darkvision of 30 feet.
-	- Childer of the Court of Fall gain the following;
+	- Childer of the *Court of Fall* gain the following;
 		- You know the Primal Savagery cantrip, and may cast it as though you had the Druid's Spellcasting feature. 
-	- Childer of the Court of Winter gain the following;
+	- Childer of the *Court of Winter* gain the following;
 		- You have a darkvision of 60 feet.
 		- You may, beginning at 1st, 3rd, and 5th level respectively, cast the Dancing Lights cantrip, Faerie Fire spell, and Darkness spell, once each without using a spell slot. At 11th level, you may use this feature to cast each spell twice each. You regain the use of this feature after a long rest.
 		- You have disadvantage on Attack Rolls and Perception checks that rely on sight when you are in direct sunlight.
@@ -251,3 +249,5 @@ People with a heavy Gnomish heritage find themselves in possession of what seems
 - You have advantage on all Intelligence, Wisdom, and Charisma Saving Throws against spells and magical effects. 
 - Whenever you make an Intelligence (History) check related to magical, alchemical, or technological items, you can add twice your proficiency bonus instead of any other proficiency bonus that may apply. 
 - Whenever you make an Intelligence (History) or an Ability Check involving artisans tools, you can roll a d4 and add the number rolled to the total ability check.
+
+# &&WIP&& &&WIP&& &&WIP&& &&WIP&&
