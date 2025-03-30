@@ -56,9 +56,13 @@ You spent your life before adventure in [[The Kingdom of Prosper]]. You have per
 [[The Kingdom of Prosper]] is a monarchic aristocracy, where each major city and its surrounding region is operated and controlled by one of the [[Noble Houses of Prosper]], who all submit to the unageing [[Arthur Simonson|King Of Prosper]].
 
 > [[Janesland]] is ruled by the [[Noble House a'Fen]] and named in honor of 'The Righteous Warrior' [[Janice Austra]].
+
 > [[Gambleum]] is ruled by the [[Noble House a'Nyrk]] and named in honor of [[Big Buster]]'s proclivity to gamble away his share of an adventure.
+
 > [[Magius]] is ruled by the [[Noble House a'Valim]] and named in honor of 'The War Wizard' [[Guraxlog]].
+
 > [[Yerba]] is ruled by the [[Noble House a'LeQuinn]] and named in honor of [[Mateus Fyrren]]'s favorite comical exclamation.
+
 > Additionally, the [[Order of Arthurian Saints]] and the collective standing army of [[Arthur's Knights]] are operated by the [[Noble House a'Haruuc]].
 
 You gain +2 to your *Constitution Score* and +1 to your *Charisma Score*. You are proficient in the *History* and *Insight* Skills. You know [[Arthurian (language)]] and your choice of one of the following;
@@ -76,9 +80,13 @@ You spent your life before adventure with one of the [[Blood Clans]] of the [[Il
 The Blood Clans were born in response to the growing power of the [[Bandit Lords]], creating an opposed federation. Since the fall of the Bandit Lords circa 060AF, however, the Blood Clans have largely dissolved the collectivism of their federation, and returned to infighting.
 
 > The [[Hurraquk Clan]] and the [[Garqwak Clan]] are two opposed halves of one family, and are fighting a bloody war for the other's portion of their mother's territory.
+
 > The [[Emorin Clan]] is a capitalist bureaucracy attempting to distance themselves from their 'warmongering cousins' of the other Clans by participating in the commerce of the larger world.
+
 > The [[Scrivin Clan]] is an anarchistic arcanacracy who use their accursed magics to attack and annex anyone and everything. Well, they try.
+
 > The [[Bulgpim Clan]] is an anonymous theocracy that worships a sect of deities and speaks a language that are both largely unknown.
+
 > The [[Wheernat Clan]] is a socialist clan of hunter-gatherers that is largely isolated from the other northern communities, and typically avoid interacting with others unnecessarily.
 
 You gain +2 to your *Constitution Score* and +1 to your *Wisdom Score*. You are proficient with the *Nature* and *Survival* Skills. You know [[Kantine (language)]] and your choice of one of the following;
@@ -103,9 +111,13 @@ In addition, when you take the Help action to aid another creature’s ability c
 You have spent your life before adventure with [[The Church of the White Flame]]. You were watched by the Flame. Guided by it. [[Its Greatness]] is as real as any other God of Alaturmen. You served Its wishes, and the wishes of Its champions, and in return, you were granted a decent life. Since the turn of the century, your society has significantly recovered from the [[Great Fires]] and begun to stretch it's reach eastward - war has come to the north.
 
 > [[Kohnstamm]] is the western-most city in [[The Holyl'nds]], and the largest industrial center of [[The Church of the White Flame]]. As a product of their positive economic circumstance, the few people who leave [[The Holyl'nds]] are typically from here.
+
 > [[Odaya]] is the northern-most city in [[The Holyl'nds]], and the most brutal. As a result of [[The Assault of the Giant Dissenters]] and the loss of [[Baskin]], [[Odaya]] has gathered a significant influx of refugees - and at the same time, the city experiences consistent banditry at the hands of the [[#Waster Nomad]]s to their north-west.
+
 > [[Yagil]] is the eastern-most city in [[The Holyl'nds]], and acts as the major center of supply in the ongoing conflicts with [[Cenva Minyo]] and the [[Dwarven Kingdom Actstow]].
+
 > [[The Holy City of Kanielkiln]] is the capital city of [[The Church of the White Flame]]. Those who are born here are the few capable of becoming Firstchurch, a high honor in [[The Holyl'nds]]. Kanielkin is the center of the [[The Church of the White Flame|Church of Flame]]'s empire, wherein the White Church itself hosts the Blackened Brazier and [[Its Greatness|The Great White Flame]] itself.
+
 > [[Wychway]] is the southern-most city in [[The Holyl'nds]], and is most notable for their social tolerance and their unusual leadership - [[Jorrin Bearscarred]] rules the city as the one leader within the [[The Church of the White Flame|White Church]] that is not Firstchurch or greater, and supports the desegregation & disillusion of the Church's strict caste system.
 
 You gain +2 to your *Charisma Score* and +1 to your *Constitution Score*. You are proficient in the *History* and *Intimidation* Skills. You know [[Fanyaquestan (language)]] and your choice of one of the following;
@@ -119,6 +131,7 @@ In addition, while you are conscious and within 15 feet of a source of [[Its Gre
 You have spent your life before adventure without [[The Church of the White Flame]]. Servants of the [[Its Greatness|White Flame]] hunt you when you make your way too close to 'civilization'. If you were lucky, you joined a band of like minds, and lived in squalor and the safety of numbers. Your work was simple, but hard. You would perform manual labor, you would rigorously gather food and materials for your tribe, and above all else, you would fight against the 'Homeland Force' and the 'Holy Crusaders' who would come to do you harm.
 
 > The city of [[Giant's Toe]] is host to [[Macht's Brood]], who occupy the opulent home of their now dead enslavers from the Plane of Earth. As the Brood grew, a portion of the group would travel south, into the west [[Litteortosta]] to form another Brood, the [[Katz Brood]].
+
 > The area of [[Littetavarse]] is host to [[Hektor's Bandits]], a tribe of lifelong resistance fighters who are spread throughout the area in a constant war for survival and freedom against the [[The Church of the White Flame|White Church]].
 
 You gain +2 to your *Dexterity Score* and +1 to your *Constitution Score*. You are proficient in the *Survival* and *Perception* Skills. You know [[Fanyaquestan (language)]] and your choice of one of the following;
@@ -144,7 +157,9 @@ In addition, you have Advantage on Investigation or Insight checks in attempts t
 You have spent your life before adventure in [[The Deserts of Tetrimoc]], paying tithe and fealty to He Who Makes the Sun Rise, the Planeborn, the Great Yellow Dragon [[Tetrimoc]]. Your life has been full of hardship and expectation, but your faith keeps you safe from the dangers of the desert.
 
 >[[Kickoff]] is a large mining town, hosting the greatest Durandurm mines in all of Alaturmen, and it's artisans are credited with creating the foundation of Durandurm Archanotech.
+
 >[[Athenion]] is the defacto capital city of [[Tetrimoc's Blessings]], a lush area to the south of [[The Golden City]] that is heavily patrolled by the [[Golden Claws]]' Gleeming Wyvern Riders.
+
 > [[Cetaka]] & [[Raezumar]] are the two villages present in the area known as [[Lord's Folly]]. Both find greater support from [[Agrandica's Thieves]] or [[Cobalt's Thieves]] than the [[Golden Claws]], though the latter still collect their taxations.
 
 You gain +2 to your *Constitution Score* and +1 to your *Intelligence Score*. You are proficient in the *Survival* and *Athletics* Skills. You know [[Desertspeech (language)]] and your choice of one of the following;
@@ -166,7 +181,9 @@ In addition, you gain the benefits of the Ranger's Natural Explorer feature whil
 You have spent your life before adventure roaming [[The Deserts of Tetrimoc]], stealing from water-merchants and the few travelers who could afford it alongside bands of like-minds. You follow [[The Code of Thieves]], an outline of how you and your peer-opponents operate in combat and in life. Above all else, [[The Code of Thieves]] teaches respect for life - both yours and your opponents. We fight for our families, all of us. The pain of a loss is sharper than any blade. Think of their mother. Their partner. Their children. Think of yours. I will, when I have my barrel to your chest, and I know you will show me the same respect.
 
 > [[Agrandica's Thieves]] occupy [[Agrandica's Savanna]], an area west of [[Kickoff]] and north of [[Lord's Folly]]. [[Agrandica's Thieves]] have an established trade relationship with the [[Dwarven Kingdom Suremantle]] that leaves the Thieves with a majority share of the metallics trade in the Deserts.
+
 > [[Barthalmule's Thieves]] occupy [[Barthalamule's Shrubland]], an area on the western shore of the [[Alvalini River]]. [[Barthalmule's Thieves]] are the major threat to any water merchants travelling to and from the [[Alvalini River]].
+
 > [[Cobalt's Thieves]] occupy [[Cobalt's Cacti Field]], a lush area in the far south of [[The Deserts of Tetrimoc]]. [[Cobalt's Thieves]] are distanced from the rule of the [[Golden Claws]], and have been largely left to their own devices. [[Cobalt]] encourages a productive farming culture for those who reside in the area - to which the Nomads make attempts to take advantage.
 
 You gain +2 to your *Dexterity Score* and +1 to your *Charisma Score*. You are proficient in the *Stealth* and *Survival* Skills. You know [[Desertspeech (language)]], and your choice of one of the following;
@@ -181,8 +198,11 @@ In addition, you gain Expertise in your choice of *Stealth* or *Survival*.
 You have spent your life before adventure in the [[Dwarven Kingdom Suremantle]] - more commonly and improperly referred to in-whole as [[Mountain Hall]] - mining and defending the [[Deakred Range]] under one of four clans. Your culture values community first, but material wealth is a close second.
 
 > [[Mountain Hall]] proper is a major capital of world trade, second only to [[Coalition City]], and it is the capital city of the [[Dwarven Kingdom Suremantle]]. The artisans of Mountain Hall are credited with many advances in the field of archanotechnologies, most notably the synthesis of 'Dark Oil' used in the creation of Darksteel, Pressigen, and other alchemical materials.
+
 > [[Groundiki]] is the northern-most city ruled by the [[Dwarven Kingdom Suremantle]], and acts as a crucial trade center between the [[Dwarven Kingdom Suremantle]] and [[The Church of the White Flame]]. A small but significant portion of the citizenship of [[Groundiki]] follow the Church's theology.
+
 > [[Red Hills]] is an important source of ferrous minerals for the [[Dwarven Kingdom Suremantle]], and the largest exporter of iron and steel goods throughout Alaturmen.
+
 > [[White Hills]] is a collection of small villages cornered on the border of both [[Coalition City]] and [[The Deserts of Tetrimoc]]. A large portion of these villages gather their business from merchants travelling between [[Coalition City]] and [[Kickoff]].
 
 You gain +2 to your *Consitution Score* and +1 to your *Strength Score*. You are proficient in the *Athletics* and *Medicine* Skills. You know [[Montal (language)]], and your choice of one of the following;
@@ -198,6 +218,7 @@ In addition, you gain the benefits of the Ranger's Natural Explorer feature whil
 You have spent your life before adventure in the boardwalk cities of the [[Huntyr Swamp]] working under [[Baron Filip]]. You were trained for your duties, serving the people who serve the Baron, and perhaps were deemed so excellent in your skills to move closer towards Filip's inner circle. Your Baron is kindhearted and fierce, and he expects his Knights to act as he would.
 
 > The [[Knights in Red]] are loosely aligned with [[Five Pike]] and the [[Mossburg Enforcers]] and against the newly formed [[SEASEC|South-Eastern Alliance of Security]] containing the [[Slimknives]], [[Riphounds]], and [[Dampguard]]. Another Bandit Lords scenario is unnecessary.
+
 > [[Red Throne]] is the capital city of the [[Knights in Red]].
 
 You gain +2 to your *Strength Score* and +1 to your *Charisma Score*. You are proficient in the *Athletics* and *Religion* Skills. You know [[Golopak (language)]] and your choice of one of the following;
@@ -212,6 +233,7 @@ In addition, you learn one Fighting Style option of your choice from the Fighter
 You have spent your life before adventure in the [[Gabrin Shrublands]] working under the [[Baron Shimmer]]. You were likely a part of a raiding crew, taking scores from Guild Merchants traveling the [[Alvalini River]].  Or, you were a feared shadow-blade in the mind of those who would refuse the Baron's taxation.
 
 > The [[Dampguard]] are in a tight alliance with the [[Slimknives]] and the [[Riphounds]] under the banner of the [[SEASEC|South-Eastern Alliance of Security]] given the proclivity for members of any of the three to be hired to Private Military Companies.
+
 > [[Goldfield]] is the capital city of the [[Dampguard]].
 
 You gain +2 to your *Dexterity Score* and +1 to your *Strength Score*. You are proficient in the Athletics and Intimidation Skills. You know [[Golopak (language)]] and your choice of one of the following;
@@ -226,6 +248,7 @@ In addition, you have advantage on *Stealth* checks made while underwater.
 You have spent your life before adventure working under the [[Baron Glask]]. The [[Eastlick Mossland]] is ruled with a bloody fist, and it was your duty beat and be beaten. You were born into violence. Your life has been painful, brutal, and deadly. And so it shall continue to be.
 
 > The [[Riphounds]] have been a defacto mercenary company since their birth in [[Asilar's Bounty]], but in recent years the gang has allied with the [[Slimknives]] and the [[Dampguard]] under the banner of the [[SEASEC|South-Eastern Alliance of Security]].
+
 > [[Barkryn]] is the capital city of the [[Riphounds]].
 
 You gain +2 to your *Strength Score* and +1 to your *Constitution Score*. You are proficient in the *Animal Handling* and *Intimidation* Skills. You know [[Golopak (language)]] and [[Kantine (language)]].
@@ -237,6 +260,7 @@ In addition, once per long rest, when you deal damage with a weapon attack, you 
 You have spent your life before adventure in the dreary villages of the [[Westlick Mossland]]. As an agent of [[Baron Avory]], you placed items in certain locations, spoke odd phrases to certain peoples, copied documents you didn't understand, and slit the throats of targets whose name or crime you did not dare ask. Your life is calm, simple, and profitable. So long as you can keep your curiosity to yourself.
 
 > In addition to their multitude of interests, the [[Slimknives]] have recently organized the [[SEASEC|South-Eastern Alliance of Security]], a Private Military Conglomerate that acts in service to the Barons of the [[Slimknives]], [[Dampguard]], and [[Riphounds]].
+
 > [[Beacon]] is the capital city of the [[Slimknives]]
 
 You gain +2 to your *Dexterity Score* and +1 to your *Intelligence Score*. You are proficient in the *Deception* and *Stealth* Skills. You know [[Golopak (language)]] and [[Thieves Cant (language)]].
@@ -248,6 +272,7 @@ In addition, once per turn, you can deal an extra 1d6 damage to one creature you
 You have spent your life before adventure in the [[Northern Quillbuck Jungle]] under the protection of the [[Beasts Righteous]]. In recent years, the [[Beasts Righteous]] have fallen, [[Baron Xuiop]] has been slain. The jungle is wild, but life in the cities of men are wilder. We act in honor of our Fallen Baron, and though our cities have fallen, we aim to reclaim what we can.
 
 > Your Baron has fallen, but your alliance to your kin has not, nor has the reputation of your name. Before the fall of your cities, the [[Knights in Red]] and [[Grovetenders]] were your most fervent alliances, an they would likely still honor you in that regard. The banditry of the [[SEASEC|South-Eastern Alliance of Security]] and the [[Harvord Trading Company]] has only grown stronger in your absence.
+
 > Once upon a time, [[Boneborn]] was the capital city of the [[Beasts Righteous]], but since it has fallen, a majority of the population has traveled south-east and settled the city of [[Korianis]].
 
 You gain +2 to your *Wisdom Score* and +1 to your *Strength Score*. You are proficient in the *Acrobatics*, *Nature*, and *Survival* Skills. You know [[Golopak (language)]].
@@ -259,6 +284,7 @@ In addition, once per seven days, you may spend an action. If you do so, make a 
 You have spent your life before adventure in the [[Grumbling Hills]] working the hard lands controlled by your Baron, [[Baron Jammu|Amethyst Jammu]], for potatoes and gold. When it has been necessary, you have defended these hills against those who would take them. This was not a joyful affair.
 
 > The [[Hillkeep Loyalists]] are very loosely allied with all of the other Baronies for the benefit of their trade routes - while this allows a Loyalist to traverse the Combine without taxation, they find little protection in the shadier Baronies, such as those under the rule of [[SEASEC]] or [[Baron Harvord]].
+
 > The [[Darnt Hillkeep]] is the capital city of the [[Hillkeep Loyalists]].
 
 You gain +2 to your *Strength Score* and +1 to your *Wisdom Score*. You are proficient in the *Athletics* and *Sleight of Hand Skills*. You know [[Golopak (language)]] and your choice of one of the following;
@@ -272,6 +298,7 @@ In addition, once per round, when you deal damage with a weapon attack, you may 
 You have spent your life before adventure as a member of the [[Grovetenders]]. You have nurtured growth throughout the [[Southern Third]] of the [[Great Southern Mossland]] under the gracious watch of the [[Baron Cassindil]]. You fed yourself and others, your actions were charitable - and this perception has kept you safe.
 
 > The [[Grovetenders]] are held in high regard for their work enriching the [[Southern Third]] and their dedication to Sune. Their tightest alliances are with the [[Dampguard]] and the [[Beasts Righteous]] due to their proximity and the benefits they gain. The [[Harvord Trading Company]] is the antithesis of their work, and a plight on all the lands.
+
 > [[Zalfari]] is the capital city of the [[Grovetenders]].
 
 You gain +2 to your *Wisdom Score* and +1 to your *Charisma Score*. You are proficient in the *Nature* and *Religion* Skills. You know [[Golopak (language)]] and your choice of one of the following;
@@ -286,6 +313,7 @@ In addition, you know the Druidcraft cantrip, and may cast it as though you had 
 You have spent your life before adventure caring for the misfortunate. The [[Wetfoot Greenland]] is ruled by you and yours (and ostensibly [[Baron J'Tail]], but you know better than most he is simply a figurehead) with a healing palm. The study of the body and mind is your culture's greatest pass-time, and the application of this knowledge is your hometown's most profitable business.
 
 > [[Five Pike]] are aligned with their kindest neighbors in the [[Knights in Red]] and the [[Mossburg Enforcers]], leaving them in poor standing with their enemies, where [[SEASEC]] in particular makes regular assaults against your faction's caravans and settlements.
+
 > [[Lakeview]] is the capital city of [[Five Pike]].
 
 You gain +2 to your *Wisdom Score* and +1 to your *Dexterity Score*. You are proficient in the *Arcana* and *History* Skills. You know [[Golopak (language)]], [[Arthurian (language)]], and [[Kantine (language)]].
@@ -297,6 +325,7 @@ In addition, when you make an Intelligence (Medicine) Check to stabilize a creat
 You have spent your life before adventure paying fruitless taxes and obeying insignificant laws under the [[Baron Vannis]] and his [[Mossburg Enforcers]]. He rules [[Mossburg]] proper with a kind smile, but you know the truth. He is as tyrannical as they come. You may have come to join one of the many street gangs in the city, or have been lucky enough to be born into the tightly secured High District - where the Enforcers themselves reside.
 
 > The [[Mossburg Enforcers]] have made allies with the [[Knights in Red]] and [[Five Pike]] in their ongoing conflicts with the [[Beasts Righteous]] and the factions of [[SEASEC]], though their politics leave them in the third place of that alliance.
+
 > [[Mossburg]] is the capital city of the [[Mossburg Enforcers]].
 
 You gain +2 to your *Intelligence Score* and +1 to your *Strength Score*. You are proficient in the *History* and *Persuasion* Skills. You know [[Golopak (language)]], and your choice of one of the following;
@@ -309,6 +338,7 @@ In addition, you have advantage on Wisdom (Insight) checks against those in posi
 You have spent your life before adventure working as a "permanent contractor" under the [[Harvord Trading Company]] and [[Baron Harvord]]. With his silver tongue and bold ideals, he controls a small portion of the [[Southern Quillbuck Jungle]] as a hard-core capitalist autocrat - and since the unfortunate demise of the [[Baron Xuiop]], a significant vacuum of power has opportunely presented itself. We aim to fill that power vacuum.
 
 > As a Contractee of the [[Harvord Trading Company]], you serve the whim of the wild-minded [[Baron Harvord]]. His sincere lack of empathy has left him with no friendships among the other Barons, and you with no major alliance. 
+
 > [[New Quillbuck]] is the capital city of the state the of [[Harvord Trading Company]]
 
 You gain +2 to your *Charisma Score* and +1 to your *Intelligence Score*. You are proficient in the *Persuasion* skill. You know [[Golopak (language)]], [[Arthurian (language)]], and your choice of two of the following;

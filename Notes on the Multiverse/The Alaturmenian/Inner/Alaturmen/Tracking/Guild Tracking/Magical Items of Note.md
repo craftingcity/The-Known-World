@@ -47,11 +47,11 @@ aliases:
 	Source: 'The Progenitor' ?;(possibly Tetrimoc or equal)
 	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: GME-013 is, at the time of record, an uncontained non-threat, located at ///REDACTED///, an area in the relative south-east of the Underdark.
+	Entry Description: GME-013 is, at the time of record, an uncontained non-threat, located at ///REDACTED///, an area in the relative south-east of the Extraplane: Underdark, though the precise location is constantly changing.
 
 	GME-013 is a large glowing cyan-blue gemstone estimated to be roughly 36' in diameter, though its current location prevents acurrate measurement. GME-013 actively and consistently emits a field of organically attractive material, since identified as diffused Earth Essance, which aggresively encourages growth of local flora and provides the resources necessary to do so.
 
-	During the course of experimentation, GME-013 displayed signs of agression and intelligence by promoting the growth of flora nearby personnel investigating GME-013 in an attempt to entangle and trap them.
+	During the course of experimentation, GME-013 displayed signs of agression and intelligence by promoting the growth of flora nearby personnel investigating GME-013 in an attempt to entangle and trap them, which has reduced the number of accurate experiments .
 ```
 
 #### Relics of the Druids

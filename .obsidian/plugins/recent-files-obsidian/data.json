@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
+      "basename": "Magical Items of Note",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
+    },
+    {
+      "basename": "Magic Item Authors",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md"
+    },
+    {
+      "basename": "Dwarven Kingdom Suremantle",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md"
     },
     {
       "basename": "Languages",
       "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Languages.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
     {
       "basename": "Southeastern Central",
@@ -23,10 +35,6 @@
     {
       "basename": "Deakred Range",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range/Deakred Range.md"
-    },
-    {
-      "basename": "Dwarven Kingdom Suremantle",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md"
     },
     {
       "basename": "The Golden City",
@@ -117,10 +125,6 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
     },
     {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
-    },
-    {
       "basename": "Prenotes Feb 01 25",
       "path": "Game Notes/Prenotes/'25/Prenotes Feb 01 25.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Custom Languages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Languages.md"
-    },
-    {
-      "basename": "Lingering Injuries",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lingering Injuries.md"
     }
   ],
   "omittedPaths": [],
