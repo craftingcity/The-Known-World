@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "AlchemicalComponentMotifs",
+      "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
+    },
+    {
+      "basename": "AlchemicalComponentsChart",
+      "path": "MEDIA/SUPP/AlchemicalComponentsChart.png"
+    },
+    {
       "basename": "Custom Features",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
-    },
-    {
-      "basename": "Sarahouse Deakred Game",
-      "path": "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md"
-    },
-    {
-      "basename": "Strength As Carrying Capacity",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Strength As Carrying Capacity.md"
     }
   ],
   "omittedPaths": [],
