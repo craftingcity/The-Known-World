@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4fa9203cc8bfe172",
+        "id": "b4797e9b98ae7448",
         "type": "tabs",
         "children": [
           {
-            "id": "2e2d511b8f6f8009",
+            "id": "ab0a7003624f9a8f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,12 +20,14 @@
               ]
             },
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
+                "file": "Alchemical Motif Combinations.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "AlchemicalComponentMotifs"
+              "icon": "lucide-file",
+              "title": "Alchemical Motif Combinations"
             }
           }
         ]
@@ -280,8 +282,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e2d511b8f6f8009",
+  "active": "ab0a7003624f9a8f",
   "lastOpenFiles": [
+    "Alchemical Motif Combinations.md",
+    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/SCRIPTS/motifdisplay.py",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
@@ -311,7 +315,6 @@
     "conflict-files-obsidian-git.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
-    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/MAPS/WORLD/underdark.png",
     "Game Notes/Prenotes/'25",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
@@ -322,7 +325,6 @@
     "MEDIA/SUPP/SPREADS/moodboards.pdf",
     "MEDIA/SUPP/SPREADS/moodboards.odp",
     "MEDIA/SUPP/SPREADS/metalics.ods",
-    "MEDIA/CHAR/danteFinal.jpg",
-    "MEDIA/SUPP/Lingering Injuries.pdf"
+    "MEDIA/CHAR/danteFinal.jpg"
   ]
 }

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "AlchemicalComponentMotifs",
       "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Forgehome",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md"
-    },
-    {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
     }
   ],
   "omittedPaths": [],

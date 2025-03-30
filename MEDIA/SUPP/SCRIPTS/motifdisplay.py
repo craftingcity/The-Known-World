@@ -37,3 +37,5 @@ for FirstMotif in AlchemicalMotifs:
         saySecond = SecondMotif
         combonations += 1
         print(f"{combonations}; {sayFirst} {saySecond}")
+
+waitForInput = input("\n...")
