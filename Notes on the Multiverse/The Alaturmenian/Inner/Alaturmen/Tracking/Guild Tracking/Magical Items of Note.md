@@ -51,7 +51,7 @@ aliases:
 
 	GME-013 is a large glowing cyan-blue gemstone estimated to be roughly 36' in diameter, though its current location prevents acurrate measurement. GME-013 actively and consistently emits a field of organically attractive material, since identified as diffused Earth Essance, which aggresively encourages growth of local flora and provides the resources necessary to do so.
 
-	During the course of experimentation, GME-013 displayed signs of agression and intelligence by promoting the growth of flora nearby personnel investigating GME-013 in an attempt to entangle and trap them, which has reduced the number of accurate experiments .
+	During the course of experimentation, GME-013 displayed signs of agression and intelligence by promoting the growth of flora nearby personnel investigating GME-013 in an attempt to entangle and trap them, which has reduced the number of accurate experiments that can be performed.
 ```
 
 #### Relics of the Druids
@@ -68,7 +68,7 @@ aliases:
 
 ###### Ablation
 ```
-	GME-045 "Item or Entity Name"
+	GME-045 "ABLATION"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -79,7 +79,7 @@ aliases:
 
 ###### Litigation
 ```
-	GME-046 "Item or Entity Name"
+	GME-046 "LITIGATION"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -90,7 +90,7 @@ aliases:
 
 ###### Fixation
 ```
-	GME-047 "Item or Entity Name"
+	GME-047 "FIXATION"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -101,7 +101,7 @@ aliases:
 
 ###### Emulation
 ```
-	GME-048 "Item or Entity Name"
+	GME-048 "EMULATION"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -140,7 +140,7 @@ aliases:
 ```
 	GME-013 "PRIMALLOY SCALEMAIL"
 	Threat Level: WHITE
-	Entry Class: TRINKET
+	Entry Class: TRINKET 
 	Source: Fyu-Friew (TL-G contained, confimed deceased)
 	Last Known Keeper: Quartermaster, Vault 0.
 
@@ -298,7 +298,7 @@ aliases:
 	GME-017 "NECKLACE OF COMPULSION"
 	Threat Level: COLOR
 	Entry Class: CLASS
-	Source: Mariana Arstovich (TL-B uncontained, location unknown)
+	Source: ~~Mariana~~ Arstovich (TL-B uncontained, location unknown)
 	Last Known Keeper: KEEPER
 
 	Entry Description: ...
@@ -310,7 +310,7 @@ aliases:
 	Threat Level: PURPLE
 	Entry Class: TRINKET
 	Source: Tianna Moore (TL-B uncontained, confirmed deceased)
-	Last Known Keeper: Syther Malkovich
+	Last Known Keeper: Syther Malkovich -> The Slimknives
 
 	Entry Description: ...
 ```
