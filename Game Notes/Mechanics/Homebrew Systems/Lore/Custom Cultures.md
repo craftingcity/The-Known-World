@@ -28,19 +28,25 @@ You gain +2 to your *Wisdom Score* and +1 to your *Intelligence Score*. You are 
 In addition, you have some form of legal identification of your membership to your Guild. Your earned ability to call upon the full weight of the [[Guilds of Coalition]] could - if used properly - grant you nearly any request you would speak. Choose one of the following;
 - [[Guild of Adventurers]]
 	> The Guild of Adventurers is a barely-functionally organized enforcement organization that specializes in disrupting major international or interplanar threats *and* the lives of everyday people through the use of wanton destruction, chaos, and greed.
+	
 	> Members of the Guild of Adventures are most often employed as mercenaries, guarding caravans or people as they moved around the world. 
 - [[Guild of Merchants]]
 	> The Guild of Merchants is a major infrastructure and logistics syndicate. Through price manipulation and inter-organization communication, things are made and moved to where they need to be.
+	
 	> Members of the Guild of Merchants are most commonly employed as accountants or drivers dealing with consistent, small-load deliveries between major cities or from a major city to its dependants.
+	
 	> The [[Guild of Merchants#Thieves Guild|Thieves Guild]] is a silent subdivision of the [[Guild of Merchants]] that specializes in the less-than-publicly-acceptable efforts of monopolizing peace, such as burglary, murder, espionage, and threat enforcement or denial.
 - [[Ranger's Guild]]
 	> The Ranger's Guild is a tight-knit network of people defending people. The main responsibility for any Ranger is the border of the Wildlands, preventing people from wandering too far and threats from wandering too close.
+	
 	> Most members of the Guild of Rangers are employed as small-town wardens, dealing with local pests or provisional issues - your most important duty, however, is warning the ignorant of the danger presented by the Wildlands.
 - [[Guild of Crafters]]
 	> The Guild of Crafters are responsible for the Coalition's major constructions and their bank of skill-craft information. Many of the Plane's most common technologies are kept well secret by these specialized Craftsfolk.
+	
 	> Most members of the Guild of Crafters are genuine artisans, having specialized in a given craft or trade and excelled enough in that field to be hired into the Guilds.
 - [[Guild of Wizards]]
 	> The Guild of Wizards maintains the largest collections of public knowledge avaliable to the world, and acts as the collective body responsible for the major decisions made by the Guilds at large. In addition to this, the Guild of Wizards works to investigate, list, or eliminate any and all spellcasters, magical items, or anomalies and the knowledge, materials, and effects surrounding them.
+	
 	> Members of the Guild of Wizards are most commonly employed as accountants or researchers, dealing with magical items or processes and the overwhelming bureaucratic process of recording any and all information regarding the past, present, and future of the subject.
 
 # North Eastern
@@ -290,7 +296,8 @@ In addition, when you make an Intelligence (Medicine) Check to stabilize a creat
 ## Mossburgian
 You have spent your life before adventure paying fruitless taxes and obeying insignificant laws under the [[Baron Vannis]] and his [[Mossburg Enforcers]]. He rules [[Mossburg]] proper with a kind smile, but you know the truth. He is as tyrannical as they come. You may have come to join one of the many street gangs in the city, or have been lucky enough to be born into the tightly secured High District - where the Enforcers themselves reside.
 
-> The [[Moss]]
+> The [[Mossburg Enforcers]] have made allies with the [[Knights in Red]] and [[Five Pike]] in their ongoing conflicts with the [[Beasts Righteous]] and the factions of [[SEASEC]], though their politics leave them in the third place of that alliance.
+> [[Mossburg]] is the capital city of the [[Mossburg Enforcers]].
 
 You gain +2 to your *Intelligence Score* and +1 to your *Strength Score*. You are proficient in the *History* and *Persuasion* Skills. You know [[Golopak (language)]], and your choice of one of the following;
 - [[Arthurian (language)]]
@@ -302,6 +309,7 @@ In addition, you have advantage on Wisdom (Insight) checks against those in posi
 You have spent your life before adventure working as a "permanent contractor" under the [[Harvord Trading Company]] and [[Baron Harvord]]. With his silver tongue and bold ideals, he controls a small portion of the [[Southern Quillbuck Jungle]] as a hard-core capitalist autocrat - and since the unfortunate demise of the [[Baron Xuiop]], a significant vacuum of power has opportunely presented itself. We aim to fill that power vacuum.
 
 > As a Contractee of the [[Harvord Trading Company]], you serve the whim of the wild-minded [[Baron Harvord]]. His sincere lack of empathy has left him with no friendships among the other Barons, and you with no major alliance. 
+> [[New Quillbuck]] is the capital city of the state the of [[Harvord Trading Company]]
 
 You gain +2 to your *Charisma Score* and +1 to your *Intelligence Score*. You are proficient in the *Persuasion* skill. You know [[Golopak (language)]], [[Arthurian (language)]], and your choice of two of the following;
 - [[Actcenvan (language)]]
