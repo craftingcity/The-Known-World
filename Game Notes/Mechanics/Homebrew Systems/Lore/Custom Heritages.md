@@ -3,7 +3,7 @@
 
 ![[goblin.png]]
 
-People with a heavy Goblin heritage find themselves in possession of odd preternatural biology. The origins of Goblin people in general are shrouded in mystery, but those who live now on Alaturmen have made claims that their ancestors have been "surviving in the soup of the multiverse since before it began".
+People with a heavy Goblin heritage find themselves in possession of odd preternatural biology. The origins of Goblin people in general are shrouded in mystery, but those who live now on Alaturmen make claims that their ancestors have been surviving "in the soup of the multiverse since before it began". Goblin people are present throughout Alaturmen in all manner of positions and lifestyles, but the [[Northeastern Central||North-Eastern Territories]] - states such as [[The Kingdom of Prosper]] or the [[Blood Clans]] - host a plurality of Goblin.
 
 - *Age* You may live up to 60 years.
 - *Weight* You may weigh anywhere from 40 to 350 pounds.
@@ -19,7 +19,7 @@ People with a heavy Goblin heritage find themselves in possession of odd pretern
 
 ![[human.png]]
 
-People with a heavy Human heritage find themselves in possession of very mundane biology. The origins of Human people on Alaturmen is largely mysterious; while seeking the answer, many records can only truthfully claim that "they simply appeared".
+People with a heavy Human heritage find themselves in possession of very mundane biology. The origins of Human people on Alaturmen is largely mysterious; while seeking the answer, many records can only truthfully claim that "they simply appeared". Human people are a minority population in all states of Alaturmen, including within [[The Church of the White Flame]] where they, alongside the Feyfolk, 
 
 - *Age* You may live up to 90 years.
 - *Weight* You may weigh anywhere from 100 to 200 pounds.

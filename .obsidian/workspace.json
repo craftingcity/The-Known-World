@@ -20,10 +20,43 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Custom Heritages"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7e0a911b5aad141c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9329e73dc534d723",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Custom Heritages"
             }
           }
         ]
@@ -130,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.51240158081055
+    "width": 388.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -277,7 +311,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58a431e0259ec141",
+  "active": "9329e73dc534d723",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
