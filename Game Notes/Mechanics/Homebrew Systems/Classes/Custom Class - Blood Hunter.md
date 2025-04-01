@@ -21,12 +21,15 @@ When you reduce a creature to 0 hitpoints that you have not affected with a *blo
 ##### Fate's Bargain
 You take this feature at 11th level.
 
-Your soul is your own again.
+Your soul is your own again. You have completed your bargain.
 
 ##### Fate's Wonder
+You take this feature at 14th level.
+
+
 
 ##### Fate's Protection
-You may take this feature at 18th level.
+You take this feature at 18th level.
 
 ## Blood Curses
 ##### Curse of the Warrior

@@ -249,3 +249,5 @@ People with a heavy Gnomish heritage find themselves in possession of what seems
 - Whenever you make an Intelligence (History) or an Ability Check involving artisans tools, you can roll a d4 and add the number rolled to the total ability check.
 
 # &&WIP&& &&WIP&& &&WIP&& &&WIP&&
+
+## Tiefling
