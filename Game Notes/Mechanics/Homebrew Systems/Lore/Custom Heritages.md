@@ -44,7 +44,7 @@ People with a heavy Dwarven heritage find themselves in possession of a dense an
 
 ![[triton.png]]
 
-People with a heavy Triton heritage find themselves in possession of many biological abilities one may associate with a fish. The origins of Triton people on Alaturmen is truthfully unknown, but legends claim that the first families had to swim to Alaturmen from the [[Plane of Water]] - against the current of the [[Alvalini River]] - before they would come to settle here. Trinton people are present throughout Alaturmen, but most come to occupy a home near a body of water - traditionally this is on either side of the [[Alvalini River]], joining [[Barthalmule's Thieves]] or the [[Dampguard]], but the population of Triton has grown around both the Twinlakes
+People with a heavy Triton heritage find themselves in possession of many biological abilities one may associate with a fish. The origins of Triton people on Alaturmen is truthfully unknown, but legends claim that the first families had to swim to Alaturmen from the [[Plane of Water]] - against the current of the [[Alvalini River]] - before they would come to settle here. Trinton people are present throughout Alaturmen, but most come to occupy a home near a body of water - traditionally this is on either side of the [[Alvalini River]], joining [[Barthalmule's Thieves]] or the [[Dampguard]], but the population of Triton has grown around both the Twinlakes.
 
 - *Age* You may live for up to 120 years.
 - *Weight* You weigh anywhere from 80 to 160 pounds.
