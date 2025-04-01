@@ -19,7 +19,7 @@ People with a heavy Goblin heritage find themselves in possession of odd pretern
 
 ![[human.png]]
 
-People with a heavy Human heritage find themselves in possession of very mundane biology. The origins of Human people on Alaturmen is largely mysterious; while seeking the answer, many records can only truthfully claim that "they simply appeared". Human people are a minority population in all states of Alaturmen, including within [[The Church of the White Flame]] where they, alongside the Feyfolk, 
+People with a heavy Human heritage find themselves in possession of very mundane biology. The origins of Human people on Alaturmen is largely mysterious; while seeking the answer, many records can only truthfully claim that "they simply appeared". Human people are a minority population in all states of Alaturmen, including within [[The Church of the White Flame]] where they, alongside the Feyfolk, are held in higher regard than their peers of other heritage.
 
 - *Age* You may live up to 90 years.
 - *Weight* You may weigh anywhere from 100 to 200 pounds.
@@ -31,7 +31,7 @@ People with a heavy Human heritage find themselves in possession of very mundane
 
 ![[dwarf.png]]
 
-People with a heavy Dwarven heritage find themselves in possession of a dense and hard biology. The origins of Dwarven people on Alaturmen are not exactly common knowledge, but some know that certain groups of Elven settlers carved Dwarves from stone nearly immediately after their arrival by request of their sires using specialized equipment.
+People with a heavy Dwarven heritage find themselves in possession of a dense and hard biology. The origins of Dwarven people on Alaturmen are not exactly common knowledge, but some know that certain groups of Elven settlers carved Dwarves from stone nearly immediately after their arrival by request of their sires using specialized equipment. Dwarven people, therefore, are most populous in areas with rich and open stone - such as the [[Deakred Range]], the [[Grumbling Hills]], or the [[Actstow Hills]] - where a major Dwarven Kingdom would come to be formed - the [[Dwarven Kingdom Suremantle]], the [[Dwarven Kingdom Jammu]], and the [[Dwarven Kingdom Actstow]] respectively.
 
 - *Age* You may live up to 180 years.
 - *Weight* You may weigh anywhere from 100 to 200 pounds.
@@ -44,7 +44,7 @@ People with a heavy Dwarven heritage find themselves in possession of a dense an
 
 ![[triton.png]]
 
-People with a heavy Triton heritage find themselves in possession of many biological abilities one may associate with a fish. The origins of Triton people on Alaturmen is truthfully unknown, but legends claim that the first families had to swim to Alaturmen from the [[Plane of Water]] - against the current of the [[Alvalini River]] - before they could settle here.
+People with a heavy Triton heritage find themselves in possession of many biological abilities one may associate with a fish. The origins of Triton people on Alaturmen is truthfully unknown, but legends claim that the first families had to swim to Alaturmen from the [[Plane of Water]] - against the current of the [[Alvalini River]] - before they would come to settle here. Trinton people are present throughout Alaturmen, but most come to occupy a home near a body of water - traditionally this is on either side of the [[Alvalini River]], joining [[Barthalmule's Thieves]] or the [[Dampguard]], but the population of Triton has grown around both the Twinlakes
 
 - *Age* You may live for up to 120 years.
 - *Weight* You weigh anywhere from 80 to 160 pounds.
