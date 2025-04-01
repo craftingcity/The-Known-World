@@ -5,12 +5,12 @@ aliases:
 # Adventures of The Stinkers
 ## People
 
-| PLAYER | NAME            | CLASS           | HERITAGE | CULTURE  |
-| ------ | --------------- | --------------- | -------- | -------- |
-| Lindon | Liana           |                 |          |          |
-| Keyna  |                 | Warlock (Fiend) |          |          |
-| Miri   |                 | Wizard          |          |          |
-| Hannah | Emilio Forillio | Bard            | Human    | Riphound |
+| PLAYER | NAME            | CLASS           | HERITAGE | CULTURE       |
+| ------ | --------------- | --------------- | -------- | ------------- |
+| Lindon | Liana           | Blunter         | Genasi   | Slimknife     |
+| Keyna  |                 | Warlock (Fiend) | Genasi   | Grovetender   |
+| Miri   |                 | Wizard          | Teifling | Druid Circles |
+| Hannah | Emilio Forillio | Bard            | Human    | Riphound      |
 
 ### Trusted Allies
 ### Mortal Adversaries

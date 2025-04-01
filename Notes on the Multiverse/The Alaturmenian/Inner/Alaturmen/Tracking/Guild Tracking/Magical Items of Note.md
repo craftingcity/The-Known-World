@@ -279,7 +279,7 @@ aliases:
 
 	GME-016 is a simple golden ring enscribed with the phrase 'Money, Power, Respect' in Arthurian. While worn, if the wearer speaks the words "I wish", their following sentance is considered by GME-016, which then attempts to enact the most harmful rendition of that wish.
 
-	GME-016 was contained by Kakurak after it's singular use by Frankie Avaati to remove the acting government of the 
+	GME-016 was contained by Kakurak after it's singular use by Frankie Avaati to remove the acting governments of the Great Northen Forests and make way for the oncoming rise of the Bandit Lords.
 ```
 
 ###### The Token of Indestructability
@@ -296,12 +296,14 @@ aliases:
 ###### The Necklace of Compulsion
 ```
 	GME-017 "NECKLACE OF COMPULSION"
-	Threat Level: COLOR
-	Entry Class: CLASS
-	Source: ~~Mariana~~ Arstovich (TL-B uncontained, location unknown)
-	Last Known Keeper: KEEPER
+	Threat Level: PURPLE
+	Entry Class: TRINKET
+	Source: Mariana Arstovich (TL-B uncontained, location unknown)
+	Last Known Keeper: Unknown, see Entry Description.
 
-	Entry Description: ...
+	Entry Description: GME-017 is to be stored within Vault 0's Warm Storage sector in a cube of pure force over 6" in each diameter.
+
+	GME-017 is a thin gold-link necklace roughly 2' in length. While worn, the wearer is highly suceptable to suggestion, and will wholeheartedly attempt to follow through on this suggestion even after the
 ```
 
 ###### The Mask of the Fallen Jester

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Magical Items of Note",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
+    },
+    {
+      "basename": "Guilded Mystic Entries",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "The Stinkers Game",
+      "path": "The Stinkers Game.md"
+    },
+    {
       "basename": "Custom Class - Blood Hunter",
       "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md"
     },
@@ -37,10 +53,6 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Texts Druidic.md"
     },
     {
-      "basename": "The Stinkers Game",
-      "path": "The Stinkers Game.md"
-    },
-    {
       "basename": "Dante Fukili",
       "path": "Junie's Characters/Dante Fukili.md"
     },
@@ -75,10 +87,6 @@
     {
       "basename": "World Features",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md"
-    },
-    {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
     },
     {
       "basename": "Magic Item Authors",
@@ -191,14 +199,6 @@
     {
       "basename": "Prenotes Feb 01 25",
       "path": "Game Notes/Prenotes/'25/Prenotes Feb 01 25.md"
-    },
-    {
-      "basename": "Prenotes Feb 04 25",
-      "path": "Game Notes/Prenotes/'25/Prenotes Feb 04 25.md"
-    },
-    {
-      "basename": "Prenotes Feb 11 25",
-      "path": "Game Notes/Prenotes/'25/Prenotes Feb 11 25.md"
     }
   ],
   "omittedPaths": [],
