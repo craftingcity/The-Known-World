@@ -54,6 +54,52 @@
             }
           },
           {
+            "id": "a7f399d766dd97b4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Grand Pantheon"
+            }
+          },
+          {
+            "id": "ea994bd66f132b76",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Baron Cassindil"
+            }
+          },
+          {
             "id": "2a7e60c4cb99d32b",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -100,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +196,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Glask",
+                "query": "sune",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,8 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.51240158081055,
-    "collapsed": true
+    "width": 388.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -352,10 +397,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cba458e2a717fc24",
+  "active": "ea994bd66f132b76",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "The Stinkers Game.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Junie's Characters/Dante Fukili.md",
@@ -380,7 +426,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/The Holy City of Kanielkiln.md",
     "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
