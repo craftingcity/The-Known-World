@@ -113,7 +113,7 @@ People with a heavy Goliath heritage find themselves in possession of a powerful
 
 ![[tabaxi.png]]
 
-People with a heavy Tabaxi heritage find themselves in possession of a very feline biology. The origins of Tabaxi people on Alaturmen are tied directly to [[Beasts Righteous]] and [[Darwine's Expulsion]].
+People with a heavy Tabaxi heritage find themselves in possession of a very feline biology. The origins of Tabaxi people on Alaturmen are tied directly to [[Beasts Righteous]] and [[Darwine's Expulsion]]. Tabaxi people are relatively uncommon on Alaturmen, and most still occupy their ancestral homeland in the [[Northern Quillbuck Jungle]].
 
 - *Age* You may live up to 90 years.
 - *Weight* You may weigh anywhere from 80 to 140 pounds.
@@ -126,7 +126,7 @@ People with a heavy Tabaxi heritage find themselves in possession of a very feli
 
 ![[kenku.png]]
 
-People with a heavy Kenku heritage find themselves in possession of an availian biology. The origins of Kenku people on Alaturmen are tied directly to [[Beasts Righteous]] and [[Darwine's Expulsion]].
+People with a heavy Kenku heritage find themselves in possession of an availian biology. The origins of Kenku people on Alaturmen are tied directly to [[Beasts Righteous]] and [[Darwine's Expulsion]]. Kenku people are relatively uncommon on Alaturmen, and most still occupy their ancestral homeland in the [[Northern Quillbuck Jungle]].
 
 - *Age* You may live up to 75 years.
 - *Weight* You may weigh anywhere from 60 to 120 pounds.
@@ -139,7 +139,7 @@ People with a heavy Kenku heritage find themselves in possession of an availian 
 
 ![[halfling.png]]
 
-People with a heavy Halfling heritage find themselves in possession of what seems to be some miniaturized version of a human's biology. The origins of Halfling people on Alaturmen are commonly understood to be a work of the latent Weave in creative joke-telling. It is claimed that one Goblin told a joke to another about a short & greedy cousin, and a Halfling came running up to the pair claiming to be the first Goblin's cousin, and then that Halfling joked about their side of the family, and the rest is history.
+People with a heavy Halfling heritage find themselves in possession of what seems to be some miniaturized version of a human's biology. The origins of Halfling people on Alaturmen are commonly understood to be a work of the latent Weave in creative joke-telling. It is claimed that one Goblin told a joke to another about a short & greedy cousin, and a Halfling came running up to the pair claiming to be the first Goblin's cousin, and then that Halfling joked about their side of the family, and the rest is history. Halfling people are relatively uncommon on Alaturmen, having no homeland of their heritage, they are, however, generally accepted wherever they may be.
 
 - *Age* You may live for up to 120 years.
 - *Weight* You may weigh anywhere from 40 to 80 pounds.
@@ -152,7 +152,7 @@ People with a heavy Halfling heritage find themselves in possession of what seem
 
 ![[kobold.png]]
 
-People with a heavy Kobold heritage find themselves in possession of a near-reptilian biology. The origins of Kobold people on Alaturmen are common information - they are formed from the drying blood of a Dragon. Historically, there has been no Kobold society outside of the [[Deakred Range]], although they are accepted in civilized society.
+People with a heavy Kobold heritage find themselves in possession of a near-reptilian biology. The origins of Kobold people on Alaturmen are common information - they are formed from the drying blood of a Dragon. Historically, there has been no Kobold society outside of the [[Deakred Range]], although they are generally accepted wherever they may be.
 
 - *Age* You may live up to 40 years.
 - *Weight* You may weigh anywhere from 40 to 80 pounds.
@@ -166,7 +166,7 @@ People with a heavy Kobold heritage find themselves in possession of a near-rept
 
 ![[genasi.png]]
 
-People with a heavy Genasi heritage find themselves in possession of an elemental biology. The origins of Genasi people on Alaturmen are relatively unknown - often each Genasi has their own story - travel, exile, or amnesia are the most common answers to that question.
+People with a heavy Genasi heritage find themselves in possession of an elemental biology. The origins of Genasi people on Alaturmen are relatively unknown - often each Genasi has their own story - travel, exile, or amnesia are the most common answers to that question. Genasi people are relatively rare on Alaturmen, and typically are integrated into a position of high cultural importance.
 
 - *Age* You do not age.
 - *Weight* You may weigh anywhere from 120 to 220 pounds.
@@ -201,7 +201,7 @@ The Fey Folk share many features absent in Alaturmenian peoples;
 
 ![[elf.png]]
 
-People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the Feywild. The origins of Elven people on Alaturmen are common information - they are the childer of the Eladrin, a rank of noble of the Ceelie Courts, purposefully born to take Alaturmen for the Ceelie. This plan was derailed in the [[Great Fires]], and the beginnings of a grand elven empire lay now bare in the Holyl'nd, along with the bones of many of kin and kind.
+People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the Feywild. The origins of Elven people on Alaturmen are common information - they are the childer of the Eladrin, a rank of noble of the Ceelie Courts, purposefully born to take Alaturmen for the Ceelie. This plan was derailed in the [[Great Fires]], and the beginnings of a grand elven empire lay now bare in the Holyl'nd, along with the bones of many of kin and kind. Elven people are present throughout Alaturmen in all manner of positions and lifestyles.
 
 - *Weight* You may weigh anywhere from 80 to 180 pounds.
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
