@@ -66,6 +66,19 @@ People with a heavy Orcish heritage find themselves in possession of a powerfull
 - When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You regain the use of this feature after a short rest.
 - You count as Large when determining your carrying capacity, what weapons you may wield, and the weight you can push, drag, or lift.
 
+## Gnoll
+
+![[gnol.png]]
+
+People with a heavy Gnoll heritage find themselves in possession of a very canine biology and a great Obsession, a painful hunger for action or vice. The origins of Gnoll people on Alaturmen are tied directly to the [[First Invasion of Orcus]], and as a result, Gnoll people are most commonly found in [[The Deserts of Tetrimoc]]. Unfortunately, the Gnoll are still legally declared 'enemies of the state' by the [[Golden Claws]], a notion of the past that still haunts these people, and are otherwise socially discriminated against in most civilizations and are left without favorable opportunities for growth. This results in most Gnoll falling into the cycle of violence they are born into. This is especially true for the Gnoll of the [[Custom Cultures#Outlander Nomad|Outlander Nomads]], who are encouraged to feed their addictions to the point of hysteria.
+
+- *Age* You may live up to 75 years.
+- *Weight* You may weigh anywhere from 140 to 240 pounds.
+- You may be anywhere from 5 to 7 feet tall. Your size is Medium.
+- Your base walking speed is 35 feet per round.
+- When you hit with an unarmed melee attack, you may add an additional 1d4 slashing damage to the damage you would normally deal.
+- When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make an unarmed melee attack.
+
 ## Dragonborn
 
 ![[dragonborn.png]]
@@ -83,25 +96,11 @@ People with a heavy Dragonborn heritage find themselves in possession of a near-
 		- A creature takes 2d8 damage on a failed save, and half as much damage on a successful one. This damage increase to 3d8 at 6th level, 4d8 at 11th, and 5d8 at 16th level. 
 	- You regain the use of this feature after a short rest.
 
-## Gnoll
-
-![[gnol.png]]
-
-People with a heavy Gnoll heritage find themselves in possession of a very canine biology and a great Obsession, a painful hunger for action or vice. The origins of Gnoll people on Alaturmen are tied directly to the [[First Invasion of Orcus]], and as a result, Gnoll people are most commonly found in [[The Deserts of Tetrimoc]]. Unfortunately, the Gnoll are still legally declared 'enemies of the state' by the [[Golden Claws]], a notion of the past that still haunts these people, and are otherwise socially discriminated against in most civilizations and are left without favorable opportunities for growth. This results in most Gnoll falling into the cycle of violence they are born into. This is especially true for the Gnoll of the [[Custom Cultures#Outlander Nomad|Outlander Nomads]], who are encouraged to feed their addictions to the point of hysteria.
-
-- *Age* You may live up to 75 years.
-- *Weight* You may weigh anywhere from 140 to 240 pounds.
-- You may be anywhere from 5 to 7 feet tall. Your size is Medium.
-- Your base walking speed is 35 feet per round.
-- When you hit with an unarmed melee attack, you may add an additional 1d4 slashing damage to the damage you would normally deal.
-- When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make an unarmed melee attack.
-
-
 ## Goliath
 
 ![[goliath.png]]
 
-People with a heavy Goliath heritage find themselves in possession of a powerfully resilient biology, providing extreme physical protection. The origins of Goliath people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and the secession of the [[Jarl Grungar]] & [[Kakurak]]'s deal with him - in exchange for a peaceful welcome, [[Kakurak]] would adapt [[Jarl Grungar]] and his clan of Frost Giants into the more socially acceptable (meaning smaller and weaker) *Goliath*. Since then, the Goliath have found their homes in the outer edges of our world.
+People with a heavy Goliath heritage find themselves in possession of a powerfully resilient biology, providing extreme physical protection. The origins of Goliath people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and the secession of the [[Jarl Grungar]] & [[Kakurak]]'s deal with him - in exchange for a peaceful coming to the [[Firelight Sea]], [[Kakurak]] would adapt [[Jarl Grungar]] and his clan of Frost Giants into the more socially acceptable (meaning smaller and weaker) *Goliath*. Since then, the Goliath have found their homes in the outer edges of our world, though most have remained in the Northern half of the world.
 
 - *Age* You may live up to 80 years.
 - *Weight* You may weigh anywhere from 140 to 240 pounds.
@@ -153,7 +152,7 @@ People with a heavy Halfling heritage find themselves in possession of what seem
 
 ![[kobold.png]]
 
-People with a heavy Kobold heritage find themselves in possession of a near-reptilian biology. The origins of Kobold people on Alaturmen are common information - they are formed from the drying blood of a Dragon.
+People with a heavy Kobold heritage find themselves in possession of a near-reptilian biology. The origins of Kobold people on Alaturmen are common information - they are formed from the drying blood of a Dragon. Historically, there has been no Kobold society outside of the [[Deakred Range]], although they are accepted in civilized society.
 
 - *Age* You may live up to 40 years.
 - *Weight* You may weigh anywhere from 40 to 80 pounds.
@@ -167,24 +166,24 @@ People with a heavy Kobold heritage find themselves in possession of a near-rept
 
 ![[genasi.png]]
 
-People with a heavy Genasi heritage find themselves in possession of an elemental biology. The origins of Genasi people on Alaturmen are relatively unknown - often each Genasi has their own story of travel or amnesia.
+People with a heavy Genasi heritage find themselves in possession of an elemental biology. The origins of Genasi people on Alaturmen are relatively unknown - often each Genasi has their own story - travel, exile, or amnesia are the most common answers to that question.
 
 - *Age* You do not age.
 - *Weight* You may weigh anywhere from 120 to 220 pounds.
 - You may be anywhere from 4 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 - You gain your choice of the following, corresponding with the major Elemental Plane from which you or your ancestors hail;
-	- Those hailing from the Plane of Air gain the following;
+	- Those hailing from the **Plane of Air** gain the following;
 		- You gain a flying speed of 50 feet per round, though you cannot use this speed when you are wearing medium or heavy armor. 
 		- You can hold your breath indefinitely while you’re not incapacitated.
-	- Those hailing from the Plane of Fire gain the following;
+	- Those hailing from the **Plane of Fire** gain the following;
 		- You have resistance to fire damage.
 		- You have a darkvision of 60 feet.
 		- You may cast the *hellish rebuke* spell without using a spell slot. Constitution is your spellcasting ability for this spell. You regain the use of this feature after a short rest.
 	- Those hailing from the Plane of Water gain the following;
 		- You have resistance to cold damage.
 		- You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.
-	- Those hailing from the Plane of Earth gain the following;
+	- Those hailing from the **Plane of Earth** gain the following;
 		- You have immunity against poison damage and the poisoned condition.
 		- Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered to have expertise in the History skill.
 
@@ -202,7 +201,7 @@ The Fey Folk share many features absent in Alaturmenian peoples;
 
 ![[elf.png]]
 
-People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the Feywild. The origins of Elven people on Alaturmen are common information - they are the childer of the Eladrin, a rank of noble of the Ceelie Courts, purposefully born to take Alaturmen for the Ceelie. This plan was derailed in the Great Fires, and the beginnings of a grand elven empire lay now bare in the Holyl'nd, along with the bones of many of kin and kind.
+People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the Feywild. The origins of Elven people on Alaturmen are common information - they are the childer of the Eladrin, a rank of noble of the Ceelie Courts, purposefully born to take Alaturmen for the Ceelie. This plan was derailed in the [[Great Fires]], and the beginnings of a grand elven empire lay now bare in the Holyl'nd, along with the bones of many of kin and kind.
 
 - *Weight* You may weigh anywhere from 80 to 180 pounds.
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
@@ -210,15 +209,15 @@ People with a heavy Elven heritage find themselves in possession of preternatura
 - You may, instead of voluntarily sleeping, enter a state of near unconsciousness known as a Trance to gain the same effects as a sleeping human would in 8 hours in 4 hours instead. 
 	- While this feature does reduce the amount of time you must spend Unconscious per day, it does not reduce the total amount of time you must spend Resting in a day without incurring Exhaustion.
 - You gain your choice of the following, corresponding with the Ceelie Court from which your ancestral Eladrin forbearers belonged;
-	- Childer of the *Court of Spring* gain the following;
+	- Childer of the **Court of Spring** gain the following;
 		- You have advantage on Perception checks that rely on sight.
 		- You have a walking speed of 35 feet per round.
-	- Childer of the *Court of Summer* gain the following;
+	- Childer of the **Court of Summer** gain the following;
 		- You know the Produce Flame cantrip, and may cast it as though you had the Wizard's Spellcasting feature.
 		- You have a darkvision of 30 feet.
-	- Childer of the *Court of Fall* gain the following;
+	- Childer of the **Court of Fall** gain the following;
 		- You know the Primal Savagery cantrip, and may cast it as though you had the Druid's Spellcasting feature. 
-	- Childer of the *Court of Winter* gain the following;
+	- Childer of the **Court of Winter** gain the following;
 		- You have a darkvision of 60 feet.
 		- You may, beginning at 1st, 3rd, and 5th level respectively, cast the Dancing Lights cantrip, Faerie Fire spell, and Darkness spell, once each without using a spell slot. At 11th level, you may use this feature to cast each spell twice each. You regain the use of this feature after a long rest.
 		- You have disadvantage on Attack Rolls and Perception checks that rely on sight when you are in direct sunlight.
