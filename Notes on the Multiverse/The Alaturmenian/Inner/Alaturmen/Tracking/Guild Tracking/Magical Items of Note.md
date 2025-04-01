@@ -303,7 +303,9 @@ aliases:
 
 	Entry Description: GME-017 is to be stored within Vault 0's Warm Storage sector in a cube of pure force over 6" in each diameter.
 
-	GME-017 is a thin gold-link necklace roughly 2' in length. While worn, the wearer is highly suceptable to suggestion, and will wholeheartedly attempt to follow through on this suggestion even after the
+	GME-017 is a thin gold-link necklace roughly 2' in length. While worn, the wearer is highly suceptable to suggestion, and will wholeheartedly attempt to follow through on this suggestion even after GME-017 has been removed, even when a given suggestion conflicts with the wearer's morals, goals, or bodily health.
+
+	
 ```
 
 ###### The Mask of the Fallen Jester
