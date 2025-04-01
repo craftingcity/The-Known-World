@@ -57,7 +57,7 @@ People with a heavy Triton heritage find themselves in possession of many biolog
 
 ![[orc.png]]
 
-People with a heavy Orcish heritage find themselves in possession of a powerfully resilient biology, providing extreme physical recovery speeds. The origins of Orcish people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and the Brood Shaman [[Macht]].
+People with a heavy Orcish heritage find themselves in possession of a powerfully resilient biology, providing extreme physical recovery speeds. The origins of Orcish people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and their occupation of the area we now call the [[Redl'nds]]. Since their coming to Alaturmen, Orcish people have disseminated throughout the world and assimilated to the relative lifestyles there.
 
 - *Age* You may live up to 80 years.
 - *Weight* You may weigh anywhere from 140 to 240 pounds.
@@ -78,10 +78,9 @@ People with a heavy Dragonborn heritage find themselves in possession of a near-
 - Your base walking speed is 30 feet per round.
 - You can use your action to exhale destructive energy, known a breath weapon. 
 	- Your breath weapon deals damage of a type determined by your ancestry, in your choice of a 15' cone or a 30' line. 
-	- When you use your breath weapon, all creatures in the area must make a saving throw, the type of which is determined by your ancestry. 
+	- When you use your breath weapon, all creatures in the area must make a saving throw of a type determined by your ancestry. 
 		- The DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. 
-		- A creature takes 2d8 damage on a failed save, and half as much damage on a successful one. 
-			- The damage increase to 3d8 at 6th level, 4d8 at 11th, and 5d8 at 16th level. 
+		- A creature takes 2d8 damage on a failed save, and half as much damage on a successful one. This damage increase to 3d8 at 6th level, 4d8 at 11th, and 5d8 at 16th level. 
 	- You regain the use of this feature after a short rest.
 
 ## Gnoll
