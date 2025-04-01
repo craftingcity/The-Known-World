@@ -180,7 +180,7 @@ People with a heavy Genasi heritage find themselves in possession of an elementa
 		- You have resistance to fire damage.
 		- You have a darkvision of 60 feet.
 		- You may cast the *hellish rebuke* spell without using a spell slot. Constitution is your spellcasting ability for this spell. You regain the use of this feature after a short rest.
-	- Those hailing from the Plane of Water gain the following;
+	- Those hailing from the **Plane of Water** gain the following;
 		- You have resistance to cold damage.
 		- You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.
 	- Those hailing from the **Plane of Earth** gain the following;
