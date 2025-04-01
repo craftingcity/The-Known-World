@@ -5,6 +5,10 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
     },
     {
+      "basename": "Dante Fukili",
+      "path": "Junie's Characters/Dante Fukili.md"
+    },
+    {
       "basename": "Alchemy Processes & Products",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Noble Houses of Prosper",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md"
-    },
-    {
-      "basename": "Joss a'Fen",
-      "path": "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Joss a'Fen.md"
     }
   ],
   "omittedPaths": [],

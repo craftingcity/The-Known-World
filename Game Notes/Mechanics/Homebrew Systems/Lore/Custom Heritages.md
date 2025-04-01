@@ -70,7 +70,7 @@ People with a heavy Orcish heritage find themselves in possession of a powerfull
 
 ![[dragonborn.png]]
 
-People with a heavy Dragonborn heritage find themselves in possession of a near-reptilian biology. The origins of Dragonborn people on Alaturmen are common information - they are the childer of Dragons, the great reptilian beasts that inspire fear and glory, and some few number of the first Elves of Alaturmen.
+People with a heavy Dragonborn heritage find themselves in possession of a near-reptilian biology. The origins of Dragonborn people on Alaturmen are common information - they are the childer of Dragons, the great reptilian beasts that inspire fear and glory, and some few number of the first Elves of Alaturmen. Dragonborn people are relatively uncommon on Alaturmen, having no homeland of their heritage, they are, however, generally accepted wherever they may be.
 
 - *Age* You may live for up to 120 years.
 - *Weight* You may weigh anywhere from 140 to 240 pounds.
@@ -87,7 +87,7 @@ People with a heavy Dragonborn heritage find themselves in possession of a near-
 
 ![[gnol.png]]
 
-People with a heavy Gnoll heritage find themselves in possession of a very canaine biology and a nearly insatiable appetite, both for food and other vices. The origins of Gnoll people on Alaturmen are tied directly to the [[First Invasion of Orcus]].
+People with a heavy Gnoll heritage find themselves in possession of a very canine biology and a great Obsession, a painful hunger for action or vice. The origins of Gnoll people on Alaturmen are tied directly to the [[First Invasion of Orcus]], and as a result, Gnoll people are most commonly found in [[The Deserts of Tetrimoc]]. Unfortunately, the Gnoll are still legally declared 'enemies of the state' by the [[Golden Claws]], a notion of the past that still haunts these people, and are otherwise socially discriminated against in most civilizations and are left without favorable opportunities for growth. This results in most Gnoll falling into the cycle of violence they are born into. This is especially true for the Gnoll of the [[Custom Cultures#Outlander Nomad|Outlander Nomads]], who are encouraged to feed their addictions to the point of hysteria.
 
 - *Age* You may live up to 75 years.
 - *Weight* You may weigh anywhere from 140 to 240 pounds.
@@ -101,7 +101,7 @@ People with a heavy Gnoll heritage find themselves in possession of a very canai
 
 ![[goliath.png]]
 
-People with a heavy Goliath heritage find themselves in possession of a powerfully resilient biology, providing extreme physical protection. The origins of Goliath people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and the secession of the [[Jarl Grungar]] & [[Kakurak]]'s deal with him. 
+People with a heavy Goliath heritage find themselves in possession of a powerfully resilient biology, providing extreme physical protection. The origins of Goliath people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and the secession of the [[Jarl Grungar]] & [[Kakurak]]'s deal with him - in exchange for a peaceful welcome, [[Kakurak]] would adapt [[Jarl Grungar]] and his clan of Frost Giants into the more socially acceptable (meaning smaller and weaker) *Goliath*. Since then, the Goliath have found their homes in the outer edges of our world.
 
 - *Age* You may live up to 80 years.
 - *Weight* You may weigh anywhere from 140 to 240 pounds.
