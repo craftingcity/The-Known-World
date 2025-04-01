@@ -201,26 +201,28 @@ The Fey Folk share many features absent in Alaturmenian peoples;
 
 ![[elf.png]]
 
-People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the Feywild. The origins of Elven people on Alaturmen are common information - they are the childer of the Eladrin, a rank of noble of the Ceelie Courts, purposefully born to take Alaturmen for the Ceelie. This plan was derailed in the [[Great Fires]], and the beginnings of a grand elven empire lay now bare in the Holyl'nd, along with the bones of many of kin and kind. Elven people are present throughout Alaturmen in all manner of positions and lifestyles.
+People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the [[Feywild]]. The origins of Elven people on Alaturmen are common information - they are the childer of the Eladrin, a rank of noble of the [[Ceilie Courts]], purposefully born to take Alaturmen for the Ceilie. This plan was derailed in the [[Great Fires]], and the beginnings of a grand elven empire lay now bare in the Holyl'nd, along with the bones of many of kin and kind. Elven people are present throughout Alaturmen in all manner of positions and lifestyles.
 
 - *Weight* You may weigh anywhere from 80 to 180 pounds.
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
-- You may, instead of voluntarily sleeping, enter a state of near unconsciousness known as a Trance to gain the same effects as a sleeping human would in 8 hours in 4 hours instead. 
-	- While this feature does reduce the amount of time you must spend Unconscious per day, it does not reduce the total amount of time you must spend Resting in a day without incurring Exhaustion.
 - You gain your choice of the following, corresponding with the Ceelie Court from which your ancestral Eladrin forbearers belonged;
 	- Childer of the **Court of Spring** gain the following;
 		- You have advantage on Perception checks that rely on sight.
 		- You have a walking speed of 35 feet per round.
+		> The **Court of Spring** sent it's Childer into the area we now know as [[The Democratic Combine of Peoples]].
 	- Childer of the **Court of Summer** gain the following;
 		- You know the Produce Flame cantrip, and may cast it as though you had the Wizard's Spellcasting feature.
 		- You have a darkvision of 30 feet.
+		> The **Court of Summer** sent it's Childer into the area we now know as [[The Deserts of Tetrimoc]]
 	- Childer of the **Court of Fall** gain the following;
 		- You know the Primal Savagery cantrip, and may cast it as though you had the Druid's Spellcasting feature. 
+		> The **Court of Fall** sent it's Childer into the area we now know as [[The Kingdom of Prosper]].
 	- Childer of the **Court of Winter** gain the following;
 		- You have a darkvision of 60 feet.
 		- You may, beginning at 1st, 3rd, and 5th level respectively, cast the Dancing Lights cantrip, Faerie Fire spell, and Darkness spell, once each without using a spell slot. At 11th level, you may use this feature to cast each spell twice each. You regain the use of this feature after a long rest.
 		- You have disadvantage on Attack Rolls and Perception checks that rely on sight when you are in direct sunlight.
+		> The **Court of Winter** sent it's Childer into the area we now know as [[The Holyl'nds]].
 
 
 
