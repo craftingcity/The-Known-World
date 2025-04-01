@@ -3,7 +3,7 @@
 
 ![[goblin.png]]
 
-People with a heavy Goblin heritage find themselves in possession of odd preternatural biology. The origins of Goblin people in general are shrouded in mystery, but those who live now on Alaturmen have made claims that their ancestors have been "surviving in the soup of the multiverse since before it began".
+People with a heavy Goblin heritage find themselves in possession of odd preternatural biology. The origins of Goblin people in general are shrouded in mystery, but those who live now on Alaturmen make claims that their ancestors have been surviving "in the soup of the multiverse since before it began". Goblin people are present throughout Alaturmen in all manner of positions and lifestyles, but the [[Northeastern Central||North-Eastern Territories]] - states such as [[The Kingdom of Prosper]] or the [[Blood Clans]] - host a plurality of Goblin.
 
 - *Age* You may live up to 60 years.
 - *Weight* You may weigh anywhere from 40 to 350 pounds.
@@ -19,7 +19,7 @@ People with a heavy Goblin heritage find themselves in possession of odd pretern
 
 ![[human.png]]
 
-People with a heavy Human heritage find themselves in possession of very mundane biology. The origins of Human people on Alaturmen is largely mysterious; while seeking the answer, many records can only truthfully claim that "they simply appeared".
+People with a heavy Human heritage find themselves in possession of very mundane biology. The origins of Human people on Alaturmen is largely mysterious; while seeking the answer, many records can only truthfully claim that "they simply appeared". Human people are a minority population in all states of Alaturmen, including within [[The Church of the White Flame]] where they, alongside the Feyfolk, are held in higher regard than their peers of other heritage.
 
 - *Age* You may live up to 90 years.
 - *Weight* You may weigh anywhere from 100 to 200 pounds.
@@ -31,7 +31,7 @@ People with a heavy Human heritage find themselves in possession of very mundane
 
 ![[dwarf.png]]
 
-People with a heavy Dwarven heritage find themselves in possession of a dense and hard biology. The origins of Dwarven people on Alaturmen are not exactly common knowledge, but some know that certain groups of Elven settlers carved Dwarves from stone nearly immediately after their arrival by request of their sires using specialized equipment.
+People with a heavy Dwarven heritage find themselves in possession of a dense and hard biology. The origins of Dwarven people on Alaturmen are not exactly common knowledge, but some know that certain groups of Elven settlers carved Dwarves from stone nearly immediately after their arrival by request of their sires using specialized equipment. Dwarven people, therefore, are most populous in areas with rich and open stone - such as the [[Deakred Range]], the [[Grumbling Hills]], or the [[Actstow Hills]] - where a major Dwarven Kingdom would come to be formed - the [[Dwarven Kingdom Suremantle]], the [[Dwarven Kingdom Jammu]], and the [[Dwarven Kingdom Actstow]] respectively.
 
 - *Age* You may live up to 180 years.
 - *Weight* You may weigh anywhere from 100 to 200 pounds.
@@ -44,7 +44,7 @@ People with a heavy Dwarven heritage find themselves in possession of a dense an
 
 ![[triton.png]]
 
-People with a heavy Triton heritage find themselves in possession of many biological abilities one may associate with a fish. The origins of Triton people on Alaturmen is truthfully unknown, but legends claim that the first families had to swim to Alaturmen from the [[Plane of Water]] - against the current of the [[Alvalini River]] - before they could settle here.
+People with a heavy Triton heritage find themselves in possession of many biological abilities one may associate with a fish. The origins of Triton people on Alaturmen is truthfully unknown, but legends claim that the first families had to swim to Alaturmen from the [[Plane of Water]] - against the current of the [[Alvalini River]] - before they would come to settle here. Trinton people are present throughout Alaturmen, but most come to occupy a home near a body of water - traditionally this is on either side of the [[Alvalini River]], joining [[Barthalmule's Thieves]] or the [[Dampguard]], but the population of Triton has grown around both the Twinlakes.
 
 - *Age* You may live for up to 120 years.
 - *Weight* You weigh anywhere from 80 to 160 pounds.
@@ -57,7 +57,7 @@ People with a heavy Triton heritage find themselves in possession of many biolog
 
 ![[orc.png]]
 
-People with a heavy Orcish heritage find themselves in possession of a powerfully resilient biology, providing extreme physical recovery speeds. The origins of Orcish people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and the Brood Shaman [[Macht]].
+People with a heavy Orcish heritage find themselves in possession of a powerfully resilient biology, providing extreme physical recovery speeds. The origins of Orcish people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and their occupation of the area we now call the [[Redl'nds]]. Since their coming to Alaturmen, Orcish people have disseminated throughout the world and assimilated to the relative lifestyles there.
 
 - *Age* You may live up to 80 years.
 - *Weight* You may weigh anywhere from 140 to 240 pounds.
@@ -66,29 +66,11 @@ People with a heavy Orcish heritage find themselves in possession of a powerfull
 - When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You regain the use of this feature after a short rest.
 - You count as Large when determining your carrying capacity, what weapons you may wield, and the weight you can push, drag, or lift.
 
-## Dragonborn
-
-![[dragonborn.png]]
-
-People with a heavy Dragonborn heritage find themselves in possession of a near-reptilian biology. The origins of Dragonborn people on Alaturmen are common information - they are the childer of Dragons, the great reptilian beasts that inspire fear and glory, and some few number of the first Elves of Alaturmen.
-
-- *Age* You may live for up to 120 years.
-- *Weight* You may weigh anywhere from 140 to 240 pounds.
-- You may be anywhere from 5 to 7 feet tall. Your size is Medium.
-- Your base walking speed is 30 feet per round.
-- You can use your action to exhale destructive energy, known a breath weapon. 
-	- Your breath weapon deals damage of a type determined by your ancestry, in your choice of a 15' cone or a 30' line. 
-	- When you use your breath weapon, all creatures in the area must make a saving throw, the type of which is determined by your ancestry. 
-		- The DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. 
-		- A creature takes 2d8 damage on a failed save, and half as much damage on a successful one. 
-			- The damage increase to 3d8 at 6th level, 4d8 at 11th, and 5d8 at 16th level. 
-	- You regain the use of this feature after a short rest.
-
 ## Gnoll
 
 ![[gnol.png]]
 
-People with a heavy Gnoll heritage find themselves in possession of a very canaine biology and a nearly insatiable appetite, both for food and other vices. The origins of Gnoll people on Alaturmen are tied directly to the [[First Invasion of Orcus]].
+People with a heavy Gnoll heritage find themselves in possession of a very canine biology and a great Obsession, a painful hunger for action or vice. The origins of Gnoll people on Alaturmen are tied directly to the [[First Invasion of Orcus]], and as a result, Gnoll people are most commonly found in [[The Deserts of Tetrimoc]]. Unfortunately, the Gnoll are still legally declared 'enemies of the state' by the [[Golden Claws]], a notion of the past that still haunts these people, and are otherwise socially discriminated against in most civilizations and are left without favorable opportunities for growth. This results in most Gnoll falling into the cycle of violence they are born into. This is especially true for the Gnoll of the [[Custom Cultures#Outlander Nomad|Outlander Nomads]], who are encouraged to feed their addictions to the point of hysteria.
 
 - *Age* You may live up to 75 years.
 - *Weight* You may weigh anywhere from 140 to 240 pounds.
@@ -97,12 +79,28 @@ People with a heavy Gnoll heritage find themselves in possession of a very canai
 - When you hit with an unarmed melee attack, you may add an additional 1d4 slashing damage to the damage you would normally deal.
 - When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make an unarmed melee attack.
 
+## Dragonborn
+
+![[dragonborn.png]]
+
+People with a heavy Dragonborn heritage find themselves in possession of a near-reptilian biology. The origins of Dragonborn people on Alaturmen are common information - they are the childer of Dragons, the great reptilian beasts that inspire fear and glory, and some few number of the first Elves of Alaturmen. Dragonborn people are relatively uncommon on Alaturmen, having no homeland of their heritage, they are, however, generally accepted wherever they may be.
+
+- *Age* You may live for up to 120 years.
+- *Weight* You may weigh anywhere from 140 to 240 pounds.
+- You may be anywhere from 5 to 7 feet tall. Your size is Medium.
+- Your base walking speed is 30 feet per round.
+- You can use your action to exhale destructive energy, known a breath weapon. 
+	- Your breath weapon deals damage of a type determined by your ancestry, in your choice of a 15' cone or a 30' line. 
+	- When you use your breath weapon, all creatures in the area must make a saving throw of a type determined by your ancestry. 
+		- The DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. 
+		- A creature takes 2d8 damage on a failed save, and half as much damage on a successful one. This damage increase to 3d8 at 6th level, 4d8 at 11th, and 5d8 at 16th level. 
+	- You regain the use of this feature after a short rest.
 
 ## Goliath
 
 ![[goliath.png]]
 
-People with a heavy Goliath heritage find themselves in possession of a powerfully resilient biology, providing extreme physical protection. The origins of Goliath people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and the secession of the [[Jarl Grungar]] & [[Kakurak]]'s deal with him. 
+People with a heavy Goliath heritage find themselves in possession of a powerfully resilient biology, providing extreme physical protection. The origins of Goliath people on Alaturmen are tied directly to [[The Assault of the Giant Dissenters]] and the secession of the [[Jarl Grungar]] & [[Kakurak]]'s deal with him - in exchange for a peaceful coming to the [[Firelight Sea]], [[Kakurak]] would adapt [[Jarl Grungar]] and his clan of Frost Giants into the more socially acceptable (meaning smaller and weaker) *Goliath*. Since then, the Goliath have found their homes in the outer edges of our world, though most have remained in the Northern half of the world.
 
 - *Age* You may live up to 80 years.
 - *Weight* You may weigh anywhere from 140 to 240 pounds.
@@ -115,7 +113,7 @@ People with a heavy Goliath heritage find themselves in possession of a powerful
 
 ![[tabaxi.png]]
 
-People with a heavy Tabaxi heritage find themselves in possession of a very feline biology. The origins of Tabaxi people on Alaturmen are tied directly to [[Beasts Righteous]] and [[Darwine's Expulsion]].
+People with a heavy Tabaxi heritage find themselves in possession of a very feline biology. The origins of Tabaxi people on Alaturmen are tied directly to [[Beasts Righteous]] and [[Darwine's Expulsion]]. Tabaxi people are relatively uncommon on Alaturmen, and most still occupy their ancestral homeland in the [[Northern Quillbuck Jungle]].
 
 - *Age* You may live up to 90 years.
 - *Weight* You may weigh anywhere from 80 to 140 pounds.
@@ -128,7 +126,7 @@ People with a heavy Tabaxi heritage find themselves in possession of a very feli
 
 ![[kenku.png]]
 
-People with a heavy Kenku heritage find themselves in possession of an availian biology. The origins of Kenku people on Alaturmen are tied directly to [[Beasts Righteous]] and [[Darwine's Expulsion]].
+People with a heavy Kenku heritage find themselves in possession of an availian biology. The origins of Kenku people on Alaturmen are tied directly to [[Beasts Righteous]] and [[Darwine's Expulsion]]. Kenku people are relatively uncommon on Alaturmen, and most still occupy their ancestral homeland in the [[Northern Quillbuck Jungle]].
 
 - *Age* You may live up to 75 years.
 - *Weight* You may weigh anywhere from 60 to 120 pounds.
@@ -141,7 +139,7 @@ People with a heavy Kenku heritage find themselves in possession of an availian 
 
 ![[halfling.png]]
 
-People with a heavy Halfling heritage find themselves in possession of what seems to be some miniaturized version of a human's biology. The origins of Halfling people on Alaturmen are commonly understood to be a work of the latent Weave in creative joke-telling. It is claimed that one Goblin told a joke to another about a short & greedy cousin, and a Halfling came running up to the pair claiming to be the first Goblin's cousin, and then that Halfling joked about their side of the family, and the rest is history.
+People with a heavy Halfling heritage find themselves in possession of what seems to be some miniaturized version of a human's biology. The origins of Halfling people on Alaturmen are commonly understood to be a work of the latent Weave in creative joke-telling. It is claimed that one Goblin told a joke to another about a short & greedy cousin, and a Halfling came running up to the pair claiming to be the first Goblin's cousin, and then that Halfling joked about their side of the family, and the rest is history. Halfling people are relatively uncommon on Alaturmen, having no homeland of their heritage, they are, however, generally accepted wherever they may be.
 
 - *Age* You may live for up to 120 years.
 - *Weight* You may weigh anywhere from 40 to 80 pounds.
@@ -154,7 +152,7 @@ People with a heavy Halfling heritage find themselves in possession of what seem
 
 ![[kobold.png]]
 
-People with a heavy Kobold heritage find themselves in possession of a near-reptilian biology. The origins of Kobold people on Alaturmen are common information - they are formed from the drying blood of a Dragon.
+People with a heavy Kobold heritage find themselves in possession of a near-reptilian biology. The origins of Kobold people on Alaturmen are common information - they are formed from the drying blood of a Dragon. Historically, there has been no Kobold society outside of the [[Deakred Range]], although they are generally accepted wherever they may be.
 
 - *Age* You may live up to 40 years.
 - *Weight* You may weigh anywhere from 40 to 80 pounds.
@@ -168,24 +166,24 @@ People with a heavy Kobold heritage find themselves in possession of a near-rept
 
 ![[genasi.png]]
 
-People with a heavy Genasi heritage find themselves in possession of an elemental biology. The origins of Genasi people on Alaturmen are relatively unknown - often each Genasi has their own story of travel or amnesia.
+People with a heavy Genasi heritage find themselves in possession of an elemental biology. The origins of Genasi people on Alaturmen are relatively unknown - often each Genasi has their own story - travel, exile, or amnesia are the most common answers to that question. Genasi people are relatively rare on Alaturmen, and typically are integrated into a position of high cultural importance.
 
 - *Age* You do not age.
 - *Weight* You may weigh anywhere from 120 to 220 pounds.
 - You may be anywhere from 4 to 7 feet tall. Your size is Medium.
 - Your base walking speed is 30 feet per round.
 - You gain your choice of the following, corresponding with the major Elemental Plane from which you or your ancestors hail;
-	- Those hailing from the Plane of Air gain the following;
+	- Those hailing from the **Plane of Air** gain the following;
 		- You gain a flying speed of 50 feet per round, though you cannot use this speed when you are wearing medium or heavy armor. 
 		- You can hold your breath indefinitely while you’re not incapacitated.
-	- Those hailing from the Plane of Fire gain the following;
+	- Those hailing from the **Plane of Fire** gain the following;
 		- You have resistance to fire damage.
 		- You have a darkvision of 60 feet.
 		- You may cast the *hellish rebuke* spell without using a spell slot. Constitution is your spellcasting ability for this spell. You regain the use of this feature after a short rest.
 	- Those hailing from the Plane of Water gain the following;
 		- You have resistance to cold damage.
 		- You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.
-	- Those hailing from the Plane of Earth gain the following;
+	- Those hailing from the **Plane of Earth** gain the following;
 		- You have immunity against poison damage and the poisoned condition.
 		- Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered to have expertise in the History skill.
 
@@ -203,7 +201,7 @@ The Fey Folk share many features absent in Alaturmenian peoples;
 
 ![[elf.png]]
 
-People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the Feywild. The origins of Elven people on Alaturmen are common information - they are the childer of the Eladrin, a rank of noble of the Ceelie Courts, purposefully born to take Alaturmen for the Ceelie. This plan was derailed in the Great Fires, and the beginnings of a grand elven empire lay now bare in the Holyl'nd, along with the bones of many of kin and kind.
+People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the Feywild. The origins of Elven people on Alaturmen are common information - they are the childer of the Eladrin, a rank of noble of the Ceelie Courts, purposefully born to take Alaturmen for the Ceelie. This plan was derailed in the [[Great Fires]], and the beginnings of a grand elven empire lay now bare in the Holyl'nd, along with the bones of many of kin and kind. Elven people are present throughout Alaturmen in all manner of positions and lifestyles.
 
 - *Weight* You may weigh anywhere from 80 to 180 pounds.
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.
@@ -211,15 +209,15 @@ People with a heavy Elven heritage find themselves in possession of preternatura
 - You may, instead of voluntarily sleeping, enter a state of near unconsciousness known as a Trance to gain the same effects as a sleeping human would in 8 hours in 4 hours instead. 
 	- While this feature does reduce the amount of time you must spend Unconscious per day, it does not reduce the total amount of time you must spend Resting in a day without incurring Exhaustion.
 - You gain your choice of the following, corresponding with the Ceelie Court from which your ancestral Eladrin forbearers belonged;
-	- Childer of the *Court of Spring* gain the following;
+	- Childer of the **Court of Spring** gain the following;
 		- You have advantage on Perception checks that rely on sight.
 		- You have a walking speed of 35 feet per round.
-	- Childer of the *Court of Summer* gain the following;
+	- Childer of the **Court of Summer** gain the following;
 		- You know the Produce Flame cantrip, and may cast it as though you had the Wizard's Spellcasting feature.
 		- You have a darkvision of 30 feet.
-	- Childer of the *Court of Fall* gain the following;
+	- Childer of the **Court of Fall** gain the following;
 		- You know the Primal Savagery cantrip, and may cast it as though you had the Druid's Spellcasting feature. 
-	- Childer of the *Court of Winter* gain the following;
+	- Childer of the **Court of Winter** gain the following;
 		- You have a darkvision of 60 feet.
 		- You may, beginning at 1st, 3rd, and 5th level respectively, cast the Dancing Lights cantrip, Faerie Fire spell, and Darkness spell, once each without using a spell slot. At 11th level, you may use this feature to cast each spell twice each. You regain the use of this feature after a long rest.
 		- You have disadvantage on Attack Rolls and Perception checks that rely on sight when you are in direct sunlight.
