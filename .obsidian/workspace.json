@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9aa8696d4ae5d3cd",
+        "id": "c4323fd9d036dd8b",
         "type": "tabs",
         "children": [
           {
-            "id": "65f4dc6b04ddbeb0",
+            "id": "1650538dd8791a1b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,22 +22,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes Mar 18 25.md",
+                "file": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Mar 18 25"
+              "title": "Armors of Alaturmen"
+            }
+          },
+          {
+            "id": "cc4dadcc7e080e38",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Weapons of Alaturmen"
+            }
+          },
+          {
+            "id": "e41612a46e273893",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magical Items of Note"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "8b63eba800d9fbd0",
+        "id": "e5058f8612f09e6b",
         "type": "tabs",
         "children": [
           {
-            "id": "67ac173e9095b903",
+            "id": "c025880ea6fb8c5c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -51,12 +98,79 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Apr 01 25.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Apr 01 25"
+              "title": "Magical Items of Note"
+            }
+          },
+          {
+            "id": "2f18091fcb16cd74",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
+              },
+              "icon": "lucide-image",
+              "title": "AlchemicalComponentMotifs"
+            }
+          },
+          {
+            "id": "90dc9bb6b8d7fadd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Guilded Mystic Entries"
+            }
+          },
+          {
+            "id": "aff37c1588540e98",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magic Item Authors"
             }
           }
         ]
@@ -87,8 +201,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -109,7 +222,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Sarahouse Deakred Game\"",
+                "query": "bow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +276,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.51240158081055
+    "width": 322.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -188,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Lingering Injuries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +312,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks for Lingering Injuries"
             }
           },
           {
@@ -310,38 +424,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67ac173e9095b903",
+  "active": "c025880ea6fb8c5c",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'25/Prenotes Mar 18 25.md",
     "Prenotes Apr 01 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-    "conflict-files-obsidian-git.md",
-    "The Stinkers Game.md",
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Feywild/Feywild.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/General Texts.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Texts Druidic.md",
+    "The Stinkers Game.md",
     "Junie's Characters/Dante Fukili.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "MEDIA/SUPP/SCRIPTS/motifdisplay.py",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range/Deakred Range.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Code of Thieves.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Lower Villages/Giant's Toe.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Tetrimoc's Blessings/Athenion.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/The Holyl'nds.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/The Holy City of Kanielkiln.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
-    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/MAPS/WORLD/underdark.png",
     "Game Notes/Prenotes/'25",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
