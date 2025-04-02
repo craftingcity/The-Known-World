@@ -4,62 +4,93 @@
     "type": "split",
     "children": [
       {
-        "id": "9aa8696d4ae5d3cd",
-        "type": "tabs",
+        "id": "778af7317635bee2",
+        "type": "split",
         "children": [
           {
-            "id": "65f4dc6b04ddbeb0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "9aa8696d4ae5d3cd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "65f4dc6b04ddbeb0",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Prenotes/'25/Prenotes Mar 18 25.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Prenotes Mar 18 25"
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes Mar 18 25.md",
-                "mode": "source",
-                "source": true
               },
-              "icon": "lucide-file",
-              "title": "Prenotes Mar 18 25"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8b63eba800d9fbd0",
-        "type": "tabs",
-        "children": [
+              {
+                "id": "673a4cac85333c69",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Forgehome"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
           {
-            "id": "67ac173e9095b903",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "528a6fa5136eff2e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "67ac173e9095b903",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Prenotes Apr 01 25.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Prenotes Apr 01 25"
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Apr 01 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Apr 01 25"
-            }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -158,12 +189,12 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 388.51240158081055
+    "width": 388.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -312,6 +343,7 @@
   },
   "active": "67ac173e9095b903",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
     "Game Notes/Prenotes/'25/Prenotes Mar 18 25.md",
     "Prenotes Apr 01 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
@@ -338,7 +370,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range/Deakred Range.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",

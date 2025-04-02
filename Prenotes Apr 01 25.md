@@ -14,7 +14,9 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, they had entered Deepreach, a lost dwarven settlement in the bowels of the Underdark, and had 
+When last we left our heroes, they had entered Deepreach, a lost dwarven settlement in the bowels of the Underdark, and had fought through some of it's denizens - the Illithid, in all their horrific forms.
+
+You are resting in a library here, in this overwhelming cityscape of gold and grey, and having lost track of the creature you chased here, you are bursting with opportunity - what do you do?
 
 ### What does the World Know?
 
