@@ -4,77 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "535faf54e1958e7d",
+        "id": "8b63eba800d9fbd0",
         "type": "tabs",
-        "dimension": 58.278481012658226,
         "children": [
           {
-            "id": "8aa8951584418ffc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "The Stinkers Game",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Stinkers Game.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Stinkers Game\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":2},\"to\":{\"line\":11,\"ch\":6}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Magical Items of Note"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7077a0df6b77898d",
-        "type": "tabs",
-        "dimension": 41.721518987341774,
-        "children": [
-          {
-            "id": "a627a3fb9dc3cb43",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "The Stinkers Game",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Stinkers Game.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Stinkers Game\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":2},\"to\":{\"line\":11,\"ch\":6}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Magical Items of Note"
-            }
-          },
-          {
-            "id": "66fca9d632289a66",
+            "id": "67ac173e9095b903",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -86,37 +20,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "336d01a2cb9e1edd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Guilded Mystic Entries"
+              "title": "New tab"
             }
           }
         ]
@@ -371,11 +278,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a627a3fb9dc3cb43",
+  "active": "67ac173e9095b903",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+    "conflict-files-obsidian-git.md",
     "The Stinkers Game.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
@@ -399,7 +307,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Code of Thieves.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
