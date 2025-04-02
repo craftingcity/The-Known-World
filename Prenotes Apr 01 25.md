@@ -31,8 +31,8 @@ You are resting in a library here, in this overwhelming cityscape of gold and gr
 12 - Marylynn
 11 - Thomas
 8 - Flayers
-	A (34)
+	A (34, )
 	B (24, 38, 58, )
 	C (17, 34, 47, 76)
 	D (26, 60)
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the date of ... AF, as they chase down the Psyholder, who has retreated into the Palace in the city
