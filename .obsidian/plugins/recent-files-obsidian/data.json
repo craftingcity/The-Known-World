@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Magical Items of Note",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
+    },
+    {
+      "basename": "Guilded Mystic Entries",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md"
+    },
+    {
+      "basename": "AlchemicalComponentMotifs",
+      "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
+    },
+    {
       "basename": "Custom Heritages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
     },
@@ -57,10 +69,6 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md"
     },
     {
-      "basename": "AlchemicalComponentMotifs",
-      "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
-    },
-    {
       "basename": "AlchemicalComponentsChart",
       "path": "MEDIA/SUPP/AlchemicalComponentsChart.png"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "World Features",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md"
-    },
-    {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
     },
     {
       "basename": "Magic Item Authors",
@@ -195,10 +199,6 @@
     {
       "basename": "Prenotes Feb 11 25",
       "path": "Game Notes/Prenotes/'25/Prenotes Feb 11 25.md"
-    },
-    {
-      "basename": "Prenotes Mar 18 25",
-      "path": "Game Notes/Prenotes/'25/Prenotes Mar 18 25.md"
     }
   ],
   "omittedPaths": [],
