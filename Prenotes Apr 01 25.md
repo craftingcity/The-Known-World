@@ -23,5 +23,16 @@ You are resting in a library here, in this overwhelming cityscape of gold and gr
 
 ### What happened?
 
-
+#### The Courtyard Fight
+24 - Bhodi
+22 - Rowan
+16 - Psycholder
+	P
+12 - Marylynn
+11 - Thomas
+8 - Flayers
+	A ()
+	B (24, 38)
+	C (17, 34, 47, 76)
+	D ()
 We leave our heroes on the date of ... AF, as they ...
