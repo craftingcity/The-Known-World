@@ -4,93 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "778af7317635bee2",
-        "type": "split",
+        "id": "528a6fa5136eff2e",
+        "type": "tabs",
         "children": [
           {
-            "id": "9aa8696d4ae5d3cd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "65f4dc6b04ddbeb0",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Prenotes/'25/Prenotes Mar 18 25.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prenotes Mar 18 25"
+            "id": "67ac173e9095b903",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Apr 01 25.md",
+                "mode": "source",
+                "source": true
               },
-              {
-                "id": "673a4cac85333c69",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Forgehome"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-file",
+              "title": "Prenotes Apr 01 25"
+            }
           },
           {
-            "id": "528a6fa5136eff2e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "67ac173e9095b903",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Prenotes Apr 01 25.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prenotes Apr 01 25"
+            "id": "f4e66672ad4560b0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
-              }
-            ]
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -341,15 +305,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67ac173e9095b903",
+  "active": "f4e66672ad4560b0",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
-    "Game Notes/Prenotes/'25/Prenotes Mar 18 25.md",
     "Prenotes Apr 01 25.md",
+    "conflict-files-obsidian-git.md",
+    "Game Notes/Prenotes/'25/Prenotes Mar 18 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-    "conflict-files-obsidian-git.md",
     "The Stinkers Game.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
