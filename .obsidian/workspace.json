@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "528a6fa5136eff2e",
+        "id": "8511121df95d0438",
         "type": "tabs",
         "children": [
           {
-            "id": "67ac173e9095b903",
+            "id": "d3f22168a4cb3482",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,14 +20,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Apr 01 25.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Prenotes Apr 01 25"
+              "title": "New tab"
             }
           }
         ]
@@ -281,10 +277,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67ac173e9095b903",
+  "active": "d3f22168a4cb3482",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Prenotes Apr 01 25.md",
+    "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'25/Prenotes Mar 18 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
