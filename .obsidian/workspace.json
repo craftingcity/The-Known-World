@@ -16,14 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Weapons of Alaturmen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Weapons of Alaturmen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":349,\"ch\":29},\"to\":{\"line\":349,\"ch\":29}},\"scroll\":371.90471031155505}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Northern Conflicts, c.105af"
             }
           }
         ]
@@ -279,6 +289,7 @@
   },
   "active": "d3f22168a4cb3482",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Prenotes Apr 01 25.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'25/Prenotes Mar 18 25.md",
@@ -290,7 +301,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Feywild/Feywild.md",

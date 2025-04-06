@@ -322,7 +322,7 @@ Boomerangs are *thrown (60/180)*. Once per rest, you may use this weapon's speci
 
 ### Stones
 #### Pellet Crossbow
-Pellet Crossbows are an alternative to the Light Crossbow that fires small stones or pellets through a cylindrical barrel. The Pellet Crossbow is a significant precursor to the modern class of firearms. 
+Pellet Crossbows are an alternative to the Light Crossbow platform that fires small stones or pellets through a cylindrical barrel. The Pellet Crossbow is a significant influence to the modern class of firearms. 
 
 Pellet Crossbows deal 1d4 piercing damage.
 Pellet Crossbows are *two-handed*, *ranged (30/90)*, and *ammunition (1)*. Once per rest, you may use this weapon's special ability;
@@ -335,6 +335,12 @@ Heavy Crossbows deal 1d8 piercing damage.
 Heavy Crossbows are *heavy*, *two-handed*, *ranged (90/270)*, and *ammunition (1)*. Once per rest, you may use this weapon's special ability;
 
 #### Repeating Crossbow
+Repeating Crossbows are an alternative to the Heavy Crossbow platform that contains a magazine of 3 bolts, allowing a small increase in fire-rate at the cost of weight and range.
+
+Repeating Crossbows deal 1d8 piercing damage.
+Repeating Crossbows are *heavy*, *two-handed*, *ranged (60/180)*, and *ammunition (3)*. Once per rest, you may use this weapon's special ability;
+
+
 ### Arrows
 #### Longbow
 ### Durandurm Operated

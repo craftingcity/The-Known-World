@@ -22,7 +22,7 @@ The Arthurian Push continued westward, towards [[Kohnstamm]] and it's surroundin
 The Arthurian forces attempted to rally and centralize their force, but the Church had already done too much damage to them, and the survivors would instead be forced to flee from the battle.
 
 ## Battle of the Bridge, Wychway
-#### 105AF/05/18 - 05/20
+#### 105AF/05/18 - 05/23
 
 As quickly as the Arthurians struck, so too did the Church strike back. The Church rallied its forces from the north and attempted to surround the city of Wychway as the Arthurian forces recovered. As the Church's army approached, the battle commenced. While supported by the city walls, the Arthurian forces performed poorly in their initial engagement, and began to fall back into the city using the bridge. The Church's forces followed, and as the final Arthurian soldier cleared the bridge, it was immolated, along with all of the Church forces on the bridge. 
 
@@ -34,9 +34,9 @@ As Syr Grain spoke on the event, he said "[the Church's force] kept running afte
 After committing time to repairs and rearmament, the Arthurian forces moved from their positions in [[Wychway]] into the [[Central Holyl'nd]], attempting to expand their control of the region. While there were minor victories over the course of many battles, the First Battle for the Centers ended with more lost than gained on either side. The Arthurian forces would fall back into the [[South Littemotto]], where they would regroup, preparing for further conflict.
 
 ## Second Battle of Kohnstamm (1)
-#### 105AF/07/24 - 
+#### 105AF/07/24 - 105AF/07/25
 
-In an honor-driven attempt to reconnoiter [[Kohnstamm]], Chapter Delectus and a group of volunteer companies split from the larger group and are caught out. The resulting battle was concise, favoring the Church's forces 10-to-1. The survivors retreated under the command of Chapter Delectus' Knights.
+In an honor-driven attempt to reconnoiter [[Kohnstamm]], Chapter Delectus and a group of volunteer companies split from the larger group and are caught out. The resulting battle was concise, favoring the Church's forces 10-to-1. The survivors, under the command of Chapter Delectus' Knights, retreated to [[Wychway]].
 
 ## Battle of Wychway (11)
 
