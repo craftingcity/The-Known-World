@@ -288,9 +288,13 @@ aliases:
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: Jurran Malkovich (TL-G contained, confirmed deceased)
-	Last Known Keeper: KEEPER
+	Last Known Keeper: Quartermaster, Vault 1
 
-	Entry Description: ...
+	Entry Description: GME-018 is stored within Vault 1's Warm Storage sector in a 1-inch square soft textile bag, which then is stored in a 1'x'1'x1' darksteel cube-box lined with a soft textile.
+
+	 GME-018 is a thin steel disk, roughly 3" in diameter, with a complex and powerful Draconic rune. Once placed upon an object, the disk activates and merges itself with the object. While active, the object GME-018 has merged into cannot be damaged or harmed in any way.
+
+	The details of GME-018's recovery and containment are, at this time, unknown, and non-invasive divination has revealed no further information.
 ```
 
 ###### The Necklace of Compulsion
@@ -305,7 +309,7 @@ aliases:
 
 	GME-017 is a thin gold-link necklace roughly 2' in length. While worn, the wearer is highly suceptable to suggestion, and will wholeheartedly attempt to follow through on this suggestion even after GME-017 has been removed, even when a given suggestion conflicts with the wearer's morals, goals, or bodily health.
 
-	
+	GME-017 was most recently seen in the possession of Cassandra Arstovich in the late 70s, but since her disappearance around that time, GME-017 has not been located or reported. Information in this Entry has been gathered via non-invasive divination, and may be incomplete, misinformed, or wholly deceitful.
 ```
 
 ###### The Mask of the Fallen Jester
@@ -316,7 +320,9 @@ aliases:
 	Source: Tianna Moore (TL-B uncontained, confirmed deceased)
 	Last Known Keeper: Syther Malkovich -> The Slimknives
 
-	Entry Description: ...
+	Entry Description: GME-019 is to be stored in 
+	
+	GME-019 is a porportional mask made of white ivory and carved to resemble a comically distraught jester. GME-019 is worn by placing the black leather band around your head such that you can see through the eyes of GME-019.
 ```
 
 ###### The Axe of the Berserker King
