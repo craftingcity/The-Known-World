@@ -320,7 +320,7 @@ aliases:
 	Source: Tianna Moore (TL-B uncontained, confirmed deceased)
 	Last Known Keeper: Syther Malkovich -> The Slimknives
 
-	Entry Description: GME-019 is to be stored in 
+	Entry Description: GME-019 is to be stored within Vault 0's Warm Storage sector in a 1'x1'x1' darksteel cube-box lined with a soft textile.
 	
 	GME-019 is a porportional mask made of white ivory and carved to resemble a comically distraught jester. GME-019 is worn by placing the black leather band around your head such that you can see through the eyes of GME-019.
 ```
