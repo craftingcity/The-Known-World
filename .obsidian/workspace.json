@@ -173,7 +173,8 @@
               "title": "Magic Item Authors"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,7 +223,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bow",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -424,17 +425,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c025880ea6fb8c5c",
+  "active": "e41612a46e273893",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Prenotes Apr 01 25.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'25/Prenotes Mar 18 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "The Stinkers Game.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",

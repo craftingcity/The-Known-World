@@ -285,8 +285,8 @@ aliases:
 ###### The Token of Indestructability
 ```
 	GME-018 "TOKEN OF INDESTRUCTABILITY"
-	Threat Level: COLOR
-	Entry Class: CLASS
+	Threat Level: PURPLE
+	Entry Class: TRINKET
 	Source: Jurran Malkovich (TL-G contained, confirmed deceased)
 	Last Known Keeper: Quartermaster, Vault 1
 
@@ -320,9 +320,11 @@ aliases:
 	Source: Tianna Moore (TL-B uncontained, confirmed deceased)
 	Last Known Keeper: Syther Malkovich -> The Slimknives
 
-	Entry Description: GME-019 is to be stored within Vault 0's Warm Storage sector in a 1'x1'x1' darksteel cube-box lined with a soft textile.
+	Entry Description: GME-019 is to be stored within Vault 0's Warm Storage sector in a 1'x1'x1' darksteel cube-box lined with a soft textile. GME-019 is, at the time of record, uncontained.
 	
 	GME-019 is a porportional mask made of white ivory and carved to resemble a comically distraught jester. GME-019 is worn by placing the black leather band around your head such that you can see through the eyes of GME-019.
+
+	GME-019 was created by Tiana Moore for her personal use during combat. Since her demise at the hand of Arthur Simonson, GME-019 has been passed around by dozens of merchants, collectors, and adventurers before it was eventually acquired by a group of Slimknives and returned to the Obraa Dinn, where it has since remained.
 ```
 
 ###### The Axe of the Berserker King
