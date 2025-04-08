@@ -2,7 +2,7 @@
 tags: npc
 aliases:
 ---
-# Otto Malkavich
+# Otto Malkovich
 ## H
 ### pronouns
 
