@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ab6516355833c09",
+        "id": "c4323fd9d036dd8b",
         "type": "tabs",
         "children": [
           {
-            "id": "f0dcb172a76c078e",
+            "id": "1650538dd8791a1b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,12 +22,155 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
+                "file": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Custom Features"
+              "title": "Armors of Alaturmen"
+            }
+          },
+          {
+            "id": "cc4dadcc7e080e38",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Weapons of Alaturmen"
+            }
+          },
+          {
+            "id": "e41612a46e273893",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magical Items of Note"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "e5058f8612f09e6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c025880ea6fb8c5c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magical Items of Note"
+            }
+          },
+          {
+            "id": "2f18091fcb16cd74",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
+              },
+              "icon": "lucide-image",
+              "title": "AlchemicalComponentMotifs"
+            }
+          },
+          {
+            "id": "90dc9bb6b8d7fadd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Guilded Mystic Entries"
+            }
+          },
+          {
+            "id": "aff37c1588540e98",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magic Item Authors"
             }
           }
         ]
@@ -79,7 +222,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -281,12 +424,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0dcb172a76c078e",
+  "active": "c025880ea6fb8c5c",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
+    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
@@ -310,7 +454,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
     "MEDIA/SUPP/SCRIPTS/motifdisplay.py",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "MEDIA/MAPS/WORLD/underdark.png",

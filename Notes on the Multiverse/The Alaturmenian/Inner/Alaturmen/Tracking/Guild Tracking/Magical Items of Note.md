@@ -345,12 +345,12 @@ aliases:
 ###### The Compalati
 ```
 	GME-020 "COMPALATI"
-	Threat Level: COLOR
-	Entry Class: CLASS
+	Threat Level: RED
+	Entry Class: TRINKET SET
 	Source: Simon Hollyanne (TL-G contained, confirmed deceased)
 	Last Known Keeper: KEEPER
 
-	Entry Description: ...
+	Entry Description: GME-020 is to be stored within Vault 0's Warm Storage sector in a 5'x1'x1' darksteel container lined with a soft textile and fit with ten equidistant display rods.
 ```
 
 #### Crafts of Dwarvenkind
