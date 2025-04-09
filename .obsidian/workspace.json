@@ -75,9 +75,32 @@
               "icon": "lucide-file",
               "title": "Prenotes Jan 18 25"
             }
+          },
+          {
+            "id": "0d5748cd60a717b9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Coalition City"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7524325beb375e2d",
@@ -155,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"otto\"",
+                "query": "wizard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -358,11 +381,12 @@
   },
   "active": "82db6fc0a5687fff",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
+    "Prenotes April 08 25.md",
     "Game Notes/Prenotes/'25/Prenotes Jan 18 25.md",
     "Otto Malkovich.md",
     "Game Notes/Campaign Rosters/ParaeducatorGame.md",
     "Prenotes Mar 21 25.md",
-    "Prenotes April 08 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
@@ -384,7 +408,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Feywild/Feywild.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/General Texts.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Texts Druidic.md",
     "MEDIA/SUPP/SCRIPTS/motifdisplay.py",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",

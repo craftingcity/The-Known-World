@@ -21,7 +21,7 @@ With yourselves and your equipment gathered, unless you have something else to d
 ### What does the World Know?
 
 ##### Dr. Otto M's House
-A two-story stone brick house in the X Ward of [[Coalition City]], of the supposed 6 rooms within the building, the first 4 described here are viewable from the outside via large clear-glass windows.
+A two-story stone brick house in the Stone Ward of [[Coalition City]].
 
 ###### Kitchen
 > *Off the left of the Lounge, and below the Apprentice's Quarters, a Kitchen lies dormant. Clean and proper, everything is resting its place - the room smells of citrus. In the center of the room, a large black brick oven with an attached grey panel of dials and gauges takes up the majority of the space. Along the countertop at the edges of the walls, an array of jars and bags hold spices and dried food - though it is all stored far from the black marble surface on the opposed side of the counter. The shelves below the counter hold jarred goods and cast-iron cookware - some hundreds of silver worth of ingredients and utensils.*
@@ -37,43 +37,59 @@ A two-story stone brick house in the X Ward of [[Coalition City]], of the suppos
 > *The grand entrance of this modest home leads directly into the Lounge, where a pair of wall-wrapping bookshelves stocked with journals, histories, and theories. Accompanying the shelves, a set of lounge loveseats surround a pale wooden table. On the right wall, by the door to the Workroom, a pale wooden writing desk sits, unorganized, as if mid-thought. On the left wall, a door leads into the Kitchen. Looking back, between the shelves, the central door leads into the Master's Quarters.*
 
 - Wrapping Bookshelves
-	- 
+	- The collection of books here mostly regard the history of magical theory and technological progress, but there are a significant number of journals and grimoires from now deceased wizards (including copies of [[The Axioms, Theories, and Philosophies of Mages of the First Century]], [[Guraxlog's Grimoire]], [[Barrowinch's University Collection]], and [[Waywalket's Workbook]].
 - Ostentatious Loveseats
 	- A pile of papers litters the table by the loveseats, alongside a pencil and a book titled 'The Exploration of Physical Spirit'. The papers are arcane notes and diagrams drawn or written in pencil, by one Anita Rewch. Progress is being made in a sort of detection spell for a person's Faith.
 - Pale Wood Desk
-	- There are dozens of papers and books strewn about on the desk. The first drawer of the desk is locked, but it contains a series of official notices from the [[The Church of the White Flame|Church of Flame]]'s **Ideology Correction Corps**
+	- There are dozens of papers and books strewn about on the desk. The first drawer of the desk is locked, but it contains a series of official notices from the [[The Church of the White Flame|Church of Flame]]'s **Ideology Correction Corps** that span over the course of 6 months. They first begin regarding Dr Malkovich's reassignment into the field of experimental genetics, then his ignorance of this request, a demand for reported progress, and finally, a warning demand that Otto will return to [[Kohnstamm]] immediately, or he will be forcibly relocated.
 
 ###### Workroom Lab
 > *Off the right of the Lounge, and below the Wash & Source Room, the Workroom-Lab is a pristine, clean, alchemist's dream. The room is split into four quarters by purpose. The first, the close corner on the right is stuffed full of metal shelves centering around a thick black door. To the left, a system of tubes, burners, and bottles form some kind of alchemical liquid production. Opposing the Liquids Production, a simple wooden door lies locked. In the far right and final corner, another alchemical rube-goldberg machine of funnels and grinders seem to be processing a solid into a powder. Between the Casting Closet and Powder Production, a spiral staircase in the wall leads up into the Wash & Source Room.*
 
 - Liquids Production
+	- 
 - Powder Assembly
+	- 
 - Casting Closet
+	- 
 - Overly Organized Closet
+	- 
 
 ###### Apprentice's Quarters
 > *Above the Kitchen, accessible by a set of small stone stairs, is the Apprentice's Quarters - Anita Rewch currently occupies this room and this role, though she hasn't seen Master Otto in about a month, since his business in the Holyl'nds. These quarters are small, and spartan; there is room for one here, and one alone. A pale wood chest pushes up to foot of the beige bed, and opposing it, leaning against the other wall - only 3' away - a modest pale wood dresser is topped in the only personality the room has, a set of six brightly colored knitted character dolls. The third wall in this room is a massive bookshelf. It is clean, but obviously underused.*
 
 - Anita's Chest
+	- 
 - Anita's Bed
+	- 
 - Anita's Dresser & Dolls
+	- 
 - Anita's Bookshelf
+	- 
 
 ###### Master Bedroom
 > *The central room of the house, securely invisible to the outside, is the Master Bedroom - the domain of Otto Malkovich, while he was a free man. In the center of the room, away from the walls, a large comfortable bed is flanked by a series of glass cases and a large wardrobe. Pushed against the far wall is a very large table adorned in ornate cloth, candles, and inscription.*
 
 - Otto's Safe
+	- 
 - Otto's Bed
+	- 
 - Otto's Working Table
+	- 
 - Otto's Wonderous Wardrobe
+	- 
 - Otto's Display Case
+	- 
 
 ###### Wash & Source Room
 > *Above the Workroom, a simple space holds a ceramic chair full of water, a set of sponges and soaps on the edge of a large basin, and an encased water production system.*
 
 - Washbasin & Tools
+	- 
 - Bucket Funnel System
+	- 
 - Privacy Chamber
+	- 
 
 ### What happened?
 
