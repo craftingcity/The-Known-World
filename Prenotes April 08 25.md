@@ -24,18 +24,24 @@ With yourselves and your equipment gathered, unless you have something else to d
 A two-story stone brick house in the X Ward of [[Coalition City]], of the supposed 6 rooms within the building, the first 4 described here are viewable from the outside via large clear-glass windows.
 
 ###### Kitchen
-> *Off the left of the Lounge, and below the Apprentice's Quarters, a Kitchen lies dormant. Clean and proper, everything is resting its place - the room smells of citrus. In the center of the room, a large black brick oven with an attached grey panel of dials and gauges takes up the majority of the space. Along the countertop at the edges of the walls, an array of jars and bags hold spices and dried food - though it is all stored far from the black marble surface on the opposed side of the counter. The shelves below the counter hold jarred goods and cast-iron cookwares - some hundred silver of ingredients and utensils.*
+> *Off the left of the Lounge, and below the Apprentice's Quarters, a Kitchen lies dormant. Clean and proper, everything is resting its place - the room smells of citrus. In the center of the room, a large black brick oven with an attached grey panel of dials and gauges takes up the majority of the space. Along the countertop at the edges of the walls, an array of jars and bags hold spices and dried food - though it is all stored far from the black marble surface on the opposed side of the counter. The shelves below the counter hold jarred goods and cast-iron cookware - some hundreds of silver worth of ingredients and utensils.*
 
 - Alchemical Hotplate & Cooking Tools
+	- Upon the counter, a black sheet of obsidian or some other glossy black stone acts as a precise heating element. The action is controlled by simple cantrip.
 - Food & Spice Storage
+	- Below the counters, over 300sp worth of cast-iron and wooden cookware and foodstuff is stored away, untouched for weeks now.
 - Baking Oven
+	- A large box of racks uses the same system as the hotplate to provide a larger general heating element. The oven has been deeply cleaned.
 
 ###### Library Lounge
 > *The grand entrance of this modest home leads directly into the Lounge, where a pair of wall-wrapping bookshelves stocked with journals, histories, and theories. Accompanying the shelves, a set of lounge loveseats surround a pale wooden table. On the right wall, by the door to the Workroom, a pale wooden writing desk sits, unorganized, as if mid-thought. On the left wall, a door leads into the Kitchen. Looking back, between the shelves, the central door leads into the Master's Quarters.*
 
 - Wrapping Bookshelves
+	- 
 - Ostentatious Loveseats
+	- A pile of papers litters the table by the loveseats, alongside a pencil and a book titled 'The Exploration of Physical Spirit'. The papers are arcane notes and diagrams drawn or written in pencil, by one Anita Rewch. Progress is being made in a sort of detection spell for a person's Faith.
 - Pale Wood Desk
+	- There are dozens of papers and books strewn about on the desk. The first drawer of the desk is locked, but it contains a series of official notices from the [[The Church of the White Flame|Church of Flame]]'s **Ideology Correction Corps**
 
 ###### Workroom Lab
 > *Off the right of the Lounge, and below the Wash & Source Room, the Workroom-Lab is a pristine, clean, alchemist's dream. The room is split into four quarters by purpose. The first, the close corner on the right is stuffed full of metal shelves centering around a thick black door. To the left, a system of tubes, burners, and bottles form some kind of alchemical liquid production. Opposing the Liquids Production, a simple wooden door lies locked. In the far right and final corner, another alchemical rube-goldberg machine of funnels and grinders seem to be processing a solid into a powder. Between the Casting Closet and Powder Production, a spiral staircase in the wall leads up into the Wash & Source Room.*
@@ -58,7 +64,7 @@ A two-story stone brick house in the X Ward of [[Coalition City]], of the suppos
 
 - Otto's Safe
 - Otto's Bed
-- Otto's Enchanting Table
+- Otto's Working Table
 - Otto's Wonderous Wardrobe
 - Otto's Display Case
 
