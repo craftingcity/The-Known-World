@@ -352,7 +352,7 @@ aliases:
 
 	Entry Description: GME-020 is stored within Vault 0's Warm Storage sector in a 5'x1'x1' darksteel container lined with a soft textile and fit with ten equidistant display rods on which each GME-020 instance rests. 
 
-	GME-020 is a set of 10 identical 6" gold chain bracelets that lack unique or identifying text or markings. The  While worn, the GME-020 instance will slowly shrink at a constant rate. Experimentation has revealed this rate of shrinkage to be three-tenths of a centimeter per hour. As the GME-020 instance continues to shrink, it will eventually burrow itself into the flesh of it's wearer.
+	GME-020 is a set of 10 identical 6" gold chain bracelets that lack unique or identifying text or markings. The Guild controls all 10 GME-020 instances. While worn, the GME-020 instance will slowly shrink at a constant rate. Experimentation has revealed this rate of shrinkage to be three-tenths of a centimeter per hour. As the GME-020 instance continues to shrink, it will eventually burrow itself into the flesh of it's wearer.
 
 	GME-020 
 ```
