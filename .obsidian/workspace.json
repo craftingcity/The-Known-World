@@ -107,6 +107,29 @@
             }
           },
           {
+            "id": "b696b1a964a60bab",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
+          },
+          {
             "id": "2f18091fcb16cd74",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -173,7 +196,8 @@
               "title": "Magic Item Authors"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -424,11 +448,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c025880ea6fb8c5c",
+  "active": "e41612a46e273893",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Prenotes April 08 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
@@ -439,7 +464,6 @@
     "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'25/Prenotes Mar 18 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "The Stinkers Game.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
