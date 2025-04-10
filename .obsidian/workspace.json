@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e365508b31b4d11b",
+        "id": "c4323fd9d036dd8b",
         "type": "tabs",
         "children": [
           {
-            "id": "ff351866ee08236f",
+            "id": "1650538dd8791a1b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,16 +22,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Mar 21 25.md",
+                "file": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Mar 21 25"
+              "title": "Armors of Alaturmen"
             }
           },
           {
-            "id": "33b99a016f315db5",
+            "id": "cc4dadcc7e080e38",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -45,16 +45,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Otto Malkovich.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Otto Malkovich"
+              "title": "Weapons of Alaturmen"
             }
           },
           {
-            "id": "1d2454eb329d77e0",
+            "id": "e41612a46e273893",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -68,46 +68,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes Jan 18 25.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Jan 18 25"
-            }
-          },
-          {
-            "id": "0d5748cd60a717b9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Coalition City"
+              "title": "Magical Items of Note"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
-        "id": "7524325beb375e2d",
+        "id": "e5058f8612f09e6b",
         "type": "tabs",
         "children": [
           {
-            "id": "82db6fc0a5687fff",
+            "id": "c025880ea6fb8c5c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -121,12 +98,79 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes April 08 25.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes April 08 25"
+              "title": "Magical Items of Note"
+            }
+          },
+          {
+            "id": "2f18091fcb16cd74",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
+              },
+              "icon": "lucide-image",
+              "title": "AlchemicalComponentMotifs"
+            }
+          },
+          {
+            "id": "90dc9bb6b8d7fadd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Guilded Mystic Entries"
+            }
+          },
+          {
+            "id": "aff37c1588540e98",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magic Item Authors"
             }
           }
         ]
@@ -178,7 +222,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wizard",
+                "query": "bow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,7 +276,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.51240158081055
+    "width": 322.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -379,21 +424,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82db6fc0a5687fff",
+  "active": "c025880ea6fb8c5c",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Prenotes April 08 25.md",
-    "Game Notes/Prenotes/'25/Prenotes Jan 18 25.md",
-    "Otto Malkovich.md",
-    "Game Notes/Campaign Rosters/ParaeducatorGame.md",
-    "Prenotes Mar 21 25.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
+    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
+    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
     "Prenotes Apr 01 25.md",
     "conflict-files-obsidian-git.md",
@@ -408,6 +448,11 @@
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Feywild/Feywild.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/General Texts.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Texts Druidic.md",
+    "Junie's Characters/Dante Fukili.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
     "MEDIA/SUPP/SCRIPTS/motifdisplay.py",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
