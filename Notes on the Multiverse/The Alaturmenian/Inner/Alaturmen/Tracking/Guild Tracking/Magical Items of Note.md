@@ -12,7 +12,7 @@ aliases:
 	Threat Level: ORANGE
 	Entry Class: TRINKET SET
 	Source: 'The Progenitor' (TL-O uncontained unidentified)
-	Last Known Keeper: See Entry Description.
+	Last Known Keeper: Quartermaster, Vault 0
 
 	Entry Description: GME-000 is stored within Vault 0's Warm Storage sector across 9 cells - each of which are at least 500' from any other TL-O cells, and must change monthly - in a series of identical 10'x8'x1' darksteel closets. In each of these closets is a set of rods on which the GME-000 instance rests. A system of mechanics powered by a crank on the left-facing exterior moves the rods to the corners of the closet, such that the instance is pulled taught into a rectangle.
 
@@ -273,9 +273,9 @@ aliases:
 	Threat Level: RED
 	Entry Class: TRINKET
 	Source: Frankie Avaati (TL-G contained, confirmed deceased)
-	Last Known Keeper: Quartermaster, Vault 1
+	Last Known Keeper: Quartermaster, Vault 2
 
-	Entry Description: GME-016 is stored within Vault 1's Warm Storage sector in a cube of pure force over 6" in each diameter.
+	Entry Description: GME-016 is stored within Vault 2's Warm Storage sector in a cube of pure force over 6" in each diameter.
 
 	GME-016 is a simple golden ring enscribed with the phrase 'Money, Power, Respect' in Arthurian. While worn, if the wearer speaks the words "I wish", their following sentence is considered by GME-016, which then attempts to enact the most harmful rendition of that wish.
 
@@ -288,9 +288,9 @@ aliases:
 	Threat Level: PURPLE
 	Entry Class: TRINKET
 	Source: Jurran Malkovich (TL-G contained, confirmed deceased)
-	Last Known Keeper: Quartermaster, Vault 1
+	Last Known Keeper: Kakurak & Marcus
 
-	Entry Description: GME-018 is stored within Vault 1's Warm Storage sector in a 1-inch square soft textile bag, which then is stored in a 1'x'1'x1' darksteel cube-box lined with a soft textile.
+	Entry Description: GME-018 is stored within Vault 3's Restricted sector in a 1-inch square soft textile bag, which then is stored in a 1'x'1'x1' darksteel cube-box lined with a soft textile.
 
 	 GME-018 is a thin steel disk, roughly 3" in diameter, with a complex and powerful Draconic rune. Once placed upon an object, the disk activates and merges itself with the object. While active, the object GME-018 has merged into cannot be damaged or harmed in any way.
 
@@ -305,7 +305,7 @@ aliases:
 	Source: Mariana Arstovich (TL-B uncontained, location unknown)
 	Last Known Keeper: Unknown, see Entry Description.
 
-	Entry Description: GME-017 is to be stored within Vault 0's Warm Storage sector in a cube of pure force over 6" in each diameter.
+	Entry Description: GME-017 is to be stored within Vault 2's Warm Storage sector in a cube of pure force over 6" in each diameter.
 
 	GME-017 is a thin gold-link necklace roughly 2' in length. While worn, the wearer is highly suceptable to suggestion, and will wholeheartedly attempt to follow through on this suggestion even after GME-017 has been removed, even when a given suggestion conflicts with the wearer's morals, goals, or bodily health.
 
@@ -318,9 +318,9 @@ aliases:
 	Threat Level: PURPLE
 	Entry Class: TRINKET
 	Source: Tianna Moore (TL-B uncontained, confirmed deceased)
-	Last Known Keeper: Syther Malkovich -> The Slimknives
+	Last Known Keeper: Unknown, see Entry Description.
 
-	Entry Description: GME-019 is to be stored within Vault 0's Warm Storage sector in a 1'x1'x1' darksteel cube-box lined with a soft textile. GME-019 is, at the time of record, uncontained.
+	Entry Description: GME-019 is to be stored within Vault 2's Warm Storage sector in a 1'x1'x1' darksteel cube-box lined with a soft textile. GME-019 is, at the time of record, uncontained.
 	
 	GME-019 is a porportional mask made of white ivory and carved to resemble a comically distraught jester. GME-019 is worn by placing the black leather band around your head such that you can see through the eyes of GME-019.
 
@@ -348,13 +348,13 @@ aliases:
 	Threat Level: RED
 	Entry Class: TRINKET SET
 	Source: Simon Hollyanne (TL-G contained, confirmed deceased)
-	Last Known Keeper: KEEPER
+	Last Known Keeper: Quartermaster, Vault 2
 
-	Entry Description: GME-020 is stored within Vault 0's Warm Storage sector in a 5'x1'x1' darksteel container lined with a soft textile and fit with ten equidistant display rods on which each GME-020 instance rests. 
+	Entry Description: GME-020 is stored within Vault 2's Warm Storage sector in a 5'x1'x1' darksteel container lined with a soft textile and fit with ten equidistant display rods on which each GME-020 instance rests. 
 
 	GME-020 is a set of 10 identical 11" gold chain-loops that lack unique or identifying text or markings. The Guild controls all 10 GME-020 instances. While worn, the GME-020 instance will slowly shrink at a constant rate. Experimentation has revealed this rate of shrinkage to be three-tenths of a centimeter per hour. As the GME-020 instance continues to shrink, it will eventually burrow itself into the flesh of it's wearer, and eventually cut through muscle and bone. When a GME-020 instance is removed from its wearer, typically as it falls off once a limb is dismembered, it returns to its typical size.
 
-	GME-020 was created in the late 50s - at the height of the Bandit Lord's reign, and just before their fall - and have been used only twice, disregarding experimentations; the first was used in a pair, named GME-020-1 and -2 respectively, in the dismemberment of Syr Saxon's left arm and right leg, which resulted in his death via exsanguination, and the second was used alone, named GME-020-3, in the beheading of Jacqi Simon
+	GME-020 was created in the late 50s - at the height of the Bandit Lord's reign, and just before their fall - and have been used only twice, disregarding experimentations; the first was used in a pair, named GME-020-1 and -2 respectively, in the dismemberment of Syr Saxon's left arm and right leg, which resulted in his death via exsanguination, and the second was used alone, named GME-020-3, in the beheading of Jacqi Simonson, immediately resulting in her death. All 10 GME-020 instances were recovered by Arthur Simonson during the Unification of Prosper, and were kept in the Chapter House Constantia before they were eventually moved into their current location.
 ```
 
 #### Crafts of Dwarvenkind
@@ -652,7 +652,7 @@ aliases:
 	Source: The Old Man (TL-O uncontained, assumed deceased)
 	Last Known Keeper: Kakurak & Marcus
 
-	Entry Description: GME-002 is stored on a hanging rack within Vault 3.
+	Entry Description: GME-002 is stored on a hanging rack within Vault 3's Freeform sector.
 
 		GME-002 is a small white-dragonhide cloak with a sapphire clasp. In addition to its material proporties, GME-002 provides its user with a personal atmosphere that proportionaly increases in temperature as the external atmostphere decreases in temperature. This results in the user experiencing a mild warmth even in externally freezing temperatures.
 ```

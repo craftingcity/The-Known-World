@@ -81,7 +81,7 @@ Production of a bundle of Spell Smoke Incense costs 2sp, and can be sold for 3-5
 #### Mechanics
 ##### Turbine Engine
 #### Information
-##### Auspex Lense
+##### Auspex Lens
 ##### Stone of Far Speech
 ##### Assassin's Ink
 #### Weaponry
