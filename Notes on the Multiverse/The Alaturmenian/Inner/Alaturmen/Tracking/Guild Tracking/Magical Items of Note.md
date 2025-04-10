@@ -277,7 +277,7 @@ aliases:
 
 	Entry Description: GME-016 is stored within Vault 1's Warm Storage sector in a cube of pure force over 6" in each diameter.
 
-	GME-016 is a simple golden ring enscribed with the phrase 'Money, Power, Respect' in Arthurian. While worn, if the wearer speaks the words "I wish", their following sentance is considered by GME-016, which then attempts to enact the most harmful rendition of that wish.
+	GME-016 is a simple golden ring enscribed with the phrase 'Money, Power, Respect' in Arthurian. While worn, if the wearer speaks the words "I wish", their following sentence is considered by GME-016, which then attempts to enact the most harmful rendition of that wish.
 
 	GME-016 was contained by Kakurak after it's singular use by Frankie Avaati to remove the acting governments of the Great Northen Forests and make way for the oncoming rise of the Bandit Lords.
 ```
@@ -294,7 +294,7 @@ aliases:
 
 	 GME-018 is a thin steel disk, roughly 3" in diameter, with a complex and powerful Draconic rune. Once placed upon an object, the disk activates and merges itself with the object. While active, the object GME-018 has merged into cannot be damaged or harmed in any way.
 
-	The details of GME-018's recovery and containment are, at this time, unknown, and non-invasive divination has revealed no further information.
+	The details of GME-018's history, including the specifics of its creation, use, recovery, and containment, are, at this time, unknown, and non-invasive divination has revealed no further information.
 ```
 
 ###### The Necklace of Compulsion
@@ -350,7 +350,11 @@ aliases:
 	Source: Simon Hollyanne (TL-G contained, confirmed deceased)
 	Last Known Keeper: KEEPER
 
-	Entry Description: GME-020 is to be stored within Vault 0's Warm Storage sector in a 5'x1'x1' darksteel container lined with a soft textile and fit with ten equidistant display rods.
+	Entry Description: GME-020 is stored within Vault 0's Warm Storage sector in a 5'x1'x1' darksteel container lined with a soft textile and fit with ten equidistant display rods on which each GME-020 instance rests. 
+
+	GME-020 is a set of 10 identical 6" gold chain bracelets that lack unique or identifying text or markings. The  While worn, the GME-020 instance will slowly shrink at a constant rate. Experimentation has revealed this rate of shrinkage to be three-tenths of a centimeter per hour. As the GME-020 instance continues to shrink, it will eventually burrow itself into the flesh of it's wearer.
+
+	GME-020 
 ```
 
 #### Crafts of Dwarvenkind
