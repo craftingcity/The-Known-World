@@ -200,7 +200,7 @@ Artifacts:
 
 ###### ACTIONS
 
-Spitfire's Carbine (296 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
+Spitfire's Carbine (293 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
 
 (BA) Crimson Rite: Flame
 (BA) Curse, Marked
@@ -239,7 +239,7 @@ Spitfire's Carbine (296 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
 | STR  | 10 (+0) ^ | PRF     | +2            |
 | CON  | 16 (+3) ^ | MAX HP  | 40            |
 | DEX  | 15 (+2)   | AC      | 20 (B. Plate) |
-| INT  | 11 (+0)   | Cur. HP | 40            |
+| INT  | 11 (+0)   | Cur. HP | 22            |
 | WIS  | 8  (-1)   | Hit Die | 3d10          |
 | CHA  | 13 (+1)   | Speed   | 30'           |
 
@@ -264,7 +264,7 @@ Ace's Carbine (299 DRM, FR); +8, 3d6+2 fire
 	You gain a +2 bonus to attack rolls with Ranged Weapons.
 - **Second Wind** (BA, 1/1)
 	On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
-- **Action Surge** (BA, 1/1)
+- **Action Surge** (BA, 0/1)
 	On your turn, you can take one additional action.
 
 ###### INVENTORY
@@ -343,7 +343,7 @@ Maverick's Carbine (299 DRM, FR); +6, 3d6+2 fire
 
 ###### ACTIONS
 
-Goose's Carbine (297 DRM, FR); +6, 3d6+2 fire
+Goose's Carbine (295 DRM, FR); +6, 3d6+2 fire
 
 (BA) War Priest Attack
 (FA) Cast a Spell (*DANGER*)
@@ -366,7 +366,7 @@ Goose's Carbine (297 DRM, FR); +6, 3d6+2 fire
 | 2   | Magic Weapon       | BA; weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.                                                                                                                                  |
 | 2   | Spiritual Weapon   |                                                                                                                                   |
 
-- **War Priest** (BA, 1/1)
+- **War Priest** (BA, 0/1)
 	When you use the Attack action, you can make one weapon attack as a bonus action.
 - **Channel Divinity** (0/1)
 	- *Guided Strike*; When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
