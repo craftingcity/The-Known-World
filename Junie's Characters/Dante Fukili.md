@@ -115,7 +115,7 @@ They killed one of the ones who lives here, and they were hiding here for us!
 | ----------------------- | --------------------- | --------------- |
 | Dante's Carbine (396 Y) | +11 (DEX+PRF+FS:A+DP) | 4d6+5 thunder   |
 | Dante's Claws           | +8  (DEX+PRF)         | 1d4+6 slashing  |
-| Pineapple Grenade (4x)  | +1  (Athletics)       | 5d6+20 slashing |
+| Pineapple Grenade (3x)  | +1  (Athletics)       | 5d6+20 slashing |
 |                         |                       |                 |
 
 #### Proficiencies

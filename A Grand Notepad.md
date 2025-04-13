@@ -184,7 +184,7 @@ Artifacts:
 | STR  | 13 (+1)   | PRF     | +3                  |
 | CON  | 16 (+3)   | MAX HP  | 65                  |
 | DEX  | 16 (+3) ^ | AC      | 19 (P. Scout Armor) |
-| INT  | 10 (+0) ^ | Cur. HP | 62                  |
+| INT  | 10 (+0) ^ | Cur. HP | 25                  |
 | WIS  | 14 (+2)   | Hit Die | 5d10                |
 | CHA  | 9  (-1)   | Speed   | 30'                 |
 
@@ -280,7 +280,7 @@ Ace's Carbine (298 DRM, FR); +8, 3d6+2 fire
 | STR  | 10 (+0) ^ | PRF     | +2                  |
 | CON  | 16 (+3) ^ | MAX HP  | 44                  |
 | DEX  | 15 (+2)   | AC      | 18 (P. Scout Armor) |
-| INT  | 12 (+1)   | Cur. HP | 12                  |
+| INT  | 12 (+1)   | Cur. HP | 0 xx (+2I)          |
 | WIS  | 8  (-1)   | Hit Die | 3d12                |
 | CHA  | 12 (+1)   | Speed   | 30'                 |
 
@@ -317,7 +317,7 @@ Maverick's Carbine (299 DRM, FR); +6, 3d6+2 fire
 ###### INVENTORY
 - Isiopara (x10) - +3d4+10hp / 3 rounds
 - Medical Kit (10/10) - 1 Charge, Roll Hit Dice + CON, add to HP
-- Pineapple Grenade (x1) - 5d6+20 @ 15' sphere
+- Pineapple Grenade (x0) - 5d6+20 @ 15' sphere
 - Unknown Glass Artifact (?)
 
 ##### Pvt. Goose
@@ -328,7 +328,7 @@ Maverick's Carbine (299 DRM, FR); +6, 3d6+2 fire
 | STR  | 8  (-1)   | PRF     | +2            |
 | CON  | 16 (+3)   | MAX HP  | 36            |
 | DEX  | 15 (+2)   | AC      | 20 (B. Plate) |
-| INT  | 10 (+0)   | Cur. HP | 17            |
+| INT  | 10 (+0)   | Cur. HP | 1             |
 | WIS  | 11 (+0) ^ | Hit Die | 3d8           |
 | CHA  | 13 (+1) ^ | Speed   | 30'           |
 
@@ -373,7 +373,7 @@ Goose's Carbine (295 DRM, FR); +6, 3d6+2 fire
 	- *Turn Undead*; As an action, Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is *turned* for 1 minute or until it takes any damage. A *turned* creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 ###### INVENTORY
-- Isiopara (x9) - +3d4+10hp / 3 rounds
+- Isiopara (x8) - +3d4+10hp / 3 rounds
 - Medical Kit (10/10) - 1 Charge, Roll Hit Dice + CON, add to HP
 - Pineapple Grenade (x1) - 5d6+20 @ 15' sphere
 
