@@ -239,7 +239,7 @@ Spitfire's Carbine (290 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
 | STR  | 10 (+0) ^ | PRF     | +2            |
 | CON  | 16 (+3) ^ | MAX HP  | 40            |
 | DEX  | 15 (+2)   | AC      | 20 (B. Plate) |
-| INT  | 11 (+0)   | Cur. HP | 32 (+1I)      |
+| INT  | 11 (+0)   | Cur. HP | 40            |
 | WIS  | 8  (-1)   | Hit Die | 3d10          |
 | CHA  | 13 (+1)   | Speed   | 30'           |
 
@@ -280,7 +280,7 @@ Ace's Carbine (298 DRM, FR); +8, 3d6+2 fire
 | STR  | 10 (+0) ^ | PRF     | +2                  |
 | CON  | 16 (+3) ^ | MAX HP  | 44                  |
 | DEX  | 15 (+2)   | AC      | 18 (P. Scout Armor) |
-| INT  | 12 (+1)   | Cur. HP | 23                  |
+| INT  | 12 (+1)   | Cur. HP | 12                  |
 | WIS  | 8  (-1)   | Hit Die | 3d12                |
 | CHA  | 12 (+1)   | Speed   | 30'                 |
 

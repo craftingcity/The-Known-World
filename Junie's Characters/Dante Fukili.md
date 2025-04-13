@@ -107,7 +107,7 @@ They killed one of the ones who lives here, and they were hiding here for us!
 | STR  | 12 (+1) ^ | PRF   | +3        |
 | CON  | 17 (+3) ^ | M. HP | 55 Max HP |
 | DEX  | 20 (+5)   | AC    | (21, DR1) |
-| INT  | 10 (+0)   | C. HP | 49 HP     |
+| INT  | 10 (+0)   | C. HP | 34 HP     |
 | WIS  | 11 (+0)   | HD    | 3d8, 3d10 |
 | CHA  | 14 (+2)   | SPD   | 35' (7s)  |
 
@@ -142,12 +142,12 @@ LANG;
 ##### Gnoll Heritage (T)
 When you hit with an unarmed melee attack, you may add 1d4 slashing damage to the damage you would normally deal. When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make an unarmed melee attack.
 
-##### Second Wind (BA)
+##### Second Wind (BA, 0/1)
 On your turn, you can use a *bonus action* to regain hit points equal to 1d10 + your fighter level.
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
 
-##### Action Surge (FA, 1/1)
+##### Action Surge (FA, 0/1)
 On your turn, you can take one additional action.
 
 Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
@@ -163,7 +163,7 @@ You can take a *bonus action* on each of your turns in combat. This action can b
 ##### Skirmisher (R)
 You can move up to half your speed as a *reaction* when an enemy ends its turn within 5 feet of you. This movement doesn’t provoke opportunity attacks.
 
-##### Maneuvers (4/4d8, 3)
+##### Maneuvers (3/4d8, 3m)
 You learn three maneuvers of your choice. (4d8, *Maneuvering*, *Precision*, and *Pushing*)
 	- *Maneuvering Attack*; 'You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.'
 	- *Precision Attack*; 'When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.'
