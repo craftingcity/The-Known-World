@@ -96,7 +96,7 @@ We push all the Unopened Darksteel Crates, unclaimed Weapons & Armor into one bu
 We passed through the Intel Center, where Jules was interested in learning more about the machines and information here, and into the Importing Pallets. On our way through, we find a pair shooting at each other, but they both turn to us and fire.
 
 #### The Battle at the Factory-Base Hall (c. 105AF Session IV)
-
+They killed one of the ones who lives here, and they were hiding here for us!
 
 ## Important Knowledge
 
@@ -107,16 +107,16 @@ We passed through the Intel Center, where Jules was interested in learning more 
 | STR  | 12 (+1) ^ | PRF   | +3        |
 | CON  | 17 (+3) ^ | M. HP | 55 Max HP |
 | DEX  | 20 (+5)   | AC    | (21, DR1) |
-| INT  | 10 (+0)   | C. HP | 55 HP     |
+| INT  | 10 (+0)   | C. HP | 40 HP     |
 | WIS  | 11 (+0)   | HD    | 3d8, 3d10 |
 | CHA  | 14 (+2)   | SPD   | 35' (7s)  |
 
-| Weapon                  | To Hit                      | Damage          |
-| ----------------------- | --------------------------- | --------------- |
-| Dante's Carbine (398 Y) | +11 (DEX+PRF+FS:A+DUAL-POP) | 4d6+5 thunder   |
-| Dante's Claws           | +8  (DEX+PRF)               | 1d4+6 slashing  |
-| Pineapple Grenade (5x)  | +1  (Athletics)             | 5d6+20 slashing |
-|                         |                             |                 |
+| Weapon                  | To Hit                | Damage          |
+| ----------------------- | --------------------- | --------------- |
+| Dante's Carbine (396 Y) | +11 (DEX+PRF+FS:A+DP) |     |
+| Dante's Claws           | +8  (DEX+PRF)         | 1d4+6 slashing  |
+| Pineapple Grenade (4x)  | +1  (Athletics)       | 5d6+20 slashing |
+|                         |                       |                 |
 
 #### Proficiencies
 SKILLS;

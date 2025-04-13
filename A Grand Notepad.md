@@ -239,7 +239,7 @@ Spitfire's Carbine (293 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
 | STR  | 10 (+0) ^ | PRF     | +2            |
 | CON  | 16 (+3) ^ | MAX HP  | 40            |
 | DEX  | 15 (+2)   | AC      | 20 (B. Plate) |
-| INT  | 11 (+0)   | Cur. HP | 22            |
+| INT  | 11 (+0)   | Cur. HP | 17 (+2I)      |
 | WIS  | 8  (-1)   | Hit Die | 3d10          |
 | CHA  | 13 (+1)   | Speed   | 30'           |
 
@@ -254,7 +254,7 @@ Spitfire's Carbine (293 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
 
 ###### ACTIONS
 
-Ace's Carbine (299 DRM, FR); +8, 3d6+2 fire
+Ace's Carbine (298 DRM, FR); +8, 3d6+2 fire
 
 (BA) Second Wind
 (BA) Action Surge
@@ -268,7 +268,7 @@ Ace's Carbine (299 DRM, FR); +8, 3d6+2 fire
 	On your turn, you can take one additional action.
 
 ###### INVENTORY
-- Isiopara (x10) - +3d4+10hp / 3 rounds
+- Isiopara (x9) - +3d4+10hp / 3 rounds
 - Medical Kit (10/10) - 1 Charge, Roll Hit Dice + CON, add to HP
 - Pineapple Grenade (x0) - 5d6+20 @ 15' sphere
 
@@ -280,7 +280,7 @@ Ace's Carbine (299 DRM, FR); +8, 3d6+2 fire
 | STR  | 10 (+0) ^ | PRF     | +2                  |
 | CON  | 16 (+3) ^ | MAX HP  | 44                  |
 | DEX  | 15 (+2)   | AC      | 18 (P. Scout Armor) |
-| INT  | 12 (+1)   | Cur. HP | 44                  |
+| INT  | 12 (+1)   | Cur. HP | 23                  |
 | WIS  | 8  (-1)   | Hit Die | 3d12                |
 | CHA  | 12 (+1)   | Speed   | 30'                 |
 
@@ -300,7 +300,7 @@ Maverick's Carbine (299 DRM, FR); +6, 3d6+2 fire
 (BA) Rage: Bear
 
 ###### FEATURES
-- **Rage: Bear** (BA, 3/3)
+- **Rage: Bear** (BA, 2/3)
 	Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 	
 	- You have advantage on Strength checks and Strength saving throws.
@@ -328,7 +328,7 @@ Maverick's Carbine (299 DRM, FR); +6, 3d6+2 fire
 | STR  | 8  (-1)   | PRF     | +2            |
 | CON  | 16 (+3)   | MAX HP  | 36            |
 | DEX  | 15 (+2)   | AC      | 20 (B. Plate) |
-| INT  | 10 (+0)   | Cur. HP | 36            |
+| INT  | 10 (+0)   | Cur. HP | 17            |
 | WIS  | 11 (+0) ^ | Hit Die | 3d8           |
 | CHA  | 13 (+1) ^ | Speed   | 30'           |
 
