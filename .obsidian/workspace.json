@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "333f8c852dc9d9ce",
+        "id": "885f909f5d731a45",
         "type": "tabs",
         "children": [
           {
-            "id": "80bd314435dd430c",
+            "id": "bbd17d369c09bed5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,28 +16,11 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Alchemy Processes & Products"
-            }
-          },
-          {
-            "id": "27b35134dfaf2954",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
-                  "state": "{}",
+                  "title": "MinyostalmaFeatures",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/DUNG/MinyostalmaFeatures.png\"},\"icon\":\"lucide-image\",\"title\":\"MinyostalmaFeatures\"}",
                   "eState": "{}"
                 }
               ]
@@ -45,16 +28,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "The People..."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,10 +287,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27b35134dfaf2954",
+  "active": "bbd17d369c09bed5",
   "lastOpenFiles": [
+    "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
-    "Untitled.md",
+    "list of alchemical items to place.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
@@ -333,9 +316,7 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Feywild/Feywild.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/General Texts.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Texts Druidic.md",
-    "Junie's Characters/Dante Fukili.md",
     "MEDIA/SUPP/SCRIPTS/motifdisplay.py",
-    "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "MEDIA/MAPS/WORLD/underdark.png",
     "Game Notes/Prenotes/'25",
