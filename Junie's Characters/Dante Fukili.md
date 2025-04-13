@@ -107,13 +107,13 @@ They killed one of the ones who lives here, and they were hiding here for us!
 | STR  | 12 (+1) ^ | PRF   | +3        |
 | CON  | 17 (+3) ^ | M. HP | 55 Max HP |
 | DEX  | 20 (+5)   | AC    | (21, DR1) |
-| INT  | 10 (+0)   | C. HP | 40 HP     |
+| INT  | 10 (+0)   | C. HP | 49 HP     |
 | WIS  | 11 (+0)   | HD    | 3d8, 3d10 |
 | CHA  | 14 (+2)   | SPD   | 35' (7s)  |
 
 | Weapon                  | To Hit                | Damage          |
 | ----------------------- | --------------------- | --------------- |
-| Dante's Carbine (396 Y) | +11 (DEX+PRF+FS:A+DP) |     |
+| Dante's Carbine (396 Y) | +11 (DEX+PRF+FS:A+DP) | 4d6+5 thunder   |
 | Dante's Claws           | +8  (DEX+PRF)         | 1d4+6 slashing  |
 | Pineapple Grenade (4x)  | +1  (Athletics)       | 5d6+20 slashing |
 |                         |                       |                 |

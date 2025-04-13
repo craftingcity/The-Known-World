@@ -200,7 +200,7 @@ Artifacts:
 
 ###### ACTIONS
 
-Spitfire's Carbine (293 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
+Spitfire's Carbine (290 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
 
 (BA) Crimson Rite: Flame
 (BA) Curse, Marked
@@ -215,7 +215,7 @@ Spitfire's Carbine (293 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
 	An amplified curse gains an additional effect, noted in the curse’s description. Creatures that do not have blood are immune to blood curses unless you have amplified the curse.
 		- *Curse of the Marked* (BA)
 		- Mark a creature that you can see within 30 feet of you. Until the end of your turn, whenever you hit the marked creature with a weapon for which you have an active *crimson rite*, you roll an additional hemocraft die when determining the extra damage from the rite. **(+)**; The next attack roll you make against the target before the end of your turn has advantage.
-		- *Curse of the Warrior* (BA)
+		- *Curse of the Warrior* (BA 4/6)
 		- As a bonus action, choose a creature you have already made an Attack against this turn. Then, make an Attack roll against that creature. You may use this *blood curse* a number of times equal to the maximum value of your *hemocraft die*. Invoking this *blood curse* does not expend a use of your **Blood Maledict**. You regain the uses of this *blood curse* after a long rest. **(+)**; You may choose any creature instead. 
 - **Fighting Style: Archery**
 	You gain a +2 bonus to attack rolls with Ranged Weapons.
@@ -239,7 +239,7 @@ Spitfire's Carbine (293 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
 | STR  | 10 (+0) ^ | PRF     | +2            |
 | CON  | 16 (+3) ^ | MAX HP  | 40            |
 | DEX  | 15 (+2)   | AC      | 20 (B. Plate) |
-| INT  | 11 (+0)   | Cur. HP | 17 (+2I)      |
+| INT  | 11 (+0)   | Cur. HP | 32 (+1I)      |
 | WIS  | 8  (-1)   | Hit Die | 3d10          |
 | CHA  | 13 (+1)   | Speed   | 30'           |
 
@@ -317,7 +317,7 @@ Maverick's Carbine (299 DRM, FR); +6, 3d6+2 fire
 ###### INVENTORY
 - Isiopara (x10) - +3d4+10hp / 3 rounds
 - Medical Kit (10/10) - 1 Charge, Roll Hit Dice + CON, add to HP
-- Pineapple Grenade (x2) - 5d6+20 @ 15' sphere
+- Pineapple Grenade (x1) - 5d6+20 @ 15' sphere
 - Unknown Glass Artifact (?)
 
 ##### Pvt. Goose
