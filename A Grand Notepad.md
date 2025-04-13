@@ -184,7 +184,7 @@ Artifacts:
 | STR  | 13 (+1)   | PRF     | +3                  |
 | CON  | 16 (+3)   | MAX HP  | 65                  |
 | DEX  | 16 (+3) ^ | AC      | 19 (P. Scout Armor) |
-| INT  | 10 (+0) ^ | Cur. HP | 65                  |
+| INT  | 10 (+0) ^ | Cur. HP | 62                  |
 | WIS  | 14 (+2)   | Hit Die | 5d10                |
 | CHA  | 9  (-1)   | Speed   | 30'                 |
 
@@ -200,7 +200,7 @@ Artifacts:
 
 ###### ACTIONS
 
-Spitfire's Carbine (298 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
+Spitfire's Carbine (296 DRM, FR): +11, 3d6+3 fire (+ 1d6 fire)
 
 (BA) Crimson Rite: Flame
 (BA) Curse, Marked
@@ -347,7 +347,7 @@ Goose's Carbine (297 DRM, FR); +6, 3d6+2 fire
 
 (BA) War Priest Attack
 (FA) Cast a Spell (*DANGER*)
-(BA) CD: Turn Undead
+(FA) CD: Turn Undead
 
 ###### FEATURES
 - **Spellcasting** +2, DC: 10 (I: 4/4, II: 2/2)
@@ -368,7 +368,7 @@ Goose's Carbine (297 DRM, FR); +6, 3d6+2 fire
 
 - **War Priest** (BA, 1/1)
 	When you use the Attack action, you can make one weapon attack as a bonus action.
-- **Channel Divinity** (1/1)
+- **Channel Divinity** (0/1)
 	- *Guided Strike*; When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
 	- *Turn Undead*; As an action, Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is *turned* for 1 minute or until it takes any damage. A *turned* creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
