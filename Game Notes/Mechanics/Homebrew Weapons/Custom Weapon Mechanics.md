@@ -100,7 +100,7 @@ At the beginning of a Burning creature's turn, you deal damage to them as if you
 This weapon operates using complicated mechanics, and can be prone to malfunction. When you roll a 1 on an Attack Roll, you end your Action (you cannot make any Extra Attacks).
 
 #### Grenade (X)
-This weapon is a grenade, designed to be readied, thrown, and then explode. When you make an Attack with a grenade, instead of making an Attack Roll, make an Athletics Check. You may throw the grenade a number of feet equal to twice the total of your Athletics Check.
+This weapon is a grenade, designed to be readied, thrown, and then explode. When you make an Attack with a grenade, instead of making an Attack Roll, make an Athletics Check. You may throw the grenade a number of feet equal to twice the total of your Athletics Check. To avoid the explosion, creatures within the radius make a Dexterity Saving throw, the DC of which is equal to your Athletics Check.
 
 # Weapon Specials
 Each of the following "Specials" may only be used once between rests.
