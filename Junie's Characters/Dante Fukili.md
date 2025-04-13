@@ -57,7 +57,7 @@ There's a contract out on a gang of Scavs who are hanging out in the *Showroom*,
 After we buy some medical supplies, we are going to sleep, and then we're going to go kill the gang in the *Showroom*. Maverik picked up a glass artifact on our way. We made our way into the *Hangars* where Dante started investigating an open container-building. A blue tracer shot right where her head would be...
 
 #### The Battle at the Hangars (c. 105AF - Session II & III)
-We fought against a bunch of guys! I think they were scavs, because they didn't have any real emblems. We're a rest, healing up a little, catching our breath, and then we're going to gather and sort the loot around here.
+We fought against a bunch of guys! I think they were scavs, because they didn't have any real emblems. We're a rest, healing up a little, catching our breath, and then we're going to gather and sort the loot around here...
 
 *+11,100 xp*
 
@@ -94,6 +94,9 @@ We fought against a bunch of guys! I think they were scavs, because they didn't 
 We push all the Unopened Darksteel Crates, unclaimed Weapons & Armor into one building, then lock it behind us after we take a long rest. I took my watch with Spitfire <3. We're gonna head through the Base.
 
 We passed through the Intel Center, where Jules was interested in learning more about the machines and information here, and into the Importing Pallets. On our way through, we find a pair shooting at each other, but they both turn to us and fire.
+
+#### The Battle at the Factory-Base Hall (c. 105AF Session IV)
+
 
 ## Important Knowledge
 
