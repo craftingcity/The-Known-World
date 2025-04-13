@@ -8,7 +8,6 @@
 | Pot of Sense: …               |
 | Pot of Understanding: …       |
 | Pot of Haste                  |
-| Pot of Dragon’s Breath: Color |
 | Pot of Form: Shadow           |
 | Pot of Form: Gas              |
 | Pot of Form: Aqua             |
