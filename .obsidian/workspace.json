@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "The People...",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The People...\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":177.3220193862896}"
+                },
+                {
                   "title": "MinyostalmaFeatures",
                   "icon": "lucide-image",
                   "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/MAPS/DUNG/MinyostalmaFeatures.png\"},\"icon\":\"lucide-image\",\"title\":\"MinyostalmaFeatures\"}",
@@ -28,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+                "file": "Junie's Characters/Dante Fukili.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The People..."
+              "title": "Dante Fukili"
             }
           }
         ]
@@ -289,6 +295,7 @@
   },
   "active": "bbd17d369c09bed5",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "list of alchemical items to place.md",
