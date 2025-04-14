@@ -56,7 +56,8 @@ def IntraCityCalculate():
                     pass
 
     else:
-        ## You spelled it wrong?
+        print("Couldn't catch that...")
+        IntraCityCalculate()
         pass
 
     print("And where to?")
@@ -68,7 +69,9 @@ def HexCalculate():
     numToCalc = input()
     if numToCalc is str:
         numToCalc = int(numToCalc)
+        pass
     else:
+        print("Couldn't catch that...")
         HexCalculate()
     print("What is your method of travel?")
     print("(f - Foot/Cart, h - Horse, b - Boat)")
