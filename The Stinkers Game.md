@@ -9,7 +9,7 @@ aliases:
 | ------ | --------------- | --------------- | -------- | ------------- |
 | Lindon | Liana           | Blunter         | Genasi   | Slimknife     |
 | Keyna  |                 | Warlock (Fiend) | Genasi   | Grovetender   |
-| Miri   |                 | Wizard          | Teifling | Druid Circles |
+| Miri   | Xenfer          | Wizard          | Teifling | Druid Circles |
 | Hannah | Emilio Forillio | Bard            | Human    | Riphound      |
 
 ### Trusted Allies
