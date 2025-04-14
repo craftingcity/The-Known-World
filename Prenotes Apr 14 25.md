@@ -14,7 +14,7 @@ aliases:
 
 ### Intro
 
-This is the beginning of a story. A story of victory, of defeat, of success and failure. 
+This is the beginning of a story. A story of victory, of defeat, of success and failure. A story of heroes, of villains, and of the complex people who are both or neither. We will tell this story together, and we will st 
 
 ### What does the World Know?
 
