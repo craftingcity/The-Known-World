@@ -21,7 +21,7 @@ As a child, Yassir was told of the tales of [[The Old|Minyostalma]] and their gr
 Many allies of Yassir were quite perturbed by Arroit's decision, and joined in the pursuit of new lands to hold. This caravan of individuals, communities, and enterprises began to homogenize into what we know now as the [[Grovetenders]]. This new faction began to either remove or integrate the native residents of the [[Southern Third]] into their new community.
 
 ### A True Barony
-Since becoming the Baron of the Southern Third in 0XXAF, they cultivated a culture of internal positivity, and famously adopted the Yellow Mage, [[Nicolas Talaveem]], among many others displaced by the [[Great Fires]]. This "adoption" was often more ceremonial or practical than legal; the "children" of the Cassindil family were welcome to use the resources and reputation that came with that title.
+Since becoming the Baron of the Southern Third in 0XXAF, they cultivated a culture of internal positivity, and famously adopted the Yellow Mage, [[Nicolas Talaveem]], among many others displaced by the [[Great Fires]]. This "adoption" was often more ceremonial or practical than legal; the "children" of the Cassindil family are encouraged to use the resources and reputation that comes from the Cassindil family.
 
 ## Location
 Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.
