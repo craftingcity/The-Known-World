@@ -26,9 +26,12 @@ Who reaches Araborum first? What are you drinking?
 
 I need to write up 4 little letters for each of our characters;
 
-```
+##### Leliana
 
-```
+*You receive a letter, hand written and delivered, for your eyes only. Even so - the message itself is coded into the otherwise pointless prose.*
+
+**Operational Assignment**
+Acquire the Object of Interest from the rightmost stable at Araborum. You will meet with a Riphound, a Grovetender, and a Devilkin. Together, you will deliver the Object of Interest to the desk of Captain 
 
 ### What happened?
 

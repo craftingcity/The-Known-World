@@ -261,7 +261,7 @@ You have spent your life before adventure in the dreary villages of the [[Westli
 
 > In addition to their multitude of interests, the [[Slimknives]] have recently organized the [[SEASEC|South-Eastern Alliance of Security]], a Private Military Conglomerate that acts in service to the Barons of the [[Slimknives]], [[Dampguard]], and [[Riphounds]].
 
-> [[Beacon]] is the capital city of the [[Slimknives]]
+> [[Beacon]] is the capital city of the [[Slimknives]].
 
 You gain +2 to your *Dexterity Score* and +1 to your *Intelligence Score*. You are proficient in the *Deception* and *Stealth* Skills. You know [[Golopak (language)]] and [[Thieves Cant (language)]].
 

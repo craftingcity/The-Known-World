@@ -82,7 +82,8 @@
               "title": "Mossburg"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "obra dinn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -332,10 +333,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff6b513c53b9d799",
+  "active": "78a1b09398cda582",
   "lastOpenFiles": [
-    "The Stinkers Game.md",
     "Prenotes Apr 14 25.md",
+    "The Stinkers Game.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "list of alchemical items to place.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
@@ -361,7 +363,6 @@
     "Game Notes/Prenotes/'25/Prenotes Mar 18 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "MEDIA/SUPP/SCRIPTS/motifdisplay.py",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "MEDIA/MAPS/WORLD/underdark.png",

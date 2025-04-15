@@ -7,7 +7,7 @@ aliases:
 
 | PLAYER | NAME            | CLASS           | HERITAGE | CULTURE       |
 | ------ | --------------- | --------------- | -------- | ------------- |
-| Lindon | Liana           | Blunter         | Genasi   | Slimknife     |
+| Lindon | Leliana         | Blunter         | Genasi   | Slimknife     |
 | Keyna  |                 | Warlock (Fiend) | Genasi   | Grovetender   |
 | Miri   | Xenfer          | Wizard          | Teifling | Druid Circles |
 | Hannah | Emilio Forillio | Bard            | Human    | Riphound      |
