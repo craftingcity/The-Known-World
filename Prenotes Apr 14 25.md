@@ -39,7 +39,7 @@ Your fee will be transferred 72 hours after the conclusion of the Operation. Pro
 ##### KEYNA CHAR
 *You receive a letter, handwritten and delivered by courier. It bears the seal of the Baron Cassindil. The letter reads...*
 
-Dearest (NAME), I hope this letter finds you well. Your services are requested
+Dearest (NAME), I hope this letter finds you well. Your services are requested in the 
 
 ##### Xenfer
 *You receive a letter, handwritten and delivered by courier. Your circle would have sent a familiar spirit. This is from someone you don't know. The letter reads...*
