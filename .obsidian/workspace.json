@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cfac025b2713dc07",
+        "id": "a3558fcf48f55a23",
         "type": "tabs",
         "children": [
           {
-            "id": "a736c6c7001d3a69",
+            "id": "c0426c8267a53da4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,26 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Prenotes April 16 22",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'22/Prenotes April 16 22.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes April 16 22\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -288,7 +276,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a736c6c7001d3a69",
+  "active": "c0426c8267a53da4",
   "lastOpenFiles": [
     "Game Notes/Prenotes/'23/Prenotes Oct 19 23.md",
     "Game Notes/Prenotes/'22/Prenotes April 16 22.md",
