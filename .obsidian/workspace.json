@@ -20,10 +20,14 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "list of alchemical items to place.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "list of alchemical items to place"
             }
           }
         ]

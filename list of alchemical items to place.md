@@ -39,7 +39,6 @@
 | Heart Vine                    |
 | Thorn Bloom                   |
 | Temptation Arch               |
-| Pretokarin                    |
 | Torrin's Bane                 |
 | Nalasculas                    |
 |                               |
