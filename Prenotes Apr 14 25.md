@@ -39,13 +39,19 @@ Your fee will be transferred 72 hours after the conclusion of the Operation. Pro
 ##### KEYNA CHAR
 *You receive a letter, handwritten and delivered by courier. It bears the seal of the Baron Cassindil. The letter reads...*
 
-Dearest (NAME), I hope this letter finds you well. Your services are requested in the 
+```
+Dearest (NAME), 
+
+I hope this letter finds you well. Your services are requested in the Araborum in Mossburg, where you will join a group of Mercenaries under the banner of SEASEC. Your assistance is vital in this operation, both in the physical assistance you can provide during their "operation", and in our standing as potential assets to their company - your contributions will decide a conversation regarding our continued cooperation with SEASEC, and therefore I must directly express the importance of your success, and the success of the "operation" overall.
+
+Please act in secrecy; tell no other of your goal in these regards, and destroy this missive once you have committed it to memory. I trust that this is within your abilities, and I wish you well.
+```
 
 ##### Xenfer
 *You receive a letter, handwritten and delivered by courier. Your circle would have sent a familiar spirit. This is from someone you don't know. The letter reads...*
 
 ```
-We have a job for you. Go to the Araborum in Mossburg, and meet with Leliana. She is expecting you. You will travel with her and her companions over the course of the next week, during which you will provide your services. You will be compensated well, including reimbursement on expenses regarding your services. This assignment is non-optional.
+We have a job for you, Xenfer. Go to the Araborum in Mossburg, and meet with Leliana. She is expecting you. You will travel with her and her companions over the course of the next week, during which time you will provide your services. You will be compensated well, including reimbursement on expenses occured during your time of service. This assignment is non-optional.
 
 Glory to SEASEC.
 ```
