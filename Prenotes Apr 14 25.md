@@ -31,7 +31,7 @@ I need to write up 4 little letters for each of our characters;
 
 ```
 **Operational Assignment**
-Acquire the Object of Interest from the rightmost stable at Araborum. You will meet with a Riphound, a Grovetender, and a Devilkin. Together, you will deliver the Object of Interest to the desk of the Captain of Enforcement within the Garrison. Activate the Object there. Disperse.
+Acquire the Object of Interest from the rightmost stable at Araborum, in Mossburg. You will meet with a Riphound, a Grovetender, and a Devilkin. Together, you will deliver the Object of Interest to the desk of the Captain of Enforcement within the Garrison. Activate the Object there. Disperse.
 
 Your fee will be transferred 72 hours after the conclusion of the Operation. Prove yourself, Leliana.
 ```
@@ -42,7 +42,7 @@ Your fee will be transferred 72 hours after the conclusion of the Operation. Pro
 ```
 Dearest (NAME), 
 
-I hope this letter finds you well. Your services are requested in the Araborum in Mossburg, where you will join a group of Mercenaries under the banner of SEASEC. Your assistance is vital in this operation, both in the physical assistance you can provide during their "operation", and in our standing as potential assets to their company - your contributions will decide a conversation regarding our continued cooperation with SEASEC, and therefore I must directly express the importance of your success, and the success of the "operation" overall.
+I hope this letter finds you well. Your services are requested in the Araborum in Mossburg, where you will join a group of Mercenaries under the banner of SEASEC. Your cooperation is vital in this "operation", both in the physical assistance you can provide during their "operation", and in our standing as potential assets to their company - your contributions will decide a conversation regarding our continued cooperation with SEASEC, and therefore I must directly express the importance of your success, and the success of the "operation" overall.
 
 Please act in secrecy; tell no other of your goal in these regards, and destroy this missive once you have committed it to memory. I trust that this is within your abilities, and I wish you well.
 ```
