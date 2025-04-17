@@ -34,7 +34,6 @@
 | Bulbkiss                      |
 | Nova                          |
 | Dareanamon                    |
-| Isiopara                      |
 | Spell-smoke                   |
 | Heart Vine                    |
 | Thorn Bloom                   |
