@@ -33,11 +33,11 @@ Acquire the Object of Interest from the rightmost stable at Araborum, in Mossbur
 Your fee will be transferred 72 hours after the conclusion of the Operation. Prove yourself, Leliana.
 ```
 
-##### KEYNA CHAR
+##### ZESH
 *You receive a letter, handwritten and delivered by courier. It bears the seal of the Baron Cassindil. The letter reads...*
 
 ```
-Dearest (NAME), 
+Dearest Zesh, 
 
 I hope this letter finds you well. Your services are requested in the Araborum in Mossburg, where you will join a group of Mercenaries under the banner of SEASEC. Your cooperation is vital in this "operation", both in the physical assistance you can provide during their "operation", and in our standing as potential assets to their company - your contributions will decide a conversation regarding our continued cooperation with SEASEC, and therefore I must directly express the importance of your success, and the success of the "operation" overall. You will be travelling under the command of a 'Leilana'.
 
