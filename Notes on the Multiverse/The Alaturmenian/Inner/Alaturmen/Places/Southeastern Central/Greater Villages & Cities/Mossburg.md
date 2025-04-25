@@ -22,6 +22,15 @@ As the Bandit Lords fell, and consolidated their waning power back north, Mossbu
 The Mossburg Enforcers became overwhelmed. They chose efficiency over diligence, and for three generations, the Enforcers have used their leverage over the populace to disappear people and force their families to work to the bone to see them again.
 
 ## Important Places & Symbolism
+### The Central District
+The Central District is completely controlled by the [[Mossburg Enforcers]], and they make their homes of lavish nobility in this space.
+	- *The Castle Mossburg*
+	- *The Garrison*
+		> The Garrison is a large brutalist building used by the [[Mossburg Enforcers]] as a head-quarters and imprisonment center.
+	- *The Merry Band*
+	- *The Silver Lanes*
+### The Ring District
+### The Under District
 ##### Plothooks for Mossburg Start include...
 	- Where are they taking people?
 	- How do I react to Mossburgian Expansion?

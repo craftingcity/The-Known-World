@@ -23,9 +23,6 @@ You've been directed to meet your peers at a bar known as 'the Araborum', where 
 Who reaches Araborum first? What are you doing?
 
 ### What does the World Know?
-
-I need to write up 4 little letters for each of our characters;
-
 ##### Leliana
 *You receive a letter, handwritten and delivered for your eyes only. Even so - the message itself is coded into the otherwise pointless prose.*
 
@@ -48,7 +45,7 @@ Please act in secrecy; tell no other of your goal in these regards, and destroy 
 ```
 
 ##### Xenfer
-*You receive a letter, handwritten and delivered by courier. Your circle would have sent a familiar spirit. This is from someone you don't know. The letter reads...*
+*You receive a letter, handwritten and delivered by courier. Your circle would have sent a familiar spirit - this message is from someone you don't know. The letter reads...*
 
 ```
 We have a job for you, Xenfer. Go to the Araborum in Mossburg, and meet with Leliana. She is expecting you. You will travel with her and her companions over the course of the next week, during which time you will provide your services. You will be compensated well, including reimbursement on expenses occured during your time of service. This assignment is non-optional.
@@ -62,9 +59,10 @@ Glory to SEASEC.
 ```
 Hey Em, it's Paul. We're still bumping your newest shit back home, its heat! Glask talked to me about some work we need done for the Company, maybe it'll get you inspired. There's a group we need you to roll with for a bit. You'll meet them in Mossburg, at the Araborum. The cloud kid is in charge. Meet with her, and let her know you're with us. She's got the plans, so you're her muscle for this one.
 
-Bailey has been getting better, she'll be up and att'em
-
 Good luck, have fun!
+-Paul
+
+P.S. Bailey got sick, but she's already getting better. She's gonna be okay.
 ```
 
 ### What happened?
