@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a3558fcf48f55a23",
+        "id": "6d3e7eb008044d27",
         "type": "tabs",
         "children": [
           {
-            "id": "c0426c8267a53da4",
+            "id": "66608ec7646a08b8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,24 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "list of alchemical items to place",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"list of alchemical items to place.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"list of alchemical items to place\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Alchemy Processes & Products"
+              "title": "New tab"
             }
           }
         ]
@@ -286,8 +276,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0426c8267a53da4",
+  "active": "66608ec7646a08b8",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "list of alchemical items to place.md",
     "Game Notes/Prenotes/'23/Prenotes Oct 19 23.md",
     "Game Notes/Prenotes/'22/Prenotes April 16 22.md",
@@ -303,7 +294,6 @@
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "Junie's Characters/Dante Fukili.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
