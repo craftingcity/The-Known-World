@@ -66,5 +66,9 @@ P.S. Bailey got sick, but she's already getting better. She's gonna be okay.
 
 ### What happened?
 
+- Donkey Appears
+- Light the fruit stand
+- Emilio talks to guards
+- Leliana flies up to the roof to go inside
 
 We leave our heroes on the date of ... AF, as they ...
