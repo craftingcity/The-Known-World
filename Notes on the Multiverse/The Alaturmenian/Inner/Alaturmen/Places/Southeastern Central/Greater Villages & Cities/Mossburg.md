@@ -29,7 +29,7 @@ The Central District is completely controlled by the [[Mossburg Enforcers]], and
 		> The Garrison is a large brutalist building used by the [[Mossburg Enforcers]] as a head-quarters and imprisonment center. Tunnels in the lowest sections lead outward into [[#The Under District]].
 	- *The Merry Band*
 	- *The Silver Lanes*
-		> A section of the Central District that houses
+		> A section of the Central District that houses a significant portion of the wealthiest 'civilians' in Mossburg.
 ### The Ring District
 The Ring District is the heart of the people of Mossburg. Most of the population lives within the outer walls, but outside the tall tower-gates of [[#The Central District]].
 	- *The Araborum*

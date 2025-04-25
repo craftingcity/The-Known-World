@@ -105,8 +105,7 @@
               "title": "Custom Class - Blood Hunter"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -356,10 +355,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d114d5c6e0345a9f",
+  "active": "56d276ad86831ffb",
   "lastOpenFiles": [
     "Prenotes Apr 14 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "list of alchemical items to place.md",
@@ -385,7 +385,6 @@
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Prenotes April 08 25.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
     "MEDIA/SUPP/SCRIPTS/motifdisplay.py",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "MEDIA/MAPS/WORLD/underdark.png",
