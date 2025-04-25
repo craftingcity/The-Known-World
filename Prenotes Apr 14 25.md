@@ -18,9 +18,9 @@ This is the beginning of a story. A story of victory, of defeat, of success and 
 
 Imagining the bright and lively world of Alaturmen, we overlook the luscious, wet mosslands of the southeast and then further, down into the villages and towns of the Central Third, where we see each of the four of you arrive in [[Mossburg]] for a paying job.
 
-You've been directed to meet your peers at a bar known as the Araborum to prepare for your working opportunity. A delivery, of sorts.
+You've been directed to meet your peers at a bar known as 'the Araborum', where you will prepare for your working opportunity.
 
-Who reaches Araborum first? What are you drinking?
+Who reaches Araborum first? What are you doing?
 
 ### What does the World Know?
 
@@ -42,7 +42,7 @@ Your fee will be transferred 72 hours after the conclusion of the Operation. Pro
 ```
 Dearest (NAME), 
 
-I hope this letter finds you well. Your services are requested in the Araborum in Mossburg, where you will join a group of Mercenaries under the banner of SEASEC. Your cooperation is vital in this "operation", both in the physical assistance you can provide during their "operation", and in our standing as potential assets to their company - your contributions will decide a conversation regarding our continued cooperation with SEASEC, and therefore I must directly express the importance of your success, and the success of the "operation" overall.
+I hope this letter finds you well. Your services are requested in the Araborum in Mossburg, where you will join a group of Mercenaries under the banner of SEASEC. Your cooperation is vital in this "operation", both in the physical assistance you can provide during their "operation", and in our standing as potential assets to their company - your contributions will decide a conversation regarding our continued cooperation with SEASEC, and therefore I must directly express the importance of your success, and the success of the "operation" overall. You will be travelling under the command of a 'Leilana'.
 
 Please act in secrecy; tell no other of your goal in these regards, and destroy this missive once you have committed it to memory. I trust that this is within your abilities, and I wish you well.
 ```
@@ -57,11 +57,14 @@ Glory to SEASEC.
 ```
 
 ##### Emilio
+*You receive a magical voicemail...*
+
 ```
 Hey Em, it's Paul. We're still bumping your newest shit back home, its heat! Glask talked to me about some work we need done for the Company, maybe it'll get you inspired. There's a group we need you to roll with for a bit. You'll meet them in Mossburg, at the Araborum. The cloud kid is in charge. Meet with her, and let her know you're with us. She's got the plans, so you're her muscle for this one.
 
+Bailey has been getting better, she'll be up and att'em
+
 Good luck, have fun!
--Paul
 ```
 
 ### What happened?
