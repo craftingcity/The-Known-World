@@ -10,6 +10,8 @@ The Guild of Adventurers are responsible for managing the dare-devils and neir-d
 The Guild of Adventurers has two branches, the *Guilded Mercenary Corps* and the *Localized Defense Forces*.
 ## Culture
 ### Symbolism
+#### The Silver Unicorn
+Named for the legendary tales of rest and rejuvenation attributed to the Unicorn, the 'Silver Unicorn' are tavern-inns owned and operated by the Guild. Over time, these locations have become ubiquitous across every major city of the world.
 ## Technology
 ### Magic
 ## Standardized Equipment

@@ -26,11 +26,15 @@ The Mossburg Enforcers became overwhelmed. They chose efficiency over diligence,
 The Central District is completely controlled by the [[Mossburg Enforcers]], and they make their homes of lavish nobility in this space.
 	- *The Castle Mossburg*
 	- *The Garrison*
-		> The Garrison is a large brutalist building used by the [[Mossburg Enforcers]] as a head-quarters and imprisonment center.
+		> The Garrison is a large brutalist building used by the [[Mossburg Enforcers]] as a head-quarters and imprisonment center. Tunnels in the lowest sections lead outward into [[#The Under District]].
 	- *The Merry Band*
 	- *The Silver Lanes*
 ### The Ring District
+The Ring District is the heart of the people of Mossburg. Most of the population lives within the outer walls, but outside the tall tower-gates of [[#The Central District]].
+	- *The Araborum*
 ### The Under District
+The Under District is a largely uncontrolled system of sewers, tunnels, and basements that travel and connect throughout the city. A handful of locations are under the direct control of an authority, but most are unaligned or abandoned.
+	- *The Drowned Dancer*
 ##### Plothooks for Mossburg Start include...
 	- Where are they taking people?
 	- How do I react to Mossburgian Expansion?
