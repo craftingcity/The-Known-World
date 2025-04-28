@@ -5,16 +5,20 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md"
     },
     {
-      "basename": "List of Names",
-      "path": "Game Notes/NPCs/List of Names.md"
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
     {
       "basename": "Baron Glask",
       "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md"
     },
     {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
+      "basename": "Asilar's Bounty",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Barkryn/Asilar's Bounty.md"
+    },
+    {
+      "basename": "List of Names",
+      "path": "Game Notes/NPCs/List of Names.md"
     },
     {
       "basename": "SEASEC",
@@ -195,10 +199,6 @@
     {
       "basename": "General Texts",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/General Texts.md"
-    },
-    {
-      "basename": "The Texts Druidic",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Texts Druidic.md"
     }
   ],
   "omittedPaths": [],
