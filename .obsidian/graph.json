@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:Prenotes",
+      "query": "tag:#notes  ",
       "color": {
         "a": 1,
-        "rgb": 6248156
+        "rgb": 3814297
       }
     },
     {
@@ -33,6 +33,20 @@
       "color": {
         "a": 1,
         "rgb": 12681216
+      }
+    },
+    {
+      "query": "tag:#groups  ",
+      "color": {
+        "a": 1,
+        "rgb": 36822
+      }
+    },
+    {
+      "query": "tag:#planes  ",
+      "color": {
+        "a": 1,
+        "rgb": 16057677
       }
     }
   ],

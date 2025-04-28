@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Baator",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
+    },
+    {
       "basename": "Katz Brood",
       "path": "Game Notes/NPCs/Weak Power/Orcish Shamans/Katz Brood.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "AlchemicalComponentsChart",
       "path": "MEDIA/SUPP/AlchemicalComponentsChart.png"
-    },
-    {
-      "basename": "World Features",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md"
     }
   ],
   "omittedPaths": [],
