@@ -9,6 +9,7 @@ connect to [[Notes on the Multiverse]]
 	- [[ParaeducatorGame]]
 	- [[Sarahouse Deakred Game]]
 	- [[The Hatdroppers]]
+	- [[The Stinkers Game]]
 - [[Campaigns]]
 - [[GAAKA 1 Key]]
 - **[[Mechanics]]**

@@ -24,6 +24,7 @@ aliases:
 		- [[On the Hum Arcani; Independent Position]]
 		- [[On The Text of Tetrimoc; Guild Position]]
 		- [[Politics of Coalition c. 078AF - 092AF]]
+	- [[Summer Communicae, 105AF]]
 - **Major World Texts**
 	- [[An Account of Our Fallen]]
 	- [[Arthur's Journal]]

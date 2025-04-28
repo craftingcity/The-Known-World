@@ -5,18 +5,47 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:Prenotes",
+      "color": {
+        "a": 1,
+        "rgb": 6248156
+      }
+    },
+    {
+      "query": "tag:#holding  ",
+      "color": {
+        "a": 1,
+        "rgb": 12144766
+      }
+    },
+    {
+      "query": "tag:#region",
+      "color": {
+        "a": 1,
+        "rgb": 13207814
+      }
+    },
+    {
+      "query": "tag:#nation_page  ",
+      "color": {
+        "a": 1,
+        "rgb": 12681216
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.12905461999559836,
+  "centerStrength": 0.245047413388414,
+  "repelStrength": 8.26589052671111,
+  "linkStrength": 0.701718148530654,
+  "linkDistance": 30,
+  "scale": 0.10998017409050038,
   "close": false
 }
