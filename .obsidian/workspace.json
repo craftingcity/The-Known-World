@@ -83,6 +83,27 @@
             }
           },
           {
+            "id": "aa97dc4d7c7529b6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
             "id": "d114d5c6e0345a9f",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -105,7 +126,8 @@
               "title": "Custom Class - Blood Hunter"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -355,7 +377,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66608ec7646a08b8",
+  "active": "aa97dc4d7c7529b6",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Prenotes Apr 14 25.md",
