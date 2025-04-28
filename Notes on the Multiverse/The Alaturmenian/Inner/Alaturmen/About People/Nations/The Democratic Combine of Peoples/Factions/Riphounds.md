@@ -6,9 +6,14 @@ aliases:
 # Riphounds
 ## History
 ### Formation
-### Ranger Feud
-### 
+### Feud with the Guild Rangers
+### Feud with the Righteous Beasts
+### Feud with the Mossburg Enforcers
+### South-East Alliance of Security
 ## Governance
+- [[Baron Glask]]
+- Giovani Vladimin
+- Paul Powell
 ## Culture
 #### Heritage
 #### Language

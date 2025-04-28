@@ -9,9 +9,9 @@ aliases:
 
 ![[Baron Glask VOX.webm]]
 
-> A beautifully crafted muscular form emerges from behind the styled door. Her dark pony-tailed hair flows long behind him. Her every muscle flexes as he walks calmly over. She is dressed past the nines and beyond the tens. He is beautiful. She is radient. You behold the Baron Killrick Emm Glask.
+> A beautifully crafted muscular form emerges from behind the styled door. Her dark pony-tailed hair flows long behind her. His every muscle flexes as he walks calmly over. She is dressed past the nines and beyond the tens. He is beautiful. She is radiant. You behold the Baron Killrick Emm Glask.
 
-Killrick is the Baron of the "Middle" Eastlick
+Killrick is the Baron of the [[Eastlick Mossland]].
 
 While the Baron puts on a kind demeanor, Killrick Emm Glask has earned his name. She has no trouble removing pieces from the gameboard – personally - and no trouble moving morality to suit his needs – or whoever's paying her.
 
@@ -26,7 +26,7 @@ How that goal could resolve when it is achieved (or failed, if this is considere
 ### Early Life
 Emmela Glask was born somewhere in the south-east, some stories claim Beacon, others Barkryn, others Boneborn. Her parents are also an unknown in their story, and again many stories claim different heritages, but for what most people care - Emmela was a human. 
 
-Where the stories first agree is [[Asilar's Bounty]]; now known only as the gangster Killrick Emm Glask, he led a forceful takeover of the city, and she and his gang - the [[Riphounds]] - came to control all the major businesses and factions in the city. 
+Where the stories first agree is [[Asilar's Bounty]]; now known only as the gangster Killrick Emm Glask, he led a forceful takeover of the city; the [[Riphounds]] came to control all the major businesses and factions in the city. 
 
 ### The Bandit Baron
 With [[Asilar's Bounty]] as a forward operating post, Killrick continued to expand, and soon enough, she became the de-facto ruler of [[Barkryn]] and then eventually moved his seat of power into the larger city. 

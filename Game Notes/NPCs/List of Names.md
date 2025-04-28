@@ -96,6 +96,7 @@ aliases:
 | Borns       |       |
 | Powell      |       |
 | Clipwin     |       |
+| Vladamin    |       |
 
 # Northwestern (of Flame)
 ## First Names

@@ -5,6 +5,18 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md"
     },
     {
+      "basename": "List of Names",
+      "path": "Game Notes/NPCs/List of Names.md"
+    },
+    {
+      "basename": "Baron Glask",
+      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
+    },
+    {
       "basename": "SEASEC",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md"
     },
@@ -75,10 +87,6 @@
     {
       "basename": "Baron Cassindil",
       "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md"
-    },
-    {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
     {
       "basename": "Grovetenders",
@@ -191,14 +199,6 @@
     {
       "basename": "The Texts Druidic",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Texts Druidic.md"
-    },
-    {
-      "basename": "Homebrew Alchemy System",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md"
-    },
-    {
-      "basename": "Southeastern Central",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md"
     }
   ],
   "omittedPaths": [],
