@@ -48,6 +48,20 @@
         "a": 1,
         "rgb": 16057677
       }
+    },
+    {
+      "query": "tag:#npc  ",
+      "color": {
+        "a": 1,
+        "rgb": 12237559
+      }
+    },
+    {
+      "query": "tag:#folderfile  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +74,6 @@
   "repelStrength": 8.26589052671111,
   "linkStrength": 0.701718148530654,
   "linkDistance": 30,
-  "scale": 0.10998017409050038,
+  "scale": 0.11943646534908887,
   "close": false
 }

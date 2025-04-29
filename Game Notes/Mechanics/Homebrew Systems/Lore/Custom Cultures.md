@@ -1,3 +1,8 @@
+---
+tags: mechanics
+aliases:
+---
+
 # Acentral
 ## Druidic Circle
 
