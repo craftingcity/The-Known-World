@@ -5,6 +5,10 @@
       "path": "Game Notes/Prenotes/'25/Prenotes Apr 29 25.md"
     },
     {
+      "basename": "Combat Mechanics and Positioning",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
+    },
+    {
       "basename": "Prenotes Apr 01 25",
       "path": "Game Notes/Prenotes/'25/Prenotes Apr 01 25.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Prenotes Mar 18 25",
       "path": "Game Notes/Prenotes/'25/Prenotes Mar 18 25.md"
-    },
-    {
-      "basename": "Forgehome",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md"
     }
   ],
   "omittedPaths": [],

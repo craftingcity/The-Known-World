@@ -28,17 +28,17 @@ Thomas - the swiftest among you, though perhaps not the most wise - has rushed f
 
 ### What does the World Know?
 ##### FIGHT
-(20) - Psyflayer; 
+(20) - Psyflayer (108hp, 20AC); 
 (20) - Rowan
 (16) - Marylynn
-(10) - Blue
-	A; 41
+(10) - Blue (70hp, 18AC)
+	A; 41, 55
 	B;
-	C;
+	C; 16
 	~~D; 9, 30, 45, 73~~
 (8) - Thomas
 (7) - Bhodi
-(0) - Pink
+(0) - Pink (70hp, 18AC)
 	A; 31
 	B; 31
 	C; 31
