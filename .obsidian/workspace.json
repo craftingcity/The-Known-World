@@ -4,6 +4,31 @@
     "type": "split",
     "children": [
       {
+        "id": "ffba3c77a02973d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "363ba9ef23796e91",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
         "id": "f4aef015d70e390e",
         "type": "tabs",
         "children": [
@@ -31,64 +56,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "fece1c41bbf66c45",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ab41c1f7582ca11f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes Apr 29 25.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Prenotes Apr 29 25"
-            }
-          },
-          {
-            "id": "7e9e79d2fb7c903a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes Apr 01 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Apr 01 25"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.51240158081055
+    "width": 322.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -339,11 +307,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a46d536bc8a7d804",
+  "active": "363ba9ef23796e91",
   "lastOpenFiles": [
-    "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md",
-    "Game Notes/Prenotes/'25/Prenotes Apr 01 25.md",
     "Game Notes/Prenotes/'25/Prenotes Apr 29 25.md",
+    "Game Notes/Prenotes/'25/Prenotes Apr 01 25.md",
+    "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Game Notes/Prenotes/Prenotes.md",
