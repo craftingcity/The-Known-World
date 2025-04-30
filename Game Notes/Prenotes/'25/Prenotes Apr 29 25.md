@@ -20,7 +20,9 @@ Deepreach fell to the Illithid. From whence they came or the context of their ar
 
 You volunteered yourselves for this journey, without the knowledge of what you will face, but with the conviction to help the people who were here, who are above you unknowing - to protect the innocent, and vanquish the blight becoming here.
 
-You stand on a film of sickly purple slime or skin that itself rests on the beautiful stonework of the open 
+You stood on a sickly film of purple slick that itself grows upon the beautiful stonework of the city. Thickening veins have spread throughout the city, and they all stem from here - inside the architectural wonder that must be the city's capital building. As you came to cross the open courtyard hosting the building, a group of these horrible tenticular things you have come to call the Illithid appeared in the blink of an eye, surrounding you.
+
+Your defense was 
 
 ### What does the World Know?
 
