@@ -29,11 +29,13 @@ Thomas - the swiftest among you, though perhaps not the most wise - has rushed f
 ### What does the World Know?
 ##### FIGHT
 (20) - Psyflayer (108hp, 20AC); 
+	BLACK; 20
+	WHITE; 
 (20) - Rowan
 (16) - Marylynn
 (10) - Blue (70hp, 18AC)
-	A; 41, 55
-	B;
+	~~A; 41, 55~~
+	B; 22
 	C; 16
 	~~D; 9, 30, 45, 73~~
 (8) - Thomas
@@ -42,7 +44,7 @@ Thomas - the swiftest among you, though perhaps not the most wise - has rushed f
 	A; 31
 	B; 31
 	C; 31
-	D; 31
+	~~D; 31, 67~~
 
 ### What happened?
 
