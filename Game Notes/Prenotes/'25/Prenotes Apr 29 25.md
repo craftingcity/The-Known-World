@@ -20,11 +20,11 @@ Deepreach fell to the Illithid. From whence they came or the context of their ar
 
 You volunteered yourselves for this journey, without the knowledge of what you will face, but with the conviction to help the people who were here, who are above you unknowing - to protect the innocent, and vanquish the blight becoming here.
 
-You stood on a sickly film of purple slick that itself grows upon the beautiful stonework of the city. Thickening veins have spread throughout the city, and they all stem from here - inside the architectural wonder that must be the city's capital building. As you came to cross the open courtyard hosting the building, a group of these horrible tenticular things you have come to call the Illithid appeared in the blink of an eye, surrounding you.
+You stood on a film of purple slick that itself grows upon the beautiful stonework of the city. Thickening veins have spread throughout the city, and they all stem from here - inside the architectural wonder that must be the city's capital building. As you came to cross the open courtyard hosting the building, a group of these horrible tenticular things you have come to call the Illithid appeared in the blink of an eye, surrounding you.
 
 Your defense was powerful, so much so that the leader of this group, who spent it's time firing beams of energy from its singular eye, quickly made attempts to retreat into the capital building as the tide of battle turned from surprise to slaughter. 
 
-Thomas - the swiftest among you, though perhaps not the most wise - has rushed forward to re-engage the one-eyed thing as it retreats, even though this will likely leave the rest of you behind by an amount of time that could be deadly. Will you stop him, or join in his chase?
+Thomas - the swiftest among you, though perhaps not the most wise - has rushed forward to re-engage the one-eyed thing as it retreats, even though this will likely leave the rest of you behind by an amount of time that could be deadly. Do you hope to stop him before he enters the building, or join him in his chase?
 
 ### What does the World Know?
 
