@@ -27,7 +27,22 @@ Your defense was powerful, so much so that the leader of this group, who spent i
 Thomas - the swiftest among you, though perhaps not the most wise - has rushed forward to re-engage the one-eyed thing as it retreats, even though this will likely leave the rest of you behind by an amount of time that could be deadly. Do you hope to stop him before he enters the building, or join him in his chase?
 
 ### What does the World Know?
-
+##### FIGHT
+(20) - Psyflayer; [18, 22]
+(20) - Rowan
+(16) - Marylynn
+(10) - Blue
+	A;
+	B;
+	C;
+	D; 9, 30
+(8) - Thomas
+(7) - Bhodi
+(0) - Pink
+	A;
+	B;
+	C;
+	D;
 
 ### What happened?
 

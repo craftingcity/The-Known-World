@@ -4,31 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ffba3c77a02973d2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "363ba9ef23796e91",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
         "id": "f4aef015d70e390e",
         "type": "tabs",
         "children": [
@@ -307,7 +282,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "363ba9ef23796e91",
+  "active": "a46d536bc8a7d804",
   "lastOpenFiles": [
     "Game Notes/Prenotes/'25/Prenotes Apr 29 25.md",
     "Game Notes/Prenotes/'25/Prenotes Apr 01 25.md",
