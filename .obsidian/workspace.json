@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4aef015d70e390e",
+        "id": "ab9e51c56f668aa9",
         "type": "tabs",
         "children": [
           {
-            "id": "a46d536bc8a7d804",
+            "id": "b6f37e5d6637b4fc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,37 +20,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes Apr 29 25.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Prenotes Apr 29 25"
-            }
-          },
-          {
-            "id": "c42e9309f0447dd0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Combat Mechanics and Positioning"
+              "title": "New tab"
             }
           }
         ]
@@ -305,7 +278,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a46d536bc8a7d804",
+  "active": "b6f37e5d6637b4fc",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Game Notes/Prenotes/'25/Prenotes Apr 29 25.md",
