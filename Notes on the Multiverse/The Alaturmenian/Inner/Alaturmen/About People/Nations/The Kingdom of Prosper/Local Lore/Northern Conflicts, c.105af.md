@@ -34,7 +34,7 @@ As Syr Grain spoke on the event, he said "[the Church's force] kept running afte
 After committing time to repairs and rearmament, the Arthurian forces moved from their positions in [[Wychway]] into the [[Central Holyl'nd]], attempting to expand their control of the region. While there were minor victories over the course of many battles, the First Battle for the Centers ended with more lost than gained on either side. The Arthurian forces would fall back into the [[South Littemotto]], where they would regroup, preparing for further conflict.
 
 ## Second Battle of Kohnstamm (1)
-#### 105AF/07/24 - 07/25
+#### 105AF/07/19 - 07/21
 
 In an honor-driven attempt to reconnoiter [[Kohnstamm]], Chapter Delectus and a group of volunteers split from the larger group returning to [[Wychway]] and are caught out by a section of an oncoming assault force coming from [[Kohnstamm]]. The resulting battle was concise, favoring the Church's forces 10-to-1. The survivors, few as they were, retreated under the command of Chapter Delectus' Knights back into [[Wychway]], and relayed the news of the oncoming assault.
 
