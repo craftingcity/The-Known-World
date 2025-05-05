@@ -1,5 +1,5 @@
 ---
-tags: bible
+tags: bible, planes
 aliases: 
 ---
 # Gods by Plane

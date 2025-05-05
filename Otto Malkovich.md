@@ -3,8 +3,8 @@ tags: npc
 aliases:
 ---
 # Otto Malkovich
-## H
-### pronouns
+## Head Researcher
+### he/him
 
 > Boxtext for an action, outfit, and a physical trait.
 

@@ -60,20 +60,27 @@
       "query": "tag:#folderfile  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#mechanics  ",
+      "color": {
+        "a": 1,
+        "rgb": 47242
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.245047413388414,
   "repelStrength": 8.26589052671111,
   "linkStrength": 0.701718148530654,
   "linkDistance": 30,
-  "scale": 0.11943646534908887,
+  "scale": 0.5153582006195531,
   "close": false
 }

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Otto Malkovich",
+      "path": "Otto Malkovich.md"
+    },
+    {
+      "basename": "Magical Items of Note",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
+    },
+    {
+      "basename": "Grand Pantheon",
+      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
+    },
+    {
       "basename": "Combat Mechanics and Positioning",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "Baron Glask",
       "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md"
-    },
-    {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
     {
       "basename": "Prenotes",
@@ -55,10 +67,6 @@
     {
       "basename": "Katz Brood",
       "path": "Game Notes/NPCs/Weak Power/Orcish Shamans/Katz Brood.md"
-    },
-    {
-      "basename": "Otto Malkovich",
-      "path": "Otto Malkovich.md"
     },
     {
       "basename": "Prenotes Apr 14 25",
@@ -145,10 +153,6 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md"
     },
     {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
-    },
-    {
       "basename": "AlchemicalComponentMotifs",
       "path": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "conflict-files-obsidian-git",
       "path": "conflict-files-obsidian-git.md"
-    },
-    {
-      "basename": "Prenotes Mar 18 25",
-      "path": "Game Notes/Prenotes/'25/Prenotes Mar 18 25.md"
     }
   ],
   "omittedPaths": [],
