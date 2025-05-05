@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b55d6081b596069d",
+        "id": "d568fa548efdca03",
         "type": "tabs",
         "children": [
           {
-            "id": "5c4c334ec256ce4a",
+            "id": "bc7b9949f0991bdb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,18 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "A Grand Notepad",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"A Grand Notepad\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":462.27291436551485}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Otto Malkovich.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Otto Malkovich"
+              "title": "Northern Conflicts, c.105af"
             }
           }
         ]
@@ -280,8 +286,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c4c334ec256ce4a",
+  "active": "bc7b9949f0991bdb",
   "lastOpenFiles": [
+    "A Grand Notepad.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Moonlight/Grand Central.md",
+    "Otto Malkovich.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
@@ -298,7 +307,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Game Notes/NPCs/Weak Power/Orcish Shamans/Katz Brood.md",
-    "Otto Malkovich.md",
     "Game Notes/Prenotes/'25/Prenotes Apr 14 25.md",
     "Game Notes/Prenotes/'25/Prenotes April 08 25.md",
     "Game Notes/Prenotes/'25/Prenotes Mar 21 25.md",
@@ -306,8 +314,6 @@
     "Game Notes/Campaign Rosters/The Stinkers Game.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/SCRIPTS/motifdisplay.py",
