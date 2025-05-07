@@ -1,6 +1,7 @@
 ---
 tags:
   - stub
+  - mechanics
 aliases:
 ---
 

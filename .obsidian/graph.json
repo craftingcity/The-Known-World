@@ -29,13 +29,6 @@
       }
     },
     {
-      "query": "tag:#nation_page  ",
-      "color": {
-        "a": 1,
-        "rgb": 12681216
-      }
-    },
-    {
       "query": "tag:#groups  ",
       "color": {
         "a": 1,
@@ -81,6 +74,6 @@
   "repelStrength": 8.26589052671111,
   "linkStrength": 0.701718148530654,
   "linkDistance": 30,
-  "scale": 0.5153582006195531,
+  "scale": 0.19327719225777965,
   "close": false
 }

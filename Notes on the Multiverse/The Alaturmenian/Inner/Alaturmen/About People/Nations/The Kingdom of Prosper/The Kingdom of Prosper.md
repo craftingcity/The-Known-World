@@ -1,5 +1,5 @@
 ---
-tags: nation_page
+tags: nation_page, region
 aliases: Prosper
 ---
 # The Kingdom of Prosper

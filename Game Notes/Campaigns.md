@@ -1,3 +1,8 @@
+---
+tags: notes, bookkeeping
+aliases:
+---
+
 Evocative Title: **"The War For the Holyl'nds"**
 Description: *'The year is 106 AF, and life is tougher than usual in the North. Gromosh smiles upon the havoc he rakes upon the face of our world. Conflict between The Church of the White Flame and The Kingdom of Prosper has brewed and boiled beyond the point that the Guilds of Coalition can contain it - their lack of action is action enough. The Guilds are broken. What is a hero in the decline of our world?'*
 Vibe Notation (*Military Politics*): This campaign will begin at low level, and initial questing will focus on the repercussions of the Northern Conflicts - how it affects the people, places, and, eventually, the final result of the conflict.
@@ -21,4 +26,4 @@ Politics / Tactics (*Political Conflict*): *3* / *3*
 Evocative Title: **"The Gameshow from Hell"**
 Description: *'It doesn't matter how you got here, if you came willingly, what you did before. You're an Entertainer now. You're playing for your life - and they laugh. They taunt and prod. It's enough to drive anyone mad.'*
 Vibe Notation: This campaign will begin at middle-low level, and will be entirely contained within Kailkeep, where you are forced to perform feats of combat, intelligence, and betrayal. 
-Politics / Tactics(*Survival Horror*): *2* / *4*
+Politics / Tactics (*Survival Horror*): *2* / *4*

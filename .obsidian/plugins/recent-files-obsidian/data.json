@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Homebrew Alchemy System",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md"
+    },
+    {
+      "basename": "Alchemy Processes & Products",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md"
+    },
+    {
+      "basename": "Alvalini River",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/Natural or Territory/Alvalini River.md"
+    },
+    {
+      "basename": "The Kingdom of Prosper",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
+    },
+    {
+      "basename": "Campaigns",
+      "path": "Game Notes/Campaigns.md"
+    },
+    {
       "basename": "Northern Conflicts, c.105af",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md"
     },
@@ -113,10 +133,6 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md"
     },
     {
-      "basename": "Alchemy Processes & Products",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md"
-    },
-    {
       "basename": "list of alchemical items to place",
       "path": "list of alchemical items to place.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Timeline",
       "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
-    },
-    {
-      "basename": "Coalition City",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
-    },
-    {
-      "basename": "Prenotes Jan 18 25",
-      "path": "Game Notes/Prenotes/'25/Prenotes Jan 18 25.md"
-    },
-    {
-      "basename": "ParaeducatorGame",
-      "path": "Game Notes/Campaign Rosters/ParaeducatorGame.md"
-    },
-    {
-      "basename": "Custom Features",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
     }
   ],
   "omittedPaths": [],

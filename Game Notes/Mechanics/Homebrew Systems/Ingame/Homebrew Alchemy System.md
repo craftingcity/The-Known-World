@@ -5,7 +5,7 @@ aliases:
 
 # Alchemy!
 ## Introducing Alchemy
-Alchemy is the act of harnessing the latent magical energy in all things known as "Weave Potentia". When this energy is harnessed, it will affect the world around it, or sometimes produce an effect known as "Weave Arcane", an invoked and (ideally) purposed manifestation of this energy. This involves some chemical processes, some magical processes, and a very cryptic and loose set of hard laws; [[The Axioms, Theories, and Philosophies of Mages of the First Century]].
+Alchemy is the act of harnessing the latent magical energy in all things known as "Weave Potentia". When this energy is harnessed, it will affect the world around it, or sometimes produce an effect known as "Weave Arcane", an invoked and (ideally) purposed manifestation of this energy. This involves some chemical processes, some magical processes, and a very cryptic and loose set of laws; [[The Axioms, Theories, and Philosophies of Mages of the First Century]].
 
 The key to successful alchemy is understanding and controlling this Weave-Potentia. This energy is present in all things, and can be harnessed to produce a variety of effects. It is important to note that the Weave is not a fixed or static thing - it can be influenced and controlled, but it has yet to be fully understood. This makes alchemy a difficult, but potentially very rewarding, art. It is also important to remember that alchemy is not without risk. The results of alchemy can be unpredictable, and sometimes dangerous.
 
@@ -22,32 +22,14 @@ An expert alchemist is a full-time alchemist, capable of handling any task given
 
 A master alchemist is a ***full***-time alchemist, capable of handling *any* task given to them, and is capable of creating *any* effect desired. A master alchemist is free to pursue any endeavor they wish, and is highly sought after for their skills. A master alchemist is an individual of great talent and power, respected by all who know them.
 
-### Schools
-It is true that most alchemists find success in creating their own formula, but many alchemists create formula that are only de-facto unique, and throughout these "common" formula, certain schools of thought begin to emerge. Three more specialized "schools" of Alchemy emerge from these patterns, where-in each practitioner is using similar components, equipment, and processes.
-
-#### Elemental
-Durandurm's ability to invoke elemental power has led to its use in many formula and laboratory across Alaturmen. By harnessing the powers of the most basic Elements, one could manipulate the Weave to their will.
-
-#### Draconic
-A rare school of alchemy that is generally only practiced by the dragon-kin themselves that involves using physical aspects of the body of a dragon-kin as potent components in alchemy.
-
-#### Necrotic
-Creatures of mind and body hold some manner of Weave-Potentia for hours - even days, when correctly processed & stored - before expiring, and as such can make a fruitful source of alchemical components.
-
 ### How do *I* start doing Alchemy?
+#### Alchemical Motifs
 ![[AlchemicalComponentMotifs.png]]
-*A representation of the twenty-nine Barrowinch-Gunagido alchemical motifs.*
-#### Philosopher's Stone
-Alchemy begins at the Philosopher's Stone. The collected energy in such an object is so great that it effects other objects it is exposed to. Alchemical formula will often involve touching, submerging, wrapping, or otherwise contacting the stone or one of its subsidiary products - Red Water and Yellow Powder. These two are lesser forms of the stone, Yellow Powder more-so than Red Water, regularly replace the Stone in alchemical formula.
+*A representation of the twenty-eight Barrowinch-Gunagido alchemical motifs.*
 
-The Philosopher's Stone is the most important tool an alchemist has. It is the source of all energy in the art, and the key to most any successful formula. 
+In an effort to systemize the practice of Alchemy for themselves and the future of the art, research was concurrently performed by [[Doctor Gunagido]] of [[The Deserts of Tetrimoc]] and [[Alergra Barrowinch]] of [[The Kingdom of Prosper]] in their respective laboratories, and both researchers would come to submit functionally identical findings in this regard. These two documents expand on the work previously written by [[Scree'up]] and [[Dimble Turing]] of [[The Democratic Combine of Peoples]], the aforementioned '[[The Axioms, Theories, and Philosophies of Mages of the First Century]]', by providing a framework on which the modern understanding of Alchemy rests.
 
-##### Creating a Stone
-A Philosopher's Stone can be created by following these cryptic instructions;
 
-"Creating such a work requires a *spark of life*, a *powder of wisdom*, and *much time*, but it could be done."
-
-Many alchemists have created their own formula for creating a Philosopher's Stone and debate the potency of one ingredient over another, but there is no discernible difference – when a Philosopher's Stone is created, it has no Grade. Those formulas that involve Yellow Powder, Red Water, or another Philosopher's Stone produce more quickly than those formulas without - such a "virgin" stone takes just over a century to form.
 
 #### Basic Kit
 There are four tools that are considered integral in the Alchemist's kit. The first is the Mortar and Pestle, used for mixing and grinding ingredients into powders or pastes. Second, the Calcinator, a heat-proof container used for indirect heat processes. Third and Fourth are the Alembic and Retort, which are used for wet and dry distillation respectively.
