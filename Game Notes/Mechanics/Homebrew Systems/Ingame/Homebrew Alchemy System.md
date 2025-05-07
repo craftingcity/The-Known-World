@@ -25,11 +25,11 @@ A master alchemist is a ***full***-time alchemist, capable of handling *any* tas
 ### How do *I* start doing Alchemy?
 #### Alchemical Motifs
 ![[AlchemicalComponentMotifs.png]]
-*A representation of the twenty-eight Barrowinch-Gunagido alchemical motifs.*
+*A representation of the Twenty-Eight Barrowinch-Gunagido Alchemical Motifs.*
 
-In an effort to systemize the practice of Alchemy for themselves and the future of the art, research was concurrently performed by [[Doctor Gunagido]] of [[The Deserts of Tetrimoc]] and [[Alergra Barrowinch]] of [[The Kingdom of Prosper]] in their respective laboratories, and both researchers would come to submit functionally identical findings in this regard. These two documents expand on the work previously written by [[Scree'up]] and [[Dimble Turing]] of [[The Democratic Combine of Peoples]], the aforementioned '[[The Axioms, Theories, and Philosophies of Mages of the First Century]]', by providing a framework on which the modern understanding of Alchemy rests.
+In an effort to systemize the practice of Alchemy for themselves and the future of the art, research was concurrently performed by [[Doctor Gunagido]] of [[The Deserts of Tetrimoc]] and [[Alergra Barrowinch]] of [[The Kingdom of Prosper]] in their respective laboratories, and both researchers would come to submit functionally identical findings in this regard. These two documents expand on the work previously written by [[Scree'up]] and [[Dimble Turing]] of [[The Democratic Combine of Peoples]], the aforementioned '[[The Axioms, Theories, and Philosophies of Mages of the First Century]]', by providing a framework on which the modern understanding of Alchemy rests - the *Twenty-Eight Barrowinch-Gunagido Alchemical Motifs*.
 
-
+Represented as a series of concentric shapes or rings, the Barrowinch-Gunagido Alchemical Motifs categorizes the Weave Potentia of any given component (or product) by its 'Major Motif', the motif it is most relevant or aligned with, and then its 'Minor Motifs', the other relevant or aligned Potentia in a given component. 
 
 #### Basic Kit
 There are four tools that are considered integral in the Alchemist's kit. The first is the Mortar and Pestle, used for mixing and grinding ingredients into powders or pastes. Second, the Calcinator, a heat-proof container used for indirect heat processes. Third and Fourth are the Alembic and Retort, which are used for wet and dry distillation respectively.
@@ -44,26 +44,14 @@ The act of creating an alchemical product by a player is both an in-game perform
 
 When this check is performed during downtime, or by an NPC, one would "take ten", and calculate as though they had rolled a ten on the die.
 
-~ | Detail
---- | ---
-32+ | Master
-26-31| Expert
-20-25 | Journeymen
-14-19 | Novice
-8-13 | Apprentice
-(+8, nonstacking) | Using a Philosopher's Stone
-(+4, nonstacking) | Using some Red Water
-(+2, nonstacking) | Using some Yellow Powder
-(+0-4, once per ingredient used) | Using an alchemically potent ingredient
-
-The quality of an alchemical product is important when considering available use time, potency, and specificity.
-
-#### Collection
-Collecting ingredients that are alchemically potent is a task that involves correctly identifying and harvesting such an ingredient. For the purposes of our game, this will involve a Wisdom (Survival) check against the following table. Quantity must be considered as appropriate to in-game truths, such as time, weight, availability, etc.
-
-~ | P. Min | P. Max
---- | --- | ---
-30 | 3 | 5 
-25  | 2 | 4 
-20 | 2 | 3
-10 | 1 | 2
+| ~                                | Detail                                  |
+| -------------------------------- | --------------------------------------- |
+| 32+                              | Master                                  |
+| 26-31                            | Expert                                  |
+| 20-25                            | Journeymen                              |
+| 14-19                            | Novice                                  |
+| 8-13                             | Apprentice                              |
+| (+8, nonstacking)                | Using a Philosopher's Stone             |
+| (+4, nonstacking)                | Using some Red Water                    |
+| (+2, nonstacking)                | Using some Yellow Powder                |
+| (+0-4, once per ingredient used) | Using an alchemically potent ingredient |
