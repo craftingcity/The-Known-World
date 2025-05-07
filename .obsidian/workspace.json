@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d4c0b26bbcddff17",
+        "id": "89837855f2066a50",
         "type": "tabs",
         "children": [
           {
-            "id": "f70c0b97bf442868",
+            "id": "09a63f4214a1be1a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -276,99 +276,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "3e4c1ec683ee6433",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6e9b666eeba19a91",
-        "type": "window",
-        "children": [
-          {
-            "id": "96af4637dbc75a74",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "538b8e2d553e2183",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              },
-              {
-                "id": "e9fdcb9cfaced0ad",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Alchemy Processes & Products"
-                }
-              },
-              {
-                "id": "f95d49da242d8579",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Homebrew Alchemy System"
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1536,
-        "height": 912,
-        "maximize": false,
-        "zoom": -1.5
-      }
-    ]
-  },
-  "active": "f95d49da242d8579",
+  "active": "09a63f4214a1be1a",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/Natural or Territory/Alvalini River.md",
@@ -387,7 +297,6 @@
     "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
     "Game Notes/Prenotes/Prenotes.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Barkryn/Asilar's Bounty.md",

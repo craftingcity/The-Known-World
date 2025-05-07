@@ -29,7 +29,39 @@ A master alchemist is a ***full***-time alchemist, capable of handling *any* tas
 
 In an effort to systemize the practice of Alchemy for themselves and the future of the art, research was concurrently performed by [[Doctor Gunagido]] of [[The Deserts of Tetrimoc]] and [[Alergra Barrowinch]] of [[The Kingdom of Prosper]] in their respective laboratories, and both researchers would come to submit functionally identical findings in this regard. These two documents expand on the work previously written by [[Scree'up]] and [[Dimble Turing]] of [[The Democratic Combine of Peoples]], the aforementioned '[[The Axioms, Theories, and Philosophies of Mages of the First Century]]', by providing a framework on which the modern understanding of Alchemy rests - the *Twenty-Eight Barrowinch-Gunagido Alchemical Motifs*.
 
-Represented as a series of concentric shapes or rings, the Barrowinch-Gunagido Alchemical Motifs categorizes the Weave Potentia of any given component (or product) by its 'Major Motif', the motif it is most relevant or aligned with, and then its 'Minor Motifs', the other relevant or aligned Potentia in a given component. 
+Represented as a series of concentric shapes or rings, the Barrowinch-Gunagido Alchemical Motifs categorizes the Weave Potentia of any given component (or product) by its 'Major Motif', the motif it is most relevant or aligned with, and then its 'Minor Motifs', the other relevant or aligned Potentia in a given component. The Motifs, and their place in the concentric rings, are as follows;
+
+- **Core Ring**, the basest elements
+	- Earth
+	- Air
+	- Water
+	- Fire
+- **Inner Ring**, the effects of those elements 
+	- Healing
+	- Disease
+	- Illusion
+	- Light
+	- Arcana
+	- Weight
+	- Form
+	- Poison
+- **Outer Ring**, the effects of those effects
+	- Desist
+	- Divine
+	- Regenerate
+	- Necrot
+	- Degenerate
+	- Fabrim
+	- Charm
+	- Evoke
+	- Immute
+	- Dunam
+	- Immort
+	- Dragon
+	- Mortal
+	- Abjure
+	- Bane
+	- Spirit
 
 #### Basic Kit
 There are four tools that are considered integral in the Alchemist's kit. The first is the Mortar and Pestle, used for mixing and grinding ingredients into powders or pastes. Second, the Calcinator, a heat-proof container used for indirect heat processes. Third and Fourth are the Alembic and Retort, which are used for wet and dry distillation respectively.

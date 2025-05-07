@@ -6,74 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#notes  ",
-      "color": {
-        "a": 1,
-        "rgb": 3814297
-      }
-    },
-    {
-      "query": "tag:#holding  ",
-      "color": {
-        "a": 1,
-        "rgb": 12144766
-      }
-    },
-    {
-      "query": "tag:#region",
-      "color": {
-        "a": 1,
-        "rgb": 13207814
-      }
-    },
-    {
-      "query": "tag:#groups  ",
-      "color": {
-        "a": 1,
-        "rgb": 36822
-      }
-    },
-    {
-      "query": "tag:#planes  ",
-      "color": {
-        "a": 1,
-        "rgb": 16057677
-      }
-    },
-    {
-      "query": "tag:#npc  ",
-      "color": {
-        "a": 1,
-        "rgb": 12237559
-      }
-    },
-    {
-      "query": "tag:#folderfile  ",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "tag:#mechanics  ",
-      "color": {
-        "a": 1,
-        "rgb": 47242
-      }
-    }
-  ],
-  "collapse-display": true,
+  "colorGroups": [],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.245047413388414,
-  "repelStrength": 8.26589052671111,
-  "linkStrength": 0.701718148530654,
+  "nodeSizeMultiplier": 0.683972602739726,
+  "lineSizeMultiplier": 0.1,
+  "collapse-forces": false,
+  "centerStrength": 0.19041095890411,
+  "repelStrength": 11.8082191780822,
+  "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.19327719225777965,
+  "scale": 0.1273050158243071,
   "close": false
 }
