@@ -8,23 +8,23 @@ aliases:
 ## Contents
 ### Flora
 ### Scenarios
-#### N11. Wychway Bridge, Destroyed
-#### N12. Wychway 
-#### O10.
-#### O11.
-#### O12.
-#### O13.
-#### O14.
-#### O15.
-#### P10.
+#### N11. Wychway Bridge (visible, destroyed)
+#### N12. Wychway Farmlands (visible)
+#### O10. Anchor Quarry (visible)
+#### O11. Triplet Standing Stones (visible)
+#### O12. Clay Farm
+#### O13. Silver Fields
+#### O14. Open Shrine
+#### O15. The Scar Homestead
+#### P10. 
 #### P11.
-#### P12.
+#### P12. Fishmonger Huts (visible)
 #### P13.
 #### P14.
 #### P15.
 #### Q11.
-#### Q12.
-#### Q13.
+#### Q12. Tar Field (visible)
+#### Q13. 
 #### Q14.
 #### Q15.
 #### R13. Statue of a Dying Warrior 
