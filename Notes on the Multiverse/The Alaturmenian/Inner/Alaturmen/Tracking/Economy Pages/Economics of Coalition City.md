@@ -22,9 +22,12 @@ In similar circumstance to its Meats, Coalition City's Dairy is mostly imported 
 Rye is cheap, and imported en-mass from [[The Kingdom of Prosper]], making it the staple grain within the city. Potatoes and Maize are imported from the north and east, but these grains are considered a minor delicacy that is economically reserved for the upper classes.
 
 #### Fruit
-While space is a major issue for the farming population of Coalition City, some invasive species of vertically proficient and hearty fruits have proliferated
+While space is a major issue for the farming population of Coalition City, some invasive species of vertically proficient and hearty fruits have proliferated some of the City's Wards, such as the splotches of huckleberries growing in the alleys of the Moss Ward.
+
+Otherwise, and more commonly, Fruit is imported from the south-east, where it grows in plenty and can be easily transported along the [[Alvalini River]].
 
 #### Vegetable
+
 #### Spice and Oil
 #### Delicacy
 
