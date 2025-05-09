@@ -6,7 +6,7 @@ aliases:
 # Actstow's Economy
 ## As suggested by Grains into Gold
 ### Prelim
-The soil of [[Actstow Hills]] is extremely poor. The large majority of the supply of food in Actstow is grown underground, meaning that the pattern of weather is of no concern and heat can be controlled well, leaving space as the main concern for farmers.
+The soil of [[Actstow Hills]] is extremely poor. The large majority of the supply of food grown in Actstow is grown underground, meaning that the pattern of weather is of no concern and heat can be controlled well, leaving space as the main concern for farmers.
 
 ### Potato Bread
 Potatoes grow well in the conditions of Acstow's greenhouses, and grow plentifully at that. Potato flour makes a wonderful white bread to boot.

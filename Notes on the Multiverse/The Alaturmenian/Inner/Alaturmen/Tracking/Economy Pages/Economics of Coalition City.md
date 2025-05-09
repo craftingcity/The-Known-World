@@ -6,14 +6,14 @@ aliases:
 # Coalition City's Economy
 ## As suggested by Grains into Gold
 ### Prelim
-[[Coalition City]] is a metropolis set into a massive mountain range. In general, most items are imported rather than produced. Those foods that are actually produced here are not a part of  industrialized processes.
+[[Coalition City]] is a metropolis set into a massive mountain range. In general, most items are imported rather than produced. Those foods that are actually produced here are not a part of  industrialized processes, rather from small gardens of personal use.
 
 ### "Bread"
-Bread plays it's role in Coalition City, and given it's importance to trade in the area, Coalition City has access to most other culture's staples. For most folks in the city - the lower to middle classes - Rye is the flour of choice.
+Bread plays it's role in Coalition City, and given it's importance to trade in the area, Coalition City has access to most other culture's staples. For most folks in the city - the lower to middle classes - Rye is the flour of choice. Flour arrives prepared, so there is no need for mills or farmlands within the City.
 
 ### Food
-What lives here?
 #### Meat
+Coalition City has no natural bounty of animals for domestication or hunting, which leads its population to impo
 #### Dairy
 #### Grain
 #### Fruit
