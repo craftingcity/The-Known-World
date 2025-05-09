@@ -26,7 +26,7 @@ Potatoes and Peanuts are the two most common flours in Actstow. Potato flour mak
 Small amounts of true grains could be found for use in delicacy, but not in large quantities, and almost certainly not for sale.
 
 #### Fruit
-While soil and temperature can be controlled, space is an issue for growing Fruit in Actstow. Those fruits that are grown here are grown in low quantity and quality do to this restriction. Those fruit that are grown are rarely eaten on their own, more commonly becoming preservative or drink. 
+While soil and temperature can be controlled, space is an issue for growing Fruit in Actstow. Those fruits that are grown here are grown in low quantity and quality do to this restriction. Fruit are rarely eaten on their own, more commonly becoming preservative or drink. 
 
 Emerging avocado make for efficient and desirable fruits, and peanuts and oranges are also locally grown. Pears, Apples, Grapes, Cherries and Berries are imported from many neighboring states. Almonds are imported from the east, and are as expensive as they should be for their demand and distance from their sources.
 

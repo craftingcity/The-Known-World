@@ -13,12 +13,17 @@ Bread plays it's role in Coalition City, and given it's importance to trade in t
 
 ### Food
 #### Meat
-Coalition City has no natural bounty of animals for domestication or hunting, nor the space necessary to develop such a bounty, leading its population to import prepared meats or live animals for slaughter. A large majority of this business comes from [[The Kingdom of Prosper]]'s cattle farms.
+Coalition City has no natural bounty of animals for domestication or hunting, nor the space necessary to develop such a bounty, leading its population to import prepared meats or live animals for slaughter. A large majority of this business comes from [[The Kingdom of Prosper]]'s cattle farms, but most any meat could be found somewhere in the city.
 
 #### Dairy
-In similar circumstance to it
+In similar circumstance to its Meats, Coalition City's Dairy is mostly imported from outside its walls. Stable cheese is the most common and cheap form of dairy one can acquire, although milk can be imported at great expense from the north-east.
+
 #### Grain
+Rye is cheap, and imported en-mass from [[The Kingdom of Prosper]], making it the staple grain within the city. Potatoes and Maize are imported from the north and east, but these grains are considered a minor delicacy that is economically reserved for the upper classes.
+
 #### Fruit
+While space is a major issue for the farming population of Coalition City, some invasive species of vertically proficient and hearty fruits have proliferated
+
 #### Vegetable
 #### Spice and Oil
 #### Delicacy
