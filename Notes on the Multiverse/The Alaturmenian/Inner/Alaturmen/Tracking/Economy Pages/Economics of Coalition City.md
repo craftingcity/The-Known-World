@@ -24,9 +24,10 @@ Rye is cheap, and imported en-mass from [[The Kingdom of Prosper]], making it th
 #### Fruit
 While space is a major issue for the farming population of Coalition City, some invasive species of vertically proficient and hearty fruits have proliferated some of the City's Wards, such as the splotches of huckleberries growing in the alleys of the Moss Ward.
 
-Otherwise, and more commonly, Fruit is imported from the south-east, where it grows in plenty and can be easily transported along the [[Alvalini River]].
+Otherwise, and more commonly, Fruit is imported from the south-east, where it grows in plenty and can be easily transported along the [[Alvalini River]], typically as a processed good rather than the more coveted raw fruits.
 
 #### Vegetable
+
 
 #### Spice and Oil
 #### Delicacy
