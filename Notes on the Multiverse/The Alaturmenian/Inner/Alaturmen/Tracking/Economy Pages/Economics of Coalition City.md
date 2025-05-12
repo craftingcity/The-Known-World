@@ -27,6 +27,8 @@ Again, space is a major issue for the farming population of Coalition City. The 
 #### Vegetable
 Mushroom, Cabbage, Carrots, Potatoes, and even Lettuce are imported from nearby producers, but they all fall in the face of the mighty **Bean**. Given the import-based nature of the City's culinary climate, the cheapest and best travelling ingredient, such as the world's favorite rotation crop, Beans have become defaulted into the most common ingredient of Coalition City's food.
 
+==v==
+
 #### Spice and Oil
 
 

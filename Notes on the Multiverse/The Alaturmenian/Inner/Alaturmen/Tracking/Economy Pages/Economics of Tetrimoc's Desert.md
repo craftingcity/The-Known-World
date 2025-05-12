@@ -22,11 +22,16 @@ We eat goat if we're in the city, or worms if we're outside. Or people. Y'know, 
 Goat or Worm milks are the only choices presented to the common folk of the Desert. Rarely, and at great expense, nut milk can be locally produced or dairy can be imported from the east. Most people go without dairy in the deserts.
 
 #### Grain
-Within the Desert, Maize naturally grows well, but few other grains can in this place. In the wetter, more nutrient rich regions, some farmers can grow a short wheatgrass, but that 
-Nearly only corn, some folks can get light grains in the wetter areas, but we get to sell that, so we eat corn.
+Within the Desert, Maize naturally grows well, but few other grains can in this place. In the wetter, more nutrient rich regions, some farmers can grow a short wheatgrass, but that is exported into the Golden City and consumed only by the most gluttonous nobles.
 
 #### Fruit
-Cactus! Oranges, lemons, limes, cherries, berries, bananas, and coconuts.
+The most commonly consumed fruits in the Desert are of the wild cacti saturating the region. While this is certainly not the most flavorful or fulfilling food, it provides the layfolk with the nutritional vitamins necessary to survive.
+
+In the southern regions of the Desert, particularly the areas of [[Tetrimoc's Blessings]] and [[Barthalamule's Shrubland]], grow the large majority of the world's supply of citrus fruits, including lemons, limes, and oranges.
+
+An expensive business is the import of eastern fruit, not only for the cost of the fruit itself, but the threat of banditry consuming or destroying the contents of a given caravan - typically this business is handled alongside the Water Trades.
+
+==v==
 
 #### Vegetable
 We import cheap mushrooms & potatoes, but we can grow corn, carrots, and sometimes tomatoes.
