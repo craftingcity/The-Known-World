@@ -16,12 +16,13 @@ Most people turn this into a basic bread or cake.
 ### Food
 What lives here?
 #### Meat
-We eat goat if we're in the city, or worms if we're outside. Or people. Y'know, if you have to...
+We eat goat if we're in the city, or worms if we're outside. Or people. Y'know, if you have to... Meat is uncommon here, always a delicacy.
 
 #### Dairy
-Goats milk! Some city folk can get imported Cow Cheese, but its rare. So is nuts milk, we just dont get a lot of dairy tbh.
+Goat or Worm milks are the only choices presented to the common folk of the Desert. Rarely, and at great expense, nut milk can be locally produced or dairy can be imported from the east. Most people go without dairy in the deserts.
 
 #### Grain
+Within the Desert, Maize naturally grows well, but few other grains can in this place. In the wetter, more nutrient rich regions, some farmers can grow a short wheatgrass, but that 
 Nearly only corn, some folks can get light grains in the wetter areas, but we get to sell that, so we eat corn.
 
 #### Fruit
