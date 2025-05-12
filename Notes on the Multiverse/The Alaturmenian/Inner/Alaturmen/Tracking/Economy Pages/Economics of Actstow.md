@@ -43,7 +43,7 @@ Goat-butter fried peanut-breaded-chicken (or beef if you can get it imported) is
 
 A local delicacy of the children of Actstow is a frozen dairy cream, sweetened with spices such as cinnamon, ginger, or fruit preservative.
 
-Actstow is a fairly rich place, although not very well positioned for massive trade, meaning most delicacy is imported or outlawed.
+Actstow is a fairly rich place, although not very well positioned for massive trade, meaning most delicacy is imported.
 
 ### Vices
 Smokebulb is culturally unacceptable, but fine Cannabis and Tobacco are imported from elsewhere (or secretly home-grown) and are much more culturally acceptable - all three are quite common.
