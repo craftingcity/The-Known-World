@@ -20,7 +20,22 @@ You've come to face the brutalist headquarters, and you've developed an initial 
 
 ### What does the World Know?
 #### The Garrison
+Of the ~2500 employed 'Guards', less than 40 are at the Garrison at the moment.
 
+Of these, 4 are *Outside*, 8 are on the *Lobby Floor*, 6 are on the *Office Floor*, and 16 are *Underground*, primarily in the prison dungeons.
+
+##### Lobby Floor
+	- Lobby
+	- Special Crimes Units
+	- Processing and Holding
+	- Breakroom
+##### Office Floor
+	- Squadrooms x3
+	- Captain's Office
+##### Underground
+	- Prison Dungeons
+	- Armory
+	- Locked Tunnels
 
 ### What happened?
 
