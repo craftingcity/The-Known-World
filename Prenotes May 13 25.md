@@ -45,6 +45,9 @@ Of these, 4 are *Outside*, 8 are on the *Lobby Floor*, 6 are on the *Office Floo
 	RED
 		A ()
 		B (3)
+	YELLOW
+		A (10)
+		B ()
 	- Donkey?
 	- Stall on Fire
 	- Emilio
