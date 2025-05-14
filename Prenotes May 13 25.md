@@ -42,10 +42,14 @@ Of these, 4 are *Outside*, 8 are on the *Lobby Floor*, 6 are on the *Office Floo
 18 - Emilio
 11 - Zesh
 10 - Outside Guards
+	RED
+		A ()
+		B (3)
 	- Donkey?
 	- Stall on Fire
 	- Emilio
 10 - Civilians
+0 - Da Bomb
 
 ### What happened?
 
