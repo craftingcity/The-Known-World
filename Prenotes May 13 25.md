@@ -38,9 +38,14 @@ Of these, 4 are *Outside*, 8 are on the *Lobby Floor*, 6 are on the *Office Floo
 	- Locked Tunnels
 
 23 - Leliana
-19 - Xenfer
+19 - Xenfer (S:1, HP:)
 18 - Emilio
 11 - Zesh
+10 - Outside Guards
+	- Donkey?
+	- Stall on Fire
+	- Emilio
+10 - Civilians
 
 ### What happened?
 
