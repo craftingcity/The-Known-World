@@ -60,6 +60,8 @@ How do people make ends meet? How do people value their luxuries?
 
 In many instances, the poorest citizens of Mountain Hall suffer from scurvy, leading to a spiral that ends in their death. If one wishes to, say, not die of scurvy, the army of your local Clan is an honest if not safe option that solves many of the issues present in a privatized life in Mountain Hall.
 
+==v==
+
 ### Middlemen
 What does trade look like around here? What about guilds? Markets?
 
