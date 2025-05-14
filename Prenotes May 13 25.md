@@ -14,9 +14,9 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, they meet each other at the Araborum, a tavern within the city of [[Mossburg]]. Your objective is to deliver a package to the desk of the Captain of Enforcement within Mossburg's Garrison, home to those guards actively performing duty and prisoners of the Enforcers.
+When last we left our heroes, they met each other at the Araborum, a tavern within the city of [[Mossburg]]. Your objective is to deliver a package to the desk of the Captain of Enforcement within Mossburg's Garrison, home to those guards actively performing duty and prisoners of the Enforcers.
 
-You've come to face the brutalist headquarters, and you've developed an initial plan - distract, insert, extract - but the experienced among you know a plan can only do so much in the face of reality. Nevertheless, action calls you; Roll Initative!
+You've come to face the brutalist headquarters, and you've developed an initial plan - distract, insert, extract - but the experienced among you know a plan can only do so much in the face of reality. Nevertheless, action calls you; Roll Initiative!
 
 ### What does the World Know?
 #### The Garrison
@@ -36,6 +36,11 @@ Of these, 4 are *Outside*, 8 are on the *Lobby Floor*, 6 are on the *Office Floo
 	- Prison Dungeons
 	- Armory
 	- Locked Tunnels
+
+23 - Leliana
+19 - Xenfer
+18 - Emilio
+11 - Zesh
 
 ### What happened?
 
