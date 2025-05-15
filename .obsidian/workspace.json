@@ -29,8 +29,32 @@
               "icon": "lucide-file",
               "title": "Prenotes Apr 29 25"
             }
+          },
+          {
+            "id": "5905e6f8e45bf155",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Forgehome"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7a74777ca99b99d5",
@@ -313,6 +337,7 @@
   },
   "active": "49bcba88acfccfa8",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Forgehome.md",
     "Game Notes/Prenotes/'25/Prenotes Apr 29 25.md",
     "Prenotes May 14 25.md",
     "Prenotes May 13 25.md",
@@ -339,7 +364,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/Natural or Territory/Alvalini River.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/SCRIPTS/motifdisplay.py",
