@@ -5,6 +5,7 @@
 - [[Eliza 'Elliot' O'Brien]]
 - [[Erin 'Fox' Bathal]]
 - [[Grekk]]
+- [[Tiana Turing]]
 
 %% End Waypoint %%
 

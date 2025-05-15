@@ -1,6 +1,6 @@
 ---
 tags:
-  - npc
+  - player
 aliases:
 ---
 # Dante 'the Reaper' Kukili

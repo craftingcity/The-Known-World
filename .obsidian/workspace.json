@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23847a002e856494",
+        "id": "7724cb7e399709ad",
         "type": "tabs",
         "children": [
           {
-            "id": "fc0ab346a21e5e22",
+            "id": "658f3be5037ae438",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,24 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Prenotes May 14 25",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes May 14 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes May 14 25\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":11},\"to\":{\"line\":30,\"ch\":11}},\"scroll\":24.881997033507798}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Actstow Hills.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Actstow Hills"
+              "title": "New tab"
             }
           }
         ]
@@ -287,8 +277,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc0ab346a21e5e22",
+  "active": "658f3be5037ae438",
   "lastOpenFiles": [
+    "Junie's Characters/Tiana Turing.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Junie's Characters/Dante Fukili.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Actstow Hills.md",
     "Prenotes May 14 25.md",
     "Game Notes/Prenotes/'25/Prenotes Apr 29 25.md",
     "conflict-files-obsidian-git.md",
@@ -312,10 +306,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range/Deakred Range.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Litteortosta.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Redl'nds.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/SCRIPTS/motifdisplay.py",

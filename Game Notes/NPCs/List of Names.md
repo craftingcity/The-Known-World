@@ -24,7 +24,8 @@ aliases:
 | Mateus    | Yandee      | Tianna     |
 | Paulo     | Yeirruk     | Sarhin     |
 | Wilson    |             | Mariana    |
-| Simon     |             |            |
+| Simon     |             | Tiana      |
+|           |             |            |
 
 ## Last Names
 
@@ -69,7 +70,7 @@ aliases:
 | Nike      | River   | Yyu      |
 | Glot      | Toor    | Marilynn |
 | Jerran    |         | Wren     |
-| Nylan     |         |          |
+| Nylan     |         | Tiana    |
 | Revari    |         |          |
 |           |         |          |
 
@@ -97,6 +98,7 @@ aliases:
 | Powell      |       |
 | Clipwin     |       |
 | Vladamin    |       |
+| Sunshield   |       |
 
 # Northwestern (of Flame)
 ## First Names
