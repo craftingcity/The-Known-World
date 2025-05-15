@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1fae4712d7ecc28",
+        "id": "23847a002e856494",
         "type": "tabs",
         "children": [
           {
-            "id": "1ee0e3c14906ab65",
+            "id": "fc0ab346a21e5e22",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,20 +16,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Mossburg",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Mossburg\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes May 14 25.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes May 14 25"
             }
           }
         ]
@@ -82,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alergra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -283,7 +281,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ee0e3c14906ab65",
+  "active": "fc0ab346a21e5e22",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'25/Prenotes Apr 14 25.md",
