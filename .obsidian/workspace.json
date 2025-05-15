@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1fae4712d7ecc28",
+        "id": "db59febe7db32dcb",
         "type": "tabs",
         "children": [
           {
-            "id": "dbc69bebb92084fc",
+            "id": "e734a6b94356d990",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,62 +22,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes May 13 25.md",
+                "file": "Game Notes/Prenotes/'25/Prenotes Apr 29 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes May 13 25"
-            }
-          },
-          {
-            "id": "a23f655eed8b199f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes Apr 14 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Apr 14 25"
-            }
-          },
-          {
-            "id": "1ee0e3c14906ab65",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Mossburg"
+              "title": "Prenotes Apr 29 25"
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "7a74777ca99b99d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49bcba88acfccfa8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes May 14 25.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes May 14 25"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -329,10 +311,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ee0e3c14906ab65",
+  "active": "49bcba88acfccfa8",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'25/Prenotes Apr 29 25.md",
+    "Prenotes May 14 25.md",
     "Prenotes May 13 25.md",
     "Game Notes/Prenotes/'25/Prenotes Apr 14 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Coalition City.md",
@@ -355,9 +340,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/Natural or Territory/Alvalini River.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Game Notes/Campaigns.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
-    "A Grand Notepad.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/SCRIPTS/motifdisplay.py",
