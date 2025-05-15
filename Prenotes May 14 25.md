@@ -28,9 +28,14 @@ The Psyflayer is the singular avatar of the Elder Brain, who lives in 'the Forge
 
 The dwarves of Deepreach have been collected here, amongst the rubble of what was once a monument of industry, in tight rows and columns. Standing there, until their bodies rot, to be absorbed into the biofilm the species subsists upon.
 
-#### They're feeling hurt...
-The Psyflayer is the final boss! As it is defeated, a psychic scream is released, and the veins in Deepreach slowly stop their pulsing beat. Although this may wreak havoc on the current party, this is the cost of victory. If anyone emerges, and survives the climb back to Forgehome, they will be safe - heralded as a hero of the area, and either returned to the surface, or hosted within the city, heartily compensated in either case. Otherwise, their deeds will be discovered years later, by adventurers yet unborn. Their tale unsung, but not unperformed. The Illithid of Deepreach, and therefore of those too in the areas around [[Forgehome]] and [[Mountain Hall]] are either destroyed, disabled, or released under the power of the psychic sc
+Sensing danger, and under the advice of the Psyflayer, the Masses awaken, and will constantly and unendingly approach the party's position at strengths of 2d4 Masses per round. The Elder Brain has 0 AC, and 120HP it shares with the Psyflayer. While the Elder Brain is attacked directly in this state (ie, while the Psyflayer is alive) it reflects half the damage it takes. After this, it has another 80HP before it dies, ceasing the Illithid operations under it's control, and it does not reflect any damage while in this state - although the Masses continue coming.
 
+#### They're feeling hurt...
+The Psyflayer is the final boss! As it is defeated, a psychic scream is released, and the veins in Deepreach slowly stop their pulsing beat. Although this may wreak havoc on the current party, this is the cost of victory. If anyone emerges, and survives the climb back to Forgehome, they will be safe - heralded as a hero of the area, and either returned to the surface, or hosted within the city, heartily compensated in either case. Otherwise, their deeds will be discovered years later, by adventurers yet unborn. Their tale unsung, but not unperformed. The Illithid of Deepreach, and therefore of those too in the areas around [[Forgehome]] and [[Mountain Hall]] are either destroyed, disabled, or released under the power of the psychic scream.
+
+#### Post-Game
+
+Lets figure our endings (if they didn't die), and figure what we want to play next (between the boys, who would feel most ready?)
 
 ### What happened?
 
