@@ -23,7 +23,7 @@ Before we resume, can I get a status check? What health is everyone on, what res
 We're finishing this campaign in Deepreach, *tonight*.
 
 ##### FIGHT
-(22) - Psyflayer (180hp, 20AC); 20, 36, 63
+(22) - Psyflayer (180hp, 20AC); 20, 36, 63, 89, 117
 (21) - Bone Tarantula (40hp, 22AC); 12, 40
 (20) - Rowan
 (16) - Marylynn
@@ -31,7 +31,7 @@ We're finishing this campaign in Deepreach, *tonight*.
 (7) - Bhodi
 (0) - Pink (70hp, 18AC)
 	~~A; 31, 50, 69~~
-	B; 31
+	~~B; 31, 53, ~~
 	C; 31
 
 #### They're feeling good!
