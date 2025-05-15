@@ -23,16 +23,16 @@ Before we resume, can I get a status check? What health is everyone on, what res
 We're finishing this campaign in Deepreach, *tonight*.
 
 ##### FIGHT
-(22) - Psyflayer (180hp, 20AC); 20, 36, 63, 89, 117
-(21) - Bone Tarantula (40hp, 22AC); 12, 40
+(22) - Psyflayer (180hp, 20AC); 20, 36, 63, 89, 117, 126, 138, 
+(21) - Bone Tarantula (40hp, 22AC); 12
 (20) - Rowan
 (16) - Marylynn
-(8) - Thomas
+~~(8) - Thomas~~
 (7) - Bhodi
 (0) - Pink (70hp, 18AC)
 	~~A; 31, 50, 69~~
 	~~B; 31, 53, ~~
-	C; 31
+	~~C; 31, 44, 59, 72~~
 
 #### They're feeling good!
 The Psyflayer is the singular avatar of the Elder Brain, who lives in 'the Forge', one level below us. Our tendrils reach up and out, these three in the room right now are the ones that go straight up - therefore, we can drop the party a ways, and they're gonna end up on top of Elder Brain. This is not exactly 'tactically sound', but it is gonna be a fun narrative that can actually 'remove the threat' (as it exists at this time).
