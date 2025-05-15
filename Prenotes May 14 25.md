@@ -30,7 +30,7 @@ We're finishing this campaign in Deepreach, *tonight*.
 (8) - Thomas
 (7) - Bhodi
 (0) - Pink (70hp, 18AC)
-	A; 31
+	~~A; 31, 50, 69~~
 	B; 31
 	C; 31
 
