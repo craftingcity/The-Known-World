@@ -32,4 +32,6 @@ In attempts at distraction, Emilio started a brawl with the standing guard outsi
 XENFER 4 Horses on BLU
 
 
+
+
 We leave our heroes on the date of ... AF, as they ...
