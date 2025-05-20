@@ -21,6 +21,8 @@ In attempts at distraction, Emilio started a brawl with the standing guard outsi
 ### What does the World Know?
 ##### THREADS
 - Emilio's Daughter
+	- Hey Paul it's em We did it! We all made it out alive(barley) I got my ass kicked and didn't get a punch in do you know of anything that can help with either. I haven't been compensated and I'm willing to take something other than coin. What's next boss ttyl :3
+	- `Hey Em. Good, we'll have more for you in a bit. Payment comes in a few days, don't worry, they'll pump your account at GoM. We can hook you up with some classes, if that's what you mean, but otherwise I'll look for some things for you.`
 - Leliana's Siblings
 - Mossburg's Prisioners / Whats happened to the Enforcers
 - **We need to get payed!** / They're giving us more work
