@@ -29,9 +29,9 @@ In attempts at distraction, Emilio started a brawl with the standing guard outsi
 
 ### What happened?
 
-XENFER 4 Horses on BLU
+"The Black Ghost"; murderer/cop killer (5ksp for capture)
+	- Leliana asks about reward for recruiting to Company
 
+We want more jobs from the Company, says Leliana.
 
-
-
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the date of 7/19 106AF, as they wait for their payment to get transfered and for more jobs to come their ways.
