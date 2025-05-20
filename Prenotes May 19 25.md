@@ -34,4 +34,4 @@ In attempts at distraction, Emilio started a brawl with the standing guard outsi
 
 We want more jobs from the Company, says Leliana.
 
-We leave our heroes on the date of 7/19 106AF, as they wait for their payment to get transfered and for more jobs to come their ways.
+We leave our heroes on the date of 7/19 106AF, as they wait for their payment to get transferred and for more jobs to come their ways.

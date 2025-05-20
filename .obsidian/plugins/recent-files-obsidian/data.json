@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "Prenotes May 19 25",
       "path": "Prenotes May 19 25.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sarahouse Deakred Game",
       "path": "Game Notes/Campaign Rosters/Sarahouse Deakred Game.md"
-    },
-    {
-      "basename": "Prenotes",
-      "path": "Game Notes/Prenotes/Prenotes.md"
     }
   ],
   "omittedPaths": [],
