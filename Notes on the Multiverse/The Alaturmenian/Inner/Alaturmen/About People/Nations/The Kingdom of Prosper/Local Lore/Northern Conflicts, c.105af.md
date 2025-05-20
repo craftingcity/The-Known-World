@@ -57,3 +57,7 @@ In an honor-driven attempt to reconnoiter [[Kohnstamm]], Chapter Delectus and a 
 ## The Third Battle of Kohnstamm
 #### 106AF/05/08 - 05/22
 
+## The Naval Invasion of the Actstow Hills
+
+## The Battle of Faithroad
+
