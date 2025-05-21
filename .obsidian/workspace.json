@@ -98,6 +98,29 @@
               "icon": "lucide-file",
               "title": "Baron Glask"
             }
+          },
+          {
+            "id": "bff8d0ba7d5eefc8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Riphounds"
+            }
           }
         ],
         "currentTab": 3
@@ -383,13 +406,14 @@
   "active": "df6cb9f759d40a62",
   "lastOpenFiles": [
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
     "Prenotes Jun XX 25.md",
     "Prenotes May 19 25.md",
     "Game Notes/Prenotes/'25/Prenotes Apr 14 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
     "Junie's Characters/Tiana Turing.md",
     "Game Notes/NPCs/List of Names.md",
     "Junie's Characters/Dante Fukili.md",
@@ -408,7 +432,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Mountain Hall.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/SCRIPTS/motifdisplay.py",

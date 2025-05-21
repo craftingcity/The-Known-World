@@ -9,6 +9,10 @@
       "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md"
     },
     {
+      "basename": "Riphounds",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md"
+    },
+    {
       "basename": "Prenotes Jun XX 25",
       "path": "Prenotes Jun XX 25.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Custom Cultures",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
-    },
-    {
-      "basename": "Combat Mechanics and Positioning",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
     }
   ],
   "omittedPaths": [],
