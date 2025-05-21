@@ -26,8 +26,9 @@ A 5000sp bounty has been placed on a serial murderer.
 #### The Letters
 The party sends letters out to their patrons, requesting payments for a job well done and information on what more to be doing.
 	- Paul sends Em a pair of knuckle dusters, 475sp, and a list of 3 minor transport/supply jobs
-	- Avery sends Leliana 750sp, her compliments, and another plan for a anti-Enforcer operation within Mossburg
-	- 
+	- Avery sends Leliana 500sp, her compliments, and another plan for an anti-Enforcer operation within Mossburg
+	- Cassindil sends Zesh 450sp and their compliments, alongside a request to supply aid to 
+	- Avery also sends Xenfer 300sp, and her compliments
 
 ### What happened?
 
