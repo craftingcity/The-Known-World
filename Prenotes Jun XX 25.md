@@ -19,16 +19,15 @@ When last we left our heroes...
 ### What does the World Know?
 #### The Garrison's Destruction
 The Enforcers of Mossburg have been crippled. The time comes to apply the final blows.
-	- Factions arise within Mossburg as local influences
+	+ Factions arise within Mossburg as local influences
 		- Enforcers (in the Central District)
 		- Ring District's Free People (on the Western half of the Ring District)
 		- Avalon Shepards (on the Eastern Half of the Ring District)
 		- Militia of Scum (at and around the Scum & Villainy of the northern Ring District) 
-		- 
-	- Outside factions move assets into Mossburg
+	+ Outside factions move assets into Mossburg
 		- The [[Hillkeep Loyalists]] and the [[Knights in Red]] move forces into the city at the request of [[Baron Vannis]]
 		- [[SEASEC]] moves mercenary forces into the city as invaders
-		- The [[Harvord Trading Company]] sends mercantile assets  
+		- The [[Harvord Trading Company]] sends mercantile assets to capitalize on the tragedy 
 #### The Black Ghost Hunt
 A 5000sp bounty has been placed on a serial murderer.
 #### The Letters
