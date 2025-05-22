@@ -86,7 +86,6 @@ aliases:
 	- [[Prenotes Apr 01 25]]
 	- [[Prenotes Apr 14 25]]
 	- [[Prenotes Apr 29 25]]
-	- [[Prenotes April 08 25]]
 	- [[Prenotes Feb 01 25]]
 	- [[Prenotes Feb 04 25]]
 	- [[Prenotes feb 8 2025]]
@@ -100,6 +99,7 @@ aliases:
 	- [[Prenotes Mar 11 25]]
 	- [[Prenotes Mar 18 25]]
 	- [[Prenotes Mar 21 25]]
+	- [[Prenotes May 24 25]]
 
 %% End Waypoint %%
 

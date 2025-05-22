@@ -9,7 +9,7 @@ aliases:
 - born into the Ideology Correction Corps [[Kohnstamm]] Experimental Genetics program
 - boy do we fucking hate those guys, killed all my homies growing up - ive seen my closest friend butchered, and i was forced to eat them
 - military man with a military plan
-##### Wren, the Water Genasi Scout
+##### Wren, the Water Genasi Scout (**RIP**)
 - gotta find dad and or the rest of my family
 - literally why am i out here
 ##### Roan, the Slimknife Agent

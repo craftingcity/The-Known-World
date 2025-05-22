@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for April 8th
+# Prenotes for May 24th
 ## Party of Interest: [[ParaeducatorGame]]
 - [ ] DM Screen
 - [ ] Notepaper
@@ -14,14 +14,14 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, they had travelled from the Old Empire of Minyostalma back into [[Coalition City]] for their first steps towards their well deserved revenge. Before you continued towards the last known location of Doctor [[Otto Malkovich]], where you will attempt to make contact with him and resolve lingering questions about the death of Nikolai's birth-parents, you spent some time collecting resources, such as magical scrolls and a bank account.
+When last we left our heroes, they had travelled from the Old Empire of Minyostalma back into [[Coalition City]], reaching for their first steps towards their well deserved revenge. As preparation, you gathered power in magical scrolls and a Guilded bank account before you continued towards the last known location of Doctor [[Otto Malkovich]], where you will attempt to make contact with him and resolve lingering questions about the death of Nikolai's birth-parents.
 
-With yourselves and your equipment gathered, unless you have something else to do, the Malkovich condo awaits...
+With yourselves and your equipment gathered, in the dimming light of the evening sun, the Doctor's condo awaits...
 
 ### What does the World Know?
 
 ##### Dr. Otto M's House
-A two-story stone brick house in the Stone Ward of [[Coalition City]].
+A two-story stone brick house in the Stone Ward of [[Coalition City]], the Doctor's Condo holds three rooms on each floor. The house is designed to promote the Doctor's (and by extension his assistant's) workflow.
 
 ###### Kitchen
 > *Off the left of the Lounge, and below the Apprentice's Quarters, a Kitchen lies dormant. Clean and proper, everything is resting its place - the room smells of citrus. In the center of the room, a large black brick oven with an attached grey panel of dials and gauges takes up the majority of the space. Along the countertop at the edges of the walls, an array of jars and bags hold spices and dried food - though it is all stored far from the black marble surface on the opposed side of the counter. The shelves below the counter hold jarred goods and cast-iron cookware - some hundreds of silver worth of ingredients and utensils.*
@@ -39,7 +39,7 @@ A two-story stone brick house in the Stone Ward of [[Coalition City]].
 - Wrapping Bookshelves
 	- The collection of books here mostly regard the history of magical theory and technological progress, but there are a significant number of journals and grimoires from now deceased wizards (including copies of [[The Axioms, Theories, and Philosophies of Mages of the First Century]], [[Guraxlog's Grimoire]], [[Barrowinch's University Collection]], and [[Waywalket's Workbook]].
 - Ostentatious Loveseats
-	- A pile of papers litters the table by the loveseats, alongside a pencil and a book titled 'The Exploration of Physical Spirit'. The papers are arcane notes and diagrams drawn or written in pencil, by one Anita Rewch. Progress is being made in a sort of detection spell for a person's Faith.
+	- A pile of papers litters the table by the loveseats, alongside a pencil and a book titled 'The Exploration of Physical Spirit'. The papers are arcane notes and diagrams drawn or written in pencil, by one Anita Rewch. Progress is being made in a sort of detection spell for the intensity of a person's Faith.
 - Pale Wood Desk
 	- There are dozens of papers and books strewn about on the desk. The first drawer of the desk is locked, but it contains a series of official notices from the [[The Church of the White Flame|Church of Flame]]'s **Ideology Correction Corps** that span over the course of 6 months. They first begin regarding Dr Malkovich's reassignment into the field of experimental genetics, then his ignorance of this request, a demand for reported progress, and finally, a warning demand that Otto will return to [[Kohnstamm]] immediately, or he will be forcibly relocated.
 

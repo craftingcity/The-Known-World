@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7724cb7e399709ad",
+        "id": "55470ee86f066c98",
         "type": "tabs",
         "children": [
           {
-            "id": "658f3be5037ae438",
+            "id": "a1cc4f89c404c58a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,16 +22,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes May 19 25.md",
+                "file": "Game Notes/Campaign Rosters/ParaeducatorGame.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes May 19 25"
-            }
+              "title": "ParaeducatorGame"
+            },
+            "group": "a522792aa14f5202"
           },
           {
-            "id": "e44ad41873316f01",
+            "id": "1e33b91e3ddab7a1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -45,114 +46,92 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Jun XX 25.md",
+                "file": "Game Notes/Prenotes/'25/Prenotes Mar 21 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Jun XX 25"
-            }
-          },
-          {
-            "id": "1dc36ef222a413ff",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Baron Cassindil"
-            }
-          },
-          {
-            "id": "df6cb9f759d40a62",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Baron Glask"
-            }
-          },
-          {
-            "id": "bff8d0ba7d5eefc8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Riphounds"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "87618dfbceea61de",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e2399a79534814ea",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Mossburg"
+              "title": "Prenotes Mar 21 25"
             }
           }
         ]
+      },
+      {
+        "id": "e48f345ab8a4edc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "621668dddfc31466",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Game Notes/Campaign Rosters/ParaeducatorGame.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of ParaeducatorGame"
+            },
+            "group": "a522792aa14f5202"
+          },
+          {
+            "id": "3c5a682b223cae4d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes May 24 25"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -403,16 +382,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df6cb9f759d40a62",
+  "active": "3c5a682b223cae4d",
   "lastOpenFiles": [
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
+    "Game Notes/Campaign Rosters/ParaeducatorGame.md",
+    "Prenotes May 24 25.md",
+    "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
+    "Game Notes/Prenotes/'25/Prenotes Mar 21 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
-    "Prenotes Jun XX 25.md",
     "Prenotes May 19 25.md",
+    "Prenotes Jun XX 25.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md",
     "Game Notes/Prenotes/'25/Prenotes Apr 14 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
     "Junie's Characters/Tiana Turing.md",
     "Game Notes/NPCs/List of Names.md",
@@ -428,10 +411,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Coalition City.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of The Holyl'nds.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Mountain Hall.md",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/SCRIPTS/motifdisplay.py",
