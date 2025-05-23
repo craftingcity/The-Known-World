@@ -93,7 +93,7 @@ A two-story stone brick house in the Stone Ward of [[Coalition City]], the Docto
 - **Otto's Wonderous Wardrobe**
 	- The wooden wardrobe beside the bed cannot be opened, rather, when the handles are interacted with, it cleans and scents the clothing and skin of the user. A series of six command words known only to Otto can be spoken to exchange the user's current outfit with another outfit stored within the wardrobe. 
 - **Otto's Display Case**
-	- Beside the bed, a glass display case hosts a large black crystal sphere. Otto uses the display case for two purposes; first, the crystal would emit an illusion against the walls of the case such that the contents appear as some other item, even one Otto does not possess, allowing a visual inspection of the given item.
+	- Beside the bed, a glass display case hosts a large black crystal sphere. Otto uses the display case for two purposes; first, the crystal would emit an illusion against the walls of the case such that the contents appear as some other item, especially one Otto does not possess, allowing a visual inspection of the given item. Secondarily, the crystal acts as a visual divination anchor, allowing Otto to monitor the area surrounding the crystal.
 
 ###### Wash & Source Room
 > *Above the Workroom, a simple space holds a ceramic chair full of water, a set of sponges and soaps on the edge of a large basin, and an encased water production system.*
