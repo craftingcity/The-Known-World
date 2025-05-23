@@ -42,24 +42,26 @@ A two-story stone brick house in the Stone Ward of [[Coalition City]], the Docto
 	- A pile of papers litters the table by the loveseats, alongside a pencil and a book titled 'The Exploration of Physical Spirit'. The papers are arcane notes and diagrams drawn or written in pencil, by one Anita Rewch. Progress is being made in a sort of detection spell for the intensity of a person's Faith.
 - Pale Wood Desk
 	- There are dozens of papers and books strewn about on the desk. The first drawer of the desk is locked, but it contains a series of official notices from the [[The Church of the White Flame|Church of Flame]]'s **Ideology Correction Corps** that span over the course of 6 months. They first begin regarding Dr Malkovich's reassignment into the field of experimental genetics, then his ignorance of this request, a demand for reported progress, and finally, a warning demand that Otto will return to [[Kohnstamm]] immediately, or be forcibly relocated.
+	- The other drawers hold stationary and relevant supplies that would be valued in total at over 100sp.
 
 ###### Workroom Lab
 > *Off the right of the Lounge, and below the Wash & Source Room, the Workroom-Lab is a pristine, clean, alchemist's dream. The room is split into four quarters by purpose. The first, the close corner on the right is stuffed full of metal shelves centering around a thick black door. To the left, a system of tubes, burners, and bottles form some kind of alchemical liquid production. Opposing the Liquids Production, a simple wooden door lies locked. In the far right and final corner, another alchemical rube-goldberg machine of funnels and grinders seem to be processing a solid into a powder. Between the Casting Closet and Powder Production, a spiral staircase in the wall leads up into the Wash & Source Room.*
 
 - Liquids Production
-	- The second corner of the room hosts a set of cabinet that forms a workspace on which a complex series of tubes and containers slowly continues dripping away. 
+	- The second corner of the room hosts a set of cabinets that forms a workspace on which a complex series of tubes and containers slowly continues dripping away. Currently, two small flames are boiling a pair of brightly colored liquids that work their way through the system, concluding in tiny, infrequent drops of *Red Water*. The bottle being filled currently holds 3oz of *Red Water*, of a possible 8oz it could hold. 
 - Powder Assembly
-	- 
+	- The third corner of the room hosts a set of cabinets that forms a workspace on which a number of tools used to abrade solids into powders, such as centrifuges and mortar-pestles. This area is thoroughly clean.
 - Casting Closet
 	- The first corner of the room holds many metal shelves and a darksteel 'Casting Closet', a heat-treatment chamber used to cast liquids or solids into a particular shape. The Casting Closet is currently disabled, having recently finished its production cycle in the creation of a half-dozen *Heatcores*.
 - Overly Organized Closet
-	- 
+	- The fourth and final corner of the room hosts a simple-looking wooden door. When opened, the door acts as a Type-2 Gate into a Consistent Extraplanar Instance (CEI). This CEI is a large closet, where hundreds of alchemical samples and supplies are organized, stored, and labeled.
+	- The potential total value of the contents of the CEI amounts to over 100,000sp, though the transportation of the total contents would present difficulties.
 
 ###### Apprentice's Quarters
 > *Above the Kitchen, accessible by a set of small stone stairs, is the Apprentice's Quarters - Anita Rewch currently occupies this room and this role, though she hasn't seen Master Otto in about a month, since his business in the Holyl'nds. These quarters are small, and spartan; there is room for one here, and one alone. A pale wood chest pushes up to foot of the beige bed, and opposing it, leaning against the other wall - only 3' away - a modest pale wood dresser is topped in the only personality the room has, a set of six brightly colored knitted character dolls. The third wall in this room is a massive bookshelf. It is clean, but obviously underused.*
 
 - Anita's Chest
-	- 
+	- A small wooden chest holds the personal items 
 - Anita's Bed
 	- 
 - Anita's Dresser & Dolls

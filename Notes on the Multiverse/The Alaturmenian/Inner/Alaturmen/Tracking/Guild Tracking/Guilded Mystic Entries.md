@@ -50,6 +50,6 @@ The Description of the Entry must include the following information about the ob
 - A *Containment Conference* is a date and location at which the Guild gained control of a given entry.
 - The *Planar Gate Types* are as follows;
 	- Type-1 Planar Gates are temporary or instantaneous instances of travel between points within a plane.
-	- Type-2 Planar Gates are consistently replicable instances of travel from a point within a plane to a Consistent Extraplanar Instance. Consistent Extraplanar Instances have no effect or symmetry with the Major Planes.
+	- Type-2 Planar Gates are consistently replicable instances of travel from a point within a plane to a Consistent Extraplanar Instance. (*Consistent Extraplanar Instances have no effect or symmetry with the Major Planes.*)
 	- Type-3 Planar Gates are temporary or instantaneous instances of travel from a point within a plane to another point on another Major Plane.
 	- Type-4 Planar Gates are consistently replicable instances of travel from a point with a plane to another consistent point on another Major Plane.
