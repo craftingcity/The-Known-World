@@ -4,83 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "55470ee86f066c98",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a1cc4f89c404c58a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Campaign Rosters/ParaeducatorGame.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ParaeducatorGame"
-            },
-            "group": "a522792aa14f5202"
-          },
-          {
-            "id": "1e33b91e3ddab7a1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes Mar 21 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Mar 21 25"
-            }
-          },
-          {
-            "id": "4c09fa0b134d6e02",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Guilded Mystic Entries"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "e48f345ab8a4edc7",
         "type": "tabs",
         "children": [
@@ -99,7 +22,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Game Notes/Campaign Rosters/ParaeducatorGame.md",
+                "file": "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,9 +50,8 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ParaeducatorGame"
-            },
-            "group": "a522792aa14f5202"
+              "title": "Graph of Prenotes May 24 25"
+            }
           },
           {
             "id": "3c5a682b223cae4d",
@@ -259,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -408,11 +331,11 @@
   },
   "active": "3c5a682b223cae4d",
   "lastOpenFiles": [
+    "Game Notes/Campaign Rosters/ParaeducatorGame.md",
+    "Game Notes/Prenotes/'25/Prenotes Mar 21 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
-    "Game Notes/Campaign Rosters/ParaeducatorGame.md",
     "Prenotes May 24 25.md",
-    "Game Notes/Prenotes/'25/Prenotes Mar 21 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md",
     "Prenotes May 19 25.md",

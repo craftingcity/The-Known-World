@@ -61,11 +61,14 @@ A two-story stone brick house in the Stone Ward of [[Coalition City]], the Docto
 > *Above the Kitchen, accessible by a set of small stone stairs, is the Apprentice's Quarters - Anita Rewch currently occupies this room and this role, though she hasn't seen Master Otto in about a month, since his business in the Holyl'nds. These quarters are small, and spartan; there is room for one here, and one alone. A pale wood chest pushes up to foot of the beige bed, and opposing it, leaning against the other wall - only 3' away - a modest pale wood dresser is topped in the only personality the room has, a set of six brightly colored knitted character dolls. The third wall in this room is a massive bookshelf. It is clean, but obviously underused.*
 
 - Anita's Chest
-	- A small wooden chest holds the personal items 
+	- A small wooden chest holds the personal items Anita has stored away, including a pair of old diaries describing her personal and professional life, two sets of comfortable lounge clothing, and a mid-sized knit plushie of a goat. The Chest cannot be opened at the same time as the Dresser.
 - Anita's Bed
-	- 
+	- A single bed is perfectly made, where the sheets and blankets are tightly tucked against the mattress.
 - Anita's Dresser & Dolls
-	- 
+	- The shoulder-high dresser holds four identical white-linen coats for use during labs, a set of heartier working clothes, and a collection of simple underwear. Additionally, stored in the boots of her work-outfit, Anita keeps a small jar of cannabis and a ceramic pipe for her personal use.
+	- On the top of the dresser, the following set of six knitted character plushies are carefully positioned such that none would fall;
+		- A white rabbit-like creature with a black head and ears. It is wearing a black collar with pink spots.
+		- A chubby yellow dog with a cute smile. It is wearing a brown 
 - Anita's Bookshelf
 	- 
 
