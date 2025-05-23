@@ -41,17 +41,17 @@ A two-story stone brick house in the Stone Ward of [[Coalition City]], the Docto
 - Ostentatious Loveseats
 	- A pile of papers litters the table by the loveseats, alongside a pencil and a book titled 'The Exploration of Physical Spirit'. The papers are arcane notes and diagrams drawn or written in pencil, by one Anita Rewch. Progress is being made in a sort of detection spell for the intensity of a person's Faith.
 - Pale Wood Desk
-	- There are dozens of papers and books strewn about on the desk. The first drawer of the desk is locked, but it contains a series of official notices from the [[The Church of the White Flame|Church of Flame]]'s **Ideology Correction Corps** that span over the course of 6 months. They first begin regarding Dr Malkovich's reassignment into the field of experimental genetics, then his ignorance of this request, a demand for reported progress, and finally, a warning demand that Otto will return to [[Kohnstamm]] immediately, or he will be forcibly relocated.
+	- There are dozens of papers and books strewn about on the desk. The first drawer of the desk is locked, but it contains a series of official notices from the [[The Church of the White Flame|Church of Flame]]'s **Ideology Correction Corps** that span over the course of 6 months. They first begin regarding Dr Malkovich's reassignment into the field of experimental genetics, then his ignorance of this request, a demand for reported progress, and finally, a warning demand that Otto will return to [[Kohnstamm]] immediately, or be forcibly relocated.
 
 ###### Workroom Lab
 > *Off the right of the Lounge, and below the Wash & Source Room, the Workroom-Lab is a pristine, clean, alchemist's dream. The room is split into four quarters by purpose. The first, the close corner on the right is stuffed full of metal shelves centering around a thick black door. To the left, a system of tubes, burners, and bottles form some kind of alchemical liquid production. Opposing the Liquids Production, a simple wooden door lies locked. In the far right and final corner, another alchemical rube-goldberg machine of funnels and grinders seem to be processing a solid into a powder. Between the Casting Closet and Powder Production, a spiral staircase in the wall leads up into the Wash & Source Room.*
 
 - Liquids Production
-	- 
+	- The second corner of the room hosts a set of cabinet that forms a workspace on which a complex series of tubes and containers slowly continues dripping away. 
 - Powder Assembly
 	- 
 - Casting Closet
-	- 
+	- The first corner of the room holds many metal shelves and a darksteel 'Casting Closet', a heat-treatment chamber used to cast liquids or solids into a particular shape. The Casting Closet is currently disabled, having recently finished its production cycle in the creation of a half-dozen *Heatcores*.
 - Overly Organized Closet
 	- 
 
