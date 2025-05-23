@@ -80,9 +80,13 @@ A two-story stone brick house in the Stone Ward of [[Coalition City]], the Docto
 > *The central room of the house, securely invisible to the outside, is the Master Bedroom - the domain of Otto Malkovich, while he was a free man. In the center of the room, away from the walls, a large comfortable bed is flanked by a series of glass cases and a large wardrobe. Pushed against the far wall is a very large table adorned in ornate cloth, candles, and inscription.*
 
 - **Otto's Safe**
-	- Hidden below the large Bed, an Arcane Safe ho
+	- Hidden below the large Bed, an Arcane Safe holds significant valuables, though opening the container would present significant challenge to anyone other than Otto. The contents of the safe include;
+		- 1000 Prosperian Crown (1M sp)
+		- 6 diamonds worth 2500sp each
+		- Amethyst Spellgem holding 3/3 charges of a *Modify Memory* spell
+		- Otto's Spellknife (reserve 4 spell levels)
 - **Otto's Bed**
-	- 
+	- A large, ostentatious, grand bed. It is unkempt, 
 - **Otto's Working Table**
 	- 
 - **Otto's Wonderous Wardrobe**
