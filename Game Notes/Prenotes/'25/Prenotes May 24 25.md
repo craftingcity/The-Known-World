@@ -85,12 +85,13 @@ A two-story stone brick house in the Stone Ward of [[Coalition City]], the Docto
 		- 6 diamonds worth 2500sp each
 		- Amethyst Spellgem holding 3/3 charges of a *Modify Memory* spell
 		- Otto's Spellknife (reserve 4 spell levels)
+		- GMB identification papers
 - **Otto's Bed**
-	- A large, ostentatious, grand bed. It is unkempt, 
+	- A large, ostentatious, grand bed. It is unkempt, pillows and blankets have fallen onto the floor around the bed. 
 - **Otto's Working Table**
-	- 
+	- Adorned in an ornate blue, red, and purple cloth, this table is clearly used in some arcane manner. The placement of the candles over a given inscription influences the worktable's uses. Most commonly, as it is currently, the table is tuned to investigative *identification*. Below the table, a small box contains a collection of gemstone powders (of which there are four jars, totaling 400sp worth of powders).
 - **Otto's Wonderous Wardrobe**
-	- 
+	- The wooden wardrobe beside the bed holds nothing, rather, when opened, it cleans and scents the clothing and skin of the opener. A series of command words 
 - **Otto's Display Case**
 	- 
 
