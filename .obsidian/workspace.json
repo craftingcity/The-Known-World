@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bag of holding",
+                "query": "tag:#text  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -304,10 +305,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17bba7903284a409",
+  "active": "a5853ef803b1508c",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "ORGANIZATION/TEMPLATES/Text.md",
     "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "MEDIA/ShawtyOnTheBlock.7z",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Bard.md",
     "Game Notes/Prenotes/'25/Prenotes Mar 21 25.md",
@@ -332,7 +334,6 @@
     "conflict-files-obsidian-git.md",
     "Prenotes May 13 25.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
