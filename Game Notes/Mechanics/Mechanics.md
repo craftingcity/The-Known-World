@@ -14,6 +14,7 @@ aliases:
 		- [[Combat Mechanics (dep.)]]
 		- [[Skills of Alaturmen]]
 	- **Classes**
+		- [[Custom Class - Bard]]
 		- [[Custom Class - Blood Hunter]]
 		- [[Custom Class - Psion]]
 	- **Ingame**

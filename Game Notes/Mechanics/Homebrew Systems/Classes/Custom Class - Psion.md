@@ -1,3 +1,8 @@
+---
+tags: mechanics
+aliases:
+---
+
 # Class Features
 ## Hit Dice - d6 / level
 ## Proficiencies

@@ -1,4 +1,9 @@
-## Soulbound Subclass
+---
+tags: mechanics
+aliases:
+---
+# Subclasses
+## Soulbound
 The Soulbound subclass is a deal with the Fates of Alaturmen; you have committed to reaching 11th level in the Blood Hunter class at the possible expense of your character's soul.
 
 ##### Soul Contract
@@ -31,7 +36,7 @@ You take this feature at 14th level.
 ##### Fate's Protection
 You take this feature at 18th level.
 
-## Blood Curses
+# Blood Curses
 ##### Curse of the Warrior
 As a bonus action, choose a creature you have already made an Attack against this turn. Then, make an Attack roll against that creature. You may use this *blood curse* a number of times equal to the maximum value of your *hemocraft die*. Invoking this *blood curse* does not expend a use of your **Blood Maledict**. You regain the uses of this *blood curse* after a long rest.
 
