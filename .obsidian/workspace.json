@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a6afd016754a157b",
+        "id": "fe8bea5801531d25",
         "type": "tabs",
         "children": [
           {
-            "id": "3448feb955d1a704",
+            "id": "79113a9ccc2c918b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,14 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Junie's Characters",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Junie's Characters/Junie's Characters.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Junie's Characters\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":6},\"to\":{\"line\":7,\"ch\":6}}}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Junie's Characters/Tiana Turing.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tiana Turing"
             }
           }
         ]
@@ -278,8 +288,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3448feb955d1a704",
+  "active": "79113a9ccc2c918b",
   "lastOpenFiles": [
+    "Junie's Characters/Dante Fukili.md",
+    "Junie's Characters/Tiana Turing.md",
+    "Junie's Characters/Junie's Characters.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/NPCs/List of Names.md",
@@ -301,12 +314,9 @@
     "Game Notes/Prenotes/'25/Prenotes Apr 14 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
-    "Junie's Characters/Tiana Turing.md",
-    "Junie's Characters/Dante Fukili.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Actstow Hills.md",
     "Prenotes May 14 25.md",
     "Game Notes/Prenotes/'25/Prenotes Apr 29 25.md",
-    "Prenotes May 13 25.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",

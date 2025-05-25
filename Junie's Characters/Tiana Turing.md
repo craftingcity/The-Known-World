@@ -3,29 +3,38 @@ tags:
 aliases:
 ---
 # Tiana Turing
-## Daughter of Dimble
-## Amateur Wizard, Adventurer
+## Gnome Wizard, Auxiliarist (Wizard 1)
 ### she/they
 
 > Boxtext for an action, outfit, and a physical trait.
 
-A description of their function in the world.
+Tiana is a young gnome with practical experience in the field - under direct supervision, in a stable environment. 
 
 ## Roleplaying
-### Quote
+###### "Present your evidence for this conclusion..."
+Tiana is...
+	- CURIOUS; ever questioning
+	- HONEST; 
 
 ### Mannerism & Disposition
 
 ### Background
-#### Early Life
+#### Early Life (c. ???AF - ???AF)
+In her early life, Tiana was raised by her platonic pair of fathers - [[Dimble Turing]] and [[Scree'up]] - who taught her to be curious, honest, and kind. She was consistently brought along 
 
 ## Important Knowledge
 
-
 ## Stats
-. | . 
---- | --- | --- | ---
-STR | DEX | CON | HP
-x | x | x | x
-INT | WIS | CHA | AC
-x | x | x | x
+
+| Stat | #   | Stat  | #        |
+| ---- | --- | ----- | -------- |
+| STR  | x   | PRF   | +2       |
+| CON  | x   | M. HP | x Max HP |
+| DEX  | x   | AC    | (x)      |
+| INT  | x   | C. HP | x HP     |
+| WIS  | x   | HD    | x        |
+| CHA  | x   | SPD   | x        |
+
+#### Proficiencies
+#### Features
+#### Equipment
