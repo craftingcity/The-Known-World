@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
+    },
+    {
       "basename": "Prenotes May 24 25",
       "path": "Game Notes/Prenotes/'25/Prenotes May 24 25.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Homebrew Alchemy System",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md"
-    },
-    {
-      "basename": "Alchemy Processes & Products",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md"
     }
   ],
   "omittedPaths": [],
