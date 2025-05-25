@@ -54,6 +54,20 @@
             }
           },
           {
+            "id": "c5fb000999d6063f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "cf7adf7d7055667f",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -100,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -352,8 +366,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7fe98bd87a85af6",
+  "active": "c5fb000999d6063f",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
+    "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
     "Game Notes/NPCs/List of Names.md",
     "ORGANIZATION/TEMPLATES/Text.md",
@@ -378,9 +394,7 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Actstow Hills.md",
     "Prenotes May 14 25.md",
     "Game Notes/Prenotes/'25/Prenotes Apr 29 25.md",
-    "conflict-files-obsidian-git.md",
     "Prenotes May 13 25.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Alergra Barrowinch.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
