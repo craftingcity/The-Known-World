@@ -41,7 +41,7 @@ A two-story stone brick house in the Stone Ward of [[Coalition City]], the Docto
 - **Ostentatious Loveseats**
 	- A pile of papers litters the table by the loveseats, alongside a pencil and a book titled 'The Exploration of Physical Spirit'. The papers are arcane notes and diagrams drawn or written in pencil, by one Anita Rewch. Progress is being made in a sort of detection spell for the intensity of a person's Faith.
 - **Pale Wood Desk**
-	- There are dozens of papers and books strewn about on the desk. The first drawer of the desk is locked, but it contains a series of official notices from the [[The Church of the White Flame|Church of Flame]]'s **Ideology Correction Corps** that span over the course of 6 months. They first begin regarding Dr Malkovich's reassignment into the field of experimental genetics, then his ignorance of this request, a demand for reported progress, and finally, a warning demand that Otto will return to [[Kohnstamm]] immediately, or be forcibly relocated.
+	- There are dozens of papers and books strewn about on the desk. The first drawer of the desk is locked, but it contains a series of official notices from the [[The Church of the White Flame|Church of Flame]]'s **Ideology Correction Corps** that span over the course of 6 months. They first begin regarding Dr Malkovich's reassignment into the field of experimental genetics, then his ignorance of this request, a demand for reported progress, and finally, a warning demand that Otto will return to [[Kohnstamm]] immediately, or be forcibly relocated. (From the desk of [[Colin Talaveem]], of Personal Management)
 	- The other drawers hold stationary and relevant supplies that would be valued in total at over 100sp.
 
 ###### Workroom Lab
