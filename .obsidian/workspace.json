@@ -4,57 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e48f345ab8a4edc7",
+        "id": "6b71ba789f14d84b",
         "type": "tabs",
         "children": [
           {
-            "id": "621668dddfc31466",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Prenotes May 24 25"
-            }
-          },
-          {
-            "id": "3c5a682b223cae4d",
+            "id": "a5853ef803b1508c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -75,9 +29,31 @@
               "icon": "lucide-file",
               "title": "Prenotes May 24 25"
             }
+          },
+          {
+            "id": "25c6a37516811265",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Gear..."
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -329,12 +305,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c5a682b223cae4d",
+  "active": "a5853ef803b1508c",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
     "MEDIA/ShawtyOnTheBlock.7z",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Bard.md",
     "Game Notes/Prenotes/'25/Prenotes Mar 21 25.md",
-    "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
     "Game Notes/Campaign Rosters/ParaeducatorGame.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Prenotes May 24 25.md",
@@ -370,7 +347,6 @@
     "MEDIA/SUPP/SCRIPTS",
     "MEDIA/SUPP/SPREADS/moodboards.pdf",
     "MEDIA/SUPP/SPREADS/moodboards.odp",
-    "MEDIA/SUPP/SPREADS/metalics.ods",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "MEDIA/CHAR/danteFinal.jpg"
   ]
