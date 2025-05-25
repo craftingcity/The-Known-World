@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bag of holding",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -305,7 +304,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5853ef803b1508c",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
