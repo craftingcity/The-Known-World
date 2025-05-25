@@ -5,6 +5,10 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Prenotes May 24 25",
       "path": "Game Notes/Prenotes/'25/Prenotes May 24 25.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Redl'nds",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Redl'nds.md"
-    },
-    {
-      "basename": "Homebrew Alchemy System",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md"
     }
   ],
   "omittedPaths": [],

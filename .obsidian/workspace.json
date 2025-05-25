@@ -54,20 +54,6 @@
             }
           },
           {
-            "id": "c5fb000999d6063f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "cf7adf7d7055667f",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -114,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -366,10 +352,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5fb000999d6063f",
+  "active": "c7fe98bd87a85af6",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "conflict-files-obsidian-git.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
     "Game Notes/NPCs/List of Names.md",
     "ORGANIZATION/TEMPLATES/Text.md",
