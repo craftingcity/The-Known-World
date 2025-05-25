@@ -20,7 +20,9 @@ Tiana is...
 
 ### Background
 #### Early Life (c. ???AF - ???AF)
-In her early life, Tiana was raised by her platonic pair of fathers - [[Dimble Turing]] and [[Scree'up]] - who taught her to be curious, honest, and kind. She was consistently brought along 
+In her early life, Tiana was raised by her platonic pair of fathers - [[Dimble Turing]] and [[Scree'up]] - who taught her to be curious, honest, and kind. She was consistently brought along during her fathers' research expeditions, where she became as proficient in adventuring skills as a preteen can, and under the tutoring of her fathers, she would come to learn the art of spellcasting.
+
+Being overly curious, and mildly sheltered, she came to seek unsupervised adventure - leading her to her be in her current prediciment.
 
 ## Important Knowledge
 
