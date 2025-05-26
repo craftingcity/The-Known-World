@@ -39,7 +39,7 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 | DEX  | x     | AC    | (x)      |
 | INT  | x+2 ^ | C. HP | x HP     |
 | WIS  | x ^   | HD    | 1d6      |
-| CHA  | x     | SPD   | 30' (6s) |
+| CHA  | x     | SPD   | 25' (5s) |
 
 #### Proficiencies
 ##### Skills
@@ -58,7 +58,7 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 ##### Custom Lineage; Alaturmenian Gnomish
 - *Darkvision*: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light.
 #### Equipment
-(0.0sp)
+(0.0gp)
 
 *Hands*: 
 	Leather Fingerless Gloves
@@ -69,8 +69,16 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 *Torso*:
 	Canvas Cloak
 	Canvas Backpack
-		- explorer pack
+		- Fur & Leahter Bedroll
+		- Mess Kit & Tinderbox
+		- 10x Torches
+		- 10x Rations
+		- 1L Leather Waterskin
 *Groin*:
-	Equipment Be
+	Equipment Belt
+		- Spellbook Holster (Tiana's Grimoire)
+		- Sheath (Dagger)
 *Legs*:
+	Canvas Cloak
 *Feet*:
+	Leather Boots
