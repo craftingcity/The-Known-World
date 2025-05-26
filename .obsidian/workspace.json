@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1632e270aa434c16",
+        "id": "4afe1ee1266388cd",
         "type": "tabs",
         "children": [
           {
-            "id": "79113a9ccc2c918b",
+            "id": "0f0acee0ad3beb47",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,24 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Junie's Characters",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Junie's Characters/Junie's Characters.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Junie's Characters\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":6},\"to\":{\"line\":7,\"ch\":6}}}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tiana Turing"
+              "title": "New tab"
             }
           }
         ]
@@ -140,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -288,7 +277,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79113a9ccc2c918b",
+  "active": "0f0acee0ad3beb47",
   "lastOpenFiles": [
     "Junie's Characters/Tiana Turing.md",
     "Junie's Characters/Dante Fukili.md",
