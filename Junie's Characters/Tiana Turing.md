@@ -41,6 +41,8 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 | WIS  | x ^   | HD    | 1d6      |
 | CHA  | x     | SPD   | 25' (5s) |
 
+(9, 14, 4, 15, 7, 11)
+
 | Attack | To Hit | Damage |
 | ------ | ------ | ------ |
 | Dagger |        | 1d4+       |
