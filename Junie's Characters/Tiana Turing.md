@@ -32,18 +32,45 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 
 ## Stats
 
-| Stat | #   | Stat  | #        |
-| ---- | --- | ----- | -------- |
-| STR  | x   | PRF   | +2       |
-| CON  | x   | M. HP | x Max HP |
-| DEX  | x   | AC    | (x)      |
-| INT  | x+2 | C. HP | x HP     |
-| WIS  | x   | HD    | x        |
-| CHA  | x   | SPD   | 25' (5s) |
+| Stat | #     | Stat  | #        |
+| ---- | ----- | ----- | -------- |
+| STR  | x     | PRF   | +2       |
+| CON  | x     | M. HP | x Max HP |
+| DEX  | x     | AC    | (x)      |
+| INT  | x+2 ^ | C. HP | x HP     |
+| WIS  | x ^   | HD    | 1d6      |
+| CHA  | x     | SPD   | 30' (6s) |
 
 #### Proficiencies
+##### Skills
+- Arcana
+- History
+- Investigation
+- Religion
+##### Languages
+- **Common**
+- **Gnomish**
+- **Draconic**
+- **Elven**
+##### Others
+- **Weapons**; Dagger, Dart, Sling, Quarterstaff, Light Crossbow
 #### Features
-##### Gnomish Heritage
+##### Custom Lineage; Alaturmenian Gnomish
 - *Darkvision*: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light.
-- *Gnome Cunning*: You have advantage on all Intelligence, Wisdom, and Charisma saves against magic.
 #### Equipment
+(0.0sp)
+
+*Hands*: 
+	Leather Fingerless Gloves
+*Arms*: 
+	Canvas Cloak
+*Head*:
+	Canvas Cloak
+*Torso*:
+	Canvas Cloak
+	Canvas Backpack
+		- explorer pack
+*Groin*:
+	Equipment Be
+*Legs*:
+*Feet*:

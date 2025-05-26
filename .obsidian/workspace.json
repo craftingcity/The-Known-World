@@ -4,39 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "fe8bea5801531d25",
-        "type": "tabs",
+        "id": "b0735167a45ebb6b",
+        "type": "split",
         "children": [
           {
-            "id": "79113a9ccc2c918b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "fe8bea5801531d25",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "79113a9ccc2c918b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Junie's Characters",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Junie's Characters/Junie's Characters.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Junie's Characters\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":6},\"to\":{\"line\":7,\"ch\":6}}}"
+                    }
+                  ]
                 },
-                {
-                  "title": "Junie's Characters",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Tiana Turing.md",
+                    "mode": "source",
+                    "source": true
+                  },
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Junie's Characters/Junie's Characters.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Junie's Characters\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":6},\"to\":{\"line\":7,\"ch\":6}}}"
+                  "title": "Tiana Turing"
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tiana Turing"
-            }
+              }
+            ]
+          },
+          {
+            "id": "2246734cbe2830a4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "49542d11612ab16b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Dante Fukili.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Dante Fukili"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
