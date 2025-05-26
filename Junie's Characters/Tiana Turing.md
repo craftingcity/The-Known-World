@@ -41,6 +41,10 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 | WIS  | x ^   | HD    | 1d6      |
 | CHA  | x     | SPD   | 25' (5s) |
 
+| Attack | To Hit | Damage |
+| ------ | ------ | ------ |
+| Dagger |        | 1d4+       |
+
 #### Proficiencies
 ##### Skills
 - Arcana
@@ -57,6 +61,11 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 #### Features
 ##### Custom Lineage; Alaturmenian Gnomish
 - *Darkvision*: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light.
+##### Spellcasting (DC 10+INT)
+- You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
+- Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook.
+##### Arcane Recovery
+- Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
 #### Equipment
 (0.0gp)
 
