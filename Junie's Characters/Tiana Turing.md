@@ -41,11 +41,13 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 | WIS  | 14 (+2) ^ | HD    | 1d6      |
 | CHA  | 11 (+0)   | SPD   | 25' (5s) |
 
-| Attack/Spell | Range       | To Hit | Damage                                    |
-| ------------ | ----------- | ------ | ----------------------------------------- |
-| Dagger       | 5' or 30/60 | +5     | 1d4+3 slash                               |
-| Frostbite    | 60'         | DC 15  | 1d6 cold + DIS on next Weapon Attack BEOT |
-|              |             |        |                                           |
+| Attack/Spell  | Range                | To Hit     | Damage                                      |
+| ------------- | -------------------- | ---------- | ------------------------------------------- |
+| Dagger        | 5' or 30/60          | +5         | 1d4+3 slash                                 |
+| Frostbite (I)     | target 60'           | CON 15     | 1d6 cold + DIS on next Weapon Attack BEOT   |
+| Chromatic Orb (I) | target 90'           | +5         | 3d8 acid/cold/fire/lightning/poison/thunder |
+| Ice Knife     | target 60' radius 5' | +5, DEX 15 | 1d10 pierce, 2d6 cold                       |
+| Sleep         | point 90' radius 20' | low>high   | 5d8 sleep                                   |
 
 #### Proficiencies
 ##### Skills
@@ -60,12 +62,14 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 - **Elven**
 ##### Others
 - **Weapons**; Dagger, Dart, Sling, Quarterstaff, Light Crossbow
+
 #### Features
 ##### Custom Lineage; Alaturmenian Gnomish
 - *Darkvision*: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light.
 - *Feat: Ritual Caster*: You have learned two spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
 	- [Identify](https://dnd5e.wikidot.com/spell:identify)
 	- [Find Familiar](https://dnd5e.wikidot.com/spell:find-familiar)
+
 ##### Spellcasting (Prep 6)
 - You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
 - Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook.
@@ -74,26 +78,28 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 		- [Mage Hand](https://dnd5e.wikidot.com/spell:mage-hand)
 		- [Prestidigitation](https://dnd5e.wikidot.com/spell:prestidigitation)
 	- **1st Level Spells**;
-		- [Alarm](https://dnd5e.wikidot.com/spell:alarm)
-		- [Chromatic Orb]
-		- [Detect Magic](https://dnd5e.wikidot.com/spell:detect-magic)
-		- [Ice Knife](https://dnd5e.wikidot.com/spell:ice-knife)
-		- [Shield](https://dnd5e.wikidot.com/spell:shield)
-		- [Sleep](https://dnd5e.wikidot.com/spell:sleep)
-
+		x [Alarm](https://dnd5e.wikidot.com/spell:alarm)
+		x [Chromatic Orb](https://dnd5e.wikidot.com/spell:chromatic-orb)
+		x [Detect Magic](https://dnd5e.wikidot.com/spell:detect-magic)
+		x [Ice Knife](https://dnd5e.wikidot.com/spell:ice-knife)
+		x [Shield](https://dnd5e.wikidot.com/spell:shield)
+		x [Sleep](https://dnd5e.wikidot.com/spell:sleep)
 
 ##### Arcane Recovery
 - Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
+
 #### Equipment
-(0.0gp)
+(0.00gp)
 
 *Hands*: 
 	Leather Fingerless Gloves
 *Arms*: 
+	Cloth Shirt
 	Canvas Cloak
 *Head*:
 	Canvas Cloak
 *Torso*:
+	Cloth Shirt
 	Canvas Cloak
 	Canvas Backpack
 		- Fur & Leahter Bedroll
@@ -107,5 +113,6 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 		- Sheath (Dagger)
 *Legs*:
 	Canvas Cloak
+	Leather Pants
 *Feet*:
 	Leather Boots
