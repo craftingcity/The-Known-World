@@ -4,75 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "b0735167a45ebb6b",
-        "type": "split",
+        "id": "da8e82d7aa1ea1e8",
+        "type": "tabs",
         "children": [
           {
-            "id": "fe8bea5801531d25",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "79113a9ccc2c918b",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Junie's Characters",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Junie's Characters/Junie's Characters.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Junie's Characters\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":6},\"to\":{\"line\":7,\"ch\":6}}}"
-                    }
-                  ]
+            "id": "79113a9ccc2c918b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Junie's Characters/Tiana Turing.md",
-                    "mode": "source",
-                    "source": true
-                  },
+                {
+                  "title": "Junie's Characters",
                   "icon": "lucide-file",
-                  "title": "Tiana Turing"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Junie's Characters/Junie's Characters.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Junie's Characters\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":6},\"to\":{\"line\":7,\"ch\":6}}}"
                 }
-              }
-            ]
-          },
-          {
-            "id": "2246734cbe2830a4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "49542d11612ab16b",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Junie's Characters/Dante Fukili.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Dante Fukili"
-                }
-              }
-            ]
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Junie's Characters/Tiana Turing.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tiana Turing"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -326,8 +290,8 @@
   },
   "active": "79113a9ccc2c918b",
   "lastOpenFiles": [
-    "Junie's Characters/Dante Fukili.md",
     "Junie's Characters/Tiana Turing.md",
+    "Junie's Characters/Dante Fukili.md",
     "Junie's Characters/Junie's Characters.md",
     "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
