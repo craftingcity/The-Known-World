@@ -63,13 +63,23 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 #### Features
 ##### Custom Lineage; Alaturmenian Gnomish
 - *Darkvision*: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light.
+- *Feat: Ritual Caster*: You have learned two spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
+	- [Identify](https://dnd5e.wikidot.com/spell:identify)
+	- [Find Familiar](https://dnd5e.wikidot.com/spell:find-familiar)
 ##### Spellcasting (Prep 6)
 - You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
 - Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook.
 	- **Cantrips**;
 		- [Frostbite](https://dnd5e.wikidot.com/spell:frostbite)
+		- [Mage Hand](https://dnd5e.wikidot.com/spell:mage-hand)
+		- [Prestidigitation](https://dnd5e.wikidot.com/spell:prestidigitation)
 	- **1st Level Spells**;
-		- 
+		- [Alarm](https://dnd5e.wikidot.com/spell:alarm)
+		- [Chromatic Orb]
+		- [Detect Magic](https://dnd5e.wikidot.com/spell:detect-magic)
+		- [Ice Knife](https://dnd5e.wikidot.com/spell:ice-knife)
+		- [Shield](https://dnd5e.wikidot.com/spell:shield)
+		- [Sleep](https://dnd5e.wikidot.com/spell:sleep)
 
 
 ##### Arcane Recovery
