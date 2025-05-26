@@ -41,13 +41,13 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 | WIS  | 14 (+2) ^ | HD    | 1d6      |
 | CHA  | 11 (+0)   | SPD   | 25' (5s) |
 
-| Attack/Spell  | Range                | To Hit     | Damage                                      |
-| ------------- | -------------------- | ---------- | ------------------------------------------- |
-| Dagger        | 5' or 30/60          | +5         | 1d4+3 slash                                 |
-| Frostbite (I)     | target 60'           | CON 15     | 1d6 cold + DIS on next Weapon Attack BEOT   |
+| Attack/Spell      | Range                | To Hit     | Damage                                      |
+| ----------------- | -------------------- | ---------- | ------------------------------------------- |
+| Dagger            | 5' or 30/60          | +5         | 1d4+3 slash                                 |
+| Frostbite     (0) | target 60'           | CON 15     | 1d6 cold + DIS on next Weapon Attack BEOT   |
 | Chromatic Orb (I) | target 90'           | +5         | 3d8 acid/cold/fire/lightning/poison/thunder |
-| Ice Knife     | target 60' radius 5' | +5, DEX 15 | 1d10 pierce, 2d6 cold                       |
-| Sleep         | point 90' radius 20' | low>high   | 5d8 sleep                                   |
+| Ice Knife     (I) | target 60' radius 5' | +5, DEX 15 | 1d10 pierce, 2d6 cold                       |
+| Sleep         (I) | point 90' radius 20' | low>high   | 5d8 sleep                                   |
 
 #### Proficiencies
 ##### Skills
