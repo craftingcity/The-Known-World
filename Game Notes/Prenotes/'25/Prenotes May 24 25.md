@@ -107,5 +107,4 @@ A two-story stone brick house in the Stone Ward of [[Coalition City]], the Docto
 
 ### What happened?
 
-
-We leave our heroes on the morning of 7/19 106 AF, as they have looted the entirety of Dr. Otto's Condo
+We leave our heroes on the morning of 7/19 106 AF, as they have looted the entirety of Dr. Otto's Condo, including the allegiance of [[Anita Rewch]] - an Alchemical Researcher who was studying under the Doctor - before setting the place ablaze, and running home to the Wheel Ward's Silver Unicorn. Now millionaires, the party has significant means to seek their goals in the North.
