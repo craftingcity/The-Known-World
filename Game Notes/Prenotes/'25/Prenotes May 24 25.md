@@ -108,4 +108,4 @@ A two-story stone brick house in the Stone Ward of [[Coalition City]], the Docto
 ### What happened?
 
 
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the morning of 7/19 106 AF, as they have looted the entirety of Dr. Otto's Condo

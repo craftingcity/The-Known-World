@@ -722,6 +722,11 @@ aliases:
 
 ### Rule of the Coalition c.080AF
 #### Exports of Coalition
+###### Bag of Holding
+	- Grade 1 (Immaterial)
+	- Grade 2 (Mutable)
+	- Grade 3 (Immutable)
+	- Grade 4 (Immutable, Finite)
 #### Relics of Kakurak's Chosen
 #### Relics of The Hatdroppers
 ###### Prismatic Crossbow
