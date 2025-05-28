@@ -8,7 +8,7 @@ aliases:
 
 > Standing at 3'9", Tiana wears a practical brown canvas cloak and a comparably large backpack.
 
-Tiana is a young gnome with practical experience in the field - under direct supervision, in a stable environment. 
+Tiana is a young gnome with practical experience in the field - under direct supervision, in a stable environment. She's brought along her familiar - a brown shepard dog.
 
 ## Roleplaying
 ###### "Present your evidence for this conclusion..."
@@ -49,6 +49,13 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 | Ice Knife     (I) | target 60' radius 5' | +5, DEX 15 | 1d10 pierce, 2d6 cold                       |
 | Sleep         (I) | point 90' radius 20' | low>high   | 5d8 sleep                                   |
 
+| I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
+| --- | --- | --- | --- | --- | --- | --- | ---- | --- |
+| o   | .   | .   | .   | .   | .   | .   | .    | .   |
+| o   | .   | .   | .   | .   | .   | .   |      |     |
+| .   | .   | .   | .   | .   |     |     |      |     |
+| .   |     |     |     |     |     |     |      |     |
+
 #### Proficiencies
 ##### Skills
 - Arcana
@@ -62,6 +69,8 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 - **Elven**
 ##### Others
 - **Weapons**; Dagger, Dart, Sling, Quarterstaff, Light Crossbow
+- **Armor**; None
+- **Tools**; None
 
 #### Features
 ##### Custom Lineage; Alaturmenian Gnomish
