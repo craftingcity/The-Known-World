@@ -36,9 +36,14 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 - Isabella, the Snotty Rogue
 ###### The Ship
 - Bill, the Cook
-- Shoar, the Quartermaster
+- Dashara, the Quartermaster
+- Kade, Yeoman
+- Raken, Master at Arms
 - Farina Fairwind, the Captain
 - Vimak (V), the First Mate
+- Sester Baliax (Boats), the Boswens Mate
+- Brinn, Carpenter
+- Roe, a Crewman
 
 
 ## Stats
