@@ -31,11 +31,15 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 ## Important Knowledge
 #### Session 1; Abroad
 ###### The Party
-- Pick
-- Kaldrin
-- 
+- Pick, the Nervous Fighter
+- Kaldrin, the Sloppy Cleric
+- Isabella, the Snotty Rogue
 ###### The Ship
 - Bill, the Cook
+- Shoar, the Quartermaster
+- Farina Fairwind, the Captain
+- Vimak (V), the First Mate
+
 
 ## Stats
 
