@@ -29,7 +29,8 @@ In her early life, Tiana was raised by her platonic pair of fathers - [[Dimble T
 Being overly curious, and mildly sheltered, she came to seek unsupervised adventure - leading her to her be in her current predicament.
 
 ## Important Knowledge
-#### Session 1; Abroad
+#### Session 1; Welcome to Castaway Cove
+
 ###### The Party
 - Pick, the Nervous Fighter
 - Kaldrin, the Sloppy Cleric
@@ -48,14 +49,14 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 
 ## Stats
 
-| Stat | #         | Stat  | #        |
-| ---- | --------- | ----- | -------- |
-| STR  | 8  (-1)   | PRF   | +2       |
-| CON  | 13 (+1)   | M. HP | 7 Max HP |
-| DEX  | 16 (+3)   | AC    | (13)     |
-| INT  | 20 (+5) ^ | C. HP | 7 HP     |
-| WIS  | 14 (+2) ^ | HD    | 1d6      |
-| CHA  | 11 (+0)   | SPD   | 25' (5s) |
+| L. 2 | XP: 350/900 | Stat  | #        |
+| ---- | ----------- | ----- | -------- |
+| STR  | 8  (-1)     | PRF   | +2       |
+| CON  | 13 (+1)     | M. HP | 7 Max HP |
+| DEX  | 16 (+3)     | AC    | (13)     |
+| INT  | 20 (+5) ^   | C. HP | 7 HP     |
+| WIS  | 14 (+2) ^   | HD    | 1d6      |
+| CHA  | 11 (+0)     | SPD   | 25' (5s) |
 
 | Attack/Spell      | Range       | To Hit     | Damage                                      |
 | ----------------- | ----------- | ---------- | ------------------------------------------- |
@@ -70,7 +71,7 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | .   | .   | .   | .   | .   | .   | .    | .   |
 | o   | .   | .   | .   | .   | .   | .   |      |     |
-| .   | .   | .   | .   | .   |     |     |      |     |
+| o   | .   | .   | .   | .   |     |     |      |     |
 | .   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
@@ -96,7 +97,7 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 	- [Identify](https://dnd5e.wikidot.com/spell:identify)
 	- [Find Familiar](https://dnd5e.wikidot.com/spell:find-familiar)
 
-##### Spellcasting (Prep 6)
+##### Spellcasting (Prep 7)
 - You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
 - Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook.
 	- **Cantrips**;
@@ -110,12 +111,19 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 		x [Ice Knife](https://dnd5e.wikidot.com/spell:ice-knife)
 		x [Shield](https://dnd5e.wikidot.com/spell:shield)
 		x [Sleep](https://dnd5e.wikidot.com/spell:sleep)
+		o []()
+		o []()
 
 ##### Arcane Recovery
 - Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
 
+##### Arcane Tradition;
+
 #### Equipment
-(0.00gp)
+(2.50gp)
+
+- *Pot of Healing*; 2d4+2
+- Driftwood Carved Idol
 
 *Hands*: 
 	Leather Fingerless Gloves
