@@ -8,7 +8,7 @@ aliases:
 
 > Standing at 3'9", Tiana wears a practical brown canvas cloak and a comparably large backpack.
 
-Tiana is a young gnome with practical experience in the field - under direct supervision, in a stable environment. She's brought along her familiar - a brown shepard dog.
+Tiana is a young gnome with practical experience in the field - under direct supervision, in a stable environment. She's brought along her familiar - a brown shepard dog named Compu.
 
 ## Roleplaying
 ###### "Present your evidence for this conclusion..."
@@ -29,6 +29,13 @@ In her early life, Tiana was raised by her platonic pair of fathers - [[Dimble T
 Being overly curious, and mildly sheltered, she came to seek unsupervised adventure - leading her to her be in her current predicament.
 
 ## Important Knowledge
+#### Session 1; Abroad
+###### The Party
+- Pick
+- Kaldrin
+- 
+###### The Ship
+- Bill, the Cook
 
 ## Stats
 
@@ -41,13 +48,14 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 | WIS  | 14 (+2) ^ | HD    | 1d6      |
 | CHA  | 11 (+0)   | SPD   | 25' (5s) |
 
-| Attack/Spell      | Range                | To Hit     | Damage                                      |
-| ----------------- | -------------------- | ---------- | ------------------------------------------- |
-| Dagger            | 5' or 30/60          | +5         | 1d4+3 slash                                 |
-| Frostbite     (0) | target 60'           | CON 15     | 1d6 cold + DIS on next Weapon Attack BEOT   |
-| Chromatic Orb (I) | target 90'           | +5         | 3d8 acid/cold/fire/lightning/poison/thunder |
-| Ice Knife     (I) | target 60' radius 5' | +5, DEX 15 | 1d10 pierce, 2d6 cold                       |
-| Sleep         (I) | point 90' radius 20' | low>high   | 5d8 sleep                                   |
+| Attack/Spell      | Range       | To Hit     | Damage                                      |
+| ----------------- | ----------- | ---------- | ------------------------------------------- |
+| Dagger            | 5' or 30/60 | +5         | 1d4+3 slash                                 |
+| Frostbite     (0) | target 60'  | CON 15     | 1d6 cold + DIS on next Weapon Attack BEOT   |
+| Shield        (I) | self        | -          | +5 AC UBNT                                  |
+| Sleep         (I) | 20'r in 90' | -          | 5d8 sleep                                   |
+| Ice Knife     (I) | target 60'  | +5, DEX 15 | 1d10 pierce + 2d6 cold                      |
+| Chromatic Orb (I) | target 90'  | +5         | 3d8 acid/cold/fire/lightning/poison/thunder |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
