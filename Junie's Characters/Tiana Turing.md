@@ -53,9 +53,15 @@ Before we could get off the beach, Max Delmare & Soju run up to us and tried to 
 
 Soju has enchanted part of the forest to isolate 'Castaway Cove' from the rest of the Island. There is another settlement North of here. Castaway Cove is communally socialist. When Soju got here, some of their comrades appeared on other parts of the Island. 
 
-Grom was here before you couldn't leave, at least 20 years. He's the shopkeep.
+Grom was here before you couldn't leave, has been for 27 years. He's the shopkeep.
 
 The Shoreside Inn of Castaway Cove has been overrun by a number of vermin and varmints.
+
+Grom said 'stuff doesn't stay dead here' since the fog came 18 years ago. 
+
+Buckaneer Break / Brandeywine is a 'shady, rough, and tumble' settlement to the North. You'd have to go through the Grung, a group of frogkin, to get there.
+
+Torrin 'got dark' and disappeared 18 years ago, at the same time as the fog came.
 
 
 
@@ -144,7 +150,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 #### Equipment
 (25sp)
 
-- *Pot of Healing*; 2d4+2
+- 2x *Pot of Healing*; 2d4+2
 - Driftwood Carved Idol
 
 *Hands*: 
