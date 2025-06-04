@@ -46,6 +46,10 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 - Brinn, Carpenter
 - Roe, a Crewman
 
+We've washed upon the shore of some island - it looks like there's some civilization off a ways, but we were attacked by big crabs!
+
+#### Session 2;
+We see some Abandoned Docks, a Old Stone District, and a Shantytown. Before we could get off the beach, Max & Soju run up to us and tried to help. Soju is the de facto Governor. "The island was once Endara"
 
 ## Stats
 
@@ -130,7 +134,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 	- When you cast a wizard spell as a ritual, you can use the spell's normal casting time, rather than adding 10 minutes to it. Once you use this benefit, you can't do so again until you finish a long rest.
 
 #### Equipment
-(2.50gp)
+(25sp)
 
 - *Pot of Healing*; 2d4+2
 - Driftwood Carved Idol
