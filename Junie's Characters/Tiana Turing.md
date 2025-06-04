@@ -63,11 +63,12 @@ Buckaneer Break / Brandeywine is a 'shady, rough, and tumble' settlement to the 
 
 Torrin 'got dark' and disappeared 18 years ago, at the same time as the fog came.
 
+We're going to clear out the old tavern. We encountered rats.
 
 
 ## Stats
 
-| L. 2 | XP: 350/900 | Stat  | #         |
+| L. 2 | XP: 500/900 | Stat  | #         |
 | ---- | ----------- | ----- | --------- |
 | STR  | 8  (-1)     | PRF   | +2        |
 | CON  | 13 (+1)     | M. HP | 12 Max HP |
