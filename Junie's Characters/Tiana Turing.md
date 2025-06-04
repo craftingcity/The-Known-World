@@ -49,7 +49,13 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 We've washed upon the shore of some island - it looks like there's some civilization off a ways, but we were attacked by big crabs!
 
 #### Session 2; Exploring Castaway Cove
-We see some Abandoned Docks, a Old Stone District, and a Shantytown. Before we could get off the beach, Max Delmare & Soju run up to us and tried to help. Soju is the de facto Governor. "The island was once called Endara". The town, Castaway Cove, has roughly 13 residents and only a few permanent structures. 
+Before we could get off the beach, Max Delmare & Soju run up to us and tried to help. Soju is the de facto Governor. "The island was once called Endara". The town, Castaway Cove, has roughly 13 residents and only a few permanent structures. 
+
+Soju has enchanted part of the forest to isolate 'Castaway Cove' from the rest of the Island. There is another settlement North of here. Castaway Cove is communally socialist. When Soju got here, some of their comrades appeared on other parts of the Island. 
+
+Grom was here before you couldn't leave, at least 20 years. He's the shopkeep.
+
+The Shoreside Inn of Castaway Cove has been overrun by a number of vermin and varmints.
 
 
 
@@ -75,7 +81,7 @@ We see some Abandoned Docks, a Old Stone District, and a Shantytown. Before we c
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| x   | .   | .   | .   | .   | .   | .   | .    | .   |
+| o   | .   | .   | .   | .   | .   | .   | .    | .   |
 | o   | .   | .   | .   | .   | .   | .   |      |     |
 | o   | .   | .   | .   | .   |     |     |      |     |
 | .   |     |     |     |     |     |     |      |     |
@@ -117,7 +123,7 @@ We see some Abandoned Docks, a Old Stone District, and a Shantytown. Before we c
 		x [Feather Fall](https://dnd5e.wikidot.com/spell:feather-fall)
 		x [Shield](https://dnd5e.wikidot.com/spell:shield)
 		x [Sleep](https://dnd5e.wikidot.com/spell:sleep)
-		o [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs)
+		x [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs)
 		o [Snare](https://dnd5e.wikidot.com/spell:snare)
 
 ##### Arcane Recovery
