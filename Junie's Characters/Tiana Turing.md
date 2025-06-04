@@ -48,8 +48,10 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 
 We've washed upon the shore of some island - it looks like there's some civilization off a ways, but we were attacked by big crabs!
 
-#### Session 2;
-We see some Abandoned Docks, a Old Stone District, and a Shantytown. Before we could get off the beach, Max & Soju run up to us and tried to help. Soju is the de facto Governor. "The island was once Endara"
+#### Session 2; Exploring Castaway Cove
+We see some Abandoned Docks, a Old Stone District, and a Shantytown. Before we could get off the beach, Max Delmare & Soju run up to us and tried to help. Soju is the de facto Governor. "The island was once called Endara". The town, Castaway Cove, has roughly 13 residents and only a few permanent structures. 
+
+
 
 ## Stats
 

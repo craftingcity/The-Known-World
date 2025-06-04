@@ -25,7 +25,7 @@ The common people of [[The Kingdom of Prosper]] recognize that there is a safety
 
 ### Background
 ## Important Places & Symbolism
-
+- The Dancing Gopher (the Delmares)
 ## Economics
 |                  | # of Traders |                |     |                 |     |
 | ---------------- | ------------ | -------------- | --- | --------------- | --- |

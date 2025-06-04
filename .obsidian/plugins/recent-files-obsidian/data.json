@@ -5,6 +5,18 @@
       "path": "Junie's Characters/Tiana Turing.md"
     },
     {
+      "basename": "Castle Prosper",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md"
+    },
+    {
+      "basename": "Yerba",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md"
+    },
+    {
+      "basename": "The Kingdom of Prosper",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
+    },
+    {
       "basename": "Timeline",
       "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Economics of the Hobgoblin Territories",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md"
-    },
-    {
-      "basename": "Economics of Tetrimoc's Desert",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md"
-    },
-    {
-      "basename": "Economics of Mountain Hall",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Mountain Hall.md"
-    },
-    {
-      "basename": "Economics of Combine",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md"
     }
   ],
   "omittedPaths": [],

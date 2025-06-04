@@ -18,7 +18,6 @@ Yerba is a large city in [[The Kingdom of Prosper]]. Paved in cobble and built o
 ## Important Places & Symbolism
 
 
-
 ## Economics
 |                  | # of Traders |                |     |                 |     |     |
 | ---------------- | ------------ | -------------- | --- | --------------- | --- | --- |
