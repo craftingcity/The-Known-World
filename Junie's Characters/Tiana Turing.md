@@ -26,7 +26,7 @@ Tiana is...
 #### Early Life (c. ???AF - ???AF)
 In her early life, Tiana was raised by her platonic pair of fathers - [[Dimble Turing]] and [[Scree'up]] - who taught her to be curious, honest, and kind. She was consistently brought along during her fathers' research expeditions, where she became as proficient in adventuring skills as a preteen can, and under the tutoring of her fathers, she would come to learn the art of spellcasting.
 
-Being overly curious, and mildly sheltered, she came to seek unsupervised adventure - leading her to her be in her current predicament.
+Being overly curious, and mildly sheltered, she came to seek unsupervised adventure in the North - leading her to her be in her current predicament.
 
 ## Important Knowledge
 #### Session 1; Welcome to Castaway Cove
@@ -49,14 +49,14 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 
 ## Stats
 
-| L. 2 | XP: 350/900 | Stat  | #        |
-| ---- | ----------- | ----- | -------- |
-| STR  | 8  (-1)     | PRF   | +2       |
-| CON  | 13 (+1)     | M. HP | 7 Max HP |
-| DEX  | 16 (+3)     | AC    | (13)     |
-| INT  | 20 (+5) ^   | C. HP | 7 HP     |
-| WIS  | 14 (+2) ^   | HD    | 1d6      |
-| CHA  | 11 (+0)     | SPD   | 25' (5s) |
+| L. 2 | XP: 350/900 | Stat  | #         |
+| ---- | ----------- | ----- | --------- |
+| STR  | 8  (-1)     | PRF   | +2        |
+| CON  | 13 (+1)     | M. HP | 12 Max HP |
+| DEX  | 16 (+3)     | AC    | (13)      |
+| INT  | 20 (+5) ^   | C. HP | 12 HP     |
+| WIS  | 14 (+2) ^   | HD    | 2d6       |
+| CHA  | 11 (+0)     | SPD   | 25' (5s)  |
 
 | Attack/Spell      | Range       | To Hit     | Damage                                      |
 | ----------------- | ----------- | ---------- | ------------------------------------------- |
@@ -69,7 +69,7 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| o   | .   | .   | .   | .   | .   | .   | .    | .   |
+| x   | .   | .   | .   | .   | .   | .   | .    | .   |
 | o   | .   | .   | .   | .   | .   | .   |      |     |
 | o   | .   | .   | .   | .   |     |     |      |     |
 | .   |     |     |     |     |     |     |      |     |
@@ -126,7 +126,7 @@ At 2nd level, as a bonus action, you can magically create a Tiny quill in your f
 ##### Awakened Spellbook
 At 2nd level, while you are holding the book, it grants you the following benefits:
 	- You can use the book as a spellcasting focus for your wizard spells.
-	- When you cast a wizard spell with a spell slot, you can temporarily replace its damage type with a type that appears in another spell in your spellbook, which magically alters the spell's formula for this casting only. The latter spell must be of the same level as the spell slot you expend.
+	- When you cast a wizard spell with a spell slot, you can temporarily replace its damage type with a type that appears in another spell in your spellbook. The latter spell must be of the same level as the spell slot you expend.
 	- When you cast a wizard spell as a ritual, you can use the spell's normal casting time, rather than adding 10 minutes to it. Once you use this benefit, you can't do so again until you finish a long rest.
 
 #### Equipment
