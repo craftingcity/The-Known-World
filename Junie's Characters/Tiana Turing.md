@@ -111,8 +111,8 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 		x [Feather Fall](https://dnd5e.wikidot.com/spell:feather-fall)
 		x [Shield](https://dnd5e.wikidot.com/spell:shield)
 		x [Sleep](https://dnd5e.wikidot.com/spell:sleep)
-		o [Hideous Laughter](https://dnd5e.wikidot.com/spell:tashas-hideous-laughter)
-		o []()
+		o [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs)
+		o [Snare](https://dnd5e.wikidot.com/spell:snare)
 
 ##### Arcane Recovery
 - Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
