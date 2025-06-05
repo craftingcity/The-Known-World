@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Class - Alchemist",
+      "path": "Custom Class - Alchemist.md"
+    },
+    {
+      "basename": "Custom Class - Bard",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Bard.md"
+    },
+    {
       "basename": "Tiana Turing",
       "path": "Junie's Characters/Tiana Turing.md"
     },
@@ -67,10 +75,6 @@
     {
       "basename": "Text",
       "path": "ORGANIZATION/TEMPLATES/Text.md"
-    },
-    {
-      "basename": "Custom Class - Bard",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Bard.md"
     },
     {
       "basename": "Custom Class - Blood Hunter",
@@ -195,10 +199,6 @@
     {
       "basename": "Economics of The Holyl'nds",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of The Holyl'nds.md"
-    },
-    {
-      "basename": "Economics of the Hobgoblin Territories",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md"
     }
   ],
   "omittedPaths": [],
