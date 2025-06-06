@@ -17,9 +17,9 @@ aliases:
 | 6th   |     | Concoct Powderblast                       | 8             |
 | 7th   |     |                                           | 9             |
 | 8th   |     | Ability Score Improvement                 | 10            |
-| 9th   | +4  | Expertise                                 | 11            |
-| 10th  |     |                                           | 12            |
-| 11th  |     | Student of The Art, Reliable Concoctions                        | 14            |
+| 9th   | +4  | Expertise,                                | 12            |
+| 10th  |     | Concoct Pharmaceutical                    | 13            |
+| 11th  |     | Student of The Art, Reliable Concoctions  | 14            |
 | 12th  |     | Ability Score Improvement                 | 15            |
 | 13th  | +5  |                                           | 17            |
 | 14th  |     |                                           | 18            |
@@ -86,6 +86,10 @@ At 2nd level, as a Bonus Action, you may expend a number of Reagent Points to in
 ### Extra Attack
 
 ### Concoct Powderblast
+
+###
+
+### Concoct Pharmaceutical
 
 ### Student of The Art
 
