@@ -14,12 +14,12 @@ aliases:
 | 3rd   |     | Mobile Laboratory                         | 4             |
 | 4th   |     | Ability Score Improvement                 | 5             |
 | 5th   | +3  | Extra Attack                              | 7             |
-| 6th   |     |                                           | 8             |
+| 6th   |     | Concoct Powderblast                       | 8             |
 | 7th   |     |                                           | 9             |
 | 8th   |     | Ability Score Improvement                 | 10            |
-| 9th   | +4  |                                           | 11            |
+| 9th   | +4  | Expertise                                 | 11            |
 | 10th  |     |                                           | 12            |
-| 11th  |     |                                           | 14            |
+| 11th  |     | Student of The Art, Reliable Concoctions                        | 14            |
 | 12th  |     | Ability Score Improvement                 | 15            |
 | 13th  | +5  |                                           | 17            |
 | 14th  |     |                                           | 18            |
@@ -27,8 +27,8 @@ aliases:
 | 16th  |     | Ability Score Improvement                 | 20            |
 | 17th  | +6  |                                           | 22            |
 | 18th  |     |                                           | 23            |
-| 19th  |     |                                           | 24            |
-| 20th  |     |                                           | 25            |
+| 19th  |     | Ability Score Improvement                 | 24            |
+| 20th  |     | Master Alchemist                          | 25            |
 
 ### Hit Points
 **Hit Dice**: 1d8 per Alchemist level
@@ -60,17 +60,17 @@ The Reagent Points column of the Alchemist table shows you how many Reagent Poin
 ### Concoct Elixir
 At 1st level, as an Attack, you throw an Elixir. Expend one Reagent Point and roll a d6 on the Concoction Table for the effect of the thrown Elixir. Then, choose a point within 30ft of you where the Elixir will land.
 
-| d6  | Effect                                                                                                                                                                                   |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | *Explosion* - Creatures and Objects within 10ft of the point take 2d6 force damage.                                                                                                      |
-| 2   | *Illumination* - Creatures within 5ft of the point must succeed on a DC 14 Dexterity Save or become Dazed until the end of your next turn.                                               |
-| 3   | *Condensation* - Creatures within 10ft of the point must succeed on a DC 14 Strength Save or are pushed Prone. Earthy terrain within this radius becomes Difficult Terrain for 12 hours. |
-| 4   | *Acceleration* - Creatures within 10ft of the point gain +5 Speed and +1 AC until the end of your next turn.                                                                             |
-| 5   | *Eruption* - Within 5ft of the point, grey earth fills the radius, creating a 5ft raised surface within the radius.                                                                      |
-| 6   | *Continuation* - Creatures within 15ft of the point gain 10 Temporary Hit Points.                                                                                                                                                                        | 
+| d6  | Effect                                                                                                                                                                                            |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | *Explosion* - Creatures and Objects within a 10ft radius of the point take 2d6 force damage.                                                                                                      |
+| 2   | *Illumination* - Creatures within a 5ft radius of the point must succeed on a DC 14 Dexterity Save or become Dazed until the end of your next turn.                                               |
+| 3   | *Condensation* - Creatures within a 10ft radius of the point must succeed on a DC 14 Strength Save or are pushed Prone. Earthy terrain within this radius becomes Difficult Terrain for 12 hours. |
+| 4   | *Acceleration* - Creatures within a 10ft radius of the point gain +5 Speed and +1 AC until the end of your next turn.                                                                             |
+| 5   | *Eruption* - Within a 5ft radius of the point, grey earth fills the radius, creating a 5ft raised surface within the radius.                                                                      |
+| 6   | *Continuation* - Creatures within a 15ft radius of the point gain 10 Temporary Hit Points.                                                                                                        |
 
 ### Infuse Trinket
-At 2nd level, as a Bonus Action, you may expend a number of Reagent Points to infuse a small item or object with your choice of an Infusion from the Infusion Table. The item or object remains Infused until it is used or you finish a long rest.
+At 2nd level, as a Bonus Action, you may expend a number of Reagent Points to infuse a small item or object with your choice of an Infusion from the Infusion Table. The item or object remains Infused until it is used, or you finish a long rest.
 
 | Cost | Effect                                                                                                                                                               |
 | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -78,9 +78,17 @@ At 2nd level, as a Bonus Action, you may expend a number of Reagent Points to in
 | 1    | *Reflexive* - When you next make a Saving Throw, you expend the Infusion and gain +2 to that Save.                                                                   |
 | 1    | *Protective* - When you next are the target of an Attack, you expend the Infusion and gain +1 to your AC.                                                            |
 | 2    | *Concussive* - When you next take Damage, you expend the Infusion and roll 2d8. You deal an amount of force damage equal to the result to the source of your damage. |
-| 2    | **                                                                                                                                                                   |
-| 3    | *Competitive*  When you next Hit on an Attack, you expend the Infusion and roll twice for the Damage you deal, taking the higher total result.                       |
+| 2    | *Operative* - When you next make a Initiative Roll, you expend the Infusion and gain +2 to the result.                                                               |
+| 3    | *Competitive* - When you next Hit on an Attack, you expend the Infusion and roll twice for the Damage you deal, taking the higher total result.                      |
 
 ### Mobile Laboratory
 
 ### Extra Attack
+
+### Concoct Powderblast
+
+### Student of The Art
+
+### Reliable Concoctions
+
+### Master Alchemist
