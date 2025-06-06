@@ -4,7 +4,7 @@ aliases:
 ---
 
 # Alchemist
-*You must have an Intelligence score of 13 or higher in order to multiclass in or out of this class.*
+4*You must have an Intelligence score of 13 or higher in order to multiclass in or out of this class.*
 > A student of life, you have come to understand the power in every thing - the ground you walk, the air you breathe, even the weather around you. An Alchemist uses their knowledge of their physical surroundings to create wonderous, near magical effects.
 
 | Level | PB  | Features                                  | Reagent Point |
