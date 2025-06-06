@@ -4,7 +4,7 @@ aliases:
 ---
 
 # Alchemist
-4*You must have an Intelligence score of 13 or higher in order to multiclass in or out of this class.*
+*You must have an Intelligence score of 13 or higher in order to multiclass in or out of this class.*
 > A student of life, you have come to understand the power in every thing - the ground you walk, the air you breathe, even the weather around you. An Alchemist uses their knowledge of their physical surroundings to create wonderous, near magical effects.
 
 | Level | PB  | Features                                  | Reagent Point |
@@ -72,7 +72,9 @@ At 1st level, as an Attack, you throw an Elixir. Expend one Reagent Point and ro
 ### Infuse Trinket
 At 2nd level, as an Action, you may expend a number of Reagent Points to infuse a small item or object with your choice of one of the following effects;
 
-- 
+- (1) ** When you next make an Attack Roll, you expend the Infusion and gain +2 to hit.
+- (1) ** When you next make a Saving Throw, you expend the Infusion and gain +2 to that Save.
+- (1) ** When you next are the target of an Attack, you expend the Infusion and gain +1 to your AC.
 
 The item remains Infused until you finish a long rest.
 
