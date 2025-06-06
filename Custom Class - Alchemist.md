@@ -82,10 +82,13 @@ At 2nd level, as a Bonus Action, you may expend a number of Reagent Points to in
 | 3    | *Competitive* - When you next Hit on an Attack, you expend the Infusion and roll twice for the Damage you deal, taking the higher total result.                      |
 
 ### Mobile Laboratory
+At 3rd level,
 
 ### Extra Attack
+At 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ### Concoct Powderblast
+At 6th level, as an Attack, 
 
 ###
 
