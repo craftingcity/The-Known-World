@@ -68,3 +68,9 @@ At 1st level, as an Attack, you throw an Elixir. Expend one Reagent Point and ro
 | 4   | *Acceleration* - Creatures within 10ft of the point gain +5 Speed and +1 AC until the end of your next turn.                                                                             |
 | 5   | *Eruption* - Within 5ft of the point, grey earth fills the radius, creating a 5ft raised surface within the radius.                                                                      |
 | 6   | *Continuation* - Creatures within 15ft of the point gain 10 Temporary Hit Points.                                                                                                                                                                        | 
+
+### Infuse Trinket
+At 2nd level, you may expend 
+
+### Mobile Laboratory
+### Extra Attack
