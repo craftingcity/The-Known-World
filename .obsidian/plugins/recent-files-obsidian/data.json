@@ -5,6 +5,10 @@
       "path": "Custom Class - Alchemist.md"
     },
     {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
+    },
+    {
       "basename": "Custom Class - Bard",
       "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Bard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "GrainIntoGold",
       "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-    },
-    {
-      "basename": "Economics of The Holyl'nds",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of The Holyl'nds.md"
     }
   ],
   "omittedPaths": [],

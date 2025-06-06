@@ -70,7 +70,11 @@ At 1st level, as an Attack, you throw an Elixir. Expend one Reagent Point and ro
 | 6   | *Continuation* - Creatures within 15ft of the point gain 10 Temporary Hit Points.                                                                                                                                                                        | 
 
 ### Infuse Trinket
-At 2nd level, you may expend 
+At 2nd level, as an Action, you may expend a number of Reagent Points to infuse a small item or object with your choice of one of the following effects;
+
+- 
+
+The item remains Infused until you finish a long rest.
 
 ### Mobile Laboratory
 ### Extra Attack
