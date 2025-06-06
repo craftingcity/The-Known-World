@@ -57,11 +57,11 @@ At 9th level, you can choose another two skill proficiencies to gain this benefi
 ### Concoct Elixir
 At 1st level, as an Attack, you throw an Elixir. Expend one Reagent and choose a point within 30ft of you. Then, roll a d6 on the Concoction Table for the effect of the thrown Elixir.
 
-| d6  | Effect |
-| --- | ------ |
-| 1   | *Explosive* -        |
-| 2   |        |
-| 3   |        |
-| 4   |        |
-| 5   |        |
-| 6   |        |
+| d6  | Effect                                                                                                                                      |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | *Explosion* - Creatures and Objects within 10ft of the point take 2d6 force damage.                                                         |
+| 2   | *Illumination* - Creatures within 5ft of the point must succeed on a DC 14 Dexterity Check or become Dazed until the end of your next turn. |
+| 3   | *Downpour* -                                                                                                                                        |
+| 4   | ** -                                                                                                                                        |
+| 5   | ** -                                                                                                                                        |
+| 6   | ** -                                                                                                                                        | 
