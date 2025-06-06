@@ -72,9 +72,12 @@ At 1st level, as an Attack, you throw an Elixir. Expend one Reagent Point and ro
 ### Infuse Trinket
 At 2nd level, as an Action, you may expend a number of Reagent Points to infuse a small item or object with your choice of one of the following effects;
 
-- (1) ** When you next make an Attack Roll, you expend the Infusion and gain +2 to hit.
-- (1) ** When you next make a Saving Throw, you expend the Infusion and gain +2 to that Save.
-- (1) ** When you next are the target of an Attack, you expend the Infusion and gain +1 to your AC.
+- (1) *Offensive* When you next make an Attack Roll, you expend the Infusion and gain +2 to hit.
+- (1) *Reflexive* When you next make a Saving Throw, you expend the Infusion and gain +2 to that Save.
+- (1) *Protective* When you next are the target of an Attack, you expend the Infusion and gain +1 to your AC.
+- (2) **
+- (2) **
+- (3) *Successive*
 
 The item remains Infused until you finish a long rest.
 
