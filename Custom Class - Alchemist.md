@@ -10,21 +10,21 @@ aliases:
 | Level | PB  | Features                  | Reagent Points |
 | ----- | --- | ------------------------- | -------------- |
 | 1st   | +2  | Expertise, Concoct Elixir | 2              |
-| 2nd   |     |                           | 3              |
-| 3rd   |     |                           | 4              |
-| 4th   |     |                           | 5              |
+| 2nd   |     | Infuse Trinket            | 3              |
+| 3rd   |     | Mobile Laboratory         | 4              |
+| 4th   |     | Ability Score Improvement | 5              |
 | 5th   | +3  |                           | 7              |
 | 6th   |     |                           | 8              |
 | 7th   |     |                           | 9              |
-| 8th   |     |                           | 10             |
+| 8th   |     | Ability Score Improvement | 10             |
 | 9th   | +4  |                           | 11             |
 | 10th  |     |                           | 12             |
 | 11th  |     |                           | 14             |
-| 12th  |     |                           | 15             |
+| 12th  |     | Ability Score Improvement | 15             |
 | 13th  | +5  |                           | 17             |
 | 14th  |     |                           | 18             |
 | 15th  |     |                           | 19             |
-| 16th  |     |                           | 20             |
+| 16th  |     | Ability Score Improvement | 20             |
 | 17th  | +6  |                           | 22             |
 | 18th  |     |                           | 23             |
 | 19th  |     |                           | 24             |
@@ -38,11 +38,21 @@ aliases:
 ### Proficiencies
 **Armor**: Light Armors
 **Weapons**: Simple Weapons
-**Tools**:
-**Saving Throws**:
+**Tools**: Alchemist's Tools, Herbalist's Tools, and Tinker's Tools
+**Saving Throws**: Intelligence, Charisma
 **Skills**: *Arcana*, *Survival*, and your choice of *History*, *Investigation*, *Medicine*, *Nature*, or *Perception*
 
 ### Equipment
+	- any two simple weapons
+	- studded leather armor
+	- (a) alchemist's tools or (b) herbalist's tools
+	- (a) explorer's pack or (b) dungeoneer's pack
 
 ## Features
 ### Expertise
+At 1st level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+
+At 9th level, you can choose another two skill proficiencies to gain this benefit.
+
+### Concoct  Elixir
+As an Attack, you quickly prepare and throw an Elixir
