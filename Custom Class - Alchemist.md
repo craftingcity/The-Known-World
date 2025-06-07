@@ -15,7 +15,7 @@ aliases:
 | 4th   |     | Ability Score Improvement                 | 5             |
 | 5th   | +3  | Extra Attack                              | 7             |
 | 6th   |     | Concoct Powderblast                       | 8             |
-| 7th   |     |                                           | 9             |
+| 7th   |     | Emergency                                           | 9             |
 | 8th   |     | Ability Score Improvement                 | 10            |
 | 9th   | +4  | Expertise,                                | 12            |
 | 10th  |     | Concoct Pharmaceutical                    | 13            |
@@ -58,7 +58,7 @@ At 9th level, you can choose another two skill proficiencies to gain this benefi
 The Reagent Points column of the Alchemist table shows you how many Reagent Points you have to use your features. You regain all expended Reagent Points when you finish a long rest. 
 
 ### Concoct Elixir
-At 1st level, as an Attack, you throw an Elixir. Expend one Reagent Point and roll a d6 on the Concoction Table for the effect of the thrown Elixir. Then, choose a point within 30ft of you where the Elixir will land.
+At 1st level, as an Attack, you throw an Elixir. Expend one Reagent Point and roll a d6 on the Elixir Effect Table. Then, choose a point within 30ft of you where the Elixir will land.
 
 | d6  | Effect                                                                                                                                                                                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -88,7 +88,7 @@ At 3rd level,
 At 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ### Concoct Powderblast
-At 6th level, as an Attack, 
+At 6th level, as an Attack, you throw a Powderblast. Spend two Reagent Points and roll a d6 on the Powderblast Effect Table. Then, choose a point within 20ft of you where the Powderblast will disperse.
 
 ###
 
