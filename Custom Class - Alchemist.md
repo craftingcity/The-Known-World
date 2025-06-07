@@ -83,7 +83,9 @@ At 2nd level, as a Bonus Action, you may expend a number of Reagent Points to in
 | 3    | *Competitive* - When you next Hit on an Attack, you expend the Infusion and roll twice for the Damage you deal, taking the higher total result.                      |
 
 ### Mobile Laboratory
-At 3rd level,
+At 3rd level, during a long rest, you may modify a mobile space (such as a cart or a room on a ship) you occupy with secured alchemical facilities. Your Mobile Laboratory has the following effects;
+
+- While your Laboratory is accessible, 
 
 At 9th level,
 
