@@ -5,30 +5,33 @@ aliases:
 
 # Alchemist
 *You must have an Intelligence score of 13 or higher in order to multiclass in or out of this class.*
-> A student of life, you have come to understand the power in every thing - the ground you walk, the air you breathe, even the weather around you. An Alchemist uses their knowledge of their physical surroundings to create wonderous, near magical effects.
+> ...
 
-| Level | PB  | Features                                  | Reagent Point |
-| ----- | --- | ----------------------------------------- | ------------- |
-| 1st   | +2  | Expertise, Reagent Points, Concoct Elixir | 2             |
-| 2nd   |     | Infuse Trinket                            | 3             |
-| 3rd   |     | Mobile Laboratory                         | 4             |
-| 4th   |     | Ability Score Improvement                 | 5             |
-| 5th   | +3  | Extra Attack                              | 7             |
-| 6th   |     | Concoct Powderblast                       | 8             |
-| 7th   |     | Emergency                                           | 9             |
-| 8th   |     | Ability Score Improvement                 | 10            |
-| 9th   | +4  | Expertise,                                | 12            |
-| 10th  |     | Concoct Pharmaceutical                    | 13            |
-| 11th  |     | Student of The Art, Reliable Concoctions  | 14            |
-| 12th  |     | Ability Score Improvement                 | 15            |
-| 13th  | +5  |                                           | 17            |
-| 14th  |     |                                           | 18            |
-| 15th  |     |                                           | 19            |
-| 16th  |     | Ability Score Improvement                 | 20            |
-| 17th  | +6  |                                           | 22            |
-| 18th  |     |                                           | 23            |
-| 19th  |     | Ability Score Improvement                 | 24            |
-| 20th  |     | Master Alchemist                          | 25            |
+| Level | PB  | Features                                     | Reagent Point |
+| ----- | --- | -------------------------------------------- | ------------- |
+| 1st   | +2  | Expertise I, Reagent Points, Concoct: Elixir | 2             |
+| 2nd   |     | Infuse Trinket                               | 3             |
+| 3rd   |     | Mobile Laboratory                            | 4             |
+| 4th   |     | Ability Score Improvement                    | 5             |
+| 5th   | +3  | Extra Attack                                 | 7             |
+| 6th   |     | Concoct: Powderblast                         | 8             |
+| 7th   |     | Student of The Art, Reliable Concoctions     | 9             |
+| 8th   |     | Ability Score Improvement                    | 10            |
+| 9th   | +4  |                                              | 12            |
+| 10th  |     | Expertise II, Emergency Prevention and Care  | 13            |
+| 11th  |     | Concoct: Pharmaceutical                      | 14            |
+| 12th  |     | Ability Score Improvement                    | 15            |
+| 13th  | +5  |                                              | 17            |
+| 14th  |     |                                              | 18            |
+| 15th  |     |                                              | 19            |
+| 16th  |     | Ability Score Improvement                    | 20            |
+| 17th  | +6  |                                              | 22            |
+| 18th  |     |                                              | 23            |
+| 19th  |     | Ability Score Improvement                    | 24            |
+| 20th  |     | Master Alchemist                             | 25            |
+
+
+
 
 ### Hit Points
 **Hit Dice**: 1d8 per Alchemist level
@@ -52,12 +55,12 @@ aliases:
 ### Expertise
 At 1st level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
-At 9th level, you can choose another two skill proficiencies to gain this benefit.
+At 10th level, you can choose another two skill proficiencies to gain this benefit.
 
 ### Reagent Points
 The Reagent Points column of the Alchemist table shows you how many Reagent Points you have to use your features. You regain all expended Reagent Points when you finish a long rest. 
 
-### Concoct Elixir
+### Concoct: Elixir
 At 1st level, as an Attack, you throw an Elixir. Expend one Reagent Point and roll a d6 on the Elixir Effect Table. Then, choose a point within 30ft of you where the Elixir will land.
 
 | d6  | Effect                                                                                                                                                                                            |
@@ -87,15 +90,15 @@ At 3rd level,
 ### Extra Attack
 At 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-### Concoct Powderblast
+### Concoct: Powderblast
 At 6th level, as an Attack, you throw a Powderblast. Spend two Reagent Points and roll a d6 on the Powderblast Effect Table. Then, choose a point within 20ft of you where the Powderblast will disperse.
-
-###
-
-### Concoct Pharmaceutical
 
 ### Student of The Art
 
 ### Reliable Concoctions
+
+### Emergency Prevention and Care
+
+### Concoct: Pharmaceutical
 
 ### Master Alchemist
