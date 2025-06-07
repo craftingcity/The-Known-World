@@ -85,7 +85,8 @@ At 2nd level, as a Bonus Action, you may expend a number of Reagent Points to in
 ### Mobile Laboratory
 At 3rd level, during a long rest, you may modify a mobile space (such as a cart or a room on a ship) you occupy with secured alchemical facilities. Your Mobile Laboratory has the following effects;
 
-- While your Laboratory is accessible, 
+- While your Laboratory is accessible, when you finish a short rest, you may regain Reagent Points by spending an Alchemical Component valued at 5sp or more. The number of Reagent Points you regain is equal to one-fifth the value of the Alchemical component spent, rounded down.
+- While your Laboratory is accessible, when you finish a long rest, you may assign your Mobile Laboratory an Alchemical Recipe that you know. When you do, you spend the Alchemical Components required for that recipe, and begin your Laboratory begins performing the process of that Recipe. When you next finish a long rest while your Laboratory is accessible, you 
 
 At 9th level,
 
