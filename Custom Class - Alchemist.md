@@ -11,26 +11,24 @@ aliases:
 | ----- | --- | -------------------------------------------- | ------------- |
 | 1st   | +2  | Expertise I, Reagent Points, Concoct: Elixir | 2             |
 | 2nd   |     | Infuse Trinket                               | 3             |
-| 3rd   |     | Mobile Laboratory                            | 4             |
+| 3rd   |     | Mobile Laboratory I                          | 4             |
 | 4th   |     | Ability Score Improvement                    | 5             |
 | 5th   | +3  | Extra Attack                                 | 7             |
 | 6th   |     | Concoct: Powderblast                         | 8             |
 | 7th   |     | Student of The Art, Reliable Concoctions     | 9             |
 | 8th   |     | Ability Score Improvement                    | 10            |
-| 9th   | +4  |                                              | 12            |
+| 9th   | +4  | Mobile Laboratory II                         | 12            |
 | 10th  |     | Expertise II, Emergency Prevention and Care  | 13            |
 | 11th  |     | Concoct: Pharmaceutical                      | 14            |
 | 12th  |     | Ability Score Improvement                    | 15            |
 | 13th  | +5  |                                              | 17            |
 | 14th  |     |                                              | 18            |
-| 15th  |     |                                              | 19            |
+| 15th  |     | Mobile Laboratory III                        | 19            |
 | 16th  |     | Ability Score Improvement                    | 20            |
 | 17th  | +6  |                                              | 22            |
 | 18th  |     |                                              | 23            |
 | 19th  |     | Ability Score Improvement                    | 24            |
 | 20th  |     | Master Alchemist                             | 25            |
-
-
 
 
 ### Hit Points
@@ -86,6 +84,10 @@ At 2nd level, as a Bonus Action, you may expend a number of Reagent Points to in
 
 ### Mobile Laboratory
 At 3rd level,
+
+At 9th level,
+
+At 15th level,
 
 ### Extra Attack
 At 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
