@@ -136,7 +136,7 @@ At 11th level, as an Attack, you fire a Pharmaceutical. Spend three Reagent Poin
 | 3   | *Go Juice* -   |
 | 4   | *Ambrosia* -   |
 | 5   | *Flack* -      |
-| 6   | *Luciferium* - | 
+| 6   | *Darconi* - | 
 
 ### xx
 At 13th level,
