@@ -108,14 +108,14 @@ At 5th level, you can attack twice, instead of once, whenever you take the Attac
 ### Concoct: Powderblast
 At 6th level, as an Attack, you throw a Powderblast. Spend two Reagent Points and roll a d6 on the Powderblast Effect Table. Then, choose a point within 20ft of you where the Powderblast will disperse.
 
-| d6  | Effect |
-| --- | ------ |
-| 1   |        |
-| 2   |        |
-| 3   |        |
-| 4   |        |
-| 5   |        |
-| 6   |        |
+| d6  | Effect     |
+| --- | ---------- |
+| 1   | *Red* -    |
+| 2   | *Yellow* - |
+| 3   | *Green* -  |
+| 4   | *Blue* -   |
+| 5   | *Purple* - |
+| 6   | *Pink* -   |
 
 ### Student of The Art
 At 7th level, when you make a Skill Check to identify or understand an Alchemical Component, Product, or Recipe, you can treat a d20 roll of 7 or lower as an 8.
@@ -124,10 +124,19 @@ At 7th level, when you make a Skill Check to identify or understand an Alchemica
 At 7th level, when you use a Concoct feature, you may roll twice for the Effect, and choose one.
 
 ### Emergency Prevention and Care
-At 10th level, as a Bonus Action, you may spend any number of Reagent Points and choose that many creatures that can you can see within 60ft. When you do, those creatures immediately make a Saving Throw against an Effect or Condition they are inflicted with.
+At 10th level, as a Bonus Action, you may spend any number of Reagent Points and choose that many creatures that can you can see within 60ft. When you do, those creatures immediately make a Saving Throw against an Effect or Condition they are under.
 
 ### Concoct: Pharmaceutical
-At 11th level, as an Attack, you fire a Pharmaceutical. Spend three Reagent Points and roll a d6 on the Pharmaceutical Effect Table. Then, choose a creature you can see within 60ft
+At 11th level, as an Attack, you fire a Pharmaceutical. Spend three Reagent Points and roll a d6 on the Pharmaceutical Effect Table. Then, choose a creature you can see within 60ft that you fire the Pharmaceutical into.
+
+| d6  | Effect         |
+| --- | -------------- |
+| 1   | *Wake Up* -    |
+| 2   | *Psychite* -   |
+| 3   | *Go Juice* -   |
+| 4   | *Ambrosia* -   |
+| 5   | *Flack* -      |
+| 6   | *Luciferium* - | 
 
 ### xx
 At 13th level,
