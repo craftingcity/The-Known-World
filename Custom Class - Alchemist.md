@@ -118,16 +118,16 @@ At 6th level, as an Attack, you throw a Powderblast. Spend two Reagent Points an
 | 6   |        |
 
 ### Student of The Art
-At 7th level, 
+At 7th level, when you make a Skill Check to identify or understand an Alchemical Component, Product, or Recipe, you can treat a d20 roll of 7 or lower as an 8.
 
 ### Reliable Concoctions
-At 7th level, when you 
+At 7th level, when you use a Concoct feature, you may roll twice for the Effect, and choose one.
 
 ### Emergency Prevention and Care
-At 10th level,
+At 10th level, as a Bonus Action, you may spend any number of Reagent Points and choose that many creatures that can you can see within 60ft. When you do, those creatures immediately make a Saving Throw against an Effect or Condition they are inflicted with.
 
 ### Concoct: Pharmaceutical
-At 11th level,
+At 11th level, as an Attack, you fire a Pharmaceutical. Spend three Reagent Points and roll a d6 on the Pharmaceutical Effect Table. Then, choose a creature you can see within 60ft
 
 ### xx
 At 13th level,
