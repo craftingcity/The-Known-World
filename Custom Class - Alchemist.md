@@ -83,14 +83,20 @@ At 2nd level, as a Bonus Action, you may expend a number of Reagent Points to in
 | 3    | *Competitive* - When you next Hit on an Attack, you expend the Infusion and roll twice for the Damage you deal, taking the higher total result.                      |
 
 ### Mobile Laboratory
-At 3rd level, during a long rest, you may modify a mobile space (such as a cart or a room on a ship) you occupy with secured alchemical facilities. At 3rd level, your Mobile Laboratory grants you the following effects;
+At 3rd level, during a long rest, you may modify a mobile space (such as a cart or a room on a ship) you occupy with secured alchemical facilities. 
+
+At 3rd level, your Mobile Laboratory grants you the following effects;
 
 - While your Laboratory is accessible, when you finish a short rest, you may regain Reagent Points by spending an Alchemical Component valued at 5sp or more. The number of Reagent Points you regain is equal to one-fifth the value of the Alchemical component spent, rounded down.
-- While your Laboratory is accessible, when you finish a long rest, you may assign your Mobile Laboratory an Alchemical Recipe that you know. When you do, you spend the Alchemical Components required for that recipe, and begin your Laboratory begins performing the processes of that Recipe. When you next finish a long rest while your Laboratory is accessible, you gather one unit of the Alchemical Product of that Recipe, and may re-assign your Laboratory.
+- While your Laboratory is accessible, when you finish a long rest, you may assign your Mobile Laboratory an Alchemical Recipe that you know. When you do, you spend the Alchemical Components required for that recipe, and your Laboratory begins performing the processes of that Recipe. When you next finish a long rest while your Laboratory is accessible, you gather one unit of the Alchemical Product of that Recipe, and may re-assign your Laboratory.
 	- During the Grading of a product, your Mobile Laboratory will use your number of Alchemist levels as the result of its die roll, and your choice of your Arcana or Survival Skills.
 	- You may still use your Laboratory as normal while it is performing the processes of a Recipe.
 
-At 9th level,
+At 9th level, grants you the following effects;
+
+- When you would gather an Alchemical Product from your Mobile Laboratory, you gather three units instead of one.
+- While your Laboratory is accessible, when you finish a long rest, you may assign your Mobile Laboratory an Alchemical Product that you own. When you do, you destroy the Alchemical Product and your Laboratory begins scribing the Alchemical Recipe used to create that Product.
+	- Your
 
 At 15th level,
 
@@ -101,7 +107,7 @@ At 5th level, you can attack twice, instead of once, whenever you take the Attac
 At 6th level, as an Attack, you throw a Powderblast. Spend two Reagent Points and roll a d6 on the Powderblast Effect Table. Then, choose a point within 20ft of you where the Powderblast will disperse.
 
 ### Student of The Art
-At 7th level,
+At 7th level, 
 
 ### Reliable Concoctions
 At 7th level,
