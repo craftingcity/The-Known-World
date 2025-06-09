@@ -34,6 +34,7 @@ aliases:
 	- [[Nylan Roul]]
 	- [[Raam ben Yarom]]
 	- [[Yeirruk Fyrren]]
+- [[Otto Malkovich]]
 - **[[Tendered]]**
 - **[[Thief Lords of the Desert]]**
 
