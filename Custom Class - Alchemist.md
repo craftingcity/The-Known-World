@@ -59,7 +59,7 @@ At 10th level, you can choose another two skill proficiencies to gain this benef
 The Reagent Points column of the Alchemist table shows you how many Reagent Points you have to use your features. You regain all expended Reagent Points when you finish a long rest. 
 
 ### Concoct: Elixir
-At 1st level, as an Attack, you throw an Elixir. Expend one Reagent Point and roll a d6 on the Elixir Effect Table. Then, choose a point within 30ft of you where the Elixir will land.
+At 1st level, as an Attack, you throw an Elixir. Expend one Reagent Point and roll a d6 on the Elixir Effect Table. Then, choose a point you can see within 30ft of you where the Elixir will land.
 
 | d6  | Effect                                                                                                                                                                                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -105,16 +105,16 @@ At 15th level, your Mobile Laboratory grants you the following additional effect
 At 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ### Concoct: Powderblast
-At 6th level, as an Attack, you throw a Powderblast. Spend two Reagent Points and roll a d6 on the Powderblast Effect Table. Then, you choose a point within 20ft where the Powderblast erupts into a 5ft radius sphere. The Powder remains concentrated in this radius for 1 minute (10 rounds), or until a strong wind disperses the Powder. 
+At 6th level, as an Attack, you throw a Powderblast. Spend two Reagent Points and roll a d6 on the Powderblast Effect Table. Then, you choose a point you can see within 20ft where the Powderblast erupts into a 5ft radius sphere. The Powder remains concentrated in this radius for 1 minute (10 rounds), or until a strong wind disperses the Powder. 
 
-| d6  | Effect                                                                                                                                                                                          |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | *Red* - Creatures who enter or start their turn within the radius must succeed on a DC 18 Wisdom Save take 2d6 psychic damage and be Frightened of you until the beginning of their next turn.                                                                                                         |
-| 2   | *Yellow* - Creatures who enter or start their turn within the radius must succeed on a DC 18 Dexterity Save or be Paralyzed until the beginning of their next turn.                          |
-| 3   | *Green* - Creatures who enter or start their turn within the radius must succeed on a DC 18 Constitution Save or take 2d4 poison damage and be Poisoned until the beginning of their next turn. |
-| 4   | *Blue* - Creatures who enter or start their turn within the radius must succeed on a DC 18 Strength Save or take 1d8 force damage and become Restrained until the beginning of their next turn.                                                                                                                             |
-| 5   | *Purple* - Creatures who enter or start their turn within the radius must succeed on a DC 18 Intelligence Save                                                                                                                           |
-| 6   | *Pink* - Creatures who enter or start their turn within the radius must succeed on a DC 18 Charisma Save or become Charmed and Dazed until the beginning of their next turn.                                                                                                                            |
+| d6  | Effect                                                                                                                                                                                                                                                                                                            |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | *Red* - Creatures who enter or start their turn within the radius must succeed on a DC 16 Wisdom Save take 2d6 psychic damage and be Frightened of you until the beginning of their next turn.                                                                                                                    |
+| 2   | *Yellow* - Creatures who enter or start their turn within the radius must succeed on a DC 16 Dexterity Save or be Paralyzed until the beginning of their next turn.                                                                                                                                               |
+| 3   | *Green* - Creatures who enter or start their turn within the radius must succeed on a DC 16 Constitution Save or take 2d4 poison damage and be Poisoned until the beginning of their next turn.                                                                                                                   |
+| 4   | *Blue* - Creatures who enter or start their turn within the radius must succeed on a DC 16 Strength Save or take 1d8 force damage and become Restrained until the beginning of their next turn.                                                                                                                   |
+| 5   | *Purple* - Creatures who enter or start their turn within the radius must succeed on a DC 16 Intelligence Save or gain Disadvantage on Ability Checks, Attack Rolls, and Saving Throws until the beginning of their next turn.                                                                                    |
+| 6   | *Pink* - Creatures who enter or start their turn within the radius must succeed on a DC 16 Charisma Save or become Charmed by you until the beginning of their next turn. While they are Charmed this way, they will follow your commands to the best of their ability, provided the given command is reasonable. |
 
 ### Student of The Art
 At 7th level, when you make a Skill Check to identify or understand an Alchemical Component, Product, or Recipe, you can treat a d20 roll of 7 or lower as an 8.
@@ -126,7 +126,7 @@ At 7th level, when you use a Concoct feature, you may roll twice for the Effect,
 At 10th level, as a Bonus Action, you may spend any number of Reagent Points and choose that many creatures that can you can see within 60ft. When you do, those creatures immediately make a Saving Throw against an Effect or Condition they are under.
 
 ### Concoct: Pharmaceutical
-At 11th level, as an Attack, you fire a Pharmaceutical. Spend three Reagent Points and roll a d6 on the Pharmaceutical Effect Table. Then, choose a creature you can see within 60ft that you fire the Pharmaceutical into.
+At 11th level, as an Attack, you fire a Pharmaceutical. Spend three Reagent Points and roll a d6 on the Pharmaceutical Effect Table. Then, choose a creature you can see within 60ft that you fire the Pharmaceutical into. If that creature is not your Ally, make an Attack Roll against their AC using your Intelligence Modifier and Proficiency Bonus.
 
 | d6  | Effect       |
 | --- | ------------ |
