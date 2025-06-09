@@ -105,16 +105,16 @@ At 15th level, your Mobile Laboratory grants you the following additional effect
 At 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ### Concoct: Powderblast
-At 6th level, as an Attack, you throw a Powderblast. Spend two Reagent Points and roll a d6 on the Powderblast Effect Table. Then, choose a point within 20ft of you where the Powderblast will disperse.
+At 6th level, as an Attack, you throw a Powderblast. Spend two Reagent Points and roll a d6 on the Powderblast Effect Table. Then, you choose a point within 20ft where the Powderblast erupts into a 5ft radius sphere. The Powder remains concentrated in this radius for 1 minute (10 rounds), or until a strong wind disperses the Powder. 
 
-| d6  | Effect     |
-| --- | ---------- |
-| 1   | *Red* -    |
-| 2   | *Yellow* - |
-| 3   | *Green* -  |
-| 4   | *Blue* -   |
-| 5   | *Purple* - |
-| 6   | *Pink* -   |
+| d6  | Effect                                                                                                                                                                                          |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | *Red* - Creatures who enter or start their turn within the radius must succeed on a DC 18 Wisdom Save take 2d6 psychic damage and be Frightened of you until the beginning of their next turn.                                                                                                         |
+| 2   | *Yellow* - Creatures who enter or start their turn within the radius must succeed on a DC 18 Dexterity Save or be Paralyzed until the beginning of their next turn.                          |
+| 3   | *Green* - Creatures who enter or start their turn within the radius must succeed on a DC 18 Constitution Save or take 2d4 poison damage and be Poisoned until the beginning of their next turn. |
+| 4   | *Blue* - Creatures who enter or start their turn within the radius must succeed on a DC 18 Strength Save or take 1d8 force damage and become Restrained until the beginning of their next turn.                                                                                                                             |
+| 5   | *Purple* - Creatures who enter or start their turn within the radius must succeed on a DC 18 Intelligence Save                                                                                                                           |
+| 6   | *Pink* - Creatures who enter or start their turn within the radius must succeed on a DC 18 Charisma Save or become Charmed and Dazed until the beginning of their next turn.                                                                                                                            |
 
 ### Student of The Art
 At 7th level, when you make a Skill Check to identify or understand an Alchemical Component, Product, or Recipe, you can treat a d20 roll of 7 or lower as an 8.
