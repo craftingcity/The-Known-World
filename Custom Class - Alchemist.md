@@ -97,10 +97,9 @@ At 9th level, your Mobile Laboratory grants you the following additional effects
 - When you would gather an Alchemical Product from your Mobile Laboratory, you gather two units instead of one.
 - While your Laboratory is accessible, when you finish a long rest, you may assign your Mobile Laboratory an Alchemical Product that you own. When you do, you destroy the Alchemical Product and your Laboratory begins scribing the Alchemical Recipe used to create that Product. When you next finish a long rest while your Laboratory is accessible, you gather the Alchemical Recipe of that Product, and may re-assign your Laboratory.
 
-
 At 15th level, your Mobile Laboratory grants you the following additional effects;
 
-- 
+- When you spending an Alchemical Component to regain Reagent Points, you gain twice the number of Reagent Points.
 
 ### Extra Attack
 At 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
@@ -129,14 +128,14 @@ At 10th level, as a Bonus Action, you may spend any number of Reagent Points and
 ### Concoct: Pharmaceutical
 At 11th level, as an Attack, you fire a Pharmaceutical. Spend three Reagent Points and roll a d6 on the Pharmaceutical Effect Table. Then, choose a creature you can see within 60ft that you fire the Pharmaceutical into.
 
-| d6  | Effect         |
-| --- | -------------- |
-| 1   | *Wake Up* -    |
-| 2   | *Psychite* -   |
-| 3   | *Go Juice* -   |
-| 4   | *Ambrosia* -   |
-| 5   | *Flack* -      |
-| 6   | *Darconi* - | 
+| d6  | Effect       |
+| --- | ------------ |
+| 1   | *Wake Up* -  |
+| 2   | *Psychite* - |
+| 3   | *Go Juice* - |
+| 4   | *Ambrosia* - |
+| 5   | *Flack* -    |
+| 6   | *Darconi* -  |
 
 ### xx
 At 13th level,
