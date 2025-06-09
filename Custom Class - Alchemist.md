@@ -128,14 +128,14 @@ At 10th level, as a Bonus Action, you may spend any number of Reagent Points and
 ### Concoct: Pharmaceutical
 At 11th level, as an Attack, you fire a Pharmaceutical. Spend three Reagent Points and roll a d6 on the Pharmaceutical Effect Table. Then, target a creature you can see within 60ft that you fire the Pharmaceutical into. If that creature is not your Ally, make an Attack Roll against their AC using your Intelligence Modifier and Proficiency Bonus.
 
-| d6  | Effect                                                                                                                     |
-| --- | -------------------------------------------------------------------------------------------------------------------------- |
-| 1   | *Wake Up* - The creature immediately regains Consciousness if it is Unconscious. Otherwise, it takes 3d10 necrotic damage. |
-| 2   | *Psychite* - The creature immediately makes two Attacks against an adjacent creature.                                      |
-| 3   | *Go Juice* - The creature immediately moves its Speed.                                                                     |
-| 4   | *Ambrosia* - The creature immediately becomes                                                                                                               |
-| 5   | *Flack* - The creature immediately                                                                                                                  |
-| 6   | *Darconi* - The creature immediately                                                                                                                |
+| d6  | Effect                                                                                                                                       |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | *Wake Up* - The creature immediately regains Consciousness if it is Unconscious. Otherwise, it takes 3d10 necrotic damage.                   |
+| 2   | *Psychite* - The creature immediately makes two Attacks against an adjacent creature.                                                        |
+| 3   | *Go Juice* - The creature immediately moves its Speed.                                                                                       |
+| 4   | *Ambrosia* - The creature immediately becomes Dazed until the end of it's next turn and may spend up to three Hit Dice to regain Hit Points. |
+| 5   | *Flack* - The creature immediately takes 1d6 necrotic damage and gains Advantage on Attack Rolls until the end of it's next turn.            |
+| 6   | *Finelica* - The creature immediately resolves one of the following Conditions; Dazed, Stunned, Frightened, Charmed, or Poisoned.            |
 
 ### xx
 At 13th level,
