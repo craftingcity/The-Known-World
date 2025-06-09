@@ -126,16 +126,16 @@ At 7th level, when you use a Concoct feature, you may roll twice for the Effect,
 At 10th level, as a Bonus Action, you may spend any number of Reagent Points and choose that many creatures that can you can see within 60ft. When you do, those creatures immediately make a Saving Throw against an Effect or Condition they are under.
 
 ### Concoct: Pharmaceutical
-At 11th level, as an Attack, you fire a Pharmaceutical. Spend three Reagent Points and roll a d6 on the Pharmaceutical Effect Table. Then, choose a creature you can see within 60ft that you fire the Pharmaceutical into. If that creature is not your Ally, make an Attack Roll against their AC using your Intelligence Modifier and Proficiency Bonus.
+At 11th level, as an Attack, you fire a Pharmaceutical. Spend three Reagent Points and roll a d6 on the Pharmaceutical Effect Table. Then, target a creature you can see within 60ft that you fire the Pharmaceutical into. If that creature is not your Ally, make an Attack Roll against their AC using your Intelligence Modifier and Proficiency Bonus.
 
-| d6  | Effect       |
-| --- | ------------ |
-| 1   | *Wake Up* -  |
-| 2   | *Psychite* - |
-| 3   | *Go Juice* - |
-| 4   | *Ambrosia* - |
-| 5   | *Flack* -    |
-| 6   | *Darconi* -  |
+| d6  | Effect                                                                                                                     |
+| --- | -------------------------------------------------------------------------------------------------------------------------- |
+| 1   | *Wake Up* - The creature immediately regains Consciousness if it is Unconscious. Otherwise, it takes 3d10 necrotic damage. |
+| 2   | *Psychite* - The creature immediately makes two Attacks against an adjacent creature.                                      |
+| 3   | *Go Juice* - The creature immediately moves its Speed.                                                                     |
+| 4   | *Ambrosia* - The creature immediately becomes                                                                                                               |
+| 5   | *Flack* - The creature immediately                                                                                                                  |
+| 6   | *Darconi* - The creature immediately                                                                                                                |
 
 ### xx
 At 13th level,
