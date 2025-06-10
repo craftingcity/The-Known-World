@@ -106,7 +106,7 @@ aliases:
 | Masculine | Uniform | Feminine |
 | --------- | ------- | -------- |
 | Edward    | Caris   | Pirre    |
-| Hektor    | Enoch   |          |
+| Hektor    | Enoch   | Joanne   |
 | Abraham   | Raam    |          |
 | Jorrin    | Valerio |          |
 | Marcus    | Roan    |          |
@@ -131,6 +131,7 @@ aliases:
 | Tald        |       |
 | ben Yarom   |       |
 | Avishalom   |       |
+| Nehorai     |       |
 
 # Southwestern (Tetrimocal)
 ## First Names
@@ -196,7 +197,7 @@ Math'hias | Yomi ben Ohav
 Sene ben Simata | Thea ben Avner
 Erez ben Alice | Mertek ben Akorf
 Erez ben Yaroslav | Sar-El ben Haleli
-Joanne ben Nehorai | Tzemach ben Jean
+ | Tzemach ben Jean
 Jaazah | Noam ben Matar
 Colin ben Liyam | Talma ben Doriel
 Li Tal ben Eli Ran | Shirley ben Hadas
