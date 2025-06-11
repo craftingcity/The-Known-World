@@ -76,9 +76,11 @@ A guy that probably should have died was muttering "He said it would give me str
 
 Grom gave us a map he made. Apparently, there was a Garrison by the Tower, but it's missing. 
 
+Carved; "Speak the vows, bind the halves, light the flame". In the book of vows; "From breath to silence I remain by your side."
+
 ## Stats
 
-| L. 3 | XP: 900/900 | Stat  | #         |
+| L. 3 | XP: 950/900 | Stat  | #         |
 | ---- | ----------- | ----- | --------- |
 | STR  | 8  (-1)     | PRF   | +2        |
 | CON  | 13 (+1)     | M. HP | 17 Max HP |
