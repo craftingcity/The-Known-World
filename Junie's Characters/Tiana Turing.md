@@ -58,15 +58,16 @@ Grom was here before you couldn't leave, has been for 27 years. He's the shopkee
 
 The Shoreside Inn of Castaway Cove has been overrun by a number of vermin and varmints.
 
-Grom said 'stuff doesn't stay ded here' since the fog came 18 years ago. 
+We spoke to Grom, who said 
 
-Buckaneer Break / Brandeywine is a 'shady, rough, and tumble' settlement to the North. You'd have to go through the Grung, a group of frogkin, to get there.
-
-Torrin 'got dark' and disappeared 18 years ago, at the same time as the fog came.
+- 'Stuff doesn't stay dead here' since the fog came 18 years ago. 
+- Buckaneer Break / Brandeywine is a 'shady, rough, and tumble' settlement to the North. You'd have to go through the Grung, a group of frogkin, to get there.
+- Torrin 'got dark' and disappeared 18 years ago, at the same time as the fog came.
 
 We're going to clear out the old tavern. We encountered rats.
 
-#### Session 3; 
+#### Session 3; ---
+
 
 ## Stats
 
