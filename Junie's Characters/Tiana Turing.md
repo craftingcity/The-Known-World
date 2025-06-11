@@ -72,7 +72,7 @@ We're going to clear out the old tavern. We encountered rats.
 - [ ] Get a Map from Grom
 - [ ] Gather supplies to bring Compu back
 
-A guy that probably should have died was muttering "He said it would give me strength, it was a gift, he gave me this - you, you shouldn't be here" sitting at a table on the second floor. He pulls out a hand-crossbow and shoots at Kaldrin, and more Rats come to fight. Oh no he's a were-rat.
+A guy that probably should have died was muttering "He said it would give me strength, it was a gift, he gave me this - you, you shouldn't be here" sitting at a table on the second floor. He pulls out a hand-crossbow and shoots at Kaldrin, and more Rats come to fight. Oh no he's a were-rat, but we cornered him and beat his shit. He had a page of a journal on him that said the 'Gift of Skin and Teeth'.
 
 ## Stats
 
