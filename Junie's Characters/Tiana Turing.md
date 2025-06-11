@@ -74,23 +74,25 @@ We're going to clear out the old tavern. We encountered rats.
 
 A guy that probably should have died was muttering "He said it would give me strength, it was a gift, he gave me this - you, you shouldn't be here" sitting at a table on the second floor. He pulls out a hand-crossbow and shoots at Kaldrin, and more Rats come to fight. Oh no he's a were-rat, but we cornered him and beat his shit. He had a page of a journal on him that said the 'Gift of Skin and Teeth', Kaldrin found another peice that says 'Trapped them in the cellar --- stashed the key --- hallway --- compartment --- ***uncontrollable***'. Pick opened a door into a lounge/hall occupied by three skeletons.
 
+Grom gave us a map he made. Apparently, there was a Garrison by the Tower, but it's missing. 
+
 ## Stats
 
-| L. 2 | XP: 500/900 | Stat  | #         |
+| L. 3 | XP: 900/900 | Stat  | #         |
 | ---- | ----------- | ----- | --------- |
 | STR  | 8  (-1)     | PRF   | +2        |
-| CON  | 13 (+1)     | M. HP | 12 Max HP |
+| CON  | 13 (+1)     | M. HP | 17 Max HP |
 | DEX  | 16 (+3)     | AC    | (13)      |
-| INT  | 20 (+5) ^   | C. HP | 12 HP     |
-| WIS  | 14 (+2) ^   | HD    | 2d6       |
+| INT  | 20 (+5) ^   | C. HP | 17 HP     |
+| WIS  | 14 (+2) ^   | HD    | 3d6       |
 | CHA  | 11 (+0)     | SPD   | 25' (5s)  |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| o   | .   | .   | .   | .   | .   | .   | .    | .   |
-| o   | .   | .   | .   | .   | .   | .   |      |     |
+| o   | o   | .   | .   | .   | .   | .   | .    | .   |
+| o   | o   | .   | .   | .   | .   | .   |      |     |
 | o   | .   | .   | .   | .   |     |     |      |     |
-| .   |     |     |     |     |     |     |      |     |
+| o   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
 ##### Skills
@@ -170,6 +172,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 		- 10x Torches
 		- 10x Rations
 		- 1L Leather Waterskin
+		- Small Brass Brazier
 *Groin*:
 	Equipment Belt
 		- Spellbook Holster (Tiana's Grimoire)
