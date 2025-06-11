@@ -117,7 +117,7 @@ Grom gave us a map he made. Apparently, there was a Garrison by the Tower, but i
 	- [Identify](https://dnd5e.wikidot.com/spell:identify)
 	- [Find Familiar](https://dnd5e.wikidot.com/spell:find-familiar)
 
-##### Spellcasting (Prep 7)
+##### Spellcasting (Prep 8)
 - You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
 - Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook.
 	- **Cantrips**;
@@ -130,9 +130,12 @@ Grom gave us a map he made. Apparently, there was a Garrison by the Tower, but i
 		x [Detect Magic](https://dnd5e.wikidot.com/spell:detect-magic)
 		x [Feather Fall](https://dnd5e.wikidot.com/spell:feather-fall)
 		x [Shield](https://dnd5e.wikidot.com/spell:shield)
-		x [Sleep](https://dnd5e.wikidot.com/spell:sleep)
+		o [Sleep](https://dnd5e.wikidot.com/spell:sleep)
 		x [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs)
 		o [Snare](https://dnd5e.wikidot.com/spell:snare)
+	- **2nd Level Spells**;
+		x
+		x
 
 ##### Arcane Recovery
 - Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
@@ -154,7 +157,9 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 
 - 1x *Pot of Healing*; 2d4+2
 - Driftwood Carved Idol
-- 3x Femur
+- 2x Femur
+- 3x 'Incense'
+- 3x 'Charcoal'
 
 *Hands*: 
 	Leather Fingerless Gloves
