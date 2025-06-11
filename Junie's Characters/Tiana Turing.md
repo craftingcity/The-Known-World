@@ -66,11 +66,13 @@ We spoke to Grom, who said
 
 We're going to clear out the old tavern. We encountered rats.
 
-#### Session 3; ---
+#### Session 3; The Shoreside Inn
 ###### Todo;
 - [ ] Clear the upper floors of the Shoreside Inn
 - [ ] Get a Map from Grom
 - [ ] Gather supplies to bring Compu back
+
+A guy that probably should have died was muttering "He said it would give me strength, it was a gift, he gave me this - you, you shouldn't be here" sitting at a table on the second floor. He pulls out a hand-crossbow and shoots at Kaldrin, and more Rats come to fight. Oh no he's a were-rat.
 
 ## Stats
 
