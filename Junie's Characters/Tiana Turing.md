@@ -67,7 +67,10 @@ We spoke to Grom, who said
 We're going to clear out the old tavern. We encountered rats.
 
 #### Session 3; ---
-
+###### Todo;
+- [ ] Clear the upper floors of the Shoreside Inn
+- [ ] Get a Map from Grom
+- [ ] Gather supplies to bring Compu back
 
 ## Stats
 
@@ -145,7 +148,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 #### Equipment
 (25sp)
 
-- 2x *Pot of Healing*; 2d4+2
+- 1x *Pot of Healing*; 2d4+2
 - Driftwood Carved Idol
 
 *Hands*: 
