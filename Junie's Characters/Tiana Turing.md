@@ -152,6 +152,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 
 - 1x *Pot of Healing*; 2d4+2
 - Driftwood Carved Idol
+- 3x Femur
 
 *Hands*: 
 	Leather Fingerless Gloves
