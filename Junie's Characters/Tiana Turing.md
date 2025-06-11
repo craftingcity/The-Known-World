@@ -35,6 +35,7 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 - Pick, the Nervous Fighter
 - Kaldrin, the Sloppy Cleric
 - Isabella, the Snotty Rogue
+
 ###### The Ship
 - Bill, the Cook
 - Dashara, the Quartermaster
@@ -57,7 +58,7 @@ Grom was here before you couldn't leave, has been for 27 years. He's the shopkee
 
 The Shoreside Inn of Castaway Cove has been overrun by a number of vermin and varmints.
 
-Grom said 'stuff doesn't stay dead here' since the fog came 18 years ago. 
+Grom said 'stuff doesn't stay ded here' since the fog came 18 years ago. 
 
 Buckaneer Break / Brandeywine is a 'shady, rough, and tumble' settlement to the North. You'd have to go through the Grung, a group of frogkin, to get there.
 
@@ -65,6 +66,7 @@ Torrin 'got dark' and disappeared 18 years ago, at the same time as the fog came
 
 We're going to clear out the old tavern. We encountered rats.
 
+#### Session 3; 
 
 ## Stats
 
@@ -76,15 +78,6 @@ We're going to clear out the old tavern. We encountered rats.
 | INT  | 20 (+5) ^   | C. HP | 12 HP     |
 | WIS  | 14 (+2) ^   | HD    | 2d6       |
 | CHA  | 11 (+0)     | SPD   | 25' (5s)  |
-
-| Attack/Spell      | Range       | To Hit     | Damage                                      |
-| ----------------- | ----------- | ---------- | ------------------------------------------- |
-| Dagger            | 5' or 30/60 | +5         | 1d4+3 slash                                 |
-| Frostbite     (0) | target 60'  | CON 15     | 1d6 cold + DIS on next Weapon Attack BEOT   |
-| Shield        (I) | self        | -          | +5 AC UBNT                                  |
-| Sleep         (I) | 20'r in 90' | -          | 5d8 sleep                                   |
-| Ice Knife     (I) | target 60'  | +5, DEX 15 | 1d10 pierce + 2d6 cold                      |
-| Chromatic Orb (I) | target 90'  | +5         | 3d8 acid/cold/fire/lightning/poison/thunder |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
