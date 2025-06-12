@@ -171,7 +171,7 @@ Production of a bundle of Spell Smoke Incense costs 2sp, and can be sold for 3-5
 ##### Ashmaker Dust
 	- Earth, Poison
 - 3 parts Ground Tobacco
-- 1 part 
+- 1 part Flesh of Apple Seed
 ##### Nighttime
 	- Earth, Charm
 ### Others
