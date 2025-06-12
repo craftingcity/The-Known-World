@@ -117,19 +117,36 @@ Production of a bundle of Spell Smoke Incense costs 2sp, and can be sold for 3-5
 ##### Firepowder
 ### Consumables
 #### Potions
+##### Potion of Vitality
+	- Healing, Water
+
+
+##### Potion of Healing
+	- Healing, Arcana
+##### Potion of Cure Disease
+	- Healing Disease
 #### Salves
 ##### Scar Balm
-##### Heamoc Balm
+##### Heamox Balm
 #### Medicine
 ##### Isiopara
+	- Healing, Evoke
 ##### Secreclude Propaterol
 ##### Pretokarin
 ##### Ambebamol
 ##### Aerotide
+##### Generalized Antivenom
+	- Healing, Poison
 #### Vices
 ##### Bulbkiss
 ##### Nova
 ##### Dareanamon
+#### Poisons
+##### Traditional Poison
+##### Ashmaker Dust
+	- Earth, Poison
+##### Nighttime
+	- Earth, Charm
 ### Others
 #### Magical Imitation
 ##### Spell Gems

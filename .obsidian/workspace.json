@@ -4,69 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "5a9d093469700881",
-        "type": "split",
+        "id": "edfefddafb55dbc7",
+        "type": "tabs",
         "children": [
           {
-            "id": "387c214b887b8621",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "48d5e2cf95cca214",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Junie's Characters/Tiana Turing.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tiana Turing"
+            "id": "ae5b929f0aaa7e9f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
-              }
-            ]
-          },
-          {
-            "id": "269c617b9b42c410",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bc427bfd93e2a6d9",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Junie's Characters/Tiana Turing.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tiana Turing"
-                }
-              }
-            ]
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Alchemy Processes & Products"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -317,10 +281,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48d5e2cf95cca214",
+  "active": "ae5b929f0aaa7e9f",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Junie's Characters/Tiana Turing.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Custom Class - Alchemist.md",
     "Game Notes/Prenotes/'25/Prenotes May 19 25.md",
     "Game Notes/Prenotes/'25/Prenotes May 14 25.md",
