@@ -120,21 +120,35 @@ Production of a bundle of Spell Smoke Incense costs 2sp, and can be sold for 3-5
 ##### Potion of Vitality
 	- Healing, Water
 **Ingredients**;
-- 2 parts Nectar of Aloe Vera
+- 1 part Boiled Water
+- 2 parts Cannabis / Nectar of Aloe Vera
 - 1 part Blue Polypore
-
-
 
 ##### Potion of Healing
 	- Healing, Arcana
+**Ingredients**;
+- 1 part Boiled Water
+- 2 parts Cannabis / Nectar of Aloe Vera
+- 1 part Powder of Jade
+- 1 part Any Polypore
+
 ##### Potion of Cure Disease
-	- Healing Disease
+	- Healing, Disease
+**Ingredients**;
+- 1 part Boiled Water
+- 2 parts Cannabis / Nectar of Aloe Vera
+- 1 part Diced Onion
+
 #### Salves
 ##### Scar Balm
 ##### Heamox Balm
 #### Medicine
 ##### Isiopara
 	- Healing, Evoke
+**Ingredients**;
+- 2 parts Cannabis
+- 2 parts Nectar of Aloe Vera
+- 1 part Blue Polypore
 ##### Secreclude Propaterol
 ##### Pretokarin
 ##### Ambebamol
