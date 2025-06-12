@@ -119,6 +119,10 @@ Production of a bundle of Spell Smoke Incense costs 2sp, and can be sold for 3-5
 #### Potions
 ##### Potion of Vitality
 	- Healing, Water
+**Ingredients**;
+- 2 parts Nectar of Aloe Vera
+- 1 part Blue Polypore
+
 
 
 ##### Potion of Healing
