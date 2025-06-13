@@ -5,6 +5,22 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md"
     },
     {
+      "basename": "Arthur's Knights",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
+    },
+    {
+      "basename": "The Kingdom of Prosper",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
+    },
+    {
+      "basename": "The Church of the White Flame",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md"
+    },
+    {
+      "basename": "Its Greatness",
+      "path": "Game Notes/NPCs/Absolute Power/Alaturmian God NPCs/Its Greatness.md"
+    },
+    {
       "basename": "Wychway",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Wychway.md"
     },
@@ -117,10 +133,6 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md"
     },
     {
-      "basename": "The Kingdom of Prosper",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
-    },
-    {
       "basename": "Timeline",
       "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Mossburg",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md"
-    },
-    {
-      "basename": "Riphounds",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Riphounds.md"
-    },
-    {
-      "basename": "Baron Cassindil",
-      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md"
-    },
-    {
-      "basename": "Baron Glask",
-      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Glask.md"
     }
   ],
   "omittedPaths": [],

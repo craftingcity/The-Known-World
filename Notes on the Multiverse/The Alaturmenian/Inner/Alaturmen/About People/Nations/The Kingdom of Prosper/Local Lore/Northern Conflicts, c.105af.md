@@ -12,7 +12,7 @@ War comes to the North of Alaturmen, and it brings with it promises of freedom a
 #### 105AF/05/03
 As coordinated by [[Moses the Brave]], the Grand Poo-bah of [[Wychway]], [[Jorrin Bearscarred]], and the Adventurer King, [[Arthur Simonson]], were made to meet sometime before the 3rd of Replowing in the 105th year, in the town of [[Buqyr]]. There, they made formal preparations for the secession  of the Province of Wychway from [[The Church of the White Flame]] to [[The Kingdom of Prosper]].
 
-On the morning of the 3rd, forces from the Delectus Chapter of [[Arthur's Knights]] arrived in [[Wychway]] to find 'absolutely no resistance', as Wychway's standing military had been directed to support the Church's efforts against "heretics" in their northwest.
+On the morning of the 3rd, forces from the Delectus Chapter of [[Arthur's Knights]] arrived in [[Wychway]] to find 'absolutely no resistance', as Wychway's Church-aligned military forces had been directed to support the Church's efforts against "heretics" in their northwest.
 
 ## First Battle of Kohnstamm
 #### 105AF/05/08 - 05/15
@@ -24,16 +24,16 @@ The Arthurian forces attempted to rally and centralize their force, but the Chur
 ## Battle of the Bridge, Wychway
 #### 105AF/05/18 - 05/21
 
-As quickly as the Arthurians struck, so too did the Church strike back. The Church rallied its forces from the north and attempted to surround the city of Wychway as the Arthurian forces recovered. As the Church's army approached, the battle commenced. While supported by the city walls, the Arthurian forces performed poorly in their initial engagement, and began to fall back into the city using the bridge. The Church's forces followed, and as the final Arthurian soldier cleared the bridge, it was immolated, along with all the Church forces on the bridge. 
+As quickly as the Arthurians struck, so too did the Church strike back. The Church rallied its forces from the north and attempted to surround the city of Wychway as the Arthurian forces recovered. As the Church's army approached, the battle commenced. While supported by the city walls, the Arthurian forces performed poorly in their initial engagement, and began to fall back into the city via bridge. The Church's forces followed, and as the final Arthurian soldier cleared the bridge, it was immolated, along with all the Church forces on the bridge. 
 
-As Syr Grain spoke on the event, he said "[the Church's force] kept running after us, and we got them back for their bullshit in Kohnstamm. They all got what they deserved. We hit all the runners, thank the Gods. We cleared all of 'em after too, with their idol-worship undead bullshit."
+As Syr Grain of Wychway's 1st Revolutionary Infantry spoke on the event, he said "[the Church's force] kept running after us, and we got them back for their bullshit in Kohnstamm. They all got what they deserved. We hit all the runners, thank the Gods. We cleared all of 'em after too, with their idol-worship undead bullshit."
 
 ## First Battle for the Centers
 #### 105AF/06/12 - 07/18
 
 After committing time to repairs and rearmament, the Arthurian forces moved from their positions in [[Wychway]] into the [[Central Holyl'nd]], attempting to expand their control of the region. While there were minor victories over the course of many battles, the First Battle for the Centers ended with more lost than gained on either side. The Arthurian forces would fall back into the [[South Littemotto]], where they would regroup, preparing for further conflict.
 
-## Second Battle of Kohnstamm (1)
+## Second Battle of Kohnstamm 
 #### 105AF/07/19 - 07/21
 
 In an honor-driven attempt to reconnoiter [[Kohnstamm]], Chapter Delectus and a group of volunteers split from the larger group returning to [[Wychway]] and are caught out by a section of an oncoming assault force coming from [[Kohnstamm]]. The resulting battle was concise, favoring the Church's forces 10-to-1. The survivors, few as they were, retreated under the command of Chapter Delectus' Knights back into [[Wychway]], and relayed the news of the oncoming assault.
@@ -41,7 +41,9 @@ In an honor-driven attempt to reconnoiter [[Kohnstamm]], Chapter Delectus and a 
 ## Battle of Wychway (11)
 #### 105AF/07/21 - 09/04
 
-With the few hours granted by the now retreating Chapter Delectus, the city of [[Wychway]] is prepared for siege - the outer edges are rushed inward, the citizenry secured within the walls of the Bearscarred Castle, and alchemical reserves are quickly depleted in an effort to force an advantage. The 
+With the few hours granted by the now fleeing Chapter Delectus, the city of [[Wychway]] is prepared for siege - the outer edges are rushed inward, the citizenry secured within the walls of the Bearscarred Castle, and alchemical reserves are quickly depleted in an effort to force an advantage. The 3rd, 4th, and 5th Slave Corps begin the assault, joined by Kohnstamm's 4th Infantry Company and Odaya's 6th Infantry Company only after the Slave Corps face the brunt of the initial defense, and the siege began.
+
+Over the next 33 days, the 4th and 6th Infantry Companies were successfully resupplied and reinforced twice, against the best efforts of 
 
 ## Second Battle for the Centers
 
