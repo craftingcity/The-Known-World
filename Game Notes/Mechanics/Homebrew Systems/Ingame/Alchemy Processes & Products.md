@@ -64,15 +64,7 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 ### Tools
 #### Equipment
 ##### Spell Smoke Incense (Bane, Arcane)
-When set aflame, the Spell Smoke Incense produce a smoke with magical-dissociative properties. Spell Smoke Incense are typically bundled into 8 sticks before they are sold as a set.
-
-*Witchweed* is the typical choice for production of Bane Essence. *Polypore* is the typical choice for production of Arcana Essence. A cup of Essence will coat 8 sticks.
-
-Production of a bundle of Spell Smoke Incense costs 2sp, and can be sold for 3-5sp.
-
 ##### Miner's Savior
-
-
 ##### Alchemical Explosive
 ##### Alchemical Thermite
 ##### Bag of Holding, Grade 3

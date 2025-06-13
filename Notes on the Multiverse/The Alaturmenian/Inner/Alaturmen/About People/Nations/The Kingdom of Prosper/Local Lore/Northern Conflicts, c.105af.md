@@ -39,7 +39,9 @@ After committing time to repairs and rearmament, the Arthurian forces moved from
 In an honor-driven attempt to reconnoiter [[Kohnstamm]], Chapter Delectus and a group of volunteers split from the larger group returning to [[Wychway]] and are caught out by a section of an oncoming assault force coming from [[Kohnstamm]]. The resulting battle was concise, favoring the Church's forces 10-to-1. The survivors, few as they were, retreated under the command of Chapter Delectus' Knights back into [[Wychway]], and relayed the news of the oncoming assault.
 
 ## Battle of Wychway (11)
-#### 105AF/07/27 - 08/
+#### 105AF/07/21 - 09/04
+
+With the few hours granted by the now retreating Chapter Delectus, the city of [[Wychway]] is prepared for siege - the outer edges are rushed inward, the citizenry secured within the walls of the Bearscarred Castle, and alchemical reserves are quickly depleted in an effort to force an advantage. The 
 
 ## Second Battle for the Centers
 

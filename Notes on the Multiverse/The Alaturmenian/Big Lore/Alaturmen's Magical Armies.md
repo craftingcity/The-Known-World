@@ -29,7 +29,7 @@ The traditional aspects of Organization & Logistics apply to a mystical military
 These simple effects allow for a mystical army to act in similarity to an army in our modern world - consistent communication, power-tooled logistics units, and life-saving medicines (or spells).
 
 ### Tactics & Strategy
-In truth, 'Heroes' win wars. A Hero changes the tide of the most important engagement for their choice of victor. A Hero systemically removes key opposition, dismantling an enemy operation by removing it's leaders. Without 'Heroes', war is attritious, and long lasting. Communication and Divination foils operations moments before they become valuable, mystical healing allows soldiers to regain effect only hours after they were disabled, and the composition of the opposing force is predictable, but nearly always uncertain.
+In truth, 'Heroes' win wars. A Hero changes the tide of the most important engagement for their choice of victor. A Hero systemically removes key opposition, dismantling an enemy operation by removing it's leaders. Without 'Heroes', war is brutal, and long lasting. Communication and Divination foils operations moments before they become valuable, mystical healing allows soldiers to regain effect only hours after they were disabled, and the composition of the opposing force is predictable, but nearly always uncertain.
 
 While a 'Hero' is present on the battlefield, the tactics of the opposing force must become irregularly adaptive, or they will falter and eventually fail. 
 
