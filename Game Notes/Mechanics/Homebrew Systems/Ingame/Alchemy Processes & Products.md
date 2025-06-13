@@ -118,14 +118,12 @@ Production of a bundle of Spell Smoke Incense costs 2sp, and can be sold for 3-5
 ### Consumables
 #### Potions
 ##### Potion of Vitality
-	- Healing, Water
 **Ingredients**;
 - 1 part Boiled Water
 - 2 parts Ground Cannabis / Nectar of Aloe Vera
 - 1 part Blue Polypore
 
 ##### Potion of Healing
-	- Healing, Arcana
 **Ingredients**;
 - 1 part Boiled Water
 - 2 parts Ground Cannabis / Nectar of Aloe Vera
@@ -133,7 +131,6 @@ Production of a bundle of Spell Smoke Incense costs 2sp, and can be sold for 3-5
 - 1 part Any Polypore
 
 ##### Potion of Cure Disease
-	- Healing, Disease
 **Ingredients**;
 - 1 part Boiled Water
 - 2 parts Ground Cannabis / Nectar of Aloe Vera
@@ -144,7 +141,6 @@ Production of a bundle of Spell Smoke Incense costs 2sp, and can be sold for 3-5
 ##### Heamox Balm
 #### Medicine
 ##### Isiopara
-	- Healing, Evoke
 **Ingredients**;
 - 2 parts Ground Cannabis / Nectar of Aloe Vera
 - 1 part Powder of Jade
@@ -155,7 +151,6 @@ Production of a bundle of Spell Smoke Incense costs 2sp, and can be sold for 3-5
 ##### Ambebamol
 ##### Aerotide
 ##### Generalized Antivenom
-	- Healing, Poison
 **Ingredients**;
 - 1 part Boiled Water
 - 2 parts Ground Cannabis / Nectar of Aloe Vera
@@ -168,10 +163,16 @@ Production of a bundle of Spell Smoke Incense costs 2sp, and can be sold for 3-5
 ##### Dareanamon
 #### Poisons
 ##### Traditional Poison
-##### Ashmaker Dust
-	- Earth, Poison
-- 3 parts Ground Tobacco
+**Ingredients**;
+- 2 parts Ground Tobacco
 - 1 part Flesh of Apple Seed
+- 1 part Leaf of Nightshade
+
+##### Ashmaker Dust
+**Ingredients**;
+- 2 parts Ground Tobacco
+- 1 part Flesh of Apple Seed
+- 1 part Nectar of Polypore, Yellow
 ##### Nighttime
 	- Earth, Charm
 ### Others
