@@ -5,12 +5,24 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md"
     },
     {
-      "basename": "Arthur's Knights",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
+      "basename": "Noble House a'Haruuc",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Haruuc.md"
+    },
+    {
+      "basename": "Noble Houses of Prosper",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md"
     },
     {
       "basename": "The Kingdom of Prosper",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
+    },
+    {
+      "basename": "KingdomOfProsper-105AF",
+      "path": "MEDIA/MAPS/WORLD/KingdomOfProsper-105AF.png"
+    },
+    {
+      "basename": "Arthur's Knights",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
     },
     {
       "basename": "The Church of the White Flame",
@@ -187,18 +199,6 @@
     {
       "basename": "Prenotes Mar 21 25",
       "path": "Game Notes/Prenotes/'25/Prenotes Mar 21 25.md"
-    },
-    {
-      "basename": "ParaeducatorGame",
-      "path": "Game Notes/Campaign Rosters/ParaeducatorGame.md"
-    },
-    {
-      "basename": "Guilded Mystic Entries",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md"
-    },
-    {
-      "basename": "Mossburg",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md"
     }
   ],
   "omittedPaths": [],

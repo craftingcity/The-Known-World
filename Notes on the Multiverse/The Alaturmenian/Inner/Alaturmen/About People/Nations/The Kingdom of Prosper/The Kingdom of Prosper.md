@@ -27,12 +27,12 @@ The population pay taxes to maintain the cities and kingdom operations, but much
 The citizens of the Kingdom generally are of Human or Goblin descent, or both in a large number of cases, though the Kingdom turns away none who swear fealty to the [[Noble Houses of Prosper]] and [[Arthur Simonson|The Great Adventurer King]].
 
 #### Language
-The common language in Prosper is known as "the [[Arthurian (language)]]" and is based majorly on the lexicon of General Human Language, the first languages spoken by the Humans became to Alaturmen, and the syntax of Ancient Goblin. Much of the complex grammar and "extended" lexicon is also based in Ancient Elven.
+The common language in Prosper is known as "[[Arthurian (language)]]" and is based majorly on the lexicon of General Human Language, the first languages spoken by the Humans became to Alaturmen, and the syntax of Ancient Goblin. Much of the complex grammar and "extended" lexicon is also based in Ancient Elven.
 
 #### Beliefs
-Citizens of Prosper are culturally bonded by the [[Unification]] and their genuine love for the genuinely good [[Arthur Simonson|King Of Prosper]]. 
+Citizens of Prosper are culturally bonded by the [[Unification]] and their reverence for the genuinely good [[Arthur Simonson|King Of Prosper]]. 
 
-Most people are educated, and understand why they pay taxes and are protected by a standing military. People have no reason to fear Arthur's Knights or Truth-collectors – so long as they do not lie.
+Most people are educated, and understand why they pay taxes and are protected by a standing military. People have no reason to fear [[Arthur's Knights]] or Truth-collectors, as they do not lie.
 
 The above provide the people a sense of general community and honesty, which generally leads to people loving their neighbors and accepting their strangers.
 
@@ -41,7 +41,7 @@ People attend temples of the Gods of Emotion when they wish to gain their favor,
 #### Economics
 Citizens of Prosper persist on stretched foods by cultural choice. Hearty grain and vegetables grow well in this area, though fruit does not. Wood and meat is abundant in this area. Much of the more expensive items are imported spices and metals.
 
-Merchants are dishonorable crooks in the eye of the common people, but through the support of the people of means in the area, merchants import and export products west, south-west, and south.
+Merchants are dishonorable crooks in the eye of the common people, but through the support of the people of means in the area, merchants import and export products of the Kingdom outward.
 
 See also [[Economics of Prosper]].
 
