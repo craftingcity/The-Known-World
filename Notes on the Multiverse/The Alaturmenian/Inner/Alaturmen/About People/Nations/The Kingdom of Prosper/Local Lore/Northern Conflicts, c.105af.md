@@ -46,7 +46,7 @@ With the few hours granted by the now fleeing Chapter Delectus, the city of [[Wy
 Over the next 33 days, the 4th and 6th Infantry Companies were successfully resupplied and reinforced twice, against the best efforts of the forces of [[Wychway]]. The siege would come to be broken by the Chapter Proprius, as they and the Arthurian 22nd Volunteer Company reinforced the 1st Revolutionary Infantry and repelled the invaders.
 
 ## Second Battle for the Centers
-#### 105/08/04 - 
+#### 105/08/05 - 
 
 ## Winter Still
 
