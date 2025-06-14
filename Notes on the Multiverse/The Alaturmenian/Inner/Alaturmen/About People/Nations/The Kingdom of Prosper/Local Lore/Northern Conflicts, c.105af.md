@@ -38,18 +38,21 @@ After committing time to repairs and rearmament, the Arthurian forces moved from
 
 In an honor-driven attempt to reconnoiter [[Kohnstamm]], Chapter Delectus and a group of volunteers split from the larger group returning to [[Wychway]] and are caught out by a section of an oncoming assault force coming from [[Kohnstamm]]. The resulting battle was concise, favoring the Church's forces 10-to-1. The survivors, few as they were, retreated under the command of Chapter Delectus' Knights back into [[Wychway]], and relayed the news of the oncoming assault.
 
-## Battle of Wychway (11)
+## Battle of Wychway
 #### 105AF/07/21 - 09/04
 
 With the few hours granted by the now fleeing Chapter Delectus, the city of [[Wychway]] is prepared for siege - the outer edges are rushed inward, the citizenry secured within the walls of the Bearscarred Castle, and alchemical reserves are quickly depleted in an effort to force an advantage. The 3rd, 4th, and 5th Slave Corps begin the assault, joined by Kohnstamm's 4th Infantry Company and Odaya's 6th Infantry Company only after the Slave Corps face the brunt of the initial defense, and the siege began.
 
 Over the next 33 days, the 4th and 6th Infantry Companies were successfully resupplied and reinforced twice, against the best efforts of the forces of [[Wychway]]. The siege would come to be broken by the Chapter Proprius, as they and the Arthurian 22nd Volunteer Company reinforced the 1st Revolutionary Infantry and repelled the invaders.
 
-## Second Battle for the Centers
+## Second Battle for the Centers (6)
 #### 105/08/05 - 
+
+Chapter Rectio leads the Arthurian forces into the Second Battle for the Centers in the Autumn, with the tactical aim of crippling the Church's harvest-stores
 
 ## Winter Still
 
+```
 ## Battle of Odaya
 #### 106AF/01/13 - 02/03
 
@@ -65,4 +68,5 @@ Over the next 33 days, the 4th and 6th Infantry Companies were successfully resu
 ## The Naval Invasion of the Actstow Hills
 
 ## The Battle of Faithroad
+```
 
