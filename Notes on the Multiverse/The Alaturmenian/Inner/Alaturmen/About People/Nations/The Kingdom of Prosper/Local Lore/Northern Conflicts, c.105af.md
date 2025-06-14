@@ -43,7 +43,7 @@ In an honor-driven attempt to reconnoiter [[Kohnstamm]], Chapter Delectus and a 
 
 With the few hours granted by the now fleeing Chapter Delectus, the city of [[Wychway]] is prepared for siege - the outer edges are rushed inward, the citizenry secured within the walls of the Bearscarred Castle, and alchemical reserves are quickly depleted in an effort to force an advantage. The 3rd, 4th, and 5th Slave Corps begin the assault, joined by Kohnstamm's 4th Infantry Company and Odaya's 6th Infantry Company only after the Slave Corps face the brunt of the initial defense, and the siege began.
 
-Over the next 33 days, the 4th and 6th Infantry Companies were successfully resupplied and reinforced twice, against the best efforts of the forces of [[Wychway]]. The siege was 
+Over the next 33 days, the 4th and 6th Infantry Companies were successfully resupplied and reinforced twice, against the best efforts of the forces of [[Wychway]]. The siege would come to be broken as a result 
 
 ## Second Battle for the Centers
 
