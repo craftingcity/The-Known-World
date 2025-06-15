@@ -50,7 +50,7 @@ With significant loss, the city of Wychway remains, only bolstered in fervor aga
 ## Second Battle for the Centers
 #### 105/08/05 - 
 
-Chapter Rectio leads the Arthurian forces into the Second Battle for the Centers in the Autumn, with the tactical aim of crippling the Church's harvest-stores before the Winter comes to slow the war. Accompanying the Chapter Rectio were the 23rd and 24th Volunteer Companies and the Cenvan 3rd Ranger Company
+Chapter Rectio leads the Arthurian forces into the Second Battle for the Centers in the Autumn, with the tactical aim of crippling the Church's harvest-stores before the Winter comes to slow the war. Accompanying the Chapter Rectio were the 23rd, 24th, and 25th Volunteer Companies and the Cenvan 3rd Ranger Company. 
 
 ## Winter Still
 
