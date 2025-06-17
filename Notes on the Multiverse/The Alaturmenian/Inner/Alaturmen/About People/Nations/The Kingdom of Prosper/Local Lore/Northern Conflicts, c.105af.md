@@ -62,7 +62,7 @@ The Arthurian forces were tasked with a second invasion of the [[Central Holyl'n
 During the long and attritious [[#Second Battle for the Centers]], Cenva Minyo would send their 1st and 4th Ranger Companies into the city of [[Odaya]]. Being largely undefended, the Cenvan Rangers found little resistance to their assault. The attack left [[Odaya]] and its surrounding townships severely damaged, and the 1st and 4th to regroup with the 3rd Ranger Company to their south and support the ongoing efforts there.
 
 ## The Black Battle of Kanielkiln
-#### 106/02/10 - 
+#### 106/02/10 - cur
 
 As the [[#Second Battle for the Centers]] continues, the Arthurians stand strong in their position even as they face heavy losses against the Church forces, the 1st Auxiliary Corps in particular. As Arthurian reinforcements arrive in the form of the 1st and 4th Ranger Companies, the 22nd Volunteer Company, and the Chapter Proprius, the tide of battle turned favorable. With the Arthurian positions intact, the Church forces of the 1st and 2nd Infantry Corps, as well as the 1st Augmented Corps, would retreat into [[The Holy City of Kanielkiln]].
 
@@ -70,7 +70,10 @@ After a reorganization, the Arthurian forces would begin an assault on Kanielkil
 
 While the initial assault proved fruitful, as the Arthurians quickly breached the eastern wall, progress became terribly slow. Through no fault of the Arthurians, they continued to face losses against the 1st and 4th Infantry Corps, and, again, significantly so against the 1st Auxiliary Corps.
 
-Forced to retreat, the survivors of the 1st, the 3rd, and the 4th Ranger Companies, and of the Chapters Proprius and Rectio would return to 
+Forced to retreat, the survivors of the 1st, the 3rd, and the 4th Ranger Companies, and of the Chapters Proprius and Rectio would return to [[Lavas]], having become the functional Headquarters of the fielded forces, and lie in a painful combination of waiting for allied support and fighting savage skirmishes, desperate to hold this advantage for their Kingdom.
+
+## The First Battle on the Firelight Sea
+#### 106/04/xx - 
 
 ```
 ## Battle of Odaya
