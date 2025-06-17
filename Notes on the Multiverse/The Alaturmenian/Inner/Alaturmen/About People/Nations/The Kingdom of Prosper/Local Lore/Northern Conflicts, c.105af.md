@@ -54,9 +54,7 @@ Chapter Rectio leads the Arthurian forces into the Second Battle for the Centers
 
 The Arthurian forces were tasked with a second invasion of the [[Central Holyl'nd]], with a direct focus on the capture of [[Tanniweh]], [[Lavas]], and [[Momiyach]] for their positional value. Utilizing the Cenvan 3rd Rangers as their forward scouts, Chapter Rectio would take all three towns in quick succession, posting the 23rd, 24th, and 25th in garrison at each town. 
 
-[[The Church of the White Flame]] would respond forcefully, 
-
-## Winter Still
+[[The Church of the White Flame]] would respond forcefully, calling the 1st, 2nd, and 5th Infantry Corps into response, with support from the 6th Slave Corps and eventually, the 1st Augmented Corps. The coming battles would last into the Winter, when the fighting would slow, but not cease.
 
 ```
 ## Battle of Odaya
