@@ -45,14 +45,16 @@ With the few hours granted by the now fleeing Chapter Delectus, the city of [[Wy
 
 Over the next 33 days, the 4th and 6th Infantry Companies were successfully resupplied and reinforced twice, against the best efforts of the forces of [[Wychway]]. The siege would come to be broken by the Chapter Proprius, as they and the Arthurian's 22nd Volunteer Company reinforced the 1st Revolutionary Infantry and repelled the invaders.
 
-With significant loss, the city of Wychway remains, only bolstered in fervor against [[The Church of the White Flame]].
+With significant loss, the city of Wychway remains, bolstered in fervor against [[The Church of the White Flame]].
 
 ## Second Battle for the Centers
 #### 105/08/05 - 
 
 Chapter Rectio leads the Arthurian forces into the Second Battle for the Centers in the Autumn, with the tactical aim of crippling the Church's harvest-stores before the Winter comes to slow the war. Accompanying the Chapter Rectio were the 23rd, 24th, and 25th Volunteer Companies and the Cenvan 3rd Ranger Company.
 
-The Arthurian forces were tasked with a second invasion of the [[Central Holyl'nd]], with a direct focus on the capture of [[Tanniweh]], [[Lavas]], and [[Momiyach]] for their positional value. Utilizing the Cenvan 3rd Rangers as their forward scouts, Chapter Rectio would take all three towns in quick succession, garrisoning the 23rd, 24th, and 25th at one of each of the towns.
+The Arthurian forces were tasked with a second invasion of the [[Central Holyl'nd]], with a direct focus on the capture of [[Tanniweh]], [[Lavas]], and [[Momiyach]] for their positional value. Utilizing the Cenvan 3rd Rangers as their forward scouts, Chapter Rectio would take all three towns in quick succession, posting the 23rd, 24th, and 25th in garrison at each town. 
+
+[[The Church of the White Flame]] would respond forcefully, 
 
 ## Winter Still
 
