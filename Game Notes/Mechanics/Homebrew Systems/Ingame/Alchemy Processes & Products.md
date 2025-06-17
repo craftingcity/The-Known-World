@@ -166,7 +166,7 @@ Resolve the Poisoned Condition, and you gain Resistance to Poison damage for the
 ##### Dareanamon
 #### Poisons
 ##### Traditional Poison
-Traditional Poison 
+Traditional Poison deals up to 3d6 poison damage when ingested. You may apply 1d6 of the Poison to a weapon as a bonus action.
 
 **Ingredients**;
 - 2 parts Ground Tobacco
@@ -174,6 +174,8 @@ Traditional Poison
 - 1 part Leaf of Nightshade
 
 ##### Ashmaker Dust
+Ashmaker Dust deals 5d4 fire damage when ingested.
+
 **Ingredients**;
 - 2 parts Ground Tobacco
 - 1 part Flesh of Apple Seed
