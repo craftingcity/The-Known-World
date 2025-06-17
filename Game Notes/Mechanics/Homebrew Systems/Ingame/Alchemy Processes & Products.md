@@ -110,12 +110,16 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 ### Consumables
 #### Potions
 ##### Potion of Vitality
+Grant (2d4+2 x Grade) Temporary Hitpoints.
+
 **Ingredients**;
 - 1 part Boiled Water
 - 2 parts Ground Cannabis / Nectar of Aloe Vera
 - 1 part Blue Polypore
 
 ##### Potion of Healing
+Restore (2d4+2 x Grade) Hitpoints.
+
 **Ingredients**;
 - 1 part Boiled Water
 - 2 parts Ground Cannabis / Nectar of Aloe Vera
@@ -123,6 +127,8 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 - 1 part Any Polypore
 
 ##### Potion of Cure Disease
+Resolve one Condition you are under.
+
 **Ingredients**;
 - 1 part Boiled Water
 - 2 parts Ground Cannabis / Nectar of Aloe Vera
@@ -133,6 +139,9 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 ##### Heamox Balm
 #### Medicine
 ##### Isiopara
+
+Restore 3d4+10 Hitpoints now, and at the beginning of your next (Grade - 1) turns. 
+
 **Ingredients**;
 - 2 parts Ground Cannabis / Nectar of Aloe Vera
 - 1 part Powder of Jade
@@ -143,6 +152,8 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 ##### Ambebamol
 ##### Aerotide
 ##### Generalized Antivenom
+Resolve the Poisoned Condition, and you gain Resistance to Poison damage for the next minute.
+
 **Ingredients**;
 - 1 part Boiled Water
 - 2 parts Ground Cannabis / Nectar of Aloe Vera
@@ -155,6 +166,8 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 ##### Dareanamon
 #### Poisons
 ##### Traditional Poison
+Traditional Poison 
+
 **Ingredients**;
 - 2 parts Ground Tobacco
 - 1 part Flesh of Apple Seed
