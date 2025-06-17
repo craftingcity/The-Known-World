@@ -68,7 +68,7 @@ As the [[#Second Battle for the Centers]] continues, the Arthurians stand strong
 
 After a reorganization, the Arthurian forces would begin an assault on Kanielkiln; the Cenvan Ranger Companies would be tasked with the encirclement of the city as the Knights and the Infantry would assault the eastern entrance of the city. 
 
-
+While the initial assault proved fruitful, as the Arthurians quickly breached the eastern wall, progress became terribly slow. Through no fault of the Arthurians, they continued to face significant losses. As these losses continued, the thought that
 
 ```
 ## Battle of Odaya
