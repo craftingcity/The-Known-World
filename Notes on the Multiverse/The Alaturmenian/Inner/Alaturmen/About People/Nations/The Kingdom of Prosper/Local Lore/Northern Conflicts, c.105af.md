@@ -64,7 +64,11 @@ During the long and attritious [[#Second Battle for the Centers]], Cenva Minyo w
 ## The Black Battle of Kanielkiln
 #### 106/02/10 - 
 
-As the [[#Second Battle for the Centers]] continues, the Arthurians stand strong in their position
+As the [[#Second Battle for the Centers]] continues, the Arthurians stand strong in their position even as they face heavy losses against the Church forces, the 1st Auxiliary Corps in particular. As Arthurian reinforcements arrive in the form of the 1st and 4th Ranger Companies, the 22nd Volunteer Company, and the Chapter Proprius, the tide of battle turned favorable. With the Arthurian positions intact, the Church forces of the 1st and 2nd Infantry Corps, as well as the 1st Augmented Corps, would retreat into [[The Holy City of Kanielkiln]].
+
+After a reorganization, the Arthurian forces would begin an assault on Kanielkiln; the Cenvan Ranger Companies would be tasked with the encirclement of the city as the Knights and the Infantry would assault the eastern entrance of the city. 
+
+
 
 ```
 ## Battle of Odaya
