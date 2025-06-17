@@ -48,13 +48,23 @@ Over the next 33 days, the 4th and 6th Infantry Companies were successfully resu
 With significant loss, the city of Wychway remains, bolstered in fervor against [[The Church of the White Flame]].
 
 ## Second Battle for the Centers
-#### 105/08/05 - 
+#### 105/08/05 - 106/02/10
 
 Chapter Rectio leads the Arthurian forces into the Second Battle for the Centers in the Autumn, with the tactical aim of crippling the Church's harvest-stores before the Winter comes to slow the war. Accompanying the Chapter Rectio were the 23rd, 24th, and 25th Volunteer Companies and the Cenvan 3rd Ranger Company.
 
-The Arthurian forces were tasked with a second invasion of the [[Central Holyl'nd]], with a direct focus on the capture of [[Tanniweh]], [[Lavas]], and [[Momiyach]] for their positional value. Utilizing the Cenvan 3rd Rangers as their forward scouts, Chapter Rectio would take all three towns in quick succession, posting the 23rd, 24th, and 25th in garrison at each town. 
+The Arthurian forces were tasked with a second invasion of the [[Central Holyl'nd]], with a direct focus on the capture of [[Tanniweh]], [[Lavas]], and [[Momiyach]] for their positional value. Utilizing the Cenvan 3rd as forward scouts, Chapter Rectio would take all three towns in quick succession, posting the 23rd, 24th, and 25th in garrison at each town. 
 
 [[The Church of the White Flame]] would respond forcefully, calling the 1st, 2nd, and 5th Infantry Corps into response, with support from the 6th Slave Corps and eventually, the 1st Augmented Corps. The coming battles would last into the Winter, when the fighting would slow, but not cease.
+
+## Immolation of Odaya
+#### 106/02/02 - 02/08
+
+During the long and attritious [[#Second Battle for the Centers]], Cenva Minyo would send their 1st and 4th Ranger Companies into the city of [[Odaya]]. Being largely undefended, the Cenvan Rangers found little resistance to their assault. The attack left [[Odaya]] and its surrounding townships severely damaged, and the 1st and 4th to regroup with the 3rd Ranger Company to their south and support the ongoing efforts there.
+
+## The Black Battle of Kanielkiln
+#### 106/02/10 - 
+
+As the [[#Second Battle for the Centers]] continues, the Arthurians stand strong in their position
 
 ```
 ## Battle of Odaya
