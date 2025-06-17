@@ -68,7 +68,9 @@ As the [[#Second Battle for the Centers]] continues, the Arthurians stand strong
 
 After a reorganization, the Arthurian forces would begin an assault on Kanielkiln; the Cenvan Ranger Companies would be tasked with the encirclement of the city as the Knights and the Infantry would assault the eastern entrance of the city. 
 
-While the initial assault proved fruitful, as the Arthurians quickly breached the eastern wall, progress became terribly slow. Through no fault of the Arthurians, they continued to face significant losses. As these losses continued, the thought that
+While the initial assault proved fruitful, as the Arthurians quickly breached the eastern wall, progress became terribly slow. Through no fault of the Arthurians, they continued to face losses against the 1st and 4th Infantry Corps, and, again, significantly so against the 1st Auxiliary Corps.
+
+Forced to retreat, the survivors of the 1st, the 3rd, and the 4th Ranger Companies, and of the Chapters Proprius and Rectio would return to 
 
 ```
 ## Battle of Odaya
