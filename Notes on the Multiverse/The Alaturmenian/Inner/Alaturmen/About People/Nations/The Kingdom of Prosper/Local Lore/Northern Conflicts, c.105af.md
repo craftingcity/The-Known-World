@@ -50,7 +50,9 @@ With significant loss, the city of Wychway remains, only bolstered in fervor aga
 ## Second Battle for the Centers
 #### 105/08/05 - 
 
-Chapter Rectio leads the Arthurian forces into the Second Battle for the Centers in the Autumn, with the tactical aim of crippling the Church's harvest-stores before the Winter comes to slow the war. Accompanying the Chapter Rectio were the 23rd, 24th, and 25th Volunteer Companies and the Cenvan 3rd Ranger Company. 
+Chapter Rectio leads the Arthurian forces into the Second Battle for the Centers in the Autumn, with the tactical aim of crippling the Church's harvest-stores before the Winter comes to slow the war. Accompanying the Chapter Rectio were the 23rd, 24th, and 25th Volunteer Companies and the Cenvan 3rd Ranger Company.
+
+The Arthurian forces were tasked with a second invasion of the [[Central Holyl'nd]], with a direct focus on the capture of [[Tanniweh]], [[Lavas]], and [[Momiyach]] for their positional value. Utilizing the Cenvan 3rd Rangers as their forward scouts, Chapter Rectio would take all three towns in quick succession, garrisoning the 23rd, 24th, and 25th at one of each of the towns.
 
 ## Winter Still
 
