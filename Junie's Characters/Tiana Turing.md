@@ -68,15 +68,23 @@ We're going to clear out the old tavern. We encountered rats.
 
 #### Session 3; The Shoreside Inn
 ###### Todo;
-- [ ] Clear the upper floors of the Shoreside Inn
-- [ ] Get a Map from Grom
-- [ ] Gather supplies to bring Compu back
+- [  ] Clear the upper floors of the Shoreside Inn
+- [  ] Get a Map from Grom
+- [ x ] Gather supplies to bring Compu back
 
 A guy that probably should have died was muttering "He said it would give me strength, it was a gift, he gave me this - you, you shouldn't be here" sitting at a table on the second floor. He pulls out a hand-crossbow and shoots at Kaldrin, and more Rats come to fight. Oh no he's a were-rat, but we cornered him and beat his shit. He had a page of a journal on him that said the 'Gift of Skin and Teeth', Kaldrin found another peice that says 'Trapped them in the cellar --- stashed the key --- hallway --- compartment --- ***uncontrollable***.' Pick opened a door into a lounge/hall occupied by three skeletons.
 
 Grom gave us a map he made. Apparently, there was a Garrison by the Tower, but it's missing. 
 
 Carved; "Speak the vows, bind the halves, light the flame". In the book of vows; "From breath to silence I remain by your side." Pick was reading from the book, so I had to yell at her - I feel bad for yelling, but I think it was the right thing to do.
+
+#### Session 4; The Shoreside Inn (cont.)
+###### Todo;
+- [  ] Clear the upper floors of the Shoreside Inn
+- [  ] Get a Map from Grom
+- [ x ] Gather supplies to bring Compu back
+
+This Torin guy got fucking cursed or something by this stuff 
 
 ## Stats
 
@@ -92,7 +100,7 @@ Carved; "Speak the vows, bind the halves, light the flame". In the book of vows;
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | x   | o   | .   | .   | .   | .   | .   | .    | .   |
-| o   | o   | .   | .   | .   | .   | .   |      |     |
+| x   | o   | .   | .   | .   | .   | .   |      |     |
 | o   | .   | .   | .   | .   |     |     |      |     |
 | o   |     |     |     |     |     |     |      |     |
 
@@ -157,7 +165,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 	- When you cast a wizard spell with a spell slot, you can temporarily replace its damage type with a type that appears in another spell in your spellbook. The latter spell must be of the same level as the spell slot you expend.
 	- When you cast a wizard spell as a ritual, you can use the spell's normal casting time, rather than adding 10 minutes to it. Once you use this benefit, you can't do so again until you finish a long rest.
 
-#### Equipment
+#### Equipment (0/3 Attuned)
 (25sp)
 
 - 1x *Pot of Healing*; 2d4+2
