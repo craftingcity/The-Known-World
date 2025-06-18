@@ -84,7 +84,7 @@ Carved; "Speak the vows, bind the halves, light the flame". In the book of vows;
 - [  ] Figure out what happened to Torrin
 	- Bring Grom over to ID bodies?
 
-This Torin guy got fucking cursed or something by this stuff - something about "the Hollow Man".
+This Torin guy got fucking cursed or something by this stuff - something about "the Hollow Man". Oh we found him, he's a big zombie without bones and he's so stinky I'm thinking something like a Gas Mask would be a good find.
 
 ## Stats
 
@@ -93,7 +93,7 @@ This Torin guy got fucking cursed or something by this stuff - something about "
 | STR  | 8  (-1)       | PRF   | +2        |
 | CON  | 13 (+1)       | M. HP | 17 Max HP |
 | DEX  | 16 (+3)       | AC    | (13)      |
-| INT  | 20 (+5) ^     | C. HP | 13 HP     |
+| INT  | 20 (+5) ^     | C. HP | 8 HP      |
 | WIS  | 14 (+2) ^     | HD    | 3d6       |
 | CHA  | 11 (+0)       | SPD   | 25' (5s)  |
 
@@ -105,7 +105,7 @@ Conditions: (Winded)
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | x   | o   | .   | .   | .   | .   | .   | .    | .   |
 | x   | o   | .   | .   | .   | .   | .   |      |     |
-| o   | .   | .   | .   | .   |     |     |      |     |
+| x   | .   | .   | .   | .   |     |     |      |     |
 | o   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
