@@ -97,16 +97,13 @@ This Torin guy got fucking cursed or something by this stuff - something about "
 | WIS  | 14 (+2) ^     | HD    | 3d6       |
 | CHA  | 11 (+0)       | SPD   | 25' (5s)  |
 
-Conditions: (Winded)
-	- DIS on ATTK, DEX Save
-	- Cannot Dash
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | x   | o   | .   | .   | .   | .   | .   | .    | .   |
 | x   | o   | .   | .   | .   | .   | .   |      |     |
 | x   | .   | .   | .   | .   |     |     |      |     |
-| o   |     |     |     |     |     |     |      |     |
+| x   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
 ##### Skills
