@@ -89,14 +89,14 @@ This Torin guy got fucking cursed or something by this stuff - something about "
 
 ## Stats
 
-| L. 3 | XP: 1,670/2,700 |       |           |
-| ---- | --------------- | ----- | --------- |
-| STR  | 8  (-1)         | PRF   | +2        |
-| CON  | 13 (+1)         | M. HP | 17 Max HP |
-| DEX  | 16 (+3)         | AC    | (13)      |
-| INT  | 20 (+5) ^       | C. HP | 8 HP      |
-| WIS  | 14 (+2) ^       | HD    | 3d6       |
-| CHA  | 11 (+0)         | SPD   | 25' (5s)  |
+| L. 3 | XP: 1,670 | /2,700 |           |
+| ---- | --------- | ------ | --------- |
+| STR  | 8  (-1)   | PRF    | +2        |
+| CON  | 13 (+1)   | M. HP  | 17 Max HP |
+| DEX  | 16 (+3)   | AC     | (13)      |
+| INT  | 20 (+5) ^ | C. HP  | 8 HP      |
+| WIS  | 14 (+2) ^ | HD     | 3d6       |
+| CHA  | 11 (+0)   | SPD    | 25' (5s)  |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
