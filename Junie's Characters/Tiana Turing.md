@@ -85,13 +85,13 @@ Carved; "Speak the vows, bind the halves, light the flame". In the book of vows;
 | STR  | 8  (-1)       | PRF   | +2        |
 | CON  | 13 (+1)       | M. HP | 17 Max HP |
 | DEX  | 16 (+3)       | AC    | (13)      |
-| INT  | 20 (+5) ^     | C. HP | 17 HP     |
+| INT  | 20 (+5) ^     | C. HP | 13 HP     |
 | WIS  | 14 (+2) ^     | HD    | 3d6       |
 | CHA  | 11 (+0)       | SPD   | 25' (5s)  |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| o   | o   | .   | .   | .   | .   | .   | .    | .   |
+| x   | o   | .   | .   | .   | .   | .   | .    | .   |
 | o   | o   | .   | .   | .   | .   | .   |      |     |
 | o   | .   | .   | .   | .   |     |     |      |     |
 | o   |     |     |     |     |     |     |      |     |
@@ -122,6 +122,9 @@ Carved; "Speak the vows, bind the halves, light the flame". In the book of vows;
 ##### Spellcasting (Prep 8)
 - You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
 - Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook.
+
+###### Tiana's Grimoire
+.
 	- **Cantrips**;
 		- [Frostbite](https://dnd5e.wikidot.com/spell:frostbite)
 		- [Mage Hand](https://dnd5e.wikidot.com/spell:mage-hand)
@@ -184,7 +187,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 		- Small Brass Brazier
 *Groin*:
 	Equipment Belt
-		- Spellbook Holster (Tiana's Grimoire, [[#Coin of Aurelian Silence]])
+		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]])
 		- Sheath (Dagger)
 *Legs*:
 	Canvas Cloak
@@ -194,8 +197,9 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 
 ###### Coin of Aurelian Silence
 - *Requires Attunment*
-- While you are Attuned, the Coin can be used as a +1 Arcane Focus.
+- While you are Attuned, the Coin can be used as a Arcane Focus.
+- While you are Attuned, the Coin grants +1 to Arcana Skill Checks.
 - While you are Attuned, you may store a 1st Level Wizard Spell in the Coin.
-- While you are Attuned, once per long rest, before you cast a spell;
+- While you are Attuned, once per long rest, before you cast a spell (0/10);
 	- *(Heads)* Gain Advantage on an Attack Roll made for the spell, or impose Disadvantage on a Saving Throw made for the spell.
 	- *(Tails)* Regain the lowest level spell slot expended to cast the spell.
