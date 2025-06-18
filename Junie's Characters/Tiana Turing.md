@@ -84,8 +84,10 @@ Carved; "Speak the vows, bind the halves, light the flame". In the book of vows;
 - [  ] Figure out what happened to Torrin
 	- Bring Grom over to ID bodies?
 - [  ] Scan the Shoreside Inn with Detect Magic
+- [  ] Figure out what kind of Zombies these are?
 
 This Torin guy got fucking cursed or something by this stuff - something about "the Hollow Man". Oh we found him, he's a big zombie without bones and he's so stinky I'm thinking something like a Gas Mask would be a good find. We need to go through everything with Detect Magic and stuff, but I think we're clear - double check the very top floor for hostiles.
+
 
 ## Stats
 
