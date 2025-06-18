@@ -72,11 +72,11 @@ We're going to clear out the old tavern. We encountered rats.
 - [ ] Get a Map from Grom
 - [ ] Gather supplies to bring Compu back
 
-A guy that probably should have died was muttering "He said it would give me strength, it was a gift, he gave me this - you, you shouldn't be here" sitting at a table on the second floor. He pulls out a hand-crossbow and shoots at Kaldrin, and more Rats come to fight. Oh no he's a were-rat, but we cornered him and beat his shit. He had a page of a journal on him that said the 'Gift of Skin and Teeth', Kaldrin found another peice that says 'Trapped them in the cellar --- stashed the key --- hallway --- compartment --- ***uncontrollable***'. Pick opened a door into a lounge/hall occupied by three skeletons.
+A guy that probably should have died was muttering "He said it would give me strength, it was a gift, he gave me this - you, you shouldn't be here" sitting at a table on the second floor. He pulls out a hand-crossbow and shoots at Kaldrin, and more Rats come to fight. Oh no he's a were-rat, but we cornered him and beat his shit. He had a page of a journal on him that said the 'Gift of Skin and Teeth', Kaldrin found another peice that says 'Trapped them in the cellar --- stashed the key --- hallway --- compartment --- ***uncontrollable***.' Pick opened a door into a lounge/hall occupied by three skeletons.
 
 Grom gave us a map he made. Apparently, there was a Garrison by the Tower, but it's missing. 
 
-Carved; "Speak the vows, bind the halves, light the flame". In the book of vows; "From breath to silence I remain by your side."
+Carved; "Speak the vows, bind the halves, light the flame". In the book of vows; "From breath to silence I remain by your side." Pick was reading from the book, so I had to yell at her - I feel bad for yelling, but I think it was the right thing to do.
 
 ## Stats
 
@@ -162,6 +162,8 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 - 2x Femur
 - 3x 'Incense'
 - 3x 'Charcoal'
+- Scroll of Remove Curse
+- Cold Iron Rat-Spiral Engraved Key
 
 *Hands*: 
 	Leather Fingerless Gloves
