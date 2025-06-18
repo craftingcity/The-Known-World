@@ -83,24 +83,24 @@ Carved; "Speak the vows, bind the halves, light the flame". In the book of vows;
 - [  ] Clear the upper floors of the Shoreside Inn
 - [  ] Figure out what happened to Torrin
 	- Bring Grom over to ID bodies?
+- [  ] Scan the Shoreside Inn with Detect Magic
 
-This Torin guy got fucking cursed or something by this stuff - something about "the Hollow Man". Oh we found him, he's a big zombie without bones and he's so stinky I'm thinking something like a Gas Mask would be a good find.
+This Torin guy got fucking cursed or something by this stuff - something about "the Hollow Man". Oh we found him, he's a big zombie without bones and he's so stinky I'm thinking something like a Gas Mask would be a good find. We need to go through everything with Detect Magic and stuff, but I think we're clear - double check the very top floor for hostiles.
 
 ## Stats
 
-| L. 3 | XP: 950/2,700 |       |           |
-| ---- | ------------- | ----- | --------- |
-| STR  | 8  (-1)       | PRF   | +2        |
-| CON  | 13 (+1)       | M. HP | 17 Max HP |
-| DEX  | 16 (+3)       | AC    | (13)      |
-| INT  | 20 (+5) ^     | C. HP | 8 HP      |
-| WIS  | 14 (+2) ^     | HD    | 3d6       |
-| CHA  | 11 (+0)       | SPD   | 25' (5s)  |
-
+| L. 3 | XP: 1,670/2,700 |       |           |
+| ---- | --------------- | ----- | --------- |
+| STR  | 8  (-1)         | PRF   | +2        |
+| CON  | 13 (+1)         | M. HP | 17 Max HP |
+| DEX  | 16 (+3)         | AC    | (13)      |
+| INT  | 20 (+5) ^       | C. HP | 8 HP      |
+| WIS  | 14 (+2) ^       | HD    | 3d6       |
+| CHA  | 11 (+0)         | SPD   | 25' (5s)  |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| x   | o   | .   | .   | .   | .   | .   | .    | .   |
+| x   | x   | .   | .   | .   | .   | .   | .    | .   |
 | x   | o   | .   | .   | .   | .   | .   |      |     |
 | x   | .   | .   | .   | .   |     |     |      |     |
 | x   |     |     |     |     |     |     |      |     |
