@@ -184,10 +184,18 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 		- Small Brass Brazier
 *Groin*:
 	Equipment Belt
-		- Spellbook Holster (Tiana's Grimoire)
+		- Spellbook Holster (Tiana's Grimoire, [[#Coin of Aurelian Silence]])
 		- Sheath (Dagger)
 *Legs*:
 	Canvas Cloak
 	Leather Pants
 *Feet*:
 	Leather Boots
+
+###### Coin of Aurelian Silence
+- *Requires Attunment*
+- While you are Attuned, the Coin can be used as a +1 Arcane Focus.
+- While you are Attuned, you may store a 1st Level Wizard Spell in the Coin.
+- While you are Attuned, once per long rest, before you cast a spell;
+	- *(Heads)* Gain Advantage on an Attack Roll made for the spell, or impose Disadvantage on a Saving Throw made for the spell.
+	- *(Tails)* Regain the lowest level spell slot expended to cast the spell.
