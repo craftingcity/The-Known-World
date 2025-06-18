@@ -69,7 +69,7 @@ We're going to clear out the old tavern. We encountered rats.
 #### Session 3; The Shoreside Inn
 ###### Todo;
 - [  ] Clear the upper floors of the Shoreside Inn
-- [  ] Get a Map from Grom
+- [ x ] Get a Map from Grom
 - [ x ] Gather supplies to bring Compu back
 
 A guy that probably should have died was muttering "He said it would give me strength, it was a gift, he gave me this - you, you shouldn't be here" sitting at a table on the second floor. He pulls out a hand-crossbow and shoots at Kaldrin, and more Rats come to fight. Oh no he's a were-rat, but we cornered him and beat his shit. He had a page of a journal on him that said the 'Gift of Skin and Teeth', Kaldrin found another peice that says 'Trapped them in the cellar --- stashed the key --- hallway --- compartment --- ***uncontrollable***.' Pick opened a door into a lounge/hall occupied by three skeletons.
@@ -81,10 +81,10 @@ Carved; "Speak the vows, bind the halves, light the flame". In the book of vows;
 #### Session 4; The Shoreside Inn (cont.)
 ###### Todo;
 - [  ] Clear the upper floors of the Shoreside Inn
-- [  ] Get a Map from Grom
-- [ x ] Gather supplies to bring Compu back
+- [  ] Figure out what happened to Torrin
+	- Bring Grom over to ID bodies?
 
-This Torin guy got fucking cursed or something by this stuff 
+This Torin guy got fucking cursed or something by this stuff - something about "the Hollow Man".
 
 ## Stats
 
