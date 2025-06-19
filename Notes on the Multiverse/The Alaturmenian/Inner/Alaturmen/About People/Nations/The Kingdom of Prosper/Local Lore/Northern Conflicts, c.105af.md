@@ -73,7 +73,11 @@ While the initial assault proved fruitful, as the Arthurians quickly breached th
 Forced to retreat, the survivors of the 1st, the 3rd, and the 4th Ranger Companies, and of the Chapters Proprius and Rectio would return to [[Lavas]], having become the functional Headquarters of the fielded forces, and lie in a painful combination of waiting for allied support and fighting savage skirmishes, desperate to hold this advantage for their Kingdom.
 
 ## The First Battle on the Firelight Sea
-#### 106/04/xx - 
+#### 106/04/17 - 04/18
+
+The north-western shore of the [[Actstow Hills]] has always been a strategic resource for [[Cenva Minyo]]. In addition to its role as potent industrial production, the access to the [[Firelight Sea]] has blessed the region with one of the world's few active ports: the Salt Board Harbor of [[Hameer]]. Since the coming of the Conflict, the Salt Board Harbor has been defended by a standing guard and a series of mystical and mechanical defenses.
+
+All this to say, on the night of the 17th day of Weeding, when large grey ships came to view bearing the flag of the [[The Church of the White Flame|White Church]], [[Hameer]] was prepared. 
 
 ```
 ## Battle of Odaya
