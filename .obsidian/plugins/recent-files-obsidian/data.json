@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Alaturmen Militaries",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Alaturmen Militaries.md"
+    },
+    {
+      "basename": "Alaturmen",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md"
+    },
+    {
       "basename": "Northern Conflicts, c.105af",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md"
     },
@@ -105,10 +113,6 @@
       "path": "Game Notes/Game Notes.md"
     },
     {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md"
-    },
-    {
       "basename": "Inner",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Text",
       "path": "ORGANIZATION/TEMPLATES/Text.md"
-    },
-    {
-      "basename": "Custom Class - Blood Hunter",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md"
     }
   ],
   "omittedPaths": [],

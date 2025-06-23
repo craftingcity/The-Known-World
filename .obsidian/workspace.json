@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Alaturmen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Alaturmen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Northern Conflicts, c.105af",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Northern Conflicts, c.105af\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Tiana Turing",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Junie's Characters/Tiana Turing.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Tiana Turing\"}",
@@ -34,12 +46,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Alaturmen Militaries.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Northern Conflicts, c.105af"
+              "title": "Alaturmen Militaries"
             }
           },
           {
@@ -317,8 +329,9 @@
   },
   "active": "3c50688d3e9b1a86",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Hills of Actsow/Hameer.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Hills of Actsow/Hameer.md",
     "Junie's Characters/Tiana Turing.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
@@ -342,7 +355,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",

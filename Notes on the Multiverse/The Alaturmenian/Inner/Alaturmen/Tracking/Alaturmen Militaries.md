@@ -1,3 +1,7 @@
+---
+tags: tracking
+aliases:
+---
 
 
 # Major Nation Militaries
