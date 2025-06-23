@@ -75,9 +75,13 @@ Forced to retreat, the survivors of the 1st, the 3rd, and the 4th Ranger Compani
 ## The First Battle on the Firelight Sea
 #### 106/04/17 - 04/18
 
-The north-western shore of the [[Actstow Hills]] has always been a strategic resource for [[Cenva Minyo]]. In addition to its role as potent industrial production, the access to the [[Firelight Sea]] has blessed the region with one of the world's few active ports: the Salt Board Harbor of [[Hameer]]. Since the coming of the Conflict, the Salt Board Harbor has been defended by a standing guard and a series of mystical and mechanical defenses.
+The north-western shore of the [[Actstow Hills]] has always been a strategic resource for [[Cenva Minyo]]. In addition to its role as potent industrial production, the access to the [[Firelight Sea]] has blessed the region with one of the world's few active ports: the Salt Board Harbor of [[Hameer]]. Since the coming of the Conflict, the Salt Board Harbor has been defended by a standing guard and a series of mystical and mechanical defenses. They have been prepared.
 
-On the night of the 17th day of Weeding, three large warships, the A.W.C. *Valor*, A.W.C. *Tithe*, and A.W.C. *Immolation*, together sailed west from the 
+On the night of the 17th day of Weeding, a fleet of three large warships, the A.W.C. *Valor*, A.W.C. *Tithe*, and A.W.C. *Immolation*, together sailed east from the [[Yagil]] Naval Yard towards the [[Actstow Hills]]. As the fleet came within 3 miles of the shore, they began to maneuver into a line formation in preparation for their insertion upon the river, though this insertion would never come. During the maneuver, a massive burst of sound is produced on the shore of the [[Actstow Hills]]; the A.W.C. *Tithe* was struck by a massive metallic missile that, upon impact with the warship, exploded, shredding the ship's hull, and rendering the vessel scuttled and sinking. 
+
+As mission command failed to prepare for the loss of one of their warships before it had reached the shores, the response from the fleet was unorganized. The *Valor*, true to it's name, would follow through with their part of the maneuver, coming into position heading into the river, while the *Immolation* would quickly turn out of formation to fire rounds of futile retaliatory cannon-blasts. Then, accompanied by the loud boom coming from the shore and a screaming whistle moments before, the A.W.C *Valor* explodes, sending flaming shrapnel and dismembered corpses into the Sea below.
+
+The A.W.C *Immolation* would continue it's turn, facing west, and would begin to flee, returning to port in [[Yagil]] .
 
 ```
 ## Battle of Odaya
