@@ -6,7 +6,7 @@
       {
         "id": "5fe991c81046350f",
         "type": "tabs",
-        "dimension": 64.33494141971055,
+        "dimension": 32.16747070985527,
         "children": [
           {
             "id": "beb682b7774554b9",
@@ -74,6 +74,42 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "c9db13c91741c1c2",
+        "type": "tabs",
+        "dimension": 32.16747070985527,
+        "children": [
+          {
+            "id": "041a1d76c5ab2af1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Northern Conflicts, c.105af",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Northern Conflicts, c.105af\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":255},\"to\":{\"line\":70,\"ch\":255}},\"scroll\":61.403607934475154}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magical Items of Note"
+            }
+          }
+        ]
       },
       {
         "id": "f4bd0eec8aefe742",
@@ -377,7 +413,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97b52cb683aaa5be",
+  "active": "041a1d76c5ab2af1",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",

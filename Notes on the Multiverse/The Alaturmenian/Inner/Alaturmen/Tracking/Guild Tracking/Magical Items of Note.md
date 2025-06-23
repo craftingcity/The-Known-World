@@ -732,8 +732,14 @@ aliases:
 	Source: Unknown, see GME-001
 	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: Instances of GME-049 are to be stored within the Vault 0 Process sector in a 
+	Entry Description: Instances of GME-049 are to be stored within the Vault 0 Processing sector in a 1'x'1'x1' darksteel cube-box lined with a soft textile labelled appropriately for the class of the instance. After processing, the following procedures are to be followed:
+	- Class 1 instances are to be stored within the Vault 0 Warm Storage sector in independent TL-O cells, at least 500' from any other TL-O cells.
+	- Class 2 instances are to be stored within the Vault 0 Warm Storage sector in one of six TL-R cells (see Procedure Document 049)
+	- Class 3 instances
+	- Class 4 instances are to be released to the Guild of Merchants no more than 3 weeks since their processing.
 ```
+
+appropriately independent
 
 	- Grade 1 (Immaterial)
 	- Grade 2 (Mutable)
