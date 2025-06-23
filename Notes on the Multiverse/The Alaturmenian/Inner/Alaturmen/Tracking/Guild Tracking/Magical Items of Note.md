@@ -714,6 +714,8 @@ aliases:
 		GME-001 is a small brown leather bag sporting hempen sewing at its points of contact and a bronze buckle upon its center. While the buckle is tied, and the flap of the bag is closed, GME-001 is non-active. Undoing the buckle and opening the flap of the bag will form a Type-2 Planar Gate in the bag, containing an unknown number of door-handles of different shapes and sizes, GME-001-X. When pulled or pushed to open, a GME-001-X will act as its own Type-2 Planar Gate, pointed at a particular Consistent Extraplanar Instance. Once GME-001-X has been activated, GME-001 ceases to physically exist until that GME-001-X is activated again. This particular feature of GME-001 presents the hazardous possibility of any number of users being left stranded in GME-001-X CEIs where they cannot naturally survive.
 
 		GME-001 has been, to our knowledge, the host of exactly two adventuring parties to date, those being first the Grey Ordeal, and second the Hatdroppers. In both the parties' time with GME-001, they have made additions to the assosiated CEIs in such a manner that they together act as a mobile base of operations, including a barracks, a kitchen, a storage room, a garden, an alchemistry labratory, a tinker's workshop, a prison, and a spa.
+
+	Researcher Notes: The modern concpet of extradimensional storage is almost certainly a result of the creation of GME-001 and it's use by legendary adventuring parties, so we can blame the Old Man for all our paperwork.
 ```
 
 
@@ -723,6 +725,16 @@ aliases:
 ### Rule of the Coalition c.080AF
 #### Exports of Coalition
 ###### Bag of Holding
+```
+	GME-049 "BAG OF HOLDING"
+	Threat Level: PURPLE - ORANGE, see Entry Description.
+	Entry Class: TRINKET
+	Source: Unknown, see GME-001
+	Last Known Keeper: None, see Entry Description.
+
+	Entry Description: Instances of GME-049 are to be stored within the Vault 0 Process sector in a 
+```
+
 	- Grade 1 (Immaterial)
 	- Grade 2 (Mutable)
 	- Grade 3 (Immutable)

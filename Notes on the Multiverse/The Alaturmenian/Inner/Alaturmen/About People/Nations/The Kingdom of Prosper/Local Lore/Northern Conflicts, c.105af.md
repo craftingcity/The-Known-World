@@ -59,7 +59,7 @@ The Arthurian forces were tasked with a second invasion of the [[Central Holyl'n
 ## Immolation of Odaya
 #### 106/02/02 - 02/08
 
-During the long and attritious [[#Second Battle for the Centers]], Cenva Minyo would send their 1st and 4th Ranger Companies into the city of [[Odaya]]. Being largely undefended, the Cenvan Rangers found little resistance to their assault. The attack left [[Odaya]] and its surrounding townships severely damaged, and the 1st and 4th to regroup with the 3rd Ranger Company to their south and support the ongoing efforts there.
+During the long and attritious [[#Second Battle for the Centers]], Cenva Minyo would send their 1st and 4th Ranger Companies into the city of [[Odaya]]. Being largely undefended, the Cenvan Rangers found little resistance to their assault. The attack left [[Odaya]] and its surrounding townships severely damaged, if not completely destroyed. The 1st and 4th Ranger Companies would then retreat to regroup with the 3rd Ranger Company in [[The Holy City of Kanielkiln|Kanielkiln]] and support the ongoing efforts there.
 
 ## The Black Battle of Kanielkiln
 #### 106/02/10 - cur
@@ -68,7 +68,7 @@ As the [[#Second Battle for the Centers]] continues, the Arthurians stand strong
 
 After a reorganization, the Arthurian forces would begin an assault on Kanielkiln; the Cenvan Ranger Companies would be tasked with the encirclement of the city as the Knights and the Infantry would assault the eastern entrance of the city. 
 
-While the initial assault proved fruitful, as the Arthurians quickly breached the eastern wall, progress became terribly slow. Through no fault of the Arthurians, they continued to face losses against the 1st and 4th Infantry Corps, and, again, significantly so against the 1st Auxiliary Corps.
+While the initial assault proved fruitful, as the Arthurians quickly breached the eastern wall, progress became terribly slow. Through no fault of the Arthurians, they continued to face losses against the 1st Auxiliary Corps and the positions they support.
 
 Forced to retreat, the survivors of the 1st, the 3rd, and the 4th Ranger Companies, and of the Chapters Proprius and Rectio would return to [[Lavas]], having become the functional Headquarters of the fielded forces, and lie in a painful combination of waiting for allied support and fighting savage skirmishes, desperate to hold this advantage for their Kingdom.
 
@@ -81,7 +81,7 @@ On the night of the 17th day of Weeding, a fleet of three large warships, the A.
 
 As mission command failed to prepare for the loss of one of their warships before it had reached the shores, the response from the fleet was unorganized. The *Valor*, true to it's name, would follow through with their part of the maneuver, coming into position heading into the river, while the *Immolation* would quickly turn out of formation to fire rounds of futile retaliatory cannon-blasts. Then, accompanied by the loud boom coming from the shore and a screaming whistle moments before, the A.W.C *Valor* explodes, sending flaming shrapnel and dismembered corpses into the Sea below.
 
-The A.W.C *Immolation* would continue it's turn, facing west, and would begin to flee, returning to port in [[Yagil]] .
+The A.W.C *Immolation* would continue it's turn, facing west, and would begin to flee, returning to port in [[Yagil]] on the morning of the 18th.
 
 ```
 ## Battle of Odaya
