@@ -77,7 +77,7 @@ Forced to retreat, the survivors of the 1st, the 3rd, and the 4th Ranger Compani
 
 The north-western shore of the [[Actstow Hills]] has always been a strategic resource for [[Cenva Minyo]]. In addition to its role as potent industrial production, the access to the [[Firelight Sea]] has blessed the region with one of the world's few active ports: the Salt Board Harbor of [[Hameer]]. Since the coming of the Conflict, the Salt Board Harbor has been defended by a standing guard and a series of mystical and mechanical defenses.
 
-All this to say, on the night of the 17th day of Weeding, when large grey ships came to view bearing the flag of the [[The Church of the White Flame|White Church]], [[Hameer]] was prepared. 
+On the night of the 17th day of Weeding, three large warships, the A.W.C. *Valor*, A.W.C. *Tithe*, and A.W.C. *Immolation*, together sailed west from the 
 
 ```
 ## Battle of Odaya

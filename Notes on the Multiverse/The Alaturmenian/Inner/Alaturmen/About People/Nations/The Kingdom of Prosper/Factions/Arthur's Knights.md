@@ -38,24 +38,6 @@ The **Chapter Rectio** stands in defense of both [[Gambleum]] and [[Moonlight]],
 
 They bear a flag and tabard of their crest, a black bull's head over a dimpled field, and the chapter is adorned in heavy, brutish armors. 
 
-```
-- Proprius
-	- chapter in defense of [[Castle Prosper]] and [[Arthur Simonson|Artie]] himself.
-- Constantia (K26)
-	- auxiliary support for [[Castle Prosper]], [[Magius]], & surrounding villages
-	- holding major [[Unification]] relic
-- Delectus (N18)
-	- main chapter in defense of [[Yerba]]
-		- recruit from the local & a'LeQuinn guards
-	- spike & skull motifs for armor, southern america for architecture
-- Fides
-	- chapter in defense of [[Magius]]
-- Probitas
-	- chapter in defense of [[Janesland]]
-- Rectio
-	- chapter in defense of [[Gambleum]]
-```
-
 ## Culture
 #### Heritage
 #### Language

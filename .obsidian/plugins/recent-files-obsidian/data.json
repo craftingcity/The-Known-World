@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Alaturmen Militaries",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Alaturmen Militaries.md"
+      "basename": "Northern Conflicts, c.105af",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md"
+    },
+    {
+      "basename": "Magical Items of Note",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
+    },
+    {
+      "basename": "Economy Pages",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md"
+    },
+    {
+      "basename": "Items by Region",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Items by Region.md"
+    },
+    {
+      "basename": "Hameer",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Hills of Actsow/Hameer.md"
     },
     {
       "basename": "Alaturmen",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md"
     },
     {
-      "basename": "Northern Conflicts, c.105af",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md"
-    },
-    {
-      "basename": "Hameer",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Hills of Actsow/Hameer.md"
+      "basename": "Arthur's Knights",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
     },
     {
       "basename": "Tiana Turing",
@@ -23,10 +35,6 @@
     {
       "basename": "Alchemy Processes & Products",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md"
-    },
-    {
-      "basename": "Arthur's Knights",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
     },
     {
       "basename": "The Kingdom of Prosper",
@@ -173,10 +181,6 @@
       "path": "Game Notes/Prenotes/'24/Prenotes Jan 12 24.md"
     },
     {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
-    },
-    {
       "basename": "Prenotes May 24 25",
       "path": "Game Notes/Prenotes/'25/Prenotes May 24 25.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Custom Heritages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
-    },
-    {
-      "basename": "Text",
-      "path": "ORGANIZATION/TEMPLATES/Text.md"
     }
   ],
   "omittedPaths": [],
