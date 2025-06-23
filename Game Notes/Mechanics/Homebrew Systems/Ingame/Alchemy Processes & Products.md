@@ -139,7 +139,6 @@ Resolve one Condition you are under.
 ##### Heamox Balm
 #### Medicine
 ##### Isiopara
-
 Restore 3d4+10 Hitpoints now, and at the beginning of your next (Grade - 1) turns. 
 
 **Ingredients**;
