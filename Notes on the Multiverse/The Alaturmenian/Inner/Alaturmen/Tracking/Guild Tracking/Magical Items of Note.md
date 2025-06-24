@@ -109,7 +109,9 @@ aliases:
 
 	Entry Description: GME-048 is to be stored in the Ritualistic Center of Site-048 on the central stone display. The Ritualistic Center is to be stationed by a rotating 24-hour guard of at least 4 personnel at a time, each of whom have graduated the GOAL-6c 'Identifying Illusiory Figures' program with a score of 8 or higher.
 
-	GME-048, while non-active, is a large 3'x2'x6' slab of solid mercury that passes any and all tests or identifying processes. While active, GME-048 is a relatively sized humanoid creature. Observers of the creature fail to produce consistant descriptions, both amongst eachother and themselves, suggesting that the creature manipulates what it is observed as for each observer. 
+	GME-048, while non-active, is a large 3'x2'x6' slab of solid mercury that passes any and all tests or identifying processes. While active, GME-048 is a relatively sized humanoid creature. Observers of the creature fail to produce consistant descriptions, both amongst eachother and themselves, suggesting that the creature manipulates what it is observed as for each observer. Requests for testing involving GME-048 to determine anything more about its properties have been and will be denied.
+
+	GME-048 has been stored in the Ritualistic Center of Site-048 under the control of the Circle of Animan's Druids for the entirety of recorded history.
 ```
 
 #### Gifts of the Dragons
