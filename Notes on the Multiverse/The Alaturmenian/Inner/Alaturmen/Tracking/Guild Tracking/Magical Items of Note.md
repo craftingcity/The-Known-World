@@ -109,7 +109,7 @@ aliases:
 
 	Entry Description: GME-048 is to be stored in the Ritualistic Center of Site-048 on the central stone display. The Ritualistic Center is to be stationed by a rotating 24-hour guard of at least 4 personnel at a time, each of whom have graduated the GOAL-6c 'Identifying Illusiory Figures' program with a score of 8 or higher.
 
-	GME-048 is, while non-active, a large 
+	GME-048, while non-active, is a large 3'x2'x6' slab of solid mercury that passes any and all tests or identifying processes. While active, GME-048 is a relatively sized humanoid creature. Observers of the creature fail to produce consistant descriptions, both amongst eachother and themselves, suggesting that the creature manipulates what it is observed as for each observer. 
 ```
 
 #### Gifts of the Dragons
@@ -725,7 +725,7 @@ aliases:
 ###### Bag of Holding
 ```
 	GME-049 "BAG OF HOLDING"
-	Threat Level: PURPLE - ORANGE, see Entry Description.
+	Threat Level: BLUE - ORANGE, see Entry Description.
 	Entry Class: TRINKET
 	Source: Unknown, see GME-001
 	Last Known Keeper: None, see Entry Description.
@@ -733,7 +733,7 @@ aliases:
 	Entry Description: Instances of GME-049 are to be stored within the Vault 0 Processing sector in a 1'x'1'x1' darksteel cube-box lined with a soft textile labelled appropriately for the class of the instance. After processing, the following procedures are to be followed:
 	- GME-049-C1 instances are to be stored within the Vault 0 Warm Storage sector in independent TL-O cells, at least 500' from any other TL-O cells, in their 'original' cube-box.
 	- GME-049-C2 instances are to be stored within the Vault 0 Warm Storage sector in one of six TL-R cells (see Procedure Document 049-33), in their 'original' cube-box.
-	- GME-049-C3 instances are to be stored within the Vault 0 Warm Storage sector, in their 'original' cube-box.
+	- GME-049-C3 instances are to be stored within the Vault 0 Cold Storage sector, in their 'original' cube-box.
 	- GME-049-C4 instances are to be released to the Guild of Merchants within 3 weeks of their processing.
 
 		GME-049 is a collective identifier for the objects that qualify under the following designation classes:
