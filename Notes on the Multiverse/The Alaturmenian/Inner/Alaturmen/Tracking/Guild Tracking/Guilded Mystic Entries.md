@@ -47,9 +47,11 @@ The Description of the Entry must include the following information about the ob
 	- *Vault 2* is a Prosper operated site underground, south-west of [[Magius]].
 	- *Vault 3* is the Lair of the Brass Dragon, Kakurak, near the [[Firelight Sea]].
 	- *Vault 4* is a Guild operated site below the city of [[Mossburg]].
+- A *Site* is a general purpose secure facility, constructed within the bounds of culturally congruent spaces.
 - A *Containment Conference* is a date and location at which the Guild gained control of a given entry.
 - The *Planar Gate Types* are as follows;
 	- Type-1 Planar Gates are temporary or instantaneous instances of travel between points within a plane.
 	- Type-2 Planar Gates are consistently replicable instances of travel from a point within a plane to a Consistent Extraplanar Instance. (*Consistent Extraplanar Instances have no effect or symmetry with the Major Planes.*)
 	- Type-3 Planar Gates are temporary or instantaneous instances of travel from a point within a plane to another point on another Major Plane.
 	- Type-4 Planar Gates are consistently replicable instances of travel from a point with a plane to another consistent point on another Major Plane.
+- The *GOAL* program services members of the Guilds with relevant skills and procedures programs.

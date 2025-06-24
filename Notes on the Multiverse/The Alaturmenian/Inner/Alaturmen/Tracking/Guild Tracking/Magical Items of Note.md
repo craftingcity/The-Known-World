@@ -107,7 +107,9 @@ aliases:
 	Source: Animan (divine)
 	Last Known Keeper: KEEPER
 
-	Entry Description: GME-048 is to be stored in the Ritualistic Center of Site-048 on a stone display, no less than 3' tall. The Ritualistic Center is to be stationed by a rotating 24-hour guard of at least 4 personnel at a time.
+	Entry Description: GME-048 is to be stored in the Ritualistic Center of Site-048 on the central stone display. The Ritualistic Center is to be stationed by a rotating 24-hour guard of at least 4 personnel at a time, each of whom have graduated the GOAL-6c 'Identifying Illusiory Figures' program with a score of 8 or higher.
+
+	GME-048 is, while non-active, a large 
 ```
 
 #### Gifts of the Dragons
@@ -231,7 +233,7 @@ aliases:
 
 	Entry Description: GME-XXX is, at the time of record, uncontainable, ~~but stable~~ and unstable. GME-XXX is located within the Church of Flame's Minyostalma Blockade and Exclusion District (MBED).
 
-	GME-XXX is a material infection that is particularly potent against metallic materials. Over time, an object or material infected with GME-XXX will emit an aura within which the infection will spread across subjects in the area. When the infected material is moved, so too will the aura. For unknown reasons, the Fabric of the Weave becomes loosened in this aura, which can hamper or outright prevent manipulation of the Weave via spellcasting within the area.
+	GME-XXX is a material infection that is particularly potent against ferrous metallics. Over time, an object or material infected with GME-XXX will emit an aura within which the infection will spread across subjects in the area. When the infected material is moved, so too will the aura. For unknown reasons, the Fabric of the Weave becomes loosened in this aura, which can hamper or outright prevent manipulation of the Weave via spellcasting or enchantment within the area.
 
 	The emmition of the aura is blocked in both transmittion and reception by the presence of lead or darksteel, which should be investigated further for the purposes of reducing the major personnel losses experienced during experimentation and analysis of GME-XXX and related entries.
 ```
@@ -246,7 +248,7 @@ aliases:
 
 	Entry Description: GME-XXX is to be stored within Vault 1's Warm Storage Sector at least 500' away from any other TL-O cells in a 20'x30'x15' lead storage container which itself is stored with a 30'x40'x20' darksteel storage container. This cell is to be stationed by a rotating 2-hour guard of at least 2 personnel at a time. Stationed personnel may spend participate in no more than 3 shifts in a 24-hour period.
 
-	GME-XXX is a complicated system of mythril tanks, pressigen tubes, and lead casings that - when properly fueled by a mixture of water and oil within cycling through the tanks and ///REDACTED/// within the casings - produces a heat consistent with Alchemical Thermite for as long as GME-XXX remains fueled.
+	GME-XXX is a complicated system of mythril tanks, pressigen tubes, and lead casings that - when properly fueled by a mixture of water and oil cycling through the tanks and ///REDACTED/// within the casings - produces a heat consistent with Alchemical Thermite for as long as GME-XXX remains fueled.
 
 	As a result of experiments conducted with GME-XXX, potential means of translating this heat into labor have been discovered, and are described in more detail alongside relavent diagrams and schematics in Experiment Log XXX-3 through -22.  
 ```
