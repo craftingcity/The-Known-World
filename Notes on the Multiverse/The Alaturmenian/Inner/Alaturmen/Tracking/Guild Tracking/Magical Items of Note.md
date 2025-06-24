@@ -60,7 +60,7 @@ aliases:
 	GME-044 "INCEPTION"
 	Threat Level: BLUE
 	Entry Class: TRINKET
-	Source: AUTHOR
+	Source: Terran (divine)
 	Last Known Keeper: KEEPER
 
 	Entry Description: ...
@@ -69,9 +69,9 @@ aliases:
 ###### Ablation
 ```
 	GME-045 "ABLATION"
-	Threat Level: COLOR
-	Entry Class: CLASS
-	Source: AUTHOR
+	Threat Level: RED
+	Entry Class: TRINKET
+	Source: Ignan (divine)
 	Last Known Keeper: KEEPER
 
 	Entry Description: ...
@@ -80,9 +80,9 @@ aliases:
 ###### Litigation
 ```
 	GME-046 "LITIGATION"
-	Threat Level: COLOR
-	Entry Class: CLASS
-	Source: AUTHOR
+	Threat Level: PURPLE
+	Entry Class: TRINKET
+	Source: Aquan (divine)
 	Last Known Keeper: KEEPER
 
 	Entry Description: ...
@@ -91,9 +91,9 @@ aliases:
 ###### Fixation
 ```
 	GME-047 "FIXATION"
-	Threat Level: COLOR
-	Entry Class: CLASS
-	Source: AUTHOR
+	Threat Level: PURPLE
+	Entry Class: TRINKET
+	Source: Ventan (divine)
 	Last Known Keeper: KEEPER
 
 	Entry Description: ...
@@ -102,12 +102,12 @@ aliases:
 ###### Emulation
 ```
 	GME-048 "EMULATION"
-	Threat Level: COLOR
-	Entry Class: CLASS
-	Source: AUTHOR
+	Threat Level: RED
+	Entry Class: KNACK
+	Source: Animan (divine)
 	Last Known Keeper: KEEPER
 
-	Entry Description: ...
+	Entry Description: GME-048 is to be stored in the Ritualistic Center of Site-048 on a stone display, no less than 3' tall. The Ritualistic Center is to be stationed by a rotating 24-hour guard of at least 4 personnel at a time.
 ```
 
 #### Gifts of the Dragons
@@ -718,10 +718,6 @@ aliases:
 	Researcher Notes: The modern concpet of extradimensional storage is almost certainly a result of the creation of GME-001 and it's use by legendary adventuring parties, so we can blame the Old Man for all our paperwork.
 ```
 
-
-==$==
-
-
 ### Rule of the Coalition c.080AF
 #### Exports of Coalition
 ###### Bag of Holding
@@ -733,26 +729,22 @@ aliases:
 	Last Known Keeper: None, see Entry Description.
 
 	Entry Description: Instances of GME-049 are to be stored within the Vault 0 Processing sector in a 1'x'1'x1' darksteel cube-box lined with a soft textile labelled appropriately for the class of the instance. After processing, the following procedures are to be followed:
-	- Class 1 instances are to be stored within the Vault 0 Warm Storage sector in independent TL-O cells, at least 500' from any other TL-O cells, in their 'original' cube-box.
-	- Class 2 instances are to be stored within the Vault 0 Warm Storage sector in one of six TL-R cells (see Procedure Document 049-33), in their 'original' cube-box.
-	- Class 3 instances are to be stored within the Vault 0 Warm Storage sector, in their 'original' cube-box.
-	- Class 4 instances are to be released to the Guild of Merchants within 3 weeks of their processing.
+	- GME-049-C1 instances are to be stored within the Vault 0 Warm Storage sector in independent TL-O cells, at least 500' from any other TL-O cells, in their 'original' cube-box.
+	- GME-049-C2 instances are to be stored within the Vault 0 Warm Storage sector in one of six TL-R cells (see Procedure Document 049-33), in their 'original' cube-box.
+	- GME-049-C3 instances are to be stored within the Vault 0 Warm Storage sector, in their 'original' cube-box.
+	- GME-049-C4 instances are to be released to the Guild of Merchants within 3 weeks of their processing.
 
 		GME-049 is a collective identifier for the objects that qualify under the following designation classes:
-			- GME-049-1 are instance objects capable of instantly forming and collapsing a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance at the will of it's wielder.
-			- GME-049-2 are instance objects capable of forming a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance, and capable of manipulating the size of their own Gate Entrance within a radius of 3', extending the physical size of the instance's mouth. 
-			- GME-049-3 are instance objects capable of forming a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance, and incapable of manipulating the size of their own Gate Entrance.
-			- GME-049-4 are instance objects capable of forming a Type-2 Planar Gate pointed at one finite Consistant Extraplanar Instance, and incapable of manipulating the size of their own Gate Entrance.
+			- GME-049-C1 are instance objects capable of instantly forming and collapsing a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance at the will of it's wielder.
+			- GME-049-C2 are instance objects capable of forming a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance, and capable of manipulating the size of their own Gate Entrance within a radius of 3', extending the physical size of the instance's Gate Entrance. 
+			- GME-049-C3 are instance objects capable of forming a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance, and incapable of manipulating the size of their own Gate Entrance.
+			- GME-049-C4 are instance objects capable of forming a Type-2 Planar Gate pointed at one finite Consistant Extraplanar Instance, and incapable of manipulating the size of their own Gate Entrance.
 
-		GME-049 instances, and the process and knowledge of their creation, presents an 
+		GME-049 instances, and the process and knowledge of their creation, presents an existential threat to physical reality as we know it, and therefore the mission of the Guild of Wizards. Class 1 and Class 2 instances present an immediate tactical threat and should be dealt with accordingly. Class 1 or Class 2 instances, or the knowledge of their creation, must be immediately captured, recovered, or destroyed at all costs.
 ```
 
-appropriately independent
+==$==
 
-	- Grade 1 (Immaterial)
-	- Grade 2 (Mutable)
-	- Grade 3 (Immutable)
-	- Grade 4 (Immutable, Finite)
 #### Relics of Kakurak's Chosen
 #### Relics of The Hatdroppers
 ###### Prismatic Crossbow
