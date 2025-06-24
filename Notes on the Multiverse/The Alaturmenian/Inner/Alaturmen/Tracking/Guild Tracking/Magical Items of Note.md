@@ -733,10 +733,18 @@ aliases:
 	Last Known Keeper: None, see Entry Description.
 
 	Entry Description: Instances of GME-049 are to be stored within the Vault 0 Processing sector in a 1'x'1'x1' darksteel cube-box lined with a soft textile labelled appropriately for the class of the instance. After processing, the following procedures are to be followed:
-	- Class 1 instances are to be stored within the Vault 0 Warm Storage sector in independent TL-O cells, at least 500' from any other TL-O cells.
-	- Class 2 instances are to be stored within the Vault 0 Warm Storage sector in one of six TL-R cells (see Procedure Document 049)
-	- Class 3 instances
-	- Class 4 instances are to be released to the Guild of Merchants no more than 3 weeks since their processing.
+	- Class 1 instances are to be stored within the Vault 0 Warm Storage sector in independent TL-O cells, at least 500' from any other TL-O cells, in their 'original' cube-box.
+	- Class 2 instances are to be stored within the Vault 0 Warm Storage sector in one of six TL-R cells (see Procedure Document 049-33), in their 'original' cube-box.
+	- Class 3 instances are to be stored within the Vault 0 Warm Storage sector, in their 'original' cube-box.
+	- Class 4 instances are to be released to the Guild of Merchants within 3 weeks of their processing.
+
+		GME-049 is a collective identifier for the objects that qualify under the following designation classes:
+			- GME-049-1 are instance objects capable of instantly forming and collapsing a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance at the will of it's wielder.
+			- GME-049-2 are instance objects capable of forming a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance, and capable of manipulating the size of their own Gate Entrance within a radius of 3', extending the physical size of the instance's mouth. 
+			- GME-049-3 are instance objects capable of forming a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance, and incapable of manipulating the size of their own Gate Entrance.
+			- GME-049-4 are instance objects capable of forming a Type-2 Planar Gate pointed at one finite Consistant Extraplanar Instance, and incapable of manipulating the size of their own Gate Entrance.
+
+		GME-049 instances, and the process and knowledge of their creation, presents an 
 ```
 
 appropriately independent
