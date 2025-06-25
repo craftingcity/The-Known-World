@@ -127,12 +127,12 @@ This Torin guy got fucking cursed or something by this stuff - something about "
 ##### Custom Lineage; Alaturmenian Gnomish
 - *Darkvision*: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light.
 - *Feat: Ritual Caster*: You have learned two spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
-	- [Identify](https://dnd5e.wikidot.com/spell:identify), (100gp pearl)
-	- [Find Familiar](https://dnd5e.wikidot.com/spell:find-familiar) (10gp charcoal, incense, and herbs)
+	- **(R)** [Identify](https://dnd5e.wikidot.com/spell:identify), (100gp pearl)
+	- **(R)** [Find Familiar](https://dnd5e.wikidot.com/spell:find-familiar) (10gp charcoal, incense, and herbs)
 
 ##### Spellcasting (Prep 8)
 - You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
-- Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook.
+- Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook (T = 4 + (L * 2)).
 
 ###### Tiana's Grimoire
 .
@@ -141,17 +141,17 @@ This Torin guy got fucking cursed or something by this stuff - something about "
 		- [Mage Hand](https://dnd5e.wikidot.com/spell:mage-hand)
 		- [Prestidigitation](https://dnd5e.wikidot.com/spell:prestidigitation)
 	- **1st Level Spells**;
-		x [Alarm](https://dnd5e.wikidot.com/spell:alarm) **(R)**
+		o (R) [Alarm](https://dnd5e.wikidot.com/spell:alarm)
 		x [Chromatic Orb](https://dnd5e.wikidot.com/spell:chromatic-orb) (50gp diamond)
-		x [Detect Magic](https://dnd5e.wikidot.com/spell:detect-magic) **(R)**
+		x (R, C) [Detect Magic](https://dnd5e.wikidot.com/spell:detect-magic) 
 		x [Feather Fall](https://dnd5e.wikidot.com/spell:feather-fall)
 		x [Shield](https://dnd5e.wikidot.com/spell:shield)
-		o [Sleep](https://dnd5e.wikidot.com/spell:sleep)
+		x [Sleep](https://dnd5e.wikidot.com/spell:sleep)
 		x [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs)
 		o [Snare](https://dnd5e.wikidot.com/spell:snare) (30ft rope)
 	- **2nd Level Spells**;
-		x [Hold Person](https://dnd5e.wikidot.com/spell:hold-person)
-		x [Knock](https://dnd5e.wikidot.com/spell:knock)
+		x (C) [Hold Person](https://dnd5e.wikidot.com/spell:hold-person)
+		x (C) [Dragon's Breath](https://dnd5e.wikidot.com/spell:dragons-breath)
 
 ##### Arcane Recovery
 - Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
