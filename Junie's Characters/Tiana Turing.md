@@ -100,6 +100,8 @@ This Torin guy got fucking cursed or something by this stuff - something about "
 
 A carving on the wall of the bunkhouse says; 'The dead remember. The dead regret.' Each of the zombies here are wearing the same uniforms of a tunic, leather pants, and holsters - but no weapons.
 
+We opened the box, it had money, a sealed scroll case, and a bloodstained scrap of a map - similar to the map we got from Grom - that says "The tower rebuilt, the tide will rise, the living bound beneath the wave" and shows the tower built with the garrison 'below it'.
+
 ## Stats
 
 | L. 3 | XP: 1,670 | /2,700 |           |
@@ -160,6 +162,7 @@ A carving on the wall of the bunkhouse says; 'The dead remember. The dead regret
 		x [Sleep](https://dnd5e.wikidot.com/spell:sleep)
 		x [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs)
 		o [Snare](https://dnd5e.wikidot.com/spell:snare) (30ft rope)
+		o [Protection from Good and Evil](https://dnd5e.wikidot.com/spell:protection-from-evil-and-good)
 	- **2nd Level Spells**;
 		x (C) [Hold Person](https://dnd5e.wikidot.com/spell:hold-person)
 		x (C) [Dragon's Breath](https://dnd5e.wikidot.com/spell:dragons-breath)
@@ -179,7 +182,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 	- When you cast a wizard spell with a spell slot, you can temporarily replace its damage type with a type that appears in another spell in your spellbook. The latter spell must be of the same level as the spell slot you expend.
 	- When you cast a wizard spell as a ritual, you can use the spell's normal casting time, rather than adding 10 minutes to it. Once you use this benefit, you can't do so again until you finish a long rest.
 
-#### Equipment (0/3 Attuned)
+#### Equipment (1/3 Attuned)
 (10gp, 25sp)
 
 - 1x *Pot of Healing*; 2d4+2
@@ -189,7 +192,6 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 - 3x 'Charcoal'
 - Scroll of Remove Curse
 - Cold Iron Rat-Spiral Engraved Key
-- Generic Key
 
 *Hands*: 
 	Leather Fingerless Gloves
