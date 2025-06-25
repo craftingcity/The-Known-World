@@ -90,6 +90,15 @@ Carved; "Speak the vows, bind the halves, light the flame". In the book of vows;
 
 This Torin guy got fucking cursed or something by this stuff - something about "the Hollow Man". Oh we found him, he's a big zombie without bones and he's so stinky I'm thinking something like a Gas Mask would be a good find. We need to go through everything with Detect Magic and stuff, but I think we're clear - double check the very top floor for hostiles, oh and clear the cellar.
 
+#### Session 5: The Shoreside Inn (cont.)
+###### Todo;
+- [  ] Clear the upper floors of the Shoreside Inn
+- [  ] Figure out what happened to Torrin
+	- Bring Grom over to ID bodies?
+- [  ] Scan the Shoreside Inn with Detect Magic
+- [  ] Figure out what kind of Zombies these are?
+
+A carving on the wall of the bunkhouse says; 'The dead remember. The dead regret.' Each of the zombies here are wearing the same uniforms of a tunic, leather pants, and holsters - but no weapons.
 
 ## Stats
 
@@ -105,7 +114,7 @@ This Torin guy got fucking cursed or something by this stuff - something about "
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | x   | x   | .   | .   | .   | .   | .   | .    | .   |
-| x   | o   | .   | .   | .   | .   | .   |      |     |
+| x   | x   | .   | .   | .   | .   | .   |      |     |
 | x   | .   | .   | .   | .   |     |     |      |     |
 | x   |     |     |     |     |     |     |      |     |
 
@@ -171,7 +180,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 	- When you cast a wizard spell as a ritual, you can use the spell's normal casting time, rather than adding 10 minutes to it. Once you use this benefit, you can't do so again until you finish a long rest.
 
 #### Equipment (0/3 Attuned)
-(25sp)
+(10gp, 25sp)
 
 - 1x *Pot of Healing*; 2d4+2
 - Driftwood Carved Idol
@@ -180,6 +189,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 - 3x 'Charcoal'
 - Scroll of Remove Curse
 - Cold Iron Rat-Spiral Engraved Key
+- Generic Key
 
 *Hands*: 
 	Leather Fingerless Gloves
