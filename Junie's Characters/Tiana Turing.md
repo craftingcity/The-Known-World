@@ -3,7 +3,7 @@ tags:
 aliases:
 ---
 # Tiana Turing
-## Gnome Wizard, Auxiliarist (Wizard 1)
+## Gnome Wizard, Auxiliarist (Wizard 3)
 ### she/they
 
 > Standing at 3'9", Tiana wears a practical brown canvas cloak and a comparably large backpack.
@@ -86,7 +86,7 @@ Carved; "Speak the vows, bind the halves, light the flame". In the book of vows;
 - [  ] Scan the Shoreside Inn with Detect Magic
 - [  ] Figure out what kind of Zombies these are?
 
-This Torin guy got fucking cursed or something by this stuff - something about "the Hollow Man". Oh we found him, he's a big zombie without bones and he's so stinky I'm thinking something like a Gas Mask would be a good find. We need to go through everything with Detect Magic and stuff, but I think we're clear - double check the very top floor for hostiles.
+This Torin guy got fucking cursed or something by this stuff - something about "the Hollow Man". Oh we found him, he's a big zombie without bones and he's so stinky I'm thinking something like a Gas Mask would be a good find. We need to go through everything with Detect Magic and stuff, but I think we're clear - double check the very top floor for hostiles, oh and clear the cellar.
 
 
 ## Stats
@@ -141,9 +141,9 @@ This Torin guy got fucking cursed or something by this stuff - something about "
 		- [Mage Hand](https://dnd5e.wikidot.com/spell:mage-hand)
 		- [Prestidigitation](https://dnd5e.wikidot.com/spell:prestidigitation)
 	- **1st Level Spells**;
-		x [Alarm](https://dnd5e.wikidot.com/spell:alarm)
+		x [Alarm](https://dnd5e.wikidot.com/spell:alarm) **(R)**
 		x [Chromatic Orb](https://dnd5e.wikidot.com/spell:chromatic-orb) (50gp diamond)
-		x [Detect Magic](https://dnd5e.wikidot.com/spell:detect-magic)
+		x [Detect Magic](https://dnd5e.wikidot.com/spell:detect-magic) **(R)**
 		x [Feather Fall](https://dnd5e.wikidot.com/spell:feather-fall)
 		x [Shield](https://dnd5e.wikidot.com/spell:shield)
 		o [Sleep](https://dnd5e.wikidot.com/spell:sleep)
