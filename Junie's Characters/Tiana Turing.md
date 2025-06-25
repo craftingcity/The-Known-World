@@ -164,7 +164,7 @@ Don't forget *the Flip*!
 		x [Sleep](https://dnd5e.wikidot.com/spell:sleep)
 		x [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs) (*1 slot in Coin*)
 		o [Snare](https://dnd5e.wikidot.com/spell:snare) (30ft rope)
-		x [Protection from Good and Evil](https://dnd5e.wikidot.com/spell:protection-from-evil-and-good)
+		x (C) [Protection from Good and Evil](https://dnd5e.wikidot.com/spell:protection-from-evil-and-good)
 	- **2nd Level Spells**;
 		x (C) [Hold Person](https://dnd5e.wikidot.com/spell:hold-person)
 		x (C) [Dragon's Breath](https://dnd5e.wikidot.com/spell:dragons-breath)
