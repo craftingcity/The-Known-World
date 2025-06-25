@@ -118,8 +118,8 @@ We heard footsteps at midnight while folks were watching, so we know we're not a
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | .   | .   | .   | .   | .   | .    | .   |
-| o   | o   | .   | .   | .   | .   | .   |      |     |
-| o   | .   | .   | .   | .   |     |     |      |     |
+| x   | o   | .   | .   | .   | .   | .   |      |     |
+| x   | .   | .   | .   | .   |     |     |      |     |
 | x   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
