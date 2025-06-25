@@ -102,6 +102,8 @@ A carving on the wall of the bunkhouse says; 'The dead remember. The dead regret
 
 We opened the box, it had money, a sealed scroll case, and a bloodstained scrap of a map - similar to the map we got from Grom - that says "The tower rebuilt, the tide will rise, the living bound beneath the wave" and shows the tower built with the garrison 'below it'.
 
+We heard footsteps at midnight while folks were watching, so we know we're not alone.
+
 ## Stats
 
 | L. 3 | XP: 1,670 | /2,700 |           |
@@ -109,20 +111,20 @@ We opened the box, it had money, a sealed scroll case, and a bloodstained scrap 
 | STR  | 8  (-1)   | PRF    | +2        |
 | CON  | 13 (+1)   | M. HP  | 17 Max HP |
 | DEX  | 16 (+3)   | AC     | (13)      |
-| INT  | 20 (+5) ^ | C. HP  | 8 HP      |
+| INT  | 20 (+5) ^ | C. HP  | 17 HP     |
 | WIS  | 14 (+2) ^ | HD     | 3d6       |
 | CHA  | 11 (+0)   | SPD    | 25' (5s)  |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| x   | x   | .   | .   | .   | .   | .   | .    | .   |
-| x   | x   | .   | .   | .   | .   | .   |      |     |
-| x   | .   | .   | .   | .   |     |     |      |     |
-| x   |     |     |     |     |     |     |      |     |
+| o   | o   | .   | .   | .   | .   | .   | .    | .   |
+| o   | o   | .   | .   | .   | .   | .   |      |     |
+| o   | .   | .   | .   | .   |     |     |      |     |
+| o   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
 ##### Skills
-- Arcana
+- Arcana (Coin gives +1)
 - History
 - Investigation
 - Religion
@@ -148,21 +150,21 @@ We opened the box, it had money, a sealed scroll case, and a bloodstained scrap 
 - Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook (T = 4 + (L * 2)).
 
 ###### Tiana's Grimoire
-.
+Don't forget *the Flip*!
 	- **Cantrips**;
 		- [Frostbite](https://dnd5e.wikidot.com/spell:frostbite)
 		- [Mage Hand](https://dnd5e.wikidot.com/spell:mage-hand)
 		- [Prestidigitation](https://dnd5e.wikidot.com/spell:prestidigitation)
 	- **1st Level Spells**;
 		o (R) [Alarm](https://dnd5e.wikidot.com/spell:alarm)
-		x [Chromatic Orb](https://dnd5e.wikidot.com/spell:chromatic-orb) (50gp diamond)
+		o [Chromatic Orb](https://dnd5e.wikidot.com/spell:chromatic-orb) (50gp diamond)
 		x (R, C) [Detect Magic](https://dnd5e.wikidot.com/spell:detect-magic) 
 		x [Feather Fall](https://dnd5e.wikidot.com/spell:feather-fall)
 		x [Shield](https://dnd5e.wikidot.com/spell:shield)
 		x [Sleep](https://dnd5e.wikidot.com/spell:sleep)
 		x [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs)
 		o [Snare](https://dnd5e.wikidot.com/spell:snare) (30ft rope)
-		o [Protection from Good and Evil](https://dnd5e.wikidot.com/spell:protection-from-evil-and-good)
+		x [Protection from Good and Evil](https://dnd5e.wikidot.com/spell:protection-from-evil-and-good)
 	- **2nd Level Spells**;
 		x (C) [Hold Person](https://dnd5e.wikidot.com/spell:hold-person)
 		x (C) [Dragon's Breath](https://dnd5e.wikidot.com/spell:dragons-breath)
@@ -185,7 +187,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 #### Equipment (1/3 Attuned)
 (10gp, 25sp)
 
-- 1x *Pot of Healing*; 2d4+2
+- 2x *Pot of Healing*; 2d4+2
 - Driftwood Carved Idol
 - 2x Femur
 - 3x 'Incense'
