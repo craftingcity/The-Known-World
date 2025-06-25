@@ -162,7 +162,7 @@ Don't forget *the Flip*!
 		x [Feather Fall](https://dnd5e.wikidot.com/spell:feather-fall)
 		x [Shield](https://dnd5e.wikidot.com/spell:shield)
 		x [Sleep](https://dnd5e.wikidot.com/spell:sleep)
-		x [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs)
+		x [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs) (*1 slot in Coin*)
 		o [Snare](https://dnd5e.wikidot.com/spell:snare) (30ft rope)
 		x [Protection from Good and Evil](https://dnd5e.wikidot.com/spell:protection-from-evil-and-good)
 	- **2nd Level Spells**;
