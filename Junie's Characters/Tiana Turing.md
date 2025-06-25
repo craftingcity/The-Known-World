@@ -102,7 +102,7 @@ A carving on the wall of the bunkhouse says; 'The dead remember. The dead regret
 
 We opened the box, it had money, a sealed scroll case, and a bloodstained scrap of a map - similar to the map we got from Grom - that says "The tower rebuilt, the tide will rise, the living bound beneath the wave" and shows the tower built with the garrison 'below it'.
 
-We heard footsteps at midnight while folks were watching, so we know we're not alone.
+We heard footsteps at midnight while folks were watching, so we know we're not alone. Continuing to explore the Inn, we find more interesting chests and keys and the like. We find another page of Torrin's journal.
 
 ## Stats
 
