@@ -76,6 +76,8 @@ A guy that probably should have died was muttering "He said it would give me str
 
 Grom gave us a map he made. Apparently, there was a Garrison by the Tower, but it's missing. 
 
+![[20250624_184256.jpg]]
+
 Carved; "Speak the vows, bind the halves, light the flame". In the book of vows; "From breath to silence I remain by your side." Pick was reading from the book, so I had to yell at her - I feel bad for yelling, but I think it was the right thing to do.
 
 #### Session 4; The Shoreside Inn (cont.)
