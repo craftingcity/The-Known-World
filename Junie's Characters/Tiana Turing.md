@@ -102,7 +102,7 @@ A carving on the wall of the bunkhouse says; 'The dead remember. The dead regret
 
 We opened the box, it had money, a sealed scroll case, and a bloodstained scrap of a map - similar to the map we got from Grom - that says "The tower rebuilt, the tide will rise, the living bound beneath the wave" and shows the tower built with the garrison 'below it'.
 
-We heard footsteps at midnight while folks were watching, so we know we're not alone. Continuing to explore the Inn, we find more interesting chests and keys and the like. We find another page of Torrin's journal.
+We heard footsteps at midnight while folks were watching, so we know we're not alone. Continuing to explore the Inn, we find more interesting chests and keys and the like. We find another page of Torrin's journal, and in the Attic, theres so many skeletons! Ahh!
 
 ## Stats
 
@@ -111,7 +111,7 @@ We heard footsteps at midnight while folks were watching, so we know we're not a
 | STR  | 8  (-1)   | PRF    | +2        |
 | CON  | 13 (+1)   | M. HP  | 17 Max HP |
 | DEX  | 16 (+3)   | AC     | (13)      |
-| INT  | 20 (+5) ^ | C. HP  | 17 HP     |
+| INT  | 20 (+5) ^ | C. HP  | 15 HP     |
 | WIS  | 14 (+2) ^ | HD     | 3d6       |
 | CHA  | 11 (+0)   | SPD    | 25' (5s)  |
 
@@ -120,7 +120,7 @@ We heard footsteps at midnight while folks were watching, so we know we're not a
 | o   | o   | .   | .   | .   | .   | .   | .    | .   |
 | o   | o   | .   | .   | .   | .   | .   |      |     |
 | o   | .   | .   | .   | .   |     |     |      |     |
-| o   |     |     |     |     |     |     |      |     |
+| x   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
 ##### Skills
