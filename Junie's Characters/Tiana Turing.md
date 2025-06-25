@@ -117,7 +117,7 @@ We heard footsteps at midnight while folks were watching, so we know we're not a
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| o   | o   | .   | .   | .   | .   | .   | .    | .   |
+| x   | o   | .   | .   | .   | .   | .   | .    | .   |
 | x   | o   | .   | .   | .   | .   | .   |      |     |
 | x   | .   | .   | .   | .   |     |     |      |     |
 | x   |     |     |     |     |     |     |      |     |
@@ -187,7 +187,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 #### Equipment (1/3 Attuned)
 (10gp, 25sp)
 
-- 2x *Pot of Healing*; 2d4+2
+- 1x *Pot of Healing*; 2d4+2
 - Driftwood Carved Idol
 - 2x Femur
 - 3x 'Incense'
