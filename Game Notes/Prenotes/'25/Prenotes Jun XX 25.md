@@ -40,7 +40,7 @@ The party sends letters out to their patrons, requesting payments for a job well
 	Hey Em. I got some brass made for you, which should help some, and your money got here. And yeah, I know some folks who need some things moved around. You can talk with Sienna Clipwin at the Swift Foot Warehouse if you want to move something legal, or you can talk with Jasper otherwise. You'll find him hanging around the western market. Some folks have been talking about rumors of Harvord moving into town, so if you find anyone working for him, get 'em.
 
 	+ 475sp
-	+ Knuckle Dusters (+1d4 dam)
+	+ Knuckle Dusters (unarmed weapon, +1d4 damage punches)
 ```
 .
 	- Avery sends Leliana 500sp, her compliments, and another plan for an anti-Enforcer operation within Mossburg
@@ -48,18 +48,26 @@ The party sends letters out to their patrons, requesting payments for a job well
 **Operational Debrief**
 	Your performance was satisfactory. Your fee has been payed.
 
+	+ 500sp
+
 **Operational Assignment**
 	Enter the Prison under the Garrison. Locate and eliminate the Captain of Imprisonment. Locate Prisoner 6522 within Block B and escort them to the surface. 
+
+	+ Master Cell Key
 ```
 .
 	- Cassindil sends Zesh 450sp and their compliments, alongside information regarding a group of [[Hillkeep Loyalists]] coming to support the Enforcers 
 ```
-	Your comrades thank you
+	Your comrades thank you. Please find a payment enclosed. You are welcome to return, although your current position with your allies continues to support our mission. Should you choose to stay, be aware that the target of your recent activities have requested assistance from other communities - namely the Dwarven Kingdom Jammu and their Hillkeep Loyalists. 
+
+	+ 450sp
 ```
 .
 	- Avery also sends Xenfer 300sp, a vague threat against his family, and her compliments regarding the operation
 ```
+	Your performance was satisfactory. A payment has been enclosed. Continue to comply, and your loved ones will remain safe.
 
+	+ 300sp
 ```
 .
 
