@@ -33,33 +33,100 @@
         ]
       },
       {
-        "id": "d5073b64bb3c226d",
-        "type": "tabs",
+        "id": "eeadd4f13858d882",
+        "type": "split",
         "children": [
           {
-            "id": "270f798b67438c6b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "d5073b64bb3c226d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "270f798b67438c6b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/NPCs/List of Names.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "List of Names"
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
-                "mode": "source",
-                "source": true
               },
-              "icon": "lucide-file",
-              "title": "List of Names"
-            }
+              {
+                "id": "d199d4d7c624f235",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Campaign Rosters/The Stinkers Game.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Stinkers Game"
+                },
+                "group": "6124d5e7404471ba"
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "98ee2e0ced4f0428",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "08e337d5db50ffd8",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Game Notes/Campaign Rosters/The Stinkers Game.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for The Stinkers Game"
+                },
+                "group": "6124d5e7404471ba"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -312,8 +379,9 @@
   },
   "active": "81779c11ff62bb25",
   "lastOpenFiles": [
-    "Game Notes/NPCs/List of Names.md",
+    "Game Notes/Campaign Rosters/The Stinkers Game.md",
     "Game Notes/Prenotes/'25/Prenotes Jun XX 25.md",
+    "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
@@ -338,7 +406,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Custom Class - Alchemist.md",
     "Game Notes/Prenotes/'25/Prenotes May 19 25.md",
-    "Game Notes/Prenotes/'25/Prenotes May 14 25.md",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",

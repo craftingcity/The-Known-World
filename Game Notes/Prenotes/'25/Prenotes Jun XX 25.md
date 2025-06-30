@@ -45,12 +45,16 @@ The party sends letters out to their patrons, requesting payments for a job well
 .
 	- Avery sends Leliana 500sp, her compliments, and another plan for an anti-Enforcer operation within Mossburg
 ```
-	
+**Operational Debrief**
+	Your performance was satisfactory. Your fee has been payed.
+
+**Operational Assignment**
+	Enter the Prison under the Garrison. Locate and eliminate the Captain of Imprisonment. Locate Prisoner 6522 within Block B and escort them to the surface. 
 ```
 .
 	- Cassindil sends Zesh 450sp and their compliments, alongside information regarding a group of [[Hillkeep Loyalists]] coming to support the Enforcers 
 ```
-
+	Your comrades thank you
 ```
 .
 	- Avery also sends Xenfer 300sp, a vague threat against his family, and her compliments regarding the operation
