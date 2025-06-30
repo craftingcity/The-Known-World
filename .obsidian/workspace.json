@@ -20,10 +20,43 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'25/Prenotes Jun XX 25.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Prenotes Jun XX 25"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d5073b64bb3c226d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "270f798b67438c6b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/List of Names.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "List of Names"
             }
           }
         ]
@@ -76,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poison",
+                "query": "Avalon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +158,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -278,6 +312,8 @@
   },
   "active": "81779c11ff62bb25",
   "lastOpenFiles": [
+    "Game Notes/NPCs/List of Names.md",
+    "Game Notes/Prenotes/'25/Prenotes Jun XX 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
@@ -303,7 +339,6 @@
     "Custom Class - Alchemist.md",
     "Game Notes/Prenotes/'25/Prenotes May 19 25.md",
     "Game Notes/Prenotes/'25/Prenotes May 14 25.md",
-    "Game Notes/Prenotes/'25/Prenotes May 13 25.md",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",

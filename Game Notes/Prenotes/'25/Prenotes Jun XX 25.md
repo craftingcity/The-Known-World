@@ -14,7 +14,9 @@ aliases:
 
 ### Intro
 
-When last we left our heroes...
+When last we left our heroes, they had shaken the city of [[Mossburg]] to it's core. Under the direction of a series of letters, you four came together for a job that resulted in a massive explosion at the Mossburg Garrison in the Central District, crippling the Enforcer's control of the city. After celebrating a job well done, you all returned to the Araborum for a good nights rest. In the morning, you gather together at the bar to find a series of packages awaiting you. 
+
+With the day before you, and opportunities presenting themselves to you, I must ask; what do you want to do?
 
 ### What does the World Know?
 #### The Garrison's Destruction
@@ -32,7 +34,10 @@ The Enforcers of Mossburg have been crippled. The time comes to apply the final 
 A 5000sp bounty has been placed on a serial murderer.
 #### The Letters
 The party sends letters out to their patrons, requesting payments for a job well done and information on what more to be doing.
-	- Paul sends Em a pair of knuckle dusters, 475sp, and a list of 3 minor transport/supply jobs
+	- Paul sends Em a pair of knuckle dusters, 475sp, and a list of 3 minor transport/supply jobs;
+```
+	Hey Em. I got some brass made for you, which should help some, and your money got here. And yeah, I know some folks who need some things moved around. You can talk with Sienna Clipwin at the Swift Foot Warehouse if you want to move something legal, or you can talk with 
+```
 	- Avery sends Leliana 500sp, her compliments, and another plan for an anti-Enforcer operation within Mossburg
 	- Cassindil sends Zesh 450sp and their compliments, alongside information regarding a group of [[Hillkeep Loyalists]] coming to support the Enforcers 
 	- Avery also sends Xenfer 300sp, a vague threat against his family, and her compliments regarding the operation

@@ -71,7 +71,7 @@ aliases:
 | Glot      | Toor    | Marilynn |
 | Jerran    |         | Wren     |
 | Nylan     |         | Tiana    |
-| Revari    |         |          |
+| Revari    |         | Sienna   |
 |           |         |          |
 
 ## Last Names
