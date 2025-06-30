@@ -6,6 +6,7 @@
       {
         "id": "e431b90baeeb3f6d",
         "type": "tabs",
+        "dimension": 74.74155754651964,
         "children": [
           {
             "id": "81779c11ff62bb25",
@@ -29,12 +30,36 @@
               "icon": "lucide-file",
               "title": "Prenotes Jun XX 25"
             }
+          },
+          {
+            "id": "c86b5651efa535e9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mossburg"
+            }
           }
         ]
       },
       {
         "id": "eeadd4f13858d882",
         "type": "split",
+        "dimension": 25.258442453480356,
         "children": [
           {
             "id": "d5073b64bb3c226d",
@@ -176,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Avalon",
+                "query": "knuck",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -377,10 +402,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81779c11ff62bb25",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Game Notes/Campaign Rosters/The Stinkers Game.md",
     "Game Notes/Prenotes/'25/Prenotes Jun XX 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
@@ -405,7 +431,6 @@
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Custom Class - Alchemist.md",
-    "Game Notes/Prenotes/'25/Prenotes May 19 25.md",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",

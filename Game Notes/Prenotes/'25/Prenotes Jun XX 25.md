@@ -27,10 +27,10 @@ The Enforcers of Mossburg have been crippled. The time comes to apply the final 
 		- Avalon Shepards (on the Eastern Half of the Ring District)
 		- Militia of Scum (at and around the Scum & Villainy of the northern Ring District) 
 	+ Outside factions move assets into Mossburg
-		- The [[Hillkeep Loyalists]] and the [[Knights in Red]] move forces into the city at the request of [[Baron Vannis]]
-		- [[SEASEC]] moves mercenary forces into the city as invaders
-		- The [[Harvord Trading Company]] sends mercantile assets to capitalize on the tragedy 
-#### The Black Ghost Hunt
+		- The [[Hillkeep Loyalists]] and the [[Knights in Red]] move forces into the city at the request of [[Baron Vannis]] (vs MoS)
+		- [[SEASEC]] moves mercenary forces into the city as invaders (vs Avalon)
+		- The [[Harvord Trading Company]] sends mercantile assets to capitalize on the tragedy (vs RDFP)
+#### The Hunt for the Black Ghost
 A 5000sp bounty has been placed on a serial murderer.
 #### The Letters
 The party sends letters out to their patrons, requesting payments for a job well done and information on what more to be doing.
@@ -40,7 +40,7 @@ The party sends letters out to their patrons, requesting payments for a job well
 	Hey Em. I got some brass made for you, which should help some, and your money got here. And yeah, I know some folks who need some things moved around. You can talk with Sienna Clipwin at the Swift Foot Warehouse if you want to move something legal, or you can talk with Jasper otherwise. You'll find him hanging around the western market. Some folks have been talking about rumors of Harvord moving into town, so if you find anyone working for him, get 'em.
 
 	+ 475sp
-	+ Knuckle Dusters (+1d4 dam)
+	+ Knuckle Dusters (+1 to hit, +1d4 damage)
 ```
 .
 	- Avery sends Leliana 500sp, her compliments, and another plan for an anti-Enforcer operation within Mossburg
@@ -49,17 +49,25 @@ The party sends letters out to their patrons, requesting payments for a job well
 	Your performance was satisfactory. Your fee has been payed.
 
 **Operational Assignment**
-	Enter the Prison under the Garrison. Locate and eliminate the Captain of Imprisonment. Locate Prisoner 6522 within Block B and escort them to the surface. 
+	Enter the Prison under the Garrison. Do not cause significant structural damage. Locate and eliminate the Captain of Imprisonment. Locate Prisoner 6522 within Block B and escort them to the surface.
+
+	+500sp
 ```
 .
 	- Cassindil sends Zesh 450sp and their compliments, alongside information regarding a group of [[Hillkeep Loyalists]] coming to support the Enforcers 
 ```
-	Your comrades thank you
+	Your comrades thank you for your efforts. Negotiations are still ongoing, but you have made a significant impact in our standing with SEASEC. Continuing your operations with this group would be benifitial to all of us back home, and I would be happy to compensate you. Rumbles of your actions have spread across the Combine, and the Enforcers are calling upon their alliances - the Hillkeep Loyalists and the Knights in Red will likely enter the northern sections of the city. Be unafraid of the political implications of conflict with those groups, you act under the banner of SEASEC in this matter.
+
+	+ 450sp
 ```
 .
 	- Avery also sends Xenfer 300sp, a vague threat against his family, and her compliments regarding the operation
 ```
+	Xenfer. Your performance was satisfactory.
 
+	Continued compliance will be rewarded, and dissent will be punished. Your family is well. Let us keep them that way.
+
+	+ 300sp
 ```
 .
 
