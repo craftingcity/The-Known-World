@@ -32,6 +32,9 @@ The Enforcers of Mossburg have been crippled. The time comes to apply the final 
 		- The [[Harvord Trading Company]] sends mercantile assets to capitalize on the tragedy 
 #### The Black Ghost Hunt
 A 5000sp bounty has been placed on a serial murderer.
+	- The murders are random
+	- The murders of non-Enforcers go unreported
+	- The murders occur on in Avalon (eastside Mossburg)
 #### The Letters
 The party sends letters out to their patrons, requesting payments for a job well done and information on what more to be doing.
 	- Paul sends Em a pair of knuckle dusters, 475sp, and a list of 3 minor transport/supply jobs;
@@ -55,10 +58,10 @@ The party sends letters out to their patrons, requesting payments for a job well
 
 	+ Master Cell Key
 ```
-.
+. 
 	- Cassindil sends Zesh 450sp and their compliments, alongside information regarding a group of [[Hillkeep Loyalists]] coming to support the Enforcers 
 ```
-	Your comrades thank you. Please find a payment enclosed. You are welcome to return, although your current position with your allies continues to support our mission. Should you choose to stay, be aware that the target of your recent activities have requested assistance from other communities - namely the Dwarven Kingdom Jammu and their Hillkeep Loyalists. 
+	Your comrades thank you. Please find a payment enclosed. You are welcome to return, although your current position with your allies continues to support our mission. Should you choose to stay, be aware that the target of your recent activities have requested assistance from other communities - namely the Dwarven Kingdom Jammu and their Hillkeep Loyalists. Fear no political repercussion resulting from conflict with these groups, you are acting under the banner of SEASEC. 
 
 	+ 450sp
 ```
@@ -66,6 +69,8 @@ The party sends letters out to their patrons, requesting payments for a job well
 	- Avery also sends Xenfer 300sp, a vague threat against his family, and her compliments regarding the operation
 ```
 	Your performance was satisfactory. A payment has been enclosed. Continue to comply, and your loved ones will remain safe.
+
+	Glory to SEASEC.
 
 	+ 300sp
 ```
