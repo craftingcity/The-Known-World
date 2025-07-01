@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for *date*
+# Prenotes for June 30th
 ## Party of Interest: [[The Stinkers Game]]
 - [ ] DM Screen
 - [ ] Notepaper
