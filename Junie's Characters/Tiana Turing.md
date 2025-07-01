@@ -92,10 +92,10 @@ This Torin guy got fucking cursed or something by this stuff - something about "
 
 #### Session 5: The Shoreside Inn (cont.)
 ###### Todo;
-- [  ] Clear the upper floors of the Shoreside Inn
-- [  ] Figure out what happened to Torrin
+- [ x ] Clear the upper floors of the Shoreside Inn
+- [ x ] Figure out what happened to Torrin
 	- Bring Grom over to ID bodies?
-- [  ] Scan the Shoreside Inn with Detect Magic
+- [ x ] Scan the Shoreside Inn with Detect Magic
 - [  ] Figure out what kind of Zombies these are?
 
 A carving on the wall of the bunkhouse says; 'The dead remember. The dead regret.' Each of the zombies here are wearing the same uniforms of a tunic, leather pants, and holsters - but no weapons.
@@ -103,6 +103,10 @@ A carving on the wall of the bunkhouse says; 'The dead remember. The dead regret
 We opened the box, it had money, a sealed scroll case, and a bloodstained scrap of a map - similar to the map we got from Grom - that says "The tower rebuilt, the tide will rise, the living bound beneath the wave" and shows the tower built with the garrison 'below it'.
 
 We heard footsteps at midnight while folks were watching, so we know we're not alone. Continuing to explore the Inn, we find more interesting chests and keys and the like. We find another page of Torrin's journal, and in the Attic, theres so many skeletons! Ahh!
+
+#### Session 6: The Shoreside Inn (cont.)
+###### Todo;
+- [  ] 
 
 ## Stats
 
@@ -227,6 +231,6 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 - While you are Attuned, the Coin can be used as a Arcane Focus.
 - While you are Attuned, the Coin grants +1 to Arcana Skill Checks.
 - While you are Attuned, you may store a 1st Level Wizard Spell in the Coin.
-- While you are Attuned, once per long rest, before you cast a spell (0/10);
+- While you are Attuned, once per long rest, before you cast a spell (1/10);
 	- *(Heads)* Gain Advantage on an Attack Roll made for the spell, or impose Disadvantage on a Saving Throw made for the spell.
 	- *(Tails)* Regain the lowest level spell slot expended to cast the spell.
