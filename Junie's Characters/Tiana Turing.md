@@ -106,7 +106,10 @@ We heard footsteps at midnight while folks were watching, so we know we're not a
 
 #### Session 6: The Shoreside Inn (cont.)
 ###### Todo;
-- [  ] 
+- [  ] Kill the Skeletons
+- [  ] Check the Basement
+
+Ahh, there are still a lot of skeletons!
 
 ## Stats
 
@@ -166,7 +169,7 @@ Don't forget *the Flip*!
 		x [Feather Fall](https://dnd5e.wikidot.com/spell:feather-fall)
 		x [Shield](https://dnd5e.wikidot.com/spell:shield)
 		x [Sleep](https://dnd5e.wikidot.com/spell:sleep)
-		x [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs) (*1 slot in Coin*)
+		x [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs)
 		o [Snare](https://dnd5e.wikidot.com/spell:snare) (30ft rope)
 		x (C) [Protection from Good and Evil](https://dnd5e.wikidot.com/spell:protection-from-evil-and-good)
 	- **2nd Level Spells**;
@@ -230,7 +233,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 - *Requires Attunment*
 - While you are Attuned, the Coin can be used as a Arcane Focus.
 - While you are Attuned, the Coin grants +1 to Arcana Skill Checks.
-- While you are Attuned, you may store a 1st Level Wizard Spell in the Coin.
+- While you are Attuned, you may store a 1st Level Wizard Spell in the Coin (currently *Silvery Barbs*).
 - While you are Attuned, once per long rest, before you cast a spell (1/10);
 	- *(Heads)* Gain Advantage on an Attack Roll made for the spell, or impose Disadvantage on a Saving Throw made for the spell.
 	- *(Tails)* Regain the lowest level spell slot expended to cast the spell.
