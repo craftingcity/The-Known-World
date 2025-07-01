@@ -75,9 +75,32 @@
               "icon": "lucide-file",
               "title": "The Gear..."
             }
+          },
+          {
+            "id": "e395d9bb07246489",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mossburg"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -329,8 +352,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acf57c9d2497242d",
+  "active": "e395d9bb07246489",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
     "Junie's Characters/Tiana Turing.md",
@@ -357,7 +381,6 @@
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Big Lore.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",

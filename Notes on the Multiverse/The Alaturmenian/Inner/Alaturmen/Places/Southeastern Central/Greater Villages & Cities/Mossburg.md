@@ -33,6 +33,7 @@ The Central District is completely controlled by the [[Mossburg Enforcers]], and
 ### The Ring District
 The Ring District is the heart of the people of Mossburg. Most of the population lives within the outer walls, but outside the tall tower-gates of [[#The Central District]].
 	- *The Araborum*
+	- *Jerasmus, the Tinker*
 ### The Under District
 The Under District is a largely uncontrolled system of sewers, tunnels, and basements that travel and connect throughout the city. A handful of locations are under the direct control of an authority, but most are unaligned or abandoned.
 	- *The Drowned Dancer*
