@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Avalon",
+                "query": "Clipwin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -281,7 +281,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "416f030219b43730",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Game Notes/NPCs/List of Names.md",
     "Game Notes/Campaign Rosters/The Stinkers Game.md",
