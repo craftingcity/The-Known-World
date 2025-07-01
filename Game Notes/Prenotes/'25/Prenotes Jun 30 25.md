@@ -80,6 +80,6 @@ The party sends letters out to their patrons, requesting payments for a job well
 
 ### What happened?
 
-
+They went shopping, then to the Swift Foot Warehouse. 
 
 We leave our heroes on the date of ... AF, as they ...
