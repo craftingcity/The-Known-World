@@ -109,7 +109,7 @@ We heard footsteps at midnight while folks were watching, so we know we're not a
 - [  ] Kill the Skeletons
 - [  ] Check the Basement
 
-Ahh, there are still a lot of skeletons! This main guy was talking to us for a bit, asking why were here and stuff before more skeletons came from above.
+Ahh, there are still a lot of skeletons! This main guy was talking to us for a bit, asking why were here and stuff before more skeletons came from above. We gottem, and found a bunch of stuff in boxes, including pages of Torrin's journal. Torrin is a madman, I think, and has been for a while. Lenny was described as an Assistant, and eventually as a Test Subject, and a Faithful Animal.
 
 ## Stats
 
@@ -197,7 +197,6 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 - 1x *Pot of Healing*; 2d4+2
 - Driftwood Carved Idol
 - Ivory Lizardfolk Idol
-- 2x Femur
 - 3x 'Incense'
 - 3x 'Charcoal'
 - Scroll of Remove Curse
