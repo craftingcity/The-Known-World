@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "692ffaac15993726",
+        "id": "30907413a1adfb3d",
         "type": "tabs",
         "children": [
           {
-            "id": "416f030219b43730",
+            "id": "bae00f1909203acf",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,12 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes Jun XX 25.md",
+                "file": "Junie's Characters/Tiana Turing.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Jun XX 25"
+              "title": "Tiana Turing"
             }
           }
         ]
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.50418853759766
+    "width": 418.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -281,12 +282,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17bba7903284a409",
+  "active": "bae00f1909203acf",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'25/Prenotes Jun XX 25.md",
     "Game Notes/NPCs/List of Names.md",
     "Game Notes/Campaign Rosters/The Stinkers Game.md",
     "conflict-files-obsidian-git.md",
-    "Game Notes/Prenotes/'25/Prenotes Jun XX 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
