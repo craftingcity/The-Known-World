@@ -109,7 +109,7 @@ We heard footsteps at midnight while folks were watching, so we know we're not a
 - [  ] Kill the Skeletons
 - [  ] Check the Basement
 
-Ahh, there are still a lot of skeletons!
+Ahh, there are still a lot of skeletons! This main guy was talking to us for a bit, asking why were here and stuff before more skeletons came from above.
 
 ## Stats
 
@@ -118,13 +118,13 @@ Ahh, there are still a lot of skeletons!
 | STR  | 8  (-1)   | PRF    | +2        |
 | CON  | 13 (+1)   | M. HP  | 17 Max HP |
 | DEX  | 16 (+3)   | AC     | (13)      |
-| INT  | 20 (+5) ^ | C. HP  | 15 HP     |
+| INT  | 20 (+5) ^ | C. HP  | 11 HP     |
 | WIS  | 14 (+2) ^ | HD     | 3d6       |
 | CHA  | 11 (+0)   | SPD    | 25' (5s)  |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| x   | o   | .   | .   | .   | .   | .   | .    | .   |
+| x   | x   | .   | .   | .   | .   | .   | .    | .   |
 | x   | o   | .   | .   | .   | .   | .   |      |     |
 | x   | .   | .   | .   | .   |     |     |      |     |
 | x   |     |     |     |     |     |     |      |     |
@@ -196,6 +196,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 
 - 1x *Pot of Healing*; 2d4+2
 - Driftwood Carved Idol
+- Ivory Lizardfolk Idol
 - 2x Femur
 - 3x 'Incense'
 - 3x 'Charcoal'
@@ -213,7 +214,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 	Cloth Shirt
 	Canvas Cloak
 	Canvas Backpack
-		- Fur & Leahter Bedroll
+		- Fur & Leather Bedroll
 		- Mess Kit & Tinderbox
 		- 10x Torches
 		- 10x Rations
@@ -221,7 +222,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 		- Small Brass Brazier
 *Groin*:
 	Equipment Belt
-		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]])
+		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]] 0/1)
 		- Sheath (Dagger)
 *Legs*:
 	Canvas Cloak
