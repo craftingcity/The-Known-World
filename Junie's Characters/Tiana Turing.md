@@ -3,7 +3,7 @@ tags:
 aliases:
 ---
 # Tiana Turing
-## Gnome Wizard, Auxiliarist (Wizard 3)
+## Gnome Wizard, Auxiliarist (Wizard 4)
 ### she/they
 
 > Standing at 3'9", Tiana wears a practical brown canvas cloak and a comparably large backpack.
@@ -109,27 +109,29 @@ We heard footsteps at midnight while folks were watching, so we know we're not a
 - [  ] Kill the Skeletons
 - [  ] Check the Basement
 
-Ahh, there are still a lot of skeletons! This main guy was talking to us for a bit, asking why were here and stuff before more skeletons came from above. We gottem, and found a bunch of stuff in boxes, including pages of Torrin's journal. Torrin is a madman, I think, and has been for a while. Lenny was described as an Assistant, and eventually as a Test Subject, and a Faithful Animal. We're dealing with some kind of transformation curse, lycanthropy I think its called. 
+Ahh, there are still a lot of skeletons! This main guy was talking to us for a bit, asking why were here and stuff before more skeletons came from above. We gottem, and found a bunch of stuff in boxes, including pages of Torrin's journal. Torrin is a madman, I think, and has been for a while. Lenny was described as an Assistant, a Test Subject, and a Faithful Animal. We're dealing with some kind of transformation curse, lycanthropy I think its called. 
 
-The Inn was sealed before the Undead showed up. I'm thinking that what Torrin was doing and the coming of the fog are related.
+The Inn was sealed before the Undead showed up. I'm thinking that what Torrin was doing and the coming of the fog are related. The factions have become less trusting as time continues.
+
+In the light of the wee morning, Tiana spotted a crashed ship on the Reef, but I could only see it for a moment.
 
 ## Stats
 
-| L. 3 | XP: 1,670 | /2,700 |           |
+| L. 4 | XP: 2,720 | /2,700 |           |
 | ---- | --------- | ------ | --------- |
 | STR  | 8  (-1)   | PRF    | +2        |
-| CON  | 13 (+1)   | M. HP  | 17 Max HP |
+| CON  | 13 (+1)   | M. HP  | 22 Max HP |
 | DEX  | 16 (+3)   | AC     | (13)      |
-| INT  | 20 (+5) ^ | C. HP  | 11 HP     |
-| WIS  | 14 (+2) ^ | HD     | 3d6       |
+| INT  | 20 (+5) ^ | C. HP  | 22 HP     |
+| WIS  | 14 (+2) ^ | HD     | 4d6       |
 | CHA  | 11 (+0)   | SPD    | 25' (5s)  |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| x   | x   | .   | .   | .   | .   | .   | .    | .   |
-| x   | o   | .   | .   | .   | .   | .   |      |     |
-| x   | .   | .   | .   | .   |     |     |      |     |
-| x   |     |     |     |     |     |     |      |     |
+| o   | o   | .   | .   | .   | .   | .   | .    | .   |
+| o   | o   | .   | .   | .   | .   | .   |      |     |
+| o   | o   | .   | .   | .   |     |     |      |     |
+| o   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
 ##### Skills
@@ -164,22 +166,22 @@ Don't forget *the Flip*!
 		- [Frostbite](https://dnd5e.wikidot.com/spell:frostbite)
 		- [Mage Hand](https://dnd5e.wikidot.com/spell:mage-hand)
 		- [Prestidigitation](https://dnd5e.wikidot.com/spell:prestidigitation)
-		- * [Sword Burst](https://dnd5e.wikidot.com/spell:sword-burst)
+		- [Sword Burst](https://dnd5e.wikidot.com/spell:sword-burst)
 	- **1st Level Spells**;
 		o (R) [Alarm](https://dnd5e.wikidot.com/spell:alarm)
 		o [Chromatic Orb](https://dnd5e.wikidot.com/spell:chromatic-orb) (50gp diamond)
-		x (R, C) [Detect Magic](https://dnd5e.wikidot.com/spell:detect-magic) 
+		o (R, C) [Detect Magic](https://dnd5e.wikidot.com/spell:detect-magic) 
 		x [Feather Fall](https://dnd5e.wikidot.com/spell:feather-fall)
 		x [Shield](https://dnd5e.wikidot.com/spell:shield)
-		x [Sleep](https://dnd5e.wikidot.com/spell:sleep)
+		o [Sleep](https://dnd5e.wikidot.com/spell:sleep)
 		x [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs)
-		o [Snare](https://dnd5e.wikidot.com/spell:snare) (30ft rope)
+		x [Snare](https://dnd5e.wikidot.com/spell:snare) (30ft rope)
 		x (C) [Protection from Good and Evil](https://dnd5e.wikidot.com/spell:protection-from-evil-and-good)
-		* [Thunderwave](https://dnd5e.wikidot.com/spell:thunderwave)
+		x [Thunderwave](https://dnd5e.wikidot.com/spell:thunderwave)
 	- **2nd Level Spells**;
 		x (C) [Hold Person](https://dnd5e.wikidot.com/spell:hold-person)
 		x (C) [Dragon's Breath](https://dnd5e.wikidot.com/spell:dragons-breath)
-		* [Snowball Swarm](https://dnd5e.wikidot.com/spell:snillocs-snowball-swarm)
+		x [Snowball Swarm](https://dnd5e.wikidot.com/spell:snillocs-snowball-swarm)
 
 ##### Arcane Recovery
 - Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
