@@ -109,7 +109,7 @@ We heard footsteps at midnight while folks were watching, so we know we're not a
 - [  ] Kill the Skeletons
 - [  ] Check the Basement
 
-Ahh, there are still a lot of skeletons! This main guy was talking to us for a bit, asking why were here and stuff before more skeletons came from above. We gottem, and found a bunch of stuff in boxes, including pages of Torrin's journal. Torrin is a madman, I think, and has been for a while. Lenny was described as an Assistant, and eventually as a Test Subject, and a Faithful Animal.
+Ahh, there are still a lot of skeletons! This main guy was talking to us for a bit, asking why were here and stuff before more skeletons came from above. We gottem, and found a bunch of stuff in boxes, including pages of Torrin's journal. Torrin is a madman, I think, and has been for a while. Lenny was described as an Assistant, and eventually as a Test Subject, and a Faithful Animal. We're dealing with some kind of transformation curse, lycanthropy I think its called. 
 
 ## Stats
 
@@ -162,6 +162,7 @@ Don't forget *the Flip*!
 		- [Frostbite](https://dnd5e.wikidot.com/spell:frostbite)
 		- [Mage Hand](https://dnd5e.wikidot.com/spell:mage-hand)
 		- [Prestidigitation](https://dnd5e.wikidot.com/spell:prestidigitation)
+		- * [Sword Burst](https://dnd5e.wikidot.com/spell:sword-burst)
 	- **1st Level Spells**;
 		o (R) [Alarm](https://dnd5e.wikidot.com/spell:alarm)
 		o [Chromatic Orb](https://dnd5e.wikidot.com/spell:chromatic-orb) (50gp diamond)
@@ -172,9 +173,11 @@ Don't forget *the Flip*!
 		x [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs)
 		o [Snare](https://dnd5e.wikidot.com/spell:snare) (30ft rope)
 		x (C) [Protection from Good and Evil](https://dnd5e.wikidot.com/spell:protection-from-evil-and-good)
+		* [Thunderwave](https://dnd5e.wikidot.com/spell:thunderwave)
 	- **2nd Level Spells**;
 		x (C) [Hold Person](https://dnd5e.wikidot.com/spell:hold-person)
 		x (C) [Dragon's Breath](https://dnd5e.wikidot.com/spell:dragons-breath)
+		* [Snowball Swarm](https://dnd5e.wikidot.com/spell:snillocs-snowball-swarm)
 
 ##### Arcane Recovery
 - Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
