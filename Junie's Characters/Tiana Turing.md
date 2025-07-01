@@ -117,7 +117,7 @@ In the light of the wee morning, Tiana spotted a crashed ship on the Reef, but I
 
 ## Stats
 
-| L. 4 | XP: 2,720 | /2,700 |           |
+| L. 4 | XP: 2,720 | /6,500 |           |
 | ---- | --------- | ------ | --------- |
 | STR  | 8  (-1)   | PRF    | +2        |
 | CON  | 13 (+1)   | M. HP  | 22 Max HP |
@@ -156,7 +156,7 @@ In the light of the wee morning, Tiana spotted a crashed ship on the Reef, but I
 	- **(R)** [Identify](https://dnd5e.wikidot.com/spell:identify), (100gp pearl)
 	- **(R)** [Find Familiar](https://dnd5e.wikidot.com/spell:find-familiar) (10gp charcoal, incense, and herbs)
 
-##### Spellcasting (Prep 8)
+##### Spellcasting (Prep 9)
 - You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
 - Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook (T = 4 + (L * 2)).
 
