@@ -194,6 +194,10 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 	- When you cast a wizard spell with a spell slot, you can temporarily replace its damage type with a type that appears in another spell in your spellbook. The latter spell must be of the same level as the spell slot you expend.
 	- When you cast a wizard spell as a ritual, you can use the spell's normal casting time, rather than adding 10 minutes to it. Once you use this benefit, you can't do so again until you finish a long rest.
 
+##### Telekinetic
+- You can cast *mage hand* without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it.
+- As a bonus action, you can try to *telekinetically shove* one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward or away from you. A creature can willingly fail this save.
+
 #### Equipment (1/3 Attuned)
 (10gp, 25sp)
 
