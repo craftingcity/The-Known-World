@@ -28,7 +28,7 @@ Anita was born in [[Coalition City]], in the Producing of 84AF, to a relatively 
 Since her adolescence, she has attempted to form and reshape her understanding of the world as she gathers more and more information. As her information hunt progressed, she joined [[Jade Ward#The Center of Arcane Education]], and was eventually pressured into an internship with [[Otto Malkovich]] to finish her thesis and graduate, when she encountered the [[The Secretkeepers]].
 
 #### Adventure
-Her thesis is presented in the form of a spell (backed with her theory and research, of course) that will, once complete, present its caster with information on the status of a person's Faith.
+Her thesis is presented in the form of a spell (backed with her theory and research, of course) that will, once complete, present its caster with information on the status of a target's Faith relations.
 
 ## Important Knowledge
 
