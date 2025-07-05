@@ -122,7 +122,7 @@
                     }
                   }
                 ],
-                "currentTab": 3
+                "currentTab": 1
               },
               {
                 "id": "3dfff6f3d74a014b",
@@ -188,6 +188,29 @@
                   },
                   "icon": "lucide-file",
                   "title": "Prenotes July 05 25"
+                }
+              },
+              {
+                "id": "8555d03e2d3d5c53",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Colin Talaveem.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Colin Talaveem"
                 }
               }
             ]
@@ -446,14 +469,14 @@
   },
   "active": "d73841e573c3bcab",
   "lastOpenFiles": [
-    "Colin Talaveem.md",
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
+    "Colin Talaveem.md",
     "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md",
     "may 25.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Elysium/Elysium.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Outer.md",
