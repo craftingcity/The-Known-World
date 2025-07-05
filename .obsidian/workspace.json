@@ -10,7 +10,7 @@
           {
             "id": "cf432151c3ea5898",
             "type": "split",
-            "dimension": 23.523206751054854,
+            "dimension": 38.087105038428696,
             "children": [
               {
                 "id": "c48bd0f7a2e7c5d8",
@@ -68,9 +68,61 @@
                       "title": "The Secretkeepers"
                     },
                     "group": "8c5e097a7f633c72"
+                  },
+                  {
+                    "id": "c0c42acdaf80d61b",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 1,
+                      "stack": [
+                        {
+                          "title": "may 25",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"may 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"may 25\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "state": "{}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md",
+                        "mode": "source",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "Kohnstamm"
+                    }
+                  },
+                  {
+                    "id": "ad2a89905556c643",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "state": "{}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
+                        "mode": "source",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "Prenotes May 24 25"
+                    }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 3
               },
               {
                 "id": "3dfff6f3d74a014b",
@@ -113,7 +165,7 @@
           {
             "id": "0bae57ce66e496e3",
             "type": "tabs",
-            "dimension": 38.23839662447257,
+            "dimension": 61.9128949615713,
             "children": [
               {
                 "id": "d73841e573c3bcab",
@@ -139,120 +191,6 @@
                 }
               }
             ]
-          },
-          {
-            "id": "c5b4b84e2c8cf34e",
-            "type": "tabs",
-            "dimension": 38.23839662447257,
-            "children": [
-              {
-                "id": "557816ce6f3d9c68",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 1,
-                  "stack": [
-                    {
-                      "title": "Asmodeus",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Absolute Power/Devil Prince NPCs/Asmodeus.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Asmodeus\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                    },
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Pandemonium",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Outer/Abyss/Pandemonium.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Pandemonium\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "Campaigns",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaigns.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Campaigns\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Grand Pantheon"
-                }
-              },
-              {
-                "id": "f68813f742f762a9",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Elysium",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Outer/Elysium/Elysium.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Elysium\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "Baator",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Baator\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "Outer",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Outer/Outer.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Outer\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "Inner",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Inner.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Inner\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "Notes on the Multiverse",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Notes on the Multiverse\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "Prenotes July 05 25",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'25/Prenotes July 05 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes July 05 25\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "Avernus",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Avernus\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Mechanis"
-                }
-              }
-            ],
-            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -358,7 +296,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.50418853759766
+    "width": 418.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -507,17 +446,21 @@
   },
   "active": "d73841e573c3bcab",
   "lastOpenFiles": [
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "Colin Talaveem.md",
+    "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
+    "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md",
+    "may 25.md",
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Elysium/Elysium.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Outer.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Baator",
     "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Game Notes/NPCs/Weak Power/Anita Rewch.md",
     "Demons.md",
     "Devils.md",
@@ -530,10 +473,6 @@
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
     "Game Notes/NPCs/Absolute Power/Devil Prince NPCs/Asmodeus.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Abyss/Pandemonium.md",
-    "Game Notes/Campaigns.md",
-    "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
-    "Game Notes/NPCs/Mild Power/Otto Malkovich.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",

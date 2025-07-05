@@ -5,12 +5,28 @@
       "path": "Game Notes/Prenotes/'25/Prenotes July 05 25.md"
     },
     {
-      "basename": "The Secretkeepers",
-      "path": "Game Notes/Campaign Rosters/The Secretkeepers.md"
+      "basename": "Colin Talaveem",
+      "path": "Colin Talaveem.md"
+    },
+    {
+      "basename": "Prenotes May 24 25",
+      "path": "Game Notes/Prenotes/'25/Prenotes May 24 25.md"
+    },
+    {
+      "basename": "Kohnstamm",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md"
+    },
+    {
+      "basename": "Grand Pantheon",
+      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
     },
     {
       "basename": "Mechanis",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md"
+    },
+    {
+      "basename": "The Secretkeepers",
+      "path": "Game Notes/Campaign Rosters/The Secretkeepers.md"
     },
     {
       "basename": "Elysium",
@@ -35,10 +51,6 @@
     {
       "basename": "Avernus",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md"
-    },
-    {
-      "basename": "Grand Pantheon",
-      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
     },
     {
       "basename": "Anita Rewch",
@@ -95,10 +107,6 @@
     {
       "basename": "Campaigns",
       "path": "Game Notes/Campaigns.md"
-    },
-    {
-      "basename": "Prenotes May 24 25",
-      "path": "Game Notes/Prenotes/'25/Prenotes May 24 25.md"
     },
     {
       "basename": "Otto Malkovich",
@@ -191,14 +199,6 @@
     {
       "basename": "Cenva Minyo",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md"
-    },
-    {
-      "basename": "Noble House a'Haruuc",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Haruuc.md"
-    },
-    {
-      "basename": "Noble Houses of Prosper",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md"
     }
   ],
   "omittedPaths": [],
