@@ -23,7 +23,9 @@ With Anita and her dolls safely amongst you, you lit the condo on fire and fled 
 ##### Roan the Slimknife
 ##### The ICC & Kohnstamm
 ##### The Northern Conflicts
+The [[Northern Conflicts, c.105af]] have coalesced around [[The Holy City of Kanielkiln|Kanielkiln]], but significant change has come to the southern regions of [[The Holyl'nds]] in the form of death and destruction.
 ##### The NotADeer
+The Arbiter known as Notadeer comes to Otto, gaining contract to free him and keep his research, and costing him his soul, and eventually his physical form.
 
 ### What happened?
 

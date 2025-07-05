@@ -16,7 +16,7 @@ The second layer is composed of nearly all harshly chopped mountain, but it play
 The third layer is a endless toxic swamp consistenly berated by harsh winds, hail, and acid rain, dotted with minor pockets of civilization built of stone.
 
 #### [[Phlegethos]], Fourth Layer of Hell
-A blazing desolation of fire and lava, the fourth layer is host to a place known as The Pit of Flame, a large pit of *hell-fire*, a flame of such strength it bypasses the strongest fire resistances - and one of the worst punishments available to those who break the 'Laws' of Baator.
+A blazing desolation of fire and lava, the fourth layer is host to a place known as The Pit of Flame, a large pit of *hell-fire*, a flame of such strength it bypasses the strongest fire resistances - and one of the worst punishments available to those who break the Laws of Baator.
 
 #### [[Stygia]], Fifth Layer of Hell
 A vast fozen sea of icebergs and floating sheets. It is named after the [[River Styx]], which flows throughout the layer. Some of the sheets host large cities, and navigation between these settlements was relatively easy because of the presence of the Styx.
@@ -37,6 +37,14 @@ The layer was a featureless plain with jagged edges that extend 2,500 miles fr
 
 ###### Table of Contents
 %% Begin Waypoint %%
-
+- [[Avernus]]
+- [[Cania]]
+- [[Dis]]
+- [[Maladomini]]
+- [[Malbolge]]
+- [[Minauros]]
+- [[Nessus]]
+- [[Phlegethos]]
+- [[Stygia]]
 
 %% End Waypoint %%

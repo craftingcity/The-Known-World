@@ -30,6 +30,8 @@ aliases:
 
 This creature Saorise had an encounter with is an Arbiter, a class of devil typically present only within [[Minauros]], the 3rd Hell of [[Baator]].
 
+Arbiters are very powerful devils, capable of generating life-long verbal or mental contracts with other creatures they encounter. 
+
 ##### The Research Partner
 [[Otto Malkovich]] is a 3rd generation Malkovich, and has distanced himself from the family history to the best of his ability. Instead, he has joined [[The Church of the White Flame]]'s ICC research and development department. 
 

@@ -31,7 +31,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Anita Rewch.md",
+                        "file": "Game Notes/NPCs/Weak Power/Anita Rewch.md",
                         "mode": "source",
                         "source": true
                       },
@@ -130,7 +130,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Prenotes July 05 25.md",
+                    "file": "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
                     "mode": "source",
                     "source": true
                   },
@@ -187,7 +187,7 @@
                 }
               },
               {
-                "id": "2086d10e185ab64e",
+                "id": "f68813f742f762a9",
                 "type": "leaf",
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -197,21 +197,45 @@
                       "eState": "{}"
                     },
                     {
-                      "title": "Grand Pantheon",
+                      "title": "Elysium",
                       "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Absolute Power/Grand Pantheon.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Grand Pantheon\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":163,\"ch\":65},\"to\":{\"line\":163,\"ch\":65}},\"scroll\":142.96211289697837}"
-                    },
-                    {
-                      "title": "Pandemonium",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Outer/Abyss/Pandemonium.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Pandemonium\"}",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Outer/Elysium/Elysium.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Elysium\"}",
                       "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                     },
                     {
-                      "title": "Campaigns",
+                      "title": "Baator",
                       "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaigns.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Campaigns\"}",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Baator\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Outer",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Outer/Outer.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Outer\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Inner",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Inner.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Inner\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Notes on the Multiverse",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Notes on the Multiverse\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Prenotes July 05 25",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'25/Prenotes July 05 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes July 05 25\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Avernus",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Avernus\"}",
                       "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                     }
                   ]
@@ -219,12 +243,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+                    "file": "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Baator"
+                  "title": "Mechanis"
                 }
               }
             ],
@@ -281,7 +305,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"the library",
+                "query": "tag:#planes  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -330,13 +354,11 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 418.50418853759766,
-    "collapsed": true
+    "width": 418.50418853759766
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -483,35 +505,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d261d30d7c5a8c4",
+  "active": "d73841e573c3bcab",
   "lastOpenFiles": [
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Elysium/Elysium.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Outer.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Baator",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "Game Notes/NPCs/Weak Power/Anita Rewch.md",
+    "Demons.md",
+    "Devils.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Nessus.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Cania.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Malbolge.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
     "Game Notes/NPCs/Absolute Power/Devil Prince NPCs/Asmodeus.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Abyss/Pandemonium.md",
     "Game Notes/Campaigns.md",
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
-    "Prenotes July 05 25.md",
-    "Anita Rewch.md",
     "Game Notes/NPCs/Mild Power/Otto Malkovich.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md",
-    "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
-    "Game Notes/Campaign Rosters/The Stinkers Game.md",
-    "Junie's Characters/Tiana Turing.md",
-    "Game Notes/NPCs/List of Names.md",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "MEDIA/MAPS/20250624_184256.jpg",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Items by Region.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Hills of Actsow/Hameer.md",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
@@ -525,7 +548,6 @@
     "MEDIA/SUPP/SCRIPTS/hexfill.py",
     "MEDIA/SUPP/SCRIPTS",
     "MEDIA/SUPP/SPREADS/moodboards.pdf",
-    "MEDIA/SUPP/SPREADS/moodboards.odp",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "MEDIA/CHAR/danteFinal.jpg"
   ]
