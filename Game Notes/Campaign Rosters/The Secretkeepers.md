@@ -3,7 +3,7 @@ tags:
   - roster
 aliases:
 ---
-# Adventures of 'The Paraeducators?'
+# Adventures of 'The Secretkeepers'
 ## People
 ##### Zipper, the 22nd Subject
 - born into the Ideology Correction Corps [[Kohnstamm]] Experimental Genetics program
@@ -21,6 +21,8 @@ aliases:
 - what the fuck really happened, what is the NotADeer, how do I stop it?
 
 ### Trusted Allies
+[[Anita Rewch]]
+
 ### Mortal Adversaries
 ##### The Not A Deer
 > "Something about the deer feels off, however; it is slightly too big to be a normal deer, its antlers are unnaturally shaped, and its eyes are too dark to be natural - less black, and more like a void - as no light reflects from them."

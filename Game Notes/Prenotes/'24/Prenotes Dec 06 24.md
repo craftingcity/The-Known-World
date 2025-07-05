@@ -5,7 +5,7 @@ aliases:
 ---
 
 # Prenotes for December 6th
-## Party of Interest: [[ParaeducatorGame]]
+## Party of Interest: [[The Secretkeepers]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -32,7 +32,7 @@ They met a man named Nikolai, and did drugs on the side of the road with him, so
 They made their way into Coalition City, were they plan to falsify the delivery they were hired for, maybe to blame the driver for the misdelivery. In addition, Zipper is looking for a Firearms shop, Roan is looking for other Slimknife/SEASec contacts (for missions? for information?), Saoirse is hunting for information about her experience with the 'Not a Deer', Nikolai is looking to scout the Guild of Wizards Center of Arcane Education, and Wren is still mostly around for the ride... i think.
 
 # Prenotes for December 7th
-## Party of Interest: [[ParaeducatorGame]]
+## Party of Interest: [[The Secretkeepers]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep

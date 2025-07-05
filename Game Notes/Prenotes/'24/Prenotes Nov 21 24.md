@@ -5,7 +5,7 @@ aliases:
 ---
 
 # Prenotes for November 21st
-## Party of Interest: [[ParaeducatorGame]]
+## Party of Interest: [[The Secretkeepers]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
