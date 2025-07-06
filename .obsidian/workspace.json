@@ -55,7 +55,7 @@
             }
           },
           {
-            "id": "26f81184f6d94749",
+            "id": "6e482cc0c0ff4a5d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Data.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Population Data"
+              "title": "Arthur's Knights"
             }
           }
         ],
@@ -390,10 +390,11 @@
   },
   "active": "d73841e573c3bcab",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Data.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Center Data.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Data.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Center Data.md",
     "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md",
     "Game Notes/NPCs/Weak Power/Anita Rewch.md",
@@ -416,7 +417,6 @@
     "Devils.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Nessus.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Cania.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",

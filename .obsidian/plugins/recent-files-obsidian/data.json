@@ -5,12 +5,16 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md"
     },
     {
-      "basename": "Population Data",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Data.md"
+      "basename": "Arthur's Knights",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
     },
     {
       "basename": "The Kingdom of Prosper",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
+    },
+    {
+      "basename": "Population Data",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Data.md"
     },
     {
       "basename": "Population Center Data",
@@ -195,10 +199,6 @@
     {
       "basename": "Items by Region",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Items by Region.md"
-    },
-    {
-      "basename": "Hameer",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Hills of Actsow/Hameer.md"
     }
   ],
   "omittedPaths": [],
