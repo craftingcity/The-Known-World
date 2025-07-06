@@ -47,4 +47,6 @@ In either case, as the party approaches [[Kohnstamm]], between the Arch Pass (L7
 
 Saorsie and 22 brutally intimidate a chump alchemist into selling 25k of components @ 1.5x for 37.5k sp
 
+[[The Secretkeepers]] buy a house in [[Coalition City]] @ 15k sp, then they are giving Anita 2k for furnishing her Laboratory and the rest of the house, and then buying food and stuff. 
+
 We leave our heroes on the date of ... AF, as they ...
