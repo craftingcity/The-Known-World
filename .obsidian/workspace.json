@@ -53,8 +53,7 @@
               "title": "Custom Heritages"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -306,8 +305,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "161b0cfb07082cd8",
+  "active": "4620e3a09607cd5b",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
@@ -333,7 +333,6 @@
     "Game Notes/Campaign Rosters/The Stinkers Game.md",
     "Junie's Characters/Tiana Turing.md",
     "Game Notes/NPCs/List of Names.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
