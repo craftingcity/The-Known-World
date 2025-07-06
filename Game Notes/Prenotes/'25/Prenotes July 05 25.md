@@ -23,7 +23,7 @@ With Anita and her plushies safely amongst you, you lit the condo on fire and fl
 Otto has been relocated to [[Kohnstamm]]'s Experimental Genetics Facility, a well guarded prison where researchers perform live experiments on people for the benefit of the Church's military prowess.
 
 ##### Roan the Slimknife
-Roan has an assignment to disrupt or disturb Prosperian forces at the western flank of the Conflict. By causing Prosper to focus on their efforts in the West, they fail to support their allies in the South attempting to take the city of [[Mossburg]].
+Roan has an assignment to disrupt or disturb Prosperian forces at the western flank of the Conflict. By causing Prosper to focus on their efforts in the West, they would fail to support their allies in the South attempting to take the city of [[Mossburg]].
 
 ##### The ICC & Kohnstamm
 [[Kohnstamm]] has seen some damage in the face of the [[Northern Conflicts, c.105af]], but maintain their strict guard around the city to the best of their ability, being an incredibly important strategic resource to the Church.
@@ -34,7 +34,7 @@ Reaching the city itself will be a challenge, entering it likely more so, and en
 From one of the many Desks of Personal Management of the ICC, [[Colin Talaveem]] was the Desk that reassigned Dr. Malkovich from his, Victor's, and Anna's life-extension and -transference project (designated as a general 'Explorative Study') to the more pressing wartime efforts at the EGF.
 
 ##### The Northern Conflicts
-The [[Northern Conflicts, c.105af]] have coalesced around [[The Holy City of Kanielkiln|Kanielkiln]], but significant change has come to the southern regions of [[The Holyl'nds]] in the form of death and destruction.
+The [[Northern Conflicts, c.105af]] have coalesced around [[The Holy City of Kanielkiln|Kanielkiln]], but significant change has come to the southern regions of [[The Holyl'nds]].
 
 ##### The NotADeer
 The Arbiter known as Notadeer comes to Otto, gaining contract to free him and keep his research, in exchange for his soul, and eventually his physical form.

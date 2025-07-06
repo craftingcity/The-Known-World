@@ -54,3 +54,6 @@ Siege units could be equipped with improved equipment, or simply a powerful myst
 
 Engineering and Medical Corps have efficient and effective equipment, allowing them to continue the war-machine for longer.
 
+# Force Organization
+## Kingdom of Prosper
+Total Population: 383.3k
