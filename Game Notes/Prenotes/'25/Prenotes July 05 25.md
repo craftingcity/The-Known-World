@@ -41,7 +41,7 @@ From [[Coalition City]], your two choices are to travel North first, or to trave
 - By travelling West first, the party will pass through the Suremantle Territories, into [[Mountain Hall]] and then [[Groundiki]] before exiting onto the Faithroad Highway and continuing north-west.
 - By travelling North first, the party will pass into the area around [[Yerba]] and [[Buqyr]], where a significant military staging can be seen, before travelling west, passing [[Wychway]] and the ruined villages surrounding, before continuing north-west.
 
-In either case, as the party approaches [[Kohnstamm]], between the Arch Pass (L7) and the Kohnstamm Roadblock (K6), they will be stopped by members of the Church's Homeland Force, where they will be searched and tolled or refused passage.
+In either case, as the party approaches [[Kohnstamm]], between the Arch Pass (L7) and the Kohnstamm Roadblock (K6), they will be stopped by members of the Church's Homeland Force, where they will be searched and tolled or refused passage. There are 16 soldiers stationed at the Roadblock, of which 4 patrol at a time. 2 of the 16 are capable of healing magics, and of course, 1 is of higher rank.
 
 ### What happened?
 
