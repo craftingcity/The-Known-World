@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e8d08dac3dfa4d6a",
+        "id": "f9160564d9a38e85",
         "type": "tabs",
         "children": [
           {
-            "id": "e97bf39007af437a",
+            "id": "aa6ba8e1879627b7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,45 +22,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "file": "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Gear..."
-            }
-          }
-        ]
-      },
-      {
-        "id": "640874352f0e9994",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8ae0c84e37c31f4b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Prenotes July 05 25"
             }
           },
           {
-            "id": "9dc2cd44e305a0af",
+            "id": "cb0e023f861fceaf",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -74,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Litteortosta.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Custom Features"
+              "title": "Litteortosta"
             }
           }
         ]
@@ -132,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "l7",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,8 +152,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -334,34 +304,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ae0c84e37c31f4b",
+  "active": "aa6ba8e1879627b7",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
     "Untitled.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Game Notes/NPCs/Mild Power/Midboss/Nylan Roul.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
+    "Game Notes/NPCs/Absolute Power/Alaturmian God NPCs/Its Greatness.md",
     "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md",
-    "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Golden Ward.md",
-    "Game Notes/Prenotes/'25/Prenotes Jan 18 25.md",
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
-    "Game Notes/Campaigns.md",
-    "conflict-files-obsidian-git.md",
-    "Anita Rewch.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Litteortosta.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "Colin Talaveem.md",
-    "Game Notes/NPCs/Mild Power/Otto Malkovich.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md",
-    "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
-    "Game Notes/Campaign Rosters/The Stinkers Game.md",
-    "Junie's Characters/Tiana Turing.md",
-    "Game Notes/NPCs/List of Names.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Data.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Center Data.md",
+    "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md",
+    "Game Notes/NPCs/Weak Power/Anita Rewch.md",
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/South Littemotto.md",
+    "may 25.md",
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Elysium/Elysium.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Outer.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Baator",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
+    "Demons.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
@@ -376,7 +347,6 @@
     "MEDIA/SUPP/SCRIPTS/hexfill.py",
     "MEDIA/SUPP/SCRIPTS",
     "MEDIA/SUPP/SPREADS/moodboards.pdf",
-    "MEDIA/SUPP/SPREADS/moodboards.odp",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "MEDIA/CHAR/danteFinal.jpg"
   ]
