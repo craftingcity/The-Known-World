@@ -4,58 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d23b3d1b15972c3",
+        "id": "f9160564d9a38e85",
         "type": "tabs",
         "children": [
           {
-            "id": "f7ae441517b3fecd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Population Data",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Data.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Population Data\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":158}},\"scroll\":0}"
-                },
-                {
-                  "title": "Population Center Data",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Center Data.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Population Center Data\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Population Data",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Data.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Population Data\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "The Kingdom of Prosper",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Kingdom of Prosper\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":48},\"to\":{\"line\":20,\"ch\":48}},\"scroll\":11.345069032579778}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Kingdom of Prosper"
-            }
-          },
-          {
-            "id": "6e482cc0c0ff4a5d",
+            "id": "aa6ba8e1879627b7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -69,75 +22,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
+                "file": "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Arthur's Knights"
+              "title": "Prenotes July 05 25"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "0bae57ce66e496e3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8555d03e2d3d5c53",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Colin Talaveem.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Colin Talaveem"
-            }
-          },
-          {
-            "id": "d73841e573c3bcab",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Prenotes July 05 25",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'25/Prenotes July 05 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes July 05 25\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":389},\"to\":{\"line\":16,\"ch\":389}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Alaturmen's Magical Armies"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -388,18 +281,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d73841e573c3bcab",
+  "active": "aa6ba8e1879627b7",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
+    "Colin Talaveem.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Data.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Center Data.md",
     "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md",
     "Game Notes/NPCs/Weak Power/Anita Rewch.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
-    "Colin Talaveem.md",
     "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/South Littemotto.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Litteortosta.md",

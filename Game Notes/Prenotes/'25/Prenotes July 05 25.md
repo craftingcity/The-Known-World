@@ -22,22 +22,23 @@ With Anita and her plushies safely amongst you, you lit the condo on fire and fl
 ##### Otto Malkovich
 Otto has been relocated to [[Kohnstamm]]'s Experimental Genetics Facility, a well guarded prison where researchers perform live experiments on people for the benefit of the Church's military prowess.
 
-##### Roan the Slimknife
-Roan has an assignment to disrupt or disturb Prosperian forces at the western flank of the Conflict. By causing Prosper to focus on their efforts in the West, they would fail to support their allies in the South attempting to take the city of [[Mossburg]].
+From one of the many Desks of Personal Management of the ICC, [[Colin Talaveem]] was the Desk that reassigned Dr. Malkovich from his, Victor's, and Anna's life-extension and -transference project (designated as a general 'Explorative Study') to the more pressing wartime efforts at the EGF.
 
-##### The ICC & Kohnstamm
 [[Kohnstamm]] has seen some damage in the face of the [[Northern Conflicts, c.105af]], but maintain their strict guard around the city to the best of their ability, being an incredibly important strategic resource to the Church.
 
 Reaching the city itself will be a challenge, entering it likely more so, and entering the EGF would be relatively impossible at the moment.
-
-###### Colin Talaveem
-From one of the many Desks of Personal Management of the ICC, [[Colin Talaveem]] was the Desk that reassigned Dr. Malkovich from his, Victor's, and Anna's life-extension and -transference project (designated as a general 'Explorative Study') to the more pressing wartime efforts at the EGF.
-
 ##### The Northern Conflicts
 The [[Northern Conflicts, c.105af]] have coalesced around [[The Holy City of Kanielkiln|Kanielkiln]], but significant change has come to the southern regions of [[The Holyl'nds]].
 
+Roan has an assignment to disrupt or disturb Prosperian forces at the western flank of the Conflict. By causing Prosper to focus on their efforts in the West, they would fail to support their allies in the South attempting to take the city of [[Mossburg]].
+
 ##### The NotADeer
-The Arbiter known as Notadeer comes to Otto, gaining contract to free him and keep his research, in exchange for his soul, and eventually his physical form.
+The Arbiter known as Notadeer comes to Otto, gaining contract to free him and keep his research, in exchange for his soul, and eventually his physical form - but this can act as a 'deus ex machina' in his moment of need.
+
+#### Travelling
+From [[Coalition City]], your two choices are to travel North first, or to travel West first.
+
+
 
 ### What happened?
 
