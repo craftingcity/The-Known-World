@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e8d08dac3dfa4d6a",
+        "id": "10e744d966d6451e",
         "type": "tabs",
         "children": [
           {
-            "id": "e97bf39007af437a",
+            "id": "4620e3a09607cd5b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,22 +22,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Gear..."
+              "title": "Custom Cultures"
             }
-          }
-        ]
-      },
-      {
-        "id": "640874352f0e9994",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "9dc2cd44e305a0af",
+            "id": "161b0cfb07082cd8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -51,15 +45,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Custom Features"
+              "title": "Custom Heritages"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -311,15 +306,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9dc2cd44e305a0af",
+  "active": "161b0cfb07082cd8",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md",
+    "Untitled.md",
     "Game Notes/NPCs/Mild Power/Midboss/Nylan Roul.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
     "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md",
     "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Golden Ward.md",
     "Game Notes/Prenotes/'25/Prenotes Jan 18 25.md",
@@ -337,8 +334,6 @@
     "Junie's Characters/Tiana Turing.md",
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
