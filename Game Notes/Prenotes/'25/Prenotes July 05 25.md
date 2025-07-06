@@ -31,7 +31,7 @@ Roan has an assignment to disrupt or disturb Prosperian forces at the western fl
 Reaching the city itself will be a challenge, entering it likely more so, and entering the EGF would be relatively impossible at the moment.
 
 ###### Colin Talaveem
-From one of the many Desks of Personal Management of the ICC, [[Colin Talaveem]] was the Desk that reassigned Dr. Malkovich from his, Victor's, and Anna's life-extension and -transference project to the more pressing wartime efforts at the EGF.
+From one of the many Desks of Personal Management of the ICC, [[Colin Talaveem]] was the Desk that reassigned Dr. Malkovich from his, Victor's, and Anna's life-extension and -transference project (designated as a general 'Explorative Study') to the more pressing wartime efforts at the EGF.
 
 ##### The Northern Conflicts
 The [[Northern Conflicts, c.105af]] have coalesced around [[The Holy City of Kanielkiln|Kanielkiln]], but significant change has come to the southern regions of [[The Holyl'nds]] in the form of death and destruction.
