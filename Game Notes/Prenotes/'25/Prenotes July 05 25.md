@@ -45,5 +45,6 @@ In either case, as the party approaches [[Kohnstamm]], between the Arch Pass (L7
 
 ### What happened?
 
+Saorsie and 22 brutally intimidate a chump alchemist into selling 25k of components @ 1.5x for 37.5k sp
 
 We leave our heroes on the date of ... AF, as they ...
