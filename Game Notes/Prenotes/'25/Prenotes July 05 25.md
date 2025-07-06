@@ -51,13 +51,12 @@ Saorsie and 22 brutally intimidate a chump alchemist into selling 25k of compone
 
 #### INITIATIVE at the Wall of Kohnstamm
 
-20 - Roan (20)
+20 - Roan (20, 16)
 12 - Saorsia
-12 - Pink
 11 - 22
 9 - Niko
-2 - Green (23)
-1 - White (23, 33)
+
+
 
 
 We leave our heroes on the date of ... AF, as they ...
