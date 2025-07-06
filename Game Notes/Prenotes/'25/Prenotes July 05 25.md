@@ -38,7 +38,10 @@ The Arbiter known as Notadeer comes to Otto, gaining contract to free him and ke
 #### Travelling
 From [[Coalition City]], your two choices are to travel North first, or to travel West first.
 
+- By travelling West first, the party will pass through the Suremantle Territories, into [[Mountain Hall]] and then [[Groundiki]] before exiting onto the Faithroad Highway and continuing north-west.
+- By travelling North first, the party will pass into the area around [[Yerba]] and [[Buqyr]], where a significant military staging can be seen, before travelling west, passing [[Wychway]] and the ruined villages surrounding, before continuing north-west.
 
+In either case, as the party approaches [[Kohnstamm]], between the Arch Pass (L7) and the Kohnstamm Roadblock (K6), they will be stopped by members of the Church's Homeland Force, where they will be searched and tolled or refused passage.
 
 ### What happened?
 
