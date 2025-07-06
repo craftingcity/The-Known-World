@@ -24,10 +24,14 @@
                   ]
                 },
                 "state": {
-                  "type": "empty",
-                  "state": {},
+                  "type": "markdown",
+                  "state": {
+                    "file": "conflict-files-obsidian-git.md",
+                    "mode": "source",
+                    "source": true
+                  },
                   "icon": "lucide-file",
-                  "title": "New tab"
+                  "title": "conflict-files-obsidian-git"
                 }
               }
             ]
@@ -368,6 +372,8 @@
   },
   "active": "8831d6b8b4d81193",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
     "Anita Rewch.md",
     "Colin Talaveem.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
@@ -382,7 +388,6 @@
     "Game Notes/Campaign Rosters/The Stinkers Game.md",
     "Junie's Characters/Tiana Turing.md",
     "Game Notes/NPCs/List of Names.md",
-    "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
@@ -394,7 +399,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Hills of Actsow/Hameer.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Alaturmen Militaries.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",

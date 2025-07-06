@@ -54,3 +54,44 @@ Siege units could be equipped with improved equipment, or simply a powerful myst
 
 Engineering and Medical Corps have efficient and effective equipment, allowing them to continue the war-machine for longer.
 
+# Force Organization
+## Kingdom of Prosper
+Total Population: *383.3k*, Levee Population: *49.8k*, Soldier Population: *11.5k*
+
+##### Arthur's Knights
+- Chapter Proprius
+- Chapter Constantia
+- Chapter Delectus
+- Chapter Fides
+- Chapter Probitas
+- Chapter Rectio
+
+##### Volunteer Companies
+- 
+
+## Church of Flame
+Total Population: *210.1k*, Levee Population: *x*, Soldier Population: *x*
+
+## Golden Claws
+Total Population: *36.8k*, Levee Population: *x*, Soldier Population: *x*
+
+## The Combine
+Total Population: *589.8k*, Levee Population: *x*, Soldier Population: *x*
+
+## The Guilds
+Total Population: *36.8k*, Levee Population: *x*, Soldier Population: *x*
+
+## The Dwarven Kingdom Actstow
+Total Population: *88.4k*, Levee Population: *x*, Soldier Population: *x*
+
+## Cenva Minyo
+Total Population: *66.4k*, Levee Population: *x*, Soldier Population: *x*
+
+## The Dwarven Kingdom Suremantle
+Total Population: *239.6k*, Levee Population: *x*, Soldier Population: *x*
+
+## Blood Clans
+Total Population: *199k*, Levee Population: *x*, Soldier Population: *x*
+
+## Desert Outlanders (Nomads & Theives)
+Total Population: *60.8k*, Levee Population: *x*, Soldier Population: *x*
