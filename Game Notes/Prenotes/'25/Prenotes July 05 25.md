@@ -49,4 +49,15 @@ Saorsie and 22 brutally intimidate a chump alchemist into selling 25k of compone
 
 [[The Secretkeepers]] buy a house in [[Coalition City]] @ 15k sp, then they are giving Anita 2k for furnishing her Laboratory and the rest of the house, and then buying food and stuff. 
 
+#### INITIATIVE at the Wall of Kohnstamm
+
+20 - Roan
+18 - Black
+12 - Saorsia
+12 - Pink
+11 - 22
+9 - Niko
+2 - Green
+
+
 We leave our heroes on the date of ... AF, as they ...
