@@ -8,167 +8,11 @@
         "type": "split",
         "children": [
           {
-            "id": "cf432151c3ea5898",
-            "type": "split",
-            "dimension": 38.087105038428696,
-            "children": [
-              {
-                "id": "c48bd0f7a2e7c5d8",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "8831d6b8b4d81193",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Game Notes/NPCs/Weak Power/Anita Rewch.md",
-                        "mode": "source",
-                        "source": true
-                      },
-                      "icon": "lucide-file",
-                      "title": "Anita Rewch"
-                    }
-                  },
-                  {
-                    "id": "3d261d30d7c5a8c4",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        },
-                        {
-                          "title": "Prenotes May 24 25",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'25/Prenotes May 24 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes May 24 25\"}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":37},\"to\":{\"line\":6,\"ch\":37}}}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
-                        "mode": "source",
-                        "source": true
-                      },
-                      "icon": "lucide-file",
-                      "title": "The Secretkeepers"
-                    },
-                    "group": "8c5e097a7f633c72"
-                  },
-                  {
-                    "id": "c0c42acdaf80d61b",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 1,
-                      "stack": [
-                        {
-                          "title": "may 25",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"may 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"may 25\"}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                        },
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md",
-                        "mode": "source",
-                        "source": true
-                      },
-                      "icon": "lucide-file",
-                      "title": "Kohnstamm"
-                    }
-                  },
-                  {
-                    "id": "ad2a89905556c643",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
-                        "mode": "source",
-                        "source": true
-                      },
-                      "icon": "lucide-file",
-                      "title": "Prenotes May 24 25"
-                    }
-                  }
-                ],
-                "currentTab": 1
-              },
-              {
-                "id": "3dfff6f3d74a014b",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "63b4f80c689a7d15",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "backlink",
-                      "state": {
-                        "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
-                        "collapseAll": false,
-                        "extraContext": false,
-                        "sortOrder": "alphabetical",
-                        "showSearch": false,
-                        "searchQuery": "",
-                        "backlinkCollapsed": false,
-                        "unlinkedCollapsed": true
-                      },
-                      "icon": "links-coming-in",
-                      "title": "Backlinks for The Secretkeepers"
-                    },
-                    "group": "8c5e097a7f633c72"
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
-          },
-          {
-            "id": "0bae57ce66e496e3",
+            "id": "c48bd0f7a2e7c5d8",
             "type": "tabs",
-            "dimension": 61.9128949615713,
             "children": [
               {
-                "id": "d73841e573c3bcab",
+                "id": "8831d6b8b4d81193",
                 "type": "leaf",
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -180,40 +24,95 @@
                   ]
                 },
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
-                    "mode": "source",
-                    "source": true
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "Prenotes July 05 25"
-                }
-              },
-              {
-                "id": "8555d03e2d3d5c53",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Colin Talaveem.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Colin Talaveem"
+                  "title": "New tab"
                 }
               }
             ]
+          },
+          {
+            "id": "c5b4b84e2c8cf34e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2086d10e185ab64e",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Campaigns.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Campaigns"
+                }
+              },
+              {
+                "id": "342b8ad80eae5a12",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 1,
+                  "stack": [
+                    {
+                      "title": "Otto Malkovich",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/Mild Power/Otto Malkovich.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Otto Malkovich\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":44},\"to\":{\"line\":10,\"ch\":44}},\"scroll\":0}"
+                    },
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Secretkeepers"
+                }
+              },
+              {
+                "id": "3d261d30d7c5a8c4",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Prenotes May 24 25"
+                }
+              }
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -266,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#planes  ",
+                "query": "\"the library",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -315,12 +214,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 418.50418853759766,
-    "collapsed": true
+    "width": 418.50418853759766
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -467,36 +366,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d73841e573c3bcab",
+  "active": "8831d6b8b4d81193",
   "lastOpenFiles": [
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
-    "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
+    "Anita Rewch.md",
     "Colin Talaveem.md",
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "Game Notes/NPCs/Mild Power/Otto Malkovich.md",
+    "Game Notes/Campaigns.md",
     "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md",
-    "may 25.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Elysium/Elysium.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Outer.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Baator",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
-    "Game Notes/NPCs/Weak Power/Anita Rewch.md",
-    "Demons.md",
-    "Devils.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Nessus.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Cania.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Malbolge.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
-    "Game Notes/NPCs/Absolute Power/Devil Prince NPCs/Asmodeus.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md",
+    "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
+    "Game Notes/Campaign Rosters/The Stinkers Game.md",
+    "Junie's Characters/Tiana Turing.md",
+    "Game Notes/NPCs/List of Names.md",
+    "conflict-files-obsidian-git.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "MEDIA/MAPS/20250624_184256.jpg",
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Items by Region.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Hills of Actsow/Hameer.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Alaturmen Militaries.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
@@ -510,6 +408,7 @@
     "MEDIA/SUPP/SCRIPTS/hexfill.py",
     "MEDIA/SUPP/SCRIPTS",
     "MEDIA/SUPP/SPREADS/moodboards.pdf",
+    "MEDIA/SUPP/SPREADS/moodboards.odp",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "MEDIA/CHAR/danteFinal.jpg"
   ]
