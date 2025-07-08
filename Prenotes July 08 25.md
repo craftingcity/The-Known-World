@@ -34,6 +34,7 @@ The party will come into the "Working" Section of the Prison, and will face chal
 | Cells 3-A (Cells)       | Canteen (Fight over Food)             | Cells 3-B (Crafting Weapons) |
 | Solitary A (Solitary)   | Working (Entry)                       | Solitary B (Having a Party)  |
 
+The Prison was housing 36 inmates, of which 22 survive (6 on A-Side, )
 
 ### What happened?
 
