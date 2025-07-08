@@ -134,7 +134,7 @@ The Amulet of Twofold Drowning is related to the Grung somehow.
 
 ## Stats
 
-| L. 4 | XP: 2,720 | /6,500 | (1) Inspiration |
+| L. 4 | XP: 3,570 | /6,500 | (1) Inspiration |
 | ---- | --------- | ------ | --------------- |
 | STR  | 8  (-1)   | PRF    | +2              |
 | CON  | 13 (+1)   | M. HP  | 22 Max HP       |
