@@ -122,6 +122,8 @@ In the light of the wee morning, Tiana spotted a crashed ship on the Reef, but I
 	- (  ) Handle Undead prevention
 	- (  ) Improve travel capability?
 
+
+
 ## Stats
 
 | L. 4 | XP: 2,720 | /6,500 |           |
@@ -131,7 +133,7 @@ In the light of the wee morning, Tiana spotted a crashed ship on the Reef, but I
 | DEX  | 16 (+3)   | AC     | (13)      |
 | INT  | 20 (+5) ^ | C. HP  | 22 HP     |
 | WIS  | 14 (+2) ^ | HD     | 4d6       |
-| CHA  | 11 (+0)   | SPD    | 25' (5s)  |
+| CHA  | 12 (+1)   | SPD    | 25' (5s)  |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
@@ -174,6 +176,7 @@ Don't forget *the Flip*!
 		- [Mage Hand](https://dnd5e.wikidot.com/spell:mage-hand)
 		- [Prestidigitation](https://dnd5e.wikidot.com/spell:prestidigitation)
 		- [Sword Burst](https://dnd5e.wikidot.com/spell:sword-burst)
+		- [Mind Sliver](https://dnd5e.wikidot.com/spell:mind-sliver)
 	- **1st Level Spells**;
 		o (R) [Alarm](https://dnd5e.wikidot.com/spell:alarm)
 		o [Chromatic Orb](https://dnd5e.wikidot.com/spell:chromatic-orb) (50gp diamond)
@@ -206,7 +209,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 	- When you cast a wizard spell as a ritual, you can use the spell's normal casting time, rather than adding 10 minutes to it. Once you use this benefit, you can't do so again until you finish a long rest.
 
 ##### Telekinetic
-- You can cast *mage hand* without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it.
+- You can cast *mage hand* without verbal or somatic components, and you can make the spectral hand invisible.
 - As a bonus action, you can try to *telekinetically shove* one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward or away from you. A creature can willingly fail this save.
 
 #### Equipment (1/3 Attuned)
