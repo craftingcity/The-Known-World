@@ -27,12 +27,12 @@ The interior of the Prison is slightly damaged, primarily resulting in a semi-su
 
 The party will come into the "Working" Section of the Prison, and will face challenges as they navigate throughout.
 
-|               |                            |                           |
-| ------------- | -------------------------- | ------------------------- |
-| Cells 1-A ()  | Control (Death and Rubble) | Cells 1-B (Throne Room)              |
-| Cells 2-A ()  | Yard (Faction Conflict)    | Cells 2-B (Prisoner 6522) |
-| Cells 3-A ()  | Canteen (Fight over Food)  | Cells 3-B (Having a Par)              |
-| Solitary A () | Working (Entry)            | Solitary B ()             |
+|                         |                                       |                              |
+| ----------------------- | ------------------------------------- | ---------------------------- |
+| Cells 1-A (Storage)     | Control/Commissary (Death and Rubble) | Cells 1-B (Throne Room)      |
+| Cells 2-A (Headquarter) | Yard (Faction Conflict)               | Cells 2-B (Prisoner 6522)    |
+| Cells 3-A (Cells)       | Canteen (Fight over Food)             | Cells 3-B (Crafting Weapons) |
+| Solitary A (Solitary)   | Working (Entry)                       | Solitary B (Having a Party)  |
 
 
 ### What happened?
