@@ -20,7 +20,19 @@ You can see beyond the grate, you will enter into an unoccupied maintenance room
 
 ### What does the World Know?
 
+> **Operational Assignment**
+> Enter the Prison under the Garrison. Locate and eliminate the Captain of Imprisonment. Locate Prisoner 6522 within Block B and escort them to the surface. Report your completion within 4 days.
 
+The interior of the Prison is slightly damaged, primarily resulting in a semi-successful riot, splitting the prison. B Side, including the canteen, is controlled by the Prisoners, who have come to follow 'Rooter' as their leader, and A Side is controlled by the remaining Enforcers, and the Captain. 
+
+The party will come into the "Working" Section of the Prison, and will face challenges as they navigate throughout.
+
+|               |                            |                           |
+| ------------- | -------------------------- | ------------------------- |
+| Cells 1-A ()  | Control (Death and Rubble) | Cells 1-B (Throne Room)              |
+| Cells 2-A ()  | Yard (Faction Conflict)    | Cells 2-B (Prisoner 6522) |
+| Cells 3-A ()  | Canteen (Fight over Food)  | Cells 3-B (Having a Par)              |
+| Solitary A () | Working (Entry)            | Solitary B ()             |
 
 
 ### What happened?
