@@ -117,12 +117,13 @@ In the light of the wee morning, Tiana spotted a crashed ship on the Reef, but I
 
 #### Session 7: The Shoreside Inn (cont.)
 - [  ] Check the Basement
+- [  ] Save the Newly Weds
 - [  ] Clean up the Inn & Set up in there
-	- (  ) Find Torrin or Find Torrin's new spot
+	- (  ) Find Lenny or Find his new spot
 	- (  ) Handle Undead prevention
 	- (  ) Improve travel capability?
 
-
+We bought potions from Grom, 
 
 ## Stats
 
@@ -215,9 +216,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 #### Equipment (1/3 Attuned)
 (10gp, 25sp)
 
-- 1x *Pot of Healing*; 2d4+2
-- Driftwood Carved Idol
-- Ivory Lizardfolk Idol
+- 2x *Pot of Healing*; 2d4+2
 - 3x 'Incense'
 - 3x 'Charcoal'
 - Scroll of Remove Curse
