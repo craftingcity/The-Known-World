@@ -117,15 +117,13 @@ In the light of the wee morning, Tiana spotted a crashed ship on the Reef, but I
 
 #### Session 7: The Shoreside Inn (cont.)
 - [  ] Check the Basement
-- [  ] Save the Newly Weds
+- [ x ] Save the Newly Weds
 - [  ] Clean up the Inn & Set up in there
 	- (  ) Find Lenny or Find his new spot
 	- (  ) Handle Undead prevention
 	- (  ) Improve travel capability?
 
-We bought potions from Grom, he should be getting a new supply soon though. We want to deal with the newlyweds before we go deal with the basement. Dealing with the Newlyweds was a bit of trouble, but we figured it out by following the ritual works.
-
-
+We bought potions from Grom, he should be getting a new supply soon though. We want to deal with the newlyweds before we go deal with the basement. Dealing with the Newlyweds was a bit of trouble, but we figured it out by following the ritual works, and we got a little necklace of protection.
 
 ## Stats
 
