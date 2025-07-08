@@ -123,18 +123,20 @@ In the light of the wee morning, Tiana spotted a crashed ship on the Reef, but I
 	- (  ) Handle Undead prevention
 	- (  ) Improve travel capability?
 
-We bought potions from Grom, 
+We bought potions from Grom, he should be getting a new supply soon though. We want to deal with the newlyweds before we go deal with the basement. Dealing with the Newlyweds was a bit of trouble, but we figured it out by following the ritual works.
+
+
 
 ## Stats
 
-| L. 4 | XP: 2,720 | /6,500 |           |
-| ---- | --------- | ------ | --------- |
-| STR  | 8  (-1)   | PRF    | +2        |
-| CON  | 13 (+1)   | M. HP  | 22 Max HP |
-| DEX  | 16 (+3)   | AC     | (13)      |
-| INT  | 20 (+5) ^ | C. HP  | 22 HP     |
-| WIS  | 14 (+2) ^ | HD     | 4d6       |
-| CHA  | 12 (+1)   | SPD    | 25' (5s)  |
+| L. 4 | XP: 2,720 | /6,500 | (1) Inspiration |
+| ---- | --------- | ------ | --------------- |
+| STR  | 8  (-1)   | PRF    | +2              |
+| CON  | 13 (+1)   | M. HP  | 22 Max HP       |
+| DEX  | 16 (+3)   | AC     | (13)            |
+| INT  | 20 (+5) ^ | C. HP  | 22 HP           |
+| WIS  | 14 (+2) ^ | HD     | 4d6             |
+| CHA  | 12 (+1)   | SPD    | 25' (5s)        |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
