@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e7fdcd516293426e",
+        "id": "308ce7e24e751740",
         "type": "tabs",
         "children": [
           {
-            "id": "5bef6dc11d17155a",
+            "id": "db744350862339c0",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "The Stinkers Game",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/The Stinkers Game.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Stinkers Game\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -34,6 +28,35 @@
               },
               "icon": "lucide-file",
               "title": "Prenotes July 08 25"
+            }
+          },
+          {
+            "id": "a3952f98ebc14f7a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Mossburg",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Mossburg\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7760340483051742}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes Jun 30 25"
             }
           }
         ]
@@ -86,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "l7",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,11 +158,13 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 418.50418853759766
+    "width": 418.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -286,35 +311,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bef6dc11d17155a",
+  "active": "db744350862339c0",
   "lastOpenFiles": [
     "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Prenotes July 08 25.md",
-    "Game Notes/Campaign Rosters/The Stinkers Game.md",
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Litteortosta.md",
-    "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
-    "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
-    "Game Notes/NPCs/Absolute Power/Alaturmian God NPCs/Its Greatness.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
-    "Colin Talaveem.md",
+    "Junie's Characters/Tiana Turing.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Data.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Center Data.md",
+    "Untitled.md",
+    "Game Notes/NPCs/Mild Power/Midboss/Nylan Roul.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+    "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
     "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md",
-    "Game Notes/NPCs/Weak Power/Anita Rewch.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/South Littemotto.md",
-    "may 25.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Elysium/Elysium.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Outer.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Baator",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Golden Ward.md",
+    "Game Notes/Prenotes/'25/Prenotes Jan 18 25.md",
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "Game Notes/Campaigns.md",
+    "conflict-files-obsidian-git.md",
+    "Anita Rewch.md",
+    "Colin Talaveem.md",
+    "Game Notes/NPCs/Mild Power/Otto Malkovich.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md",
+    "Game Notes/Campaign Rosters/The Stinkers Game.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
@@ -329,6 +353,7 @@
     "MEDIA/SUPP/SCRIPTS/hexfill.py",
     "MEDIA/SUPP/SCRIPTS",
     "MEDIA/SUPP/SPREADS/moodboards.pdf",
+    "MEDIA/SUPP/SPREADS/moodboards.odp",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "MEDIA/CHAR/danteFinal.jpg"
   ]

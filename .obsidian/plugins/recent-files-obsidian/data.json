@@ -9,6 +9,10 @@
       "path": "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md"
     },
     {
+      "basename": "Mossburg",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md"
+    },
+    {
       "basename": "The Stinkers Game",
       "path": "Game Notes/Campaign Rosters/The Stinkers Game.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pandemonium",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Abyss/Pandemonium.md"
-    },
-    {
-      "basename": "Otto Malkovich",
-      "path": "Game Notes/NPCs/Mild Power/Otto Malkovich.md"
     }
   ],
   "omittedPaths": [],
