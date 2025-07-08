@@ -220,6 +220,8 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 - 3x 'Incense'
 - 3x 'Charcoal'
 - Scroll of Remove Curse
+- Anatomical Notes of Creatures of the Island
+	- 
 - Cold Iron Rat-Spiral Engraved Key
 
 *Hands*: 
