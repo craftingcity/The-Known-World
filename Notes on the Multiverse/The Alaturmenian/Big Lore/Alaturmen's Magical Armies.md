@@ -67,7 +67,8 @@ Total Population: *383.3k*, Levee Population: *49.8k*, Soldier Population: *11.5
 - Chapter Rectio
 
 ##### Volunteer Companies
-- 
+- 1st -> 8th Volunteer Companies
+- 25th Volunteer Company
 
 ## Church of Flame
 Total Population: *210.1k*, Levee Population: *x*, Soldier Population: *x*

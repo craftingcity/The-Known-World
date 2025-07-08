@@ -31,6 +31,20 @@
             }
           },
           {
+            "id": "c4aaf0bbc046ef02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "cb0e023f861fceaf",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -53,7 +67,8 @@
               "title": "Litteortosta"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -304,12 +319,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa6ba8e1879627b7",
+  "active": "c4aaf0bbc046ef02",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
+    "conflict-files-obsidian-git.md",
     "Untitled.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
     "Game Notes/NPCs/Absolute Power/Alaturmian God NPCs/Its Greatness.md",
-    "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Litteortosta.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
@@ -332,7 +348,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Baator",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
-    "Demons.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
