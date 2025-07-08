@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "10e744d966d6451e",
+        "id": "4a9df88361f4c203",
         "type": "tabs",
         "children": [
           {
-            "id": "4620e3a09607cd5b",
+            "id": "7491a1f1488ac916",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,37 +20,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Custom Cultures"
-            }
-          },
-          {
-            "id": "161b0cfb07082cd8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Custom Heritages"
+              "title": "New tab"
             }
           }
         ]
@@ -305,7 +278,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4620e3a09607cd5b",
+  "active": "7491a1f1488ac916",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
