@@ -116,14 +116,18 @@ The Inn was sealed before the Undead showed up. I'm thinking that what Torrin wa
 In the light of the wee morning, Tiana spotted a crashed ship on the Reef, but I could only see it for a moment.
 
 #### Session 7: The Shoreside Inn (cont.)
-- [  ] Check the Basement
+- [ x ] Check the Basement
 - [ x ] Save the Newly Weds
-- [  ] Clean up the Inn & Set up in there
+- [  ] ~~Clean up the Inn & Set up in there~~
 	- (  ) Find Lenny or Find his new spot
 	- (  ) Handle Undead prevention
 	- (  ) Improve travel capability?
 
 We bought potions from Grom, he should be getting a new supply soon though. We want to deal with the newlyweds before we go deal with the basement. Dealing with the Newlyweds was a bit of trouble, but we figured it out by following the ritual works, and we got a little necklace of protection.
+
+We found the *Veinlock Gate*, and it seems like Torrin wanted to open it up, he was talking about whispers behind it, and then he went on to talk about all the magic items we got. Torrin mentioned a Grimoire he was using. "The tower calls to me", he moved out of the Inn at some point. 
+
+
 
 ## Stats
 
@@ -217,11 +221,10 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 (10gp, 25sp)
 
 - 2x *Pot of Healing*; 2d4+2
-- 3x 'Incense'
+- 15x 'Incense'
 - 3x 'Charcoal'
 - Scroll of Remove Curse
 - Anatomical Notes of Creatures of the Island
-	- 
 - Cold Iron Rat-Spiral Engraved Key
 
 *Hands*: 
