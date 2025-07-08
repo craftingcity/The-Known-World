@@ -106,7 +106,7 @@ We heard footsteps at midnight while folks were watching, so we know we're not a
 
 #### Session 6: The Shoreside Inn (cont.)
 ###### Todo;
-- [  ] Kill the Skeletons
+- [ x ] Kill the Skeletons
 - [  ] Check the Basement
 
 Ahh, there are still a lot of skeletons! This main guy was talking to us for a bit, asking why were here and stuff before more skeletons came from above. We gottem, and found a bunch of stuff in boxes, including pages of Torrin's journal. Torrin is a madman, I think, and has been for a while. Lenny was described as an Assistant, a Test Subject, and a Faithful Animal. We're dealing with some kind of transformation curse, lycanthropy I think its called. 
@@ -114,6 +114,13 @@ Ahh, there are still a lot of skeletons! This main guy was talking to us for a b
 The Inn was sealed before the Undead showed up. I'm thinking that what Torrin was doing and the coming of the fog are related. The factions have become less trusting as time continues.
 
 In the light of the wee morning, Tiana spotted a crashed ship on the Reef, but I could only see it for a moment.
+
+#### Session 7: The Shoreside Inn (cont.)
+- [  ] Check the Basement
+- [  ] Clean up the Inn & Set up in there
+	- (  ) Find Torrin or Find Torrin's new spot
+	- (  ) Handle Undead prevention
+	- (  ) Improve travel capability?
 
 ## Stats
 

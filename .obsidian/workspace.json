@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a9df88361f4c203",
+        "id": "b5349febd911ac97",
         "type": "tabs",
         "children": [
           {
-            "id": "7491a1f1488ac916",
+            "id": "c6980c79876c6a0b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,10 +20,14 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Junie's Characters/Tiana Turing.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tiana Turing"
             }
           }
         ]
@@ -278,8 +282,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7491a1f1488ac916",
+  "active": "c6980c79876c6a0b",
   "lastOpenFiles": [
+    "Junie's Characters/Tiana Turing.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
@@ -304,7 +309,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md",
     "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
     "Game Notes/Campaign Rosters/The Stinkers Game.md",
-    "Junie's Characters/Tiana Turing.md",
     "Game Notes/NPCs/List of Names.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
