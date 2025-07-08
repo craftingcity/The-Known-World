@@ -106,7 +106,7 @@ We heard footsteps at midnight while folks were watching, so we know we're not a
 
 #### Session 6: The Shoreside Inn (cont.)
 ###### Todo;
-- [  ] Kill the Skeletons
+- [ x ] Kill the Skeletons
 - [  ] Check the Basement
 
 Ahh, there are still a lot of skeletons! This main guy was talking to us for a bit, asking why were here and stuff before more skeletons came from above. We gottem, and found a bunch of stuff in boxes, including pages of Torrin's journal. Torrin is a madman, I think, and has been for a while. Lenny was described as an Assistant, a Test Subject, and a Faithful Animal. We're dealing with some kind of transformation curse, lycanthropy I think its called. 
@@ -115,22 +115,39 @@ The Inn was sealed before the Undead showed up. I'm thinking that what Torrin wa
 
 In the light of the wee morning, Tiana spotted a crashed ship on the Reef, but I could only see it for a moment.
 
+#### Session 7: The Shoreside Inn (cont.)
+- [ x ] Check the Basement
+- [ x ] Save the Newly Weds
+- [  ] ~~Clean up the Inn & Set up in there~~
+	- (  ) Find Lenny or Torrin
+	- (  ) Handle Undead prevention (see *Veinlock Gate*)
+	- (  ) Improve travel capability?
+- [  ] Get a 100gp pearl for Identify
+
+We bought potions from Grom, he should be getting a new supply soon though. We want to deal with the newlyweds before we go deal with the basement. Dealing with the Newlyweds was a bit of trouble, but we figured it out by following the ritual works, and we got a little necklace of protection.
+
+We found the *Veinlock Gate*, and it seems like Torrin wanted to open it up, he was talking about whispers behind it, and then he went on to talk about all the magic items we got. Torrin mentioned a Grimoire he was using. "The tower calls to me", he moved out of the Inn at some point. 
+
+Soju knows that the *Sunken Pyre* and the *Silver Grove* are places on the island, in the Lizardkin territory and the Apekin territory.
+
+The Amulet of Twofold Drowning is related to the Grung somehow.
+
 ## Stats
 
-| L. 4 | XP: 2,720 | /6,500 |           |
-| ---- | --------- | ------ | --------- |
-| STR  | 8  (-1)   | PRF    | +2        |
-| CON  | 13 (+1)   | M. HP  | 22 Max HP |
-| DEX  | 16 (+3)   | AC     | (13)      |
-| INT  | 20 (+5) ^ | C. HP  | 22 HP     |
-| WIS  | 14 (+2) ^ | HD     | 4d6       |
-| CHA  | 11 (+0)   | SPD    | 25' (5s)  |
+| L. 4 | XP: 3,570 | /6,500 | (1) Inspiration |
+| ---- | --------- | ------ | --------------- |
+| STR  | 8  (-1)   | PRF    | +2              |
+| CON  | 13 (+1)   | M. HP  | 22 Max HP       |
+| DEX  | 16 (+3)   | AC     | (13)            |
+| INT  | 20 (+5) ^ | C. HP  | 22 HP           |
+| WIS  | 14 (+2) ^ | HD     | 4d6             |
+| CHA  | 12 (+1)   | SPD    | 25' (5s)        |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | .   | .   | .   | .   | .   | .    | .   |
-| o   | o   | .   | .   | .   | .   | .   |      |     |
-| o   | o   | .   | .   | .   |     |     |      |     |
+| o   | x   | .   | .   | .   | .   | .   |      |     |
+| o   | x   | .   | .   | .   |     |     |      |     |
 | o   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
@@ -167,6 +184,7 @@ Don't forget *the Flip*!
 		- [Mage Hand](https://dnd5e.wikidot.com/spell:mage-hand)
 		- [Prestidigitation](https://dnd5e.wikidot.com/spell:prestidigitation)
 		- [Sword Burst](https://dnd5e.wikidot.com/spell:sword-burst)
+		- [Mind Sliver](https://dnd5e.wikidot.com/spell:mind-sliver)
 	- **1st Level Spells**;
 		o (R) [Alarm](https://dnd5e.wikidot.com/spell:alarm)
 		o [Chromatic Orb](https://dnd5e.wikidot.com/spell:chromatic-orb) (50gp diamond)
@@ -199,18 +217,18 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 	- When you cast a wizard spell as a ritual, you can use the spell's normal casting time, rather than adding 10 minutes to it. Once you use this benefit, you can't do so again until you finish a long rest.
 
 ##### Telekinetic
-- You can cast *mage hand* without verbal or somatic components, and you can make the spectral hand invisible. If you already know this spell, its range increases by 30 feet when you cast it.
+- You can cast *mage hand* without verbal or somatic components, and you can make the spectral hand invisible.
 - As a bonus action, you can try to *telekinetically shove* one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward or away from you. A creature can willingly fail this save.
 
 #### Equipment (1/3 Attuned)
 (10gp, 25sp)
 
-- 1x *Pot of Healing*; 2d4+2
-- Driftwood Carved Idol
-- Ivory Lizardfolk Idol
-- 3x 'Incense'
+- 2x *Pot of Healing*; 2d4+2
+- 15x 'Incense'
 - 3x 'Charcoal'
+- 3x 'Pearl'
 - Scroll of Remove Curse
+- Anatomical Notes of Creatures of the Island
 - Cold Iron Rat-Spiral Engraved Key
 
 *Hands*: 
