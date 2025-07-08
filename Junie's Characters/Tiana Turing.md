@@ -139,8 +139,8 @@ We bought potions from Grom, he should be getting a new supply soon though. We w
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | .   | .   | .   | .   | .   | .    | .   |
-| o   | o   | .   | .   | .   | .   | .   |      |     |
-| o   | o   | .   | .   | .   |     |     |      |     |
+| o   | x   | .   | .   | .   | .   | .   |      |     |
+| o   | x   | .   | .   | .   |     |     |      |     |
 | o   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
