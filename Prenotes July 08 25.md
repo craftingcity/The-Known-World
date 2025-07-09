@@ -39,6 +39,15 @@ The party will come into the "Working" Section of the Prison, and will face chal
 The Prison was housing 36 inmates, of which 22 survive (6 on A-Side, 16 on B-Side), and is occupied by 12 Enforcers and the Captain, 13 Total. 
 
 ### What happened?
+##### Fight In the Canteen
+
+17 - Leliana
+11 - Orange
+10 - Jasper
+8 - Zesh
+4 - Emilio
+3 - White
+2 - Zenfer
 
 
 We leave our heroes on the date of ... AF, as they ...
