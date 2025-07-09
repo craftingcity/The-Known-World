@@ -43,7 +43,7 @@ The Prison was housing 36 inmates, of which 22 survive (6 on A-Side, 16 on B-Sid
 
 17 - Leliana
 11 - Orange
-	B (4)
+	A (3)
 10 - Jasper
 8 - Zesh
 4 - Emilio
