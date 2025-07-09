@@ -20,6 +20,8 @@ You can see beyond the grate, you will enter into an unoccupied maintenance room
 
 ### What does the World Know?
 
+The ingame date is 19th of Harvest (7), 106AF.
+
 > **Operational Assignment**
 > Enter the Prison under the Garrison. Locate and eliminate the Captain of Imprisonment. Locate Prisoner 6522 within Block B and escort them to the surface. Report your completion within 4 days.
 
@@ -34,7 +36,7 @@ The party will come into the "Working" Section of the Prison, and will face chal
 | Cells 3-A (Cells)       | Canteen (Fight over Food)             | Cells 3-B (Crafting Weapons) |
 | Solitary A (Solitary)   | Working (Entry)                       | Solitary B (Having a Party)  |
 
-The Prison was housing 36 inmates, of which 22 survive (6 on A-Side, )
+The Prison was housing 36 inmates, of which 22 survive (6 on A-Side, 16 on B-Side), and is occupied by 12 Enforcers and the Captain, 13 Total. 
 
 ### What happened?
 

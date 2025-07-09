@@ -43,7 +43,7 @@ The party sends letters out to their patrons, requesting payments for a job well
 	Hey Em. I got some brass made for you, which should help some, and your money got here, so take it. And yeah, I know some folks who need some things moved around. You can talk with Sienna Clipwin at the Swift Foot Warehouse if you want to move something legal. She'll probably send you out of town though. You can talk with Jasper otherwise, you'll find him hanging around the western market. Some folks have been talking about rumors of Harvord moving into town, so if you find anyone working for him, get 'em.
 
 	+ 475sp
-	+ Knuckle Dusters (unarmed, +1 to hit, +1d4 damage punches)
+	+ Knuckle Dusters (unarmed, +1 to hit, +1d4 damage)
 ```
 .
 	- Avery sends Leliana 500sp, her compliments, and another plan for an anti-Enforcer operation within Mossburg
