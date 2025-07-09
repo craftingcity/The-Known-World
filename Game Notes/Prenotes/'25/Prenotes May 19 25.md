@@ -4,7 +4,7 @@ aliases:
 ---
 
 # Prenotes for May 19th
-## Party of Interest: [[The Stinkers Game]]
+## Party of Interest: [[Jasper's Angels]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep

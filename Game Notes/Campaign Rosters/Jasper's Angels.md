@@ -2,7 +2,7 @@
 tags: roster
 aliases:
 ---
-# Adventures of The Stinkers
+# Adventures of Jasper's Angels
 ## People
 
 | PLAYER | NAME            | CLASS           | HERITAGE | CULTURE       |

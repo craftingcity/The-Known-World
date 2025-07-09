@@ -4,7 +4,7 @@ aliases:
 ---
 
 # Prenotes for July 8th
-## Party of Interest: [[The Stinkers Game]]
+## Party of Interest: [[Jasper's Angels]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
@@ -62,3 +62,5 @@ The Prison was housing 36 inmates, of which 22 survive (6 on A-Side, 16 on B-Sid
 
 
 We leave our heroes on the date of ... AF, as they ...
+
+what if there was a dragon in the amber? that'd be fun and cool. its going to [[Goldfield]].

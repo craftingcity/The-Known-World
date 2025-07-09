@@ -5,11 +5,11 @@ connect to [[Notes on the Multiverse]]
 - **Campaign Rosters**
 	- [[Cathouse Game]]
 	- [[GavinHouse Game]]
+	- [[Jasper's Angels]]
 	- [[Milliehouse Game]]
 	- [[Sarahouse Deakred Game]]
 	- [[The Hatdroppers]]
 	- [[The Secretkeepers]]
-	- [[The Stinkers Game]]
 - [[Campaigns]]
 - [[GAAKA 1 Key]]
 - **[[Mechanics]]**

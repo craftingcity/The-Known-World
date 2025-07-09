@@ -11,8 +11,14 @@
             "id": "db744350862339c0",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Jasper's Angels",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/Jasper's Angels.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Jasper's Angels\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":31},\"to\":{\"line\":4,\"ch\":16}},\"scroll\":0.010630603566516489}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -58,8 +64,32 @@
               "icon": "lucide-file",
               "title": "Prenotes Jun 30 25"
             }
+          },
+          {
+            "id": "8db9fcfadfe3ccb8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mossburg"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.50418853759766,
-    "collapsed": true
+    "width": 418.50418853759766
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -311,11 +340,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db744350862339c0",
+  "active": "8db9fcfadfe3ccb8",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
-    "Prenotes July 08 25.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Vannis.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+    "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
+    "Prenotes July 08 25.md",
+    "Game Notes/Campaign Rosters/Jasper's Angels.md",
     "Junie's Characters/Tiana Turing.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
@@ -336,9 +368,6 @@
     "Anita Rewch.md",
     "Colin Talaveem.md",
     "Game Notes/NPCs/Mild Power/Otto Malkovich.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md",
-    "Game Notes/Campaign Rosters/The Stinkers Game.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
