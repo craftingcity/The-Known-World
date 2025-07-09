@@ -53,7 +53,7 @@ The Prison was housing 36 inmates, of which 22 survive (6 on A-Side, 16 on B-Sid
 ##### Fight in the Cells
 
 19 - Lilianna
-18 - Guards (6, )
+18 - Guards (6, 18)
 11 - Emilio
 8 - Jasper *B*
 3 - Zesh
