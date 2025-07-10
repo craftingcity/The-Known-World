@@ -22,7 +22,7 @@ As the Bandit Lords fell, and consolidated their waning power back north, Mossbu
 The Mossburg Enforcers became overwhelmed. They chose efficiency over diligence, and for three generations, the Enforcers have used their leverage over the populace to disappear people and force their families to work to the bone to see them again.
 
 ## Important Places & Symbolism
-### The Central District
+### The Central District (Enforcer)
 The Central District is completely controlled by the [[Mossburg Enforcers]], and they make their homes of lavish nobility in this space.
 	- *The Castle Mossburg*
 	- *The Garrison*
@@ -30,11 +30,15 @@ The Central District is completely controlled by the [[Mossburg Enforcers]], and
 	- *The Merry Band*
 	- *The Silver Lanes*
 		> A section of the Central District that houses a significant portion of the wealthiest 'civilians' in Mossburg.
-### The Ring District
+### The Ring District, West (RDFP)
 The Ring District is the heart of the people of Mossburg. Most of the population lives within the outer walls, but outside the tall tower-gates of [[#The Central District]].
 	- *The Araborum*
 	- *Jerasmus, the Tinkerer*
-### The Under District
+### The Ring District, East (Avalon)
+
+### The Ring District, North (MoS)
+
+### The Under District (n/a)
 The Under District is a largely uncontrolled system of sewers, tunnels, and basements that travel and connect throughout the city. A handful of locations are under the direct control of an authority, but most are unaligned or abandoned.
 	- *The Drowned Dancer*
 ##### Plothooks for Mossburg Start include...
