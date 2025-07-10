@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Fiction Exposition Broadcast Script",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md"
+    },
+    {
+      "basename": "Seattle Exports Misery",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md"
+    },
+    {
+      "basename": "Devils",
+      "path": "Game Notes/NPCs/Devils.md"
+    },
+    {
+      "basename": "Demons",
+      "path": "Game Notes/NPCs/Demons.md"
+    },
+    {
+      "basename": "Colin Talaveem",
+      "path": "Game Notes/NPCs/Mild Power/Colin Talaveem.md"
+    },
+    {
+      "basename": "Prenotes July 08 25",
+      "path": "Game Notes/Prenotes/'25/Prenotes July 08 25.md"
+    },
+    {
+      "basename": "Prenotes July 05 25",
+      "path": "Game Notes/Prenotes/'25/Prenotes July 05 25.md"
+    },
+    {
       "basename": "Prenotes July 10 25",
-      "path": "Prenotes July 10 25.md"
+      "path": "Game Notes/Prenotes/'25/Prenotes July 10 25.md"
     },
     {
       "basename": "Kohnstamm",
@@ -11,14 +39,6 @@
     {
       "basename": "The Secretkeepers",
       "path": "Game Notes/Campaign Rosters/The Secretkeepers.md"
-    },
-    {
-      "basename": "Prenotes July 05 25",
-      "path": "Game Notes/Prenotes/'25/Prenotes July 05 25.md"
-    },
-    {
-      "basename": "Prenotes July 08 25",
-      "path": "Prenotes July 08 25.md"
     },
     {
       "basename": "Prenotes Jun 30 25",
@@ -113,10 +133,6 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
     },
     {
-      "basename": "Colin Talaveem",
-      "path": "Colin Talaveem.md"
-    },
-    {
       "basename": "Population Data",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Data.md"
     },
@@ -165,14 +181,6 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md"
     },
     {
-      "basename": "Demons",
-      "path": "Demons.md"
-    },
-    {
-      "basename": "Devils",
-      "path": "Devils.md"
-    },
-    {
       "basename": "Nessus",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Nessus.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Stygia",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md"
-    },
-    {
-      "basename": "Phlegethos",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md"
-    },
-    {
-      "basename": "Minauros",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md"
     }
   ],
   "omittedPaths": [],

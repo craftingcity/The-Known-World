@@ -6,6 +6,8 @@ aliases:
 # Mild Power
 %% Begin Waypoint %%
 - [[Blurfurmgur]]
+- [[Colin Talaveem]]
+- **Employees of Golden Claw**
 - **[[Folk of Business]]**
 - **Knights & Nobles**
 	- [[Borhain a'Huruuc]]

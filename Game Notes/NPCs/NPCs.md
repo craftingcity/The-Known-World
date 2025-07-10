@@ -17,6 +17,8 @@ for the graph: [[Here lie my suppliments...]]
 	- [[Grand Pantheon]]
 	- [[Karenos, River's Keeper]]
 	- [[Kor-ket]]
+- [[Demons]]
+- [[Devils]]
 - **High Power**
 	- **[[Barons of Combine NPCs]]**
 	- **[[Blood Clan Leadership NPCs]]**

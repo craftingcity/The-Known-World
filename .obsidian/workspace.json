@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "51b84b3a1bc1346b",
+        "id": "f2778cf942215131",
         "type": "tabs",
         "children": [
           {
-            "id": "13612e6a7dd2a1ee",
+            "id": "34933ac8d10636ad",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,16 +22,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes July 05 25"
+              "title": "Seattle Exports Misery"
             }
           },
           {
-            "id": "1812404daa220c03",
+            "id": "6c3328b1f89c769a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes July 10 25.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes July 10 25"
+              "title": "Fiction Exposition Broadcast Script"
             }
           }
         ],
@@ -153,13 +153,11 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 418.50418853759766,
-    "collapsed": true
+    "width": 418.50418853759766
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -306,13 +304,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1812404daa220c03",
+  "active": "6c3328b1f89c769a",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md",
-    "Prenotes July 10 25.md",
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
+    "Game Notes/NPCs/Devils.md",
+    "Game Notes/NPCs/Demons.md",
+    "Game Notes/NPCs/Mild Power/Colin Talaveem.md",
+    "Game Notes/Prenotes/'25/Prenotes July 08 25.md",
     "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
-    "Prenotes July 08 25.md",
+    "Game Notes/Prenotes/'25/Prenotes July 10 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md",
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Game Notes/Campaign Rosters/Jasper's Angels.md",
@@ -330,10 +332,6 @@
     "Game Notes/Prenotes/'25/Prenotes Jan 18 25.md",
     "Game Notes/Campaigns.md",
     "conflict-files-obsidian-git.md",
-    "Anita Rewch.md",
-    "Colin Talaveem.md",
-    "Game Notes/NPCs/Mild Power/Otto Malkovich.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",

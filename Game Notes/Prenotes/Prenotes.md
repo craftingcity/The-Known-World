@@ -97,6 +97,8 @@ aliases:
 	- [[Prenotes Jan 21 25]]
 	- [[Prenotes Jan 28 25]]
 	- [[Prenotes July 05 25]]
+	- [[Prenotes July 08 25]]
+	- [[Prenotes July 10 25]]
 	- [[Prenotes Jun 30 25]]
 	- [[Prenotes Mar 11 25]]
 	- [[Prenotes Mar 18 25]]
