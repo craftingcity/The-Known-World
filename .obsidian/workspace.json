@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1121158dd26d0922",
+        "id": "51b84b3a1bc1346b",
         "type": "tabs",
         "children": [
           {
-            "id": "7eef4e57cc1f83ef",
+            "id": "790b3c8efa85813a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,41 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+                "file": "Prenotes July 08 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mossburg"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9a2a0162f24671a5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "29c7b39459fb0866",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Jun 30 25"
+              "title": "Prenotes July 08 25"
             }
           }
         ]
@@ -311,11 +282,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7eef4e57cc1f83ef",
+  "active": "790b3c8efa85813a",
   "lastOpenFiles": [
     "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
-    "Prenotes July 08 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+    "Prenotes July 08 25.md",
     "Game Notes/Campaign Rosters/Jasper's Angels.md",
     "Junie's Characters/Tiana Turing.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
