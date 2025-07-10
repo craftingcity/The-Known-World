@@ -15,9 +15,9 @@ Mortality: 7 days*, 100%
 | Fatigue         | Intense Pain               | Death               |                   | Agent Transfer (unlikely)             |
 
 ```
-The Louisville Infection will progress into Stage 1 Infection within 48 hours of initial internal contact to an Infection Source. Without immediate separation of contaminated and non-contaminated cells, the Infection is fatal in 100% of documented cases.
+The Louisville Infection will progress into at least Stage 1 Infection within 48 hours of initial internal contact to an Infection Source. Without immediate separation of contaminated and non-contaminated cells, the Infection is fatal in 100% of documented cases.
 
-Progression through the Stages can take as much as 48 hours, or as few as 2 hours, and is variable based on the physiology of the Infected. At Stage 3, a Louisville Infection Host (L.I.H.) will effectively die as their organs begin to fail. The Infection will continue to feed and spread through the now-descesed host and eventually continue into Stage 4.
+Progression through each Stage of Infection can take as much as 48 hours, or as few as 2 hours, and is variable based on the physiology of the Infected. At Stage 3, a Louisville Infection Host (L.I.H.) will effectively die as their organs begin to fail. The Infection will continue to feed and spread through the now-descesed host and eventually continue into Stage 4.
 
 Upon the Infection reaching Stage 4, a Louisville Infection Host (L.I.H.) will reanimate without the use of it's now ineffective internal structure and begin to wander their local area in search of sources of noise or smell.
 

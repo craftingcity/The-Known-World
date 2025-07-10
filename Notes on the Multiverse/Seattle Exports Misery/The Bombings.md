@@ -1,5 +1,5 @@
 ### Timeline of The Bombings
-12/21/12 - A large device explodes within the city of Louisville, Kentucky. Immediately, it becomes clear that the device also carried, and has since spread an unknown hazardous contagion.
+12/21/12 - A large device explodes within the city of Louisville, Kentucky. Immediately, it becomes clear that the device also carried, and has since spread, an unknown hazardous contagion.
 12/23/12 - A Quarantine Zone surrounding the Louisville area is created and enforced by the Kentucky National Guard.
 01/14/13 - The first shots are fired on the Northern Border of the Kentucky Quarantine Zone. The conditions of the shooting are unknown. Multiple shootings occur at other Border Posts after this incident.
 04/07/13 - The Louisville Infection breaches the Kentucky Quarantine Zone. The event reaches international news headlines within 12 hours.
@@ -7,4 +7,4 @@
 xx/xx/14 - Washington D.C. falls to the Infection. The official National Emergency Broadcasting throughout the States remains the same until it finally ceases some months later.
 07/20/15 - A series of nuclear bombs of varying design are released throughout the world targeting North America. You survived.
 
-Within the Puget Sound, 5 major bombs were dropped, targeting the cities of Seattle, Issaquah, Tacoma, Glenwood, and the Bangor Base north of Bremerton. On the day these bombs were dropped, Washington State was experiencing the most persistent rain it has ever faced. As if it would have a purpose here, again. But today it did - the firestorms of the bombings faced significant resistance in overflown rivers, flooded streets and buildings, and consistent, dousing rain. While it could do nothing for the blasts themselves, the rain and the flood saved what it could of the Puget Sound and it's residents.
+Within the Puget Sound, 5 major bombs were dropped, targeting the cities of Seattle, Issaquah, Tacoma, Glenwood, and the Bangor Base north of Bremerton. On the day these bombs were dropped, Washington State was experiencing the most persistent rain it has ever faced. As if it would have a purpose here, again. But today it did - the firestorms of the bombings faced significant resistance in overflown rivers, flooded streets and buildings, and consistent, dousing rain. While it could do nothing for the victims of the blasts themselves, the rain saved what it could of the Puget Sound and it's residents.

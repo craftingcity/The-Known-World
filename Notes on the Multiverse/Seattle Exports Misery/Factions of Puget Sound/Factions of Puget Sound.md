@@ -12,7 +12,7 @@ The following areas are occupied by their indicated factions - but some members 
 		- [[Tourist Paramilitary]] (see [[Peacemaker]])
 		- [[Shadow Bandits]]
 	- *Ruins of Seattle* (White Center, Seattle Proper, Bellevue, Issaquah)
-			- The *City of Seattle* has been nearly completely pulverized and destroyed. The area is highly irradiated, leading what little value survived to be ripe for the scavenging. 
+			- The *City of Seattle* has been nearly completely pulverized and destroyed. The area is highly irradiated and largely unpopulated, leading what little of value survived to become ripe for the scavenging. 
 		- [[Shadow Bandits]]
 		- [[Wasters of White Center]] (see [[Rat King]])
 		- [[Sainthood Order of Seattle]]
@@ -24,14 +24,15 @@ The following areas are occupied by their indicated factions - but some members 
 		- [[Shadow Bandits]]
 		- [[Normandy Guerilla Army]]
 		- [[Kent Rangers Corps]]
-	- *Enumclaw Safe Zone* (Enumclaw)
-			- The *ECSZ* is the calmest area of the Puget Sound, where Enumclaw keeps peace and trade.
+	- *Enumclaw Civilized Safe Zone* (Enumclaw)
+			- The *ECSZ* is the calmest area of the Puget Sound, where the Enumclaw Civil Patrol keeps peace and trade in the area.
 		- [[Enumclaw Civilized Safe Zone]] (see [[The Man Upstairs]])
 		- [[Shadow Bandits]]
 		- [[Kent Rangers Corps]]
 		- [[Druids of Covington]]
 		- [[Muckleshoot Gamblers]]
 	- *Ruins of Tacoma* (Federal Way, Tacoma, Puyallup)
+			- 
 		- [[Kent Rangers Corps]] (see [[General Whittman]])
 		- [[Fedway Scavs]]
 		- [[Aria Edges]]

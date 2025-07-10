@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Fiction Exposition Broadcast Script",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md"
+      "basename": "Factions of Puget Sound",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
+    },
+    {
+      "basename": "Sainthood Order of Seattle",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Sainthood Order of Seattle.md"
+    },
+    {
+      "basename": "Father Patrick",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Traders/Father Patrick.md"
     },
     {
       "basename": "Seattle Exports Misery",
       "path": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md"
+    },
+    {
+      "basename": "The Infection",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/The Infection.md"
+    },
+    {
+      "basename": "The Bombings",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md"
+    },
+    {
+      "basename": "Fiction Exposition Broadcast Script",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md"
+    },
+    {
+      "basename": "Seattle's Environmental Hazards",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Seattle's Environmental Hazards.md"
     },
     {
       "basename": "Devils",
@@ -175,30 +199,6 @@
     {
       "basename": "Notes on the Multiverse",
       "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
-      "basename": "Avernus",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md"
-    },
-    {
-      "basename": "Nessus",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Nessus.md"
-    },
-    {
-      "basename": "Cania",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Cania.md"
-    },
-    {
-      "basename": "Maladomini",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md"
-    },
-    {
-      "basename": "Malbolge",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Malbolge.md"
-    },
-    {
-      "basename": "Stygia",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md"
     }
   ],
   "omittedPaths": [],

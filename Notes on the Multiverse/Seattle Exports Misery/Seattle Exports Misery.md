@@ -30,6 +30,7 @@ Once the Kentucky Quarantine Breach reached international headlines, countries q
 
 As the infection spread, news from the East Coast came slower and slower, before stopping entirely. For almost two years, the States west of the Mississippi River lived as a remnant of America as it was before, until July 20th, 2015, when the international community launched a series of nuclear strikes across North America in an attempt to eliminate the possibility of spreading the infection any further. The concept of American Society collapsed in a fraction of a moment, coordinated by dozens of nations we once called allies, and now have no power to call our enemies. 
 
+---
 
 We, the People of the Nuclear Wasteland, are alone. We were abused and abandoned, and we now wander the salted earth we called our home in fear.
 
@@ -40,6 +41,8 @@ Today's date is August 17th, 2015. It has been 30 days since the bombs dropped.
 For 30 days, you drank water from puddles and faucets. You ate cans of beans and molding bread. You've seen people crack, crumble, and break under the pressure of survival - they distrust, they disbelieve, and they die. You may have defended yourself, more than once likely, or even been the desperate perpetrator, taking for your own what was once another's.
 
 You need to move, to explore. You can't keep surviving, you need to *live*. You've gathered your little food, water, and gear, and you seek fulfillment.
+
+---
 
 %% Begin Waypoint %%
 - **[[Factions of Puget Sound]]**

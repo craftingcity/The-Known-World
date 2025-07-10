@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "6c3328b1f89c769a",
+            "id": "5accaa1067bc67c8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -39,18 +39,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Sainthood Order of Seattle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Sainthood Order of Seattle.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Sainthood Order of Seattle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Fiction Exposition Broadcast Script"
+              "title": "Factions of Puget Sound"
             }
           }
         ],
@@ -304,9 +310,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c3328b1f89c769a",
+  "active": "dafe8404df17708b",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Sainthood Order of Seattle.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Traders/Father Patrick.md",
     "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
+    "Notes on the Multiverse/Seattle Exports Misery/The Infection.md",
+    "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Seattle's Environmental Hazards.md",
     "Game Notes/NPCs/Devils.md",
     "Game Notes/NPCs/Demons.md",
     "Game Notes/NPCs/Mild Power/Colin Talaveem.md",
@@ -326,12 +338,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Alaturmen's Magical Armies.md",
     "Game Notes/NPCs/Mild Power/Midboss/Nylan Roul.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
-    "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Coalition Wards/Golden Ward.md",
-    "Game Notes/Prenotes/'25/Prenotes Jan 18 25.md",
-    "Game Notes/Campaigns.md",
-    "conflict-files-obsidian-git.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
