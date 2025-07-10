@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Prenotes July 05 25",
+      "path": "Game Notes/Prenotes/'25/Prenotes July 05 25.md"
+    },
+    {
       "basename": "Prenotes July 08 25",
       "path": "Prenotes July 08 25.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Litteortosta",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Litteortosta.md"
-    },
-    {
-      "basename": "Prenotes July 05 25",
-      "path": "Game Notes/Prenotes/'25/Prenotes July 05 25.md"
     },
     {
       "basename": "Tiana Turing",
@@ -195,10 +199,6 @@
     {
       "basename": "Minauros",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md"
-    },
-    {
-      "basename": "Dis",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md"
     }
   ],
   "omittedPaths": [],
