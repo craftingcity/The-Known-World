@@ -46,6 +46,11 @@ The fifth floor of the EGF is a secure holding facility for the living beings us
 The basement floor of the EGF is a large butcher/kitchen operation that takes the corpses of the subjects here and turns them into food for the surviving subjects.
 
 ### What happened?
-
+21 - Niko
+12 - Zipper
+10 - Green
+7 - Roan
+7 - Soarsie
+3 - Blue
 
 We leave our heroes on the date of ... AF, as they ...
