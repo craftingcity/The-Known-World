@@ -3,13 +3,13 @@ tags:
   - npc
 aliases:
 ---
-# Name
-## Titles
-### pronouns
+# Simpson Whittman
+## Ranger General
+### he/him
 
 > Boxtext for an action, outfit, and a physical trait.
 
-General Whittman is the head of the [[Kent Rangers Corps]] in the *Ruins of Tacoma*.
+General Whittman is the General of the [[Kent Rangers Corps]], and can be found in the Ranger Headquarters within the *Ruins of Tacoma*.
 
 ## Roleplaying
 ### Quote
@@ -18,6 +18,8 @@ General Whittman is the head of the [[Kent Rangers Corps]] in the *Ruins of Taco
 
 ### Background
 #### Early Life
+
+Simpson was a high-ranking member of the Washington National Guard as the bombs fell. Upon recieving orders to retreat to Olympia, and abandon their base of operations in Tacoma, they refused. This refusal accompanied a statement declaring that the 'Kent Rangers Corps' does not recognize the National Guard as an official governmental body, as displayed by their lack of regard for human lifes.
 
 ## Important Knowledge
 

@@ -2,9 +2,9 @@
 tags: npc
 aliases:
 ---
-# Name
-## Titles
-### pronouns
+# Brandon Mills
+## CEO
+### he/him
 
 > Boxtext for an action, outfit, and a physical trait.
 

@@ -9,7 +9,7 @@ Washington State had a population of roughly 7 million before the Bombings. The 
 The following areas are occupied by their indicated factions - but some members of each faction could be found throughout the Puget Sound.
 	- *North Seattle* (Shoreline, Edmonds, Mill Creek, and Cottage Lake)
 			- The *North Seattle* area is notably abandoned. Some local individuals stayed safe in the wake of the bombings, but the majority of the population succumbed to immediate radiation poisoning. The area experiences significant conflict between the Shadow Bandits and the Tourist Paramilitary, which has led to the path north to be deemed dangerous - even when protected by members of one of the two factions.
-		- [[Tourist Paramilitary]] (see [[Peacemaker]])
+		- [[Tourist Paramilitary]] (see [[Peacekeeper]])
 		- [[Shadow Bandits]]
 	- *Ruins of Seattle* (White Center, Seattle Proper, Bellevue, Issaquah)
 			- The *City of Seattle* has been nearly completely pulverized and destroyed. The area is highly irradiated and largely unpopulated, leading what little of value survived to become ripe for the scavenging. 

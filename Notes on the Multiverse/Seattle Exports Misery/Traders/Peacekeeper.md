@@ -3,7 +3,7 @@ tags:
   - npc
 aliases:
 ---
-# Peacemaker
+# Peacekeeper
 ## German Dealer
 ### he/him
 
@@ -13,7 +13,7 @@ Peacekeeper is a member of INTERPOL, a subsidiary of the UN nowadays, and has de
 
 Officially, he runs with members of the [[Tourist Paramilitary]], but his people maintain neutrality until otherwise requested of them.
 
-Peacemaker can be found at his compound in *North Seattle*.
+Peacekeeper can be found at his compound in *North Seattle*.
 
 ## Roleplaying
 ### Quote

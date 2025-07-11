@@ -56,7 +56,7 @@ You need to move, to explore. You can't keep surviving, you need to *live*. You'
 	- [[Father Patrick]]
 	- [[General Hienz]]
 	- [[General Whittman]]
-	- [[Peacemaker]]
+	- [[Peacekeeper]]
 	- [[Rat King]]
 	- [[Savage]]
 	- [[The Man Upstairs]]
