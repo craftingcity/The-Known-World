@@ -13,7 +13,7 @@ The Man Upstairs is a shadowy figure supposedly responsible for the formation of
 
 The Man Upstairs is widely connected in the PNW, and has brokered peace treaties if not business deals with nearly every faction in the PNW, with particular notice for the [[Shadow Bandits]], with whom Enumclaw and The Man work frequently.
 
-The Man Upstairs is located in the *Enumclaw Safe Zone*, but cannot be spoken with directly.
+The Man Upstairs is supposedly located in the *Enumclaw Safe Zone*, but cannot be spoken with directly (see [[Bradon Mills]]).
 
 ## Roleplaying
 ### Quote

@@ -35,32 +35,8 @@
               "icon": "lucide-file",
               "title": "Seattle Exports Misery"
             }
-          },
-          {
-            "id": "3e3ad1f2db8cd115",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Traders/Bradon Mills.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Bradon Mills"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -312,16 +288,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e3ad1f2db8cd115",
+  "active": "f9b9f7a34cfdac90",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Seattle Exports Misery/Traders/The Man Upstairs.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Traders/Bradon Mills.md",
     "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Enumclaw Civilized Safe Zone.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Shadow Bandits.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders/General Hienz.md",
     "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Kent Rangers Corps.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders/General Whittman.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders/Peacekeeper.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Traders/Bradon Mills.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Sea-Tac Overwatch.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Overwatch Airport Security.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Sainthood Order of Seattle.md",
@@ -337,9 +316,6 @@
     "Game Notes/Prenotes/'25/Prenotes July 10 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
-    "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-    "Game Notes/Campaign Rosters/Jasper's Angels.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",

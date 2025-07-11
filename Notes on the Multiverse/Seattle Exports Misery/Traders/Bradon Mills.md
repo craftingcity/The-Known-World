@@ -3,12 +3,14 @@ tags: npc
 aliases:
 ---
 # Brandon Mills
-## CEO
+## Operations Manager, Shadow Corp
 ### he/him
 
 > Boxtext for an action, outfit, and a physical trait.
 
-A description of their function in the world.
+Bradon Mills is the speaking head and Operations Manager of the Shadow Corporation, or the [[Shadow Bandits]], as they are more commonly known, and can be found residing within the [[Enumclaw Civilized Safe Zone|ECSZ]]. 
+
+Bradon Mills is [[The Man Upstairs]].
 
 ## Roleplaying
 ### Quote

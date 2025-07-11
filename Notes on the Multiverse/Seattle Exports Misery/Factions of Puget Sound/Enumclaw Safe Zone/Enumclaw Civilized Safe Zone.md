@@ -3,6 +3,7 @@ tags:
   - groups
   - faction
 aliases:
+  - ECSZ
 ---
 
 # Enumclaw Civilized Safe Zone
