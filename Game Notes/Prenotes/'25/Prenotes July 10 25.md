@@ -47,10 +47,20 @@ The basement floor of the EGF is a large butcher/kitchen operation that takes th
 
 ### What happened?
 21 - Niko
+21 - Bears
 12 - Zipper
 10 - Green
-7 - Roan
+	A (36)
+	B (36)
+	D (36)
+	E
+	J (9)
+7 - Roan (15)
 7 - Soarsie
 3 - Blue
+	C (20, 5)
+	D 
+	E (20, 5)
+	F
 
 We leave our heroes on the date of ... AF, as they ...
