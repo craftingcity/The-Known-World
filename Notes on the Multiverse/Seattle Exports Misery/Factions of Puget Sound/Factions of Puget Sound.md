@@ -32,25 +32,29 @@ The following areas are occupied by their indicated factions - but some members 
 		- [[Druids of Covington]]
 		- [[Muckleshoot Gamblers]]
 	- *Ruins of Tacoma* (Federal Way, Tacoma, Puyallup)
-			- 
+			- *Tacoma* was one of the direct targets of the nuclear warheads, and has been largely destroyed.
 		- [[Kent Rangers Corps]] (see [[General Whittman]])
 		- [[Fedway Scavs]]
 		- [[Aria Edges]]
 		- [[Tourist Paramilitary]]
 	- *South Tacoma* (Spanaway, JBLM)
+			- *South Tacoma* was severely damaged by the blast in North Tacoma, but a large portion of the population here survived, including remnants of the Washington State Guard in the Joint-Base Louis-McCord
 		- [[Fedway Scavs]] (see [[Savage]])
 		- [[Aria Edges]]
 		- [[Washington State Remnants]]
 	- *Battlefield Olympia* (Tumwater, Olympia, Lacey)
+			- Although the capital of the state, the city of *Olympia* remained untargeted, but not unaffected, by the nuclear warheads, and was the first area reclaimed by the Washington State Guard.
 		- [[Aria Edges]]
 		- [[Washington State Remnants]] (see [[General Hienz]])
 		- [[Tourist Paramilitary]]
 	- *Western Sound* (Bangor Base, Gig Harbor)
-		- [[Shadow Bandits]]
+			- Severely crippled by the targeting of the Bangor Base, the *Western Sound* area has turned incredibly violent.
+		- [[Shadow Bandits]] (see [[Bradon Mills]])
 		- [[Community of Vashon]] 
 		- [[Washington State Remnants]] 
 		- [[Tourist Paramilitary]]
 	- *Shock Islands* (Whidbery, Bainbridge, Vashon)
+			- Insulated from the rest of the State, the *Shock Islands*, as they have come to be known, are incredibly isolationist - fearful of the infection spreading upon the islands.
 		- [[Community of Vashon]] (see [[Tyler Otis]])
 		- [[Washington State Remnants]]
 		- [[Tourist Paramilitary]]
@@ -62,10 +66,12 @@ The following areas are occupied by their indicated factions - but some members 
 	- [[Muckleshoot Gamblers]]
 - **Greater Organizations**
 	- [[Cult in Annihilation]]
+	- [[Overwatch Airport Security]]
+	- [[Shadow Bandits]]
 	- [[Tourist Paramilitary]]
 	- [[Washington State Remnants]]
-- [[Overwatch Airport Security]]
 - **Ruins of Seattle**
+	- [[Green-kin Nation]]
 	- [[Wasters of White Center]]
 - **Ruins of Tacoma**
 	- [[Aria Edges]]
@@ -74,14 +80,11 @@ The following areas are occupied by their indicated factions - but some members 
 	- [[Community of Vashon]]
 - **South Seattle**
 	- [[Auburn Overwatch]]
-	- [[Green-kin Nation]]
 	- [[Highline High Life]]
 	- [[Kent Rangers Corps]]
 	- [[Normandy Guerilla Army]]
 	- [[Road Kings]]
 	- [[Sainthood Order of Seattle]]
-	- [[Sea-Tac Overwatch]]
-	- [[Shadow Bandits]]
 	- [[Three-tree Ballers]]
 
 %% End Waypoint %%

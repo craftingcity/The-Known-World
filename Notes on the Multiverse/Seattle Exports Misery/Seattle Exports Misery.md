@@ -48,11 +48,11 @@ You need to move, to explore. You can't keep surviving, you need to *live*. You'
 - **[[Factions of Puget Sound]]**
 - [[Fiction Exposition Broadcast Script]]
 - **Important NPCs**
-	- **Faction Heads**
 - [[Seattle's Environmental Hazards]]
 - [[The Bombings]]
 - [[The Infection]]
 - **Traders**
+	- [[Bradon Mills]]
 	- [[Father Patrick]]
 	- [[General Hienz]]
 	- [[General Whittman]]

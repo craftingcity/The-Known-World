@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Seattle Exports Misery",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md"
+    },
+    {
       "basename": "Factions of Puget Sound",
       "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
+    },
+    {
+      "basename": "Bradon Mills",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Traders/Bradon Mills.md"
+    },
+    {
+      "basename": "The Bombings",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md"
+    },
+    {
+      "basename": "Overwatch Airport Security",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Overwatch Airport Security.md"
     },
     {
       "basename": "Sainthood Order of Seattle",
@@ -13,16 +29,8 @@
       "path": "Notes on the Multiverse/Seattle Exports Misery/Traders/Father Patrick.md"
     },
     {
-      "basename": "Seattle Exports Misery",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md"
-    },
-    {
       "basename": "The Infection",
       "path": "Notes on the Multiverse/Seattle Exports Misery/The Infection.md"
-    },
-    {
-      "basename": "The Bombings",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md"
     },
     {
       "basename": "Fiction Exposition Broadcast Script",
@@ -191,14 +199,6 @@
     {
       "basename": "Outer",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Outer.md"
-    },
-    {
-      "basename": "Inner",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
     }
   ],
   "omittedPaths": [],
