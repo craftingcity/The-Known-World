@@ -3,8 +3,8 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for July 13th
-## Party of Interest: [[Jasper's Angels]]
+# Prenotes for July 16th
+## Party of Interest: [[The Secretkeepers]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
