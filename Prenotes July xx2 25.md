@@ -18,7 +18,9 @@ When last we left our heroes, they had fought their way through the prison under
 
 This operation has been weeks in the making, has cost tens of thousands of silver, hundreds of working-hours, and the grudge fueling the death to come has lasted for years - although our heroes know nothing of the reason or minutia of this war, and they're being paid enough that they might not care. What our heroes do know, however, is that above the sewers where they march, a war has come to [[Mossburg]], and they each hold a part in its arrival.
 
-You have escaped the underwhelming security of the prison through the entrance you came through, toting a 
+You have escaped the underwhelming security of the prison through the entrance you came through, toting a verbally short person of interest through a stinking combination of fluid and rot back to the surface of the city now in conflict. A thought comes. 'Release' does not mean 'Ensure the safety of', or 'Do not interrogate', or even 'Do not re-capture'. These actions may be considered irresponsible, or even treasonous, but you consider them nonetheless.
+
+Pounding boot falls, incoherent screams, and blasting gunfire slowly trickle into your ears from the stormdrains around the 
 
 ### What does the World Know?
 
