@@ -20,7 +20,7 @@ This operation has been weeks in the making, has cost tens of thousands of silve
 
 You have escaped the underwhelming security of the prison through the entrance you came through, toting a verbally short person of interest through a stinking combination of fluid and rot back to the surface of the city now in conflict. A thought comes. 'Release' does not mean 'Ensure the safety of', or 'Do not interrogate', or even 'Do not re-capture'. These actions may be considered irresponsible, or even treasonous, but you consider them nonetheless.
 
-Pounding boot falls, incoherent screams, and blasting gunfire slowly trickle into your ears from the stormdrains around the 
+Pounding boot falls, incoherent screams, and blasting gunfire slowly trickle into your ears from the storm drains around the city
 
 ### What does the World Know?
 
