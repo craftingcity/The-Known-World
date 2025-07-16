@@ -31,9 +31,7 @@ aliases: "Washington State National Guard"
 
 **2011**; Based off of recommendations in the Department of Defense’s Quadrennial Defense Review, the National Guard Bureau established the first two, of later ten, Homeland Response Forces (HRF) in Washington and Ohio. These HRFs are 560-person Chemical, Biological, Radiological, Nuclear, high-yield Explosive (CBRNE) task forces established to support local, state and federal emergency managers in response to CBRNE disasters, or deliberate acts, and additional HAZMAT-related hazards.
 
-**2013**; Based on recommendations given by the Department of Defense, the Washington National Guard deploys around the state of Washington. 
-
-**2014**; A panic sets in. The Washington National Guard enforces martial law and curfew under orders of the State Governor, ###JOHN ADAMS###.
+**2013**; Based on recommendations given by the Department of Defense, the Washington National Guard deploys around the state of Washington in preparation for a potential panic response, which does occur. The National Guard begins enforcing Martial Law and Curfew under the orders of the State Govenerner 
 
 **2015**; Washington, alongside its 47 continental sisters, experiences an array of nuclear attacks that leave the majority of the region's infrastructure reduced to scrap, and destroying the political power the Governor held. The Washington National Guard does not last as a single entity, and allegiance to the concept begins to fail to hold true meaning.
 
