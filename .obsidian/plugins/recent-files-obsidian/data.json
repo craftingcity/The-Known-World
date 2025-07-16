@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "List of Names",
+      "path": "Game Notes/NPCs/List of Names.md"
+    },
+    {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
+    },
+    {
       "basename": "Factions of Puget Sound",
       "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
     },
@@ -153,10 +161,6 @@
       "path": "Junie's Characters/Tiana Turing.md"
     },
     {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
-    },
-    {
       "basename": "Custom Cultures",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Campaigns",
       "path": "Game Notes/Campaigns.md"
-    },
-    {
-      "basename": "Its Greatness",
-      "path": "Game Notes/NPCs/Absolute Power/Alaturmian God NPCs/Its Greatness.md"
     }
   ],
   "omittedPaths": [],

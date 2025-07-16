@@ -24,7 +24,7 @@ aliases:
 | Mateus    | Yandee      | Tianna     |
 | Paulo     | Yeirruk     | Sarhin     |
 | Wilson    |             | Mariana    |
-| Simon     |             | Tiana      |
+| Simon     |             | Margret    |
 |           |             |            |
 
 ## Last Names
@@ -57,6 +57,7 @@ aliases:
 | Fyrren       |       |
 | Seashell     |       |
 | Moore        |       |
+| Boykovich             |       |
 
 # Southeastern (Combine)
 ## First Names
