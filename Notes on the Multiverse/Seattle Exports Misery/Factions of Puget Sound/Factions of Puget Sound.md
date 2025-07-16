@@ -28,7 +28,7 @@ The following areas are occupied by their indicated factions - but some members 
 		- [[Kent Rangers Corps]]
 	- *Enumclaw Civilized Safe Zone* (Enumclaw)
 			- The *ECSZ* is the calmest area of the Puget Sound, where the Enumclaw Civil Patrol keeps peace and trade in the area.
-			- Being largely distant to the other regions, the ECSZ
+			- Being largely distant to the other regions, the *ECSZ* is the least damaged and most calm area of the Puget Sound - but they will be the first in line for the slaughter when [[The Infection]] comes.
 		- [[Enumclaw Civilized Safe Zone]] (see [[The Man Upstairs]])
 		- [[Shadow Bandits]]
 		- [[Kent Rangers Corps]]
@@ -41,7 +41,8 @@ The following areas are occupied by their indicated factions - but some members 
 		- [[Aria Edges]]
 		- [[Tourist Paramilitary]]
 	- *South Tacoma* (Spanaway, JBLM)
-			- *South Tacoma* was severely damaged by the blast in North Tacoma, but a large portion of the population here survived, including remnants of the Washington State Guard in the Joint-Base Louis-McCord
+			- *South Tacoma* was severely damaged by the blast in North Tacoma, but a large portion of the population here survived, including remnants of the Washington State Guard in the Joint-Base Louis-McCord.
+			- The Joint-Base is a major source of firearms and ammunition in the region.
 		- [[Fedway Scavs]] (see [[Savage]])
 		- [[Aria Edges]]
 		- [[Washington State Remnants]]
