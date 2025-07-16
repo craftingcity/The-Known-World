@@ -57,7 +57,7 @@ aliases:
 | Fyrren       |       |
 | Seashell     |       |
 | Moore        |       |
-| Boykovich             |       |
+| Boykavich    |       |
 
 # Southeastern (Combine)
 ## First Names
