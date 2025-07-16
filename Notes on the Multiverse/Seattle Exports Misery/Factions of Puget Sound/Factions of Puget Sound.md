@@ -47,18 +47,18 @@ The following areas are occupied by their indicated factions - but some members 
 		- [[Aria Edges]]
 		- [[Washington State Remnants]]
 	- *Battlefield Olympia* (Tumwater, Olympia, Lacey)
-			- Although the capital of the state, the city of *Olympia* remained untargeted, but not unaffected, by the nuclear warheads, and was the first area reclaimed by the Washington State Guard.
+			- Although the capital of the state, the city of *Olympia* remained untargeted, but not unaffected, by the nuclear warheads, and was the first area reclaimed by the Washington State Guard - though they continue to fight for their dominance here.
 		- [[Aria Edges]]
 		- [[Washington State Remnants]] (see [[General Hienz]])
 		- [[Tourist Paramilitary]]
 	- *Western Sound* (Bangor Base, Gig Harbor)
-			- Severely crippled by the targeting of the Bangor Base, the *Western Sound* area has turned incredibly violent.
+			- Severely affected by the targeting of the Bangor Base, the *Western Sound* area has turned incredibly violent.
 		- [[Shadow Bandits]] (see [[Bradon Mills]])
 		- [[Community of Vashon]] 
 		- [[Washington State Remnants]] 
 		- [[Tourist Paramilitary]]
 	- *Shock Islands* (Whidbery, Bainbridge, Vashon)
-			- Insulated from the rest of the State, the *Shock Islands*, as they have come to be known, are incredibly isolationist - fearful of the infection spreading upon the islands.
+			- Insulated from the rest of the State, the *Shock Islands*, as they have come to be known, are incredibly isolationist due to their fear of the infection spreading on to the islands.
 		- [[Community of Vashon]] (see [[Tyler Otis]])
 		- [[Washington State Remnants]]
 		- [[Tourist Paramilitary]]

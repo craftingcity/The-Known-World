@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Enumclaw Civilized Safe Zone",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Enumclaw Civilized Safe Zone.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Enumclaw Civilized Safe Zone\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":325},\"to\":{\"line\":13,\"ch\":325}},\"scroll\":0.008875051489588358}"
+                },
+                {
+                  "title": "Druids of Covington",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Druids of Covington.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Druids of Covington\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0.008875051489588358}"
+                },
+                {
+                  "title": "Factions of Puget Sound",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Factions of Puget Sound\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":186},\"to\":{\"line\":60,\"ch\":186}},\"scroll\":30.579520413648417}"
+                },
+                {
                   "title": "Seattle Exports Misery",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Seattle Exports Misery\"}",
@@ -41,8 +59,55 @@
               "icon": "lucide-file",
               "title": "Factions of Puget Sound"
             }
+          },
+          {
+            "id": "df8c40b866d1674d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Enumclaw Civilized Safe Zone.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Enumclaw Civilized Safe Zone"
+            }
+          },
+          {
+            "id": "3ea0324879fea694",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Junie's Characters/Tiana Turing.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tiana Turing"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,8 +206,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -293,11 +357,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd3f8e33a7fb12a7",
+  "active": "df8c40b866d1674d",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Enumclaw Civilized Safe Zone.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Druids of Covington.md",
+    "Junie's Characters/Tiana Turing.md",
     "Game Notes/NPCs/List of Names.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Prenotes July xx 25.md",
@@ -311,7 +378,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders/The Man Upstairs.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders/Bradon Mills.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Enumclaw Civilized Safe Zone.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Shadow Bandits.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders/General Hienz.md",
     "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
@@ -319,8 +385,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Traders/General Whittman.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders/Peacekeeper.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Sea-Tac Overwatch.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Overwatch Airport Security.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Sainthood Order of Seattle.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",

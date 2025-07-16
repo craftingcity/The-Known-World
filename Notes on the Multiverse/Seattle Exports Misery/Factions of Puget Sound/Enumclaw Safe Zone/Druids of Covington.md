@@ -6,7 +6,7 @@ aliases:
 ---
 
 # Druids of Covington
-The "Druids" of Covington are a post-bombing faction of survivors that have taken to survivalism in the forests surrounding Covington and the Enumclaw Safe Zone.
+The "Druids" of Covington are a post-bombing faction of survivors that have taken to survivalism in the forests surrounding Covington and the Enumclaw Safe Zone. In the time since the bombings, they have become seen as harbingers of peace and prosperity for the lost souls of the Sound.
 
 ## History
 ## Governance

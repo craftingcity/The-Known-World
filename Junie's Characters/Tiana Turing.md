@@ -175,7 +175,7 @@ The Amulet of Twofold Drowning is related to the Grung somehow.
 
 ##### Spellcasting (Prep 9)
 - You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
-- Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook (T = 4 + (L * 2)).
+- Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook (T = 4 + (L * 2) + Found Spells).
 
 ###### Tiana's Grimoire
 Don't forget *the Flip*!
@@ -194,10 +194,10 @@ Don't forget *the Flip*!
 		o [Sleep](https://dnd5e.wikidot.com/spell:sleep)
 		x [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs)
 		x [Snare](https://dnd5e.wikidot.com/spell:snare) (30ft rope)
-		x (C) [Protection from Good and Evil](https://dnd5e.wikidot.com/spell:protection-from-evil-and-good)
+		x (F, C) [Protection from Good and Evil](https://dnd5e.wikidot.com/spell:protection-from-evil-and-good)
 		x [Thunderwave](https://dnd5e.wikidot.com/spell:thunderwave)
 	- **2nd Level Spells**;
-		x (C) [Hold Person](https://dnd5e.wikidot.com/spell:hold-person)
+		x (C) [Earthen Grasp](https://dnd5e.wikidot.com/spell:maximillians-earthen-grasp)
 		x (C) [Dragon's Breath](https://dnd5e.wikidot.com/spell:dragons-breath)
 		x [Snowball Swarm](https://dnd5e.wikidot.com/spell:snillocs-snowball-swarm)
 
@@ -259,10 +259,10 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 	Leather Boots
 
 ###### Coin of Aurelian Silence
-- *Requires Attunment*
+- *Attuned*
 - While you are Attuned, the Coin can be used as a Arcane Focus.
 - While you are Attuned, the Coin grants +1 to Arcana Skill Checks.
 - While you are Attuned, you may store a 1st Level Wizard Spell in the Coin (currently *Silvery Barbs*).
-- While you are Attuned, once per long rest, before you cast a spell (1/10);
+- While you are Attuned, once per long rest, before you cast a spell (2/10);
 	- *(Heads)* Gain Advantage on an Attack Roll made for the spell, or impose Disadvantage on a Saving Throw made for the spell.
 	- *(Tails)* Regain the lowest level spell slot expended to cast the spell.
