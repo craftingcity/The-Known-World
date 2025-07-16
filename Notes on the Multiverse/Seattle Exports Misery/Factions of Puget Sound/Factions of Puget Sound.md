@@ -8,17 +8,19 @@ Washington State had a population of roughly 7 million before the Bombings. The 
 #### Areas of Interest
 The following areas are occupied by their indicated factions - but some members of each faction could be found throughout the Puget Sound.
 	- *North Seattle* (Shoreline, Edmonds, Mill Creek, and Cottage Lake)
-			- The *North Seattle* area is notably abandoned. Some local individuals stayed safe in the wake of the bombings, but the majority of the population succumbed to immediate radiation poisoning. The area experiences significant conflict between the Shadow Bandits and the Tourist Paramilitary, which has led to the path north to be deemed dangerous - even when protected by members of one of the two factions.
+			- The *North Seattle* area is notably abandoned, no one is here who would call themselves 'local' anymore.
+			- The area experiences significant conflict between the Shadow Bandits and the Tourist Paramilitary, which has increased the intensity of danger here - even while protected by members of one of the two factions.
 		- [[Tourist Paramilitary]] (see [[Peacekeeper]])
 		- [[Shadow Bandits]]
 	- *Ruins of Seattle* (White Center, Seattle Proper, Bellevue, Issaquah)
-			- The *City of Seattle* has been nearly completely pulverized and destroyed. The area is highly irradiated and largely unpopulated, leading what little of value survived to become ripe for the scavenging. 
+			- The *City of Seattle* has been nearly completely destroyed by [[The Bombings]]. The area is highly irradiated and largely unpopulated.
+			- Much of the surviving population has relocated underground.
 		- [[Shadow Bandits]]
 		- [[Wasters of White Center]] (see [[Rat King]])
 		- [[Sainthood Order of Seattle]]
 		- [[Tourist Paramilitary]]
 	- *South Seattle* (Burien, Des Moines, Tukwila, Kent, Renton)
-			- *South Seattle* is the second calmest and yet most fractured area of the Puget Sound. The northern region has been heavily damaged, but much of the rest of the region has been relatively spared from both the immediate pulverization and the following firestorms.
+			- *South Seattle* is the second calmest, yet most fractured area of the Puget Sound. Much of the region has been relatively spared from both the immediate pulverization and the following firestorms.
 		- [[Sainthood Order of Seattle]] (see [[Father Patrick]])
 		- [[Overwatch Airport Security]]
 		- [[Shadow Bandits]]
@@ -26,6 +28,7 @@ The following areas are occupied by their indicated factions - but some members 
 		- [[Kent Rangers Corps]]
 	- *Enumclaw Civilized Safe Zone* (Enumclaw)
 			- The *ECSZ* is the calmest area of the Puget Sound, where the Enumclaw Civil Patrol keeps peace and trade in the area.
+			- Being largely distant to the other regions, the ECSZ
 		- [[Enumclaw Civilized Safe Zone]] (see [[The Man Upstairs]])
 		- [[Shadow Bandits]]
 		- [[Kent Rangers Corps]]

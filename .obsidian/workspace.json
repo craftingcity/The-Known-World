@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dfe0eeaf8f0128f8",
+        "id": "32d838e45fe15175",
         "type": "tabs",
         "children": [
           {
-            "id": "264a19053c7897c7",
+            "id": "fd3f8e33a7fb12a7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,64 +16,30 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes July xx2 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes July xx2 25"
-            }
-          },
-          {
-            "id": "469b62b09e84e003",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Jun 30 25"
-            }
-          },
-          {
-            "id": "0e6471e7f8705f5a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                  "title": "Seattle Exports Misery",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Seattle Exports Misery\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "Notes on the Multiverse",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Notes on the Multiverse\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes July xx 25.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes July xx 25"
+              "title": "Factions of Puget Sound"
             }
           }
         ]
@@ -175,8 +141,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -327,18 +292,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "264a19053c7897c7",
+  "active": "fd3f8e33a7fb12a7",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Prenotes July xx 25.md",
     "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
     "Prenotes July xx2 25.md",
-    "Prenotes July xx 25.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Merchant NPCs/Jasper Vwem.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Prenotes/'25/Prenotes July 10 25.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders/The Man Upstairs.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders/Bradon Mills.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Enumclaw Civilized Safe Zone.md",
@@ -354,7 +320,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/South Seattle/Sainthood Order of Seattle.md",
     "Notes on the Multiverse/Seattle Exports Misery/Traders/Father Patrick.md",
     "Notes on the Multiverse/Seattle Exports Misery/The Infection.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
