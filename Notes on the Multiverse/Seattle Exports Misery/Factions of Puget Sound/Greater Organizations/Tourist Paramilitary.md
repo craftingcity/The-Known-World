@@ -7,14 +7,12 @@ aliases:
 
 # Tourist Paramilitary
 ## History
-Since the beginning of 2016, a number of militants have begun to appear in small pockets throughout the nation. Supported by the United Nations and their local national government, the so-called 'Tourist Paramilitary' is a decentralized collection of individualized squads, groups, or clans who are all relatively friendly towards eachother.
-
-
+Since the beginning of 2016, a number of militants have begun to appear in small pockets throughout the nation. Supported by the United Nations and their personal national government, the so-called 'Tourist Paramilitary' is a decentralized collection of individualized squads, groups, or clans who are all relatively friendly towards each other, and each share in the goal of waltzing through the world's newest poorest nation.
 
 ## Governance
 The Paramilitary is composed of a large array of soldiers, but a number of nations provide more focus and support than others - predominantly China, Japan, Russia, Germany, France, and the United Kingdom. 
 
-These nations have sectioned portions of their official militaries into off-record recruitment and training operations. In an attempt to support unity between nations, these paramilitary soldiers will often transfer between military trainings and operations.
+These nations have sectioned portions of their official militaries into off-record 'recruitment and training' operations. In an attempt to support unity between nations, these paramilitary soldiers will often participate in cross-national operations.
 
 ## Culture
 #### Heritage

@@ -47,11 +47,11 @@ You need to move, to explore. You can't keep surviving, you need to *live*. You'
 %% Begin Waypoint %%
 - **[[Factions of Puget Sound]]**
 - [[Fiction Exposition Broadcast Script]]
-- **Important NPCs**
 - [[Seattle's Environmental Hazards]]
 - [[The Bombings]]
 - [[The Infection]]
 - **Traders**
+	- [[Allen White]]
 	- [[Bradon Mills]]
 	- [[Father Patrick]]
 	- [[General Hienz]]
