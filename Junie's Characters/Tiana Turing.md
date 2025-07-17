@@ -146,6 +146,8 @@ We talked to the Castaways, and they were chill with the Inn being haunted kinda
 
 We're probably gonna head out, but we talked to a lumberjack named Maggie! She's gonna come travel and explore with us.
 
+The Entrance and Exits of the Castaway Cove are marked by pairs of heart-shaped trees. Speak Thromka to part the vines and pass upon the path. There is a circular path around the lake that extended to the points of interest of the island.
+
 ## Stats
 
 | L. 4 | XP: 3,570 | /6,500 | (1) Inspiration |
@@ -266,6 +268,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 	Equipment Belt
 		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]] 1/1)
 		- Sheath (Dagger)
+		- Sending Stone (paired with Soju)
 *Legs*:
 	Canvas Cloak
 	Leather Pants
