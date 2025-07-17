@@ -120,21 +120,25 @@ In the light of the wee morning, Tiana spotted a crashed ship on the Reef, but I
 - [ x ] Save the Newly Weds
 - [  ] ~~Clean up the Inn & Set up in there~~
 	- (  ) Find Lenny or Torrin
-	- (  ) Handle Undead prevention (see *Veinlock Gate*)
+	- ( x ) Handle Undead prevention (see *Veinlock Gate*)
 	- (  ) Improve travel capability?
 - [  ] Get a 100gp pearl for Identify
 
 We bought potions from Grom, he should be getting a new supply soon though. We want to deal with the newlyweds before we go deal with the basement. Dealing with the Newlyweds was a bit of trouble, but we figured it out by following the ritual works, and we got a little necklace of protection.
 
-We found the *Veinlock Gate*, and it seems like Torrin wanted to open it up, he was talking about whispers behind it, and then he went on to talk about all the magic items we got. Torrin mentioned a Grimoire he was using. "The tower calls to me", he moved out of the Inn at some point. 
+We found the *Veinlock Gate*, and it seems like maybe Torrin wanted to open it up - but maybe he didn't want it opened, he was talking about whispers behind it, and then he went on to talk about all the magic items we got. Torrin mentioned a Grimoire he was using. "The tower calls to me", he moved out of the Inn at some point. 
 
 Soju knows that the *Sunken Pyre* and the *Silver Grove* are places on the island, in the Lizardkin territory and the Apekin territory.
 
 The Amulet of Twofold Drowning is related to the Grung somehow.
 
 #### Session 8: Rallying the Castaways!
+- [ x ] Find Maggie
+- [  ] Figure where to go or what to do?
 
+We talked to the Castaways, and they were chill with the Inn being haunted kinda, but, yknow...
 
+We're probably gonna head out, but we talked to a lumberjack named Maggie! She's gonna come travel and explore with us.
 
 ## Stats
 
