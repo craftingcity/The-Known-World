@@ -33,33 +33,71 @@
         ]
       },
       {
-        "id": "556afb6634c19260",
-        "type": "tabs",
+        "id": "52bbb298a73dd641",
+        "type": "split",
         "children": [
           {
-            "id": "7dc58f933c587cca",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "556afb6634c19260",
+            "type": "tabs",
+            "dimension": 63.90625,
+            "children": [
+              {
+                "id": "7dc58f933c587cca",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Tiana Turing.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tiana Turing"
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tiana Turing"
-            }
+              }
+            ]
+          },
+          {
+            "id": "4af562396f47e732",
+            "type": "tabs",
+            "dimension": 36.09375,
+            "children": [
+              {
+                "id": "354a1dd53c683a0d",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Tiana Turing.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tiana Turing"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -310,7 +348,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7dc58f933c587cca",
+  "active": "3ea0324879fea694",
   "lastOpenFiles": [
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Washington State Remnants.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",

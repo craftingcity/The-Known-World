@@ -132,6 +132,10 @@ Soju knows that the *Sunken Pyre* and the *Silver Grove* are places on the islan
 
 The Amulet of Twofold Drowning is related to the Grung somehow.
 
+#### Session 8: Rallying the Castaways!
+
+
+
 ## Stats
 
 | L. 4 | XP: 3,570 | /6,500 | (1) Inspiration |
@@ -146,8 +150,8 @@ The Amulet of Twofold Drowning is related to the Grung somehow.
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | .   | .   | .   | .   | .   | .    | .   |
-| o   | x   | .   | .   | .   | .   | .   |      |     |
-| o   | x   | .   | .   | .   |     |     |      |     |
+| o   | o   | .   | .   | .   | .   | .   |      |     |
+| o   | o   | .   | .   | .   |     |     |      |     |
 | o   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
@@ -250,7 +254,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 		- Small Brass Brazier
 *Groin*:
 	Equipment Belt
-		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]] 0/1)
+		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]] 1/1)
 		- Sheath (Dagger)
 *Legs*:
 	Canvas Cloak
@@ -260,7 +264,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 
 ###### Coin of Aurelian Silence
 - *Attuned*
-- While you are Attuned, the Coin can be used as a Arcane Focus.
+- While you are Attuned, the Coin can be used as an Arcane Focus.
 - While you are Attuned, the Coin grants +1 to Arcana Skill Checks.
 - While you are Attuned, you may store a 1st Level Wizard Spell in the Coin (currently *Silvery Barbs*).
 - While you are Attuned, once per long rest, before you cast a spell (2/10);
