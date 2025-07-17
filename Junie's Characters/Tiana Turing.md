@@ -132,7 +132,7 @@ Soju knows that the *Sunken Pyre* and the *Silver Grove* are places on the islan
 
 The Amulet of Twofold Drowning is related to the Grung somehow.
 
-#### Session 8: Rallying the Castaways!
+#### Session 8: Rally the Castaways!
 - [ x ] Find Maggie
 - [ x ] Figure where to go or what to do?
 	- (  ) Find Lenny, Torrin, and the Hollow-Man
@@ -148,7 +148,7 @@ We're probably gonna head out, but we talked to a lumberjack named Maggie! She's
 
 The Entrance and Exits of the Castaway Cove are marked by pairs of heart-shaped trees. Speak 'Throm-ka' to part the vines and pass upon the path. There is a circular path around the lake that extended to the points of interest of the island.
 
-
+Leaving the Cove, the change in scenery is intense. 
 
 ## Stats
 
@@ -242,8 +242,8 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 (10gp, 25sp)
 
 - 2x *Pot of Healing*; 2d4+2
-- 15x 'Incense'
-- 3x 'Charcoal'
+- 14x 'Incense'
+- 2x 'Charcoal'
 - 3x 'Pearl'
 - Scroll of Remove Curse
 - Anatomical Notes of Creatures of the Island
