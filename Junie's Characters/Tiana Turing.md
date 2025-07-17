@@ -134,7 +134,13 @@ The Amulet of Twofold Drowning is related to the Grung somehow.
 
 #### Session 8: Rallying the Castaways!
 - [ x ] Find Maggie
-- [  ] Figure where to go or what to do?
+- [ x ] Figure where to go or what to do?
+	- (  ) Find Lenny, Torrin, and the Hollow-Man
+	- (  ) Find the Veinlock Macguffins (0/5)
+	- (  ) Find our Shipmates
+	- (  ) Go to Buckaneer Break, just because it could be cool
+	- (  ) Go to the Tower or the Barracks, because they're mysterious
+	- (  ) Cast Identify on the Veinlock Gate
 
 We talked to the Castaways, and they were chill with the Inn being haunted kinda, but, yknow...
 
