@@ -152,7 +152,7 @@ Leaving the Cove, the change in scenery is intense. We're caught out by some sna
 
 ## Stats
 
-| L. 4 | XP: 3,570 | /6,500 | (1) Inspiration |
+| L. 4 | XP: 4,570 | /6,500 | (1) Inspiration |
 | ---- | --------- | ------ | --------------- |
 | STR  | 8  (-1)   | PRF    | +2              |
 | CON  | 13 (+1)   | M. HP  | 22 Max HP       |
