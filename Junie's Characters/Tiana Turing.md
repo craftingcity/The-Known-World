@@ -148,7 +148,7 @@ We're probably gonna head out, but we talked to a lumberjack named Maggie! She's
 
 The Entrance and Exits of the Castaway Cove are marked by pairs of heart-shaped trees. Speak 'Throm-ka' to part the vines and pass upon the path. There is a circular path around the lake that extended to the points of interest of the island.
 
-Leaving the Cove, the change in scenery is intense. 
+Leaving the Cove, the change in scenery is intense. We're caught out by some snakes, and some viney-masses in the shape of humanoid-ish shapes.
 
 ## Stats
 
@@ -157,7 +157,7 @@ Leaving the Cove, the change in scenery is intense.
 | STR  | 8  (-1)   | PRF    | +2              |
 | CON  | 13 (+1)   | M. HP  | 22 Max HP       |
 | DEX  | 16 (+3)   | AC     | (13)            |
-| INT  | 20 (+5) ^ | C. HP  | 22 HP           |
+| INT  | 20 (+5) ^ | C. HP  | 19 HP           |
 | WIS  | 14 (+2) ^ | HD     | 4d6             |
 | CHA  | 12 (+1)   | SPD    | 25' (5s)        |
 
@@ -165,7 +165,7 @@ Leaving the Cove, the change in scenery is intense.
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | .   | .   | .   | .   | .   | .    | .   |
 | o   | o   | .   | .   | .   | .   | .   |      |     |
-| o   | o   | .   | .   | .   |     |     |      |     |
+| o   | x   | .   | .   | .   |     |     |      |     |
 | o   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
