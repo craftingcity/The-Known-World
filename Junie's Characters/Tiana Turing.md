@@ -249,6 +249,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 
 *Hands*: 
 	Leather Fingerless Gloves
+	Maggie's Lucky Spoon-Ring
 *Arms*: 
 	Cloth Shirt
 	Canvas Cloak
@@ -264,6 +265,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 		- 10x Rations
 		- 1L Leather Waterskin
 		- Small Brass Brazier
+		- A Painting of My Dad and Grom
 *Groin*:
 	Equipment Belt
 		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]] 1/1)
