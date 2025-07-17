@@ -144,9 +144,11 @@ The Amulet of Twofold Drowning is related to the Grung somehow.
 
 We talked to the Castaways, and they were chill with the Inn being haunted kinda, but, yknow...
 
-We're probably gonna head out, but we talked to a lumberjack named Maggie! She's gonna come travel and explore with us.
+We're probably gonna head out, but we talked to a lumberjack named Maggie! She's gonna come travel and explore with us. We will eventually head to the Tower, but we just need to get moving first.
 
-The Entrance and Exits of the Castaway Cove are marked by pairs of heart-shaped trees. Speak Thromka to part the vines and pass upon the path. There is a circular path around the lake that extended to the points of interest of the island.
+The Entrance and Exits of the Castaway Cove are marked by pairs of heart-shaped trees. Speak 'Throm-ka' to part the vines and pass upon the path. There is a circular path around the lake that extended to the points of interest of the island.
+
+
 
 ## Stats
 
@@ -263,7 +265,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 		- Mess Kit & Tinderbox
 		- 10x Torches
 		- 10x Rations
-		- 1L Leather Waterskin
+		- Leather Waterskin (1/1L)
 		- Small Brass Brazier
 		- A Painting of My Dad and Grom
 *Groin*:
