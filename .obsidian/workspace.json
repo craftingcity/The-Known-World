@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32d838e45fe15175",
+        "id": "e9c973193954acb8",
         "type": "tabs",
         "children": [
           {
-            "id": "3ea0324879fea694",
+            "id": "02fd8cab125623a9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,84 +20,13 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tiana Turing"
+              "title": "New tab"
             }
           }
         ]
-      },
-      {
-        "id": "52bbb298a73dd641",
-        "type": "split",
-        "children": [
-          {
-            "id": "556afb6634c19260",
-            "type": "tabs",
-            "dimension": 63.90625,
-            "children": [
-              {
-                "id": "7dc58f933c587cca",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Junie's Characters/Tiana Turing.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tiana Turing"
-                }
-              }
-            ]
-          },
-          {
-            "id": "4af562396f47e732",
-            "type": "tabs",
-            "dimension": 36.09375,
-            "children": [
-              {
-                "id": "354a1dd53c683a0d",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Junie's Characters/Tiana Turing.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tiana Turing"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -348,8 +277,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ea0324879fea694",
+  "active": "02fd8cab125623a9",
   "lastOpenFiles": [
+    "Junie's Characters/Tiana Turing.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Washington State Remnants.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Tourist Paramilitary.md",
@@ -359,7 +289,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Cult in Annihilation.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Druids of Covington.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Enumclaw Civilized Safe Zone.md",
-    "Junie's Characters/Tiana Turing.md",
     "Game Notes/NPCs/List of Names.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
