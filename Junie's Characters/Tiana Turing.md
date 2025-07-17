@@ -270,7 +270,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 		- A Painting of My Dad and Grom
 *Groin*:
 	Equipment Belt
-		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]] 1/1)
+		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]] 0/1)
 		- Sheath (Dagger)
 		- Sending Stone (paired with Soju)
 *Legs*:
