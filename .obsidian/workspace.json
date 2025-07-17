@@ -8,83 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd3f8e33a7fb12a7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Enumclaw Civilized Safe Zone",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Enumclaw Civilized Safe Zone.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Enumclaw Civilized Safe Zone\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":325},\"to\":{\"line\":13,\"ch\":325}},\"scroll\":0.008875051489588358}"
-                },
-                {
-                  "title": "Druids of Covington",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Druids of Covington.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Druids of Covington\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0.008875051489588358}"
-                },
-                {
-                  "title": "Factions of Puget Sound",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Factions of Puget Sound\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":186},\"to\":{\"line\":60,\"ch\":186}},\"scroll\":30.579520413648417}"
-                },
-                {
-                  "title": "Seattle Exports Misery",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Seattle Exports Misery\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Notes on the Multiverse",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Notes on the Multiverse\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Factions of Puget Sound"
-            }
-          },
-          {
-            "id": "bcbdacce046bb0c3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Washington State Remnants.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Washington State Remnants"
-            }
-          },
-          {
             "id": "3ea0324879fea694",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Junie's Characters/Tiana Turing.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tiana Turing"
+            }
+          }
+        ]
+      },
+      {
+        "id": "556afb6634c19260",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dc58f933c587cca",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -209,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.50418853759766
+    "width": 418.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -356,7 +310,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd3f8e33a7fb12a7",
+  "active": "7dc58f933c587cca",
   "lastOpenFiles": [
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Washington State Remnants.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
