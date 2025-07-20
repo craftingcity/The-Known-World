@@ -28,7 +28,7 @@ To invoke any psionic Disciplines, you must spend an amount of Effort equal to t
 
 You have a pool of Effort (or, *ki*,) equal to your proficiency bonus plus your Psionic Ability Modifier. You regain your spent Effort during Rest, as per the "charge" ability Rest rules.
 
-At first level, you know a Disciplines of your choice that you meet the prerequisites for. After first level, you gain one Discipline of your choice every other level, and you may replace one Discipline you know with another you don't, but still meet the prerequisites for, at this time.
+At first level, you know a Discipline of your choice that you meet the prerequisites for. After first level, you gain one Discipline of your choice every other level, and you may replace one Discipline you know with another you don't, but still meet the prerequisites for, at this time.
 
 ## Psionic Tradition
 At second level, you will choose a Psionic Tradition, shaping your mind to one purpose as you continue to practice psionics.
