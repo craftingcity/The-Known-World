@@ -18,7 +18,7 @@ aliases:
 ## Psionics
 As a psion, you have mastered the ability to invoke the weave using nothing but your mind and will.
 ### Psionic Ability 
-Your psionic ability is a representation of the entirety of your mind's ability. Average your Intelligence, Wisdom, and Charisma scores. This is your "psionic ability score", and, using the typical modifer calculations, your Psionic Ability Modifier is determined by this score.
+Your psionic ability is a representation of the entirety of your mind's ability. Average your Intelligence, Wisdom, and Charisma scores `maybe only 2 of the 3?`. This is your "psionic ability score", and, using the typical modifier calculations, your Psionic Ability Modifier is determined by this score.
 
 Your Psionic Save DC is equal to 8 plus your Proficiency Bonus and your Psionic Ability Modifer.
 
@@ -28,7 +28,7 @@ To invoke any psionic Disciplines, you must spend an amount of Effort equal to t
 
 You have a pool of Effort (or, *ki*,) equal to your proficiency bonus plus your Psionic Ability Modifier. You regain your spent Effort during Rest, as per the "charge" ability Rest rules.
 
-At first level, you know a Disciplines of your choice that you meet the prerequisites for. After first level, you will gain one Discipline of your choice every other level, and you may replace one Discipline you know with another you don't, but still meet the prerequisites for, at this time.
+At first level, you know a Disciplines of your choice that you meet the prerequisites for. After first level, you gain one Discipline of your choice every other level, and you may replace one Discipline you know with another you don't, but still meet the prerequisites for, at this time.
 
 ## Psionic Tradition
 At second level, you will choose a Psionic Tradition, shaping your mind to one purpose as you continue to practice psionics.
