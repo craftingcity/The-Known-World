@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b58475fd1c55ba1",
+        "id": "62f87c2aec9594bd",
         "type": "tabs",
         "children": [
           {
-            "id": "6ae0842263ae0d2e",
+            "id": "d331841c6037c59b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,12 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'24/Prenotes Apr 09 24.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Apr 09 24"
+              "title": "Seattle Exports Misery"
             }
           }
         ]
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,8 +129,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -281,8 +280,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17bba7903284a409",
+  "active": "d331841c6037c59b",
   "lastOpenFiles": [
+    "Game Notes/NPCs/NPCs.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 09 24.md",
     "Game Notes/Campaign Rosters/Cathouse Game.md",
     "Game Notes/Campaign Rosters/Jasper's Angels.md",
     "Game Notes/Campaign Rosters/GavinHouse Game.md",
@@ -296,7 +297,6 @@
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Kakurak's Chosen.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jerran Stormwind.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Fulton Shepherd.md",
-    "Game Notes/NPCs/NPCs.md",
     "Game Notes/Game Notes.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Politics of Coalition c. 093AF - XXXAF.md",
@@ -308,7 +308,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Psion.md",
     "Game Notes/Campaign Rosters/The Hatdroppers.md",
     "Game Notes/Prenotes/'23/Prenotes Feb 07 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Dec 14 23.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
