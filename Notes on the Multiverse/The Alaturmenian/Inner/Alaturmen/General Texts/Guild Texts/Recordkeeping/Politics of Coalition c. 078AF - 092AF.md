@@ -4,8 +4,8 @@ tags:
 aliases:
 ---
 ### Foreword
-# Title
-### Subtitle, if applicable
+# Politics of Coalition
+### c. 078AF - 092AF
 ## [[Adriana Fairlin Franx]]
 
 ## Index

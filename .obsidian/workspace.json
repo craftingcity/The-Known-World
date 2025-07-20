@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d76899e62c080779",
+        "id": "4f4b3dfe781cbc7f",
         "type": "tabs",
         "children": [
           {
-            "id": "b01231dfcce568c6",
+            "id": "8ee601d99eb9ee6e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,24 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Custom Class - Psion",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Psion.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Custom Class - Psion\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":286},\"to\":{\"line\":30,\"ch\":286}},\"scroll\":19.381755311324522}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Custom Cultures"
+              "title": "New tab"
             }
           }
         ]
@@ -139,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.50418853759766,
-    "collapsed": true
+    "width": 418.50418853759766
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -287,8 +276,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b01231dfcce568c6",
+  "active": "8ee601d99eb9ee6e",
   "lastOpenFiles": [
+    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jerran Stormwind.md",
+    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Fulton Shepherd.md",
+    "Game Notes/NPCs/NPCs.md",
+    "Game Notes/Game Notes.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Politics of Coalition c. 093AF - XXXAF.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Recordkeeping/Politics of Coalition c. 078AF - 092AF.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Communicaes.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Psion.md",
     "Game Notes/Campaign Rosters/The Hatdroppers.md",
     "Game Notes/Prenotes/'23/Prenotes Feb 07 23.md",
@@ -304,17 +304,6 @@
     "Notes on the Multiverse/Seattle Exports Misery/Traders/Allen White.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Overwatch Airport Security.md",
     "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Cult in Annihilation.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Druids of Covington.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Enumclaw Civilized Safe Zone.md",
-    "Game Notes/NPCs/List of Names.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Prenotes July xx 25.md",
-    "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
-    "Prenotes July xx2 25.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Merchant NPCs/Jasper Vwem.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
