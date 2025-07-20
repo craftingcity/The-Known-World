@@ -7,7 +7,7 @@ aliases:
 #### Home of the Alaturmanian Monk
 #### The Base of Fieldborn Knowledge
 ## Holding of /*Tauruin's Cult*/
-### Located in [[Deakred Range]], (S13? / R18?)
+### Located in [[Deakred Range]], (R18?)
 ## Description
 ### "Quote"
 

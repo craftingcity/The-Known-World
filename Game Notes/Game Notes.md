@@ -4,7 +4,6 @@ connect to [[Notes on the Multiverse]]
 %% Begin Waypoint %%
 - **Campaign Rosters**
 	- [[Cathouse Game]]
-	- [[GavinHouse Game]]
 	- [[Jasper's Angels]]
 	- [[Milliehouse Game]]
 	- [[Sarahouse Deakred Game]]

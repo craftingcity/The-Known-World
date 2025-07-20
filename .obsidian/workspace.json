@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f4b3dfe781cbc7f",
+        "id": "4b58475fd1c55ba1",
         "type": "tabs",
         "children": [
           {
-            "id": "8ee601d99eb9ee6e",
+            "id": "6ae0842263ae0d2e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,10 +20,14 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'24/Prenotes Apr 09 24.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Prenotes Apr 09 24"
             }
           }
         ]
@@ -76,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +129,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -276,8 +281,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ee601d99eb9ee6e",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
+    "Game Notes/Campaign Rosters/Cathouse Game.md",
+    "Game Notes/Campaign Rosters/Jasper's Angels.md",
+    "Game Notes/Campaign Rosters/GavinHouse Game.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Monastery of Saint Susan.md",
+    "Game Notes/Prenotes/'24/Prenotes Mar 20 24.md",
+    "Dae Shim.md",
+    "Shu Ameda.md",
+    "Gringold, Bard of Poor Renown.md",
+    "Game Notes/NPCs/High Power/True Villian NPCs/True Villian NPCs.md",
+    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md",
+    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Kakurak's Chosen.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jerran Stormwind.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Fulton Shepherd.md",
     "Game Notes/NPCs/NPCs.md",
@@ -293,17 +309,6 @@
     "Game Notes/Campaign Rosters/The Hatdroppers.md",
     "Game Notes/Prenotes/'23/Prenotes Feb 07 23.md",
     "Game Notes/Prenotes/'23/Prenotes Dec 14 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Dec 07 23.md",
-    "Game Notes/Prenotes/'23/Prenotes April 02 23.md",
-    "Game Notes/Prenotes/'22/Prenotes Aug 29 22.md",
-    "Junie's Characters/Tiana Turing.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Washington State Remnants.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Tourist Paramilitary.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Shadow Bandits.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Traders/Allen White.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Overwatch Airport Security.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Cult in Annihilation.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",

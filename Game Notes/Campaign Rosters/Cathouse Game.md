@@ -6,16 +6,18 @@ aliases:
 # Adventures of "Koshachiy Domik"
 ## Active Characters
 ### Kade-Side
-Dot
-Vix
-Daelith
-Inec
-Giavoni
-Furgey
+Dot - retired
+Vix - retired
+Daelith - retired, astralized
+Inec - retired
+[[Giavoni, Fist of the Hounds]]
+Furgey - mia
 ### Millie-Side
-Dae Shim
-Shu Ameda
-Gringold
+[[Dae Shim]]
+[[Shu Ameda]]
+[[Gringold, Bard of Poor Renown]]
+Kuku - dead
+Kierolight - mia
 ### Independant
 Ren (formerly, retired)
 Penne (formerly?)
