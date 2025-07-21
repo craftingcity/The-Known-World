@@ -36,6 +36,7 @@ The Ring District is the heart of the people of Mossburg. Most of the population
 	- *Jerasmus, the Tinkerer*
 ### The Ring District, East (Avalon)
 
+	- **
 ### The Ring District, North (MoS)
 
 ### The Under District (n/a)
