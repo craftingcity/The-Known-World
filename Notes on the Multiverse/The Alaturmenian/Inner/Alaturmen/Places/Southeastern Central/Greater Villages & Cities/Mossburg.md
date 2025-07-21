@@ -31,7 +31,7 @@ The Central District is completely controlled by the [[Mossburg Enforcers]], and
 	- *The Silver Lanes*
 		> A section of the Central District that houses a significant portion of the wealthiest 'civilians' in Mossburg.
 ### The Ring District, West (RDFP)
-The Ring District is the heart of the people of Mossburg. Most of the population lives within the outer walls, but outside the tall tower-gates of [[#The Central District]].
+The West Ring District is the heart of the people of Mossburg. Most of the population lives within the outer walls, but outside the tall tower-gates of [[#The Central District]].
 	- *The Araborum*
 	- *Jerasmus, the Tinkerer*
 ### The Ring District, East (Avalon)
