@@ -44,8 +44,12 @@ The West Ring District is the heart of the people of Mossburg. Most of the popul
 ### The Ring District, East (Avalon)
 The East Ring District is the home of the middle class, for as little as that phrase means. Avalon has a history of avoiding the brunt of the brutality dolled out by the Enforcers exclusively because of their theological proclivities, leaving Avalon a more affable and mobile neighborhood.
 	- *Swift Foot Warehouse*
+	- *Temple Avalon*
+	- *Eastside Manufactory*
 ### The Ring District, North (MoS)
 The North Ring District is the home of the downtrodden, consumed by mass-housing projects and under-engineered manufactories.
+	- *Northside Manufactory*
+	- *Scum & Villainy*
 ### The Under District (n/a)
 The Under District is a largely uncontrolled system of sewers, tunnels, and basements that travel and connect throughout the city. A handful of locations are under the direct control of an authority, but most are unaligned or abandoned.
 	- *The Drowned Dancer*
