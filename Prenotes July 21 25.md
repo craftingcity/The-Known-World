@@ -32,12 +32,10 @@ What all this means is we get to have three factions (two others and the Enforce
 
 ##### FIGHT FOR THE CART
 19 - Enforcers (BLU)
-	A
-	B
+	A (14)
+	B 
 	C (3)
-	D
-	E (5)
-	F
+	D (6, 7)
 15 - Liliana
 13 - Xenfer
 10 - Militia of Scum (GRE)
