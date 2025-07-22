@@ -22,6 +22,12 @@ As the Bandit Lords fell, and consolidated their waning power back north, Mossbu
 The Mossburg Enforcers became overwhelmed. They chose efficiency over diligence, and for three generations, the Enforcers have used their leverage over the populace to disappear people and force their families to work to the bone to see them again.
 
 ## Important Places & Symbolism
+|      |          |        |
+| ---- | -------- | ------ |
+| MoS  | MoS      | MoS    |
+| RDFP | Enforcer | Avalon |
+| RDFP | RDFP     | Avalon |
+
 ### The Central District (Enforcer)
 The Central District is completely controlled by the [[Mossburg Enforcers]], and they make their homes of lavish nobility in this space.
 	- *The Castle Mossburg*
@@ -34,11 +40,12 @@ The Central District is completely controlled by the [[Mossburg Enforcers]], and
 The West Ring District is the heart of the people of Mossburg. Most of the population lives within the outer walls, but outside the tall tower-gates of [[#The Central District]].
 	- *The Araborum*
 	- *Jerasmus, the Tinkerer*
+	- *Westside Manufactory*
 ### The Ring District, East (Avalon)
-
-	- **
+The East Ring District is the home of the middle class, for as little as that phrase means. Avalon has a history of avoiding the brunt of the brutality dolled out by the Enforcers exclusively because of their theological proclivities, leaving Avalon a more affable and mobile neighborhood.
+	- *Swift Foot Warehouse*
 ### The Ring District, North (MoS)
-
+The North Ring District is the home of the downtrodden, consumed by mass-housing projects and under-engineered manufactories.
 ### The Under District (n/a)
 The Under District is a largely uncontrolled system of sewers, tunnels, and basements that travel and connect throughout the city. A handful of locations are under the direct control of an authority, but most are unaligned or abandoned.
 	- *The Drowned Dancer*

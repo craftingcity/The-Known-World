@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"jasper's angels\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +141,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -292,7 +293,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f98a62ac2c9a7de8",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Prenotes July xx2 25.md",
     "Prenotes July xx 25.md",
