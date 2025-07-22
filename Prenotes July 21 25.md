@@ -34,9 +34,9 @@ What all this means is we get to have three factions (two others and the Enforce
 19 - Enforcers (BLU)
 	A
 	B
-	C
+	C (3)
 	D
-	E
+	E (5)
 	F
 15 - Liliana
 13 - Xenfer
