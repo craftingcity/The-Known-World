@@ -34,6 +34,7 @@ The Central District is completely controlled by the [[Mossburg Enforcers]], and
 	- *The Garrison*
 		> The Garrison is a large brutalist building used by the [[Mossburg Enforcers]] as a head-quarters and imprisonment center. Tunnels in the lowest sections lead outward into [[#The Under District]].
 	- *The Merry Band*
+	- *Swift Foot Warehouse*
 	- *The Silver Lanes*
 		> A section of the Central District that houses a significant portion of the wealthiest 'civilians' in Mossburg.
 ### The Ring District, West (RDFP)
@@ -43,7 +44,6 @@ The West Ring District is the heart of the people of Mossburg. Most of the popul
 	- *Westside Manufactory*
 ### The Ring District, East (Avalon)
 The East Ring District is the home of the middle class, for as little as that phrase means. Avalon has a history of avoiding the brunt of the brutality dolled out by the Enforcers exclusively because of their theological proclivities, leaving Avalon a more affable and mobile neighborhood.
-	- *Swift Foot Warehouse*
 	- *Temple Avalon*
 	- *Eastside Manufactory*
 ### The Ring District, North (MoS)
