@@ -31,17 +31,11 @@ What all this means is we get to have three factions (two others and the Enforce
 ### What happened?
 
 ##### FIGHT FOR THE CART
-19 - Enforcers (BLU)
-	B (4, 12)
 15 - Liliana
 13 - Xenfer
 10 - Militia of Scum (GRE)
-	A
+	A (6)
 	B
-	C
-	D
-	E
-	F
 8 - Emilio
 4 - Jasper
 2 - Zesh
