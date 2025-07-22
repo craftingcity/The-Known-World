@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "66b1c518b6cd5a95",
+        "id": "e4f4ac780dfdfa5e",
         "type": "tabs",
         "children": [
           {
-            "id": "f98a62ac2c9a7de8",
+            "id": "5dee3e2596f1d806",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,18 +16,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Prenotes July xx2 25",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes July 21 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes July xx2 25\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":282},\"to\":{\"line\":20,\"ch\":282}},\"scroll\":0.8672086902452906}"
-                },
-                {
-                  "title": "Prenotes July xx 25",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes July xx 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes July xx 25\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
@@ -42,6 +30,36 @@
               "title": "Mossburg"
             }
           },
+          {
+            "id": "a116652680db1cc2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Custom Class - Blood Hunter"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "66b1c518b6cd5a95",
+        "type": "tabs",
+        "children": [
           {
             "id": "1e3d8ed78398e576",
             "type": "leaf",
@@ -121,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"jasper's angels\"",
+                "query": "fire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.50418853759766
+    "width": 418.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -322,10 +341,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f98a62ac2c9a7de8",
+  "active": "a116652680db1cc2",
   "lastOpenFiles": [
-    "Prenotes July 21 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+    "Prenotes July 21 25.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Prenotes July xx 25.md",
     "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
     "Game Notes/NPCs/NPCs.md",
@@ -349,7 +369,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Recordkeeping/Politics of Coalition c. 078AF - 092AF.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Communicaes.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",

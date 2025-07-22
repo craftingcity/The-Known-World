@@ -282,11 +282,19 @@ Boltshot Firepowder Blasters are single-shot, manual loading, bolt-action, firep
 Boltshot Firepowder Blasters deal 1d10 piercing damage.
 Boltshot Firepowder Blasters are *two-handed*, *ammunition (1)*, and *ranged (120/600)*. Once per rest, you may use this weapon's special ability;
 
+| Name / Classification | Range | Damage | Original Producer | Note |
+| --------------------- | ----- | ------ | ----------------- | ---- |
+|                       |       |        |                   |      |
+
 #### Boltshot Firepowder Scatterblaster
 Boltshot Firepowder Scatterblasters are single-shot, manual loading, bolt-action, firepower scatterguns. The ammunition used is a collection of tiny metal balls stored in a thin metallic casing.
 
 Boltshot Firepowder Scatterblasters deal 3d10 piercing damage in a 15' cone divided by the number of creatures hit.
 Boltshot Firepowder Scatterblasters are *two-handed*, *ammunition (1)*, and *ranged (15)*. Once per rest, you may use this weapon's special ability;
+
+| Name / Classification | Range | Damage | Original Producer | Note |
+| --------------------- | ----- | ------ | ----------------- | ---- |
+|                       |       |        |                   |      |
 
 ## Martial Ranged Weapons
 ### Thrown
@@ -345,16 +353,46 @@ Repeating Crossbows are *heavy*, *two-handed*, *ranged (60/180)*, and *ammunitio
 #### Longbow
 ### Durandurm Operated
 #### Durandurm Longblaster
+| Name / Classification | Range | Damage | Original Producer | Note |
+| --------------------- | ----- | ------ | ----------------- | ---- |
+|                       |       |        |                   |      |
 #### Durandurm Carbine
+| Name / Classification | Range | Damage | Original Producer | Note |
+| --------------------- | ----- | ------ | ----------------- | ---- |
+|                       |       |        |                   |      |
 #### Durandurm Rotary Repeater
+| Name / Classification | Range | Damage | Original Producer | Note |
+| --------------------- | ----- | ------ | ----------------- | ---- |
+|                       |       |        |                   |      |
 #### Durandurm Scatterblaster
+| Name / Classification | Range | Damage | Original Producer | Note |
+| --------------------- | ----- | ------ | ----------------- | ---- |
+|                       |       |        |                   |      |
 #### Durandurm Cannon
+| Name / Classification | Range | Damage | Original Producer | Note |
+| --------------------- | ----- | ------ | ----------------- | ---- |
+|                       |       |        |                   |      |
 ### Firepowder Operated
 #### Reakshot Firepowder Blaster
+| Name / Classification | Range | Damage | Original Producer | Note |
+| --------------------- | ----- | ------ | ----------------- | ---- |
+|                       |       |        |                   |      |
 #### Reakshot Firepowder Carbine
+| Name / Classification | Range | Damage | Original Producer | Note |
+| --------------------- | ----- | ------ | ----------------- | ---- |
+|                       |       |        |                   |      |
 #### Beltshot Firepowder Rotary Repeater
+| Name / Classification | Range | Damage | Original Producer | Note |
+| --------------------- | ----- | ------ | ----------------- | ---- |
+|                       |       |        |                   |      |
 #### Boltshot Firepowder Scatterblaster
+| Name / Classification | Range | Damage | Original Producer | Note |
+| --------------------- | ----- | ------ | ----------------- | ---- |
+|                       |       |        |                   |      |
 #### Boltshot Firepowder Cannon
+| Name / Classification | Range | Damage | Original Producer | Note |
+| --------------------- | ----- | ------ | ----------------- | ---- |
+|                       |       |        |                   |      |
 
 ## Ranged Ammunition
 ### Stones

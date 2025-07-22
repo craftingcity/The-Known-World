@@ -38,7 +38,14 @@ You take this feature at 18th level.
 
 # Blood Curses
 ##### Curse of the Warrior
-As a bonus action, choose a creature you have already made an Attack against this turn. Then, make an Attack roll against that creature. You may use this *blood curse* a number of times equal to the maximum value of your *hemocraft die*. Invoking this *blood curse* does not expend a use of your **Blood Maledict**. You regain the uses of this *blood curse* after a long rest.
+As a bonus action, choose a creature you have already made an Attack against this turn. Then, make an Attack roll against that creature. 
+
+You may use this *blood curse* a number of times equal to the maximum value of your *hemocraft die*. Invoking this *blood curse* does not expend a use of your **Blood Maledict**. You regain the uses of this *blood curse* after a long rest.
 
 *Amplify*. You may choose any creature instead. 
+
+##### Curse of the Broker
+As a bonus action, choose a creature you have hit with an Attack this turn. Until the end of your next turn, when you take damage, you deal the same amount of psychic damage to that creature.
+
+*Amplify*. You deal twice the amount of damage instead.
 
