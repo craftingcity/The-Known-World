@@ -33,11 +33,8 @@ What all this means is we get to have three factions (two others and the Enforce
 ##### FIGHT FOR THE CART
 15 - Liliana
 13 - Xenfer
-10 - Militia of Scum (GRE)
-	A (6)
-	B
 8 - Emilio
 4 - Jasper
 2 - Zesh
 
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the date of 19th of Harvest, 106 AF, as they gather their Amber delivery and try to head out of town.
