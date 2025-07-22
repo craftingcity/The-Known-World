@@ -24,7 +24,7 @@ Pounding boot falls, incoherent screams, and blasting gunfire slowly trickle thr
 
 ### What does the World Know?
 
-War has come to Mossburg, and so has the 9-square fractalization of the combat territory. Avalon controls Eastside, the Ring District Free People controls Westside, the Militia of Scum controls the Northside, and the Enforcers control the Central District. While everyone tries to fight inward, each of the three factions on the Ring is facing an external force; the Hillkeep Loyalists and the Knights in Red are coming from the north, Harvord is coming from the west, and SEASEC is coming from the East.
+War has come to Mossburg, and so has the 9-square fractalization of the combat territory. Avalon controls Eastside, the Ring District Free People controls Westside, the Militia of Scum controls the Northside, and the Enforcers control the Central District. While everyone tries to fight inward, each of the three factions on the Ring is facing an external force; the Hillkeep Loyalists and the Knights in Red are coming from the north, Harvard is coming from the west, and SEASEC is coming from the East.
 
 What all this means is we get to have three factions (two others and the Enforcers) fight while our players do cool stuff about it.
 
