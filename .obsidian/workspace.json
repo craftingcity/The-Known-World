@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4f4ac780dfdfa5e",
+        "id": "303dd0f6af891267",
         "type": "tabs",
         "children": [
           {
-            "id": "5dee3e2596f1d806",
+            "id": "f7a4623a1af59809",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,51 +22,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+                "file": "Junie's Characters/Tiana Turing.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mossburg"
+              "title": "Tiana Turing"
             }
           }
         ]
       },
       {
-        "id": "66b1c518b6cd5a95",
+        "id": "4cab88686dab6aa6",
         "type": "tabs",
         "children": [
           {
-            "id": "1e3d8ed78398e576",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Prenotes July xx 25",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes July xx 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes July xx 25\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes July 21 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes July 21 25"
-            }
-          },
-          {
-            "id": "9a7c082da3d97a6c",
+            "id": "4df69ce6f1ed67a9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -80,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "file": "Junie's Characters/Tiana Turing.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Gear..."
+              "title": "Tiana Turing"
             }
           }
         ]
@@ -340,11 +311,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e3d8ed78398e576",
+  "active": "4df69ce6f1ed67a9",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Prenotes July 21 25.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Prenotes July xx 25.md",

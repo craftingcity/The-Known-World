@@ -148,7 +148,7 @@ We're probably gonna head out, but we talked to a lumberjack named Maggie! She's
 
 The Entrance and Exits of the Castaway Cove are marked by pairs of heart-shaped trees. Speak 'Throm-ka' to part the vines and pass upon the path. There is a circular path around the lake that extended to the points of interest of the island.
 
-Leaving the Cove, the change in scenery is intense. We're caught out by some snakes, and some viney-masses in the shape of humanoid-ish shapes.
+Leaving the Cove, the change in scenery is intense. We're caught out by some snakes, and some viney-masses in the shape of humanoid-ish shapes, and we fought them off.
 
 ## Stats
 
