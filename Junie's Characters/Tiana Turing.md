@@ -156,7 +156,7 @@ We explore the farmstead, resting for a while and gathering some of the stuff he
 
 ## Stats
 
-| L. 4 | XP: 4,570 | /6,500 | (1) Inspiration |
+| L. 4 | XP: 6,500 | /6,500 | (1) Inspiration |
 | ---- | --------- | ------ | --------------- |
 | STR  | 8  (-1)   | PRF    | +2              |
 | CON  | 13 (+1)   | M. HP  | 22 Max HP       |
