@@ -161,16 +161,16 @@ We explore the farmstead, resting for a while and gathering some of the stuff he
 | STR  | 8  (-1)   | PRF    | +2              |
 | CON  | 13 (+1)   | M. HP  | 22 Max HP       |
 | DEX  | 16 (+3)   | AC     | (13)            |
-| INT  | 20 (+5) ^ | C. HP  | 21 HP           |
+| INT  | 20 (+5) ^ | C. HP  | 15 HP           |
 | WIS  | 14 (+2) ^ | HD     | 4d6 (3/4)       |
 | CHA  | 12 (+1)   | SPD    | 25' (5s)        |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | .   | .   | .   | .   | .   | .    | .   |
-| o   | o   | .   | .   | .   | .   | .   |      |     |
-| o   | x   | .   | .   | .   |     |     |      |     |
-| o   |     |     |     |     |     |     |      |     |
+| o   | x   | .   | .   | .   | .   | .   |      |     |
+| x   | x   | .   | .   | .   |     |     |      |     |
+| x   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
 ##### Skills
