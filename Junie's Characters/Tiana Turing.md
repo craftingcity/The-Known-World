@@ -152,7 +152,7 @@ Leaving the Cove, the change in scenery is intense. We're caught out by some sna
 
 #### Session 9: Beyond the Cove...
 
-
+We explore the farmstead, resting for a while and gathering some of the stuff here.
 
 ## Stats
 
@@ -246,16 +246,20 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 (10gp, 25sp)
 
 - 2x *Pot of Healing*; 2d4+2
+- 1x *G. Pot of Healing*; 4d4+4
+- 1x Spiderstep Sap
 - 14x 'Incense'
 - 2x 'Charcoal'
 - 3x 'Pearl'
 - Scroll of Remove Curse
 - Anatomical Notes of Creatures of the Island
 - Cold Iron Rat-Spiral Engraved Key
+- Wooden Idol of 'Jungle God'
 
 *Hands*: 
 	Leather Fingerless Gloves
 	Maggie's Lucky Spoon-Ring
+	Verdant Band (A/1)
 *Arms*: 
 	Cloth Shirt
 	Canvas Cloak
@@ -291,3 +295,8 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 - While you are Attuned, once per long rest, before you cast a spell (3/10);
 	- *(Heads / Evens)* Gain Advantage on an Attack Roll made for the spell, or impose Disadvantage on a Saving Throw made for the spell.
 	- *(Tails / Odds)* Regain the lowest level spell slot expended to cast the spell.
+
+###### Verdant Band
+- *Requires Attunement*
+- While you are Attuned, you may cast Entangle once per long rest without using a spell slot.
+- While you are Attuned and standing on 'natural earth', when a Plant attempts to Grapple or Restrain you, you have Advantage on that Check.
