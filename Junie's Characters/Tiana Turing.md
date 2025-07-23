@@ -152,7 +152,7 @@ Leaving the Cove, the change in scenery is intense. We're caught out by some sna
 
 #### Session 9: Beyond the Cove...
 
-We explore the farmstead, resting for a while and gathering some of the stuff here. We continue onward, and eventually camp down in an 
+We explore the farmstead, resting for a while and gathering some of the stuff here. We continue onward, and eventually camp down in an abandoned, broken down building. Some ghoulies and goblins come attack us!
 
 ## Stats
 
@@ -169,7 +169,7 @@ We explore the farmstead, resting for a while and gathering some of the stuff he
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | .   | .   | .   | .   | .   | .    | .   |
 | o   | o   | .   | .   | .   | .   | .   |      |     |
-| o   | o   | .   | .   | .   |     |     |      |     |
+| o   | x   | .   | .   | .   |     |     |      |     |
 | o   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
