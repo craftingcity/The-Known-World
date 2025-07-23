@@ -169,7 +169,7 @@ We explore the farmstead, resting for a while and gathering some of the stuff he
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | .   | .   | .   | .   | .   | .    | .   |
 | o   | o   | .   | .   | .   | .   | .   |      |     |
-| o   | x   | .   | .   | .   |     |     |      |     |
+| o   | o   | .   | .   | .   |     |     |      |     |
 | o   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
@@ -242,7 +242,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 - You can cast *mage hand* without verbal or somatic components, and you can make the spectral hand invisible.
 - As a bonus action, you can try to *telekinetically shove* one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward or away from you. A creature can willingly fail this save.
 
-#### Equipment (1/3 Attuned)
+#### Equipment (2/3 Attuned)
 (10gp, 25sp)
 
 - 2x *Pot of Healing*; 2d4+2
@@ -259,7 +259,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 *Hands*: 
 	Leather Fingerless Gloves
 	Maggie's Lucky Spoon-Ring
-	Verdant Band (A/1)
+	Verdant Band (1/1)
 *Arms*: 
 	Cloth Shirt
 	Canvas Cloak
@@ -297,6 +297,6 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 	- *(Tails / Odds)* Regain the lowest level spell slot expended to cast the spell.
 
 ###### Verdant Band
-- *Requires Attunement*
+- *Attuned*
 - While you are Attuned, you may cast Entangle once per long rest without using a spell slot.
 - While you are Attuned and standing on 'natural earth', when a Plant attempts to Grapple or Restrain you, you have Advantage on that Check.
