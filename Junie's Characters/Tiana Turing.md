@@ -195,7 +195,7 @@ We explore the farmstead, resting for a while and gathering some of the stuff he
 	- **(R)** [Identify](https://dnd5e.wikidot.com/spell:identify), (100gp pearl)
 	- **(R)** [Find Familiar](https://dnd5e.wikidot.com/spell:find-familiar) (10gp charcoal, incense, and herbs)
 
-##### Spellcasting (Prep 9)
+##### Spellcasting (Prep 10)
 - You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
 - Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook (T = 4 + (L * 2) + Found Spells).
 
@@ -222,6 +222,9 @@ x [Thunderwave](https://dnd5e.wikidot.com/spell:thunderwave)
 x (C) [Earthen Grasp](https://dnd5e.wikidot.com/spell:maximillians-earthen-grasp)
 x (C) [Dragon's Breath](https://dnd5e.wikidot.com/spell:dragons-breath)
 x [Snowball Swarm](https://dnd5e.wikidot.com/spell:snillocs-snowball-swarm)
+	- **3rd Level Spells**;
+x (C) [Haste](https://dnd5e.wikidot.com/spell:haste)
+x [Counterspell](https://dnd5e.wikidot.com/spell:counterspell)
 
 ##### Arcane Recovery
 - Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
