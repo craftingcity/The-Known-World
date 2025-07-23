@@ -150,6 +150,10 @@ The Entrance and Exits of the Castaway Cove are marked by pairs of heart-shaped 
 
 Leaving the Cove, the change in scenery is intense. We're caught out by some snakes, and some viney-masses in the shape of humanoid-ish shapes, and we fought them off.
 
+#### Session 9: Beyond the Cove...
+
+
+
 ## Stats
 
 | L. 4 | XP: 4,570 | /6,500 | (1) Inspiration |
@@ -157,8 +161,8 @@ Leaving the Cove, the change in scenery is intense. We're caught out by some sna
 | STR  | 8  (-1)   | PRF    | +2              |
 | CON  | 13 (+1)   | M. HP  | 22 Max HP       |
 | DEX  | 16 (+3)   | AC     | (13)            |
-| INT  | 20 (+5) ^ | C. HP  | 19 HP           |
-| WIS  | 14 (+2) ^ | HD     | 4d6             |
+| INT  | 20 (+5) ^ | C. HP  | 21 HP           |
+| WIS  | 14 (+2) ^ | HD     | 4d6 (3/4)       |
 | CHA  | 12 (+1)   | SPD    | 25' (5s)        |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
@@ -198,26 +202,26 @@ Leaving the Cove, the change in scenery is intense. We're caught out by some sna
 ###### Tiana's Grimoire
 Don't forget *the Flip*!
 	- **Cantrips**;
-		- [Frostbite](https://dnd5e.wikidot.com/spell:frostbite)
-		- [Mage Hand](https://dnd5e.wikidot.com/spell:mage-hand)
-		- [Prestidigitation](https://dnd5e.wikidot.com/spell:prestidigitation)
-		- [Sword Burst](https://dnd5e.wikidot.com/spell:sword-burst)
-		- [Mind Sliver](https://dnd5e.wikidot.com/spell:mind-sliver)
+- [Frostbite](https://dnd5e.wikidot.com/spell:frostbite)
+- [Mage Hand](https://dnd5e.wikidot.com/spell:mage-hand)
+- [Prestidigitation](https://dnd5e.wikidot.com/spell:prestidigitation)
+- [Sword Burst](https://dnd5e.wikidot.com/spell:sword-burst)
+- [Mind Sliver](https://dnd5e.wikidot.com/spell:mind-sliver)
 	- **1st Level Spells**;
-		o (R) [Alarm](https://dnd5e.wikidot.com/spell:alarm)
-		o [Chromatic Orb](https://dnd5e.wikidot.com/spell:chromatic-orb) (50gp diamond)
-		o (R, C) [Detect Magic](https://dnd5e.wikidot.com/spell:detect-magic) 
-		x [Feather Fall](https://dnd5e.wikidot.com/spell:feather-fall)
-		x [Shield](https://dnd5e.wikidot.com/spell:shield)
-		o [Sleep](https://dnd5e.wikidot.com/spell:sleep)
-		x [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs)
-		x [Snare](https://dnd5e.wikidot.com/spell:snare) (30ft rope)
-		x (F, C) [Protection from Good and Evil](https://dnd5e.wikidot.com/spell:protection-from-evil-and-good)
-		x [Thunderwave](https://dnd5e.wikidot.com/spell:thunderwave)
+o (R) [Alarm](https://dnd5e.wikidot.com/spell:alarm)
+o [Chromatic Orb](https://dnd5e.wikidot.com/spell:chromatic-orb) (50gp diamond)
+o (R, C) [Detect Magic](https://dnd5e.wikidot.com/spell:detect-magic) 
+x [Feather Fall](https://dnd5e.wikidot.com/spell:feather-fall)
+x [Shield](https://dnd5e.wikidot.com/spell:shield)
+o [Sleep](https://dnd5e.wikidot.com/spell:sleep)
+x [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs)
+x [Snare](https://dnd5e.wikidot.com/spell:snare) (30ft rope)
+x (F, C) [Protection from Good and Evil](https://dnd5e.wikidot.com/spell:protection-from-evil-and-good)
+x [Thunderwave](https://dnd5e.wikidot.com/spell:thunderwave)
 	- **2nd Level Spells**;
-		x (C) [Earthen Grasp](https://dnd5e.wikidot.com/spell:maximillians-earthen-grasp)
-		x (C) [Dragon's Breath](https://dnd5e.wikidot.com/spell:dragons-breath)
-		x [Snowball Swarm](https://dnd5e.wikidot.com/spell:snillocs-snowball-swarm)
+x (C) [Earthen Grasp](https://dnd5e.wikidot.com/spell:maximillians-earthen-grasp)
+x (C) [Dragon's Breath](https://dnd5e.wikidot.com/spell:dragons-breath)
+x [Snowball Swarm](https://dnd5e.wikidot.com/spell:snillocs-snowball-swarm)
 
 ##### Arcane Recovery
 - Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
