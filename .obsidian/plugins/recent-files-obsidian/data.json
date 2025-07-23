@@ -5,6 +5,10 @@
       "path": "Junie's Characters/Tiana Turing.md"
     },
     {
+      "basename": "Combat Mechanics and Positioning",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
+    },
+    {
       "basename": "Mossburg",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Notes on the Multiverse",
       "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
-      "basename": "Prenotes Jun 30 25",
-      "path": "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md"
     }
   ],
   "omittedPaths": [],
