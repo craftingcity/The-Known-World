@@ -152,7 +152,7 @@ Leaving the Cove, the change in scenery is intense. We're caught out by some sna
 
 #### Session 9: Beyond the Cove...
 
-We explore the farmstead, resting for a while and gathering some of the stuff here.
+We explore the farmstead, resting for a while and gathering some of the stuff here. We continue onward, and eventually camp down in an 
 
 ## Stats
 
