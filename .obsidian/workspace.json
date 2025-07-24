@@ -16,18 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Tiana Turing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Junie's Characters/Tiana Turing.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Tiana Turing\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":227,\"ch\":0},\"to\":{\"line\":227,\"ch\":0}},\"scroll\":200.81439353877605}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tiana Turing"
+              "title": "Custom Cultures"
             }
           }
         ]
