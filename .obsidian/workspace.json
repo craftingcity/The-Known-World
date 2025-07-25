@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d125f828a9be4e1f",
+        "id": "24610e48fcd42076",
         "type": "tabs",
         "children": [
           {
-            "id": "f7a4623a1af59809",
+            "id": "28fa075064996356",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,24 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Tiana Turing",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Junie's Characters/Tiana Turing.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Tiana Turing\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":227,\"ch\":0},\"to\":{\"line\":227,\"ch\":0}},\"scroll\":200.81439353877605}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Custom Cultures"
+              "title": "New tab"
             }
           }
         ]
@@ -287,8 +277,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7a4623a1af59809",
+  "active": "28fa075064996356",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Junie's Characters/Tiana Turing.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
@@ -314,7 +305,6 @@
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jerran Stormwind.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Fulton Shepherd.md",
     "Game Notes/Game Notes.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
