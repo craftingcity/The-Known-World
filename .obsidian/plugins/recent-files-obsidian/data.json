@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Noble Houses of Prosper",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md"
+    },
+    {
+      "basename": "List of Names",
+      "path": "Game Notes/NPCs/List of Names.md"
+    },
+    {
+      "basename": "Pirre Tald",
+      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Pirre Tald.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
+    },
+    {
+      "basename": "The Tower of Limbo",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Limbo/Places/The Tower of Limbo.md"
+    },
+    {
+      "basename": "Population Center Data",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Center Data.md"
+    },
+    {
+      "basename": "Custom Class - Alchemist",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md"
+    },
+    {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
+      "basename": "Grekk",
+      "path": "Junie's Characters/Grekk.md"
+    },
+    {
+      "basename": "Illburn Forest",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md"
+    },
+    {
+      "basename": "Blood Clans",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md"
+    },
+    {
       "basename": "Arthur Simonson",
       "path": "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md"
     },
@@ -13,24 +57,8 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md"
     },
     {
-      "basename": "Blood Clans",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md"
-    },
-    {
-      "basename": "Population Center Data",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Center Data.md"
-    },
-    {
-      "basename": "Illburn Forest",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md"
-    },
-    {
       "basename": "Languages",
       "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Languages.md"
-    },
-    {
-      "basename": "The Tower of Limbo",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Limbo/Places/The Tower of Limbo.md"
     },
     {
       "basename": "Limbo",
@@ -41,20 +69,8 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Time Before Time/Abyssal (language).md"
     },
     {
-      "basename": "Grekk",
-      "path": "Junie's Characters/Grekk.md"
-    },
-    {
-      "basename": "Notes on the Multiverse",
-      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
       "basename": "Combat Mechanics and Positioning",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
-    },
-    {
-      "basename": "Custom Class - Alchemist",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md"
     },
     {
       "basename": "The Infection",
@@ -71,10 +87,6 @@
     {
       "basename": "Factions of Puget Sound",
       "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
-    },
-    {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
     {
       "basename": "Tiana Turing",
@@ -187,18 +199,6 @@
     {
       "basename": "SEASEC",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md"
-    },
-    {
-      "basename": "Coalition City",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md"
-    },
-    {
-      "basename": "Custom Class - Psion",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Psion.md"
-    },
-    {
-      "basename": "The Hatdroppers",
-      "path": "Game Notes/Campaign Rosters/The Hatdroppers.md"
     }
   ],
   "omittedPaths": [],
