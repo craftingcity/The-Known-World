@@ -31,6 +31,29 @@
             }
           },
           {
+            "id": "71540c27ef9683c3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Factions of Puget Sound"
+            }
+          },
+          {
             "id": "26714a9de60c9c1a",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -53,7 +76,8 @@
               "title": "The Infection"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,8 +176,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -304,10 +327,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28fa075064996356",
+  "active": "dafe8404df17708b",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Seattle Exports Misery/The Infection.md",
     "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
+    "Notes on the Multiverse/Seattle Exports Misery/The Infection.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Junie's Characters/Tiana Turing.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
