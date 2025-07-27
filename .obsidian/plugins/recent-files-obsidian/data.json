@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Languages",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Languages.md"
+    },
+    {
+      "basename": "The Tower of Limbo",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Limbo/Places/The Tower of Limbo.md"
+    },
+    {
+      "basename": "Limbo",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Limbo/Limbo.md"
+    },
+    {
+      "basename": "Abyssal (language)",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Time Before Time/Abyssal (language).md"
+    },
+    {
+      "basename": "Grekk",
+      "path": "Junie's Characters/Grekk.md"
+    },
+    {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
       "basename": "Combat Mechanics and Positioning",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Washington State Remnants",
       "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Washington State Remnants.md"
-    },
-    {
-      "basename": "Tourist Paramilitary",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Tourist Paramilitary.md"
-    },
-    {
-      "basename": "Shadow Bandits",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Shadow Bandits.md"
-    },
-    {
-      "basename": "Allen White",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Traders/Allen White.md"
-    },
-    {
-      "basename": "Overwatch Airport Security",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Overwatch Airport Security.md"
-    },
-    {
-      "basename": "Cult in Annihilation",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Greater Organizations/Cult in Annihilation.md"
-    },
-    {
-      "basename": "Druids of Covington",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Druids of Covington.md"
     }
   ],
   "omittedPaths": [],

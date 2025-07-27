@@ -1,5 +1,5 @@
 ---
-tags: folderfile
+tags: folderfile, language
 aliases:
 ---
 # The Etymology of Alaturmen and it's Languages
