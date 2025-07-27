@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24610e48fcd42076",
+        "id": "307c33968295834f",
         "type": "tabs",
         "children": [
           {
-            "id": "28fa075064996356",
+            "id": "783b4556504a4ebf",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,16 +22,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Bombings"
+              "title": "Custom Class - Alchemist"
             }
           },
           {
-            "id": "71540c27ef9683c3",
+            "id": "52ebd1ceea229d0d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -45,35 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Factions of Puget Sound"
-            }
-          },
-          {
-            "id": "26714a9de60c9c1a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/Seattle Exports Misery/The Infection.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Infection"
+              "title": "Combat Mechanics and Positioning"
             }
           }
         ],
@@ -127,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fire",
+                "query": "dazed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +153,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -327,10 +305,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dafe8404df17708b",
+  "active": "52ebd1ceea229d0d",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "Notes on the Multiverse/Seattle Exports Misery/The Infection.md",
+    "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
+    "MEDIA/SUPP/DOCS/AlchemistsLab.pdf",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Junie's Characters/Tiana Turing.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
@@ -353,8 +334,6 @@
     "Gringold, Bard of Poor Renown.md",
     "Game Notes/NPCs/High Power/True Villian NPCs/True Villian NPCs.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Kakurak's Chosen.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jerran Stormwind.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
@@ -369,7 +348,6 @@
     "MEDIA/SUPP/SCRIPTS/hexfill.py",
     "MEDIA/SUPP/SCRIPTS",
     "MEDIA/SUPP/SPREADS/moodboards.pdf",
-    "MEDIA/SUPP/SPREADS/moodboards.odp",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "MEDIA/CHAR/danteFinal.jpg"
   ]

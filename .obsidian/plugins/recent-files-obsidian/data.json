@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Factions of Puget Sound",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
+      "basename": "Combat Mechanics and Positioning",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
+    },
+    {
+      "basename": "Custom Class - Alchemist",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md"
+    },
+    {
+      "basename": "The Infection",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/The Infection.md"
     },
     {
       "basename": "The Bombings",
       "path": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md"
     },
     {
-      "basename": "The Infection",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/The Infection.md"
+      "basename": "AlchemistsLab",
+      "path": "MEDIA/SUPP/DOCS/AlchemistsLab.pdf"
+    },
+    {
+      "basename": "Factions of Puget Sound",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md"
     },
     {
       "basename": "Custom Cultures",
@@ -19,10 +31,6 @@
     {
       "basename": "Tiana Turing",
       "path": "Junie's Characters/Tiana Turing.md"
-    },
-    {
-      "basename": "Combat Mechanics and Positioning",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
     },
     {
       "basename": "Mossburg",
@@ -191,14 +199,6 @@
     {
       "basename": "Druids of Covington",
       "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Druids of Covington.md"
-    },
-    {
-      "basename": "Enumclaw Civilized Safe Zone",
-      "path": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Enumclaw Safe Zone/Enumclaw Civilized Safe Zone.md"
-    },
-    {
-      "basename": "List of Names",
-      "path": "Game Notes/NPCs/List of Names.md"
     }
   ],
   "omittedPaths": [],
