@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Gringold, Bard of Poor Renown",
+      "path": "Gringold, Bard of Poor Renown.md"
+    },
+    {
+      "basename": "Arthur Simonson",
+      "path": "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md"
+    },
+    {
+      "basename": "Unification",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Unification.md"
+    },
+    {
       "basename": "Noble Houses of Prosper",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md"
+    },
+    {
+      "basename": "Carrie a'LeQuinn",
+      "path": "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Carrie a'LeQuinn.md"
     },
     {
       "basename": "List of Names",
@@ -43,10 +59,6 @@
     {
       "basename": "Blood Clans",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md"
-    },
-    {
-      "basename": "Arthur Simonson",
-      "path": "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md"
     },
     {
       "basename": "Nobles of Prosper NPCs",
@@ -153,10 +165,6 @@
       "path": "Shu Ameda.md"
     },
     {
-      "basename": "Gringold, Bard of Poor Renown",
-      "path": "Gringold, Bard of Poor Renown.md"
-    },
-    {
       "basename": "True Villian NPCs",
       "path": "Game Notes/NPCs/High Power/True Villian NPCs/True Villian NPCs.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Communicaes",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Communicaes.md"
-    },
-    {
-      "basename": "Dwarven Kingdom Suremantle",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md"
-    },
-    {
-      "basename": "SEASEC",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md"
     }
   ],
   "omittedPaths": [],
