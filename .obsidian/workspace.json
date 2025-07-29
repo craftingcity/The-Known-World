@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d125f828a9be4e1f",
+        "id": "1422d17187b7796e",
         "type": "tabs",
         "children": [
           {
-            "id": "f7a4623a1af59809",
+            "id": "95d6b25aa4f79328",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,41 +20,13 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tiana Turing"
-            }
-          },
-          {
-            "id": "dd1e5ca054fa91a3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Custom Heritages"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fire",
+                "query": "tag:#language  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -306,34 +278,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd1e5ca054fa91a3",
+  "active": "95d6b25aa4f79328",
   "lastOpenFiles": [
-    "Junie's Characters/Tiana Turing.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Prenotes July 21 25.md",
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "Prenotes July xx 25.md",
-    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
-    "Game Notes/NPCs/NPCs.md",
-    "Game Notes/Prenotes/'24/Prenotes Apr 09 24.md",
-    "Game Notes/Campaign Rosters/Cathouse Game.md",
-    "Game Notes/Campaign Rosters/Jasper's Angels.md",
-    "Game Notes/Campaign Rosters/GavinHouse Game.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Monastery of Saint Susan.md",
-    "Game Notes/Prenotes/'24/Prenotes Mar 20 24.md",
-    "Dae Shim.md",
-    "Shu Ameda.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
     "Gringold, Bard of Poor Renown.md",
-    "Game Notes/NPCs/High Power/True Villian NPCs/True Villian NPCs.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Kakurak's Chosen.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jerran Stormwind.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Fulton Shepherd.md",
-    "Game Notes/Game Notes.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Unification.md",
+    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Carrie a'LeQuinn.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Pirre Tald.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Limbo/Places/The Tower of Limbo.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Center Data.md",
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Junie's Characters/Grekk.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
+    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Nobles of Prosper NPCs.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Languages.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Limbo/Limbo.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Time Before Time/Abyssal (language).md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
+    "Notes on the Multiverse/Seattle Exports Misery/The Infection.md",
+    "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md",
+    "MEDIA/SUPP/DOCS/AlchemistsLab.pdf",
+    "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
+    "Junie's Characters/Tiana Turing.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
@@ -348,7 +321,6 @@
     "MEDIA/SUPP/SCRIPTS/hexfill.py",
     "MEDIA/SUPP/SCRIPTS",
     "MEDIA/SUPP/SPREADS/moodboards.pdf",
-    "MEDIA/SUPP/SPREADS/moodboards.odp",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "MEDIA/CHAR/danteFinal.jpg"
   ]
