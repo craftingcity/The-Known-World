@@ -29,32 +29,8 @@
               "icon": "lucide-file",
               "title": "Tiana Turing"
             }
-          },
-          {
-            "id": "dd1e5ca054fa91a3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Custom Heritages"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -306,8 +282,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd1e5ca054fa91a3",
+  "active": "f7a4623a1af59809",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Junie's Characters/Tiana Turing.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
@@ -333,7 +310,6 @@
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jerran Stormwind.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Fulton Shepherd.md",
     "Game Notes/Game Notes.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
