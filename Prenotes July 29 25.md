@@ -13,14 +13,14 @@ aliases:
 	- [ ] intro / recap?
 
 ### Intro
-
-+ money
-+ 1 pipe grenade
-+ ammo
-
 When last we left our heroes, they had brought war to the streets of [[Mossburg]]. After delivering an explosive device to the Captain of Enforcement, and slaughtering the Captain of Imprisonment, you have significantly destabilized the structure of the [[Mossburg Enforcers]] - presenting the perfect opportunity for the surrounding Barons to pounce. You have other interests though, particularly in the cart of Amber you have agreed to deliver to the Swiftfoot Warehouse's sister-location in [[Goldfield]], west of where you are now.
 
 ### What does the World Know?
+
++ money (45sp)
++ 1 pipe grenade
++ ammo (8 EY-DRM & 30 LC-FPC)
+
 ##### Travelling to Goldfield
 By highway and by backtrail, it'll take about 2 days without problems to reach [[Goldfield]] - likely stopping in [[Veritas Garigill]] on the first night, and pushing into the city on the second.
 
