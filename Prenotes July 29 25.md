@@ -35,13 +35,16 @@ They are delivering the Druidic Relic 'Fixation' ([[Magical Items of Note#Fixati
 
 ##### INIT
 16 - Leliana
-12 - Emilio
-8 - Zesh
+12 - Emilio 
+8 - Zesh (unconcious 0/0)
 2 - AMBER (AC 19)
-	A1 - 24, 30
+	A1 - 24, 30, 33, 
 	~~B1 - 12, 28, 36, 45~~
-	C2 - 16, 34, 
-1 - Xenfer
+	C2 - 16, 34, 38, 
+	D -turned into 6 goobers
+1 - Xenfer (invisible)
+
+
 
 
 We leave our heroes on the date of ... AF, as they ...
