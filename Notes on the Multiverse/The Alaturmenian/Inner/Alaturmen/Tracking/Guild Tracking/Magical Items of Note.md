@@ -100,7 +100,7 @@ aliases:
 
 	GME-047 is a large 6'x4'x3' rectangular-cut slab of amber that surrounds a complete skeleton of a small winged creature since determined to be a very young dragon. When any concious humanoid comes into contact with the GME-047, it will activate a Type-2 Planar Gate, transporting the subject and any other humanoids within 20' of GME-047 into a Consistent Extraplanar Instance that has informally become known as 'The Amber Den' among researchers and subjects. Described as a 'fractal nightmare' this CEI is a seemingly procedural or recursive complex of sap and amber rooms and halls. The purpose of the complex is as of yet unknown, and continued research failed to provide insight in that regard (see Experiment Log 047-1 through -18).
 
-	GME-047 was strategically transported by independant contractors (including 'Jasper's Angels') to it's current location after significant discussion with the Circle of Aquan, who came to possess GME-047 in the early 80s. 
+	GME-047 was strategically transported by independant contractors (including 'Jasper's Angels') to it's current location after significant discussion with the Circle of Aquan, who came to possess GME-047 in the early 80s.  
 ```
 
 ###### Emulation
