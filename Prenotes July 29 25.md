@@ -21,7 +21,7 @@ When last we left our heroes, they had brought war to the streets of [[Mossburg]
 By highway and by backtrail, it'll take about 2 days without problems to reach [[Goldfield]] - likely stopping in [[Veritas Garigill]] on the first night, and pushing into the city on the second.
 
 ##### What's in the Box?
-They are delivering a massive slab of Amber, having been extracted from within the [[Great Quillbuck Jungle]], with an estimated value of 20,000sp (200pp), plus the fossil of dragon.
+They are delivering the Druidic Relic 'Fixation' ([[Magical Items of Note#Fixation]]) from the Mossburg SFW to the Goldfield SFW, and eventually it will make its way into the hands of the Guild of Wizards.
 
 
 ### What happened?

@@ -96,7 +96,9 @@ aliases:
 	Source: Ventan (divine)
 	Last Known Keeper: KEEPER
 
-	Entry Description: ...
+	Entry Description: GME-047 is to be stored in the Warm Storage Sector of Vault 0 in a 30'x40'x20' darksteel storage container. 
+
+	GME-047 is a large 6'x4'x3' rectangular-cut slab of amber that surrounds a complete skeleton of a small winged creature. Scholars suggest that the skeleton belonged a very young dragon that accidentally .
 ```
 
 ###### Emulation
@@ -109,9 +111,9 @@ aliases:
 
 	Entry Description: GME-048 is to be stored in the Ritualistic Center of Site-048 on the central stone display. The Ritualistic Center is to be stationed by a rotating 24-hour guard of at least 4 personnel at a time, each of whom have graduated the GOAL-6c 'Identifying Illusiory Figures' program with a score of 8 or higher.
 
-	GME-048, while non-active, is a large 3'x2'x6' slab of solid mercury that passes any and all tests or identifying processes. While active, GME-048 is a relatively sized humanoid creature. Observers of the creature fail to produce consistant descriptions, both amongst eachother and themselves, suggesting that the creature manipulates what it is observed as for each observer. Requests for testing involving GME-048 to determine anything more about its properties have been and will be denied.
+	GME-048, while non-active, is a large 3'x2'x6' slab of solid mercury, as confirmed by all current tests or identifying processes. While active, however, GME-048 is a relatively sized humanoid creature. Observers of the GME-048 fail to produce consistant descriptions while it is in an active state, both amongst eachother and themselves, suggesting that the creature manipulates what it is observed as for each observer.
 
-	GME-048 has been stored in the Ritualistic Center of Site-048 under the control of the Circle of Animan's Druids for the entirety of recorded history.
+	GME-048 has been stored in the Ritualistic Center of Site-048 under the control of the Circle of Animan's Druids for the entirety of recorded history. Requests for testing involving GME-048 to more precicely determine its properties have been and will be denied.
 ```
 
 #### Gifts of the Dragons
