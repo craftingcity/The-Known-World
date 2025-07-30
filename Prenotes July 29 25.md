@@ -38,8 +38,8 @@ They are delivering the Druidic Relic 'Fixation' ([[Magical Items of Note#Fixati
 12 - Emilio
 8 - Zesh
 2 - AMBER (AC 20)
-	A1 - 12
-	B1
+	A1 - 
+	B1 - 12
 1 - Xenfer
 
 
