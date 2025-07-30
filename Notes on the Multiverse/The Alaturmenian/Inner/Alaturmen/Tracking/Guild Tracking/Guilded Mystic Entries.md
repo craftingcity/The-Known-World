@@ -52,6 +52,6 @@ The Description of the Entry must include the following information about the ob
 - The *Planar Gate Types* are as follows;
 	- Type-1 Planar Gates are temporary or instantaneous instances of travel between points within a plane.
 	- Type-2 Planar Gates are consistently replicable instances of travel from a point within a plane to a Consistent Extraplanar Instance. (*Consistent Extraplanar Instances have no effect or symmetry with the Major Planes.*)
-	- Type-3 Planar Gates are temporary or instantaneous instances of travel from a point within a plane to another point on another Major Plane.
-	- Type-4 Planar Gates are consistently replicable instances of travel from a point with a plane to another consistent point on another Major Plane.
+	- Type-3 Planar Gates are temporary or instantaneous instances of travel from a point within a plane to an inconsistent point within another Major Plane.
+	- Type-4 Planar Gates are consistently replicable instances of travel from a consistent point within a plane to another consistent point within another Major Plane.
 - The *GOAL* program services members of the Guilds with relevant skills and procedures programs.

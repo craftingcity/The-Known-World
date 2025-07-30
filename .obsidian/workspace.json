@@ -175,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Inception",
+                "query": "\"CEI\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,8 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.50418853759766,
-    "collapsed": true
+    "width": 418.50418853759766
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -425,7 +424,7 @@
       }
     ]
   },
-  "active": "067f639c56752d15",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
