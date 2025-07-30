@@ -54,4 +54,4 @@ The Description of the Entry must include the following information about the ob
 	- Type-2 Planar Gates are consistently replicable instances of travel from a point within a plane to a Consistent Extraplanar Instance. (*Consistent Extraplanar Instances have no effect or symmetry with the Major Planes.*)
 	- Type-3 Planar Gates are temporary or instantaneous instances of travel from a point within a plane to an inconsistent point within another Major Plane.
 	- Type-4 Planar Gates are consistently replicable instances of travel from a consistent point within a plane to another consistent point within another Major Plane.
-- The *GOAL* program services members of the Guilds with relevant skills and procedures programs.
+- The Guild of Adventurer Lectures (*GOAL*) program services members of the Guilds with relevant skills and procedures programs.
