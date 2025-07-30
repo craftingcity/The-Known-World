@@ -40,7 +40,7 @@ They are delivering the Druidic Relic 'Fixation' ([[Magical Items of Note#Fixati
 2 - AMBER (AC 19)
 	A1 - 24, 30
 	~~B1 - 12, 28, 36, 45~~
-	C2 - 16
+	C2 - 16, 34, 
 1 - Xenfer
 
 
