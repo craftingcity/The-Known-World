@@ -109,11 +109,11 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Ammunition
 #### SCAVANGED / REFIT
-| Name                                     | Type          | Dam.    | Cost in AC |
-| ---------------------------------------- | ------------- | ------- | ---------- |
-| Refit Durandurm Magazine, Wild Tracer    | force         | 1d6     | 0.2        |
-| Refit Durandurm Magazine, High Explosive | slash & force | 1d6+1d4 | 0.5        |
-| Refit Durandurm Magazine, Blessed        | radiant       | 1d6+1   | 0.3        |
+| Name                                     | Type          | Dam.                                 | Cost in AC |
+| ---------------------------------------- | ------------- | ------------------------------------ | ---------- |
+| Refit Durandurm Magazine, Wild Tracer    | force         | 1d6                                  | 0.2        |
+| Refit Durandurm Magazine, High Explosive | slash & force | 1d6+1d4 (scaling d4 is on probation) | 0.5        |
+| Refit Durandurm Magazine, Blessed        | radiant       | 1d6+1                                | 0.3        |
 
 #### IMPORTED / FORGED
 | Name                             | Type    | Dam. | Cost in AC |

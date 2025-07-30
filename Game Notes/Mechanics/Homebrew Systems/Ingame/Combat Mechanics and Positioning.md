@@ -51,6 +51,9 @@ EXAMPLE 4: Not Valid
 ## Ammunition
 Most Ranged Weapons consume Ammunition. If that Ammunition is not *fragile*, it can be recollected in entirety by spending time and making an **Investigation** Skill Check. If the result is 15 or more, all used Ammunition is recovered. If the result is less than 15, three-quarters is recovered at 10 or above, and half is recovered at 5 or above.
 
+## Grenade
+This weapon is a grenade, designed to be readied, thrown, and then explode. When you make an Attack with a grenade, instead of making an Attack Roll, make an Athletics Check. You may throw the grenade a number of feet equal to twice the total of your Athletics Check. To avoid the explosion, creatures within the radius make a Dexterity Saving throw, the DC of which is equal to your Athletics Check.
+
 ## Consuming Potions
 Consuming a potion for yourself costs a **Bonus Action**. Forcing someone else to drink a potion is a **Standard Action**.
 

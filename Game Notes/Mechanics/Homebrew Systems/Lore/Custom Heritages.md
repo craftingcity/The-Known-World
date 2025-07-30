@@ -174,7 +174,7 @@ People with a heavy Genasi heritage find themselves in possession of an elementa
 - Your base walking speed is 30 feet per round.
 - You gain your choice of the following, corresponding with the major Elemental Plane from which you or your ancestors hail;
 	- Those hailing from the **Plane of Air** gain the following;
-		- You gain a flying speed of 50 feet per round, though you cannot use this speed when you are wearing medium or heavy armor. 
+		- You gain a flying speed of 15 feet per round, though you cannot use this speed when you are wearing medium or heavy armor. 
 		- You can hold your breath indefinitely while you’re not incapacitated.
 	- Those hailing from the **Plane of Fire** gain the following;
 		- You have resistance to fire damage.
