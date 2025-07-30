@@ -30,7 +30,17 @@ On the second night, before we go into town - if we haven't looked in the box, w
 They are delivering the Druidic Relic 'Fixation' ([[Magical Items of Note#Fixation]]) from the Mossburg SFW to the Goldfield SFW, and eventually it will make its way into the hands of the Guild of Wizards. If the container is breached, the spirit of the hatchling will attempt to force someone to touch the stone and activate it.
 
 
+
 ### What happened?
+
+##### INIT
+16 - Leliana
+12 - Emilio
+8 - Zesh
+2 - AMBER (AC 20)
+	A1 - 12
+	B1
+1 - Xenfer
 
 
 We leave our heroes on the date of ... AF, as they ...
