@@ -22,10 +22,12 @@ When last we left our heroes, they had brought war to the streets of [[Mossburg]
 + ammo (8 EY-DRM & 30 LC-FPC)
 
 ##### Travelling to Goldfield
-By highway and by backtrail, it'll take about 2 days without problems to reach [[Goldfield]] - likely stopping in [[Veritas Garigill]] on the first night, and pushing into the city on the second.
+By highway and by 'backtrail' (until the highway), it'll take about 2 days without problems to reach [[Goldfield]] - likely stopping in [[Veritas Garigill]] on the first night, and pushing into the city on the second.
+
+On the second night, before we go into town - if we haven't looked in the box, we're gonna send out some guys and say that they were always looking for them - but I really want them to open the box.
 
 ##### What's in the Box?
-They are delivering the Druidic Relic 'Fixation' ([[Magical Items of Note#Fixation]]) from the Mossburg SFW to the Goldfield SFW, and eventually it will make its way into the hands of the Guild of Wizards.
+They are delivering the Druidic Relic 'Fixation' ([[Magical Items of Note#Fixation]]) from the Mossburg SFW to the Goldfield SFW, and eventually it will make its way into the hands of the Guild of Wizards. If the container is breached, the spirit of the hatchling will attempt to force someone to touch the stone and activate it.
 
 
 ### What happened?
