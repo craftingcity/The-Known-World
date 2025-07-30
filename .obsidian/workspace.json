@@ -229,7 +229,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.50418853759766
+    "width": 418.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -424,10 +425,10 @@
       }
     ]
   },
-  "active": "487f44e8be436b64",
+  "active": "61e4f99ff1d66190",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Prenotes July 29 25.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md",
     "Junie's Characters/Tiana Turing.md",
