@@ -63,7 +63,7 @@ aliases:
 	Source: Terran (divine)
 	Last Known Keeper: KEEPER
 
-	Entry Description: ...
+	Entry Description: GME-044 is to be stored in the Ritualistic Center of Site-004 within the hands of the statue. The Ritualistic Center is to be stationed by a rotating 72-hour guard of at least 2 personnel at a time, each of whom have graduated the GOAL-2a 'Nonactive Handling of Objects' program with a score of 6 or higher. Stationed personnel may spend participate in no more than 2 shifts in a 172-hour period.
 ```
 
 ###### Ablation
@@ -111,7 +111,7 @@ aliases:
 	Source: Animan (divine)
 	Last Known Keeper: KEEPER
 
-	Entry Description: GME-048 is to be stored in the Ritualistic Center of Site-048 on the central stone display. The Ritualistic Center is to be stationed by a rotating 24-hour guard of at least 4 personnel at a time, each of whom have graduated the GOAL-6c 'Identifying Illusiory Figures' program with a score of 8 or higher.
+	Entry Description: GME-048 is to be stored in the Ritualistic Center of Site-048 on the central stone display. The Ritualistic Center is to be stationed by a rotating 18-hour guard of at least 4 personnel at a time, each of whom have graduated the GOAL-6c 'Identifying Illusiory Figures' program with a score of 8 or higher. Stationed personnel may spend participate in no more than 3 shifts in a 172-hour period.
 
 	GME-048, while non-active, is a large 3'x2'x6' slab of solid mercury, as confirmed by all current tests or identifying processes. While active, however, GME-048 is a relatively sized humanoid creature. Observers of the GME-048 fail to produce consistant descriptions while it is in an active state, both amongst eachother and themselves, suggesting that the creature manipulates what it is observed as for each observer.
 
