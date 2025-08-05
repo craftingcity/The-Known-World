@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Prenotes Aug 6 25",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Aug 6 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Aug 6 25\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":51},\"to\":{\"line\":32,\"ch\":51}}}"
+                },
+                {
                   "title": "Prenotes July xx 25",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes July xx 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes July xx 25\"}",
@@ -46,12 +52,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Aug 6 25.md",
+                "file": "Notes on the Multiverse/Seattle Exports Misery/Factions of Puget Sound/Factions of Puget Sound.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Aug 6 25"
+              "title": "Factions of Puget Sound"
             }
           }
         ]
@@ -306,10 +312,10 @@
   },
   "active": "7f83c4e0c5a1e571",
   "lastOpenFiles": [
+    "Prenotes Aug 6 25.md",
     "Prenotes July xx 25.md",
     "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Prenotes Aug 6 25.md",
     "Game Notes/Campaign Rosters/Jasper's Angels.md",
     "Game Notes/Campaign Rosters/RHoD Test 1.md",
     "jasp.md",

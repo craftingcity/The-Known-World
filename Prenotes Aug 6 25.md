@@ -28,7 +28,9 @@ So we stick together. Survive longer. Just make it through the day.
 
 You survive in Burien, Old Burien specifically, for now. A group of some 20 survivors has gathered in the St Elizabeth Church, scavenging the area to the best of their ability. You are among them. You are led by a pastor, Father Gonzalez, who has organized the group, given them goals, tasks, and a relatively safe and normative space to survive within. 
 
-The Father comes to you with a request. "I need your help. I need your guns. Go north, up to St. Bernadette's. Tell Father Patrick we survive, and take him this. Please return safely."
+The Father comes to you with a request. "I need your help. I need your guns. Go north, up to St. Bernadette's. Tell Father Patrick we survive, and take him this. He will have one for you to take back. Come home safe, for our sake."
+
+He hands you a list of names. We trek unto Seattle.
 
 ### What does the World Know?
 
