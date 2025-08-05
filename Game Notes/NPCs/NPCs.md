@@ -17,8 +17,6 @@ for the graph: [[Here lie my suppliments...]]
 	- [[Grand Pantheon]]
 	- [[Karenos, River's Keeper]]
 	- [[Kor-ket]]
-- [[Demons]]
-- [[Devils]]
 - **High Power**
 	- **[[Barons of Combine NPCs]]**
 	- **[[Blood Clan Leadership NPCs]]**
@@ -26,6 +24,8 @@ for the graph: [[Here lie my suppliments...]]
 		- [[Ginger Ak-kizi]]
 		- [[Houran Venclaw]]
 		- [[Sivir Bagwell]]
+	- **[[Demons]]**
+	- **[[Devils]]**
 	- [[Dis Pater, Orcus Avatar]]
 	- **Guild Employee NPCs**
 		- **[[Guild Admin]]**
@@ -38,16 +38,7 @@ for the graph: [[Here lie my suppliments...]]
 	- **[[Loose Wizard NPCs]]**
 	- **[[Lorekeeper NPCs]]**
 	- **[[Nobles of Prosper NPCs]]**
-	- **Past Adventurers, Now NPCs**
-		- [[Adventuring Parties]]
-		- [[Dimble Turing]]
-		- [[Fulton Shepherd]]
-		- **[[Grey Ordeal]]**
-		- [[Hannah's Gnoll (NAME)]]
-		- [[Irenaus]]
-		- [[Jerran Stormwind]]
-		- **[[Kakurak's Chosen]]**
-		- [[Wyruq the Grave Presence]]
+	- **[[Past Adventurers, Now NPCs]]**
 	- **[[True Villian NPCs]]**
 - [[Hoggak Cander-Wheernat]]
 - [[List of Names]]
@@ -75,6 +66,7 @@ for the graph: [[Here lie my suppliments...]]
 	- [[Grandey, Young Bard]]
 	- [[Guraxlog]]
 	- [[Mateus Fyrren]]
+	- [[Shu Ameda, Paladin of Darkness]]
 - **zNon-Humanoid NPCs**
 	- **Draconic NPCs**
 		- [[Blackacid]]

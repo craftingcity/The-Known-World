@@ -2,13 +2,7 @@
 connect to [[Notes on the Multiverse]]
 
 %% Begin Waypoint %%
-- **Campaign Rosters**
-	- [[Cathouse Game]]
-	- [[Jasper's Angels]]
-	- [[Milliehouse Game]]
-	- [[Sarahouse Deakred Game]]
-	- [[The Hatdroppers]]
-	- [[The Secretkeepers]]
+- **[[Campaign Rosters]]**
 - [[Campaigns]]
 - [[GAAKA 1 Key]]
 - **[[Mechanics]]**

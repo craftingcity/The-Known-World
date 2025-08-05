@@ -824,7 +824,7 @@ aliases:
 		- This field extends ten feet in every direction around the stone. This field is not visible without magical means of detection.
 		- Creatures inside the field are resistant to radiant damage and vulnerable to necrotic damage. 
 		- When a creature inside the field casts a spell, if the creature is a divine caster (see [[How the Weave becomes Magic]]) they must succeed on a DC 17 arcana check or the spell is countered.
-	- Currently possessed by [[Shu Ameda]] of [[Cathouse Game]]
+	- Currently possessed by [[Shu Ameda, Paladin of Darkness]] of [[Cathouse Game]]
 
 ## Weapons
 - *Magni Liberatoris Nostri Temporis*
