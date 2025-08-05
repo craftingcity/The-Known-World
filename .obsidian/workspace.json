@@ -16,6 +16,30 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Prenotes July xx 25",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes July xx 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes July xx 25\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Seattle Exports Misery",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Seattle Exports Misery\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Notes on the Multiverse",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Notes on the Multiverse\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Prenotes Aug 6 25",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Aug 6 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Aug 6 25\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":57},\"to\":{\"line\":15,\"ch\":57}}}"
                 }
               ]
             },
@@ -133,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.50418853759766
+    "width": 267.50418853759766
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -282,6 +306,9 @@
   },
   "active": "7f83c4e0c5a1e571",
   "lastOpenFiles": [
+    "Prenotes July xx 25.md",
+    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
     "Prenotes Aug 6 25.md",
     "Game Notes/Campaign Rosters/Jasper's Angels.md",
     "Game Notes/Campaign Rosters/RHoD Test 1.md",
@@ -308,10 +335,7 @@
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik/Dae Shim, Dragon's Coming.md",
     "Game Notes/NPCs/zDeceased/Shu Ameda, Paladin of Darkness.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Kakurak's Chosen.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
-    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Nobles of Prosper NPCs.md",
-    "Game Notes/NPCs/NPCs.md",
     "Game Notes/NPCs/High Power/Devils",
     "Game Notes/NPCs/High Power/Demons",
     "MEDIA/SUPP/DOCS/AlchemistsLab.pdf",
