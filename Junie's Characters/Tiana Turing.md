@@ -164,7 +164,7 @@ The rain stopped. We cleaned up the battle and went back to bed. As we travel, w
 
 ## Stats
 
-| L. 5 | XP: 6.5k  | / 14.0k | (1) Inspiration |
+| L. 5 | XP: 9.0k  | / 14.0k | (1) Inspiration |
 | ---- | --------- | ------- | --------------- |
 | STR  | 8  (-1)   | PRF     | +3              |
 | CON  | 13 (+1)   | M. HP   | 27 Max HP       |
