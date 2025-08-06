@@ -175,9 +175,9 @@ The rain stopped. We cleaned up the battle and went back to bed. As we travel, w
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| o   | o   | o   | .   | .   | .   | .   | .    | .   |
+| o   | o   | x   | .   | .   | .   | .   | .    | .   |
 | o   | o   | x   | .   | .   | .   | .   |      |     |
-| o   | x   | .   | .   | .   |     |     |      |     |
+| x   | x   | .   | .   | .   |     |     |      |     |
 | x   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
@@ -305,7 +305,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 - While you are Attuned, the Coin can be used as an Arcane Focus.
 - While you are Attuned, the Coin grants +1 to Arcana Skill Checks.
 - While you are Attuned, you may store a 1st Level Wizard Spell in the Coin (currently *Silvery Barbs*).
-- While you are Attuned, once per long rest, before you cast a spell (3/10);
+- While you are Attuned, once per long rest, before you cast a spell (4/10);
 	- *(Heads / Evens)* Gain Advantage on an Attack Roll made for the spell, or impose Disadvantage on a Saving Throw made for the spell.
 	- *(Tails / Odds)* Regain the lowest level spell slot expended to cast the spell.
 
