@@ -154,7 +154,11 @@ Leaving the Cove, the change in scenery is intense. We're caught out by some sna
 
 We explore the farmstead, resting for a while and gathering some of the stuff here. We continue onward, and eventually camp down in an abandoned, broken down building. Some ghoulies and goblins come attack us!
 
+Torrin came to us in a firey vision over an altar after the fight.
+
 #### Session 10: Beyond the Cove... (cont.)
+
+The rain stopped. 
 
 
 ## Stats
@@ -164,8 +168,8 @@ We explore the farmstead, resting for a while and gathering some of the stuff he
 | STR  | 8  (-1)   | PRF     | +3              |
 | CON  | 13 (+1)   | M. HP   | 27 Max HP       |
 | DEX  | 16 (+3)   | AC      | (13)            |
-| INT  | 20 (+5) ^ | C. HP   | 15 HP           |
-| WIS  | 14 (+2) ^ | HD      | 4d6 (3/4)       |
+| INT  | 20 (+5) ^ | C. HP   | 27 HP           |
+| WIS  | 14 (+2) ^ | HD      | 5d6 (0/5)       |
 | CHA  | 12 (+1)   | SPD     | 25' (5s)        |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
@@ -260,10 +264,10 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 
 | Components     | Quantity |
 | -------------- | -------- |
-| Incense        | 14       |
-| Charcoal       | 2        |
-| Pearl          | 3        |
-| Spiderstep Sap | 1        |
+| Incense        | 14x      |
+| Charcoal       | 2x       |
+| Pearl          | 3x       |
+| Spiderstep Sap | 1x       |
 
 *Hands*: 
 	Leather Fingerless Gloves

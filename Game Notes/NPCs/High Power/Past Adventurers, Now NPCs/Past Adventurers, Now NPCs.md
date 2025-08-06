@@ -22,7 +22,6 @@ aliases:
 - **Koshachiy Domik**
 	- [[Dae Shim, Dragon's Coming]]
 	- [[Gringold, Bard of Poor Renown]]
-- **The Secretkeepers**
 - [[Wyruq the Grave Presence]]
 
 %% End Waypoint %%
