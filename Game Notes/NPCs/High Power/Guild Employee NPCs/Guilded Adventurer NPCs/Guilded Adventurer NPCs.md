@@ -5,6 +5,6 @@ aliases:
 
 # Guild Adventurers
 %% Begin Waypoint %%
-- **[[Guilded Adventurer NPCs]]**
+- [[Dimble Turing]]
 
 %% End Waypoint %%

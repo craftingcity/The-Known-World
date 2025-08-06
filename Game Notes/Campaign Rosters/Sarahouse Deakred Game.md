@@ -3,7 +3,7 @@ tags:
   - roster
 aliases:
 ---
-# Adventures of ...
+# Adventures of ... these guys
 ## People
 
 | Player Name | Character Name      | Class     | Heritage    | Culture            | x                                                                                          |
