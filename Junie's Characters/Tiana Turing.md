@@ -169,7 +169,10 @@ The rain stopped. We cleaned up the battle and went back to bed. As we travel, w
 [  ] Binding Agent
 [  ] Catalyst
 	- Ghostmoss
-	- Chrus
+	- Chrushed Iron Leaf
+	- Dust of a Spined Cap
+
+Russel is the guy who makes a 'The Pocket Shop', and Cobblestar will give us one if we get everything for him.
 
 
 ## Stats
