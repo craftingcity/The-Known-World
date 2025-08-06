@@ -176,9 +176,9 @@ The rain stopped. We cleaned up the battle and went back to bed. As we travel, w
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | o   | .   | .   | .   | .   | .    | .   |
-| o   | o   | o   | .   | .   | .   | .   |      |     |
-| o   | o   | .   | .   | .   |     |     |      |     |
-| o   |     |     |     |     |     |     |      |     |
+| o   | o   | x   | .   | .   | .   | .   |      |     |
+| o   | x   | .   | .   | .   |     |     |      |     |
+| x   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
 ##### Skills
