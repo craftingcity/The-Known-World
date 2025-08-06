@@ -158,22 +158,9 @@ Torrin came to us in a firey vision over an altar after the fight.
 
 #### Session 10: Beyond the Cove... (cont.)
 
-The rain stopped. We cleaned up the battle and went back to bed. As we travel, we found a person, a purple Tiefling by the name of Cobblestar Woosh. He's transporting flour to Castaway Cove. He needs our help to recreate a potion he was supposed to deliver; primarily Grung Venom - one gland of Each of the Five Colors (O, R, P, U, E), any Binding Agent, Ghostmost/Crushed Iron Leaf/Dust of a Spined Cap.
+The rain stopped. We cleaned up the battle and went back to bed. As we travel, we found a person, a purple Tiefling by the name of Cobblestar Woosh. He's transporting flour to Castaway Cove. He needs our help to recreate a potion he was supposed to deliver; he gave us the recipe for it.
 
-[  ] Glands
-	- Gold
-	- Red
-	- Purple
-	- Blue
-	- Green
-[  ] Binding Agent
-[  ] Catalyst
-	- Ghostmoss
-	- Chrushed Iron Leaf
-	- Dust of a Spined Cap
-
-Russel is the guy who makes a 'The Pocket Shop', and Cobblestar will give us one if we get everything for him.
-
+'Russel' is the guy who makes a 'The Pocket Shop', and Cobblestar will give us one if we get everything for him - but he got spooked before we could ask more questions.
 
 ## Stats
 
