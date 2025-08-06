@@ -158,7 +158,7 @@ Torrin came to us in a firey vision over an altar after the fight.
 
 #### Session 10: Beyond the Cove... (cont.)
 
-The rain stopped. 
+The rain stopped. We cleaned up the battle and went back to bed. As we travel, we found a person, a purple Tiefling by the name of Cobblestar Woosh.
 
 
 ## Stats
@@ -169,15 +169,15 @@ The rain stopped.
 | CON  | 13 (+1)   | M. HP   | 27 Max HP       |
 | DEX  | 16 (+3)   | AC      | (13)            |
 | INT  | 20 (+5) ^ | C. HP   | 27 HP           |
-| WIS  | 14 (+2) ^ | HD      | 5d6 (0/5)       |
+| WIS  | 14 (+2) ^ | HD      | 5d6 (5/5)       |
 | CHA  | 12 (+1)   | SPD     | 25' (5s)        |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| o   | o   | x   | .   | .   | .   | .   | .    | .   |
-| o   | x   | x   | .   | .   | .   | .   |      |     |
-| x   | x   | .   | .   | .   |     |     |      |     |
-| x   |     |     |     |     |     |     |      |     |
+| o   | o   | o   | .   | .   | .   | .   | .    | .   |
+| o   | o   | o   | .   | .   | .   | .   |      |     |
+| o   | o   | .   | .   | .   |     |     |      |     |
+| o   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
 ##### Skills
@@ -256,7 +256,6 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 (10gp, 25sp)
 
 - 2x *Pot of Healing*; 2d4+2
-- 1x *G. Pot of Healing*; 4d4+4
 - Scroll of Remove Curse
 - Anatomical Notes of Creatures of the Island
 - Cold Iron Rat-Spiral Engraved Key
@@ -291,7 +290,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 		- A Painting of My Dad and Grom
 *Groin*:
 	Equipment Belt
-		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]] 0/1)
+		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]] 1/1)
 		- Sheath (Dagger)
 		- Sending Stone (paired with Soju)
 *Legs*:
