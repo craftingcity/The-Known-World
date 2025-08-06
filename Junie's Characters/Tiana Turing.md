@@ -8,7 +8,7 @@ aliases:
 
 > Standing at 3'9", Tiana wears a practical brown canvas cloak and a comparably large backpack.
 
-Tiana is a young gnome with practical experience in the field - under direct supervision, in a stable environment. She's brought along her familiar - a brown shepard dog named Compu.
+Tiana is a young gnome with practical experience in the field - under direct supervision, in a stable environment. She's brought along her familiar - a brown shepherd dog named Compu.
 
 ## Roleplaying
 ###### "Present your evidence for this conclusion..."
@@ -154,21 +154,24 @@ Leaving the Cove, the change in scenery is intense. We're caught out by some sna
 
 We explore the farmstead, resting for a while and gathering some of the stuff here. We continue onward, and eventually camp down in an abandoned, broken down building. Some ghoulies and goblins come attack us!
 
+#### Session 10: Beyond the Cove... (cont.)
+
+
 ## Stats
 
-| L. 4 | XP: 6,500 | /6,500 | (1) Inspiration |
-| ---- | --------- | ------ | --------------- |
-| STR  | 8  (-1)   | PRF    | +2              |
-| CON  | 13 (+1)   | M. HP  | 22 Max HP       |
-| DEX  | 16 (+3)   | AC     | (13)            |
-| INT  | 20 (+5) ^ | C. HP  | 15 HP           |
-| WIS  | 14 (+2) ^ | HD     | 4d6 (3/4)       |
-| CHA  | 12 (+1)   | SPD    | 25' (5s)        |
+| L. 5 | XP: 6.5k  | / 14.0k | (1) Inspiration |
+| ---- | --------- | ------- | --------------- |
+| STR  | 8  (-1)   | PRF     | +3              |
+| CON  | 13 (+1)   | M. HP   | 27 Max HP       |
+| DEX  | 16 (+3)   | AC      | (13)            |
+| INT  | 20 (+5) ^ | C. HP   | 15 HP           |
+| WIS  | 14 (+2) ^ | HD      | 4d6 (3/4)       |
+| CHA  | 12 (+1)   | SPD     | 25' (5s)        |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| o   | o   | .   | .   | .   | .   | .   | .    | .   |
-| o   | x   | .   | .   | .   | .   | .   |      |     |
+| o   | o   | x   | .   | .   | .   | .   | .    | .   |
+| o   | x   | x   | .   | .   | .   | .   |      |     |
 | x   | x   | .   | .   | .   |     |     |      |     |
 | x   |     |     |     |     |     |     |      |     |
 
@@ -215,7 +218,7 @@ x [Feather Fall](https://dnd5e.wikidot.com/spell:feather-fall)
 x [Shield](https://dnd5e.wikidot.com/spell:shield)
 o [Sleep](https://dnd5e.wikidot.com/spell:sleep)
 x [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs)
-x [Snare](https://dnd5e.wikidot.com/spell:snare) (30ft rope)
+o [Snare](https://dnd5e.wikidot.com/spell:snare) (30ft rope)
 x (F, C) [Protection from Good and Evil](https://dnd5e.wikidot.com/spell:protection-from-evil-and-good)
 x [Thunderwave](https://dnd5e.wikidot.com/spell:thunderwave)
 	- **2nd Level Spells**;
@@ -250,14 +253,17 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 
 - 2x *Pot of Healing*; 2d4+2
 - 1x *G. Pot of Healing*; 4d4+4
-- 1x Spiderstep Sap
-- 14x 'Incense'
-- 2x 'Charcoal'
-- 3x 'Pearl'
 - Scroll of Remove Curse
 - Anatomical Notes of Creatures of the Island
 - Cold Iron Rat-Spiral Engraved Key
 - Wooden Idol of 'Jungle God'
+
+| Components     | Quantity |
+| -------------- | -------- |
+| Incense        | 14       |
+| Charcoal       | 2        |
+| Pearl          | 3        |
+| Spiderstep Sap | 1        |
 
 *Hands*: 
 	Leather Fingerless Gloves
@@ -301,5 +307,5 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 
 ###### Verdant Band
 - *Attuned*
-- While you are Attuned, you may cast Entangle once per long rest without using a spell slot.
+- While you are Attuned, you may cast Entangle once per long rest without using a spell slot (1/1).
 - While you are Attuned and standing on 'natural earth', when a Plant attempts to Grapple or Restrain you, you have Advantage on that Check.
