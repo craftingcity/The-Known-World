@@ -5,12 +5,16 @@
       "path": "Junie's Characters/Zari Franx.md"
     },
     {
-      "basename": "Currency of Alaturmen",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
+      "basename": "Dante Fukili",
+      "path": "Junie's Characters/Dante Fukili.md"
     },
     {
       "basename": "Northern Conflicts, c.105af",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md"
+    },
+    {
+      "basename": "Currency of Alaturmen",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
     },
     {
       "basename": "Wheernat Hillkeep",
@@ -195,10 +199,6 @@
     {
       "basename": "Limbo",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Limbo/Limbo.md"
-    },
-    {
-      "basename": "Abyssal (language)",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Time Before Time/Abyssal (language).md"
     }
   ],
   "omittedPaths": [],

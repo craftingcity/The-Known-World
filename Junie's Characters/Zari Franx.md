@@ -3,7 +3,9 @@ tags: npc
 aliases:
 ---
 # Zari Franx
+## Goblin of Prosper
 ## Volunteer Militant, MIA
+## Warlock (X)
 ### she/her
 
 > A large goblin woman with more than a dozen scars across her body, her arms reach below her knees. More than anything, she looks distant - like she thinks she shouldn't be here. 
@@ -14,19 +16,28 @@ A description of their function in the world.
 ### Quote
 
 ### Mannerism & Disposition
+Zari is...
+	- SIMPLE
+	- SEEKING
+	- REGRETFUL
 
 ### Background
 #### Early Life
 
-Grew up in Northern Prosper. I grew up in a group home, and it was nice enough. I stayed in town as I got older, and eventually I signed up for the Militia, fought against some Blood Clan trying to fuck with us, and I ended up *really hurt*. I had a dream where something asked if I wanted to live, and I was scared, and I think I said yes. I woke up, and I wasn't gonna die anymore so I just left the fight. Things are a little foggy now though. 
+Grew up in Northern Prosper. I grew up in a group home, and it was nice enough. I stayed in town as I got older, and eventually I signed up for the Militia. We ended up fighting some Blood Clan trying to fuck with us, and I got *really hurt*. I had a dream where something asked if I wanted to live, and I was scared, and I think I said yes. I woke up, and I wasn't gonna die anymore so I just left. Things are a little foggy now though. 
+
+I haven't been back to see any of my siblings, or my unit. I didn't stop walking for a while. Someone asked if I knew someone, and the name caught, so now I'm going with her to check up on them. 
 
 ## Important Knowledge
 
 
 ## Stats
-. | . 
---- | --- | --- | ---
-STR | DEX | CON | HP
-x | x | x | x
-INT | WIS | CHA | AC
-x | x | x | x
+| .   | .   | .     |     |
+| --- | --- | ----- | --- |
+| STR |     | PROF  | + x |
+| DEX |     | AC    |     |
+| CON |     | M. HP |     |
+| INT |     | C. HP |     |
+| WIS |     | SPD   |     |
+| CHA |     |       |     |
+
