@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db296b68fd934043",
+        "id": "2a2d5f68c609f485",
         "type": "tabs",
         "children": [
           {
-            "id": "21fa4899ca58d7f4",
+            "id": "3710a1fba4f79fae",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,14 +16,30 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Seattle Exports Misery",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Seattle Exports Misery\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Notes on the Multiverse",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/Notes on the Multiverse.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Notes on the Multiverse\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Aug 6 25.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Prenotes Aug 6 25"
             }
           }
         ]
@@ -125,13 +141,11 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 418.50418853759766,
-    "collapsed": true
+    "width": 359.5080032348633
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -278,8 +292,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21fa4899ca58d7f4",
+  "active": "3710a1fba4f79fae",
   "lastOpenFiles": [
+    "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
     "Junie's Characters/Tiana Turing.md",
     "conflict-files-obsidian-git.md",
     "Prenotes Aug 6 25.md",
@@ -309,8 +325,6 @@
     "Game Notes/NPCs/High Power/Devils",
     "Game Notes/NPCs/High Power/Demons/Demons.md",
     "Game Notes/NPCs/High Power/Demons",
-    "Game Notes/Campaign Rosters/RHoD Test 1.md",
-    "Game Notes/Campaign Rosters/Campaign Rosters.md",
     "MEDIA/SUPP/DOCS/AlchemistsLab.pdf",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
