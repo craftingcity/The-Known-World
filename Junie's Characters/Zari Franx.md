@@ -2,11 +2,11 @@
 tags: npc
 aliases:
 ---
-# Name
-## Titles
-### pronouns
+# Zari Franx
+## Volunteer Militant, MIA
+### she/her
 
-> Boxtext for an action, outfit, and a physical trait.
+> A large goblin woman with more than a dozen scars across her body, her arms reach below her knees. More than anything, she looks distant. 
 
 A description of their function in the world.
 
