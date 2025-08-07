@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd7539f287353e38",
+        "id": "db296b68fd934043",
         "type": "tabs",
-        "dimension": 57.2829131652661,
         "children": [
           {
-            "id": "7560e6fb0997ef08",
+            "id": "21fa4899ca58d7f4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -21,44 +20,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tiana Turing"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c825707a6683c673",
-        "type": "tabs",
-        "dimension": 42.71708683473389,
-        "children": [
-          {
-            "id": "f3859174c979190a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tiana Turing"
+              "title": "New tab"
             }
           }
         ]
@@ -313,10 +278,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3859174c979190a",
+  "active": "21fa4899ca58d7f4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Junie's Characters/Tiana Turing.md",
+    "conflict-files-obsidian-git.md",
     "Prenotes Aug 6 25.md",
     "Game Notes/Prenotes/'25/Prenotes July 29 25.md",
     "Game Notes/Prenotes/'25/Prenotes July 21 25.md",
