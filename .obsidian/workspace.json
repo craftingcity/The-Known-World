@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a476ca112795407",
+        "id": "448b46f5cce7044d",
         "type": "tabs",
         "children": [
           {
-            "id": "ec72cf356449cb8e",
+            "id": "8023b7472ebe7046",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,12 +22,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Junie's Characters.md",
+                "file": "Junie's Characters/Zari Franx.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Junie's Characters"
+              "title": "Zari Franx"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7e8f42befc184af3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef3e97b2cb8feb00",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/List of Names.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "List of Names"
             }
           }
         ]
@@ -280,12 +309,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec72cf356449cb8e",
+  "active": "8023b7472ebe7046",
   "lastOpenFiles": [
+    "Game Notes/NPCs/List of Names.md",
+    "Junie's Characters/Zari Franx.md",
+    "Junie's Characters/Tiana Turing.md",
+    "Junie's Characters/Junie's Characters.md",
     "Prenotes Aug 6 25.md",
     "Notes on the Multiverse/Seattle Exports Misery/Seattle Exports Misery.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
-    "Junie's Characters/Tiana Turing.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'25/Prenotes July 29 25.md",
     "Game Notes/Prenotes/'25/Prenotes July 21 25.md",
@@ -308,10 +340,7 @@
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers/Fulton Shepherd.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers/Breenabell, the Travelling Joy.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Adventurer NPCs/Dimble Turing.md",
-    "Game Notes/NPCs/High Power/Devils/Devils.md",
     "Game Notes/NPCs/High Power/Devils",
-    "Game Notes/NPCs/High Power/Demons/Demons.md",
     "Game Notes/NPCs/High Power/Demons",
     "MEDIA/SUPP/DOCS/AlchemistsLab.pdf",
     "MEDIA/MAPS/20250624_184256.jpg",

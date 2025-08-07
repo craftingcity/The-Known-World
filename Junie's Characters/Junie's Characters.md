@@ -6,6 +6,7 @@
 - [[Erin 'Fox' Bathal]]
 - [[Grekk]]
 - [[Tiana Turing]]
+- [[Zari Franx]]
 
 %% End Waypoint %%
 
