@@ -34,6 +34,16 @@ He hands you a list of names. We trek unto Seattle.
 
 ### What does the World Know?
 
+16 - Goober E (*1*) (9, 13, 20 / 45)
+16 - Chad Bradford
+14 - Goober C (*2*) ( / 45) 
+14 - Goober D ( / 45)
+10 - Talia
+4 - Goober A ( / 27)
+4 - Mylo
+2 - Goober B ( / 27)
+1 - Goober F ( / 45)
+
 
 ### What happened?
 
