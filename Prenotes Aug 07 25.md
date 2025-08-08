@@ -22,7 +22,7 @@ With adrenaline coursing through your veins, you continue to bludgeon, burn, and
 
 16 - Leliana
 12 - Emilio 
-8 - Zesh (unconcious 0/0)
+8 - Zesh (unconscious 0/0)
 2 - AMBER (AC 19)
 	A1 - 24, 30, 33, 
 	~~B1 - 12, 28, 36, 45~~
