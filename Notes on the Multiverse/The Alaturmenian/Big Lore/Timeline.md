@@ -205,11 +205,11 @@ After continued raids, the Coalition has [[Emergency Communicae c. 103AF|a meeti
 With the assistance of [[The Patron Saints of Kakurak]], the forces of Alaturmen turned back the Giants, and slew their leadership, leaving the rest of the Descenters unorganized and weak - easy prey for the Saints.
 
 date: 104AF
-title: 
+title: [[SEASEC]] is formed in the Combine.
 content:
 
 date: 105AF
-title: The [[Second Invasion of Orcus]]
+title: The [[Second Invasion of Orcus]].
 content:
 
 Throughout the material planes, a dark hum permiates the Weave, and many adventurers feel the call to power. The darkest fibers of reality are worked by [[Qiell Tilemundon]] and [[Kalariel]] in the search for eternal life - though existance will suffice. [[Orcus]]' cultists summon a powerful royal Demon, who razes [[Boneborn]] and takes leadership of the fiendish forces on Alaturmen.

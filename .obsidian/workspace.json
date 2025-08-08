@@ -81,7 +81,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grenade",
+                "query": "\"The Company\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +187,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -340,9 +341,9 @@
   },
   "active": "1432c99214f26c22",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Prenotes Aug 07 25.md",
     "Junie's Characters/Dante Fukili.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Wheernat Hillkeep.md",
