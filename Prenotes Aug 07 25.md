@@ -22,13 +22,13 @@ With adrenaline coursing through your veins, you continue to bludgeon, burn, and
 
 16 - Leliana
 12 - Emilio 
-8 - Zesh (unconscious xx/0)
-2 - AMBER (AC 19)
+8 - Zesh 
+2 - AMBER (AC 18)
 	~~A1 - 24, 30, 33, 45~~ no
 	~~B1 - 12, 28, 36, 45~~ yes
-	C2 - 16, 34, 38,  yes
+	~~C2 - 16, 34, 38~~ yes
 	D2 -turned into 6 goobers no
-	E3 - yes
+	E3 - 5, 18 yes
 	F4 - no
 1 - Xenfer
 
