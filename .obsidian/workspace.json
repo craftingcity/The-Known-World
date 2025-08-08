@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46b5c75c3cc13e62",
+        "id": "448b46f5cce7044d",
         "type": "tabs",
         "children": [
           {
-            "id": "9bbd294f455d7d9c",
+            "id": "8023b7472ebe7046",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,15 +22,251 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Aug 07 25.md",
+                "file": "Junie's Characters/Zari Franx.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Aug 07 25"
+              "title": "Zari Franx"
+            }
+          },
+          {
+            "id": "9a064b6c87998013",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Currency of Alaturmen"
+            }
+          },
+          {
+            "id": "8622232bc94c3505",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Magius.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magius"
             }
           }
         ]
+      },
+      {
+        "id": "7e8f42befc184af3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef3e97b2cb8feb00",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/List of Names.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "List of Names"
+            }
+          },
+          {
+            "id": "1e64f03afbf0a484",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Tolecant Hillkeep",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Tolecant Hillkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Tolecant Hillkeep\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":26},\"to\":{\"line\":7,\"ch\":26}}}"
+                },
+                {
+                  "title": "Scrivin's Plots",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Scrivin's Plots.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Scrivin's Plots\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":33},\"to\":{\"line\":7,\"ch\":33}}}"
+                },
+                {
+                  "title": "Modgron Hillkeep",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Modgron Hillkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Modgron Hillkeep\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":33},\"to\":{\"line\":7,\"ch\":33}}}"
+                },
+                {
+                  "title": "Mendowab Hillkeep",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Mendowab Hillkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Mendowab Hillkeep\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":31},\"to\":{\"line\":6,\"ch\":31}}}"
+                },
+                {
+                  "title": "Modgron Hillkeep",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Modgron Hillkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Modgron Hillkeep\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mendowab Hillkeep",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Mendowab Hillkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Mendowab Hillkeep\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":33},\"to\":{\"line\":7,\"ch\":33}}}"
+                },
+                {
+                  "title": "Liothraia's Plots",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Liothraia's Plots.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Liothraia's Plots\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":26},\"to\":{\"line\":7,\"ch\":26}}}"
+                },
+                {
+                  "title": "Hurraquk Hillkeep",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Hurraquk Hillkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Hurraquk Hillkeep\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":33},\"to\":{\"line\":7,\"ch\":33}}}"
+                },
+                {
+                  "title": "Gidiz's Plots",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Gidiz's Plots.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Gidiz's Plots\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Forest-City of Garqwuk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Forest-City of Garqwuk.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Forest-City of Garqwuk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":33},\"to\":{\"line\":7,\"ch\":33}}}"
+                },
+                {
+                  "title": "Emorin's Plots",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Emorin's Plots.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Emorin's Plots\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bulgpim's Plots",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Bulgpim's Plots.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Bulgpim's Plots\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":26},\"to\":{\"line\":7,\"ch\":26}}}"
+                },
+                {
+                  "title": "Arbrogh Hillkeep",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Arbrogh Hillkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Arbrogh Hillkeep\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":26},\"to\":{\"line\":7,\"ch\":26}}}"
+                },
+                {
+                  "title": "Northeastern Central",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Northeastern Central\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Places",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Places\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Alaturmen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Alaturmen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Inner",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Inner.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Inner\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Blood Clans",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Blood Clans\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":16.714645430287014}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Wheernat Hillkeep.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Wheernat Hillkeep"
+            }
+          },
+          {
+            "id": "f754fed23e336170",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Northern Conflicts, c.105af",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Northern Conflicts, c.105af\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":64,\"ch\":20},\"to\":{\"line\":64,\"ch\":20}},\"scroll\":59.01390505891645}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Junie's Characters/Dante Fukili.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Dante Fukili"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +369,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.50418853759766
+    "width": 359.5080032348633
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -280,38 +516,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bbd294f455d7d9c",
+  "active": "8023b7472ebe7046",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'25/Prenotes July 29 25.md",
     "Prenotes Aug 07 25.md",
-    "Game Notes/Campaign Rosters/Jasper's Angels.md",
+    "Junie's Characters/Dante Fukili.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
+    "Junie's Characters/Zari Franx.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Wheernat Hillkeep.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Tolecant Hillkeep.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Scrivin's Plots.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Modgron Hillkeep.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Mendowab Hillkeep.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Liothraia's Plots.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Hurraquk Hillkeep.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Gidiz's Plots.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Forest-City of Garqwuk.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Emorin's Plots.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Bulgpim's Plots.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Arbrogh Hillkeep.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Magius.md",
     "Junie's Characters/Tiana Turing.md",
-    "conflict-files-obsidian-git.md",
-    "Prenotes Aug 6 25.md",
-    "Game Notes/Prenotes/'25/Prenotes July 21 25.md",
-    "Game Notes/Prenotes/'25/'25.md",
-    "Game Notes/Prenotes/'24/'24.md",
-    "Game Notes/NPCs/zDeceased/Shu Ameda, Paladin of Darkness.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Past Adventurers, Now NPCs.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik/Dae Shim, Dragon's Coming.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik/Gringold, Bard of Poor Renown.md",
+    "Junie's Characters/Junie's Characters.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Irenaus.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels/Zesh, the Drowned Man.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels/Xenfer, the Old Wizard.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels/Leliana, of Slimknife.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels/Emilio Forillio.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers/Ulfgar, the Teatoter.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers/Nala, the Guilty.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers/Jerran Stormwind.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers/Fulton Shepherd.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers/Breenabell, the Travelling Joy.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Adventurer NPCs/Dimble Turing.md",
-    "Game Notes/NPCs/High Power/Devils/Devils.md",
     "Game Notes/NPCs/High Power/Devils",
-    "Game Notes/NPCs/High Power/Demons/Demons.md",
     "Game Notes/NPCs/High Power/Demons",
     "MEDIA/SUPP/DOCS/AlchemistsLab.pdf",
     "MEDIA/MAPS/20250624_184256.jpg",
