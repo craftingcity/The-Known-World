@@ -30,6 +30,8 @@ With adrenaline coursing through your veins, you continue to bludgeon, burn, and
 	D -turned into 6 goobers
 1 - Xenfer (invisible)
 
+Once we get all 5 Bones, we can go fight Tymirek - 
+
 ### What happened?
 
 
