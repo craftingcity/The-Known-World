@@ -4,64 +4,100 @@
     "type": "split",
     "children": [
       {
-        "id": "dd7539f287353e38",
-        "type": "tabs",
-        "dimension": 57.2829131652661,
+        "id": "8338a1a1c1d97102",
+        "type": "split",
         "children": [
           {
-            "id": "7560e6fb0997ef08",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "46b5c75c3cc13e62",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9bbd294f455d7d9c",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Prenotes Aug 07 25.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Prenotes Aug 07 25"
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
               },
-              "icon": "lucide-file",
-              "title": "Tiana Turing"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c825707a6683c673",
-        "type": "tabs",
-        "dimension": 42.71708683473389,
-        "children": [
+              {
+                "id": "8b1aeac3672da4bf",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Campaign Rosters/Jasper's Angels.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Jasper's Angels"
+                },
+                "group": "911c469dc6a48356"
+              }
+            ],
+            "currentTab": 1
+          },
           {
-            "id": "f3859174c979190a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tiana Turing"
-            }
+            "id": "e063ecc115b29e94",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "815d5395e04ad6c6",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Game Notes/Campaign Rosters/Jasper's Angels.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Jasper's Angels"
+                },
+                "group": "911c469dc6a48356"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -160,8 +196,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -312,10 +347,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3859174c979190a",
+  "active": "815d5395e04ad6c6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Prenotes Aug 07 25.md",
     "Junie's Characters/Tiana Turing.md",
+    "conflict-files-obsidian-git.md",
     "Prenotes Aug 6 25.md",
     "Game Notes/Prenotes/'25/Prenotes July 29 25.md",
     "Game Notes/Prenotes/'25/Prenotes July 21 25.md",
@@ -344,7 +380,6 @@
     "Game Notes/NPCs/High Power/Demons/Demons.md",
     "Game Notes/NPCs/High Power/Demons",
     "Game Notes/Campaign Rosters/RHoD Test 1.md",
-    "Game Notes/Campaign Rosters/Campaign Rosters.md",
     "MEDIA/SUPP/DOCS/AlchemistsLab.pdf",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
