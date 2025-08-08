@@ -22,12 +22,14 @@ With adrenaline coursing through your veins, you continue to bludgeon, burn, and
 
 16 - Leliana
 12 - Emilio 
-8 - Zesh (unconscious x/0)
+8 - Zesh (unconscious xx/0)
 2 - AMBER (AC 19)
-	~~A1 - 24, 30, 33, 45~~ 
-	~~B1 - 12, 28, 36, 45~~
-	C2 - 16, 34, 38, 
-	D -turned into 6 goobers
+	~~A1 - 24, 30, 33, 45~~ no
+	~~B1 - 12, 28, 36, 45~~ yes
+	C2 - 16, 34, 38,  yes
+	D2 -turned into 6 goobers no
+	E3 - yes
+	F4 - no
 1 - Xenfer
 
 Once we get all 5 Bones, we can go fight Tymirek - hes in the back. We can do one more encounter before the big fight, maybe the ooze guys we were talking about.
