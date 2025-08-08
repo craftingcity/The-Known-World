@@ -4,100 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "8338a1a1c1d97102",
-        "type": "split",
+        "id": "46b5c75c3cc13e62",
+        "type": "tabs",
         "children": [
           {
-            "id": "46b5c75c3cc13e62",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9bbd294f455d7d9c",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Prenotes Aug 07 25.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prenotes Aug 07 25"
+            "id": "9bbd294f455d7d9c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Aug 07 25.md",
+                "mode": "source",
+                "source": true
               },
-              {
-                "id": "8b1aeac3672da4bf",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Campaign Rosters/Jasper's Angels.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Jasper's Angels"
-                },
-                "group": "911c469dc6a48356"
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "e063ecc115b29e94",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "815d5395e04ad6c6",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Game Notes/Campaign Rosters/Jasper's Angels.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks for Jasper's Angels"
-                },
-                "group": "911c469dc6a48356"
-              }
-            ]
+              "icon": "lucide-file",
+              "title": "Prenotes Aug 07 25"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -347,13 +280,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "815d5395e04ad6c6",
+  "active": "9bbd294f455d7d9c",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'25/Prenotes July 29 25.md",
     "Prenotes Aug 07 25.md",
+    "Game Notes/Campaign Rosters/Jasper's Angels.md",
     "Junie's Characters/Tiana Turing.md",
     "conflict-files-obsidian-git.md",
     "Prenotes Aug 6 25.md",
-    "Game Notes/Prenotes/'25/Prenotes July 29 25.md",
     "Game Notes/Prenotes/'25/Prenotes July 21 25.md",
     "Game Notes/Prenotes/'25/'25.md",
     "Game Notes/Prenotes/'24/'24.md",
@@ -379,7 +313,6 @@
     "Game Notes/NPCs/High Power/Devils",
     "Game Notes/NPCs/High Power/Demons/Demons.md",
     "Game Notes/NPCs/High Power/Demons",
-    "Game Notes/Campaign Rosters/RHoD Test 1.md",
     "MEDIA/SUPP/DOCS/AlchemistsLab.pdf",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
