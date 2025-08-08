@@ -22,6 +22,8 @@ The Kingdom of Prosper is a monarchy, headed by the great [[Arthur Simonson]], a
 
 The population pay taxes to maintain the cities and kingdom operations, but much of the new or temporary projects are funded by Simonson's hoard, leading to generally low taxes for the people of Prosper. Arthur hires a guild of accountants that work together with the [[Guild of Merchants]], [[Guild of Crafters]], and [[Noble Houses of Prosper]] to budget food, water, medicine, coin, and other supplies and works for the whole of the kingdom.
 
+### Important People
+
 ## Culture
 #### Heritage
 The citizens of the Kingdom generally are of Human or Goblin descent, or both in a large number of cases, though the Kingdom turns away none who swear fealty to the [[Noble Houses of Prosper]] and [[Arthur Simonson|The Great Adventurer King]].
