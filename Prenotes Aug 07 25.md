@@ -32,7 +32,10 @@ With adrenaline coursing through your veins, you continue to bludgeon, burn, and
 
 Once we get all 5 Bones, we can go fight Tymirek - hes in the back. We can do one more encounter before the big fight, maybe the ooze guys we were talking about.
 
-In the fight with Tymirek, he would try to escape more than he'll try to kill these guys - but they're gathering the key out of here, so we might just need them to open it first? We can try to talk to them if they don't just attack us right away.
+In the fight with Tymirek, he would try to escape more than he'll try to kill these guys - but they're gathering the key out of here, so we might just need them to open the gate first? We can try to talk to them if they don't just attack us right away.
+
+I think we can run him as a [Gold Wyrmling](https://www.aidedd.org/dnd/monstres.php?vo=gold-dragon-wyrmling), but we may have to adjust on the fly.
+
 
 ### What happened?
 
