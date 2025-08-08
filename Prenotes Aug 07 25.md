@@ -27,9 +27,9 @@ With adrenaline coursing through your veins, you continue to bludgeon, burn, and
 	~~A1 - 24, 30, 33, 45~~ no
 	~~B1 - 12, 28, 36, 45~~ yes
 	~~C2 - 16, 34, 38~~ yes
-	D2 -turned into 6 goobers no
-	E3 - 5, 18 yes
-	F4 - no
+	D2 -turned into 6 goobers yes
+	~~E3 - 5, 18, 47~~ yes
+	F4 - yes
 1 - Xenfer
 
 Once we get all 5 Bones, we can go fight Tymirek - hes in the back. We can do one more encounter before the big fight, maybe the ooze guys we were talking about.
