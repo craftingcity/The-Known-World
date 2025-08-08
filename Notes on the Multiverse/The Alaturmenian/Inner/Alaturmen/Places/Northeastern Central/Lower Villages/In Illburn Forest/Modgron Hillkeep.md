@@ -4,8 +4,8 @@ aliases:
 ---
 # Name
 #### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+## Holding of [[Wheernat Clan]]
+### Located in [[Illburn Forest]], X:Y
 ## Description
 ### Quote
 

@@ -4,8 +4,8 @@ aliases:
 ---
 # Name
 #### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+## Holding of [[Bulgpim Clan]]
+### Located in [[Gumlpin]], X:Y
 ## Description
 ### Quote
 
