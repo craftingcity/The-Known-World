@@ -25,8 +25,18 @@ As close as you are, victory evades your reach, and your toil continues; Roll In
 We're on the top floor of [[Kohnstamm#Kohnstamm Experimental Genetics Facility]], and we have three types of goober to work with.
 
 ##### The White Flame Homeland Force
+AC 20, 45HP
+- Fire on Target (2x ranged +8, 3d6+8 force)
+- Command (BA, target WAORC moves, attacks)
 ##### The Third Gen Waorc
+AC 16, 120HP
+- Blood Syphon (2x melee +12, 2d8+4 necro, regen 1/2)
+- Sundering Scar (1x melee +8, 2d4+2 necro, -AC on target)
+- Commanded Strike (1x, +12, 2d6+4 slashing)
 ##### Otto Malkovich Himself
+AC 23, 60HP
+- Cast a Spell
+- Command (BA, WAORC moves, attacks)
 
 ### What happened?
 
