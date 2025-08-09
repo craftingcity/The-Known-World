@@ -18,10 +18,15 @@ When last we left our heroes, they had dug their way into the city of [[Kohnstam
 
 The siren blares throughout the building, and the shouts of the floors below suggest a second wave of reinforcements coming to contain the threat - and still, Otto smiles.
 
-
+As close as you are, victory evades your reach, and your toil continues; Roll Initiative!
 
 ### What does the World Know?
 
+We're on the top floor of [[Kohnstamm#Kohnstamm Experimental Genetics Facility]], and we have three types of goober to work with.
+
+##### The White Flame Homeland Force
+##### The Third Gen Waorc
+##### Otto Malkovich Himself
 
 ### What happened?
 
