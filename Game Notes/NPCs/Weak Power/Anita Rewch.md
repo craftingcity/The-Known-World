@@ -21,7 +21,6 @@ Anita is...
 
 ### Background
 #### Early Life
-
 Anita was born in [[Coalition City]], in the Producing of 84AF, to a relatively large family. While she was growing up, her parent's lack of time for their eldest child led her to explore her world on her own. The world scared her, but a sense of understanding would ease that fear. 
 
 #### College
