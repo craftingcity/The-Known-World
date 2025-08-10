@@ -42,8 +42,8 @@ AC 23, 60HP
 ##### The Fight Continues...
 
 15 - Otto Malkovich
-11 - Homeland Force
-5 - 
+10 - Homeland Force
+5 - 3rd Gen WAORC
 
 
 We leave our heroes on the date of ... AF, as they ...
