@@ -43,8 +43,8 @@ AC 23, 60HP
 
 20 - Saorsia
 19 - Zipper
-15 - Otto Malkovich (AC 23, 60HP)
-	x 
+15 - Otto Malkovich (AC 23, 60HP) (reflected from Zipper)
+	x 41
 15 - Niko
 10 - Homeland Force (AC 20, 45HP)
 	A
@@ -52,7 +52,7 @@ AC 23, 60HP
 	C
 	D
 	E
-8 - Roan (AC 25, 45HP)
+8 - Roan (AC 16, 45HP)
 	x 
 5 - 3rd Gen WAORC (AC 16, 120HP)
 	A
@@ -61,6 +61,6 @@ AC 23, 60HP
 	D
 	E
 	F
-
+4 - Apes
 
 We leave our heroes on the date of ... AF, as they ...
