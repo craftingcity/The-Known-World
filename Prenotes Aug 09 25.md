@@ -37,30 +37,24 @@ AC 16, 120HP
 AC 23, 60HP
 - Cast a Spell
 - Command (BA, WAORC moves, attacks)
+- Misty Step (BA, 30ft teleport)
 
 ### What happened?
 ##### The Fight Continues...
 
 20 - Saorsia
 19 - Zipper
-15 - Otto Malkovich (AC 23, 60HP) (reflected from Zipper)
-	x 41
+~~15 - Otto Malkovich (AC 23, 60HP) (reflected from Zipper)
+	x 41, 82~~
 15 - Niko
 10 - Homeland Force (AC 20, 45HP)
-	A
+	A 
 	B
 	C
 	D
 	E
 8 - Roan (AC 16, 45HP)
 	x 
-5 - 3rd Gen WAORC (AC 16, 120HP)
-	A
-	B
-	C
-	D
-	E
-	F
 4 - Apes
 
 We leave our heroes on the date of ... AF, as they ...
