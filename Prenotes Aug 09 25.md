@@ -48,11 +48,11 @@ AC 23, 60HP
 	x 41, 82~~
 15 - Niko
 10 - Homeland Force (AC 20, 45HP)
-	A 
-	B
-	C
-	D
-	E
+	~~A 39, ~~
+	~~B 21, 28~~
+	C 4, 35, 14
+	D 4, 35, 14
+	E 31, 10
 8 - Roan (AC 16, 45HP)
 	x 
 4 - Apes
