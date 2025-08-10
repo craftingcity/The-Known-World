@@ -57,4 +57,6 @@ AC 23, 60HP
 	x 
 4 - Apes
 
+They absolutely killed Otto, blew him up even. They found the Parents Research, the 3 
+
 We leave our heroes on the date of ... AF, as they ...

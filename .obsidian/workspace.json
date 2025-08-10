@@ -11,8 +11,14 @@
             "id": "54d76e34947112d9",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Kohnstamm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kohnstamm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":8.328213448994672}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -28,6 +34,35 @@
               },
               "icon": "lucide-file",
               "title": "Prenotes Aug 09 25"
+            }
+          }
+        ]
+      },
+      {
+        "id": "826c73eb5ae113c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40aeafd07860e2c4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/Weak Power/Anita Rewch.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Anita Rewch"
             }
           }
         ]
@@ -283,8 +318,10 @@
   },
   "active": "54d76e34947112d9",
   "lastOpenFiles": [
-    "Prenotes Aug 06 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md",
+    "Game Notes/NPCs/Weak Power/Anita Rewch.md",
     "Prenotes Aug 09 25.md",
+    "Prenotes Aug 06 25.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Prenotes Aug 07 25.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
@@ -307,8 +344,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Hurraquk Hillkeep.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Gidiz's Plots.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Forest-City of Garqwuk.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Emorin's Plots.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Bulgpim's Plots.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
