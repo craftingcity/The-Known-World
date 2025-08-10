@@ -16,7 +16,7 @@ aliases:
 
 When last we left our heroes, they had dug their way into the city of [[Kohnstamm]] on the hunt for one Dr [[Otto Malkovich]]. Their research suggested that he would be present in the city's 'Experimental Genetics Facility', having been reassigned from his personal project to the facility's wartime efforts. The party did find him there, after fighting their way into the upper floors of the facility, and rushed to restrain him. 
 
-The siren blares throughout the building, and the shouts of the floors below suggest a second wave of reinforcements coming to contain the threat - and still, Otto smiles.
+The siren blares throughout the building, and the shouts of the floors below suggest a second wave of reinforcements coming to contain the threat - and Otto smiles.
 
 As close as you are, victory evades your reach, and your toil continues; Roll Initiative!
 
@@ -41,9 +41,26 @@ AC 23, 60HP
 ### What happened?
 ##### The Fight Continues...
 
-15 - Otto Malkovich
-10 - Homeland Force
-5 - 3rd Gen WAORC
+20 - Saorsia
+19 - Zipper
+15 - Otto Malkovich (AC 23, 60HP)
+	x 
+15 - Niko
+10 - Homeland Force (AC 20, 45HP)
+	A
+	B
+	C
+	D
+	E
+8 - Roan (AC 25, 45HP)
+	x 
+5 - 3rd Gen WAORC (AC 16, 120HP)
+	A
+	B
+	C
+	D
+	E
+	F
 
 
 We leave our heroes on the date of ... AF, as they ...
