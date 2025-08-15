@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "329c05c29315e85a",
+        "id": "f03e5b480afd88a5",
         "type": "tabs",
         "children": [
           {
-            "id": "54d76e34947112d9",
+            "id": "3d1c143773a7e00c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Kohnstamm",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Kohnstamm.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kohnstamm\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":8.328213448994672}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -28,47 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Aug 09 25.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Aug 09 25"
-            }
-          }
-        ]
-      },
-      {
-        "id": "826c73eb5ae113c7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "40aeafd07860e2c4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "The Secretkeepers",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/The Secretkeepers.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Secretkeepers\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.14453477107181473}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/Weak Power/Anita Rewch.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Anita Rewch"
+              "title": "Arthur's Knights"
             }
           }
         ]
@@ -121,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"The Company\"",
+                "query": "\"Noble House a'Haruuc\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -322,10 +281,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54d76e34947112d9",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Game Notes/NPCs/Weak Power/Anita Rewch.md",
     "Prenotes Aug 09 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Game Notes/Prenotes/'25/Prenotes July 05 25.md",
     "Game Notes/Prenotes/'25/Prenotes July 10 25.md",
@@ -349,7 +309,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Scrivin's Plots.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Modgron Hillkeep.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Mendowab Hillkeep.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Illburn Forest/Liothraia's Plots.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
