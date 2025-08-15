@@ -2,9 +2,9 @@
 tags: holding,
 aliases:
 ---
-# Name
+# Altho
 #### Sub-names?
-## Holding of {Faction}
+## Holding of [[]]
 ### Located in {Region}, X:Y
 ## Description
 ### Quote

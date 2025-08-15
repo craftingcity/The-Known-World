@@ -5,7 +5,7 @@ aliases:
 # Name
 #### Sub-names?
 ## Holding of [[Dwarven Kingdom Actstow]]
-### Located in {Region}, X:Y
+### Located in [[Actstow Hills]], X:Y
 ## Description
 ### Quote
 

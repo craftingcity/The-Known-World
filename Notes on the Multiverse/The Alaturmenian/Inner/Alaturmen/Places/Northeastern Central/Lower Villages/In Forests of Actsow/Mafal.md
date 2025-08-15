@@ -2,10 +2,10 @@
 tags: holding,
 aliases:
 ---
-# Name
+# Mafal
 #### Sub-names?
 ## Holding of [[Cenva Minyo]]
-### Located in {Region}, X:Y
+### Located in [[Actstow Hills]], X:Y
 ## Description
 ### Quote
 
