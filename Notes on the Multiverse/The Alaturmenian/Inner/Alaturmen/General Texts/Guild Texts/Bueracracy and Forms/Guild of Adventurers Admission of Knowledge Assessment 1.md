@@ -65,6 +65,6 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. Vannis
 	D. Moore
 
-13. 
+13. The 
 
 ## Mechanics Mastery
