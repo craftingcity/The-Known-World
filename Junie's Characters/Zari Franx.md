@@ -74,11 +74,11 @@ Intimidation (CHA)
 
 ###### Pact Magic (2/2) +5, DC 13
 
-| C                | 1              |
-| ---------------- | -------------- |
-| Eldritch Blast   | Hellish Rebuke |
-| Prestidigitation | Witch Bolt     |
-|                  |                |
+| C                | 1              | 2           |
+| ---------------- | -------------- | ----------- |
+| Eldritch Blast   | Hellish Rebuke | Hold Person |
+| Prestidigitation | Witch Bolt     | Misty Step  |
+|                  |                |             |
 
 ###### Eldritch Invocations
 - *Agonizing Blast*. You add your CHA to the damage dealt by Eldritch Blast.
