@@ -37,7 +37,7 @@ I haven't been back to see any of my siblings, or anyone from my unit. I didn't 
 | STR | 16 (+3) +1sv | PROF  | +2  |
 | DEX | 14 (+2) +1sv | AC    | 16  |
 | CON | 20 (+5)      | M. HP | 33  |
-| INT | 7  (-2)      | C. HP | 33  |
+| INT | 7  (-2)      | C. HP | 0   |
 | WIS | 9  (-1) ^    | SPD   | 30  |
 | CHA | 16 (+3) ^    | HD    | 3d8 |
 
