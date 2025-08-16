@@ -33,10 +33,10 @@ I haven't been back to see any of my siblings, or anyone from my unit. I didn't 
 ## Stats
 |     |              |       |     |
 | --- | ------------ | ----- | --- |
-| STR | 16 (+3) +1sv | PROF  | + x |
+| STR | 16 (+3) +1sv | PROF  | +2  |
 | DEX | 14 (+2) +1sv | AC    |     |
-| CON | 20 (+5)      | M. HP |     |
-| INT | 7  (-2)      | C. HP |     |
+| CON | 20 (+5)      | M. HP | 33  |
+| INT | 7  (-2)      | C. HP | 33  |
 | WIS | 9  (-1) ^    | SPD   | 30  |
 | CHA | 16 (+3) ^    |       |     |
 
@@ -44,6 +44,10 @@ I haven't been back to see any of my siblings, or anyone from my unit. I didn't 
 
 History (INT)
 Insight (WIS)
+Deception (CHA)
+Intimidation (CHA)
+
+(Light & Medium Armor, Simple & Martial Weapons, Shields)
 
 #### Features
 ###### Goblin Heritage
@@ -54,3 +58,34 @@ Insight (WIS)
 - Zari knows [[Arthurian (language)]] and [[Golopak (language)]]
 - While wearing Armor, you gain +1 to your Dexterity Saving Throw
 - While wielding a Weapon, you gain +1 to your Strength Saving Throw
+
+###### Hexblade's Curse (BA, 1/1)
+- Target creature within 30ft is cursed for 1 minute, until they are incapacitated or dead.
+- You deal additional damage to the cursed creature equal to your Proficiency Modifier
+- You crit against the cursed creature on a 19 or 20.
+- When the cursed creature dies, you regain your Warlock Level + CHA in Hit Points
+
+###### Hex Warrior
+- When you attack with a Pact Weapon, you may use your CHA for attack and damage rolls.
+
+###### Pact Magic (1/1) +5, DC 13
+
+| C                | 1              |
+| ---------------- | -------------- |
+| Eldritch Blast   | Hellish Rebuke |
+| Prestidigitation | Witch Bolt     |
+|                  |                |
+
+###### Eldritch Invocations
+- *Agonizing Blast*. You add your CHA to the damage dealt by Eldritch Blast.
+- *Improved Pack Weapon* Your Pact Weapon is a Spellcasting Focus for you, and is a +1 Weapon.
+
+###### Pact of the Blade
+- Your weapon is magic, and you can summon and dismiss it when its cool.
+
+#### Equipment
+(0gp, 15sp)
+##### Packed
+- dungeoneer's 
+##### Equipped
+- 
