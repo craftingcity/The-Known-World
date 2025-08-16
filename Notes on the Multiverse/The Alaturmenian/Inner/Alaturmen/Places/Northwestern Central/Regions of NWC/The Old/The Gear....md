@@ -148,17 +148,17 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Commodities
 #### DRUGS / ALCH
-| Name            | Type   | Desc.                                                                                                                                                                                                | Cost in AC |
-| --------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| Cannabis        | Eupho. | A natural euphoric leaf used recreationally across Alaturmen.                                                                                                                                     |            |
-| Tabacco         | Stimu. | A natural stimulant leaf used recreationally across Alaturmen.                                                                                                                                      |            |
-| Smokebulb       | Hallu. |                                                                                                                                                                                                      |            |
-| Lephora Essence | Hallu. |                                                                                                                                                                                                      |            |
-| Bulbkiss        | Hallu. | A high-end powder hallucinogen inhalant. Mildly addictive, and overdose is uncommon. (Use: DC21 save, +2 to INT/WIS/CHA mods for 1 minute if success, or Poisoned and Charmed for 1 minute if fail.) |            |
-| Nova            | Stimu. | A mid-end powder stimulant inhalant. Addiction is common, and overdose is deadly. (Use: DC 17 save, +5ft speed, +1AC, +1 to hit on Ranged Attacks for 1 minute if success, or Poisoned and Paralyzed if fail)                                                                                                                                                                                                     |            |
-| Dareanamon      | Eupho. | A high-end crystal euphoriant. Sometimes sold as a more expensive syrup. Mildly addictive, and overdoses are common.                                                                                                                                                                                                     |            |
-| Oldshine        | Depre. |                                                                                                                                                                                                      |            |
-| Good Liquor     | Depre. |                                                                                                                                                                                                      |            |
+| Name            | Type   | Desc.                                                                                                                                                                                                                   | Cost in AC |
+| --------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Cannabis        | Eupho. | A natural euphoric leaf used recreationally across Alaturmen.                                                                                                                                                           |            |
+| Tabacco         | Stimu. | A natural stimulant leaf used recreationally across Alaturmen.                                                                                                                                                          |            |
+| Smokebulb       | Hallu. | A natural hallucinogen fungi used recreationally in some areas of Alaturmen. (Use: DC15 save, gain 30ft Truesight for 10 minutes if success, or -4 WIS mod if fail.)                                                    |            |
+| Lephora Essence | Hallu. | A high-end liquid hallucinogen. Rarely exported outside the Deserts of Tetrimoc and used in theological rituals. (Use: DC 21 save, +3 spellcasting ability mod for 1 minute if success, or Poisoned and Dazed if fail.) |            |
+| Bulbkiss        | Hallu. | A high-end powder hallucinogen. Mildly addictive, and overdose is uncommon. (Use: DC21 save, +2 to INT/WIS/CHA mods for 1 minute if success, or Poisoned and Charmed for 1 minute if fail.)                             |            |
+| Nova            | Stimu. | A mid-end powder stimulant. Addiction is common, and overdose is deadly. (Use: DC 17 save, +5ft speed, +1AC, +1 to hit on Ranged Attacks for 1 minute if success, or Poisoned and Paralyzed if fail.)                   |            |
+| Dareanamon      | Eupho. | A high-end crystal euphoriant. Sometimes sold as a more expensive syrup. Mildly addictive, and overdoses are common. (Use: DC21, +2 to STR/DEX mods for 1 minute if success, or Poisoned and Paralyzed if fail.)        |            |
+| Oldshine        | Depre. | A low-end liquid depressant used recreationally across Alaturmen. (Use: DC17 save, +1 STR mod, +1 DR if success, or Poisoned if fail.)                                                                                  |            |
+| Good Liquor     | Depre. | A mid-end liquid depressant used recreationally across Alaturmen. (Use: DC21 save, +3 STR mod, +1 DR if success, or Poisoned if fail.)                                                                                  |            |
 
 #### TROPHIES
 | Name                | Type  | Desc.                                                       | Cost in AC |
@@ -288,13 +288,13 @@ To generate the contents of a given "random" PDA, roll 1d8 the following table a
 | Crotosine Vepian |      |       |            |
 
 #### HEALING
-| Name                  | Type       | Desc.                                                                                                                              | Cost in AC |
-| --------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| Heamox Balm           | Semi-Solid | A thick balm used in the treatment of minor to major wounds, such as cuts, infections or punctures. (2d6hp / 8 rounds + 1 Hit Die) |            |
-| Isiopara              | Solid      | A powerful powder that has multiple effects, depending on the manner of it’s consumption. (10 + 3d4hp / 3 rounds)                  |            |
-| Pretokarin            | Liquid     |                                                                                                                                    |            |
-| Secreclude Propaterol | Solid      | Typically dispensed by injection, Secreclude Propaterol quickly regenerates even the most severe wounds. (+25hp / 3 rounds)        |            |
-| Medical Kit           | Solid      | A collection of bandages, antiseptics, and gauze, packed neatly into a swift bag. 10 Charges, Action; -1 Charge, roll HitDie+CON   |            |
+| Name                  | Type       | Desc.                                                                                                                                          | Cost in AC |
+| --------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Heamox Balm           | Semi-Solid | A thick balm used in the treatment of minor to major wounds, such as cuts, infections or punctures. (Use: Regain 2d6hp / 5 rounds + 1 Hit Die) |            |
+| Isiopara              | Solid      | A powerful powder that has multiple effects, depending on the manner of it’s consumption. (Use: Regain 10 + 3d4hp / 3 rounds)                  |            |
+| Pretokarin            | Liquid     | A bitter liquid used to induce vomiting in the treatment of digestive ailments (Use: Resolve Poisoned condition)                               |            |
+| Secreclude Propaterol | Liquid     | Typically dispensed by injection, Secreclude Propaterol quickly regenerates even the most severe wounds. (Use: Regain 25hp / 3 rounds)         |            |
+| Medical Kit           | Solid      | A collection of bandages, antiseptics, and gauze, packed neatly into a swift bag. (10 Charges, Use: -1 Charge, roll HitDie, regain HD+CON hp)  |            |
 
 
 #### RADIATION
