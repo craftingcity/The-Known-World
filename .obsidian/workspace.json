@@ -16,18 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Zari Franx",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Junie's Characters/Zari Franx.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Zari Franx\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":96},\"to\":{\"line\":34,\"ch\":96}},\"scroll\":19.049873903727725}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Zari Franx.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Zari Franx"
+              "title": "The Gear..."
             }
           }
         ]
@@ -284,8 +290,8 @@
   },
   "active": "77dbe9525cba913b",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Junie's Characters/Zari Franx.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/NPCs/List of Names.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md",
