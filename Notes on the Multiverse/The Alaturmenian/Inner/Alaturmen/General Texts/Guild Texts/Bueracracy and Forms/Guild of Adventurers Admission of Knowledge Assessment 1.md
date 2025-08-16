@@ -52,7 +52,7 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 
 10. Name or describe a major commodity exported by a member-faction of the Democratic Combine of Peoples (1 point)? 
 
-## Important People
+## Important Names
 11. Who among the following four powerful women do not claim the title of 'The Red Mistress'?
 	A. Alergra Barrowinch
 	B. Agrandica Alamore
