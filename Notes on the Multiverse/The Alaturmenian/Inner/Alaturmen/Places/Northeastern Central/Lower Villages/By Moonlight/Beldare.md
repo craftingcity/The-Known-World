@@ -2,10 +2,10 @@
 tags: holding,
 aliases:
 ---
-# Name
+# Beldare
 #### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+## Holding of [[Noble House a'LeQuinn]]
+### Located in [[Arthur's Prairie]], X:Y
 ## Description
 ### Quote
 

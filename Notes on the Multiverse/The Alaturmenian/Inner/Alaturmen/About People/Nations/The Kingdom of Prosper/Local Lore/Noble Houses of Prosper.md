@@ -3,10 +3,11 @@ tags: groups, needs_work
 aliases:
 ---
 
-Each of the Noble Houses has a purpose in the function of the Kingdom, or so says [[Arthur Simonson]]. Not only do they take care of lands, they also do business with the [[Simonson Clan]] as an entity; for example, [[Noble House a'Fen]] is on Simonson payroll to maintain and build new roads to a certain standard of quality. 
+Each of the Noble Houses has a purpose in the function of the Kingdom, or so says [[Arthur Simonson]]. Each house has a job in the kingdom, a holding they control, and a seal or crest - some sort of image that represents them.
 
-Each house has a job in the kingdom, a holding they control, and a seal or crest - some sort of image that represents them.
-# The Great Houses
+Not only do the Houses take care of their lands, they also do business with the [[Simonson Clan]] as an entity; for example, [[Noble House a'Fen]] is on Simonson payroll to maintain and build new roads to a certain standard of quality. This lends legitimacy to the [[Simonson Clan]] in dealing with other [[Blood Clans]], and presents no functional issue to the Kingdom's operations regardless of them.
+
+# The Major Houses of Prosper
 ## [[Noble House a'Fen]]
 It is the task of the a'Fen House to maintain the roadways of the kingdom. They hold [[Janesland]] and its surroundings. Their crest is a picked hammer slamming into broken ground, hammer head first.
 

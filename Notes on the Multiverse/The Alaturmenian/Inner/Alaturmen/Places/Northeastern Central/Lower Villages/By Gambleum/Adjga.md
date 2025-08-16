@@ -2,10 +2,10 @@
 tags: holding,
 aliases:
 ---
-# Name
+# Adjga
 #### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+## Holding of [[Noble House a'Nyrk]]
+### Located in [[Arthur's Prairie]], X:Y
 ## Description
 ### Quote
 
