@@ -34,14 +34,18 @@ I haven't been back to see any of my siblings, or anyone from my unit. I didn't 
 |     |              |       |     |
 | --- | ------------ | ----- | --- |
 | STR | 16 (+3) +1sv | PROF  | +2  |
-| DEX | 14 (+2) +1sv | AC    |     |
+| DEX | 14 (+2) +1sv | AC    | 16  |
 | CON | 20 (+5)      | M. HP | 33  |
 | INT | 7  (-2)      | C. HP | 33  |
 | WIS | 9  (-1) ^    | SPD   | 30  |
 | CHA | 16 (+3) ^    |       |     |
 
+- Eldritch Blast (120'); +5 vs AC, 1d10+3 force
+- Pact: Halberd (M, 15'); +6 vs AC, 1d10+4 slashing
+
 #### Proficiency
 
+Athletics (STR)
 History (INT)
 Insight (WIS)
 Deception (CHA)
@@ -78,14 +82,22 @@ Intimidation (CHA)
 
 ###### Eldritch Invocations
 - *Agonizing Blast*. You add your CHA to the damage dealt by Eldritch Blast.
-- *Improved Pack Weapon* Your Pact Weapon is a Spellcasting Focus for you, and is a +1 Weapon.
+- *Improved Pack Weapon*. Your Pact Weapon is a Spellcasting Focus for you, and is a +1 Weapon.
 
 ###### Pact of the Blade
 - Your weapon is magic, and you can summon and dismiss it when its cool.
 
 #### Equipment
-(0gp, 15sp)
+(0gp, 25sp)
+
 ##### Packed
-- dungeoneer's 
+- Crowbar
+- Small Hammer
+- Carved Bone Dice
+- 10x Torches
+- 10x Rations
+- 1/1L Waterskin
+
 ##### Equipped
-- 
+- Scale Mail
+- (Pact Weapon: Halberd)
