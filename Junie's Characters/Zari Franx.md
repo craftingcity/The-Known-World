@@ -31,6 +31,7 @@ I haven't been back to see any of my siblings, or anyone from my unit. I didn't 
 ## Important Knowledge
 
 ## Stats
+
 |     |              |       |     |
 | --- | ------------ | ----- | --- |
 | STR | 16 (+3) +1sv | PROF  | +2  |
@@ -72,7 +73,7 @@ Intimidation (CHA)
 ###### Hex Warrior
 - When you attack with a Pact Weapon, you may use your CHA for attack and damage rolls.
 
-###### Pact Magic (2/2) +5, DC 13
+###### Pact Magic (1/2) +5, DC 13
 
 | C                | 1              | 2           |
 | ---------------- | -------------- | ----------- |
