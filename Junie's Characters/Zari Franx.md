@@ -5,7 +5,7 @@ aliases:
 # Zari Franx
 ## Goblin of Prosper
 ## Volunteer Militant, MIA
-## Warlock (X)
+## Warlock (3)
 ### she/her
 
 > A large goblin woman with more than a dozen scars across her body, her arms reach below her knees. She is clearly strong, but she is dirty, and obviously hasn't cared for her things in some time. More than anything, she looks distant - like she thinks she shouldn't be here. 
@@ -30,14 +30,27 @@ I haven't been back to see any of my siblings, or anyone from my unit. I didn't 
 
 ## Important Knowledge
 
-
 ## Stats
-|     |     |       |     |
-| --- | --- | ----- | --- |
-| STR |     | PROF  | + x |
-| DEX |     | AC    |     |
-| CON |     | M. HP |     |
-| INT |     | C. HP |     |
-| WIS |     | SPD   |     |
-| CHA |     |       |     |
+|     |              |       |     |
+| --- | ------------ | ----- | --- |
+| STR | 16 (+3) +1sv | PROF  | + x |
+| DEX | 14 (+2) +1sv | AC    |     |
+| CON | 20 (+5)      | M. HP |     |
+| INT | 7  (-2)      | C. HP |     |
+| WIS | 9  (-1) ^    | SPD   | 30  |
+| CHA | 16 (+3) ^    |       |     |
 
+#### Proficiency
+
+History (INT)
+Insight (WIS)
+
+#### Features
+###### Goblin Heritage
+- Zari is 5'11", and weighs roughly 225 pounds.
+- Additional 5' melee reach.
+
+###### Prosperian Culture
+- Zari knows [[Arthurian (language)]] and [[Golopak (language)]]
+- While wearing Armor, you gain +1 to your Dexterity Saving Throw
+- While wielding a Weapon, you gain +1 to your Strength Saving Throw
