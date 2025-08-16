@@ -42,7 +42,7 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. Dragon
 	D. Worm
 
-6. There are many sub-factions that make up the Combine. Please name a faction of the Combine, their Baron, and explain what you know about the faction's ideology & operations (2+ points).
+6. Please name a faction of the Combine, their Baron, and explain what you know about the faction's ideology & operations (2+ points).
 
 7. In the Deserts of Tetrimoc, the town of Kickoff is the most potent harvesting grounds for what rare and powerful material (1 point)?
 
