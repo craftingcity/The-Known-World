@@ -65,6 +65,10 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. Vannis
 	D. Moore
 
-13. The 
+13. The Council of Mages is or was a powerful force of tempered control for the surface of Alaturmen. Which of the following people are NOT members of the Council of Mages
+	A. Alergra Barrowinch
+	B. Nicolas Talaveem
+	C. Qiell Tilemundon
+	D. Jorrin Bearscarred
 
 ## Mechanics Mastery
