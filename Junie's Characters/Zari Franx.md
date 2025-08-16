@@ -88,7 +88,7 @@ Intimidation (CHA)
 - Your weapon is magic, and you can summon and dismiss it when its cool.
 
 #### Equipment
-(0gp, 25sp)
+(0gp, 24sp, 3cp)
 
 ##### Packed
 - Crowbar
