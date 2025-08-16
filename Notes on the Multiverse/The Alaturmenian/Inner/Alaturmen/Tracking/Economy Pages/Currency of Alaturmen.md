@@ -82,16 +82,16 @@ aliases:
 | Turkey (dressed-carcass)                 | 2.0-4.0         |                         |
 | Raccoon (dressed-carcass)                | 0.8-1.8         |                         |
 | ---                                      | ---             | ---                     |
-| Tobacco (1lb)                            | 1.2             | stimulant / inhalant    |
-| Cannabis (1lb)                           | 3.6             | euphoriant / inhalant   |
-| Smokebulb (1lb)                          | 10.0            | hallucinogen / edible   |
-| Bulbkiss (1lb, powder)                   | 18.0            | hallucinogen / inhalant |
-| Lephora Fruit (1lb)                      | 13.2            | hallucinogen / edible   |
-| Lephora Essance (1 gal)                  | 225.0           | hallucinogen / inhalant |
-| Dareanamon (1lb, crystal)                | 22.0            | euphoriant / inhalant   |
-| Dareanamon (1lb, syrup)                  | 28.0            | euphoriant / inhalant   |
-| Isiopara (1lb, powder)                   | 63.0            | stimulant / inhalant    |
-| Nova (1lb, powder)                       | 12.0            | stimulant / inhalant    |
+| Tobacco (1oz)                            | 1.2             | stimulant / inhalant    |
+| Cannabis (1oz)                           | 3.6             | euphoriant / inhalant   |
+| Smokebulb (1oz)                          | 10.0            | hallucinogen / edible   |
+| Bulbkiss (1oz, powder)                   | 18.0            | hallucinogen / inhalant |
+| Lephora Fruit (1oz)                      | 13.2            | hallucinogen / edible   |
+| Lephora Essance (1 pint)                 | 225.0           | hallucinogen / inhalant |
+| Dareanamon (1oz, crystal)                | 22.0            | euphoriant / inhalant   |
+| Dareanamon (1oz, syrup)                  | 28.0            | euphoriant / inhalant   |
+| Isiopara (1oz, powder)                   | 63.0            | stimulant / inhalant    |
+| Nova (1oz, powder)                       | 12.0            | stimulant / inhalant    |
 | ---                                      | ---             | ---                     |
 | Hemp fabric (1 sq. yard, soft)           | 2.6             |                         |
 | Hemp fabric (1 sq. yard, strong)         | 3.2             |                         |

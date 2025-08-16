@@ -148,17 +148,17 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Commodities
 #### DRUGS / ALCH
-| Name            | Type   | Desc. | Cost in AC |
-| --------------- | ------ | ----- | ---------- |
-| Cannabis        | Eupho. |       |            |
-| Tabacco         | Stimu. |       |            |
-| Smokebulb       | Hallu. |       |            |
-| Lephora Essence | Hallu. |       |            |
-| Bulbkiss        | Hallu. |       |            |
-| Nova            | Stimu. |       |            |
-| Dareanamon      | Eupho. |       |            |
-| Oldshine        | Depre. |       |            |
-| Good Liquor     | Depre. |       |            |
+| Name            | Type   | Desc.                                                                                                                                                                                                | Cost in AC |
+| --------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Cannabis        | Eupho. | A natural euphoric leaf used recreationally across Alaturmen.                                                                                                                                     |            |
+| Tabacco         | Stimu. | A natural stimulant leaf used recreationally across Alaturmen.                                                                                                                                      |            |
+| Smokebulb       | Hallu. |                                                                                                                                                                                                      |            |
+| Lephora Essence | Hallu. |                                                                                                                                                                                                      |            |
+| Bulbkiss        | Hallu. | A high-end powder hallucinogen inhalant. Mildly addictive, and overdose is uncommon. (Use: DC21 save, +2 to INT/WIS/CHA mods for 1 minute if success, or Poisoned and Charmed for 1 minute if fail.) |            |
+| Nova            | Stimu. | A mid-end powder stimulant inhalant. Addiction is common, and overdose is deadly. (Use: DC 17 save, +5ft speed, +1AC, +1 to hit on Ranged Attacks for 1 minute if success, or Poisoned and Paralyzed if fail)                                                                                                                                                                                                     |            |
+| Dareanamon      | Eupho. | A high-end crystal euphoriant. Sometimes sold as a more expensive syrup. Mildly addictive, and overdoses are common.                                                                                                                                                                                                     |            |
+| Oldshine        | Depre. |                                                                                                                                                                                                      |            |
+| Good Liquor     | Depre. |                                                                                                                                                                                                      |            |
 
 #### TROPHIES
 | Name                | Type  | Desc.                                                       | Cost in AC |
@@ -294,7 +294,7 @@ To generate the contents of a given "random" PDA, roll 1d8 the following table a
 | Isiopara              | Solid      | A powerful powder that has multiple effects, depending on the manner of it’s consumption. (10 + 3d4hp / 3 rounds)                  |            |
 | Pretokarin            | Liquid     |                                                                                                                                    |            |
 | Secreclude Propaterol | Solid      | Typically dispensed by injection, Secreclude Propaterol quickly regenerates even the most severe wounds. (+25hp / 3 rounds)        |            |
-| Medical Kit           | Solid      | A collection of bandages, antiseptics, and gauze, packed neatly into a swift bag. 10 Charges, Action; -1 Charge, roll HitDie+CON                                                                                                                                   |            |
+| Medical Kit           | Solid      | A collection of bandages, antiseptics, and gauze, packed neatly into a swift bag. 10 Charges, Action; -1 Charge, roll HitDie+CON   |            |
 
 
 #### RADIATION
