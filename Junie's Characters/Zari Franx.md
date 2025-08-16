@@ -38,7 +38,7 @@ I haven't been back to see any of my siblings, or anyone from my unit. I didn't 
 | CON | 20 (+5)      | M. HP | 33  |
 | INT | 7  (-2)      | C. HP | 33  |
 | WIS | 9  (-1) ^    | SPD   | 30  |
-| CHA | 16 (+3) ^    |       |     |
+| CHA | 16 (+3) ^    | HD    | 3d8 |
 
 - Eldritch Blast (120'); +5 vs AC, 1d10+3 force
 - Pact: Halberd (M, 15'); +6 vs AC, 1d10+4 slashing
@@ -72,7 +72,7 @@ Intimidation (CHA)
 ###### Hex Warrior
 - When you attack with a Pact Weapon, you may use your CHA for attack and damage rolls.
 
-###### Pact Magic (1/1) +5, DC 13
+###### Pact Magic (2/2) +5, DC 13
 
 | C                | 1              |
 | ---------------- | -------------- |
