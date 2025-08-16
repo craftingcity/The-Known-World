@@ -46,7 +46,7 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 
 7. In the Deserts of Tetrimoc, the town of Kickoff is the most potent harvesting grounds for what rare and powerful material (1 point)?
 
-8. Coalition City is sectioned into eight wards, each of which serves a specific purpose within the city. What is the name of the ninth ward, which serves as overflow from the other wards and the central pathway through the city (1 point)?
+8. Coalition City is sectioned into eight wards, each of which serves a specific purpose within the city. What is the name of the ninth ward that serves as overflow from the other wards, and as the central pathway through the city (1 point)?
 
 9. The Kingdom of Prosper is an empire with a brutal history of war. What do the people call the first war the Kingdom waged (1 point)?
 
@@ -58,5 +58,13 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	B. Agrandica Alamore
 	C. Benkaei Avory
 	D. Ginger Ak-kizi
+
+12. The Bandit Lords were largely destroyed before the Coalition came to be. Which of the following Bandit Lord clans is still active?
+	A. Arstovich
+	B. Hollyanne
+	C. Vannis
+	D. Moore
+
+13. 
 
 ## Mechanics Mastery

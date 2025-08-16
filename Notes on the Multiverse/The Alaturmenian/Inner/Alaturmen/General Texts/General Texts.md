@@ -6,6 +6,7 @@ aliases:
 # Texts
 %% Begin Waypoint %%
 - **Faith-based Texts**
+	- [[Tetrimoc's Journal (Propaganda)]]
 	- [[Wargods without War]]
 - **Guild Texts**
 	- **Bueracracy and Forms**
@@ -24,7 +25,7 @@ aliases:
 		- [[On the Hum Arcani; Independent Position]]
 		- [[On The Text of Tetrimoc; Guild Position]]
 		- [[Politics of Coalition c. 078AF - 092AF]]
-	- [[Summer Communicae, 105AF]]
+	- [[Summer Communicae, c. 105AF]]
 - **Major World Texts**
 	- [[An Account of Our Fallen]]
 	- [[Arthur's Journal]]
@@ -34,6 +35,5 @@ aliases:
 	- [[The Chronicles of the Denevilles]]
 	- [[The Code of Thieves]]
 	- [[The Texts Druidic]]
-- [[Tetrimoc's Journal (Propaganda)]]
 
 %% End Waypoint %%
