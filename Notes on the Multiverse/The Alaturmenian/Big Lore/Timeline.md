@@ -166,13 +166,13 @@ content:
 
 [[The Grey Ordeal]] unite the nations for peace and cooperation given limited resources available. A city is created in the center of the nations under the (perhaps unimaginitive) name [[Coalition City]]. [[The Guilds]] are formed to monitor and control certain aspects of this grand civilization. 
 
-The southern states born of rebelion gather together as [[The Democratic Combine of Peoples]] and form a "kind" structure for both working together and against one another.
+The south-eastern states born of rebelion gather together as [[The Democratic Combine of Peoples]] and form a "honest" structure for both working together and against one another.
 
 date: 084AF
 title: A prophecy is made.
 content:
 
-Across Alaturmen, the Emotional Gods bestow power to and create connections with a select few children across the world in a deal with the Second Fate. In exchange for their investments, the Fate began to Weave a prohecy into time; the Gods of Alaturmen will rise and fall - to heights it's peoples can not only touch and imagine - while the deeds of a God may go unpunished - no soul is not rewarded in time.
+Across Alaturmen, the Emotional Gods bestow power to and create connections with a select few children across the world in a deal with the Second Fate. In exchange for their investments, the Fate began to Weave a prohecy into time; the Gods of Alaturmen will rise and fall - to heights it's peoples can not only touch and imagine - while the deeds of a God may go unpunished - no deal is without cost.
 
 date: 089AF
 title: The [[First Invasion of Orcus]] fails.
