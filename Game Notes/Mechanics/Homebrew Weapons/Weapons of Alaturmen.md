@@ -282,9 +282,10 @@ Boltshot Firepowder Blasters are single-shot, manual loading, bolt-action, firep
 Boltshot Firepowder Blasters deal 1d10 piercing damage.
 Boltshot Firepowder Blasters are *two-handed*, *ammunition (1)*, and *ranged (120/600)*. Once per rest, you may use this weapon's special ability;
 
-| Name / Classification | Range | Damage | Original Producer | Note |
-| --------------------- | ----- | ------ | ----------------- | ---- |
-| MDWD-                      |       |        |                   |      |
+| Name / Classification | Range | Damage | Original Producer                              | Note |
+| --------------------- | ----- | ------ | ---------------------------------------------- | ---- |
+| Hunter's Claw '44     |       |        | Mountainhall Department of Warfare and Defense |      |
+|                       |       |        |                                                |      |
 
 #### Boltshot Firepowder Scatterblaster
 Boltshot Firepowder Scatterblasters are single-shot, manual loading, bolt-action, firepower scatterguns. The ammunition used is a collection of tiny metal balls stored in a thin metallic casing.
