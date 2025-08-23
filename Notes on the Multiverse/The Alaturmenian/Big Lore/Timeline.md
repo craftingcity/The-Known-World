@@ -160,11 +160,13 @@ content:
 
 [[Arthur Simonson|The Great Adventurer King]] argues well for his new [[The Kingdom of Prosper|Kingdom]]'s legitimacy, and a tense peace settles through the northwest after the guerilla-style wars in the area.
 
+In the south-west, a miner discovers a large deposit of glowing white crystal below Kickoff.
+
 date: 078AF
 title: The Coalition and the Democratic Combine of Peoples are Formed.
 content:
 
-[[The Grey Ordeal]] unite the nations for peace and cooperation given limited resources available. A city is created in the center of the nations under the (perhaps unimaginitive) name [[Coalition City]]. [[The Guilds]] are formed to monitor and control certain aspects of this grand civilization. 
+[[The Grey Ordeal]] unite the world's nations for peace and cooperation given the limited resources available. A city is created in the center of the nations under the (perhaps unimaginitive) name [[Coalition City]]. [[The Guilds]] are formed to monitor and control certain aspects of this grand civilization. 
 
 The south-eastern states born of rebelion gather together as [[The Democratic Combine of Peoples]] and form a "honest" structure for both working together and against one another.
 
