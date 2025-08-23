@@ -2,9 +2,9 @@
 tags: npc
 aliases:
 ---
-# Sakharov Yosimmite
-## High Ecologist of the Golden City
-### he/they
+# Blackrock Yosimmite
+## The Father of the Firearm
+### they/them
 
 > Boxtext for an action, outfit, and a physical trait.
 
