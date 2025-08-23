@@ -26,12 +26,11 @@ The King Suremantle stands at the head of the Council of Nobles, the predominant
 ##### House Tazatly
 
 ##### Department of Warfare and Defense
+Mountainhall's Department of Warfare and Defense
 ##### Department of Commerce
 ##### Department of Education
 ##### Department of Foreign Relations
 ##### Mountain Trooper Corps
-
-
 
 ## Culture
 #### Heritage

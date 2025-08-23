@@ -277,14 +277,14 @@ Durandurm Handblasters are *ammunition (10)* and *ranged (45/120)*. Once per res
 
 ### Firepowder Operated
 #### Boltshot Firepowder Blaster
-Boltshot Firepowder Blasters are single-shot, manual loading, bolt-action, firepowder rifles. Originally made of stone and bronze, most manufactures have matured into a full-metal construction.
+Boltshot Firepowder Blasters are single-shot, manual loading, bolt-action, firepowder rifles. Originally made of stone and bronze, decent manufactures have matured into a full-metal construction.
 
 Boltshot Firepowder Blasters deal 1d10 piercing damage.
 Boltshot Firepowder Blasters are *two-handed*, *ammunition (1)*, and *ranged (120/600)*. Once per rest, you may use this weapon's special ability;
 
 | Name / Classification | Range | Damage | Original Producer | Note |
 | --------------------- | ----- | ------ | ----------------- | ---- |
-|                       |       |        |                   |      |
+| MDWD-                      |       |        |                   |      |
 
 #### Boltshot Firepowder Scatterblaster
 Boltshot Firepowder Scatterblasters are single-shot, manual loading, bolt-action, firepower scatterguns. The ammunition used is a collection of tiny metal balls stored in a thin metallic casing.
