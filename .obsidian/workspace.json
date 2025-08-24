@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "079ee51142e6c285",
+        "id": "c241b6e81731aa42",
         "type": "tabs",
         "children": [
           {
-            "id": "aae37fe903bc5751",
+            "id": "8f3711e2f241f603",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,16 +22,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Zari Franx.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Zari Franx"
+              "title": "Weapons of Alaturmen"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "3ddae9f6da191554",
+        "type": "tabs",
+        "children": [
           {
-            "id": "7885c82281f5cb58",
+            "id": "cfd5a1a38de2fa56",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -45,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Alchemy Processes & Products"
+              "title": "Custom Weapon Mechanics"
             }
           }
         ]
@@ -306,14 +312,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aae37fe903bc5751",
+  "active": "8f3711e2f241f603",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Junie's Characters/Zari Franx.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Arms Companies and their Supply Regions.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Kickoff.md",
     "Game Notes/NPCs/List of Names.md",

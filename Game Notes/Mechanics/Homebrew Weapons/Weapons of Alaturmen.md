@@ -376,6 +376,11 @@ Durandurm Carbines are *two-handed*, *ammunition (10)*, and *ranged (90/360)*. O
 | --------------------- | ----- | ------ | ----------------- | ---- |
 |                       |       |        |                   |      |
 #### Durandurm Rotary Repeater
+Durandurm Rotary Repeaters are large elemental firearm platforms designed for use as a stable emplacement. The Rotary Repeater platforms are typically too heavy and inefficient to be used in a mobile conflict.
+
+Durandurm Rotary Repeaters deal 1d8 typed damage.
+Durandurm Rotary Repeaters are *heavy*, *two-handed*, *rotary*, *ammunition (10)*, and *ranged (60/180)*
+
 | Name / Classification | Range | Damage | Original Producer | Note |
 | --------------------- | ----- | ------ | ----------------- | ---- |
 |                       |       |        |                   |      |
