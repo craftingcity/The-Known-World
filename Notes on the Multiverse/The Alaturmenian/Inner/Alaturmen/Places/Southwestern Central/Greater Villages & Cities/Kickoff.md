@@ -3,15 +3,14 @@ tags:
   - holding
 aliases:
 ---
-# Name
-#### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+# Kickoff
+#### The Durandurm Capital of the World
+## Holding of [[Golden Claws]]
+### Located in [[The Deserts of Tetrimoc]], X:Y
 ## Description
 ### "Quote"
 
-
-Kickoff's main industry is mining and exporting Durandurm crystal, a powerful magical component; beautiful milky-white crystal that is used in the focusing of raw elemental magic. 
+Kickoff's main industry is mining and exporting Durandurm crystal, a powerful magical component; beautiful milky-white crystal that is used in the focusing of raw elemental magic. Since it's discovery in the early 70s, Durandurm has been used in the creation of many industrial and alchemical tools and processes that have bettered the living conditions of some portions of the world, and has been growing in popularity and demand internationally for the integral part it plays in the modern Durandurm firearm.
 
 ### General Public Disposition
 
