@@ -12,6 +12,8 @@ aliases:
 
 Kickoff's main industry is mining and exporting Durandurm crystal, a powerful magical component; beautiful milky-white crystal that is used in the focusing of raw elemental magic. Since it's discovery in the early 70s, Durandurm has been used in the creation of many industrial and alchemical tools and processes that have bettered the living conditions of some portions of the world, and has been growing in popularity and demand internationally for the integral part it plays in the modern Durandurm firearm.
 
+Kickoff has been under the control of the [[Golden Claws]] since the [[Dwarven Kingdom Suremantle]] abandoned the desert area in the late 50s, but independent or illicit operations have always existed in the city, and since the Era of Warefare (c, 100AF), these competitive exporters have increased in ruthlessness and presence.
+
 ### General Public Disposition
 
 ### Background
