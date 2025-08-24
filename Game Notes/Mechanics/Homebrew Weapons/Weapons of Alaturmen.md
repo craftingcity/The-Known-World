@@ -474,11 +474,15 @@ Firepowder Shot are created in standard size-forms for a given make or model of 
 
 ## Common Weave Patches
 ### Uniform Weapon Patches
-### Melee Weapon Patches
+#### Leeching (I - V)
+The weapon feeds on the blood of your enemies, and emboldens you to continue it's feeding.
+
+When you reduce a creature to 0 Hit Points using this weapon, you gain a number of Temporary Hit Points equal to your Proficiency Modifier plus the Patch's Power.
+
 #### Balanced (I - V)
 The weapon is magically balanced, providing additional accuracy and power to every attack made.
 
-When you make an Attack Roll or a Damage Roll with this weapon, add a number equal to the Patch Power to the Roll. 
-
+When you make an Attack Roll or a Damage Roll with this weapon, add a number to the roll equal to the Patch's Power. 
+### Melee Weapon Patches
 ### Ranged Weapon Patches
 ### Implement Patches
