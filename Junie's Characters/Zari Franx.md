@@ -36,7 +36,9 @@ We travelled with a pair of guys (Raz and Ed) before we got jumped by some gobli
 
 #### Session 2: The 
 
-Our attackers all have a matching tattooed goblin head symbol.
+Our attackers all have a matching tattooed goblin head symbol. We continue to travel, and as we reach Magius, night falls upon us. We head through the outer town, it's a little worse for wear, and some protesters are talking about Druid Cabals and Goblin Heritage Lands. We're let into the walls by a satyr professor in purple silk robe. A Professor Sunshield.
+
+Adriana's Stall, mention Raz, get a nice deal.
 
 ## Stats
 
@@ -81,7 +83,7 @@ Intimidation (CHA)
 ###### Hex Warrior
 - When you attack with a Pact Weapon, you may use your CHA for attack and damage rolls.
 
-###### Pact Magic (1/2) +5, DC 13
+###### Pact Magic (2/2) +5, DC 13
 
 | C                | 1              | 2           |
 | ---------------- | -------------- | ----------- |
@@ -97,7 +99,7 @@ Intimidation (CHA)
 - Your weapon is magic, and you can summon or dismiss it when its cool (as a Free Action).
 
 #### Equipment
-(0gp, 24sp, 3cp)
+(0gp, 249sp, 3cp)
 
 ##### Packed
 - Crowbar
