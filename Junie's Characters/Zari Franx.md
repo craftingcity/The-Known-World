@@ -76,9 +76,9 @@ Intimidation (CHA)
 
 ###### Hexblade's Curse (BA, 1/1)
 - Target creature within 30ft is cursed for 1 minute, until they are incapacitated or dead.
-- You deal additional damage to the cursed creature equal to your Proficiency Modifier
+- You deal additional damage to the cursed creature equal to your Proficiency Modifier.
 - You crit against the cursed creature on a 19 or 20.
-- When the cursed creature dies, you regain your Warlock Level + CHA in Hit Points
+- When the cursed creature dies, you regain your Warlock Level + CHA in Hit Points.
 
 ###### Hex Warrior
 - When you attack with a Pact Weapon, you may use your CHA for attack and damage rolls.
@@ -105,6 +105,7 @@ Intimidation (CHA)
 - Crowbar
 - Small Hammer
 - Carved Bone Dice
+- "Blank" Piece of Parchment (looted off Goblin Captain, [[#Session 1 The Mysterious Travelers]])
 - 10x Torches
 - 10x Rations
 - 1/1L Waterskin
