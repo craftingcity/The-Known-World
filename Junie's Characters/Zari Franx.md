@@ -10,10 +10,10 @@ aliases:
 
 > A large goblin woman with more than a dozen scars across her body, her arms reach below her knees. She is clearly strong, but she is dirty, and obviously hasn't cared for her things in some time. More than anything, she looks distant - like she thinks she shouldn't be here. 
 
-A description of their function in the world.
+Zari is a frontline fighter largely because it is what she knows more than anything. She doesn't quite have 'a deathwish', but more of a passive ideation towards the ending of her life. She isn't upset, but she has been disturbed by the magic that brought her from the brink of the world before, and won't be happy to experience it again.
 
 ## Roleplaying
-### Quote
+### "Ah, fuck. Again?"
 
 ### Mannerism & Disposition
 Zari is...
@@ -32,7 +32,7 @@ I haven't been back to see any of my siblings, or anyone from my unit. I didn't 
 
 #### Session 1: The Mysterious Travelers
 
-We travelled with a pair of guys, turns out to be the Kings Right Hand and one of the a'Huuracs!
+We travelled with a pair of guys before we got jumped by some goblins with guns, and turns out the guys were the King's Right Hand and one of the a'Huuracs!
 
 ## Stats
 
@@ -90,7 +90,7 @@ Intimidation (CHA)
 - *Improved Pack Weapon*. Your Pact Weapon is a Spellcasting Focus for you, and is a +1 Weapon.
 
 ###### Pact of the Blade
-- Your weapon is magic, and you can summon and dismiss it when its cool.
+- Your weapon is magic, and you can summon or dismiss it when its cool (as a Free Action).
 
 #### Equipment
 (0gp, 24sp, 3cp)
