@@ -34,11 +34,13 @@ I haven't been back to see any of my siblings, or anyone from my unit. I didn't 
 
 We travelled with a pair of guys (Raz and Ed) before we got jumped by some goblins with guns, and turns out the guys were the King's Right Hand (Bathazar) and one of the a'Huuracs ([[Yandee a'Huruuc]])!
 
-#### Session 2: The 
+#### Session 2: Murder in Magius
 
 Our attackers all have a matching tattooed goblin head symbol. We continue to travel, and as we reach Magius, night falls upon us. We head through the outer town, it's a little worse for wear, and some protesters are talking about Druid Cabals and Goblin Heritage Lands. We're let into the walls by a satyr professor in purple silk robe. A Professor Sunshield.
 
-Adriana's Stall, mention Raz, get a nice deal.
+Adriana's Stall, mention Raz, get a nice deal. We talked to some students and one of them knew a 'chill Madison' at Braxton's frat party about a month ago. We find a group that is heading to Braxton's place tonight and we follow them to it.
+
+#### Session 3:
 
 ## Stats
 
@@ -99,7 +101,7 @@ Intimidation (CHA)
 - Your weapon is magic, and you can summon or dismiss it when its cool (as a Free Action).
 
 #### Equipment
-(0gp, 186sp, 3cp)
+(0gp, 185sp, 3cp)
 
 ##### Packed
 - Crowbar

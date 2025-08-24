@@ -31,6 +31,29 @@
             }
           },
           {
+            "id": "f53f619d68f5a01e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Gear..."
+            }
+          },
+          {
             "id": "7885c82281f5cb58",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -53,7 +76,8 @@
               "title": "Alchemy Processes & Products"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -306,10 +330,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aae37fe903bc5751",
+  "active": "f53f619d68f5a01e",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Junie's Characters/Zari Franx.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
