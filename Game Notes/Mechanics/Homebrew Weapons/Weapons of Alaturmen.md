@@ -258,14 +258,14 @@ Hand Crossbows are *quick*, *ammunition (1)*, and *ranged (30/120)*. Once per re
 
 ### Arrows
 #### Short Bow
-Short Bows are simple curved platforms that bends with tension applied through a connecting string. 
+Short Bows are small, simple curved platforms that bend with tension applied through a connecting string. 
 
 Short Bows deal 1d6 piercing damage.
-Short Bows are *two-handed*, *ammunition (1)*, and *ranged (30/120)*. Once per rest, you may use this weapon's special ability;
+Short Bows are *two-handed, *ammunition (1)*, and *ranged (45/120)*. Once per rest, you may use this weapon's special ability;
 
 ### Durandurm Operated
 #### Durandurm Handblaster
-Durandurm Handblasters are small elemental firearms designed as a secondary weapon to the Carbine during sustained firefights.
+Durandurm Handblasters are small elemental firearm platforms designed as a secondary weapon during sustained firefights.
 
 Durandurm Handblasters deal 1d6 typed damage.
 Durandurm Handblasters are *ammunition (10)* and *ranged (45/120)*. Once per rest, you may use this weapon's special ability;
@@ -349,11 +349,20 @@ Repeating Crossbows are an alternative to the Heavy Crossbow platform that conta
 Repeating Crossbows deal 1d8 piercing damage.
 Repeating Crossbows are *heavy*, *two-handed*, *ranged (60/180)*, and *ammunition (3)*. Once per rest, you may use this weapon's special ability;
 
-
 ### Arrows
 #### Longbow
+Longbows are body-sized, simple curved platforms that bend with tension applied through a connecting string. 
+
+Longbows deal 1d8 piercing damage.
+Longbows are *two-handed*, *ranged (120/360*, *ammunition (1)*. Once per rest, you may use this weapon's special ability;
+
 ### Durandurm Operated
 #### Durandurm Longblaster
+Durandurm Longblasters are body-sized elemental firearm platforms designed for use as a primary weapon during medium-to-long range firefights. The Longblaster platforms are best used in open terrain or from an elevated position.
+
+Durandurm Longblasters deal 2d6 typed damage.
+Durandurm Longblasters are *two-handed*, *ammunition (10)*, and *ranged (*
+
 | Name / Classification | Range | Damage | Original Producer | Note |
 | --------------------- | ----- | ------ | ----------------- | ---- |
 |                       |       |        |                   |      |
