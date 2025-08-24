@@ -22,7 +22,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Name                        | Range   | Type          | Dam.                 | Ammo      | Importers | Cost in AC |
 | --------------------------- | ------- | ------------- | -------------------- | --------- | --------- | ---------- |
 | Handblaster                 | 45/120  | dunam         | 1d6+DEX              | durandurm | all       | 0.3        |
-| Longblaster                 | 120/500 | dunam         | 1d10+DEX             | durandurm | all       | 0.5        |
+| Longblaster                 | 180/500 | dunam         | 1d10+DEX             | durandurm | all       | 0.5        |
 | Scatterblaster              | 15'     | dunam         | 5d6+DEX              | durnadurm | all       | 0.6        |
 | Repeating Blaster / Carbine | 90/360  | dunam         | 3d6+DEX              | durandurm | all       | 0.75       |
 | Machine Repeater            | 45/120  | dunam         | 3x(1d6+DEX)          | durandurm | all       | 1.0        |
