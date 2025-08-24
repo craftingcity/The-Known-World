@@ -32,16 +32,20 @@ I haven't been back to see any of my siblings, or anyone from my unit. I didn't 
 
 #### Session 1: The Mysterious Travelers
 
-We travelled with a pair of guys before we got jumped by some goblins with guns, and turns out the guys were the King's Right Hand and one of the a'Huuracs!
+We travelled with a pair of guys (Raz and Ed) before we got jumped by some goblins with guns, and turns out the guys were the King's Right Hand (Bathazar) and one of the a'Huuracs ([[Yandee a'Huruuc]])!
+
+#### Session 2: The 
+
+Our attackers all have a matching tattooed goblin head symbol.
 
 ## Stats
 
 |     |              |       |     |
 | --- | ------------ | ----- | --- |
 | STR | 16 (+3) +1sv | PROF  | +2  |
-| DEX | 14 (+2) +1sv | AC    | 16  |
+| DEX | 14 (+2) +1sv | AC    | 17  |
 | CON | 20 (+5)      | M. HP | 33  |
-| INT | 7  (-2)      | C. HP | 1   |
+| INT | 7  (-2)      | C. HP | 33  |
 | WIS | 9  (-1) ^    | SPD   | 30  |
 | CHA | 16 (+3) ^    | HD    | 3d8 |
 
@@ -104,5 +108,5 @@ Intimidation (CHA)
 - 1/1L Waterskin
 
 ##### Equipped
-- Scale Mail
+- Patched Scout Armor
 - (Pact Weapon: Halberd)
