@@ -4,7 +4,7 @@ aliases:
 ---
 
 # Arms Companies
-*Arms Companies* are the alchemical and engineering conglomerates responsible for producing the weaponry needs of nations, counties, and other companies.
+*Arms Companies* are the industrial alchemical and engineering conglomerates responsible for producing the modern weaponry of nations, counties, and other private companies.
 
 ## International Companies
 ### [[Guild of Crafters]]
@@ -18,3 +18,4 @@ aliases:
 ## Southwestern Companies
 ### [[Dwarven Kingdom Suremantle#Department of Warfare and Defense]]
 ### [[Kickoff#Yosimmite Industries]]
+Credited with the introduction of the modern elemental firearms platform 
