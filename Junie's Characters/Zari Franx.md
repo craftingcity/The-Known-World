@@ -99,7 +99,7 @@ Intimidation (CHA)
 - Your weapon is magic, and you can summon or dismiss it when its cool (as a Free Action).
 
 #### Equipment
-(0gp, 249sp, 3cp)
+(0gp, 186sp, 3cp)
 
 ##### Packed
 - Crowbar
@@ -110,5 +110,6 @@ Intimidation (CHA)
 - 1/1L Waterskin
 
 ##### Equipped
+- 10x Isopara
 - Patched Scout Armor
 - (Pact Weapon: Halberd)
