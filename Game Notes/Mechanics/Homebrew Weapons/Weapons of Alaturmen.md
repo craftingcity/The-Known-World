@@ -354,7 +354,7 @@ Repeating Crossbows are *heavy*, *two-handed*, *ranged (60/180)*, and *ammunitio
 Longbows are body-length, simple curved platforms that bend with tension applied through a connecting string. 
 
 Longbows deal 1d8 piercing damage.
-Longbows are *two-handed*, *ranged (120/360*, *ammunition (1)*. Once per rest, you may use this weapon's special ability;
+Longbows are *two-handed*, *ranged (120/360)*, *ammunition (1)*. Once per rest, you may use this weapon's special ability;
 
 ### Durandurm Operated
 #### Durandurm Longblaster
@@ -376,6 +376,11 @@ Durandurm Carbines are *two-handed*, *ammunition (10)*, and *ranged (90/360)*. O
 | --------------------- | ----- | ------ | ----------------- | ---- |
 |                       |       |        |                   |      |
 #### Durandurm Rotary Repeater
+Durandurm Rotary Repeaters are large elemental firearm platforms designed for use as a stable emplacement. The Rotary Repeater platforms are typically too heavy and inefficient to be used in a mobile conflict.
+
+Durandurm Rotary Repeaters deal 1d8 typed damage.
+Durandurm Rotary Repeaters are *heavy*, *two-handed*, *rotary*, *ammunition (10)*, and *ranged (60/180)*. Once per rest, you may use this weapon's special ability;
+
 | Name / Classification | Range | Damage | Original Producer | Note |
 | --------------------- | ----- | ------ | ----------------- | ---- |
 |                       |       |        |                   |      |

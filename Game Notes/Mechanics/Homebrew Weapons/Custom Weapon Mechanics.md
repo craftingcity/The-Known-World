@@ -78,28 +78,30 @@ This weapon is so large or unwieldy that it requires a full action to prepare be
 
 If this weapon is designed to fire some type of ammunition, the number displayed in parentheses directly after this tag is the number of ammunitions able to be fired before one must take a Heavy Reload Full Action.
 
-The first item in the range column is the default range of the weapon. The second item in the range column, if it exists, is the extended range of the weapon; making such a distanced attack puts the attack roll at disadvantage.
+### Rotary
+This weapon is designed to continually fire its ammunition over sustained periods.
 
-### Special Tags
-#### Hitch
+When you make an attack with this weapon, roll three weapon attack rolls instead. For each attack roll that hits, you deal your weapon damage as normal.
+
+### Hitch
 This weapon is designed to be possibly attached to some length of rope or string. In doing so, one could create the weapon known as a *Rope Dart*, or, one could use the weapon as a piton or something else of the sort.
 
-#### Lassoing
+### Lassoing
 This weapon is designed with the sole intention of ensnaring and restraining creatures. 
 
 When you make an attack with this weapon, roll a weapon attack as normal. Your target will make a Dexterity Saving Throw versus your total Attack Roll. If they fail, they are restrained by your weapon.
 
 As an action, a creature under this effect may attempt to free themselves, and end the effect, by succeeding on a Strength Saving Throw of DC 13.
 
-#### Burning
+### Burning
 This weapon shoots some liquid or gas that quickly ignites. When you hit a target with an attack from this weapon, in addition to the normal attack damage, your target(s) make a Dexterity Saving Throw. If they fail, you apply a stack of Burning.
 
 At the beginning of a Burning creature's turn, you deal damage to them as if you had just hit them with a weapon attack. A Burning creature may spend a Full Action or all of their Movement to remove one stack of Burning.
 
-#### Mechanical
+### Mechanical
 This weapon operates using complicated mechanics, and can be prone to malfunction. When you roll a 1 on an Attack Roll, you end your Action (you cannot make any Extra Attacks).
 
-#### Grenade (X)
+### Grenade (X)
 This weapon is a grenade, designed to be readied, thrown, and then explode. When you make an Attack with a grenade, instead of making an Attack Roll, make an Athletics Check. You may throw the grenade a number of feet equal to twice the total of your Athletics Check. To avoid the explosion, creatures within the radius make a Dexterity Saving throw, the DC of which is equal to your Athletics Check.
 
 # Weapon Specials
