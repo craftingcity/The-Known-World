@@ -78,10 +78,15 @@ This weapon is so large or unwieldy that it requires a full action to prepare be
 
 If this weapon is designed to fire some type of ammunition, the number displayed in parentheses directly after this tag is the number of ammunitions able to be fired before one must take a Heavy Reload Full Action.
 
-### Rotary
-This weapon is designed to continually fire its ammunition over sustained periods.
+### Automatic
+This weapon is designed to fire its ammunition over sustained periods.
 
-When you make an attack with this weapon, roll three weapon attack rolls instead. For each attack roll that hits, you deal your weapon damage as normal.
+When you make an attack with this weapon, you spend three ammunition and roll three weapon attack rolls instead. For each attack roll that hits, you deal your weapon damage as normal.
+
+### Scatter (x)
+This weapon is designed to produce a short cone of fire.
+
+When you make an attack with this weapon, you create a cone of the indicated size. Your attack roll applies to all creatures within the cone. When you deal damage with this attack, divide the total damage by the total number of creatures within the cone.
 
 ### Hitch
 This weapon is designed to be possibly attached to some length of rope or string. In doing so, one could create the weapon known as a *Rope Dart*, or, one could use the weapon as a piton or something else of the sort.
