@@ -267,36 +267,38 @@ Short Bows are *two-handed, *ammunition (1)*, and *ranged (45/120)*. Once per re
 #### Durandurm Handblaster
 Durandurm Handblasters are small elemental firearm platforms designed as a secondary weapon during sustained firefights.
 
-Durandurm Handblasters deal 1x ammunition damage.
 Durandurm Handblasters are *mechanical*, *ammunition (10)* and *ranged (45/120)*. Once per rest, you may use this weapon's special ability;
 
-| Name / Classification | Range  | Damage   | Original Producer    | Note                                                                     |
-| --------------------- | ------ | -------- | -------------------- | ------------------------------------------------------------------------ |
-| YI-A88 'Sandstone'    | 30/90  | 2d6 ammo | Yosimmite Industries | The prototype of the YI-A90, less than 40 were ever produced.            |
-| YI-A90 'Basalt'       | 45/120 | 1d6 ammo | Yosimmite Industries | The dominant sidearm in the Durandurm arsenal before the Age of Warfare. |
+| Name / Classification | Range  | Damage  | Original Producer    | Note                                                                     |
+| --------------------- | ------ | ------- | -------------------- | ------------------------------------------------------------------------ |
+| YI-A88 'Sandstone'    | 30/90  | 2x ammo | Yosimmite Industries | The prototype of the YI-A90, less than 40 were ever produced.            |
+| YI-A90 'Basalt'       | 45/120 | 1x ammo | Yosimmite Industries | The dominant sidearm in the Durandurm arsenal before the Age of Warfare. |
 
 ### Firepowder Operated
 #### Boltshot Firepowder Handblaster
 Boltshot Firepowder Handblasters are revolving, single action, firepowder firearm platforms. The Handblaster platforms are a recent addition to the Firepowder family of firearms, being developed as a direct response to [[Yosimmite Industries]]' 'Basalt'.
 
-Boltshot Firepowder Handblasters deal 1x ammunition damage.\
-Boltshot Firepowder Handblas
+Boltshot Firepowder Handblasters are *mechanical*, *ammunition (12)*, and *ranged (60/180)*.
+
+| Name / Classification | Range | Damage | Original Producer                 | Note |
+| --------------------- | ----- | ------ | --------------------------------- | ---- |
+| Black Guard '93       |       |        | Department of Warfare and Defense |      |
+|                       |       |        |                                   |      |
 
 #### Boltshot Firepowder Longblaster
 Boltshot Firepowder Blasters are arm-length, bolt-action, firepowder firearm platforms. Originally made of stone and bronze, decent manufactures have matured into a full-metal construction.
 
-Boltshot Firepowder Blasters deal 1x ammunition damage.
 Boltshot Firepowder Blasters are *mechanical*, *two-handed*, *ammunition (1)*, and *ranged (120/600)*. Once per rest, you may use this weapon's special ability;
 
 | Name / Classification | Range | Damage | Original Producer                 | Note |
 | --------------------- | ----- | ------ | --------------------------------- | ---- |
 | Hunter's Claw '44     |       |        | Department of Warfare and Defense |      |
-|                       |       |        |                                   |      |
+| Nightlight '49        |       |        |                                   |      |
+| River Sneak '60       |       |        |                                   |      |
 
 #### Boltshot Firepowder Scatterblaster
 Boltshot Firepowder Scatterblasters are arm-length, bolt-action, firepowder firearm platforms. The ammunition used is a collection of tiny metal balls stored in a thin paper casing.
 
-Boltshot Firepowder Scatterblasters deal 5x ammunition damage.
 Boltshot Firepowder Scatterblasters are *mechanical*, *two-handed*, *ammunition (1)*, and *scatter (15')*. Once per rest, you may use this weapon's special ability;
 
 | Name / Classification | Range | Damage | Original Producer | Note |
@@ -366,25 +368,24 @@ Longbows are *two-handed*, *ranged (120/360)*, *ammunition (1)*. Once per rest, 
 #### Durandurm Longblaster
 Durandurm Longblasters are body-length elemental firearm platforms designed for use as a primary weapon during medium-to-long range firefights. The Longblaster platforms are best used in open terrain or from an elevated position.
 
-Durandurm Longblasters deal 2x ammunition typed damage.
 Durandurm Longblasters are *mechanical*, *two-handed*, *ammunition (10)*, and *ranged (180/540)*. Once per rest, you may use this weapon's special ability;
 
 | Name / Classification | Range | Damage | Original Producer | Note |
 | --------------------- | ----- | ------ | ----------------- | ---- |
 |                       |       |        |                   |      |
+
 #### Durandurm Carbine
 Durandurm Carbines are arm-length elemental firearm platforms designed for use as a primary weapon during short-to-long range firefights. The Carbine platforms are said to be the most 'well-rounded' platform of the Durandurm family.
 
-Durandurm Carbines deal 3x ammunition typed damage.
 Durandurm Carbines are *mechanical*, *two-handed*, *ammunition (10)*, and *ranged (90/360)*. Once per rest, you may use this weapon's special ability;
 
 | Name / Classification | Range | Damage | Original Producer | Note |
 | --------------------- | ----- | ------ | ----------------- | ---- |
 |                       |       |        |                   |      |
+
 #### Durandurm Rotary Repeater
 Durandurm Rotary Repeaters are large elemental firearm platforms designed for use as a stationary emplacement. The Rotary Repeater platforms are typically too heavy and inefficient to be used in a mobile conflict.
 
-Durandurm Rotary Repeaters deal 1x ammunition damage.
 Durandurm Rotary Repeaters are *mechanical*, *heavy*, *two-handed*, *automatic*, *ammunition (10)*, and *ranged (60/180)*. Once per rest, you may use this weapon's special ability;
 
 | Name / Classification | Range | Damage | Original Producer | Note |
@@ -394,7 +395,6 @@ Durandurm Rotary Repeaters are *mechanical*, *heavy*, *two-handed*, *automatic*,
 #### Durandurm Scatterblaster
 Durandurm Scatterblasters are arm-length elemental firearm platforms designed for use in close quarters firefights, such as while in a city or tunnel system. The Scatterblaster platforms are typically too short-ranged to see widespread use.
 
-Durandurm Scatterblasters deal 5x ammunition typed damage.
 Durandurm Scatterblasters are *mechanical*, *two-handed*, *ammunition (10)*, and *scatter (15')*.
 
 | Name / Classification | Range | Damage | Original Producer | Note |
@@ -404,7 +404,6 @@ Durandurm Scatterblasters are *mechanical*, *two-handed*, *ammunition (10)*, and
 #### Durandurm Cannon
 Durandurm Cannons are massive elemental ordinance platforms designed for use as a stationary emplacement against heavily armored targets. The Cannon platforms expend multiple magazines of ammunition for each massive round they fire.
 
-Durandurm Cannons deal 6x ammunition damage.
 Durandurm Cannons are *siege*, *ammunition (1)*, *ranged (360/1080)*.
 
 | Name / Classification | Range | Damage | Original Producer | Note |
@@ -471,24 +470,20 @@ Durandurm Magazines are complex ammunition storage modules that contain a number
 
 Durandurm Operated Firearms typically deal d6 elemental damage, but are a variable ammunition.
 
-| Name / Classification               | D. Type          | Original Producer    | Note |
-| ----------------------------------- | ---------------- | -------------------- | ---- |
-| Durandurm 'Fire Red' Magazine       | fire             | Yossimite Industries |      |
-| Durandurm 'Water Blue' Magazine     | cold             | Yossimite Industries |      |
-| Durandurm 'Earth Yellow' Magazine   | thunder          | Yossimite Industries |      |
-| Durandurm 'Air Clear' Magazine      | force            | Yossimite Industries |      |
-| Durandurm 'Wild Refit' Magazine     | piercing         | *unknown*            |      |
-| Durandurm 'Blessed' Magazine        | radiant          | WhiteTech            |      |
-| Durandurm 'High Explosive' Magazine | force & slashing | SEASEC               |      |
+| Name / Classification               | Damage & Type            | Original Producer    | Note |
+| ----------------------------------- | ------------------------ | -------------------- | ---- |
+| Durandurm 'Fire Red' Magazine       | 1d6 fire                 | Yossimite Industries |      |
+| Durandurm 'Water Blue' Magazine     | 1d6 cold                 | Yossimite Industries |      |
+| Durandurm 'Earth Yellow' Magazine   | 1d6 thunder              | Yossimite Industries |      |
+| Durandurm 'Air Clear' Magazine      | 1d6 force                | Yossimite Industries |      |
+| Durandurm 'Wild Refit' Magazine     | 1d6 piercing             | *unknown*            |      |
+| Durandurm 'Blessed' Magazine        | 1d6 radiant              | WhiteTech            |      |
+| Durandurm 'High Explosive' Magazine | 1d6 force + 1d4 slashing | SEASEC               |      |
 
 ### Firepowder Shot
 Firepowder Shot are individual self-contained ammunitions used in the operation of Firepowder Blasters. Shots are sometimes loaded into magazines or belts for use in more complex Firepowder weapons.
 
 Firepowder Shot are created in standard size-forms for a given make or model of Blaster.
-
-| Name / Classification | Dam. | Original Producer | Note |
-| --------------------- | ---- | ----------------- | ---- |
-| -                     | -    |                   |      |
 
 ## Specialized Weaponry
 ### Explosives
