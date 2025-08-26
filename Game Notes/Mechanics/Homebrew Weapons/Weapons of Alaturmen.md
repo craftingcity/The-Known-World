@@ -234,40 +234,40 @@ Rope Darts are *quick*, *finesse*, *long*, and *stashable*. Once per rest, you m
 #### Sling
 Slings are simple straps of leather or woven textiles that are quickly spun and released to fire stones or other small projectiles.
 
-Slings deal 1d4 bludgeoning damage.
+Slings deal 1x ammunition damage.
 Slings are *quick*, *stashable*, *ammunition (0)*, and *ranged (30/120)*. Once per rest, you may use this weapon's special ability;
 
 #### Sling Staff
 Sling Staffs are long poles used to launch sling munitions further than a simple sling can, but at the cost of time spent reloading the weapon. When necessary, the wielder can use the staff as a simple melee weapon.
 
-Sling Staffs deal 1d4 bludgeoning damage.
+Sling Staffs deal 1x ammunition damage.
 Sling Staffs are *ammunition (1)*, and *ranged (60/300)*. Once per rest, you may use this weapon's special ability;
 
 ### Bolts
 #### Light Crossbow
 Light Crossbows are stable platforms used to store tension and fire metal bolts. Light Crossbows are less heavy, but less powerful than a Heavy alternative.
 
-Light Crossbows deal 2d4 piercing damage.
+Light Crossbows deal 1x ammunition damage.
 Light Crossbows are *quick*, *two-handed*, *ammunition (1)*, and *ranged (45/180)*. Once per rest, you may use this weapon's special ability;
 
 #### Hand Crossbow
 Hand Crossbows are small, stable platforms used to store tension and fire metal bolts. Hand Crossbows are the smallest, and weakest, form of Crossbow.
 
-Hand Crossbows deal 1d6 piercing damage.
+Hand Crossbows deal 1x ammunition damage.
 Hand Crossbows are *quick*, *ammunition (1)*, and *ranged (30/120)*. Once per rest, you may use this weapon's special ability;
 
 ### Arrows
 #### Short Bow
 Short Bows are small, simple curved platforms that bend with tension applied through a connecting string. 
 
-Short Bows deal 1d6 piercing damage.
+Short Bows deal 1x ammunition damage.
 Short Bows are *two-handed, *ammunition (1)*, and *ranged (45/120)*. Once per rest, you may use this weapon's special ability;
 
 ### Durandurm Operated
 #### Durandurm Handblaster
 Durandurm Handblasters are small elemental firearm platforms designed as a secondary weapon during sustained firefights.
 
-Durandurm Handblasters deal 1d6 typed damage.
+Durandurm Handblasters deal 1x ammunition damage.
 Durandurm Handblasters are *mechanical*, *ammunition (10)* and *ranged (45/120)*. Once per rest, you may use this weapon's special ability;
 
 | Name / Classification | Range  | Damage   | Original Producer    | Note                                                                     |
@@ -277,12 +277,15 @@ Durandurm Handblasters are *mechanical*, *ammunition (10)* and *ranged (45/120)*
 
 ### Firepowder Operated
 #### Boltshot Firepowder Handblaster
+Boltshot Firepowder Handblasters are revolving, single action, firepowder firearm platforms. The Handblaster platforms are a recent addition to the Firepowder family of firearms, being developed as a direct response to [[Yosimmite Industries]]' 'Basalt'.
 
+Boltshot Firepowder Handblasters deal 1x ammunition damage.\
+Boltshot Firepowder Handblas
 
 #### Boltshot Firepowder Longblaster
-Boltshot Firepowder Blasters are single-shot, manual loading, bolt-action, firepowder rifles. Originally made of stone and bronze, decent manufactures have matured into a full-metal construction.
+Boltshot Firepowder Blasters are arm-length, bolt-action, firepowder firearm platforms. Originally made of stone and bronze, decent manufactures have matured into a full-metal construction.
 
-Boltshot Firepowder Blasters deal 1d10 piercing damage.
+Boltshot Firepowder Blasters deal 1x ammunition damage.
 Boltshot Firepowder Blasters are *mechanical*, *two-handed*, *ammunition (1)*, and *ranged (120/600)*. Once per rest, you may use this weapon's special ability;
 
 | Name / Classification | Range | Damage | Original Producer                 | Note |
@@ -291,9 +294,9 @@ Boltshot Firepowder Blasters are *mechanical*, *two-handed*, *ammunition (1)*, a
 |                       |       |        |                                   |      |
 
 #### Boltshot Firepowder Scatterblaster
-Boltshot Firepowder Scatterblasters are single-shot, manual loading, bolt-action, firepower scatterguns. The ammunition used is a collection of tiny metal balls stored in a thin metallic casing.
+Boltshot Firepowder Scatterblasters are arm-length, bolt-action, firepowder firearm platforms. The ammunition used is a collection of tiny metal balls stored in a thin paper casing.
 
-Boltshot Firepowder Scatterblasters deal 3d10 piercing damage in a 15' cone divided by the number of creatures hit.
+Boltshot Firepowder Scatterblasters deal 5x ammunition damage.
 Boltshot Firepowder Scatterblasters are *mechanical*, *two-handed*, *ammunition (1)*, and *scatter (15')*. Once per rest, you may use this weapon's special ability;
 
 | Name / Classification | Range | Damage | Original Producer | Note |
@@ -336,34 +339,34 @@ Boomerangs are *thrown (60/180)*. Once per rest, you may use this weapon's speci
 #### Pellet Crossbow
 Pellet Crossbows are an alternative to the Light Crossbow platform that fires small stones or pellets through a cylindrical barrel. The Pellet Crossbow is a significant influence to the modern class of firearms. 
 
-Pellet Crossbows deal 1d4 piercing damage.
+Pellet Crossbows deal 1x ammunition damage.
 Pellet Crossbows are *two-handed*, *ranged (30/90)*, and *ammunition (1)*. Once per rest, you may use this weapon's special ability;
 
 ### Bolts
 #### Heavy Crossbow
 Heavy Crossbows are large stable platforms using strong fiber and heavy pullies to deliver devastating force behind a bolt-head. The Heavy Crossbow is a favorite choice among guards and mercenaries alike.
 
-Heavy Crossbows deal 1d8 piercing damage.
+Heavy Crossbows deal 1x ammunition damage.
 Heavy Crossbows are *heavy*, *two-handed*, *ranged (90/270)*, and *ammunition (1)*. Once per rest, you may use this weapon's special ability;
 
 #### Repeating Crossbow
 Repeating Crossbows are an alternative to the Heavy Crossbow platform that contains a magazine of 3 bolts, allowing a small increase in fire-rate at the cost of weight and range.
 
-Repeating Crossbows deal 1d8 piercing damage.
+Repeating Crossbows deal 1x ammunition damage.
 Repeating Crossbows are *heavy*, *mechanical*, *two-handed*, *ranged (60/180)*, and *ammunition (3)*. Once per rest, you may use this weapon's special ability;
 
 ### Arrows
 #### Longbow
 Longbows are body-length, simple curved platforms that bend with tension applied through a connecting string. 
 
-Longbows deal 1d8 piercing damage.
+Longbows deal 1x ammunition damage.
 Longbows are *two-handed*, *ranged (120/360)*, *ammunition (1)*. Once per rest, you may use this weapon's special ability;
 
 ### Durandurm Operated
 #### Durandurm Longblaster
 Durandurm Longblasters are body-length elemental firearm platforms designed for use as a primary weapon during medium-to-long range firefights. The Longblaster platforms are best used in open terrain or from an elevated position.
 
-Durandurm Longblasters deal 2d6 typed damage.
+Durandurm Longblasters deal 2x ammunition typed damage.
 Durandurm Longblasters are *mechanical*, *two-handed*, *ammunition (10)*, and *ranged (180/540)*. Once per rest, you may use this weapon's special ability;
 
 | Name / Classification | Range | Damage | Original Producer | Note |
@@ -372,7 +375,7 @@ Durandurm Longblasters are *mechanical*, *two-handed*, *ammunition (10)*, and *r
 #### Durandurm Carbine
 Durandurm Carbines are arm-length elemental firearm platforms designed for use as a primary weapon during short-to-long range firefights. The Carbine platforms are said to be the most 'well-rounded' platform of the Durandurm family.
 
-Durandurm Carbines deal 3d6 typed damage.
+Durandurm Carbines deal 3x ammunition typed damage.
 Durandurm Carbines are *mechanical*, *two-handed*, *ammunition (10)*, and *ranged (90/360)*. Once per rest, you may use this weapon's special ability;
 
 | Name / Classification | Range | Damage | Original Producer | Note |
@@ -381,7 +384,7 @@ Durandurm Carbines are *mechanical*, *two-handed*, *ammunition (10)*, and *range
 #### Durandurm Rotary Repeater
 Durandurm Rotary Repeaters are large elemental firearm platforms designed for use as a stationary emplacement. The Rotary Repeater platforms are typically too heavy and inefficient to be used in a mobile conflict.
 
-Durandurm Rotary Repeaters deal 2d6 typed damage.
+Durandurm Rotary Repeaters deal 1x ammunition damage.
 Durandurm Rotary Repeaters are *mechanical*, *heavy*, *two-handed*, *automatic*, *ammunition (10)*, and *ranged (60/180)*. Once per rest, you may use this weapon's special ability;
 
 | Name / Classification | Range | Damage | Original Producer | Note |
@@ -391,7 +394,7 @@ Durandurm Rotary Repeaters are *mechanical*, *heavy*, *two-handed*, *automatic*,
 #### Durandurm Scatterblaster
 Durandurm Scatterblasters are arm-length elemental firearm platforms designed for use in close quarters firefights, such as while in a city or tunnel system. The Scatterblaster platforms are typically too short-ranged to see widespread use.
 
-Durandurm Scatterblasters deal 5d6 typed damage.
+Durandurm Scatterblasters deal 5x ammunition typed damage.
 Durandurm Scatterblasters are *mechanical*, *two-handed*, *ammunition (10)*, and *scatter (15')*.
 
 | Name / Classification | Range | Damage | Original Producer | Note |
@@ -401,7 +404,8 @@ Durandurm Scatterblasters are *mechanical*, *two-handed*, *ammunition (10)*, and
 #### Durandurm Cannon
 Durandurm Cannons are massive elemental ordinance platforms designed for use as a stationary emplacement against heavily armored targets. The Cannon platforms expend multiple magazines of ammunition for each massive round they fire.
 
-Durandurm Cannons deal 6d6 typed damage.
+Durandurm Cannons deal 6x ammunition damage.
+Durandurm Cannons are *siege*, *ammunition (1)*, *ranged (360/1080)*.
 
 | Name / Classification | Range | Damage | Original Producer | Note |
 | --------------------- | ----- | ------ | ----------------- | ---- |
