@@ -282,8 +282,8 @@ Boltshot Firepowder Handblasters are *mechanical*, *ammunition (12)*, and *range
 
 | Name / Classification | Range | Damage | Original Producer                 | Note |
 | --------------------- | ----- | ------ | --------------------------------- | ---- |
-| Black Guard '93       |       |        | Department of Warfare and Defense |      |
-|                       |       |        |                                   |      |
+| Black Guard I       |       |        | Department of Warfare and Defense |      |
+| Black Guard II                      |       |        |                                   |      |
 
 #### Boltshot Firepowder Longblaster
 Boltshot Firepowder Blasters are arm-length, bolt-action, firepowder firearm platforms. Originally made of stone and bronze, decent manufactures have matured into a full-metal construction.
@@ -292,9 +292,11 @@ Boltshot Firepowder Blasters are *mechanical*, *two-handed*, *ammunition (1)*, a
 
 | Name / Classification | Range | Damage | Original Producer                 | Note |
 | --------------------- | ----- | ------ | --------------------------------- | ---- |
-| Hunter's Claw '44     |       |        | Department of Warfare and Defense |      |
-| Nightlight '49        |       |        |                                   |      |
-| River Sneak '60       |       |        |                                   |      |
+| Hunter's Claw I       |       |        | Department of Warfare and Defense |      |
+| Nightlight I          |       |        |                                   |      |
+| Hunter's Claw II      |       |        |                                   |      |
+| Hunter's Claw III     |       |        |                                   |      |
+| Nightlight II         |       |        |                                   |      |
 
 #### Boltshot Firepowder Scatterblaster
 Boltshot Firepowder Scatterblasters are arm-length, bolt-action, firepowder firearm platforms. The ammunition used is a collection of tiny metal balls stored in a thin paper casing.
