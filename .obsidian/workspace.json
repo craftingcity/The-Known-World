@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c241b6e81731aa42",
+        "id": "96eda8196d3eeeaf",
         "type": "tabs",
         "children": [
           {
-            "id": "8f3711e2f241f603",
+            "id": "03159af7521ad412",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,136 +20,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Weapons of Alaturmen"
-            }
-          },
-          {
-            "id": "d091e44191cb19f0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Grand Notepad.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "A Grand Notepad"
-            }
-          },
-          {
-            "id": "6ab9869ea0dda586",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Combat Mechanics (dep.).md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Combat Mechanics (dep.)"
-            }
-          },
-          {
-            "id": "2721a04a01515bca",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Combat Mechanics and Positioning"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "3ddae9f6da191554",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "92d93f38bb3979e5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Weapons of Alaturmen"
-            }
-          },
-          {
-            "id": "cfd5a1a38de2fa56",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Custom Weapon Mechanics"
+              "title": "New tab"
             }
           }
         ]
@@ -404,12 +278,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2721a04a01515bca",
+  "active": "03159af7521ad412",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Combat Mechanics (dep.).md",
-    "A Grand Notepad.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "A Grand Notepad.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Combat Mechanics (dep.).md",
     "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Junie's Characters/Zari Franx.md",

@@ -1,6 +1,8 @@
 # Hotfix Edits
 #### Approved Arcana
-The following 'U'
+The following 'Unearthed Arcana' spells are approved;
+	- *Virtue (UA)*
+	- *Sudden Awakening (UA)*
 #### Polymorph
 The *polymorph* spell is 5th Level (increased from 4th).
 #### Lucky Feat
