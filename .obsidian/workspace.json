@@ -16,14 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "On the Hum Arcani; Independent Position",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Recordkeeping/On the Hum Arcani; Independent Position.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"On the Hum Arcani; Independent Position\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":71},\"to\":{\"line\":7,\"ch\":71}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Recordkeeping/On the Hum Arcani; Guild Position.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "On the Hum Arcani; Guild Position"
             }
           }
         ]
@@ -280,6 +290,7 @@
   },
   "active": "03159af7521ad412",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Recordkeeping/On the Hum Arcani; Independent Position.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "A Grand Notepad.md",
@@ -305,7 +316,6 @@
     "Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md",
     "Game Notes/Mechanics/Mechanics.md",
     "Game Notes/Game Notes.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
