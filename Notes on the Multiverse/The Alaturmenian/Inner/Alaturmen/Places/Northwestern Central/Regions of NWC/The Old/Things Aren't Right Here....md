@@ -45,7 +45,7 @@ The field of vortexes is a 15' radius circle. Within this radius, each 5' square
 
 #### Springboard (H)
 ###### Force
-> A springboard anomaly is like a blade of air - if you are lucky, and hit by the flat end, you may fly into the air, if you are not, and hit the sharp end, you will be two parts of a whole corpse.
+> A springboard anomaly is like a blade of air - if you are lucky, and hit by the flat end, you may simply be knocked about. If you are not, and you hit the sharp end, you will be two parts of a whole corpse.
 
 The springboard anomaly is a 10' diameter circle. When the springboard is activated, creatures within the circle must succeed on a DC 19 Dexterity Saving Throw, or be pushed 5' in a random direction. If they fail by 5 or more, they additionally take 4d10 slashing damage.
 

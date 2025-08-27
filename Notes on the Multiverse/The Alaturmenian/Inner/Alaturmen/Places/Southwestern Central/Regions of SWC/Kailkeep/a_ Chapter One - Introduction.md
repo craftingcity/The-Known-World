@@ -5,23 +5,23 @@ In the Time before Time, for a moment and forever, the goblins thrived in the so
 
 From the blood sprayed across this mountain rose the Kobolds of Kailkeep. Long did they wait for their Master to claim them, but he slept for too long, his injury too large. The Kobolds claimed themselves, disavowed their creator god and swore to work only for themselves. Without the direction of Tetrimoc, they became wicked and cruel.
 
-Kailkeep is a massive complex dug by a fanatical group of Kobold for two main purposes; first, the safety of themselves, and second, the torment of others. They rule this massive complex, and even stronger monsters respect them as the true keepers of Kailkeep – except one, with whom the collective of kobold work as equal: Terra, the Idol of Earth. Why Terra began to work with them, I would dare not ask, but she has become as horrible as they are.
+Kailkeep is a massive complex dug by a fanatical group of Kobold for two main purposes; first, the safety of themselves, and second, the torment of others. They rule this massive complex, and even stronger monsters respect them as the true keepers of Kailkeep – except one, with whom the collective of kobold work as equal: Terra, the Idol of Earth. Why Terra began to work with them, I would dare not ask, but she has surely become as horrible as they are.
 
 ## About rules stuff
-Above it's third level, Kailkeep presents a challenge constructed for three to five level five adventurers working together as a team with the limited information presented about the natures of Kailkeep's Hells. As they progress, they should gain experience as you see fit, but know that the mechanical challenge presented will rise in difficulty further up the floors one goes.
+Above it's third level, Kailkeep presents a challenge constructed for three to five 'level five adventurers' working together as a team with the limited information presented about the natures of Kailkeep's Hells. As they progress, they should gain experience as you see fit, but know that the mechanical challenge presented will rise in difficulty further up the floors one goes.
 
 ## Hooks
 ### Druids of Terra
-For some time, the Druids of Terra were hidden, guarding the secrets of Arcane magic. Recently, the druid's connection to Terra has been severed – for reasons they would not share, even if they knew – and many of their texts have been stolen. Perhaps the adventurers were exploring and stumbled upon the hidden druids, or were sought out for their prowess. In either case, if the Druids can trust them, they would ask for their assistance in these affairs. And even if they can't be trusted, maybe they would anyways, but be prepared to ambush these assholes right after they return with information.
+For some time, the Druids of Terra were hidden, guarding the secrets of Arcane magic. Recently, the druid's connection to Terra has been severed – for reasons they would not share, even if they knew – and many of their texts have been stolen. Perhaps the adventurers were exploring and stumbled upon the hidden druids, or were sought out for their prowess. In either case, if the Druids can trust them, they would ask for their assistance in these affairs. And even if they can't be trusted, maybe they would anyways, but be prepared to ambush these assholes if they return with information.
 
 ### Missing People
-For as long as there has been a mountain, there have been people bored enough to want to climb it. When those people travel to Kailkeep, either for fun or profit, they do not return. The explorer's husband is distraught, as is the Cartagrophers' Guild, and so too are the dwarfs failing to set up a remote operation without their Quartermaster, Explosives Expert, and Cooks.
+For as long as there has been a mountain, there have been people bored enough to want to climb it. When those people travel to Kailkeep, either for fun or profit, they do not return. The explorer's husband is distraught, as is the Cartagrophers' Guild, and so too are the dwarfs failing to set up a remote operation without their Quartermaster, Explosives Expert, or Cooks.
 
 ### God-damn Raiders!
 The inhabitants of Kailkeep are sustained by hunting as well as gathering. When people are not coming to them, they must come to people. If the Kobolds have been having a rough year, they'll either send raids themselves or order one of the factions under their command to raid for them.
 
 ### Arcane Hotspot
-In my world, Alaturmen, magic is not so common. The amount of magical items alone here would ping someone's radar, ignoring the powerful primordial force of Terra forsaking her druids and moving into a mountain. Anyone attuned to the Weave feels the heat of arcane density in the area of Kailkeep, even from afar.
+In a world where magic is not so common, the amount of magical items alone here would ping someone's radar, ignoring the powerful primordial force of Terra forsaking her druids and moving into a mountain. Anyone attuned to the Weave feels the heat of arcane density in the area of Kailkeep, even from afar.
 
 If your setting is of a higher commonality of magic, this hook becomes much simpler; go get the loot - *its magic!*
 
@@ -78,19 +78,19 @@ There are two large categories of creatures that Inhabit Kailkeep; the first are
 The Masters of Kailkeep watch from their posts, behind walls of transparent stone, changing the floors and walls in some effort to enact a sick game upon those who enter their home and lair. As each level is introduced and explored, the Kobold Gang on that level continues alongside the adventurers, becoming a more present threat as the characters continue upward.
 
 ###### Rammik's Gang
-Led by a red kobold - Rammik -, this well-equipped and well-prepared gang hails from the fourth layer, and have earned a reputation for their lack of remorse during gameplay. Rammik himself is a coward at heart, choosing to lead by impersonating a bold adventurer, but he will choose his own life over those of his team with ease.
+Led by a red kobold - Rammik - this well-equipped and well-prepared gang hails from the fourth layer, and have earned a reputation for their lack of remorse during gameplay. Rammik himself is a coward at heart, choosing to lead by impersonating a bold adventurer, but he will choose his own life over those of his team with ease.
 
 ###### Yellowback's Gang
-Led by a yellow kobold - Yellowback -, this well-equipped and well-prepared gang hails from the fifth layer, and have earned a reputation for their explosive presentation during gameplay. Yellowback spends some of his time creating alchemical agents, both for defense and offense, and he allows his most trusted associates to wield them.
+Led by a yellow kobold - Yellowback - this well-equipped and well-prepared gang hails from the fifth layer, and have earned a reputation for their explosive presentation during gameplay. Yellowback spends some of his time creating alchemical agents, both for defense and offense, and he allows his most trusted associates to wield them.
 
 ###### Kasey Bullseye's Gang
-Led by a bronze kobold - Kasey Bullseye -, this well-equipped and well-prepared gang hails from the sixth layer, and have earned a reputation for their familiarity with the sixth layer of the Hells. The gang exploits information they have collected about the layout of an area of the sixth layer - especially the scoreboard, exit game, and less destructive trap rooms - to lure those who enter "their territory" to their death.
+Led by a bronze kobold - Kasey Bullseye - this well-equipped and well-prepared gang hails from the sixth layer, and have earned a reputation for their familiarity with the sixth layer of the Hells. The gang exploits information they have collected about the layout of an area of the sixth layer - especially the scoreboard, exit game, and less destructive trap rooms - to lure those who enter "their territory" to their death.
 
 ###### Pinky's Gang
-Led by a red kobold - Pinky -, this sorcerous gang hails from the seventh layer, and have earned a reputation for their proficiency in capturing participants without physical damage to either side. Pinky has been able to teach magic to some of her followers, increasing their survivability as a team and as individual operators.
+Led by a red kobold - Pinky - this sorcerous gang hails from the seventh layer, and have earned a reputation for their proficiency in capturing participants without physical damage to either side. Pinky has been able to teach magic to some of her followers, increasing their survivability as a team and as individual operators.
 
 ###### Shuckster's Gang
-Leb by a yellow kobold - Shuckster -, this 
+Leb by a yellow kobold - Shuckster - this 
 
 
 #### Goblin Squads
@@ -127,7 +127,7 @@ hails from the seventh layer
 A pre-Alaturmen reptilian people – Gaund – are loyal to the Kobolds of Kailkeep. They reside in the Higher levels of Kailkeep in isolationist societies. Gaund have no desire to ascend, for cultural or intelligence reasons I would not know.
 
 #### Survivalists
-People with little to no training have been taken to the Hells as long as the Hells have existed. Few are capable of surviving, retaining their morality, *and* their intelligence. These are those few.
+People with little to no training have been taken to the Hells as long as the Hells have existed. Few are capable of surviving while retaining their morality, *and* their intelligence. These are those few.
 
 ###### Hasten's Group
 ###### Niurna's Group
@@ -145,10 +145,10 @@ Whores of glory who have turned from morality in favor of ease and selfishness. 
 ###### x's Gang
 
 #### Ancients of Mountainhall
-For as long as Kailkeep has been, the Dwarves of Mountainhall has fought it. Squads are sent to Kailkeep when they commit horrible crimes or under brave, foolish command. Few survive to old age, but All dwarves in Kailkeep are Ancients.
+For as long as Kailkeep has been, the Dwarves of Mountainhall have fought within it. Squads are sent to Kailkeep when they commit horrible crimes, or under brave and foolish command. Few survive to old age, but all dwarves in Kailkeep are Ancients.
 
 #### Golden Claw Guard
-Whole squads of [[Golden Claws]] of [[The Golden City]] find their way into Kailkeep when they aren't careful on patrol – a folly of incompetence, arrogance, or surprise.
+Whole squads of [[Golden Claws]] of [[The Golden City]] find their way into Kailkeep when they aren't careful on patrol – a folly of incompetence, arrogance, or genuine ignorance.
 
 #### Honorable Thieves
 Trained thieves and pirates have banded together on the bond of their shared lifestyle; and honoring [[The Code of Thieves]] as their highest law.
@@ -158,13 +158,13 @@ Trained thieves and pirates have banded together on the bond of their shared lif
 Insects abound the levels of Kailkeep, surviving on the flesh of their kills, or, when husbanded by the "stable" communities, their feed.
 
 #### Ooze
-Because of their stagnant nature, the Ooze of Kailkeep are often considered fixtures more than living beings. They are commonly husbanded in the Hells of Kailkeep as defensive or disposal measures.
+Because of their stagnant nature, the Ooze of Kailkeep are often considered fixtures more than living beings. They are commonly husbanded in the Hells of Kailkeep as defensive or janitorial measures.
 
 #### Unusual Rodents
 The density of Woven material in the area of Kailkeep has done *something* to the rodents here. Many are larger, more ferocious, and more difficult to deal with. Some create a massive amount of children and husband extremely well. Some can fucking fly. Shits crazy.
 
 #### Genoid
-A species of earth elemental came with Terra, small price to pay for her power. The Kobolds host these small rock creatures as honored guests, much as a deist would honor an Angel of their God. Those Genoid that walk the Hells are revered by Loyalists and hunted as prized kills by the other factions.
+A species of earth elemental came with Terra, and hosting them is a small price to pay for her power. The Kobolds acknowledge these small rock creatures as honored guests, much as a deist would honor an Angel of their God. Those Genoid that walk the Hells are revered by Loyalists and hunted as prized kills by the other factions.
 
 #### Mad-walkers
 Those who survive Kailkeep for too long lose their sanity. One can only take so much of this torturous place. Those who continue to survive do so as Mad-walkers, more a beast of Kailkeep than a person at this point.
@@ -176,7 +176,7 @@ Those who survive Kailkeep for too long lose their sanity. One can only take so 
 
 ## Kailkeep's Features
 #### Terra's Mountain
-The Idol of Earth, Terra (or another powerful-earth-manipulating entity who would fit), has claimed this mountain as her lair. Whether that is a choice she made herself is up to you as the game-master. On Alaturmen, Terra abandoned her Druids after learning that her sibling, Anima, had betrayed Terra's secrets to their Druids without her permission or knowledge. In a fit of rage, she sundered her Druids' grove and took much of her own teachings with her as she fled to the greatest place of refuge known on Alaturmen; Kailkeep.
+The Idol of Earth, Terra (or another powerful-earth-manipulating entity who would fit in your setting), has claimed this mountain as her lair. Whether that is a choice she made herself is up to you as the game-master. On Alaturmen, Terra abandoned her Druids after learning that her sibling, Anima, had betrayed Terra's secrets to their Druids without her permission or knowledge. In a fit of rage, she sundered her Druids' grove and took much of her own teachings with her as she fled to the greatest place of refuge known on Alaturmen; Kailkeep.
 
 #### False Allure
 In its lowest floors, the first three, Kailkeep is a carefully crafted dungeon of "false allure" – sandstone cobble halls weaving a tale of mystery and woe, promises of dark treasures left behind in a great abandonment. The antagonist in this story is a Kobold Wizard who binds an elemental to do his bidding and destroy the people who were here before. As the story carved into the reliefs, columns, and in the arts remaining unfolds, promises of hidden riches and weaponry higher up inside the mountain are made, before suddenly...
@@ -197,9 +197,9 @@ The Kobolds keep service entrances from which they and their loyalists come and 
 Almost all exposed caves have been converted into parts of the False Allure or the restricted areas the Kobolds keep under heavy enhanced guard.
 
 ### Hells Architecture
-The fourth level presents a drastic change of theme. Where once there was red cobble and dusty crypt, there is flat black marble and translucently thin stone stronger than steel surrounded by blasts of color and symbol. Beyond the first three levels, the dungeons of Kailkeep serve as a mix of entertainment, punishment, and training for the inhabitants of Kailkeep.
+The fourth level presents a drastic change of theme. Where once there was red cobble and dusty crypt, there is now flat black marble walls and translucently thin stone stronger than steel surrounded by blasts of color and symbol. Beyond the first three levels, the dungeons of Kailkeep serve as a mix of entertainment, punishment, and training for the residents of Kailkeep.
 
-Those who enter Kailkeep would be thinking *wish*fully to believe that they can escape the grasp of the Hells. The only way *out* is ***through***.
+The only way *out* is ***through***.
 
 ##### Ceilings
 The ceilings of Kailkeep's Hells are crafted to fit at most Large creatures' height, the distance from ceiling to floor is typically eighteen feet.
@@ -217,14 +217,14 @@ The secret doors of Kailkeep are not uniform, but they are hidden at similar ski
 Some doors in Kailkeep are "Ko-Bolted", meaning they cannot (as enforced by an Operator's magic) be opened by any other than a living Kobold who has been Marked with the correct Access Bindings.
 
 > ###### What the fuck is an Access Binding??
-> It's like a keycard in a video game, except its a magic tattoo. Only certain Kobolds get access to the tunnel doors on certain levels, because you don't need the dude who maintains the slime pits in the pristine puzzle rooms, what if he goops the place up?
+> It's like a keycard in a video game, except its a magic tattoo. Only certain Kobolds get access to the tunnel doors on certain levels, because you don't need the dude who maintains the slime pits to get into the pristine puzzle rooms; what if he goops the place up?
 > No-one with an Access Binding is allowed to Entertain in the Hells, for the hopefully obvious reason of the massive advantage and security threat they present. They do maintenance work whenever an area is clear of Entertainers, and some Operators go so far as to temporarily enclose areas in stone to work in peace.
 
 ##### Illumination
 The Kobolds who view the Hells as entertainment typically have no need for light. In most cases, the light the entertainers provide for themselves is sufficient.
 
 ##### Formatted Markings
-Markings that are not magically hidden from Terra and the Operators are formatted in Terra's script with the date as mm-dd-yyy and a two centimeter wide, one centimeter deep border. Whenever any member of the [[Grand Pantheon]] or the concept of a higher power is mentioned, Terra's name is made its replacement upon formatting.
+Markings that are not magically hidden from Terra and the Operators are formatted in with the date as mm-dd-yyy and a two centimeter wide, one centimeter deep border. Whenever any member of the [[Grand Pantheon]] or the concept of a higher power is mentioned, Terra's name is made its replacement upon formatting.
 
 ##### Scoreboard
 Around Kailkeep there are "scoreboard" rooms. These places are often small, and dense with messages. 
