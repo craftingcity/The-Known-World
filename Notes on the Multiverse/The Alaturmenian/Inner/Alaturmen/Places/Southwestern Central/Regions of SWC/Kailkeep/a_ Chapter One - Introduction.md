@@ -30,7 +30,7 @@ From a design perspective, I wish to present a series of problems that ask for a
 
 This is an experience built for players to survive and run from, not beat. Put a little fear back in the hearts and minds of your friends, family, or otherwise. I chose Kobolds as my muse because of the Tale of Tucker's Kobolds. Its funny, but I wished for a more Griffon McElroy's Wonderland than the basic power-dungeon designing kobolds. So, I built Kailkeep.
 
-I wanted the freedom to do what Tucker couldn't, which is bust his Kobolds to fucking bits. These shits work the best metals and have captured / partnered with a ***primordial idol***. They watch deadly rooms behind walls of impenetrable yet transparent rock. They *want* you here. So they can torture you. 
+I wanted the freedom to do what Tucker couldn't, which is bust his Kobolds to fucking bits. These shits work some of the best metals on the plane and have captured / partnered with a ***primordial idol***. They watch deadly rooms behind walls of impenetrable yet transparent rock. They *want* you here. So they can torture you. 
 
 But not your players. Again, this should be a dark, stormy night of **fun**.
 
@@ -40,20 +40,20 @@ For the purposes of running this module "from the book"; No matter where the pla
 You should understand that the levels presented here only explore a small portion of this massive structure. When your players go off-script, feel free to build something you think is on theme, or rip something from further along (and then mark it – you'll have to replace it before anyone goes there). I've tried to include notes on my designs throughout, so you might better understand my intentions as I watch these Kobolds craft an adventure for their own entertainment.
 
 ### About the Kobolds
-The Kobolds of Kailkeep have gone half-mad with the perceived betrayal of their Blood-Master [[Tetrimoc]]. They are the rulers of Kailkeep, and the other inhabitants know it. They formed and maintain the Hells for their entertainment and to collect power in the form of equipment or recruits.
+The Kobolds of Kailkeep have gone half-mad with the perceived betrayal of their Blood-Master [[Tetrimoc]]. They are the rulers of Kailkeep, and the other inhabitants know it. They formed and maintain the Hells for their entertainment, and they coincidentally collect power in the form of equipment or recruits.
 
 Groups of Kobold who commit a grievous crime are sentenced to Kailkeep's Hells. Some Kobold who feel they have no other prospects volunteer as to enter the Hells as a Champion of Kailkeep.
 
 The many kobold "civilians" who work and keep Kailkeep, both it's Hells and Proper, enjoy spending time with their clutchmates and watching the higher levels of the Hells on their free time. Some lucky kobold make good bets on particular newcomers and gain spectacular winnings. Generally, they spend this newfound wealth investing in prospects, betting again, then losing, but some keep winning and the economy of Kailkeep flows.
 
-### The Kobold's Goals
-1. First and foremost, the Kobolds of Kailkeep want to protect themselves. Their survival is the most important thing to them both as a collective and individually; a Kobold values their clutchmate's security over their own life if they fucked up and got caught out. Thankfully, the Hells of Kailkeep provide a very thorough defense. 
-2. Secondarily, the Kobolds want to gain more power than they have now. Again, this is true of the individual and the collective, some Kobolds run the Hells for a chance for a change of fate, and all Kobolds want Kobolds to rule Alaturmen, just like everyone else does, right?
+##### The Kobold's Goals
+1. First and foremost, the Kobolds of Kailkeep want to protect themselves. Their survival is the most important thing to them both as a collective and individually; a Kobold values their clutchmate's security over their own life. If they fucked up and got caught out, they're gonna do their best to make their death a overall benifit to the clutch. Thankfully, the Hells of Kailkeep provide a very thorough defense. 
+2. Secondarily, the Kobolds want to gain more power than they have now. Again, this is true of the individual and the collective, some Kobolds run the Hells for a chance for a change of fate, and all Kobolds want Kobolds to rule Alaturmen (just like everyone else does, right?).
 3. Tertiarily, the Kobolds want to appease their partner, Terra, and their followers. The easiest way to do that is to entertain them while they are well-fed and warm-bedded.
 
 ## Kailkeep's Secrets
 ### Viewer's Favor
-Kailkeep's worst kept secret is what it's real purpose is; entertainment for a colony of Kobolds who harbor evils for fun and profit. When the viewers of this entertainment are very pleased with a particular performer, they may spend some of their personal wealth to leave a boon to them in a "scoreboard" room.
+Kailkeep's worst kept secret is what it's real purpose is; entertainment for a colony of Kobolds who harbor evils for fun and profit. When the viewers of this entertainment are very pleased with a particular performer, they may spend some of their personal wealth to leave a boon to them in a "scoreboard" room. This can range from basic survival equipment to magical weaponry or armoring. 
 
 ### Proving Grounds
 While the Hells of Kailkeep are used as a method of collecting resources, punishing wrongdoers, and entertaining the masses, it also acts as a system of recruitment; "Hey, if you're good enough to do that once, we'll kit you out and pay you to do it again". Sometimes the winners say yes. The alternative is a life bound in a tomb of lies, as we all saw entering this place.
@@ -71,26 +71,26 @@ Long ago, when the Kobolds were first crafting Kailkeep's Hells, the dragons [[K
 Since that time, the Kobolds of Kailkeep have reanimated and corrupted the corpse of [[#Luzikiemal, Risen]] as a set piece in their entertainment.
 
 ## Inhabitants of Kailkeep
-There are two large categories of creatures that Inhabit Kailkeep; the first are the intelligent factions, those capable of understanding and attempting to progress within Kailkeep's Hells. The second are the less-than intelligent groups, such as the beasts and insects and the like - the more "natural" residents that have no reason to leave or understanding of what where they are really is.
+There are two large categories of creatures that Inhabit Kailkeep; the first are the intelligent factions, those capable of understanding and attempting to progress within Kailkeep's Hells. The second are the less-than intelligent groups, such as the beasts and insects - the more "natural" residents who have no reason to leave or understanding of what where they are really is.
 
 ### Intelligent Factions
 #### Kobolds of Kailkeep
 The Masters of Kailkeep watch from their posts, behind walls of transparent stone, changing the floors and walls in some effort to enact a sick game upon those who enter their home and lair. As each level is introduced and explored, the Kobold Gang on that level continues alongside the adventurers, becoming a more present threat as the characters continue upward.
 
 ###### Rammik's Gang
-Led by a red kobold - Rammik - this well-equipped and well-prepared gang hails from the fourth layer, and have earned a reputation for their lack of remorse during gameplay. Rammik himself is a coward at heart, choosing to lead by impersonating a bold adventurer, but he will choose his own life over those of his team with ease.
+Led by a red kobold - Rammik - this well-equipped gang hails from the fourth layer, and have earned a reputation for their lack of remorse during gameplay. Rammik himself is a coward at heart though, leading by impersonation, and he will preserve his own life over those among his team with stunning speed.
 
 ###### Yellowback's Gang
-Led by a yellow kobold - Yellowback - this well-equipped and well-prepared gang hails from the fifth layer, and have earned a reputation for their explosive presentation during gameplay. Yellowback spends some of his time creating alchemical agents, both for defense and offense, and he allows his most trusted associates to wield them.
+Led by a yellow kobold - Yellowback - this cunning gang hails from the fifth layer, and have earned a reputation for their explosive presentation during gameplay. Yellowback spends some of his time creating alchemical agents, both for defense and offense, and he allows his most trusted associates to wield them.
 
 ###### Kasey Bullseye's Gang
-Led by a bronze kobold - Kasey Bullseye - this well-equipped and well-prepared gang hails from the sixth layer, and have earned a reputation for their familiarity with the sixth layer of the Hells. The gang exploits information they have collected about the layout of an area of the sixth layer - especially the scoreboard, exit game, and less destructive trap rooms - to lure those who enter "their territory" to their death.
+Led by a bronze kobold - Kasey Bullseye - this well-prepared gang hails from the sixth layer, and have earned a reputation for their familiarity with the sixth layer of the Hells. The gang exploits information they have collected about the layout of an area of the sixth layer - specifically the scoreboard, exit game, and less destructive trap rooms - to lure those who enter "their territory" to their death.
 
 ###### Pinky's Gang
 Led by a red kobold - Pinky - this sorcerous gang hails from the seventh layer, and have earned a reputation for their proficiency in capturing participants without physical damage to either side. Pinky has been able to teach magic to some of her followers, increasing their survivability as a team and as individual operators.
 
 ###### Shuckster's Gang
-Leb by a yellow kobold - Shuckster - this 
+Leb by a yellow kobold - Shuckster - this mutated gang hails from the eighth layer, and have earned a reputation for their beastly forms and pack tactics. Somehow, Shuckster and the gang have become largely mutated kobold-beast hybrids, and this has obviously affected their playstyle, as they have abandoned their 'slow and steady' tactics for a more impulsive, hungry strategy.
 
 
 #### Goblin Squads
@@ -103,7 +103,7 @@ Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and mat
 ###### 'Cat's Claw' Squad
 
 #### Goblin Dissenters
-Not all of the Goblin of Kailkeep are loyal to the Kobolds. Some clans fight their way through Kailkeep as a Human would, wishing to ascend and escape. Generally, these Goblins will gather under the banner of a Blood Clan, more for survival than relation.
+Not all of the Goblin of Kailkeep are loyal to the Kobolds. Some fight their way through Kailkeep as any other civilized person would, wishing to ascend and escape. Generally, these Goblins will gather together for the protection community provides, and fly the banner of one of the Blood Clans .
 
 ###### Gang
 ###### Gang
