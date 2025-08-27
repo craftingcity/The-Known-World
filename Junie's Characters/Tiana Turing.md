@@ -180,8 +180,8 @@ Cobblestar took off, and we stick around to patch our wounds. We travel for a qu
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | x   | .   | .   | .   | .   | .    | .   |
-| o   | o   | x   | .   | .   | .   | .   |      |     |
-| o   | x   | .   | .   | .   |     |     |      |     |
+| x   | x   | x   | .   | .   | .   | .   |      |     |
+| x   | x   | .   | .   | .   |     |     |      |     |
 | x   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
