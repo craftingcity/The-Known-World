@@ -50,13 +50,13 @@ Being overly curious, and mildly sheltered, she came to seek unsupervised advent
 We've washed upon the shore of some island - it looks like there's some civilization off a ways, but we were attacked by big crabs!
 
 #### Session 2; Exploring Castaway Cove
-Before we could get off the beach, Max Delmare & Soju run up to us and tried to help. Soju is the de facto Governor. "The island was once called Endara". The town, Castaway Cove, has roughly 13 residents and only a few permanent structures. 
+Before we could get off the beach, Max Delmare & Soju run up to us and tried to help. Soju is the de facto Governor. "The island was once called Endara". The town, *Castaway Cove*, has roughly 13 residents and only a few permanent structures. 
 
-Soju has enchanted part of the forest to isolate 'Castaway Cove' from the rest of the Island. There is another settlement North of here. Castaway Cove is communally socialist. When Soju got here, some of their comrades appeared on other parts of the Island. 
+Soju has enchanted part of the forest to isolate '*Castaway Cove*' from the rest of the Island. There is another settlement North of here. *Castaway Cove* is communally socialist. When Soju got here, some of their comrades appeared on other parts of the Island. 
 
 Grom was here before you couldn't leave, has been for 27 years. He's the shopkeep.
 
-The Shoreside Inn of Castaway Cove has been overrun by a number of vermin and varmints.
+The Shoreside Inn of *Castaway Cove* has been overrun by a number of vermin and varmints.
 
 We spoke to Grom, who said 
 
@@ -146,7 +146,7 @@ We talked to the Castaways, and they were chill with the Inn being haunted kinda
 
 We're probably gonna head out, but we talked to a lumberjack named Maggie! She's gonna come travel and explore with us. We will eventually head to the Tower, but we just need to get moving first.
 
-The Entrance and Exits of the Castaway Cove are marked by pairs of heart-shaped trees. Speak 'Throm-ka' to part the vines and pass upon the path. There is a circular path around the lake that extended to the points of interest of the island.
+The Entrance and Exits of the *Castaway Cove* are marked by pairs of heart-shaped trees. Speak 'Throm-ka' to part the vines and pass upon the path. There is a circular path around the lake that extended to the points of interest of the island.
 
 Leaving the Cove, the change in scenery is intense. We're caught out by some snakes, and some viney-masses in the shape of humanoid-ish shapes, and we fought them off.
 
@@ -158,13 +158,13 @@ Torrin came to us in a firey vision over an altar after the fight.
 
 #### Session 10: Beyond the Cove... (cont.)
 
-The rain stopped. We cleaned up the battle and went back to bed. As we travel, we found a person, a purple Tiefling by the name of Cobblestar Woosh. He's transporting flour to Castaway Cove. He needs our help to recreate a potion he was supposed to deliver; he gave us the recipe for it.
+The rain stopped. We cleaned up the battle and went back to bed. As we travel, we found a person, a purple Tiefling by the name of Cobblestar Woosh. He's transporting flour to *Castaway Cove*. He needs our help to recreate a potion he was supposed to deliver; he gave us the recipe for it.
 
 'Russel' is the guy who makes a 'The Pocket Shop', and Cobblestar will give us one if we get everything for him - but he got spooked before we could ask more questions. Snakes and a Basalisk came and attacked us!
 
 #### Session 11: Beyond the Cove... (cont.)
 
-
+Cobblestar took off, and we stick around to patch our wounds. We travel for a quarter day before we enter a more canopied area around *Driftfen Lake* and begin to actually rest. 
 
 ## Stats
 
@@ -181,7 +181,7 @@ The rain stopped. We cleaned up the battle and went back to bed. As we travel, w
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | x   | .   | .   | .   | .   | .    | .   |
 | o   | o   | x   | .   | .   | .   | .   |      |     |
-| x   | x   | .   | .   | .   |     |     |      |     |
+| o   | x   | .   | .   | .   |     |     |      |     |
 | x   |     |     |     |     |     |     |      |     |
 
 #### Proficiencies
