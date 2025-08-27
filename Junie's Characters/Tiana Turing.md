@@ -162,6 +162,10 @@ The rain stopped. We cleaned up the battle and went back to bed. As we travel, w
 
 'Russel' is the guy who makes a 'The Pocket Shop', and Cobblestar will give us one if we get everything for him - but he got spooked before we could ask more questions.
 
+#### Session 11: Beyond the Cove... (cont.)
+
+
+
 ## Stats
 
 | L. 5 | XP: 9.0k  | / 14.0k | (1) Inspiration |
