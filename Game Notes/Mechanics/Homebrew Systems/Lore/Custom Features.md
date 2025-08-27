@@ -65,7 +65,10 @@ You can add a given Pet to your Menagerie by performing an associated ritual, th
 | Golden Dragon   | 15000000sp                     | While active, this Pet increases your Proficiency Bonus by a number equal to one-fifth your Level.                                                                                         |
 
 ##### Battle-Hardened
-*Prerequisite:* L3
+*Prerequisite:* L3 Martial
 > "I cast still being alive."
-You gain this feature at 3rd Level
+
+You gain this feature at 3rd Level if you do not have the Spellcasting feature. You cannot gain the Spellcasting feature if you have the Battle-Hardened feature.
+
+As a bonus action on your turn, you may spend a Hit Dice, and regain the number rolled plus your Constitution Modifier as Hit Points.
 
