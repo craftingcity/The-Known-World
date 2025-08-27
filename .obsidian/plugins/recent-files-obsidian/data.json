@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Features",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
+    },
+    {
+      "basename": "Combat Mechanics and Positioning",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
+    },
+    {
       "basename": "Tiana Turing",
       "path": "Junie's Characters/Tiana Turing.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "On the Hum Arcani; Independent Position",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Recordkeeping/On the Hum Arcani; Independent Position.md"
-    },
-    {
-      "basename": "Combat Mechanics and Positioning",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
     },
     {
       "basename": "A Grand Notepad",
@@ -195,10 +199,6 @@
     {
       "basename": "Simonson's Adventuring Party",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md"
-    },
-    {
-      "basename": "Bandit Lords",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Bandit Lords.md"
     }
   ],
   "omittedPaths": [],

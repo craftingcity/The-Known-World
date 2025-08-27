@@ -1,12 +1,15 @@
 
 ## Background Features
 ##### Company Arms Training
+> "Glory to SEASEC."
 When you deal damage with a blaster or firearm, add twice your Dexterity Modifier to the damage instead.
 
 ##### Militant Arms Training
+> "May it's Greatness have mercy on you."
 When you make an attack with a blaster or firearm, add 2 to your Attack Roll. If you deal damage with this attack, add 2 to the damage you deal.
 
 ##### Trooper Arms Training
+> "Containment is the highest priority."
 When you make an attack with a blaster or firearm, add twice your Dexterity Modifier to the Attack Roll instead.
 
 ## Class Features
@@ -60,5 +63,9 @@ You can add a given Pet to your Menagerie by performing an associated ritual, th
 | Griffin         | 5000000sp, a book of legends   | While active, this Pet increases your Strength by a number equal to half your Level.                                                                                                                                                                    |
 | Phoenix         | 5000000sp, a divine tear       | While active, this Pet increases your Hit Points by a number equal to thrice your Level, and heals you for an amount equal to your Level at the beginning of your turn.                                                                                                                                                                    |
 | Golden Dragon   | 15000000sp                     | While active, this Pet increases your Proficiency Bonus by a number equal to one-fifth your Level.                                                                                         |
-|                 |                                |                                                                                                                                                                                            |
+
+##### Battle-Hardened
+*Prerequisite:* L3
+> "I cast still being alive."
+You gain this feature at 3rd Level
 

@@ -80,7 +80,7 @@ Larger creatures can wield larger weapons more easily. Melee Weapons with the *t
 ## Equipment Slots
 To gain the benefits of a given item, you must assign it to a valid slot. You may only gain the benefits of a single item in a given slot. Some items may occupy more than one slot, in which case, you must assign it to all slots to gain its benefits.
 
-The item slots are as follows:
+The item slots are as follows (total of 13):
 	- Head (4)
 		- *Armor*
 		- Top of Head
