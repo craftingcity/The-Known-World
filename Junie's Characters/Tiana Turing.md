@@ -160,7 +160,7 @@ Torrin came to us in a firey vision over an altar after the fight.
 
 The rain stopped. We cleaned up the battle and went back to bed. As we travel, we found a person, a purple Tiefling by the name of Cobblestar Woosh. He's transporting flour to Castaway Cove. He needs our help to recreate a potion he was supposed to deliver; he gave us the recipe for it.
 
-'Russel' is the guy who makes a 'The Pocket Shop', and Cobblestar will give us one if we get everything for him - but he got spooked before we could ask more questions.
+'Russel' is the guy who makes a 'The Pocket Shop', and Cobblestar will give us one if we get everything for him - but he got spooked before we could ask more questions. Snakes and a Basalisk came and attacked us!
 
 #### Session 11: Beyond the Cove... (cont.)
 
