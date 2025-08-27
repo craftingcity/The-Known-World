@@ -269,10 +269,10 @@ Durandurm Handblasters are small elemental firearm platforms designed as a secon
 
 Durandurm Handblasters are *mechanical*, *ammunition (10)* and *ranged (45/120)*. Once per rest, you may use this weapon's special ability;
 
-| Name / Classification | Range  | Damage  | Original Producer    | Note                                                                     |
-| --------------------- | ------ | ------- | -------------------- | ------------------------------------------------------------------------ |
-| YI-A88 'Sandstone'    | 30/90  | 2x ammo | Yosimmite Industries | The prototype of the YI-A90, less than 40 were ever produced.            |
-| YI-A90 'Basalt'       | 45/120 | 1x ammo | Yosimmite Industries | The dominant sidearm in the Durandurm arsenal before the Age of Warfare. |
+| Name / Classification | Range  | Damage  | Original Producer           | Note                                                                     |
+| --------------------- | ------ | ------- | --------------------------- | ------------------------------------------------------------------------ |
+| YI-A88 'Sandstone'    | 30/90  | 2x ammo | Yosimmite Industries, 088AF | The prototype of the YI-A90, less than 40 were ever produced.            |
+| YI-A90 'Basalt'       | 45/120 | 1x ammo | Yosimmite Industries, 090AF | The dominant sidearm in the Durandurm arsenal before the Age of Warfare. | 
 
 ### Firepowder Operated
 #### Boltshot Firepowder Handblaster
@@ -280,23 +280,23 @@ Boltshot Firepowder Handblasters are revolving, single action, firepowder firear
 
 Boltshot Firepowder Handblasters are *mechanical*, *ammunition (12)*, and *ranged (60/180)*.
 
-| Name / Classification | Range | Damage | Original Producer                 | Note |
-| --------------------- | ----- | ------ | --------------------------------- | ---- |
-| Black Guard I       |       |        | Department of Warfare and Defense |      |
-| Black Guard II                      |       |        |                                   |      |
+| Name / Classification | Range | Damage | Original Producer                        | Note |
+| --------------------- | ----- | ------ | ---------------------------------------- | ---- |
+| Black Guard I         |       |        | Department of Warfare and Defense, 093AF |      |
+| Black Guard II        |       |        | Department of Warfare and Defense, 098AF |      |
 
 #### Boltshot Firepowder Longblaster
 Boltshot Firepowder Blasters are arm-length, bolt-action, firepowder firearm platforms. Originally made of stone and bronze, decent manufactures have matured into a full-metal construction.
 
 Boltshot Firepowder Blasters are *mechanical*, *two-handed*, *ammunition (1)*, and *ranged (120/600)*. Once per rest, you may use this weapon's special ability;
 
-| Name / Classification | Range | Damage | Original Producer                 | Note |
-| --------------------- | ----- | ------ | --------------------------------- | ---- |
-| Hunter's Claw I       |       |        | Department of Warfare and Defense |      |
-| Nightlight I          |       |        |                                   |      |
-| Hunter's Claw II      |       |        |                                   |      |
-| Hunter's Claw III     |       |        |                                   |      |
-| Nightlight II         |       |        |                                   |      |
+| Name / Classification | Range | Damage | Original Producer                        | Note |
+| --------------------- | ----- | ------ | ---------------------------------------- | ---- |
+| Hunter's Claw I       |       |        | Department of Warfare and Defense, 044AF |      |
+| Nightlight I          |       |        | Department of Warfare and Defense, 047AF |      |
+| Hunter's Claw II      |       |        | Department of Warfare and Defense, 056AF |      |
+| Hunter's Claw III     |       |        | Department of Warfare and Defense, 068AF |      |
+| Nightlight II         |       |        | Department of Warfare and Defense, 082AF |      |
 
 #### Boltshot Firepowder Scatterblaster
 Boltshot Firepowder Scatterblasters are arm-length, bolt-action, firepowder firearm platforms. The ammunition used is a collection of tiny metal balls stored in a thin paper casing.
@@ -443,14 +443,14 @@ Durandurm Cannons are *siege*, *ammunition (1)*, *ranged (360/1080)*.
 ### Stones
 Stones are small, less-than palm-sized rocks, usually thrown or fired from a Sling.
 
-Stones deal 1d4 bludgeoning damage.
+Stones typically deal 1d4 bludgeoning damage, but are a variable ammunition.
 
 | Name / Classification | Dam. | Original Producer | Note |
 | --------------------- | ---- | ----------------- | ---- |
 | -                     | -    |                   |      |
 
 ### Bolts
-Bolts are short, metal tipped shafts that have been fletched and are fired from Crossbows.
+Bolts are short, tipped shafts that have been fletched and are fired from Crossbows.
 
 Bolts typically deal 1d6 piercing damage, but are a variable ammunition.
 
@@ -459,7 +459,7 @@ Bolts typically deal 1d6 piercing damage, but are a variable ammunition.
 | -                     | -    |                   |      |
 
 ### Arrows
-Arrows are long, metal tipped shafts that have been fletched and are fired from Bows.
+Arrows are long, tipped shafts that have been fletched and are fired from Bows.
 
 Arrows typically deal 1d8 piercing damage, but are a variable ammunition.
 
@@ -472,15 +472,15 @@ Durandurm Magazines are complex ammunition storage modules that contain a number
 
 Durandurm Operated Firearms typically deal d6 elemental damage, but are a variable ammunition.
 
-| Name / Classification               | Damage & Type            | Original Producer    | Note |
-| ----------------------------------- | ------------------------ | -------------------- | ---- |
-| Durandurm 'Fire Red' Magazine       | 1d6 fire                 | Yossimite Industries |      |
-| Durandurm 'Water Blue' Magazine     | 1d6 cold                 | Yossimite Industries |      |
-| Durandurm 'Earth Yellow' Magazine   | 1d6 thunder              | Yossimite Industries |      |
-| Durandurm 'Air Clear' Magazine      | 1d6 force                | Yossimite Industries |      |
-| Durandurm 'Wild Refit' Magazine     | 1d6 piercing             | *unknown*            |      |
-| Durandurm 'Blessed' Magazine        | 1d6 radiant              | WhiteTech            |      |
-| Durandurm 'High Explosive' Magazine | 1d6 force + 1d4 slashing | SEASEC               |      |
+| Name / Classification               | Damage & Type            | Original Producer           | Note |
+| ----------------------------------- | ------------------------ | --------------------------- | ---- |
+| Durandurm 'Fire Red' Magazine       | 1d6 fire                 | Yossimite Industries, 088AF |      |
+| Durandurm 'Water Blue' Magazine     | 1d6 cold                 | Yossimite Industries, 088AF |      |
+| Durandurm 'Earth Yellow' Magazine   | 1d6 thunder              | Yossimite Industries, 088AF |      |
+| Durandurm 'Air Clear' Magazine      | 1d6 force                | Yossimite Industries, 092AF |      |
+| Durandurm 'Wild Refit' Magazine     | 1d6 piercing             | *unknown*, 100AF            |      |
+| Durandurm 'Blessed' Magazine        | 1d6 radiant              | WhiteTech, 103AF            |      |
+| Durandurm 'High Explosive' Magazine | 1d6 force + 1d4 slashing | SEASEC, 104AF               |      |
 
 ### Firepowder Shot
 Firepowder Shot are individual self-contained ammunitions used in the operation of Firepowder Blasters. Shots are sometimes loaded into magazines or belts for use in more complex Firepowder weapons.

@@ -1,3 +1,14 @@
+# Hotfix Edits
+#### Approved Arcana
+The following 'Unearthed Arcana' spells are approved;
+	- *Virtue (UA)*
+	- *Sudden Awakening (UA)*
+#### Polymorph
+The *polymorph* spell is 5th Level (increased from 4th).
+#### Lucky Feat
+The *lucky* feat grants 1 Luck Point (reduced from 3)
+
+
 # Positioning
 ## Opportunity Attack
 When a creature **Moves** away from an opponent, unless they have **Disengaged**, they present their opponent with a chance to strike; an *Opportunity Attack*. By spending their Reaction, the second creature can make one Melee Weapon Attack against the first.
@@ -89,3 +100,20 @@ The item slots are as follows:
 		- Belt
 		- Shinguard / Pants
 		- Shoes
+		  
+# The Fading Spirit
+###### as inspired/ripped by/from Matthew Mercer and Critical Role
+If a character is dead, their spirit is beginning to separate from their material vessel, and begin drifting to their Final Plane. Once a spirit has moved into it's Final Plane, it becomes very difficult to recover.
+
+## Attempting Resurrections
+When attempting a resurrection by any means other than by a *True Ressurrection* or *Wish*, a **Resurrection Challenge** is initiated. The base DC for this challenge is 10. It is reduced by up to three **Resurrection Challenge Contributions** and increased by the number of times this soul has been brought back from *True Death*. 
+
+### Contributions
+Any characters who wish to **Contribute** to a **Resurrection Challenge** may do so, in nearly any manner they see fit. 
+
+Your DM will set the DC and type of the check determining the success of your character's actions; for example, a cleric of Ar'Kraven may beseech their God to allow this mortal to continue their time on this plane, which could be interpreted as an easy to medium Charisma (Religion) check, or a godless barbarian may simply demand that their comrade rise if they wish not to be forever hunted by the barbarian after their death, which could be interpreted as a hard to neigh-impossible Charisma (Intimidation) check.
+
+## Finally...
+After all contributions are completed, and the DC of the challenge is calculated and presented, the caster rolls the final check of the **Resurrection Challenge** publicly.
+
+If the number rolled on the die is greater than or equal to the DC of the **Resurrection Challenge**, and the character's spirit is willing and able, they return to the Material Plane, as per the specifics of the spell used. Otherwise, the character experiences a *True Death*.

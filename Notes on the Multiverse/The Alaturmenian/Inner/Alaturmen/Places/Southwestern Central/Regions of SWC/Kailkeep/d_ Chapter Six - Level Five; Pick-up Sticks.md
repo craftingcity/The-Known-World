@@ -25,11 +25,11 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 #### Ways
 #### Pick-up Sticks (Exit Game)
 - Pick-up Sticks is a level wide game that pits all teams of the level against one another, in theory. 
-- The goal of the game is to collect stone **Tokens** dispensed by games throughout the level. When a total of five **Tokens** are inserted by a player, that player is forcibly ascended to the next level - this means that if a party wishes to ascend "together" they must each collect five **Tokens**.
+- The goal of the game is to collect stone **Tokens** dispensed by games throughout the level. When a total of five **Tokens** are inserted by a player, the exit door is opened, and that player and their team is forcibly ascended to the next level.
 ### Detail
 #### Go Fish!
 - A large salt-water lake hosts a number of aquatic critters, one of which - a quick and small fish - has a **Token**. Other critters will not attack the keyholder, and even larger predators will defend a smaller keyholder.
-- The largest threat to a competent combatant is drowning. 
+- The largest threat to a competent combatant is drowning; 
 	- A character may hold their breath for a number of minutes equal to 1 + their Con Mod, with 30 seconds as a minimum. Convert this number into rounds of initiative (at 6 seconds per round). A character expends a round of held breath on the beginning of their turn.
 	- If a character takes a Move Action or a Standard Action, they must spend an additional round (6 seconds) of held breath to do so.
 	- *After a character runs out of breath, they begin drowning. A character may only be drowning for a number of rounds equal to their Con Mod, with 1 round as a minimum. If they are without air for this many rounds, they are reduced to 0 HP and are dying.*
@@ -38,14 +38,21 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 - A **Token** is hanging upon a small ledge near the top and center of the chamber.
 #### Puppet's Game
 - This chamber contains a number of colored mosaic tiles and a large mannequin in a daunting stretched pose.
+- As the game begins, the Mannequin will change it's pose once per round. A character may attempt to replicate the pose by succeeding on an Dexterity (Acrobatics) or Charisma (Performance) check of successive DC.
+	- When a pose has been successfully replicated by any number of participants, that pose is completed. When three poses have been completed successively, the game ends, and a **Token** is revealed inside the Mannequin's chest.
+	- When a pose has been failed, the failing character makes a DC 18 Wisdom Saving Throw. If they fail the save, they are Charmed until the beginning of their next turn, and immediately move their speed towards and then attack the closest ally.
 #### Shooting Gallery
-- This long chamber is notably lined with ballista on one side (the end or sides of the hall is preferable) that are being controlled remotely by a number of Kobolds behind their protective stone.
+- This long chamber is lined with ballista on one side (the end or sides of the hall is preferable) that are being controlled remotely by a number of Kobolds behind their protective stone.
+- A **Token** rests on a pedestal at the end of the chamber.
 #### Beast Barracks 
 - This chamber is one of many beast homes within the mountains of Kailkeep. Somehow, this creature is compensated by the Kobolds of Kailkeep.
 - The Barracks hold many lower power creatures that made their home here, and they are modestly housed, but are malnourished and conditioned to attack non-Kobolds on detection.
 - Blind Dogs, Mindless Guand, Mountain Cats, and even some Madwalkers are common in the Fourth level of Kailkeep.
 #### Burning Hallway
 - A long hallway reminiscent of the *Dart Halls* from lower floors. This hall is covered in tiles of pressure plates, and the walls are lined with thin ports.
+- When a pressure plate is activated, the entire hall is activated. For thirty seconds, each port in the wall fires a stream of flaming fluid.
+- A characteer may attempt to navigate the fire-streams, and to do so, must succeed on a DC 22 Dexterity Saving Throw per ten feet they move, or they will be scorched by the fire. If a character is scorched, they take 3d6 fire damage, and are 'Enflamed'.
+	- While a character is 'Enflamed', they take 1d8 fire damage at the beginning of their turn. A character may attempt to end this condition by making a DC 14 Dexterity Saving Throw while they are Prone, or otherwise dousing the flames.
 #### Blood for Coin
 - A smaller chamber that holds a number of visible tanks on the wall below accompanying **Tokens**. In the center of the chamber, there is a stone bowl with a small grate at the bottom stained a dark red.
 - As the stone bowl is filled with blood, it will travel to one of the tanks on the walls. When a tank is filled with 16 pints of blood (2-3 bodies), the tank's **Token** becomes available.
@@ -55,7 +62,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 #### 'Mercy'
 ##### Pop: 108
 - This series of chambers is the one Holding within Kailkeep's Hells. There is a population of some hundred survivors who have permanently made their home here.
-- A majority of these people are farmers and crafters. Between residents, barter is generally the preferred method of commerce, trading necessities between each other. They generally trade their surplus to for the things that only trips out of town can provide, relying on the few local & trusted Roamers or Merchants.
+- A majority of these people are farmers and crafters. Between residents, barter is generally the preferred method of commerce, trading necessities between each other. They trade any surplus for the things that only trips out of town can provide, relying on the few local & trusted Roamers or Merchants.
 	- The following resources are "available to the public";
 		- ###### FOOD
 			- Vermin & Fish
@@ -70,7 +77,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 			- Metallic Scrap
 			- Wooden Scrap
 			- Bone
-- The few bold enough to continually travel to and from Mercy are known as Roamers, and while they are in some senses revered, they are equally shunned, leading to the need for a middleman; the Merchant.
+	- 
 ##### Notable Locations...
 - The Gate (aka the Killbox)
 - The Foundry (& Transmutation Chambers)

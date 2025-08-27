@@ -11,7 +11,6 @@ aliases:
 - **[[Homebrew Spells]]**
 - **Homebrew Systems**
 	- **Ancient (depreciated)**
-		- [[Combat Mechanics (dep.)]]
 		- [[Skills of Alaturmen]]
 	- **Classes**
 		- [[Custom Class - Alchemist]]
