@@ -164,7 +164,7 @@ The rain stopped. We cleaned up the battle and went back to bed. As we travel, w
 
 #### Session 11: Beyond the Cove... (cont.)
 
-Cobblestar took off, and we stick around to patch our wounds. We travel for a quarter day before we enter a more canopied area around *Driftfen Lake* and begin to actually rest. 
+Cobblestar took off, and we stick around to patch our wounds. We travel for a quarter day before we enter a more canopied area around *Driftfen Lake* and begin to actually rest - but we get interrupted by undead frogkin! 
 
 ## Stats
 
