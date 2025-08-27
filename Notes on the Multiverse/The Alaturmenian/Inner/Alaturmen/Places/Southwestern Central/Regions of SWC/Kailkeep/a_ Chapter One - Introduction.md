@@ -87,14 +87,14 @@ Led by a yellow kobold - Yellowback - this cunning gang hails from the fifth lay
 Led by a bronze kobold - Kasey Bullseye - this well-prepared gang hails from the sixth layer, and have earned a reputation for their familiarity with the sixth layer of the Hells. The gang exploits information they have collected about the layout of an area of the sixth layer - specifically the scoreboard, exit game, and less destructive trap rooms - to lure those who enter "their territory" to their death.
 
 ###### Pinky's Gang
-Led by a red kobold - Pinky - this sorcerous gang hails from the seventh layer, and have earned a reputation for their proficiency in capturing participants without physical damage to either side. Pinky has been able to teach magic to some of her followers, increasing their survivability as a team and as individual operators.
+Led by a red kobold - Pinky - this sorcerous gang hails from the seventh layer, and have earned a reputation for their proficiency in disabling or even capturing other participants without physical damage to either side. Pinky has been able to teach magic to some of her followers, increasing their survivability as a team and as individual operators.
 
 ###### Shuckster's Gang
 Leb by a yellow kobold - Shuckster - this mutated gang hails from the eighth layer, and have earned a reputation for their beastly forms and pack tactics. Somehow, Shuckster and the gang have become largely mutated kobold-beast hybrids, and this has obviously affected their playstyle, as they have abandoned their 'slow and steady' tactics for a more impulsive, hungry strategy.
 
 
 #### Goblin Squads
-Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and material products for them. While these workers are respected as an integral part of Kailkeep's economy, they are still considered cannon-fodder to their Masters - excepting these few with military intelligence whom they have equipped and formed into hit-squads.
+Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and material products for them. While these workers are respected as an integral part of Kailkeep's economy, they are still considered cannon-fodder to their Masters - excepting these few with military intelligence whom they have equipped and formed into so-called hit-squads who roam a given layer with the intent of exterminating the highest scoring group present.
 
 ###### 'Vulture Talons' Squad
 ###### 'Sneaking Mantis' Squad
@@ -103,7 +103,7 @@ Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and mat
 ###### 'Cat's Claw' Squad
 
 #### Goblin Dissenters
-Not all of the Goblin of Kailkeep are loyal to the Kobolds. Some fight their way through Kailkeep as any other civilized person would, wishing to ascend and escape. Generally, these Goblins will gather together for the protection community provides, and fly the banner of one of the Blood Clans .
+Not all of the Goblin of Kailkeep are loyal to the Kobolds. Some fight their way through Kailkeep as any other civilized person would, wishing to ascend and escape. Generally, these Goblins will gather together for the protection community provides, and fly the banner of one of the Blood Clans, for recognition more than any real relation.
 
 ###### Gang
 ###### Gang
@@ -111,8 +111,8 @@ Not all of the Goblin of Kailkeep are loyal to the Kobolds. Some fight their way
 ###### Gang
 ###### Gang
 
-#### Red Gnoll
-The Gnoll that come to or find themselves in Kailkeep develop a red tint to their fur from the dust and stone. Many Gnoll find their hunger satisfied in Kailkeep and stay upon their ascension, but some do not, and are cast to the lower levels or killed.
+#### Black Gnoll
+The Gnoll that find themselves in Kailkeep typically develop a black tint in their fur from the dusty stone present throughout the Hells. Many Gnoll find their hunger satisfied in Kailkeep and stay upon their ascension, but some do not, and are cast to the lower levels or killed.
 
 ###### Bloodylip's Pack
 hails from the fourth layer
@@ -124,7 +124,7 @@ hails from the sixth layer
 hails from the seventh layer
 
 #### Gaund Loyalists
-A pre-Alaturmen reptilian people – Gaund – are loyal to the Kobolds of Kailkeep. They reside in the Higher levels of Kailkeep in isolationist societies. Gaund have no desire to ascend, for cultural or intelligence reasons I would not know.
+A pre-Alaturmen reptilian people – Gaund – are loyal to the Kobolds of Kailkeep. They reside in the Higher levels of Kailkeep in isolationist societies. Gaund have no desire to ascend, for cultural or intellectual reasons I would not know.
 
 #### Survivalists
 People with little to no training have been taken to the Hells as long as the Hells have existed. Few are capable of surviving while retaining their morality, *and* their intelligence. These are those few.
@@ -136,7 +136,7 @@ People with little to no training have been taken to the Hells as long as the He
 ###### x's Group
 
 #### Reformed Entertainers
-Whores of glory who have turned from morality in favor of ease and selfishness. They play towards the crowd *too well*.
+Whores of glory who have turned from morality in favor of ease and selfishness. They play towards the crowd *too well* to be a well-adjusted person.
 
 ###### Johnlock's Gang
 ###### Hannibal's Gang

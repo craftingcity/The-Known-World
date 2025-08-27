@@ -21,7 +21,7 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 - The "Home" team is collected by containing a wandering team on this level. The "Away" team is collected by containing an ascending team from the previous level.
 - The Goal of the game is to eliminate the opposing team's players and increase your Entertainment Rating. 
 	- A "Home" team victory is rewarded with a series of healing salves, recreational drugs, and rations.
-	- An "Away" team victory is not rewarded.
+	- An "Away" team victory is not rewarded in any way other than an increase in Entertainment Rating.
 #### Ways
 #### Scoreboard Rooms
 - A scoreboard room is a place to view one's score.
@@ -36,7 +36,7 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 - On occasion, one end of the hall does not continue into the Hells further, forcing an adventurer who once passed the spears to do so again.
 - Spears extend once per round. A character who fails on a DC 15 Dex Save takes 2d8 + 1 piecing damage.
 #### Sprinting Boulder
-- A long curved hall with a boulder at the top end. While it begins slowly, it quickly picks up speed.
+- A long, decending, curved hall with a boulder at the top end. While it begins slowly, it quickly picks up speed.
 - Most often, the Sprinting Boulder forces Kailkeep's inhabitants back the way they have come from, forcing them through sections they have been through before.
 #### Dart Halls
 - A "minefield"-esq game, the Dart Halls are a series of pressure plates and dart throwers. There is a safe path through the field, though it is typically unmarked.

@@ -25,7 +25,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 #### Ways
 #### Pick-up Sticks (Exit Game)
 - Pick-up Sticks is a level wide game that pits all teams of the level against one another, in theory. 
-- The goal of the game is to collect stone **Tokens** dispensed by games throughout the level. When a total of five **Tokens** are inserted by a player, that player is forcibly ascended to the next level - this means that if a party wishes to ascend "together" they must each collect five **Tokens**.
+- The goal of the game is to collect stone **Tokens** dispensed by games throughout the level. When a total of five **Tokens** are inserted by a player, the exit door is opened, and that player is forcibly ascended to the next level - this means that if a party wishes to ascend "together" they must each collect five **Tokens**.
 ### Detail
 #### Go Fish!
 - A large salt-water lake hosts a number of aquatic critters, one of which - a quick and small fish - has a **Token**. Other critters will not attack the keyholder, and even larger predators will defend a smaller keyholder.
@@ -38,6 +38,8 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 - A **Token** is hanging upon a small ledge near the top and center of the chamber.
 #### Puppet's Game
 - This chamber contains a number of colored mosaic tiles and a large mannequin in a daunting stretched pose.
+- As the game begins, the Mannequin will begin to change its pose. A character may attempt to replicate the pose by succeeding on an Dexterity (Acrobatics) or Charisma (Performance) check of successive DC.
+	- When a pose has been successfully replicated by any number of participants, a point is awarded. When 
 #### Shooting Gallery
 - This long chamber is notably lined with ballista on one side (the end or sides of the hall is preferable) that are being controlled remotely by a number of Kobolds behind their protective stone.
 #### Beast Barracks 
