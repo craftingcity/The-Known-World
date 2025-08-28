@@ -117,6 +117,7 @@ aliases:
 | Mathias   |         |          |
 | Yohain    |         |          |
 | Steward   |         |          |
+| Martin          |         |          |
 
 ## Last Names
 
@@ -142,27 +143,29 @@ aliases:
 | Barthalamule | Dante   | Agrandica |
 | Boris        | Sivir   | Ginger    |
 | Edward       | Frin    | Saria     |
-| Fulton       | Pax     |           |
-| Houran       |         |           |
+| Fulton       | Pax     | Niurna    |
+| Houran       | Swero   |           |
 | Hallis       |         |           |
 | Lucas        |         |           |
 | Doirin       |         |           |
+| Hasten       |         |           |
+| Zack         |         |           |
 
 ## Last Names
 
-| Family Name | Notes |
-| ----------- | ----- |
-| Alamore     |       |
-| Engammo     |       |
-| Farrinik    |       |
-| Fukili      |       |
-| Gunagido    |       |
-| Shepard     |       |
-| Ak-kizi     |       |
-| Venclaw     |       |
-| Bagwell     |       |
-| Vanavar     |       |
-| Copperhammer            |       |
+| Family Name  | Notes |
+| ------------ | ----- |
+| Alamore      |       |
+| Engammo      |       |
+| Farrinik     |       |
+| Fukili       |       |
+| Gunagido     |       |
+| Shepard      |       |
+| Ak-kizi      |       |
+| Venclaw      |       |
+| Bagwell      |       |
+| Vanavar      |       |
+| Copperhammer |       |
 
 # List of Names
 Masc | Femme | Neutral

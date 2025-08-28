@@ -105,11 +105,11 @@ Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and mat
 #### Goblin Dissenters
 Not all of the Goblin of Kailkeep are loyal to the Kobolds. Some fight their way through Kailkeep as any other civilized person would, wishing to ascend and escape. Generally, these Goblins will gather together for the protection community provides, and fly the banner of one of the Blood Clans, for recognition more than any real relation.
 
-###### Gang
-###### Gang
-###### Gang
-###### Gang
-###### Gang
+###### Scrivin Gang
+###### Emorin Gang
+###### Garqwak Gang
+###### Bulgpim Gang
+###### Wheernat Gang
 
 #### Black Gnoll
 The Gnoll that find themselves in Kailkeep typically develop a black tint in their fur from the dusty stone present throughout the Hells. Many Gnoll find their hunger satisfied in Kailkeep and stay upon their ascension, but some do not, and are cast to the lower levels or killed.
@@ -131,9 +131,9 @@ People with little to no training have been taken to the Hells as long as the He
 
 ###### Hasten's Group
 ###### Niurna's Group
-###### x's Group
-###### x's Group
-###### x's Group
+###### Zack's Group
+###### Swero's Group
+###### Martin's Group
 
 #### Reformed Entertainers
 Whores of glory who have turned from morality in favor of ease and selfishness. They play towards the crowd *too well* to be a well-adjusted person.

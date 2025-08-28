@@ -33,11 +33,11 @@ If you spend an hour and 75sp of components to ritualistically sacrifice a corps
 
 ##### Menagerie Manager
 *Prerequisite:* Proficiency in Animal Handling
-> "For whatever reason, you have can call upon the aid of a number of magical creatures. While they never directly assist you, their presence emboldens you."
+> "For whatever reason, you have can call upon the aid of a number of magical creatures. While they never directly assist you, their presence certainly emboldens you."
 
 You may only ever have one Pet active at any given time. During a short or long rest, you may replace your currently active Pet with another Pet in your Menagerie.
 
-You can add a given Pet to your Menagerie by performing an associated ritual, the components of which are listed alongside the Pet's active effects. This ritual takes 10 minutes, and consumes its components.
+You can add a given Pet to your Menagerie by performing an associated ritual, the components of which are listed alongside the Pet's active effects. This ritual takes 10 minutes to complete, and consumes its components.
 
 | Pet             | Ritual Cost                    | Active Effects                                                                                                                                                                             |
 | --------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -56,7 +56,7 @@ You can add a given Pet to your Menagerie by performing an associated ritual, th
 | White Rat       | 60000sp, an unusual rodent     | While active, this Pet increases the damage you deal with force by 1d4.                                                                                                                                                                    |
 | Venomous Spider | 60000sp, a gland of venom      | While active, this Pet increases the damage you deal with poison by 1d4.                                                                                                                                                                    |
 | Tiger           | 60000sp, a large feline claw   | While active, this Pet increases the number of Attacks you may make when you take the Attack Action by 1.                                                                                                                                                                    |
-| Lone Wolf       | 60000sp, a large bone          | While active, this Pet grants you Advantage on Attacks made while you are at least 30' away from your closest ally.                                                                                                                                                                    |
+| Lone Wolf       | 60000sp, a large bone          | While active, this Pet grants you Advantage on Attacks made while you are at least 20' away from your closest ally.                                                                                                                                                                    |
 | Turtle          | 300000sp, an ancient shell     | While active, this Pet decreases your speed by 10', increases your Armor Class by 2, and increases your Damage Resistance by a number equal to one-fourth your Level.                      |
 | Bull            | 300000sp, a bloodstained cloth | While active, this Pet increases your Speed and your Reach by 5' each.                                                                                                                                                                    |
 | Black Cat       | 5000000sp, a glowing pumpkin   | While active, this Pet grants Advantage to an Attack Roll, Ability Check, or Saving Throw of your choice a number of times per long rest equal to one-fifth your Level.                    |
