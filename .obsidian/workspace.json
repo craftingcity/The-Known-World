@@ -6,7 +6,7 @@
       {
         "id": "8ecc861b6e699ed0",
         "type": "tabs",
-        "dimension": 26.463808206546798,
+        "dimension": 18.398072869617586,
         "children": [
           {
             "id": "0f4d35f3f0ab2541",
@@ -38,6 +38,37 @@
             }
           },
           {
+            "id": "7cbd2b222482ce4a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "zz_ Kailkeep Clues, Nodes, and Notes"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "fb56a87ea5fb5ec2",
+        "type": "tabs",
+        "dimension": 49.86449864498645,
+        "children": [
+          {
             "id": "e91530fe230d81d5",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -59,15 +90,7 @@
               "icon": "lucide-file",
               "title": "a_ Chapter One - Introduction"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "fb56a87ea5fb5ec2",
-        "type": "tabs",
-        "dimension": 40.20285846011987,
-        "children": [
+          },
           {
             "id": "6971bbd5751c2797",
             "type": "leaf",
@@ -119,7 +142,7 @@
       {
         "id": "69e375ffdd1663ad",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 31.737428485395963,
         "children": [
           {
             "id": "ae820cb120c0e6c3",
@@ -477,7 +500,9 @@
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/z_ Appendix A; Stat Blocks.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/h_ Chapter Ten - Level Nine; A Final Test.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/g_ Chapter Nine - Level Eight; The Floor Is Ooze!.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
@@ -499,8 +524,6 @@
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
-    "Sakharov Yosimmite.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",

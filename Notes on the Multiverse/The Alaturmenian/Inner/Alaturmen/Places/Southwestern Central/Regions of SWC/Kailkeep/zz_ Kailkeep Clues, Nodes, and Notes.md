@@ -33,13 +33,13 @@ content:
 	- There is no escape. I am running out of food. (Desertspeech)
 	- The company has fallen. There is worse here than a Kobold. (Montal)
 	- Damn you Cobalt. You will pay in your next lives. (Desertspeech)
-	- I want to see my kids again. Will they recognize me still? Or will I have too much blood on my hands? (Any)
+	- I want to see my family again. Will they recognize me still? Or will I have too much blood on my hands? (Any)
 
 date: Unknown
 title: True Warnings
 content:
 	- Do not drink the water. (Any)
-	- I was only nicked, I barely bleed at all. I have been sick for days. I am going to die here soon. (Golopak)
+	- I was only nicked, I barely bled at all. I have been sick for days. I am going to die here soon. (Golopak)
 	- Beware the green smoke. (Arthurian & Desertspeech)
 	- Beware! Dogs ahead! (Desertspeech)
 	- You cannot outrun the boulder. Beware tube halls. (Montal)

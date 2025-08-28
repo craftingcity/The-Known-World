@@ -103,16 +103,16 @@ The 'Vulture's Talons' Squad earned their name for their scavenger-like tactics,
 The 'Sneaking Mantis' Squad earned their name for their stealth-based tactics, pursuing their target until they forced to return the way they came - where the 'Sneaking Mantis' Squad strikes.
 
 ###### 'Gorilla Fists' Squad
-The 'Gorilla Fists' Squad earned their name for their unnatural size and strength
+The 'Gorilla Fists' Squad earned their name for their size and strength, being primarily composed of strong, well-fed bugbear. The 'Gorilla Fists' will typically await their target at the entrance or exit game of a given level.
 
 ###### 'Bear Hug' Squad
-The 'Bear Hug' Squad
+The 'Bear Hug' Squad earned their name for their physical tactics, attempting to pounce upon and restrain their targets to allow their comrades to strike with ease. The 'Bear Hug' Squad is rarely waiting, choosing instead to harass and pursue their targets throughout the level.
 
 ###### 'Cat's Claw' Squad
-The 'Cat's Claw' Squad
+The 'Cat's Claw' Squad earned their name for the deep wounds their weapons deal - allowing them to strike, retreat, and finalize their kill after it has been weakened.
 
 #### Goblin Dissenters
-Not all of the Goblin of Kailkeep are loyal to the Kobolds. Some fight their way through Kailkeep as any other civilized person would, wishing to ascend and escape. Generally, these Goblins will gather together for the protection community provides, and fly the banner of one of the Blood Clans, for recognition more than any real relation.
+Not all the Goblin of Kailkeep are loyal to the Kobolds. Some fight their way through Kailkeep as any other civilized person would, wishing to ascend and escape. Generally, these Goblins will gather together for the protection community provides, and fly the banner of one of the Blood Clans, for recognition more than any real relation.
 
 ###### Scrivin Gang
 ###### Garqwak Gang
@@ -123,7 +123,7 @@ Not all of the Goblin of Kailkeep are loyal to the Kobolds. Some fight their way
 The Gnoll that find themselves in Kailkeep typically develop a black tint in their fur from the dusty stone present throughout the Hells. Many Gnoll find their hunger satisfied in Kailkeep and stay upon their ascension, but some do not, and are cast to the lower levels or killed.
 
 ###### Bloodylip's Pack
-hails from the fourth layer
+Hailing from the fourth level of Kailkeep, Bloodylip leads the desperate remnants of a leadership dispute 
 ###### Dusk's Pack
 hails from the fifth layer
 ###### Reaper's Pack
@@ -175,7 +175,7 @@ The density of Woven material in the area of Kailkeep has done *something* to th
 A species of earth elemental came with Terra, and hosting them is a small price to pay for her power. The Kobolds acknowledge these small rock creatures as honored guests, much as a deist would honor an Angel of their God. Those Genoid that walk the Hells are revered by Loyalists and hunted as prized kills by the other factions.
 
 #### Mad-walkers
-Those who survive Kailkeep for too long lose their sanity. One can only take so much of this torturous place. Those who continue to survive do so as Mad-walkers, more a beast of Kailkeep than a person at this point.
+Those who survive Kailkeep for too long lose their sanity. One can only take so much of this torturous place. Those who continue to survive do so as Mad-walkers, more a beast of Kailkeep than a sentient person at this point.
 
 ### Mini-bosses
 #### Bernet, Lodestone Golem
