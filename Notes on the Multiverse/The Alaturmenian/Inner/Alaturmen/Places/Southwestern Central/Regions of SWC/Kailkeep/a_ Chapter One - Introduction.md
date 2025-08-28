@@ -97,13 +97,13 @@ Leb by a yellow kobold - Shuckster - this mutated gang hails from the eighth lay
 Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and material products for them. While these workers are respected as an integral part of Kailkeep's economy, they are still considered cannon-fodder to their Masters - excepting these few with military intelligence whom they have equipped and formed into so-called hit-squads who roam a given layer with the intent of exterminating the highest scoring group present.
 
 ###### 'Vulture Talons' Squad
-The 'Vulture's Talons' Squad earn their name for their scavenger-like tactics, where the squad will lie in wait for their target to resolve a conflict with some other group, and then 'swoop in' to make their kill.
+The 'Vulture's Talons' Squad earned their name for their scavenger-like tactics, where the squad will lie in wait for their target to resolve a conflict with some other group, and then 'swoop in' to make their kill.
 
 ###### 'Sneaking Mantis' Squad
-The 'Sneaking Mantis' Squad
+The 'Sneaking Mantis' Squad earned their name for their stealth-based tactics, pursuing their target until they forced to return the way they came - where the 'Sneaking Mantis' Squad strikes.
 
 ###### 'Gorilla Fists' Squad
-The 'Gorilla Fists' Squad
+The 'Gorilla Fists' Squad earned their name for their size and 
 
 ###### 'Bear Hug' Squad
 The 'Bear Hug' Squad
