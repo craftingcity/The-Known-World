@@ -123,7 +123,8 @@ Not all the Goblin of Kailkeep are loyal to the Kobolds. Some fight their way th
 The Gnoll that find themselves in Kailkeep typically develop a black tint in their fur from the dusty stone present throughout the Hells. Many Gnoll find their hunger satisfied in Kailkeep and stay upon their ascension, but some do not, and are cast to the lower levels or killed.
 
 ###### Bloodylip's Pack
-Hailing from the fourth level of Kailkeep, Bloodylip leads the desperate remnants of a leadership dispute 
+Hailing from the fourth level of Kailkeep, Bloodylip leads the desperate remnants of a leadership dispute with brutal efficiency and an iron fist. Those who remain with Bloodylip do so out of fear of retaliation more than any benefit they may receive.
+
 ###### Dusk's Pack
 hails from the fifth layer
 ###### Reaper's Pack
@@ -132,7 +133,7 @@ hails from the sixth layer
 hails from the seventh layer
 
 #### Survivalists
-People with little to no training have been taken to the Hells as long as the Hells have existed. Few are capable of surviving while retaining their morality, *and* their intelligence. These are those few.
+People with little to no training have been taken to the Hells as long as the Hells have existed. Few are capable of surviving while retaining their morality, *and* their intelligence. These are those few. Survivalists all will avoid conflict if at all reasonable, and have been scorned for trusting others before.
 
 ###### Hasten's Group
 ###### Niurna's Group
@@ -141,7 +142,7 @@ People with little to no training have been taken to the Hells as long as the He
 ###### Martin's Group
 
 #### Reformed Entertainers
-Whores of glory who have turned from morality in favor of ease and selfishness. They play towards the crowd *too well* to still be a well-adjusted person.
+Whores of glory who have turned from morality in favor of ease and selfishness. They play towards the crowd *too well* to still be a well-adjusted person, bathing in the blood they spill for their adoring captor-fans.
 
 ###### Johnlock's Gang
 ###### Hannibal's Gang
