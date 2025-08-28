@@ -36,14 +36,7 @@
               "icon": "lucide-file",
               "title": "Kailkeep"
             }
-          }
-        ]
-      },
-      {
-        "id": "fb56a87ea5fb5ec2",
-        "type": "tabs",
-        "dimension": 40.20285846011987,
-        "children": [
+          },
           {
             "id": "e91530fe230d81d5",
             "type": "leaf",
@@ -65,6 +58,37 @@
               },
               "icon": "lucide-file",
               "title": "a_ Chapter One - Introduction"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "fb56a87ea5fb5ec2",
+        "type": "tabs",
+        "dimension": 40.20285846011987,
+        "children": [
+          {
+            "id": "6971bbd5751c2797",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "d_ Chapter Five - Level Four; Four Corners"
             }
           },
           {
@@ -90,8 +114,7 @@
               "title": "d_ Chapter Six - Level Five; Pick-up Sticks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "69e375ffdd1663ad",
@@ -450,14 +473,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65ad513cfa7316e0",
+  "active": "e91530fe230d81d5",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/h_ Chapter Ten - Level Nine; A Final Test.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/g_ Chapter Nine - Level Eight; The Floor Is Ooze!.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
@@ -476,8 +501,6 @@
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
     "Sakharov Yosimmite.md",
-    "Yosimmite Industries.md",
-    "Blackrock Yosimmite.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",

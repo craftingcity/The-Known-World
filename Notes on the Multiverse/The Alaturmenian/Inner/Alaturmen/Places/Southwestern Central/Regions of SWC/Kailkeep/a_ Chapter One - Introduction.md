@@ -90,13 +90,15 @@ Led by a bronze kobold - Kasey Bullseye - this well-prepared gang hails from the
 Led by a red kobold - Pinky - this sorcerous gang hails from the seventh layer, and have earned a reputation for their proficiency in disabling or even capturing other participants without physical damage to either side. Pinky has been able to teach magic to some of her followers, increasing their survivability as a team and as individual operators.
 
 ###### Shuckster's Gang
-Leb by a yellow kobold - Shuckster - this mutated gang hails from the eighth layer, and have earned a reputation for their beastly forms and pack tactics. Somehow, Shuckster and the gang have become largely mutated kobold-beast hybrids, and this has obviously affected their playstyle, as they have abandoned their 'slow and steady' tactics for a more impulsive, hungry strategy.
+Leb by a yellow kobold - Shuckster - this mutated gang hails from the eighth layer, and have earned a reputation for their beastly forms and pack tactics. Somehow, Shuckster and the gang have become largely mutated kobold-beast hybrids, and this has obviously affected their playstyle, as they have abandoned the 'slow and steady' tactics they used in the lower levels for a more impulsive, hungry strategy.
 
 
 #### Goblin Squads
 Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and material products for them. While these workers are respected as an integral part of Kailkeep's economy, they are still considered cannon-fodder to their Masters - excepting these few with military intelligence whom they have equipped and formed into so-called hit-squads who roam a given layer with the intent of exterminating the highest scoring group present.
 
 ###### 'Vulture Talons' Squad
+The 'Vulture's Talons' Squad earn their name for their scavenger-like tactics, where the squad will lie in wait for their target to resolve a conflict with some other group, and then 'swoop in' to make their kill.
+
 ###### 'Sneaking Mantis' Squad
 ###### 'Gorilla Fists' Squad
 ###### 'Bear Hug' Squad

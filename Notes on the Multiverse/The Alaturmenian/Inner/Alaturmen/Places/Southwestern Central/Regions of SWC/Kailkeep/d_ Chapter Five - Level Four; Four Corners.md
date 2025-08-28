@@ -6,7 +6,11 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 ## What Dwells Here?
 ### Loyalists
 #### 'Vulture Talons' Squad
+> The 'Vulture's Talons' Squad earn their name for their scavenger-like tactics, where the squad will lie in wait for their target to resolve a conflict with some other group, and then 'swoop in' to make their kill.
+
 #### Rammik's Gang
+> Led by a red kobold - Rammik - this well-equipped gang hails from the fourth layer, and have earned a reputation for their lack of remorse during gameplay. Rammik himself is a coward at heart though, leading by impersonation, and he will preserve his own life over those among his team with stunning speed.
+
 #### Bloodylip's Pack
 #### Johnlock's Gang
 ### Dissenters
