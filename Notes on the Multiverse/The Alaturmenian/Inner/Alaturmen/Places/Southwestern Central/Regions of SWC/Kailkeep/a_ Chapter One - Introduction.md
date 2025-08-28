@@ -103,7 +103,7 @@ The 'Vulture's Talons' Squad earned their name for their scavenger-like tactics,
 The 'Sneaking Mantis' Squad earned their name for their stealth-based tactics, pursuing their target until they forced to return the way they came - where the 'Sneaking Mantis' Squad strikes.
 
 ###### 'Gorilla Fists' Squad
-The 'Gorilla Fists' Squad earned their name for their size and 
+The 'Gorilla Fists' Squad earned their name for their unnatural size and strength
 
 ###### 'Bear Hug' Squad
 The 'Bear Hug' Squad
