@@ -61,7 +61,15 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 - A pipe, coming from somewhere else in Kailkeep, slowly drips chunks of sentient gelatinous acid into the hall, which eventually collects together and becomes a hall-width Gelatinous Ooze that will eventually make its way out of this particular hall in search of more detritus to consume.
 #### Yellowback's Lair
 - A pair of small connected chambers serve as the Yellowback Gang's Lair, where they produce their alchemical equipment and rest after a combat.
-	- A number of 'smarter' gangsters stay within the Lair 
+	- A number of 'smarter' gangsters stay within the Lair at all times to manage the alchemical productions.
+	- The gang has collected a small reserve of components, and a smaller supply of readied equipment;
+		- 3x Potions of Vitality, Novice Grade (4d4 + 8 temp HP)
+		- 2x Vials of Stink, Novice Grade (create a 10' radius of *stinking cloud* for 1 minute)
+		- 2x Vials of Liquid Fire, Novice Grade (create a 10' radius of 2d6 fire for 1 minute)
+		- 4x Red Polypore
+		- 4x Harrada
+		- 2x Aloe Vera Nectar
+		- 6x Cactus Fruit
 #### Bernet's Lair
 - A large chamber serves as Bernet's Lair, where it lies in wait to collect trophies and **Tokens** from those it defeats.
 - Eight magnets in the walls of the Lair are used by Bernet during combat to quickly move around the chamber and smush it's opponents against the magnet and themselves.

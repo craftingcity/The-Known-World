@@ -5,6 +5,10 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md"
     },
     {
+      "basename": "Homebrew Alchemy System",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Homebrew Alchemy System.md"
+    },
+    {
       "basename": "e_ Chapter Seven - Level Six; Here Comes an Old Soldier",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Nicolas Talaveem",
       "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Nicolas Talaveem.md"
-    },
-    {
-      "basename": "NPCs",
-      "path": "Game Notes/NPCs/NPCs.md"
     }
   ],
   "omittedPaths": [],
