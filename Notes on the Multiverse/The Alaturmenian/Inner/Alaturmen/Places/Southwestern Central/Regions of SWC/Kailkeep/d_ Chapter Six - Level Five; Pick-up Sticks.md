@@ -57,9 +57,14 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 - A smaller chamber that holds a number of visible tanks on the wall below accompanying **Tokens**. In the center of the chamber, there is a stone bowl with a small grate at the bottom stained a dark red.
 - As the stone bowl is filled with blood, it will travel to one of the tanks on the walls. When a tank is filled with 16 pints of blood (2-3 bodies), the tank's **Token** becomes available.
 #### Clean Ooze
-- 
+- A long, dark hallway that is immaculately clean - no dust or grime to be found.
+- A pipe, coming from somewhere else in Kailkeep, slowly drips chunks of sentient gelatinous acid into the hall, which eventually collects together and becomes a hall-width Gelatinous Ooze that will eventually make its way out of this particular hall in search of more detritus to consume.
 #### Yellowback's Lair
+- A pair of small connected chambers serve as the Yellowback Gang's Lair, where they produce their alchemical equipment and rest after a combat.
+	- A number of 'smarter' gangsters stay within the Lair 
 #### Bernet's Lair
+- A large chamber serves as Bernet's Lair, where it lies in wait to collect trophies and **Tokens** from those it defeats.
+- Eight magnets in the walls of the Lair are used by Bernet during combat to quickly move around the chamber and smush it's opponents against the magnet and themselves.
 #### 'Mercy'
 ##### Pop: 108
 - This series of chambers is the one Holding within Kailkeep's Hells. There is a population of some hundred survivors who have permanently made their home here.
@@ -78,11 +83,11 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 			- Metallic Scrap
 			- Wooden Scrap
 			- Bone
-	- 
+	- If some major act or acts of kindness to the population are made by visitors, they may be awarded with a **Token**.
 ##### Notable Locations...
-- The Gate (aka the Killbox)
+- The Gate / The Killbox
 - The Foundry (& Transmutation Chambers)
 - The Bar (& Hospital)
 - The Arena
-- The Farms, Statue of Jerran the Grower
+- The Farms (& Statue of Jerran the Grower)
 - The Training Grounds & Barracks
