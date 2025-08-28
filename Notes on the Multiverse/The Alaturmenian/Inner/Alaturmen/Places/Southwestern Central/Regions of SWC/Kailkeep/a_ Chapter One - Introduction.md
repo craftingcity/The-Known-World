@@ -100,15 +100,21 @@ Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and mat
 The 'Vulture's Talons' Squad earn their name for their scavenger-like tactics, where the squad will lie in wait for their target to resolve a conflict with some other group, and then 'swoop in' to make their kill.
 
 ###### 'Sneaking Mantis' Squad
+The 'Sneaking Mantis' Squad
+
 ###### 'Gorilla Fists' Squad
+The 'Gorilla Fists' Squad
+
 ###### 'Bear Hug' Squad
+The 'Bear Hug' Squad
+
 ###### 'Cat's Claw' Squad
+The 'Cat's Claw' Squad
 
 #### Goblin Dissenters
 Not all of the Goblin of Kailkeep are loyal to the Kobolds. Some fight their way through Kailkeep as any other civilized person would, wishing to ascend and escape. Generally, these Goblins will gather together for the protection community provides, and fly the banner of one of the Blood Clans, for recognition more than any real relation.
 
 ###### Scrivin Gang
-###### Emorin Gang
 ###### Garqwak Gang
 ###### Bulgpim Gang
 ###### Wheernat Gang
@@ -125,9 +131,6 @@ hails from the sixth layer
 ###### Lynch's Pack
 hails from the seventh layer
 
-#### Gaund Loyalists
-A pre-Alaturmen reptilian people – Gaund – are loyal to the Kobolds of Kailkeep. They reside in the Higher levels of Kailkeep in isolationist societies. Gaund have no desire to ascend, for cultural or intellectual reasons I would not know.
-
 #### Survivalists
 People with little to no training have been taken to the Hells as long as the Hells have existed. Few are capable of surviving while retaining their morality, *and* their intelligence. These are those few.
 
@@ -138,7 +141,7 @@ People with little to no training have been taken to the Hells as long as the He
 ###### Martin's Group
 
 #### Reformed Entertainers
-Whores of glory who have turned from morality in favor of ease and selfishness. They play towards the crowd *too well* to be a well-adjusted person.
+Whores of glory who have turned from morality in favor of ease and selfishness. They play towards the crowd *too well* to still be a well-adjusted person.
 
 ###### Johnlock's Gang
 ###### Hannibal's Gang
@@ -154,6 +157,9 @@ Whole squads of [[Golden Claws]] of [[The Golden City]] find their way into Kail
 
 #### Honorable Thieves
 Trained thieves and pirates have banded together on the bond of their shared lifestyle; and honoring [[The Code of Thieves]] as their highest law.
+
+#### Gaund Loyalists
+A pre-Alaturmen reptilian people – Gaund – are loyal to the Kobolds of Kailkeep. They reside in the Higher levels of Kailkeep in isolationist societies. Gaund have no desire to ascend, for cultural or intellectual reasons I would not know.
 
 ### Beasties
 #### Ankheg, Kruthik, Wurm, Carrion Crawler
