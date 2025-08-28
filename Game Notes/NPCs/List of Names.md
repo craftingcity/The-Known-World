@@ -108,7 +108,7 @@ aliases:
 | --------- | ------- | -------- |
 | Edward    | Caris   | Pirre    |
 | Hektor    | Enoch   | Joanne   |
-| Abraham   | Raam    |          |
+| Abraham   | Raam    | Serina   |
 | Jorrin    | Valerio |          |
 | Marcus    | Roan    |          |
 | Nicolas   | Erez    |          |
@@ -117,7 +117,7 @@ aliases:
 | Mathias   |         |          |
 | Yohain    |         |          |
 | Steward   |         |          |
-| Martin          |         |          |
+| Martin    |         |          |
 
 ## Last Names
 
@@ -138,18 +138,18 @@ aliases:
 # Southwestern (Tetrimocal)
 ## First Names
 
-| Masculine    | Uniform | Feminine  |
-| ------------ | ------- | --------- |
-| Barthalamule | Dante   | Agrandica |
-| Boris        | Sivir   | Ginger    |
-| Edward       | Frin    | Saria     |
-| Fulton       | Pax     | Niurna    |
-| Houran       | Swero   |           |
-| Hallis       |         |           |
-| Lucas        |         |           |
-| Doirin       |         |           |
-| Hasten       |         |           |
-| Zack         |         |           |
+| Masculine    | Uniform  | Feminine  |
+| ------------ | -------- | --------- |
+| Barthalamule | Dante    | Agrandica |
+| Boris        | Sivir    | Ginger    |
+| Edward       | Frin     | Saria     |
+| Fulton       | Pax      | Niurna    |
+| Houran       | Swero    | Elisa     |
+| Hallis       | Kho-Kade |           |
+| Lucas        |          |           |
+| Doirin       |          |           |
+| Hasten       |          |           |
+| Zack         |          |           |
 
 ## Last Names
 

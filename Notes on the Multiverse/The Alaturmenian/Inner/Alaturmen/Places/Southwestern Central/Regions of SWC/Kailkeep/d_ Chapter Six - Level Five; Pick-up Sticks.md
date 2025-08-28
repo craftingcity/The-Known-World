@@ -13,6 +13,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 #### Golden Claw Guard
 #### Honorable Thieves
 #### Niurna's Group
+#### Mercy's Roamers
 ## Exploring this Place
 ### Navigation
 #### Escape Room (Entrance Game)

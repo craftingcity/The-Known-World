@@ -140,9 +140,9 @@ Whores of glory who have turned from morality in favor of ease and selfishness. 
 
 ###### Johnlock's Gang
 ###### Hannibal's Gang
-###### x's Gang
-###### x's Gang
-###### x's Gang
+###### Serina's Gang
+###### Kho-Kade's Gang
+###### Pax's Gang
 
 #### Ancients of Mountainhall
 For as long as Kailkeep has been, the Dwarves of Mountainhall have fought within it. Squads are sent to Kailkeep when they commit horrible crimes, or under brave and foolish command. Few survive to old age, but all dwarves in Kailkeep are Ancients.
@@ -170,8 +170,8 @@ A species of earth elemental came with Terra, and hosting them is a small price 
 Those who survive Kailkeep for too long lose their sanity. One can only take so much of this torturous place. Those who continue to survive do so as Mad-walkers, more a beast of Kailkeep than a person at this point.
 
 ### Mini-bosses
-#### Yeeqzu'g, Mad-speaker
 #### Bernet, Lodestone Golem
+#### Yeeqzu'g, Mad-speaker
 #### Luzikiemal, Risen
 
 ## Kailkeep's Features

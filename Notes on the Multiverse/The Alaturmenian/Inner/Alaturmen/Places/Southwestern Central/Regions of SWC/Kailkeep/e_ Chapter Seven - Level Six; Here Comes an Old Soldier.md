@@ -1,5 +1,6 @@
 # Level Six: Here Comes an Old Soldier
 ## What Dwells Here?
+### Loyalists
 ## Exploring this Place
 ### Navigation
 #### Duck, Duck, Choose (Entrance Game)

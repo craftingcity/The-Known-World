@@ -4,8 +4,45 @@
     "type": "split",
     "children": [
       {
+        "id": "8ecc861b6e699ed0",
+        "type": "tabs",
+        "dimension": 26.463808206546798,
+        "children": [
+          {
+            "id": "0f4d35f3f0ab2541",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "g_ Chapter Nine - Level Eight; The Floor Is Ooze!",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/g_ Chapter Nine - Level Eight; The Floor Is Ooze!.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"g_ Chapter Nine - Level Eight; The Floor Is Ooze!\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Kailkeep"
+            }
+          }
+        ]
+      },
+      {
         "id": "fb56a87ea5fb5ec2",
         "type": "tabs",
+        "dimension": 40.20285846011987,
         "children": [
           {
             "id": "e91530fe230d81d5",
@@ -29,15 +66,86 @@
               "icon": "lucide-file",
               "title": "a_ Chapter One - Introduction"
             }
+          },
+          {
+            "id": "52db6325690ed989",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "d_ Chapter Six - Level Five; Pick-up Sticks"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "69e375ffdd1663ad",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
-            "id": "f6754dcec9c15d59",
+            "id": "ae820cb120c0e6c3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "e_ Chapter Seven - Level Six; Here Comes an Old Soldier"
+            }
+          },
+          {
+            "id": "23e15b015bb8b2f8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "f_ Chapter Eight - Level Seven; Kadabbi"
+            }
+          },
+          {
+            "id": "89e4129ebde933dd",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -47,25 +155,49 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Blood Clans",
+                  "title": "Kailkeep",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Blood Clans\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":16},\"to\":{\"line\":23,\"ch\":16}},\"scroll\":14.659090186914419}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kailkeep\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":50},\"to\":{\"line\":16,\"ch\":50}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/NPCs/List of Names.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/g_ Chapter Nine - Level Eight; The Floor Is Ooze!.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "List of Names"
+              "title": "g_ Chapter Nine - Level Eight; The Floor Is Ooze!"
+            }
+          },
+          {
+            "id": "65ad513cfa7316e0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/h_ Chapter Ten - Level Nine; A Final Test.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "h_ Chapter Ten - Level Nine; A Final Test"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,7 +301,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5080032348633
+    "width": 359.5080032348633,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -317,8 +450,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6754dcec9c15d59",
+  "active": "65ad513cfa7316e0",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/g_ Chapter Nine - Level Eight; The Floor Is Ooze!.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
@@ -340,11 +478,6 @@
     "Sakharov Yosimmite.md",
     "Yosimmite Industries.md",
     "Blackrock Yosimmite.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
-    "Game Notes/Mechanics/Homebrew Spells/Homebrew Spells.md",
-    "Game Notes/Mechanics/Mechanics.md",
-    "Game Notes/Game Notes.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
