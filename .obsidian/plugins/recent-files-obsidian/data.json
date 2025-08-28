@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Custom Features",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
+      "basename": "d_ Chapter Six - Level Five; Pick-up Sticks",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md"
+    },
+    {
+      "basename": "e_ Chapter Seven - Level Six; Here Comes an Old Soldier",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md"
     },
     {
       "basename": "Combat Mechanics and Positioning",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
+    },
+    {
+      "basename": "Custom Armor Mechanics",
+      "path": "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md"
+    },
+    {
+      "basename": "Custom Features",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
     },
     {
       "basename": "Tiana Turing",
@@ -21,10 +33,6 @@
       "path": "Game Notes/Mechanics/Homebrew Weapons/Custom Weapon Mechanics.md"
     },
     {
-      "basename": "e_ Chapter Seven - Level Six; Here Comes an Old Soldier",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md"
-    },
-    {
       "basename": "f_ Chapter Eight - Level Seven; Kadabbi",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "Kailkeep",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md"
-    },
-    {
-      "basename": "d_ Chapter Six - Level Five; Pick-up Sticks",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md"
     },
     {
       "basename": "d_ Chapter Five - Level Four; Four Corners",
@@ -195,10 +199,6 @@
     {
       "basename": "NPCs",
       "path": "Game Notes/NPCs/NPCs.md"
-    },
-    {
-      "basename": "Simonson's Adventuring Party",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md"
     }
   ],
   "omittedPaths": [],

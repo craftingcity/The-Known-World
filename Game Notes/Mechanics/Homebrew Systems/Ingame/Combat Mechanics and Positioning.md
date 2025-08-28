@@ -7,6 +7,8 @@ The following 'Unearthed Arcana' spells are approved;
 The *polymorph* spell is 5th Level (increased from 4th).
 #### Lucky Feat
 The *lucky* feat grants 1 Luck Point (reduced from 3)
+#### Recoverable Stuns
+The *stunned* condition additionally reads: 'As you resolve this condition, you gain Advantage on the next Saving Throw you make against being Stunned.'
 
 
 # Positioning
@@ -75,12 +77,12 @@ Pulling something out is an **Object Interaction**. The item is wielded.
 You may perform a second **Object Interaction** on your turn by using your **Bonus Action**.
 
 ## Oversized Weapons
-Larger creatures can wield larger weapons more easily. Melee Weapons with the *two-handed* property and without the *very heavy* property become *versatile (d+)*.
+Larger creatures can wield larger weapons more easily. For creatures of a size-class of 'Large' or greater, Melee Weapons with the *two-handed* property but without the *very heavy* property become *versatile (d+)* instead of *two-handed* for them.
 
 ## Equipment Slots
 To gain the benefits of a given item, you must assign it to a valid slot. You may only gain the benefits of a single item in a given slot. Some items may occupy more than one slot, in which case, you must assign it to all slots to gain its benefits.
 
-The item slots are as follows (total of 13):
+The item slots are as follows (total of 13 non-armor):
 	- Head (4)
 		- *Armor*
 		- Top of Head
