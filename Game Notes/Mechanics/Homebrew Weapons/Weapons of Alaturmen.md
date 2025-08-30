@@ -299,7 +299,7 @@ Boltshot Firepowder Blasters are *mechanical*, *two-handed*, *ammunition (1)*, a
 | Nightlight II         |       |        | Department of Warfare and Defense, 082AF |      |
 
 #### Boltshot Firepowder Scatterblaster
-Boltshot Firepowder Scatterblasters are arm-length, bolt-action, firepowder firearm platforms. The ammunition used is a collection of tiny metal balls stored in a thin paper casing.
+Boltshot Firepowder Scatterblasters are arm-length, bolt-action, firepowder firearm platforms. The ammunition used is a collection of tiny metal balls stored in a thin paper casing, and can devastate unarmored targets.
 
 Boltshot Firepowder Scatterblasters are *mechanical*, *two-handed*, *ammunition (1)*, and *scatter (15')*. Once per rest, you may use this weapon's special ability;
 
@@ -414,7 +414,8 @@ Durandurm Cannons are *siege*, *ammunition (1)*, *ranged (360/1080)*.
 
 ### Firepowder Operated
 #### Reakshot Firepowder Handblaster
-#### Reakshot Firepowder Longblaster
+Reakshot Firepowder Handblasters are small, recoil-action, firepowder firearm platforms. A newly manufactured weapon, the Reakshot Firepowder Handblasters has grown in popularity in the Combine as a self-defense measure.
+
 | Name / Classification | Range | Damage | Original Producer | Note |
 | --------------------- | ----- | ------ | ----------------- | ---- |
 |                       |       |        |                   |      |

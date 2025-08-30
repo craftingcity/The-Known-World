@@ -142,7 +142,7 @@ People with little to no training have been taken to the Hells as long as the He
 ###### Martin's Group
 
 #### Reformed Entertainers
-Whores of glory who have turned from morality in favor of ease and selfishness. They play towards the crowd *too well* to still be a well-adjusted person, bathing in the blood they spill for their adoring captor-fans.
+Whores of glory who have turned from morality in favor of ease and selfishness. They play towards the crowd *too well* to still be a well-adjusted person, they bathe in the icor and blood they so greedily spill for their adoring captor-fans.
 
 ###### Johnlock's Gang
 ###### Hannibal's Gang

@@ -12,7 +12,10 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 > Led by a red kobold - Rammik - this well-equipped gang hails from the fourth layer, and have earned a reputation for their lack of remorse during gameplay. Rammik himself is a coward at heart though, leading by impersonation, and he will preserve his own life over those among his team with stunning speed.
 
 #### Bloodylip's Pack
+> Hailing from the fourth level of Kailkeep, Bloodylip leads the desperate remnants of a leadership dispute with brutal efficiency and an iron fist. Those who remain with Bloodylip do so out of fear of retaliation more than any benefit they may receive.
+
 #### Johnlock's Gang
+
 ### Dissenters
 #### Ancients of Mountianhall
 #### Golden Claw Guard
