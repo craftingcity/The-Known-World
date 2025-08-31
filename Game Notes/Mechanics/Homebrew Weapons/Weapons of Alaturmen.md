@@ -276,7 +276,7 @@ Durandurm Handblasters are *mechanical*, *ammunition (10)* and *ranged (45/120)*
 
 ### Firepowder Operated
 #### Boltshot Firepowder Handblaster
-Boltshot Firepowder Handblasters are revolving, single action, firepowder firearm platforms. The Handblaster platforms are a recent addition to the Firepowder family of firearms, being developed as a direct response to [[Yosimmite Industries]]' 'Basalt'.
+Boltshot Firepowder Handblasters are revolving, double action, firepowder firearm platforms. The Handblaster platforms are a recent addition to the Firepowder family of firearms, being developed as a direct response to [[Yosimmite Industries]]' 'Basalt'.
 
 Boltshot Firepowder Handblasters are *mechanical*, *ammunition (5)*, and *ranged (60/180)*.
 
@@ -414,7 +414,7 @@ Durandurm Cannons are *siege*, *ammunition (1)*, *ranged (360/1080)*.
 
 ### Firepowder Operated
 #### Reakshot Firepowder Handblaster
-Reakshot Firepowder Handblasters are small, recoil-action, firepowder firearm platforms. A newly manufactured weapon, the Reakshot Firepowder Handblasters has grown in popularity in the Combine as a self-defense measure.
+Reakshot Firepowder Handblasters are small, recoil-action, firepowder firearm platforms. A newly produced weapon, the Reakshot Firepowder Handblasters has grown in popularity in the Combine as a self-defense measure.
 
 Reakshot Firepowder Handblasters are *mechanical*, *ammunition (14)*, and *ranged (45/120)*.
 
@@ -423,15 +423,18 @@ Reakshot Firepowder Handblasters are *mechanical*, *ammunition (14)*, and *range
 |                       |       |        |                   |      |
 
 #### Reakshot Firepowder Carbine
+Reackshot Firepowder Carbines are arm-length, recoil-action, firepowder firearm platforms. The RFC has as storied a history as the government it was designed by, having been used in the [[Suremantle Territory War]] of the 50s, 60s, and 70s, and being an obvious inspiration for the [[Yosimmite Industries]]' (==carbine==).
 
-
-
+Reakshot Firepowder Carbines are *two-handed*, *mechanical*, *ammunition (24)*, and *ranged (60/180)*.
 
 | Name / Classification | Range | Damage | Original Producer | Note |
 | --------------------- | ----- | ------ | ----------------- | ---- |
 |                       |       |        |                   |      |
 
 #### Reakshot Firepowder Scatterblaster
+Reakshot Firepowder Scatterblasters are arm-length, recoil action, firepowder firearm platforms. The Reakshot Firepowder Scatterblaster is uncommonly used in military conflict, but does see use in the hands of adventurers and hunters. 
+
+
 | Name / Classification | Range | Damage | Original Producer | Note |
 | --------------------- | ----- | ------ | ----------------- | ---- |
 |                       |       |        |                   |      |

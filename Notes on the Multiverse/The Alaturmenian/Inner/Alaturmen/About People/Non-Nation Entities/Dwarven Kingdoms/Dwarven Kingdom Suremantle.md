@@ -11,7 +11,7 @@ For all of Alaturmen's history, the [[Deakred Range]] has been under the complet
 
 From the fifties to the seventies, there were many skirmishes along the northern side of the [[Deakred Range]], including the regions of [[Litteortosta]], [[Sinazel Ambonas]], the [[Greenhilles]], and the [[Grumbling Hills]] against the many newly formed factions that since filled Alaturmen. 
 
-These skirmishes were costly, both in resources and reputation, and due to "economic concerns", ie, the Northern Metals Trade, the Clan was forced to capitulate a significant portion of their claimed territory to the [[Guilds of Coalition]] - the areas south and east of the [[Lake of Eternal Life]] were no longer property of the Suremantles. 
+These skirmishes were costly, both in resources and reputation, and due to "economic concerns", ie, the Northern Metals Trade, the Clan was forced to capitulate a significant portion of their claimed territory to the [[Guilds of Coalition]] - the areas south and east of the [[Lake of Eternal Life]] were no longer property of the Suremantles, and the [[Suremantle Territory War]] ended in defeat. 
 
 Since the [[Northern Conflicts, c.105af]], the Suremantle Kingdom has begun to attempt to slowly and covertly push back into their once claimed territories.
 
