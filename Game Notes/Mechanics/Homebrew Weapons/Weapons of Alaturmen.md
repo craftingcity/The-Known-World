@@ -432,8 +432,9 @@ Reakshot Firepowder Carbines are *two-handed*, *mechanical*, *ammunition (24)*, 
 |                       |       |        |                   |      |
 
 #### Reakshot Firepowder Scatterblaster
-Reakshot Firepowder Scatterblasters are arm-length, recoil action, firepowder firearm platforms. The Reakshot Firepowder Scatterblaster is uncommonly used in military conflict, but does see use in the hands of adventurers and hunters. 
+Reakshot Firepowder Scatterblasters are arm-length, recoil action, firepowder firearm platforms. The Reakshot Firepowder Scatterblaster is uncommonly used in military conflict, but does see use in the hands of adventurers and hunters.
 
+Reakshot Firepowder Scatterblasters are *two-handed*, *mechanical*, *ammunition (6)*, and *scatter (15')*.
 
 | Name / Classification | Range | Damage | Original Producer | Note |
 | --------------------- | ----- | ------ | ----------------- | ---- |
