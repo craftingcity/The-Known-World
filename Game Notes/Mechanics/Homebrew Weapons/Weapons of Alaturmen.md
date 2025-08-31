@@ -278,7 +278,7 @@ Durandurm Handblasters are *mechanical*, *ammunition (10)* and *ranged (45/120)*
 #### Boltshot Firepowder Handblaster
 Boltshot Firepowder Handblasters are revolving, single action, firepowder firearm platforms. The Handblaster platforms are a recent addition to the Firepowder family of firearms, being developed as a direct response to [[Yosimmite Industries]]' 'Basalt'.
 
-Boltshot Firepowder Handblasters are *mechanical*, *ammunition (12)*, and *ranged (60/180)*.
+Boltshot Firepowder Handblasters are *mechanical*, *ammunition (5)*, and *ranged (60/180)*.
 
 | Name / Classification | Range | Damage | Original Producer                        | Note |
 | --------------------- | ----- | ------ | ---------------------------------------- | ---- |
@@ -416,11 +416,17 @@ Durandurm Cannons are *siege*, *ammunition (1)*, *ranged (360/1080)*.
 #### Reakshot Firepowder Handblaster
 Reakshot Firepowder Handblasters are small, recoil-action, firepowder firearm platforms. A newly manufactured weapon, the Reakshot Firepowder Handblasters has grown in popularity in the Combine as a self-defense measure.
 
+Reakshot Firepowder Handblasters are *mechanical*, *ammunition (14)*, and *ranged (45/120)*.
+
 | Name / Classification | Range | Damage | Original Producer | Note |
 | --------------------- | ----- | ------ | ----------------- | ---- |
 |                       |       |        |                   |      |
 
 #### Reakshot Firepowder Carbine
+
+
+
+
 | Name / Classification | Range | Damage | Original Producer | Note |
 | --------------------- | ----- | ------ | ----------------- | ---- |
 |                       |       |        |                   |      |
