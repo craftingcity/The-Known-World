@@ -11,7 +11,7 @@ When you miss with an attack that would deal bludgeoning damage, if the attack m
 When you make an attack with a weapon that deals piercing damage, if you have advantage on the attack roll, and you hit with the attack, the attack deals an additional 1d4 damage.
 
 ### Slashing
-When you hit with an attack that would deal slashing damage, you may choose to reduce the damage of your attack by 1d8 and attempt to apply a stack of Bleed. If you do, the creature hit by this attack must make a Constitution Saving throw, the DC of which is equal to this attack's Attack Roll Total. If they fail, you apply half the value of the value rolled as stacks of Bleed.
+When you hit with an attack that would deal slashing damage, you may choose to reduce the damage of your attack by 1d8 and attempt to apply a stack of Bleed. If you do, the creature hit by this attack must make a Constitution Saving throw, the DC of which is equal to this attack's Attack Roll Total. If they fail, you apply half the value of the number rolled as stacks of Bleed.
 
 ``At the beginning of a Bleeding creatures turn, they take 1d4 slashing damage per stack of Bleed they have. A creature may remove all stacks of Bleed from itself by receiving some kind of magical Wound healing ability or spell, or spending a Full Action on their turn to attempt a Profession (Doctor) check, the DC of which is equal to 10 + two times the number of stacks of Bleed the creature has.``
 
@@ -107,7 +107,7 @@ At the beginning of a Burning creature's turn, you deal damage to them as if you
 This weapon operates using complicated mechanics, and can be prone to malfunction. When you roll a 1 on an Attack Roll, you end your Action (you cannot make any Extra Attacks).
 
 ### Grenade (X)
-This weapon is a grenade, designed to be readied, thrown, and then explode. When you make an Attack with a grenade, instead of making an Attack Roll, make an Athletics Check. You may throw the grenade a number of feet equal to twice the total of your Athletics Check. To avoid the explosion, creatures within the radius make a Dexterity Saving throw, the DC of which is equal to your Athletics Check.
+This weapon is a grenade, designed to be readied, thrown, and then explode. When you make an Attack with a grenade, instead of making an Attack Roll, make an Athletics Check. You may throw the grenade a number of feet equal to twice the total of your Athletics Check. To avoid the explosion, creatures within the indicated radius make a Dexterity Saving throw, the DC of which is equal to your Athletics Check.
 
 # Weapon Specials
 Each of the following "Specials" may only be used once between rests.

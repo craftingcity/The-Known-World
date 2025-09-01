@@ -416,7 +416,7 @@ Durandurm Cannons are *siege*, *ammunition (1)*, *ranged (360/1080)*.
 #### Reakshot Firepowder Handblaster
 Reakshot Firepowder Handblasters are small, recoil-action, firepowder firearm platforms. A newly produced weapon, the Reakshot Firepowder Handblasters has grown in popularity in the Combine as a self-defense measure.
 
-Reakshot Firepowder Handblasters are *mechanical*, *ammunition (14)*, and *ranged (45/120)*.
+Reakshot Firepowder Handblasters are *mechanical*, *automatic*, *ammunition (14)*, and *ranged (45/120)*.
 
 | Name / Classification | Range | Damage | Original Producer | Note |
 | --------------------- | ----- | ------ | ----------------- | ---- |
@@ -498,18 +498,24 @@ Durandurm Operated Firearms typically deal d6 elemental damage, but are a variab
 | Durandurm 'Earth Yellow' Magazine   | 1d6 thunder              | Yossimite Industries, 088AF |      |
 | Durandurm 'Air Clear' Magazine      | 1d6 force                | Yossimite Industries, 092AF |      |
 | Durandurm 'Wild Refit' Magazine     | 1d6 piercing             | *unknown*, 100AF            |      |
-| Durandurm 'Blessed' Magazine        | 1d6 radiant              | WhiteTech, 103AF            |      |
+| Durandurm 'Blessed' Magazine        | 1d6 + 1 radiant          | WhiteTech, 103AF            |      |
 | Durandurm 'High Explosive' Magazine | 1d6 force + 1d4 slashing | SEASEC, 104AF               |      |
 
 ### Firepowder Shot
-Firepowder Shot are individual self-contained ammunitions used in the operation of Firepowder Blasters. Shots are sometimes loaded into magazines or belts for use in more complex Firepowder weapons.
+Firepowder Shot are individual self-contained cartridge ammunitions used in the operation of Firepowder Blasters. Shots are sometimes loaded into magazines or belts for use in more complex Firepowder weapons.
 
 Firepowder Shot are created in standard size-forms for a given make or model of Blaster.
 
 ## Specialized Weaponry
 ### Explosives
-#### Fire-Bomb
+#### Fire Bomb
+Fire Bombs are simple handheld explosive devices used for property damage and crowd control. A handheld fireball.
+
+Fire Bombs are *grenade (10')* and *burning*, and deal 2d6+5 fire damage.
+
 #### Pipe Bomb
+Pipe Bombs are simple handheld explosive devices typically used against heavily armored targets.
+
 #### Chili Grenade
 #### Pineapple Grenade
 #### Viper Grenade
