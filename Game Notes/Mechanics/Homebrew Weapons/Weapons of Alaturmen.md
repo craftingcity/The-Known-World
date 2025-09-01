@@ -441,11 +441,19 @@ Reakshot Firepowder Scatterblasters are *two-handed*, *mechanical*, *ammunition 
 |                       |       |        |                   |      |
 
 #### Beltshot Firepowder Rotary Repeater
+Beltshot Firepowder Rotary Repeaters are large firepowder firearm platforms designed for use as a stationary emplacement. The Beltshot Rotary Repeaters fire their projectiles from a long belt of ammunition.
+
+Beltshot Firepowder Rotary Repeaters are *mechanical*, *heavy*, *automatic*, *siege*, *ammunition (30)*, and *ranged (120/480)*.
+
 | Name / Classification | Range | Damage | Original Producer | Note |
 | --------------------- | ----- | ------ | ----------------- | ---- |
 |                       |       |        |                   |      |
 
 #### Boltshot Firepowder Cannon
+Blotshot Firepowder Cannons are large firepowder firearm platforms designed for use as a stationary emplacement. The Boltshot Firepowder Cannon is typically loaded with anti-personnel scattershot, though it can be used to devistating effect against single targets when loaded with its typical round shot.
+
+Boltshot Firepowder Cannons are *siege*, *ammunition (1)*, and *ranged (360/1080)*
+
 | Name / Classification | Range | Damage | Original Producer | Note |
 | --------------------- | ----- | ------ | ----------------- | ---- |
 |                       |       |        |                   |      |
