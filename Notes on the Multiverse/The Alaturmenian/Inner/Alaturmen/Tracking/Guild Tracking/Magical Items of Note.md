@@ -431,7 +431,7 @@ aliases:
 	Source: Frin Copperhammer (TL-W contained, confirmed desceased)
 	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: GME-007 is a naturally occuring gemstone material discovered first by a group of miners in Mountain Hall's 4th Mining Colony, the area now known as Kickoff, but Frin Copperhammer is individually recognized for the popularization of its military applications.
+	Entry Description: GME-007 is a naturally occuring gemstone material discovered first by a group of miners in Mountain Hall's 4th Mining Colony, the area now known as Kickoff, but Blackrock Yosimmite is individually recognized for the popularization of its military applications.
 
 		GME-007 is a multi-staging bright white colored gemstone material that exhibits atypical attunement to Weave influencing effects. When extracted from a source, GME-007 is in it's 'seeking' stage. When exposed to concentrated elements, GME-007 attune to the relevant element, changing color to relfect it's attunement and begin to emit or exhibit affects related to that element (see Experiment Log 007-1 through -4). This is known as the 'attuned' phase. While GME-007 is 'attuned', it will continue to exhibit it's 'attuned' affects for a period of time relative to the size of the GME-007 instance and the concentration of it's 'attuned' elements. 
 		
