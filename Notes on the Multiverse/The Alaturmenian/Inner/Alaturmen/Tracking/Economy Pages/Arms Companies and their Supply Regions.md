@@ -48,9 +48,15 @@ Credited with the introduction of the classical physical firepowder-cartridge fi
 
 | Classification / Project Name | Platform | Description |
 | ----------------------------- | -------- | ----------- |
-| Hunter's Claw I ('44)         |          |             |
-| Nightlight I ('47)            |          |             |
-| Hunter                              |          |             |
+| Hunter's Claw I ('44)         | longblaster         |             |
+| Nightlight I ('47)            | longblaster         |             |
+| Hunter's Claw II ('56)        | longblaster         |             |
+| Hunter's Claw III ('68)       | longblaster         |             |
+| Scrapper I ('72)              |          |             |
+| Nightlight II ('82)           |          |             |
+| Black Guard I ('93)           |          |             |
+| Scrapper II ('96)             |          |             |
+| Black Guard II ('98)          |          |             |
 
 ### [[Kickoff#Yosimmite Industries]]
 Credited with the introduction of the modern magical elemental firearms platform, [[Yosimmite Industries]] is based in the Durandurm capital of the world - [[Kickoff]] - and is responsible for the production of most commercial firearms before the 'Era of War' (c, 100AF).
