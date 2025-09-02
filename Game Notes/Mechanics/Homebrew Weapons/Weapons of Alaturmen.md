@@ -272,7 +272,8 @@ Durandurm Handblasters are *mechanical*, *ammunition (10)* and *ranged (45/120)*
 | Name / Classification | Range  | Damage  | Original Producer           | Note                                                                     |
 | --------------------- | ------ | ------- | --------------------------- | ------------------------------------------------------------------------ |
 | YI-A88 'Sandstone'    | 30/90  | 2x ammo | Yosimmite Industries, 088AF | The prototype of the YI-A90, less than 40 were ever produced.            |
-| YI-A90 'Basalt'       | 45/120 | 1x ammo | Yosimmite Industries, 090AF | The dominant sidearm in the Durandurm arsenal before the Age of Warfare. | 
+| YI-A90 'Basalt'       | 45/120 | 1x ammo | Yosimmite Industries, 090AF | The dominant sidearm in the Durandurm arsenal before the Age of Warfare. |
+| YI-A102 'Granite'     | 45/120 | 1x ammo | Yosimmite Industries, 102AF | The slimmer, sleeker version of the YI-A090.                             |
 
 ### Firepowder Operated
 #### Boltshot Firepowder Handblaster
@@ -280,10 +281,10 @@ Boltshot Firepowder Handblasters are revolving, double action, firepowder firear
 
 Boltshot Firepowder Handblasters are *mechanical*, *ammunition (5)*, and *ranged (60/180)*.
 
-| Name / Classification | Range | Damage | Original Producer                        | Note |
-| --------------------- | ----- | ------ | ---------------------------------------- | ---- |
-| Black Guard I         |       |        | Department of Warfare and Defense, 093AF |      |
-| Black Guard II        |       |        | Department of Warfare and Defense, 098AF |      |
+| Name / Classification | Range  | Damage | Original Producer                        | Note |
+| --------------------- | ------ | ------ | ---------------------------------------- | ---- |
+| Black Guard I         | 60/180 | 1d8    | Department of Warfare and Defense, 093AF |      |
+| Black Guard II        | 60/180 | 1d10   | Department of Warfare and Defense, 098AF |      |
 
 #### Boltshot Firepowder Longblaster
 Boltshot Firepowder Blasters are arm-length, bolt-action, firepowder firearm platforms. Originally made of stone and bronze, decent manufactures have matured into a full-metal construction.
