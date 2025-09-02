@@ -48,7 +48,9 @@ Credited with the introduction of the classical physical firepowder-cartridge fi
 
 | Classification / Project Name | Platform | Description |
 | ----------------------------- | -------- | ----------- |
-|                               |          |             |
+| Hunter's Claw I ('44)         |          |             |
+| Nightlight I ('47)            |          |             |
+| Hunter                              |          |             |
 
 ### [[Kickoff#Yosimmite Industries]]
 Credited with the introduction of the modern magical elemental firearms platform, [[Yosimmite Industries]] is based in the Durandurm capital of the world - [[Kickoff]] - and is responsible for the production of most commercial firearms before the 'Era of War' (c, 100AF).
