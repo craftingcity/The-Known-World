@@ -283,8 +283,8 @@ Boltshot Firepowder Handblasters are *mechanical*, *ammunition (5)*, and *ranged
 
 | Name / Classification | Range  | Damage | Original Producer                        | Note |
 | --------------------- | ------ | ------ | ---------------------------------------- | ---- |
-| Black Guard I         | 60/180 | 1d8    | Department of Warfare and Defense, 093AF |      |
-| Black Guard II        | 60/180 | 1d10   | Department of Warfare and Defense, 098AF |      |
+| Black Guard I         | 60/180 | 1d8 piercing   | Department of Warfare and Defense, 093AF |      |
+| Black Guard II        | 60/180 | 1d10 piercing  | Department of Warfare and Defense, 098AF |      |
 
 #### Boltshot Firepowder Longblaster
 Boltshot Firepowder Blasters are arm-length, bolt-action, firepowder firearm platforms. Originally made of stone and bronze, decent manufactures have matured into a full-metal construction.
@@ -293,11 +293,11 @@ Boltshot Firepowder Blasters are *mechanical*, *two-handed*, *ammunition (1)*, a
 
 | Name / Classification | Range   | Damage | Original Producer                        | Note |
 | --------------------- | ------- | ------ | ---------------------------------------- | ---- |
-| Hunter's Claw I       | 80/400  | 1d8    | Department of Warfare and Defense, 044AF |      |
-| Nightlight I          | 80/400  | 1d8    | Department of Warfare and Defense, 047AF |      |
-| Hunter's Claw II      | 120/600 | 1d8    | Department of Warfare and Defense, 056AF |      |
-| Hunter's Claw III     | 120/600 | 1d10   | Department of Warfare and Defense, 068AF |      |
-| Nightlight II         | 120/600 | 1d10   | Department of Warfare and Defense, 082AF |      |
+| Hunter's Claw I       | 80/400  | 1d8 piercing   | Department of Warfare and Defense, 044AF |      |
+| Nightlight I          | 80/400  | 1d8 piercing   | Department of Warfare and Defense, 047AF |      |
+| Hunter's Claw II      | 120/600 | 1d8 piercing   | Department of Warfare and Defense, 056AF |      |
+| Hunter's Claw III     | 120/600 | 1d10 piercing  | Department of Warfare and Defense, 068AF |      |
+| Nightlight II         | 120/600 | 1d10 piercing  | Department of Warfare and Defense, 082AF |      |
 
 #### Boltshot Firepowder Scatterblaster
 Boltshot Firepowder Scatterblasters are arm-length, bolt-action, firepowder firearm platforms. The ammunition used is a collection of tiny metal balls stored in a thin paper casing, and can devastate unarmored targets.
@@ -306,8 +306,8 @@ Boltshot Firepowder Scatterblasters are *mechanical*, *two-handed*, *ammunition 
 
 | Name / Classification | Range | Damage | Original Producer                        | Note |
 | --------------------- | ----- | ------ | ---------------------------------------- | ---- |
-| Scrapper I            | 15'   | 3d4    | Department of Warfare and Defense, 072AF |      |
-| Scrapper II           | 15'   | 5d8    | Department of Warfare and Defense, 096AF |      |
+| Scrapper I            | 15'   | 3d4 slashing   | Department of Warfare and Defense, 072AF |      |
+| Scrapper II           | 15'   | 5d8 slashing   | Department of Warfare and Defense, 096AF |      |
 
 ## Martial Ranged Weapons
 ### Thrown
@@ -423,52 +423,52 @@ Reakshot Firepowder Handblasters are small, recoil-action, firepowder firearm pl
 
 Reakshot Firepowder Handblasters are *mechanical*, *automatic*, *ammunition (14)*, and *ranged (45/120)*.
 
-| Name / Classification | Range  | Damage | Original Producer                        | Note |
-| --------------------- | ------ | ------ | ---------------------------------------- | ---- |
-| Brass Match I         | 20/60  | 1d10   | Department of Warfare and Defense, 099AF |      |
-| Brass Match II        | 45/120 | 1d10   | Department of Warfare and Defense, 104AF |      |
+| Name / Classification | Range  | Damage        | Original Producer                        | Note |
+| --------------------- | ------ | ------------- | ---------------------------------------- | ---- |
+| Brass Match I         | 20/60  | 1d10 piercing | Department of Warfare and Defense, 099AF |      |
+| Brass Match II        | 45/120 | 1d10 piercing | Department of Warfare and Defense, 104AF |      |
 
 #### Reakshot Firepowder Carbine
 Reackshot Firepowder Carbines are arm-length, recoil-action, firepowder firearm platforms. The RFC has as storied a history as the government it was designed by, having been used in the [[Suremantle Territory War]] of the 50s, 60s, and 70s, and being an obvious inspiration for the [[Yosimmite Industries]]' *YI-B93 'Vulture'*.
 
 Reakshot Firepowder Carbines are *two-handed*, *mechanical*, *automatic*, *ammunition (24)*, and *ranged (60/180)*.
 
-| Name / Classification | Range  | Damage | Original Producer                        | Note |
-| --------------------- | ------ | ------ | ---------------------------------------- | ---- |
-| Thunder I             | 45/120 | 1d8    | Department of Warfare and Defense, 052AF |      |
-| Thunder II            | 45/120 | 1d8    | Department of Warfare and Defense, 066AF |      |
-| Rattler I             | 30/90  | 3d4    | *unknown*, 088AF                         |      |
-| Thunder III           | 60/180 | 2d4    | Department of Warfare and Defense, 073AF |      |
-| Commissar I           | 60/180 | 1d10   | Department of Warfare and Defense, 088AF |      |
+| Name / Classification | Range  | Damage        | Original Producer                        | Note |
+| --------------------- | ------ | ------------- | ---------------------------------------- | ---- |
+| Thunder I             | 45/120 | 1d8 piercing  | Department of Warfare and Defense, 052AF |      |
+| Thunder II            | 45/120 | 1d8 piercing  | Department of Warfare and Defense, 066AF |      |
+| Rattler I             | 30/90  | 3d4 piercing  | *unknown*, 088AF                         |      |
+| Thunder III           | 60/180 | 2d4 piercing  | Department of Warfare and Defense, 073AF |      |
+| Commissar I           | 60/180 | 1d10 piercing | Department of Warfare and Defense, 088AF |      |
 
 #### Reakshot Firepowder Scatterblaster
 Reakshot Firepowder Scatterblasters are arm-length, recoil action, firepowder firearm platforms. The Reakshot Firepowder Scatterblaster is uncommonly used in military conflict, but does see use in the hands of adventurers and hunters.
 
 Reakshot Firepowder Scatterblasters are *two-handed*, *mechanical*, *ammunition (6)*, and *scatter (15')*.
 
-| Name / Classification | Range | Damage | Original Producer                        | Note |
-| --------------------- | ----- | ------ | ---------------------------------------- | ---- |
-| Kebab I               | 15'   | 4d8    | Department of Warfare and Defense, 101AF |      |
+| Name / Classification | Range | Damage       | Original Producer                        | Note |
+| --------------------- | ----- | ------------ | ---------------------------------------- | ---- |
+| Kebab I               | 15'   | 4d8 slashing | Department of Warfare and Defense, 101AF |      |
 
 #### Beltshot Firepowder Rotary Repeater
 Beltshot Firepowder Rotary Repeaters are large firepowder firearm platforms designed for use as a stationary emplacement. The Beltshot Rotary Repeaters fire their projectiles from a long, encumbering belt of ammunition.
 
 Beltshot Firepowder Rotary Repeaters are *mechanical*, *heavy*, *automatic*, *siege*, *ammunition (30)*, and *ranged (120/480)*.
 
-| Name / Classification | Range   | Damage | Original Producer                        | Note |
-| --------------------- | ------- | ------ | ---------------------------------------- | ---- |
-| Sower I          | 60/240  | 2d8    | Department of Warfare and Defense, 063AF |      |
-| Sower II         | 120/480 | 2d10   | Department of Warfare and Defense, 103AF |      |
+| Name / Classification | Range   | Damage        | Original Producer                        | Note |
+| --------------------- | ------- | ------------- | ---------------------------------------- | ---- |
+| Sower I               | 60/240  | 2d8 piercing  | Department of Warfare and Defense, 063AF |      |
+| Sower II              | 120/480 | 2d10 piercing | Department of Warfare and Defense, 103AF |      |
 
 #### Boltshot Firepowder Cannon
 Blotshot Firepowder Cannons are large firepowder ordinance systems designed for use as a stationary emplacement. The Boltshot Firepowder Cannon is typically loaded with anti-personnel scattershot, though it can be used to devistating effect against single targets when loaded with its typical round shot.
 
 Boltshot Firepowder Cannons are *siege*, *ammunition (1)*, and *ranged (360/1080)*.
 
-| Name / Classification | Range    | Damage | Original Producer                        | Note |
-| --------------------- | -------- | ------ | ---------------------------------------- | ---- |
-| Sinker I              | 120/480  | 6d8    | Department of Warfare and Defense, 054AF |      |
-| Sinker II             | 360/1080 | 10d6   | Department of Warfare and Defense, 089AF |      |
+| Name / Classification | Range    | Damage           | Original Producer                        | Note |
+| --------------------- | -------- | ---------------- | ---------------------------------------- | ---- |
+| Sinker I              | 120/480  | 6d8 bludgeoning  | Department of Warfare and Defense, 054AF |      |
+| Sinker II             | 360/1080 | 10d6 bludgeoning | Department of Warfare and Defense, 089AF |      |
 
 ## Ranged Ammunition
 ### Stones
@@ -494,9 +494,12 @@ Arrows are long, tipped shafts that have been fletched and are fired from Bows.
 
 Arrows typically deal 1d8 piercing damage, but are a variable ammunition.
 
-| Name / Classification | Dam. | Original Producer | Note |
-| --------------------- | ---- | ----------------- | ---- |
-| -                     | -    |                   |      |
+| Name / Classification | Dam.                     | Original Producer | Note |
+| --------------------- | ------------------------ | ----------------- | ---- |
+| Tipped Steel Arrows   | 1d6 piercing             | -                 |      |
+| Full Steel Arrows     | 1d8 piercing             | -                 |      |
+| Chaotic Gold Arrows   | 1d8 piercing + 2d8 typed | -                 |      |
+|                       |                          |                   |      |
 
 ### Durandurm Magazines
 Durandurm Magazines are complex ammunition storage modules that contain a number of pellets, usually 10, and an active Durandurm charge. Durandurm Magazines are used in the operation of Durandurm Operated Firearms.
