@@ -269,11 +269,11 @@ Durandurm Handblasters are small elemental firearm platforms designed as a secon
 
 Durandurm Handblasters are *mechanical*, *ammunition (10)* and *ranged (45/120)*. Once per rest, you may use this weapon's special ability;
 
-| Name / Classification | Range  | Damage  | Original Producer           | Note                                                                     |
-| --------------------- | ------ | ------- | --------------------------- | ------------------------------------------------------------------------ |
-| YI-A88 'Sandstone'    | 30/90  | 2x ammo | Yosimmite Industries, 088AF | The prototype of the YI-A90, less than 40 were ever produced.            |
-| YI-A90 'Basalt'       | 45/120 | 1x ammo | Yosimmite Industries, 090AF | The dominant sidearm in the Durandurm arsenal before the Age of Warfare. |
-| YI-A102 'Granite'     | 45/120 | 1x ammo | Yosimmite Industries, 102AF | The slimmer, sleeker version of the YI-A090.                             |
+| Name / Classification | Range  | Damage  | Original Producer           | Note                                                                                    |
+| --------------------- | ------ | ------- | --------------------------- | --------------------------------------------------------------------------------------- |
+| YI-A88 'Sandstone'    | 30/90  | 2x ammo | Yosimmite Industries, 088AF | The prototype of the YI-A90, less than 40 were ever produced.                           |
+| YI-A90 'Basalt'       | 45/120 | 1x ammo | Yosimmite Industries, 090AF | The dominant sidearm in the Durandurm arsenal before the Age of Warfare.                |
+| YI-A102 'Granite'     | 45/120 | 1x ammo | Yosimmite Industries, 102AF | The slimmer, sleeker version of the YI-A090. Negligible mechanical or practical change. |
 
 ### Firepowder Operated
 #### Boltshot Firepowder Handblaster
