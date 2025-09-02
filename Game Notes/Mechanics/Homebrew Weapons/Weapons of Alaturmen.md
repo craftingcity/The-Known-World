@@ -271,9 +271,9 @@ Durandurm Handblasters are *mechanical*, *ammunition (10)* and *ranged (45/120)*
 
 | Name / Classification | Range  | Damage  | Original Producer           | Note                                                                                    |
 | --------------------- | ------ | ------- | --------------------------- | --------------------------------------------------------------------------------------- |
-| YI-A88 'Sandstone'    | 30/90  | 2x ammo | Yosimmite Industries, 088AF | The prototype of the YI-A90, less than 40 were ever produced.                           |
+| YI-A88 'Sandstone'    | 30/90  | 2x ammo | Yosimmite Industries, 088AF | The prototype of the *YI-A90*, less than 40 were ever produced.                           |
 | YI-A90 'Basalt'       | 45/120 | 1x ammo | Yosimmite Industries, 090AF | The dominant sidearm in the Durandurm arsenal before the Age of Warfare.                |
-| YI-A102 'Granite'     | 45/120 | 1x ammo | Yosimmite Industries, 102AF | The slimmer, sleeker version of the YI-A090. Negligible mechanical or practical change. |
+| YI-A102 'Granite'     | 45/120 | 1x ammo | Yosimmite Industries, 102AF | The slimmer, sleeker version of the *YI-A90*. Negligible mechanical or practical change. |
 
 ### Firepowder Operated
 #### Boltshot Firepowder Handblaster
@@ -374,45 +374,48 @@ Durandurm Longblasters are body-length elemental firearm platforms designed for 
 
 Durandurm Longblasters are *mechanical*, *two-handed*, *ammunition (10)*, and *ranged (180/540)*. Once per rest, you may use this weapon's special ability;
 
-| Name / Classification | Range | Damage | Original Producer | Note |
-| --------------------- | ----- | ------ | ----------------- | ---- |
-|                       |       |        |                   |      |
+| Name / Classification | Range   | Damage  | Original Producer           | Note |
+| --------------------- | ------- | ------- | --------------------------- | ---- |
+| YI-B93 'Vulture'      | 100/400 | 1x ammo | Yosimmite Industries, 093AF |      |
+| YI-B98 'Condor'       | 180/540 | 2x ammo | Yosimmite Industries, 098AF |      |
 
 #### Durandurm Carbine
 Durandurm Carbines are arm-length elemental firearm platforms designed for use as a primary weapon during short-to-long range firefights. The Carbine platforms are said to be the most 'well-rounded' platform of the Durandurm family.
 
 Durandurm Carbines are *mechanical*, *two-handed*, *ammunition (10)*, and *ranged (90/360)*. Once per rest, you may use this weapon's special ability;
 
-| Name / Classification | Range | Damage | Original Producer | Note |
-| --------------------- | ----- | ------ | ----------------- | ---- |
-|                       |       |        |                   |      |
+| Name / Classification | Range  | Damage  | Original Producer           | Note |
+| --------------------- | ------ | ------- | --------------------------- | ---- |
+| YI-B102 'Eagle'       | 90/360 | 3x ammo | Yosimmite Industries, 102AF |      |
 
 #### Durandurm Rotary Repeater
 Durandurm Rotary Repeaters are large elemental firearm platforms designed for use as a stationary emplacement. The Rotary Repeater platforms are typically too heavy and inefficient to be used in a mobile conflict.
 
 Durandurm Rotary Repeaters are *mechanical*, *heavy*, *two-handed*, *automatic*, *ammunition (10)*, and *ranged (60/180)*. Once per rest, you may use this weapon's special ability;
 
-| Name / Classification | Range | Damage | Original Producer | Note |
-| --------------------- | ----- | ------ | ----------------- | ---- |
-|                       |       |        |                   |      |
+| Name / Classification | Range  | Damage  | Original Producer           | Note |
+| --------------------- | ------ | ------- | --------------------------- | ---- |
+| YI-E96 'Buzzard'      | 60/180 | 1x ammo | Yosimmite Industries, 096AF |      |
 
 #### Durandurm Scatterblaster
 Durandurm Scatterblasters are arm-length elemental firearm platforms designed for use in close quarters firefights, such as while in a city or tunnel system. The Scatterblaster platforms are typically too short-ranged to see widespread use.
 
 Durandurm Scatterblasters are *mechanical*, *two-handed*, *ammunition (10)*, and *scatter (15')*.
 
-| Name / Classification | Range | Damage | Original Producer | Note |
-| --------------------- | ----- | ------ | ----------------- | ---- |
-|                       |       |        |                   |      |
+| Name / Classification | Range | Damage  | Original Producer           | Note |
+| --------------------- | ----- | ------- | --------------------------- | ---- |
+| YI-D97 'Kettle'       | 15'   | 5x ammo | Yosimmite Industries, 097AF |      |
+|                       |       |         |                             |      |
 
 #### Durandurm Cannon
 Durandurm Cannons are massive elemental ordinance platforms designed for use as a stationary emplacement against heavily armored targets. The Cannon platforms expend multiple magazines of ammunition for each massive round they fire.
 
 Durandurm Cannons are *siege*, *ammunition (1)*, *ranged (360/1080)*.
 
-| Name / Classification | Range | Damage | Original Producer | Note |
-| --------------------- | ----- | ------ | ----------------- | ---- |
-|                       |       |        |                   |      |
+| Name / Classification | Range    | Damage   | Original Producer           | Note |
+| --------------------- | -------- | -------- | --------------------------- | ---- |
+| YI-A85 'Singleton'    | 240/720  | 8x ammo  | Yosimmite Industries, 085AF |      |
+| YI-A91 'Vindicator'   | 360/1080 | 12x ammo | Yosimmite Industries, 091AF                            |      |
 
 ### Firepowder Operated
 #### Reakshot Firepowder Handblaster
@@ -425,7 +428,7 @@ Reakshot Firepowder Handblasters are *mechanical*, *automatic*, *ammunition (14)
 |                       |       |        |                   |      |
 
 #### Reakshot Firepowder Carbine
-Reackshot Firepowder Carbines are arm-length, recoil-action, firepowder firearm platforms. The RFC has as storied a history as the government it was designed by, having been used in the [[Suremantle Territory War]] of the 50s, 60s, and 70s, and being an obvious inspiration for the [[Yosimmite Industries]]' (==carbine==).
+Reackshot Firepowder Carbines are arm-length, recoil-action, firepowder firearm platforms. The RFC has as storied a history as the government it was designed by, having been used in the [[Suremantle Territory War]] of the 50s, 60s, and 70s, and being an obvious inspiration for the [[Yosimmite Industries]]' *YI-B93 'Vulture'*.
 
 Reakshot Firepowder Carbines are *two-handed*, *mechanical*, *ammunition (24)*, and *ranged (60/180)*.
 
