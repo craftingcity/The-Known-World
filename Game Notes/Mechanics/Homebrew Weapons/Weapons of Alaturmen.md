@@ -450,7 +450,7 @@ Beltshot Firepowder Rotary Repeaters are *mechanical*, *heavy*, *automatic*, *si
 |                       |       |        |                   |      |
 
 #### Boltshot Firepowder Cannon
-Blotshot Firepowder Cannons are large firepowder firearm platforms designed for use as a stationary emplacement. The Boltshot Firepowder Cannon is typically loaded with anti-personnel scattershot, though it can be used to devistating effect against single targets when loaded with its typical round shot.
+Blotshot Firepowder Cannons are large firepowder ordinance systems designed for use as a stationary emplacement. The Boltshot Firepowder Cannon is typically loaded with anti-personnel scattershot, though it can be used to devistating effect against single targets when loaded with its typical round shot.
 
 Boltshot Firepowder Cannons are *siege*, *ammunition (1)*, and *ranged (360/1080)*
 
@@ -540,7 +540,13 @@ Skunk Grenades are *grenade (15')*, *filling (15'/3r)*, *dazing*, and deal 1d4+2
 
 ### Liquid Operated
 #### Huumpo Spitter
-Huumpo Spitters are large, body-sized
+Huumpo Spitters are body-sized, pressurized liquid-dispersal devices used to drench people, places, or things in a thick coat of alchemical fire.
+
+Huumpo Spitters are *mechanical*, *ammunition (50)*, *ranged (30/90)*, and *burning*.
+
+| Name / Classification | Dam. | Original Producer | Note |
+| --------------------- | ---- | ----------------- | ---- |
+| -                     | -    |                   |      |
 
 ### Weave-Manipulation Instruments
 #### Arcane Implement
