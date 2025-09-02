@@ -415,7 +415,7 @@ Durandurm Cannons are *siege*, *ammunition (1)*, *ranged (360/1080)*.
 | Name / Classification | Range    | Damage   | Original Producer           | Note |
 | --------------------- | -------- | -------- | --------------------------- | ---- |
 | YI-A85 'Singleton'    | 240/720  | 8x ammo  | Yosimmite Industries, 085AF |      |
-| YI-A91 'Vindicator'   | 360/1080 | 12x ammo | Yosimmite Industries, 091AF                            |      |
+| YI-A91 'Vindicator'   | 360/1080 | 12x ammo | Yosimmite Industries, 091AF |      |
 
 ### Firepowder Operated
 #### Reakshot Firepowder Handblaster
@@ -423,36 +423,42 @@ Reakshot Firepowder Handblasters are small, recoil-action, firepowder firearm pl
 
 Reakshot Firepowder Handblasters are *mechanical*, *automatic*, *ammunition (14)*, and *ranged (45/120)*.
 
-| Name / Classification | Range | Damage | Original Producer | Note |
-| --------------------- | ----- | ------ | ----------------- | ---- |
-|                       |       |        |                   |      |
+| Name / Classification | Range  | Damage | Original Producer                        | Note |
+| --------------------- | ------ | ------ | ---------------------------------------- | ---- |
+| Brass Match I         | 20/60  | 1d10   | Department of Warfare and Defense, 099AF |      |
+| Brass Match II        | 45/120 | 1d10   | Department of Warfare and Defense, 104AF |      |
 
 #### Reakshot Firepowder Carbine
 Reackshot Firepowder Carbines are arm-length, recoil-action, firepowder firearm platforms. The RFC has as storied a history as the government it was designed by, having been used in the [[Suremantle Territory War]] of the 50s, 60s, and 70s, and being an obvious inspiration for the [[Yosimmite Industries]]' *YI-B93 'Vulture'*.
 
-Reakshot Firepowder Carbines are *two-handed*, *mechanical*, *ammunition (24)*, and *ranged (60/180)*.
+Reakshot Firepowder Carbines are *two-handed*, *mechanical*, *automatic*, *ammunition (24)*, and *ranged (60/180)*.
 
-| Name / Classification | Range | Damage | Original Producer | Note |
-| --------------------- | ----- | ------ | ----------------- | ---- |
-|                       |       |        |                   |      |
+| Name / Classification | Range  | Damage | Original Producer                        | Note |
+| --------------------- | ------ | ------ | ---------------------------------------- | ---- |
+| Thunder I             | 45/120 | 1d8    | Department of Warfare and Defense, 052AF |      |
+| Thunder II            | 45/120 | 1d8    | Department of Warfare and Defense, 066AF |      |
+| Rattler I             | 30/90  | 3d4    | *unknown*, 088AF                         |      |
+| Thunder III           | 60/180 | 2d4    | Department of Warfare and Defense, 073AF |      |
+| Commissar I           | 60/180 | 1d10   | Department of Warfare and Defense, 088AF |      |
 
 #### Reakshot Firepowder Scatterblaster
 Reakshot Firepowder Scatterblasters are arm-length, recoil action, firepowder firearm platforms. The Reakshot Firepowder Scatterblaster is uncommonly used in military conflict, but does see use in the hands of adventurers and hunters.
 
 Reakshot Firepowder Scatterblasters are *two-handed*, *mechanical*, *ammunition (6)*, and *scatter (15')*.
 
-| Name / Classification | Range | Damage | Original Producer | Note |
-| --------------------- | ----- | ------ | ----------------- | ---- |
-|                       |       |        |                   |      |
+| Name / Classification | Range | Damage | Original Producer                        | Note |
+| --------------------- | ----- | ------ | ---------------------------------------- | ---- |
+| Kebab I               | 15'   | 4d8    | Department of Warfare and Defense, 101AF |      |
 
 #### Beltshot Firepowder Rotary Repeater
-Beltshot Firepowder Rotary Repeaters are large firepowder firearm platforms designed for use as a stationary emplacement. The Beltshot Rotary Repeaters fire their projectiles from a long belt of ammunition.
+Beltshot Firepowder Rotary Repeaters are large firepowder firearm platforms designed for use as a stationary emplacement. The Beltshot Rotary Repeaters fire their projectiles from a long, encumbering belt of ammunition.
 
 Beltshot Firepowder Rotary Repeaters are *mechanical*, *heavy*, *automatic*, *siege*, *ammunition (30)*, and *ranged (120/480)*.
 
-| Name / Classification | Range | Damage | Original Producer | Note |
-| --------------------- | ----- | ------ | ----------------- | ---- |
-|                       |       |        |                   |      |
+| Name / Classification | Range   | Damage | Original Producer                        | Note |
+| --------------------- | ------- | ------ | ---------------------------------------- | ---- |
+| Land Guard I          | 60/240  | 2d8    | Department of Warfare and Defense, 063AF |      |
+| Land Guard iI         | 120/480 | 2d10   | Department of Warfare and Defense, 103AF |      |
 
 #### Boltshot Firepowder Cannon
 Blotshot Firepowder Cannons are large firepowder ordinance systems designed for use as a stationary emplacement. The Boltshot Firepowder Cannon is typically loaded with anti-personnel scattershot, though it can be used to devistating effect against single targets when loaded with its typical round shot.
