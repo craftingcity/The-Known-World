@@ -112,6 +112,12 @@ This weapon is a grenade, designed to be readied, thrown, and then explode. When
 ### Filling (X/Y)
 This weapon creates an area of the weapon's damage of the indicated size (X) for the indicated number of rounds (Y), or until otherwise dispersed.
 
+### Poisoning
+When you deal damage with this weapon, your opponent makes a Constitution Saving Throw against the Attack Roll. If they fail, they are Poisoned until the end of your next turn.
+
+### Dazing
+When you deal damage with this weapon, your opponent makes a Constitution Saving Throw against the Attack Roll. If they fail, they are Dazed until the end of your next turn.
+
 # Weapon Specials
 Each of the following "Specials" may only be used once between rests.
 
@@ -170,11 +176,6 @@ You may always activate a weapon's Return Special, even if you have already acti
 Please see the [[#Targeting Table]] below.
 
 As you perform a weapon attack, you may attempt to precisely target a part of your target. If your attack beats the target's AC + your selection's DC, the part is severely harmed and the corresponding effect is applied. 
-
-### Scatter
-In replacement of a weapon attack, you may create a 10' cone of small, quick, and harmful shot. Roll your weapon's normal damage. Any creatures in the zone make a Dexterity Saving Throw, taking an equal division of the damage on a failure or half that value on a success. 
-
-Any creatures in half cover take half of their share of the damage, and any creatures in three-quarters cover take three-quarters of their share of the damage, and in either case the remaining damage is done to the cover instead.
 
 ## Targeting Table
 DC Increase | Part | Condition

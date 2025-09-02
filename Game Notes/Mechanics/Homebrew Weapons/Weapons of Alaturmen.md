@@ -531,17 +531,21 @@ Pineapple Grenades are *grenade (15')*, and deal 5d6+20 slashing damage.
 #### Viper Grenade
 Viper Grenades are complex handheld gas-dispersal devices used to deploy large clouds of thick poisonous gas.
 
-Viper Grenades are *grenade (20')*, *filling (20'/3r)*, and deal 6d4+12
+Viper Grenades are *grenade (20')*, *filling (20'/3r)*, *poisoning*, and deal 6d4+12 poison damage.
 
 #### Skunk Grenade
+Skunk Grenades are complex handheld gas-dispersal devices used to deploy clouds of supposedly non-toxic stinking gas.
+
+Skunk Grenades are *grenade (15')*, *filling (15'/3r)*, *dazing*, and deal 1d4+2 poison damage.
+
+### Liquid Operated
+#### Huumpo Spitter
+Huumpo Spitters are large, body-sized
 
 ### Weave-Manipulation Instruments
 #### Arcane Implement
 #### Divine Implement
 #### Elemental Implement
-
-### Liquid Operated
-#### Huumpo Spitter
 
 ## Common Weave Patches
 ### Uniform Weapon Patches
