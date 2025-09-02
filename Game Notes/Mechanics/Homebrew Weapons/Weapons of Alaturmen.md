@@ -519,12 +519,20 @@ Pipe Bombs are simple handheld explosive devices typically used against armored 
 Pipe Bombs are *grenade (10')*, and deal 3d6+8 slashing damage.
 
 #### Chili Grenade
-Chili Grenades are complex handheld explosive devices used to deploy large swaths of fire upon the battlefield.
+Chili Grenades are complex handheld liquid-dispersal devices used to deploy large swaths of fire upon the battlefield. 
+
+Chili Grenades are *grenade (20')* and *burning*, and deal 3d8+16 fire damage.
 
 #### Pineapple Grenade
-Pineapple Grenades are complex handheld explosive devices used against large numbers of hostiles.
+Pineapple Grenades are complex handheld explosive devices that deploy thin spears of molten metal in a large area, typically maiming or outright killing anything they may strike.
+
+Pineapple Grenades are *grenade (15')*, and deal 5d6+20 slashing damage.
 
 #### Viper Grenade
+Viper Grenades are complex handheld gas-dispersal devices used to deploy large clouds of thick poisonous gas.
+
+Viper Grenades are *grenade (20')*
+
 #### Skunk Grenade
 
 ### Weave-Manipulation Instruments
