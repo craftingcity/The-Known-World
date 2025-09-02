@@ -511,13 +511,19 @@ Firepowder Shot are created in standard size-forms for a given make or model of 
 #### Fire Bomb
 Fire Bombs are simple handheld explosive devices used for property damage and crowd control. A handheld fireball.
 
-Fire Bombs are *grenade (10')* and *burning*, and deal 2d6+5 fire damage.
+Fire Bombs are *grenade (10')* and *burning*, and deal 2d4+5 fire damage.
 
 #### Pipe Bomb
 Pipe Bombs are simple handheld explosive devices typically used against heavily armored targets.
 
+Pipe Bombs are *greanade (10)*, and deal 3d4+8 slashing damage.
+
 #### Chili Grenade
+Chili Grenades are complex handheld explosive devices used to deploy large swaths of fire upon the battlefield.
+
 #### Pineapple Grenade
+Pineapple Grenades are complex handheld explosive devices used against large numbers of hostiles.
+
 #### Viper Grenade
 #### Skunk Grenade
 
