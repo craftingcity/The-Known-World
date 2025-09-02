@@ -457,17 +457,18 @@ Beltshot Firepowder Rotary Repeaters are *mechanical*, *heavy*, *automatic*, *si
 
 | Name / Classification | Range   | Damage | Original Producer                        | Note |
 | --------------------- | ------- | ------ | ---------------------------------------- | ---- |
-| Land Guard I          | 60/240  | 2d8    | Department of Warfare and Defense, 063AF |      |
-| Land Guard iI         | 120/480 | 2d10   | Department of Warfare and Defense, 103AF |      |
+| Sower I          | 60/240  | 2d8    | Department of Warfare and Defense, 063AF |      |
+| Sower II         | 120/480 | 2d10   | Department of Warfare and Defense, 103AF |      |
 
 #### Boltshot Firepowder Cannon
 Blotshot Firepowder Cannons are large firepowder ordinance systems designed for use as a stationary emplacement. The Boltshot Firepowder Cannon is typically loaded with anti-personnel scattershot, though it can be used to devistating effect against single targets when loaded with its typical round shot.
 
 Boltshot Firepowder Cannons are *siege*, *ammunition (1)*, and *ranged (360/1080)*.
 
-| Name / Classification | Range | Damage | Original Producer | Note |
-| --------------------- | ----- | ------ | ----------------- | ---- |
-|                       |       |        |                   |      |
+| Name / Classification | Range    | Damage | Original Producer                        | Note |
+| --------------------- | -------- | ------ | ---------------------------------------- | ---- |
+| Sinker I              | 120/480  | 6d8    | Department of Warfare and Defense, 054AF |      |
+| Sinker II             | 360/1080 | 10d6   | Department of Warfare and Defense, 089AF |      |
 
 ## Ranged Ammunition
 ### Stones
