@@ -109,7 +109,8 @@ This weapon operates using complicated mechanics, and can be prone to malfunctio
 ### Grenade (X)
 This weapon is a grenade, designed to be readied, thrown, and then explode. When you make an Attack with a grenade, instead of making an Attack Roll, make an Athletics Check. You may throw the grenade a number of feet equal to twice the total of your Athletics Check. To avoid the explosion, creatures within the indicated radius make a Dexterity Saving throw, the DC of which is equal to your Athletics Check.
 
-### Gaseous
+### Filling (X/Y)
+This weapon creates an area of the weapon's damage of the indicated size (X) for the indicated number of rounds (Y), or until otherwise dispersed.
 
 # Weapon Specials
 Each of the following "Specials" may only be used once between rests.
