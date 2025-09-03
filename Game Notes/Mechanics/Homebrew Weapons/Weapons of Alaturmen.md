@@ -437,7 +437,7 @@ Reakshot Firepowder Carbines are *two-handed*, *mechanical*, *automatic*, *ammun
 | --------------------- | ------ | ------------- | ---------------------------------------- | ---- |
 | Thunder I             | 45/120 | 1d8 piercing  | Department of Warfare and Defense, 052AF |      |
 | Thunder II            | 45/120 | 1d8 piercing  | Department of Warfare and Defense, 066AF |      |
-| Rattler I             | 30/90  | 3d4 piercing  | *unknown*, 088AF                         |      |
+| Rattler               | 30/90  | 3d4 piercing  | *unknown*, 088AF                         |      |
 | Thunder III           | 60/180 | 2d4 piercing  | Department of Warfare and Defense, 073AF |      |
 | Commissar I           | 60/180 | 1d10 piercing | Department of Warfare and Defense, 088AF |      |
 
@@ -498,6 +498,8 @@ Arrows typically deal 1d8 piercing damage, but are a variable ammunition.
 | --------------------- | ------------------------ | ----------------- | ---- |
 | Tipped Steel Arrows   | 1d6 piercing             | -                 |      |
 | Full Steel Arrows     | 1d8 piercing             | -                 |      |
+| Full Silver Arrows    | 1d8+1 piercing           | -                 |      |
+| Full Darksteel Arrows | 1d8+2 piercing           | -                 |      |
 | Chaotic Gold Arrows   | 1d8 piercing + 2d8 typed | -                 |      |
 |                       |                          |                   |      |
 
@@ -592,6 +594,8 @@ You may enable or disable this Patch as a bonus action. While enabled, the weapo
 The weapon feeds on the blood of your enemies, and emboldens you to continue it's feeding.
 
 When you reduce a creature to 0 Hit Points using this weapon, you gain a number of Temporary Hit Points equal to your Proficiency Modifier plus the Patch's Power.
+
+#### Stati
 
 #### Walloping (I - V)
 This weapon packs one hell of a punch.
