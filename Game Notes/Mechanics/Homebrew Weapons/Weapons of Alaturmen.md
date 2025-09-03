@@ -570,18 +570,34 @@ Huumpo Spitters are *mechanical*, *ammunition (72)*, *ranged (30/90)*, and *burn
 
 ## Common Weave Patches
 ### Uniform Weapon Patches
-#### Formalized Form (I)
-This weapon cannot be damaged or destroyed by 
+#### Balanced (I - V)
+The weapon is magically balanced, providing additional accuracy and power to every attack made.
+
+When you make an Attack Roll or a Damage Roll with this weapon, add a number to the roll equal to the Patch's Power. 
+
+#### Bloodrage (I - V)
+This weapon fuels your spirit when your body refuses to.
+
+While you have half your Hit Points or fewer, you gain a bonus to damage dealt with this weapon equal to twice the Patch's Power.
+
+#### Formalized (0)
+This weapon cannot be damaged or destroyed by traditional means.
+
+#### Lanterned (I - X)
+This weapon glows with arcane radiance.
+
+You may enable or disable this Patch as a bonus action. While enabled, the weapon sheds a radius of bright light and then dim light equal to the Patch's Power multiplied by 5'.
 
 #### Leeching (I - V)
 The weapon feeds on the blood of your enemies, and emboldens you to continue it's feeding.
 
 When you reduce a creature to 0 Hit Points using this weapon, you gain a number of Temporary Hit Points equal to your Proficiency Modifier plus the Patch's Power.
 
-#### Balanced (I - V)
-The weapon is magically balanced, providing additional accuracy and power to every attack made.
+#### Walloping (I - V)
+This weapon packs one hell of a punch.
 
-When you make an Attack Roll or a Damage Roll with this weapon, add a number to the roll equal to the Patch's Power. 
+A creature hit by this weapon must succeed on a Strength Saving Throw, the DC of which is equal to twice the Patch's Power plus 8, or be knocked prone.
+
 ### Melee Weapon Patches
 ### Ranged Weapon Patches
 ### Implement Patches
