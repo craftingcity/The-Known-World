@@ -291,23 +291,23 @@ Boltshot Firepowder Blasters are arm-length, bolt-action, firepowder firearm pla
 
 Boltshot Firepowder Blasters are *mechanical*, *two-handed*, *ammunition (1)*, and *ranged (120/600)*. Once per rest, you may use this weapon's special ability;
 
-| Name / Classification | Range   | Damage | Original Producer                        | Note |
-| --------------------- | ------- | ------ | ---------------------------------------- | ---- |
-| Hunter's Claw I       | 80/400  | 1d8 piercing   | Department of Warfare and Defense, 044AF |      |
-| Nightlight I          | 80/400  | 1d8 piercing   | Department of Warfare and Defense, 047AF |      |
-| Hunter's Claw II      | 120/600 | 1d8 piercing   | Department of Warfare and Defense, 056AF |      |
-| Hunter's Claw III     | 120/600 | 1d10 piercing  | Department of Warfare and Defense, 068AF |      |
-| Nightlight II         | 120/600 | 1d10 piercing  | Department of Warfare and Defense, 082AF |      |
+| Name / Classification | Range   | Damage        | Original Producer                        | Note |
+| --------------------- | ------- | ------------- | ---------------------------------------- | ---- |
+| Hunter's Claw I       | 80/400  | 1d8 piercing  | Department of Warfare and Defense, 044AF |      |
+| Nightlight I          | 80/400  | 1d8 piercing  | Department of Warfare and Defense, 047AF |      |
+| Hunter's Claw II      | 120/600 | 1d8 piercing  | Department of Warfare and Defense, 056AF |      |
+| Hunter's Claw III     | 120/600 | 1d10 piercing | Department of Warfare and Defense, 068AF |      |
+| Nightlight II         | 120/600 | 1d10 piercing | Department of Warfare and Defense, 082AF |      |
 
 #### Boltshot Firepowder Scatterblaster
 Boltshot Firepowder Scatterblasters are arm-length, bolt-action, firepowder firearm platforms. The ammunition used is a collection of tiny metal balls stored in a thin paper casing, and can devastate unarmored targets.
 
 Boltshot Firepowder Scatterblasters are *mechanical*, *two-handed*, *ammunition (1)*, and *scatter (15')*. Once per rest, you may use this weapon's special ability;
 
-| Name / Classification | Range | Damage | Original Producer                        | Note |
-| --------------------- | ----- | ------ | ---------------------------------------- | ---- |
-| Scrapper I            | 15'   | 3d4 slashing   | Department of Warfare and Defense, 072AF |      |
-| Scrapper II           | 15'   | 5d8 slashing   | Department of Warfare and Defense, 096AF |      |
+| Name / Classification | Range | Damage       | Original Producer                        | Note |
+| --------------------- | ----- | ------------ | ---------------------------------------- | ---- |
+| Scrapper I            | 15'   | 3d4 slashing | Department of Warfare and Defense, 072AF |      |
+| Scrapper II           | 15'   | 5d8 slashing | Department of Warfare and Defense, 096AF |      |
 
 ## Martial Ranged Weapons
 ### Thrown
@@ -570,6 +570,9 @@ Huumpo Spitters are *mechanical*, *ammunition (72)*, *ranged (30/90)*, and *burn
 
 ## Common Weave Patches
 ### Uniform Weapon Patches
+#### Formalized Form (I)
+This weapon cannot be damaged or destroyed by 
+
 #### Leeching (I - V)
 The weapon feeds on the blood of your enemies, and emboldens you to continue it's feeding.
 

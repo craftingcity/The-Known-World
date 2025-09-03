@@ -383,7 +383,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0761ba811978d409",
+  "floating": {
+    "id": "aa7a86e08a37e817",
+    "type": "floating",
+    "children": [
+      {
+        "id": "351b75e14b6446be",
+        "type": "window",
+        "children": [
+          {
+            "id": "a58c4939ff058c0e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "da1eb6db71c0701d",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Weapons of Alaturmen"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 912,
+        "maximize": false,
+        "zoom": -2
+      }
+    ]
+  },
+  "active": "da1eb6db71c0701d",
   "lastOpenFiles": [
     "Yosimmite Industries.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
