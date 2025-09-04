@@ -20,10 +20,43 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Junie's Characters/Tiana Turing.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tiana Turing"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2c6e986e1681e711",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d4835df1aacd2f8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Junie's Characters/Tiana Turing.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tiana Turing"
             }
           }
         ]
@@ -279,7 +312,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9e93c51c98c3b6b",
+  "active": "6d4835df1aacd2f8",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Arms Companies and their Supply Regions.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",

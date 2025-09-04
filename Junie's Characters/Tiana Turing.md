@@ -3,7 +3,7 @@ tags:
 aliases:
 ---
 # Tiana Turing
-## Gnome Wizard, Auxiliarist (Wizard 4)
+## Gnome Wizard, Auxiliarist (Wizard 5)
 ### she/they
 
 > Standing at 3'9", Tiana wears a practical brown canvas cloak and a comparably large backpack.
@@ -156,15 +156,18 @@ We explore the farmstead, resting for a while and gathering some of the stuff he
 
 Torrin came to us in a firey vision over an altar after the fight.
 
-#### Session 10: Beyond the Cove... (cont.)
+#### Session 10: Beyond the Cove... (cont. )
 
 The rain stopped. We cleaned up the battle and went back to bed. As we travel, we found a person, a purple Tiefling by the name of Cobblestar Woosh. He's transporting flour to *Castaway Cove*. He needs our help to recreate a potion he was supposed to deliver; he gave us the recipe for it.
 
-'Russel' is the guy who makes a 'The Pocket Shop', and Cobblestar will give us one if we get everything for him - but he got spooked before we could ask more questions. Snakes and a Basalisk came and attacked us!
+'Russel' is the guy who makes a 'The Pocket Shop', and Cobblestar will give us one if we get everything for him - but he got spooked before we could ask more questions. Snakes and a Basilisk came and attacked us!
 
 #### Session 11: Beyond the Cove... (cont.)
 
 Cobblestar took off, and we stick around to patch our wounds. We travel for a quarter day before we enter a more canopied area around *Driftfen Lake* and begin to actually rest - but we get interrupted by undead frogkin! 
+
+#### Session 12: Beyond the Cove... (cont.)
+I'm calling the hour or so of sleep we got my short rest for [[#Arcane Recovery]], so I'm grabbing my 3rd level spellslot back in the hopes of Hasting Maggie again.
 
 ## Stats
 
@@ -180,7 +183,7 @@ Cobblestar took off, and we stick around to patch our wounds. We travel for a qu
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | x   | x   | x   | .   | .   | .   | .   | .    | .   |
-| x   | x   | x   | .   | .   | .   | .   |      |     |
+| x   | x   | o   | .   | .   | .   | .   |      |     |
 | x   | x   | .   | .   | .   |     |     | DC   | 16  |
 | x   |     |     |     |     |     |     | ATTK | +8  |
 
