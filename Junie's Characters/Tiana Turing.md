@@ -183,7 +183,7 @@ I'm calling the hour or so of sleep we got my short rest for [[#Arcane Recovery]
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | x   | x   | x   | .   | .   | .   | .   | .    | .   |
-| x   | x   | o   | .   | .   | .   | .   |      |     |
+| x   | x   | x/o | .   | .   | .   | .   |      |     |
 | x   | x   | .   | .   | .   |     |     | DC   | 16  |
 | x   |     |     |     |     |     |     | ATTK | +8  |
 
