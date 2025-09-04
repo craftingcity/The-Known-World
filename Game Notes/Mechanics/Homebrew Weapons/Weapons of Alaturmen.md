@@ -582,6 +582,8 @@ This weapon fuels your spirit when your body refuses to.
 
 While you have half your Hit Points or fewer, you gain a bonus to damage dealt with this weapon equal to twice the Patch's Power.
 
+#### Electrified (I - V)
+
 #### Formalized (0)
 This weapon cannot be damaged or destroyed by traditional means.
 
@@ -594,8 +596,6 @@ You may enable or disable this Patch as a bonus action. While enabled, the weapo
 The weapon feeds on the blood of your enemies, and emboldens you to continue it's feeding.
 
 When you reduce a creature to 0 Hit Points using this weapon, you gain a number of Temporary Hit Points equal to your Proficiency Modifier plus the Patch's Power.
-
-#### Stati
 
 #### Walloping (I - V)
 This weapon packs one hell of a punch.
