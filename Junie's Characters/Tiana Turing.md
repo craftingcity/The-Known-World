@@ -169,6 +169,8 @@ Cobblestar took off, and we stick around to patch our wounds. We travel for a qu
 #### Session 12: Beyond the Cove... (cont.)
 I'm calling the hour or so of sleep we got my short rest for [[#Arcane Recovery]], so I'm grabbing my 3rd level spellslot back in the hopes of Hasting Maggie again.
 
+We ended up fighting some living grung, and we had to switch back and forth on resting till everyone is ready - we gained the benefits of a long rest.
+
 ## Stats
 
 | L. 5 | XP: 10,150 | / 14.0k | (1) Inspiration |
@@ -176,16 +178,16 @@ I'm calling the hour or so of sleep we got my short rest for [[#Arcane Recovery]
 | STR  | 8  (-1)    | PRF     | +3              |
 | CON  | 13 (+1)    | M. HP   | 27 Max HP       |
 | DEX  | 16 (+3)    | AC      | (13)            |
-| INT  | 20 (+5) ^  | C. HP   | 21 HP           |
+| INT  | 20 (+5) ^  | C. HP   | 27 HP           |
 | WIS  | 14 (+2) ^  | HD      | 5d6 (5/5)       |
 | CHA  | 12 (+1)    | SPD     | 25' (5s)        |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| x   | x   | x   | .   | .   | .   | .   | .    | .   |
-| x   | x   | x   | .   | .   | .   | .   |      |     |
-| x   | x   | .   | .   | .   |     |     | DC   | 16  |
-| x   |     |     |     |     |     |     | ATTK | +8  |
+| o   | o   | o   | .   | .   | .   | .   | .    | .   |
+| o   | o   | o   | .   | .   | .   | .   |      |     |
+| o   | o   | .   | .   | .   |     |     | DC   | 16  |
+| o   |     |     |     |     |     |     | ATTK | +8  |
 
 #### Proficiencies
 ##### Skills
@@ -271,8 +273,8 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 
 | Components     | Quantity |
 | -------------- | -------- |
-| Incense        | 14x      |
-| Charcoal       | 2x       |
+| Incense        | 13x      |
+| Charcoal       | 1x       |
 | Pearl          | 3x       |
 | Spiderstep Sap | 1x       |
 
