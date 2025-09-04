@@ -176,14 +176,14 @@ I'm calling the hour or so of sleep we got my short rest for [[#Arcane Recovery]
 | STR  | 8  (-1)    | PRF     | +3              |
 | CON  | 13 (+1)    | M. HP   | 27 Max HP       |
 | DEX  | 16 (+3)    | AC      | (13)            |
-| INT  | 20 (+5) ^  | C. HP   | 27 HP           |
+| INT  | 20 (+5) ^  | C. HP   | 21 HP           |
 | WIS  | 14 (+2) ^  | HD      | 5d6 (5/5)       |
 | CHA  | 12 (+1)    | SPD     | 25' (5s)        |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | x   | x   | x   | .   | .   | .   | .   | .    | .   |
-| x   | x   | o   | .   | .   | .   | .   |      |     |
+| x   | x   | x   | .   | .   | .   | .   |      |     |
 | x   | x   | .   | .   | .   |     |     | DC   | 16  |
 | x   |     |     |     |     |     |     | ATTK | +8  |
 
