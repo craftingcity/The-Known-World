@@ -300,7 +300,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 		- A Painting of My Dad and Grom
 *Groin*:
 	Equipment Belt
-		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]] 0/1)
+		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]] 1/1)
 		- Sheath (Dagger)
 		- Sending Stone (paired with Soju)
 *Legs*:
@@ -320,5 +320,5 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 
 ###### Verdant Band
 - *Attuned*
-- While you are Attuned, you may cast Entangle once per long rest without using a spell slot (1/1).
+- While you are Attuned, you may cast Entangle once per long rest without using a spell slot (0/1).
 - While you are Attuned and standing on 'natural earth', when a Plant attempts to Grapple or Restrain you, you have Advantage on that Check.
