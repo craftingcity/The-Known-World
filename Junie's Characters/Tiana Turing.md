@@ -173,12 +173,12 @@ We ended up fighting some living grung, and we had to switch back and forth on r
 
 ## Stats
 
-| L. 5 | XP: 10,150 | / 14.0k | (1) Inspiration |
+| L. 5 | XP: 10,300 | / 14.0k | (0) Inspiration |
 | ---- | ---------- | ------- | --------------- |
 | STR  | 8  (-1)    | PRF     | +3              |
 | CON  | 13 (+1)    | M. HP   | 27 Max HP       |
 | DEX  | 16 (+3)    | AC      | (13)            |
-| INT  | 20 (+5) ^  | C. HP   | 27 HP           |
+| INT  | 20 (+5) ^  | C. HP   | 24 HP           |
 | WIS  | 14 (+2) ^  | HD      | 5d6 (5/5)       |
 | CHA  | 12 (+1)    | SPD     | 25' (5s)        |
 
