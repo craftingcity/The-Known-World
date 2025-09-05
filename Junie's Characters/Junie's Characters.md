@@ -1,4 +1,10 @@
-# Spike's Characters Overview
+---
+tags:
+- folderfile
+aliases:
+---
+
+# Characters Overview
 %% Begin Waypoint %%
 - [[Amelia Hawkford, the Red]]
 - [[Dante Fukili]]

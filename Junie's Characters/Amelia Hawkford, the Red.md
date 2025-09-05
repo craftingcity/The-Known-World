@@ -1,5 +1,6 @@
 ---
 tags: 
+- player
 aliases: Amelia the Red, Amelia, 
 ---
 

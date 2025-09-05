@@ -1,3 +1,9 @@
+---
+tags:
+- folderfile
+aliases:
+---
+
 # Notes on the Multiverse Table of Contents
 connect to [[Game Notes]]
 %% Begin Waypoint %%

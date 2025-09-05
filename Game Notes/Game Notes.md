@@ -13,6 +13,5 @@ connect to [[Notes on the Multiverse]]
 - **[[Mechanics]]**
 - **[[NPCs]]**
 - **[[Prenotes]]**
-- [[The Bucket List]]
 
 %% End Waypoint %%

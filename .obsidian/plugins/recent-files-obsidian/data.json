@@ -5,6 +5,38 @@
       "path": "DATABASE.base"
     },
     {
+      "basename": "Notes on the Multiverse",
+      "path": "Notes on the Multiverse/Notes on the Multiverse.md"
+    },
+    {
+      "basename": "Tiana Turing",
+      "path": "Junie's Characters/Tiana Turing.md"
+    },
+    {
+      "basename": "Junie's Characters",
+      "path": "Junie's Characters/Junie's Characters.md"
+    },
+    {
+      "basename": "Erin 'Fox' Bathal",
+      "path": "Junie's Characters/Erin 'Fox' Bathal.md"
+    },
+    {
+      "basename": "Eliza 'Elliot' O'Brien",
+      "path": "Junie's Characters/Eliza 'Elliot' O'Brien.md"
+    },
+    {
+      "basename": "Amelia Hawkford, the Red",
+      "path": "Junie's Characters/Amelia Hawkford, the Red.md"
+    },
+    {
+      "basename": "'22",
+      "path": "Game Notes/Prenotes/'22/'22.md"
+    },
+    {
+      "basename": "'21",
+      "path": "Game Notes/Prenotes/'21/'21.md"
+    },
+    {
       "basename": "Jarl Grungar",
       "path": "Game Notes/NPCs/zNon-Humanoid NPCs/Giant NPCs/Jarl Grungar.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "Mechanics of Plane-walking",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Mechanics of Plane-walking.md"
-    },
-    {
-      "basename": "Combat Mechanics and Positioning",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
-    },
-    {
-      "basename": "Skills of Alaturmen",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/Skills of Alaturmen.md"
-    },
-    {
-      "basename": "Spells from Spike's Brain",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md"
-    },
-    {
-      "basename": "Spells from Collective",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md"
-    },
-    {
-      "basename": "Spell Building Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Spell Building Mechanics.md"
-    },
-    {
-      "basename": "Custom Armor Mechanics",
-      "path": "Game Notes/Mechanics/Homebrew Armors/Custom Armor Mechanics.md"
-    },
-    {
-      "basename": "Titan (language)",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Time Before Time/Titan (language).md"
-    },
-    {
-      "basename": "Sylvan (language)",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Time Before Time/Sylvan (language).md"
     }
   ],
   "omittedPaths": [],

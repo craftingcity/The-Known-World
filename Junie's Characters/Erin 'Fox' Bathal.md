@@ -1,3 +1,9 @@
+---
+tags:
+- player
+aliases:
+---
+
 # Erin Bathal
 ## a.k.a 'Fox'
 

@@ -1,3 +1,9 @@
+---
+tags:
+- player
+aliases:
+---
+
 > This is the answers to Alec's questions to develop our characters for the Cthulhu Dark game on 1/7/22
 
 I am a pale skinned. I am some 5 feet and change. I have short and curly bright red hair. I have green eyes. My features are soft. The other soldiers call me boyish. 

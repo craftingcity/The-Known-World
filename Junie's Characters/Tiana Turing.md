@@ -1,5 +1,6 @@
 ---
 tags:
+- player
 aliases:
 ---
 # Tiana Turing
