@@ -1,3 +1,11 @@
+---
+tags:
+- mechanics
+- depreciated
+aliases:
+---
+
+
 | *Strength*      | *Dexterity*              | *Constitution*   | *Intelligence*       | *Wisdom*          | *Charisma*        |
 | --------------- | ------------------------ | ---------------- | -------------------- | ----------------- | ----------------- |
 | Athletics       | Acrobatics               | Endurance        | Knowledge (…)        | Animal Handling   | Bluff             |

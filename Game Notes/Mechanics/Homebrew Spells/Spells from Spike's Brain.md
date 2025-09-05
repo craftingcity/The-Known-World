@@ -1,3 +1,9 @@
+---
+tags:
+- stub
+aliases:
+---
+
 # What stays? What goes?
 Good question, right?
 

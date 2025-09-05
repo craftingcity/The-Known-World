@@ -1,3 +1,9 @@
+---
+tags:
+- mechanics
+aliases:
+---
+
 # Alaturmenian
 ## Goblin
 

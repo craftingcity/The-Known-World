@@ -1,3 +1,9 @@
+---
+tags:
+- mechanics
+aliases:
+---
+
 # Generic Weaponry
 Melee weapons, unless otherwise stated, add STR to attack and and damage rolls, while Ranged weapons use DEX for those rolls.
 

@@ -1,3 +1,9 @@
+---
+tags:
+- mechanics
+aliases:
+---
+
 # Walking the Planes
 ## Alaturmen
 Alaturmen's creation is unique, among the surrounding Planes, and so too are its abilities. Submerged in the Ethereal and Astral planes, Alaturmen holds a bubble of transition, known as the Wildlands, that protects the mortals inhabiting this Plane from the nature of the surrounding Planes.

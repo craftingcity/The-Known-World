@@ -1,6 +1,10 @@
 ---
-tags: timeline-labeled
+tags:
+- faction
+- region
+aliases:
 ---
+
 
 # Kailkeep
 A number of notes, clues, warnings, and "red herrings" have been left by the unlucky entertainers of Kailkeep for as long as it has existed

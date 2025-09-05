@@ -1,5 +1,7 @@
 ---
-tags: notes, bookkeeping
+tags: 
+- notes
+- bookkeeping
 aliases:
 ---
 

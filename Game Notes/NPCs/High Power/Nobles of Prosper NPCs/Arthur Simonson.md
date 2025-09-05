@@ -1,5 +1,7 @@
 ---
-tags: npc, leader, prosper, needs_work
+tags: 
+- npc
+- prosper
 aliases: Artie, King Of Prosper, The Great Adventurer King
 ---
 # Arthur "Artie" Simonson

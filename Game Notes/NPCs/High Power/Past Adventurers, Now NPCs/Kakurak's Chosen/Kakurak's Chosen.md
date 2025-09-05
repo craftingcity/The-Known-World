@@ -1,3 +1,9 @@
+---
+tags:
+- folderfile
+aliases:
+---
+
 # Tales of Kakurak's Chosen
 %% Begin Waypoint %%
 - [[Amashod]]

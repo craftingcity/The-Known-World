@@ -52,7 +52,7 @@ aliases: The Deep Below, Deep Below
 I've stolen a lot of junk from [this pdf](https://img.fireden.net/tg/image/1517/28/1517289863662.pdf).
 
 [This](https://worldbuilderblog.me/2014/05/06/the-underdark/) was also a good resource to draw from
-I have imported some of #realmshelp, which I recommend reading before game.
+I have imported some of realmshelp, which I recommend reading before game.
 This [pdf](https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/264119-sample.pdf) is a good one for creating encounters from thin air, including what theyre doing and some complications or factors in combat and such. Very much recommend when finishing [[Underdark Travel Table]]
 
 

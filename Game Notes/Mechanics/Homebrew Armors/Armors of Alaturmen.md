@@ -1,3 +1,10 @@
+---
+tags:
+- mechanics
+- economy
+aliases:
+---
+
 ## Generic Armors
 ### Light
 | Name            | AC     | Cost in sp. |

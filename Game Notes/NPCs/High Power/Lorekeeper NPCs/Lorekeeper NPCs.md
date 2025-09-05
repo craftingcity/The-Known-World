@@ -1,3 +1,9 @@
+---
+tags:
+- folderfile
+aliases:
+---
+
 # Authors, Bards, and Lorekeepers
 %% Begin Waypoint %%
 - [[Paulo San Tymiq]]

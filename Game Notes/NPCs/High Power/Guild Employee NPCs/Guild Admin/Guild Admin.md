@@ -1,3 +1,10 @@
+---
+tags:
+- folderfile
+aliases:
+---
+
+
 # Admin
 %% Begin Waypoint %%
 - [[Adriana Fairlin Franx]]

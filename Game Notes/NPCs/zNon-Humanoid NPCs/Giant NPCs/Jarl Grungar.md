@@ -1,6 +1,11 @@
 ---
-tags: npc, leader, planes
+tags:
+- npc
+- stub
+- extraplanar
+aliases:
 ---
+
 # The Jarl of the Grungarian Frost Giant Clan
 
 Grungar is the Jarl of an Frost Giant clan. He operates in an unnamed portion of the [[The Planes of Existence#Great Glacier|Great Glacier]] in the [[The Planes of Existence#The Plane of Ice|Plane of Ice]]. 

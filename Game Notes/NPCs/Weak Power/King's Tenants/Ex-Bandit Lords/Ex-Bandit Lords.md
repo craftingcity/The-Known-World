@@ -1,3 +1,9 @@
+---
+tags:
+- folderfile
+aliases:
+---
+
 # Bandit Lords
 %% Begin Waypoint %%
 - [[Asilar 'Goldhand' Guir]]

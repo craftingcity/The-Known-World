@@ -1,3 +1,9 @@
+---
+tags:
+- folderfile
+aliases:
+---
+
 # Grey Ordeal
 %% Begin Waypoint %%
 - **[[Grey Ordeal]]**

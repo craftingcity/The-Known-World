@@ -1,5 +1,8 @@
 ---
-tags: mechanics, notes
+tags:
+- mechanics
+- notes
+- depreciated
 aliases:
 ---
 

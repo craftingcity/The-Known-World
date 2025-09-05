@@ -1,3 +1,10 @@
+---
+tags:
+- mechanics
+- depreciated
+aliases:
+---
+
 # Strength As Carrying Capacity
 A character cannot reasonably loot the contents of a horde onto their person and function at the same capacity in combat or otherwise as they would before. Perhaps it weighs too much, or is too unwieldy to carry all of. Adventure sometimes means leaving something behind.
 

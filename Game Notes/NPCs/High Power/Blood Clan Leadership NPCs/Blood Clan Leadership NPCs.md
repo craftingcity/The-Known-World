@@ -1,3 +1,9 @@
+---
+tags: folderfile
+aliases:
+---
+
+
 # Northeastern Hobgoblin Territories NPCS
 see [[Blood Clans]]
 %% Begin Waypoint %%

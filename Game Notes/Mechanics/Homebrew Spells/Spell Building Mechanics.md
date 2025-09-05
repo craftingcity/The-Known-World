@@ -1,3 +1,10 @@
+---
+tags:
+- mechanics
+aliases:
+---
+
+
 | Spell Level | One Target Save Halves Damage | One Target Save Negates Damage | Several Targets Save Halves Damage | Several Targets Save Negates Damage | One Target No Save |
 |-------------|-------------------------------|--------------------------------|------------------------------------|-------------------------------------|--------------------|
 | Cantrip     | —                             | 5 ½ (1d10)                     | —                                  | 3 ½ (1d6)                           | —                  |

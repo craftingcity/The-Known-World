@@ -1,5 +1,7 @@
 ---
-tags: npc, demon
+tags:
+- npc
+- demon
 aliases:
 ---
 # Graz'zt

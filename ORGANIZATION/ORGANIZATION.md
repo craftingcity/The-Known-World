@@ -4,7 +4,6 @@
 - [[Holding Rules]]
 - [[Methods of Organization]]
 - [[Notes From Grain Into Gold]]
-- [[Organizational Notions]]
 - **[[TEMPLATES]]**
 
 %% End Waypoint %%

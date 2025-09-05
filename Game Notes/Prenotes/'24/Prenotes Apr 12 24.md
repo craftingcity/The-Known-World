@@ -1,7 +1,6 @@
 ---
 tags:
   - notes
-  - prenotes
 aliases:
 ---
 

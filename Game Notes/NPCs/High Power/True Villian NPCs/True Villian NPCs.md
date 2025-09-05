@@ -1,3 +1,9 @@
+---
+tags:
+- folderfile
+aliases:
+---
+
 # World Villans
 %% Begin Waypoint %%
 - [[Arstovich]]

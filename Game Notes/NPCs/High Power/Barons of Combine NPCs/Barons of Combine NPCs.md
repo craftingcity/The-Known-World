@@ -1,3 +1,8 @@
+---
+tags: folderfile
+aliases:
+---
+
 # Combine Rulers
 see [[The Democratic Combine of Peoples]]
 %% Begin Waypoint %%

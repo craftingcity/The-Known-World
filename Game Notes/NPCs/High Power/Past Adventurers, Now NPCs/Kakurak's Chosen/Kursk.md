@@ -1,5 +1,6 @@
 ---
-tags: player_character
+tags: 
+- npc
 aliases:
 ---
 

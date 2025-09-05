@@ -1,1 +1,8 @@
+---
+tags:
+- mechanics
+- stub
+aliases:
+---
+
 Typically, a character can gain proficiency in a skill by purchasing or otherwise acquiring a Skillbook, and then participating in about 40 hours of reading or practice. 

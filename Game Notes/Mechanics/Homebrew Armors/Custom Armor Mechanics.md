@@ -1,3 +1,9 @@
+---
+tags:
+- mechanics
+aliases:
+---
+
 # Armor Tag Changes
 ## Strength Requirement (X)
 To don this armor, you must have a Strength Score of equal or greater value to the number displayed in parentheses directly after this tag.

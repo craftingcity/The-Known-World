@@ -1,3 +1,8 @@
+---
+tags:
+- folderfile
+aliases:
+---
 # Wizards
 %% Begin Waypoint %%
 - **[[Guilded Wizard NPCs]]**

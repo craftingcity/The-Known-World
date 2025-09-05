@@ -1,3 +1,8 @@
+---
+tags:
+- mechanics
+aliases:
+---
 
 ## Background Features
 ##### Company Arms Training

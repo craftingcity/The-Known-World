@@ -1,3 +1,9 @@
+---
+tags:
+- mechanics
+aliases:
+---
+
 # Hotfix Edits
 #### Approved Arcana
 The following 'Unearthed Arcana' spells are approved;

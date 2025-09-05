@@ -1,5 +1,6 @@
 ---
-tags: npc, needs_work
+tags: 
+- npc
 aliases:
 ---
 # Valerio Avishalom
