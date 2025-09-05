@@ -1,3 +1,9 @@
+---
+tags: mechanics, notes
+aliases:
+---
+
+
 ```
 # A Player's Guide to Alaturmen
 

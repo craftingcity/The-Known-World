@@ -39,6 +39,7 @@ for the graph: [[Here lie my suppliments...]]
 	- **[[Lorekeeper NPCs]]**
 	- **[[Nobles of Prosper NPCs]]**
 	- **[[Past Adventurers, Now NPCs]]**
+	- [[Sakharov Yosimmite]]
 	- **[[True Villian NPCs]]**
 - [[Hoggak Cander-Wheernat]]
 - [[List of Names]]

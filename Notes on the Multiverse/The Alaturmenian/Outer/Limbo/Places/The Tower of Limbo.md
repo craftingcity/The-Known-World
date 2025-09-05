@@ -17,13 +17,13 @@ Any "divine" spells or powers are very simply unavailable to their wielders in t
 The [[Queen of Swords]] rules this place, and it has a few rules that are enforced capitally, immediately, and irrevocably.
 
 > 1. No open disdain
->	     A. Explicit violence clause
->	     B. Explicit bigotry clause
+>	     A. Explicit no-violence clause
+>	     B. Explicit no-bigotry clause
 > 2. No worship
-> 		A. Explicit spellcasting clause
-> 		B. Explicit divine non-spell-power clause
+> 		A. Explicit no-spellcasting clause
+> 		B. Explicit no-divine non-spell-power clause
 
-> Not much was known about the Queen of Swords, because few in the city ever saw her, and those who did never spoke to her, or rather, she never spoke in answer to anyone. There was never any doubt she was real, because she had been seen hovering over the streets of the Tower on many occasions. 
+> Not much is known about the Queen of Swords, because few in the city ever saw her, and those who did never spoke to her, or rather, she never spoke in answer to anyone. There was never any doubt she was real, because she had been seen hovering over the streets of the Tower on many occasions. 
 > Any who tried to interact with her at such times found their skin erupting in bloody wounds when she gazed upon them, ... so it was not considered a good sign if she was heard to be about in the streets. Those who had seen her and lived to tell of it described her as being ensconced in sparkling blades. Eventually, she would vanish again into nothingness. 
 > Whatever she was, she was not mortal.
 > \- [[Paulo San Tymiq]], [[Behind the Fog Wall - A Bard's Guide to the Outlands]]

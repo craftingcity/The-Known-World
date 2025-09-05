@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d79add666bcd2388",
+        "id": "c11043b2af6a514a",
         "type": "tabs",
         "children": [
           {
-            "id": "d7c8892b6a8641bb",
+            "id": "5e8a0b40dd34c40d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,13 +20,40 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "bases",
+              "state": {
+                "file": "DATABASE.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "DATABASE"
+            }
+          },
+          {
+            "id": "7fb8c069491a645e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APGtAv1.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "APGtAv1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metals",
+                "query": "tag:#mechanics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5080032348633,
-    "collapsed": true
+    "width": 359.5080032348633
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -208,7 +234,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -257,13 +285,32 @@
               "icon": "lucide-list",
               "title": "Outline of Lingering Injuries"
             }
+          },
+          {
+            "id": "d933f29e422a458b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,8 +326,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7c8892b6a8641bb",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
+    "DATABASE.base",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Limbo/Places/The Tower of Limbo.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Groups/The Whitimores.md",
+    "Game Notes/Prenotes/'24/Prenotes Apr 12 24.md",
+    "Game Notes/NPCs/High Power/Sakharov Yosimmite.md",
+    "Game Notes/NPCs/Mild Power/Blackrock Yosimmite.md",
+    "Game Notes/Prenotes/'25/Prenotes Aug 06 25.md",
+    "Game Notes/Prenotes/'25/Prenotes Aug 07 25.md",
+    "Game Notes/Prenotes/'25/Prenotes Aug 09 25.md",
+    "Game Notes/Prenotes/'25/Prenotes July xx 25.md",
+    "Game Notes/Game Notes.md",
     "Junie's Characters/Tiana Turing.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Arms Companies and their Supply Regions.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
@@ -296,17 +354,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/h_ Chapter Ten - Level Nine; A Final Test.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
-    "Game Notes/NPCs/List of Names.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
-    "Junie's Characters/Zari Franx.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Kickoff.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Time Before Time/Astral Goblin (language).md",
-    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
@@ -321,7 +368,6 @@
     "MEDIA/SUPP/SCRIPTS/motifdisplay.py",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "MEDIA/MAPS/WORLD/underdark.png",
-    "Game Notes/Prenotes/'25",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "MEDIA/CHAR/danteFinal.jpg"
   ]

@@ -1,0 +1,20 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!file.tags.containsAny("folderfile", "notes")'
+        - '!file.ext.containsAny("png", "pdf", "jpg", "webm", "odt", "drawio", "py", "ods", "pdn", "json", "odp", "base", "yml")'
+    order:
+      - file.name
+      - file.tags
+      - file.ext
+      - file.ctime
+      - file.links
+      - file.mtime
+    sort:
+      - property: file.tags
+        direction: ASC
+    columnSize:
+      file.tags: 134
+      file.links: 907
