@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "25c1a2b062170010",
+        "id": "3f41b95f4d70ce89",
         "type": "tabs",
         "children": [
           {
-            "id": "91b90ef97419ab72",
+            "id": "9601285ecae2f84a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "'21",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'21/'21.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"'21\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":12},\"to\":{\"line\":2,\"ch\":12}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -26,13 +20,14 @@
               ]
             },
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "DATABASE.base",
-                "viewName": "Table"
+                "file": "Junie's Characters/Tiana Turing.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-table",
-              "title": "DATABASE"
+              "icon": "lucide-file",
+              "title": "Tiana Turing"
             }
           }
         ]
@@ -309,10 +304,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91b90ef97419ab72",
+  "active": "9601285ecae2f84a",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Notes on the Multiverse.md",
     "DATABASE.base",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
     "MEDIA/SUPP/Here lie my suppliments....md",
     "MEDIA/MEDIA.md",
     "Junie's Characters/Tiana Turing.md",
@@ -337,7 +332,6 @@
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md",
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Nobles of Prosper NPCs.md",
     "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
-    "Game Notes/NPCs/High Power/Lorekeeper NPCs/Lorekeeper NPCs.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
