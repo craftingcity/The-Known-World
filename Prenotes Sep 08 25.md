@@ -25,7 +25,7 @@ We get to fight Tymirek! He wants to leave, but he's an asshole (and has nothing
 10
 5
 
-He will
+He will try to escape before really trying to button down and kill the party, he wants to get out of here and maybe make his way to [[Kailkeep]], where he could either base for a while or simply 'do a run' before setting up somewhere else.
 
 ### What happened?
 
