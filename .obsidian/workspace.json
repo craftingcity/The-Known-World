@@ -4,21 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25c1a2b062170010",
+        "id": "8a8f7e3e7c85fba6",
         "type": "tabs",
+        "dimension": 47.088021178027795,
         "children": [
           {
-            "id": "91b90ef97419ab72",
+            "id": "da425f0d6077eac6",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "'21",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'21/'21.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"'21\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":12},\"to\":{\"line\":2,\"ch\":12}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -26,13 +21,68 @@
               ]
             },
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "DATABASE.base",
-                "viewName": "Table"
+                "file": "Game Notes/Campaign Rosters/Jasper's Angels.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-table",
-              "title": "DATABASE"
+              "icon": "lucide-file",
+              "title": "Jasper's Angels"
+            }
+          },
+          {
+            "id": "e6570ca988823a21",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'25/Prenotes Aug 07 25.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes Aug 07 25"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1ff58eca2a6b7125",
+        "type": "tabs",
+        "dimension": 52.911978821972205,
+        "children": [
+          {
+            "id": "2173f4912bef0059",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Sep 08 25.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes Sep 08 25"
             }
           }
         ]
@@ -293,7 +343,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -309,10 +360,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91b90ef97419ab72",
+  "active": "2173f4912bef0059",
   "lastOpenFiles": [
-    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "Game Notes/Prenotes/'25/Prenotes Aug 07 25.md",
+    "Prenotes Sep 08 25.md",
+    "Game Notes/Campaign Rosters/Jasper's Angels.md",
     "DATABASE.base",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
     "MEDIA/SUPP/Here lie my suppliments....md",
     "MEDIA/MEDIA.md",
     "Junie's Characters/Tiana Turing.md",
@@ -335,9 +389,6 @@
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Grod.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Amashod.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md",
-    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Nobles of Prosper NPCs.md",
-    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md",
-    "Game Notes/NPCs/High Power/Lorekeeper NPCs/Lorekeeper NPCs.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
