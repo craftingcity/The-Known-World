@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for September 10th
+# Prenotes for September xxth
 ## Party of Interest: [[Jasper's Angels]]
 - [ ] DM Screen
 - [ ] Notepaper

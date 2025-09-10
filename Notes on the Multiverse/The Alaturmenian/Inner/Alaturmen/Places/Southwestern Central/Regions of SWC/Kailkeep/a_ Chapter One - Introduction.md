@@ -94,7 +94,7 @@ Leb by a yellow kobold - Shuckster - this mutated gang hails from the eighth lay
 
 
 #### Goblin Squads
-Many Goblin of Kailkeep are loyal to the Kobolds, creating entertainment and material products for them. While these workers are respected as an integral part of Kailkeep's economy, they are still considered cannon-fodder to their Masters - excepting these few with military intelligence whom they have equipped and formed into so-called hit-squads who roam a given layer with the intent of exterminating the highest scoring group present.
+Many Goblin of Kailkeep are subject to the Kobolds, creating material products and entertainment for them. While these workers are respected as an integral part of Kailkeep's economy, they are still considered cannon-fodder to their Masters - excepting these few with military intelligence whom they have equipped and formed into so-called hit-squads who roam a given layer with the intent of exterminating the highest scoring group present.
 
 ###### 'Vulture Talons' Squad
 The 'Vulture's Talons' Squad earned their name for their scavenger-like tactics, where the squad will lie in wait for their target to resolve a conflict with some other group, and then 'swoop in' to make their kill.
@@ -111,13 +111,6 @@ The 'Bear Hug' Squad earned their name for their physical tactics, attempting to
 ###### 'Cat's Claw' Squad
 The 'Cat's Claw' Squad earned their name for the deep wounds their weapons deal - allowing them to strike, retreat, and finalize their kill after it has been weakened.
 
-#### Goblin Dissenters
-Not all the Goblin of Kailkeep are loyal to the Kobolds. Some fight their way through Kailkeep as any other civilized person would, wishing to ascend and escape. Generally, these Goblins will gather together for the protection community provides, and fly the banner of one of the Blood Clans, for recognition more than any real relation.
-
-###### Scrivin Gang
-###### Garqwak Gang
-###### Bulgpim Gang
-###### Wheernat Gang
 
 #### Black Gnoll
 The Gnoll that find themselves in Kailkeep typically develop a black tint in their fur from the dusty stone present throughout the Hells. Many Gnoll find their hunger satisfied in Kailkeep and stay upon their ascension, but some do not, and are cast to the lower levels or killed.
@@ -126,7 +119,8 @@ The Gnoll that find themselves in Kailkeep typically develop a black tint in the
 Hailing from the fourth level of Kailkeep, Bloodylip leads the desperate remnants of a leadership dispute with brutal efficiency and an iron fist. Those who remain with Bloodylip do so out of fear of retaliation more than any benefit they may receive.
 
 ###### Dusk's Pack
-hails from the fifth layer
+Hailing from the fifth level of Kailkeep, Dusk leads a 
+
 ###### Reaper's Pack
 hails from the sixth layer
 ###### Lynch's Pack

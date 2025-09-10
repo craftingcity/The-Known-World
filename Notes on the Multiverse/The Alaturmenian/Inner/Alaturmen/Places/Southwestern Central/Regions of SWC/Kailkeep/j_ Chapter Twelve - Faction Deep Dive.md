@@ -1,7 +1,6 @@
 # Factions
 ## Kobold Loyalists
 ## Goblin Hit-teams
-## Goblin Dissenters
 ## Red Gnoll
 ## Survivalists
 ## Entertainers
