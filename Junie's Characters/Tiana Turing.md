@@ -178,7 +178,7 @@ We got into combat with more Grung...
 
 ... and combat continues. We won.
 
-We keep travelling.
+We keep travelling, and we finally get to make a choice about where we go - we can follow the path north, towards the mountain, east towards the central island, or west towards the swamp. We choose west, hoping to end up in the swamps, where we seek the Heartsoul of the Sunken Pyre
 
 ## Stats
 
@@ -283,7 +283,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 | Components     | Quantity |
 | -------------- | -------- |
 | Incense        | 13x      |
-| Charcoal       | 1x       |
+| Charcoal       | 4x       |
 | Pearl          | 3x       |
 | Spiderstep Sap | 1x       |
 
