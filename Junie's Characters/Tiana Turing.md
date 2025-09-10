@@ -170,7 +170,13 @@ Cobblestar took off, and we stick around to patch our wounds. We travel for a qu
 #### Session 12: Beyond the Cove... (cont.)
 I'm calling the hour or so of sleep we got my short rest for [[#Arcane Recovery]], so I'm grabbing my 3rd level spellslot back in the hopes of Hasting Maggie again.
 
-We ended up fighting some living grung, and we had to switch back and forth on resting till everyone is ready - we gained the benefits of a long rest.
+We ended up fighting some living Grung, and we had to switch back and forth on resting till everyone is ready - we gained the benefits of a long rest.
+
+We got into combat with more Grung...
+
+#### Session 13: Beyond the Cove... (cont.)
+
+... and combat continues. 
 
 ## Stats
 
