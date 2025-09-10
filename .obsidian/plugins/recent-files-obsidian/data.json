@@ -5,6 +5,10 @@
       "path": "Junie's Characters/Tiana Turing.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "DATABASE",
       "path": "DATABASE.base"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Skillbooks",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Skillbooks.md"
-    },
-    {
-      "basename": "Mechanics of Plane-walking",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Mechanics of Plane-walking.md"
     }
   ],
   "omittedPaths": [],
