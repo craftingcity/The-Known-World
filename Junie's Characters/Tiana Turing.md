@@ -187,13 +187,13 @@ We keep travelling.
 | STR  | 8  (-1)    | PRF     | +3              |
 | CON  | 13 (+1)    | M. HP   | 27 Max HP       |
 | DEX  | 16 (+3)    | AC      | (13)            |
-| INT  | 20 (+5) ^  | C. HP   | 24 HP           |
+| INT  | 20 (+5) ^  | C. HP   | 27 HP           |
 | WIS  | 14 (+2) ^  | HD      | 5d6 (5/5)       |
 | CHA  | 12 (+1)    | SPD     | 25' (5s)        |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| x   | o   | o   | .   | .   | .   | .   | .    | .   |
+| o   | o   | o   | .   | .   | .   | .   | .    | .   |
 | o   | o   | o   | .   | .   | .   | .   |      |     |
 | o   | o   | .   | .   | .   |     |     | DC   | 16  |
 | o   |     |     |     |     |     |     | ATTK | +8  |
@@ -276,7 +276,6 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 (10gp, 25sp)
 
 - 2x *Pot of Healing*; 2d4+2
-- Scroll of Remove Curse
 - Anatomical Notes of Creatures of the Island
 - Cold Iron Rat-Spiral Engraved Key
 - Wooden Idol of 'Jungle God'
@@ -323,7 +322,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 - *Attuned*
 - While you are Attuned, the Coin can be used as an Arcane Focus.
 - While you are Attuned, the Coin grants +1 to Arcana Skill Checks.
-- While you are Attuned, you may store a 1st Level Wizard Spell in the Coin (currently *Silvery Barbs* 0/1).
+- While you are Attuned, you may store a 1st Level Wizard Spell in the Coin (currently *Silvery Barbs* 1/1).
 - While you are Attuned, once per long rest, before you cast a spell (5/10);
 	- *(Heads / Evens)* Gain Advantage on an Attack Roll made for the spell, or impose Disadvantage on a Saving Throw made for the spell.
 	- *(Tails / Odds)* Regain the lowest level spell slot expended to cast the spell.
