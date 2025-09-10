@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for September 8th
+# Prenotes for September 10th
 ## Party of Interest: [[Jasper's Angels]]
 - [ ] DM Screen
 - [ ] Notepaper
@@ -25,7 +25,9 @@ We get to fight Tymirek! He wants to leave, but he's an asshole (and has nothing
 10
 5
 
-He will try to escape before really trying to button down and kill the party, he wants to get out of here and maybe make his way to [[Kailkeep]], where he could either base for a while or simply 'do a run' before setting up somewhere else.
+He will try to escape before really trying to button down and kill the party, he wants to get out of here and maybe make his way to [[Kailkeep]], where he could either base for a while or simply 'do a run' before setting up somewhere else. 
+
+Kailkeep isn't so far and we'd be sighted by [[Dampguard]] (and other Baronies in the area), the Thieves, and the [[Golden Claws]].
 
 ### What happened?
 

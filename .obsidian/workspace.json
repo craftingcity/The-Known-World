@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f41b95f4d70ce89",
+        "id": "b96521b906b3c1ab",
         "type": "tabs",
         "children": [
           {
-            "id": "9601285ecae2f84a",
+            "id": "93132214f2b74275",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,41 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
+                "file": "Prenotes Sep 10 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tiana Turing"
-            }
-          }
-        ]
-      },
-      {
-        "id": "411391839a1f75cd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "85a5a80326ae691c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tiana Turing"
+              "title": "Prenotes Sep 10 25"
             }
           }
         ]
@@ -334,11 +305,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85a5a80326ae691c",
+  "active": "93132214f2b74275",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Junie's Characters/Tiana Turing.md",
-    "Prenotes Sep 08 25.md",
+    "conflict-files-obsidian-git.md",
+    "Prenotes Sep 10 25.md",
     "DATABASE.base",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "MEDIA/SUPP/Here lie my suppliments....md",
