@@ -31,6 +31,35 @@
             }
           }
         ]
+      },
+      {
+        "id": "43c36eedf0975f36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd36aea16dd5f726",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "language",
+                "query": "dragon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5080032348633,
-    "collapsed": true
+    "width": 359.5080032348633
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -307,9 +335,10 @@
   },
   "active": "93132214f2b74275",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+    "Prenotes Sep 10 25.md",
     "Junie's Characters/Tiana Turing.md",
     "conflict-files-obsidian-git.md",
-    "Prenotes Sep 10 25.md",
     "DATABASE.base",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "MEDIA/SUPP/Here lie my suppliments....md",
@@ -333,7 +362,6 @@
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Grod.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Amashod.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md",
-    "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Nobles of Prosper NPCs.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",

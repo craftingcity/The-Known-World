@@ -27,7 +27,12 @@ We get to fight Tymirek! He wants to leave, but he's an asshole (and has nothing
 
 He will try to escape before really trying to button down and kill the party, he wants to get out of here and maybe make his way to [[Kailkeep]], where he could either base for a while or simply 'do a run' before setting up somewhere else. 
 
-Kailkeep isn't so far and we'd be sighted by [[Dampguard]] (and other Baronies in the area), the Thieves, and the [[Golden Claws]].
+Kailkeep isn't so far and we'd be sighted by [[Dampguard]] (and other Baronies in the area), the Thieves, and the [[Golden Claws]] - and seeing another dragon come around is not good! We like to not have those hanging around! 
+
+```
+We haven't really seen any around since like, the 60s excepting Tetrimoc, so something's going on? (they're just moving in from the Wildlands a little more commonly in this generation so they dont have to move into the other planes)
+```
+
 
 ### What happened?
 
