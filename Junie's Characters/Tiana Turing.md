@@ -176,11 +176,13 @@ We got into combat with more Grung...
 
 #### Session 13: Beyond the Cove... (cont.)
 
-... and combat continues. 
+... and combat continues. We won.
+
+We keep travelling.
 
 ## Stats
 
-| L. 5 | XP: 10,300 | / 14.0k | (0) Inspiration |
+| L. 5 | XP: 11,200 | / 14.0k | (0) Inspiration |
 | ---- | ---------- | ------- | --------------- |
 | STR  | 8  (-1)    | PRF     | +3              |
 | CON  | 13 (+1)    | M. HP   | 27 Max HP       |
@@ -191,7 +193,7 @@ We got into combat with more Grung...
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| x   | x   | o   | .   | .   | .   | .   | .    | .   |
+| x   | o   | o   | .   | .   | .   | .   | .    | .   |
 | o   | o   | o   | .   | .   | .   | .   |      |     |
 | o   | o   | .   | .   | .   |     |     | DC   | 16  |
 | o   |     |     |     |     |     |     | ATTK | +8  |
@@ -249,6 +251,7 @@ x [Snowball Swarm](https://dnd5e.wikidot.com/spell:snillocs-snowball-swarm)
 	- **3rd Level Spells**;
 x (C) [Haste](https://dnd5e.wikidot.com/spell:haste)
 x [Counterspell](https://dnd5e.wikidot.com/spell:counterspell)
+o [Remove Curse](https://dnd5e.wikidot.com/spell:remove-curse)
 
 ##### Arcane Recovery
 - Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
