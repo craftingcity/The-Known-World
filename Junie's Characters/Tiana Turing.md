@@ -180,7 +180,7 @@ We got into combat with more Grung...
 
 We keep travelling, and we finally get to make a choice about where we go - we can follow the path north, towards the mountain, east towards the central island, or west towards the swamp. We choose west, hoping to end up in the swamps, where we seek the Heartsoul of the Sunken Pyre.
 
-
+We begin to take our rest for the night, and some floating lights approached us!
 
 ## Stats
 
