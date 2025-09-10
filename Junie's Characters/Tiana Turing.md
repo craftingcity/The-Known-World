@@ -178,7 +178,9 @@ We got into combat with more Grung...
 
 ... and combat continues. We won.
 
-We keep travelling, and we finally get to make a choice about where we go - we can follow the path north, towards the mountain, east towards the central island, or west towards the swamp. We choose west, hoping to end up in the swamps, where we seek the Heartsoul of the Sunken Pyre
+We keep travelling, and we finally get to make a choice about where we go - we can follow the path north, towards the mountain, east towards the central island, or west towards the swamp. We choose west, hoping to end up in the swamps, where we seek the Heartsoul of the Sunken Pyre.
+
+
 
 ## Stats
 
@@ -303,13 +305,13 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 		- Fur & Leather Bedroll
 		- Mess Kit & Tinderbox
 		- 10x Torches
-		- 10x Rations
+		- 9x Rations
 		- Leather Waterskin (1/1L)
 		- Small Brass Brazier
 		- A Painting of My Dad and Grom
 *Groin*:
 	Equipment Belt
-		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]] 1/1 flip)
+		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]] 0/1 flip)
 		- Sheath (Dagger)
 		- Sending Stone (paired with Soju)
 *Legs*:
@@ -323,7 +325,7 @@ At 2nd level, while you are holding the book, it grants you the following benefi
 - While you are Attuned, the Coin can be used as an Arcane Focus.
 - While you are Attuned, the Coin grants +1 to Arcana Skill Checks.
 - While you are Attuned, you may store a 1st Level Wizard Spell in the Coin (currently *Silvery Barbs* 1/1).
-- While you are Attuned, once per long rest, before you cast a spell (5/10);
+- While you are Attuned, once per long rest, before you cast a spell (6/10);
 	- *(Heads / Evens)* Gain Advantage on an Attack Roll made for the spell, or impose Disadvantage on a Saving Throw made for the spell.
 	- *(Tails / Odds)* Regain the lowest level spell slot expended to cast the spell.
 
