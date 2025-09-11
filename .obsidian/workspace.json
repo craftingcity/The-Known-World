@@ -4,40 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "99dab77b2fc146a1",
+        "id": "7a1e4b65c4a804e5",
         "type": "tabs",
         "children": [
           {
-            "id": "b8f3c696f32b849c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "a_ Chapter One - Introduction",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"a_ Chapter One - Introduction\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Kailkeep"
-            }
-          },
-          {
-            "id": "441a79e2ac062c58",
+            "id": "aef8bf3e53dbb330",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -51,65 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
+                "file": "Prenotes Sep 10 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "a_ Chapter One - Introduction"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "0e8d30ef790d0636",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "27c33737a870f485",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "d_ Chapter Five - Level Four; Four Corners"
-            }
-          },
-          {
-            "id": "7858767881b0e114",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "d_ Chapter Six - Level Five; Pick-up Sticks"
+              "title": "Prenotes Sep 10 25"
             }
           }
         ]
@@ -386,15 +304,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "441a79e2ac062c58",
+  "active": "aef8bf3e53dbb330",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/j_ Chapter Twelve - Faction Deep Dive.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
-    "Prenotes Sep xx 25.md",
+    "Prenotes Sep 10 25.md",
     "Junie's Characters/Tiana Turing.md",
     "conflict-files-obsidian-git.md",
     "DATABASE.base",

@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for September xxth
+# Prenotes for September 10th
 ## Party of Interest: [[Jasper's Angels]]
 - [ ] DM Screen
 - [ ] Notepaper
@@ -18,7 +18,7 @@ When last we left our heroes, they were trapped in time and crystal - amber, to 
 
 ### What does the World Know?
 
-We get to fight Tymirek! He wants to leave, but he's an asshole (and has nothing to give), so he might have to scrap to get out of here. We can try to talk to them if they don't just attack us right away. He is (roughly) a [Gold Wyrmling](https://www.aidedd.org/dnd/monstres.php?vo=gold-dragon-wyrmling), but probably tougher.
+We get to fight Tymirek! He wants to leave, but he's an asshole (and has nothing to give), so he might have to scrap to get out of here. We can try to talk to them if they don't just attack us right away. He is (roughly) a [Young Gold Dragon](https://www.aidedd.org/dnd/monstres.php?vo=young-gold-dragon).
 
 20 - Tymirek
 15
