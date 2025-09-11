@@ -124,7 +124,7 @@ Hailing from the fifth level of Kailkeep, Dusk leads a well-equipped pack of obe
 Dusk's Pack has a tense relationship with Mercy and their Roamers; the Pack will corner Mercy's Roamers and force them into a trading locational information on the other inhabitants of the level and their supplies for the **Tokens** the Pack takes off their kills.
 
 ###### Reaper's Pack
-
+Hailing from the sixth level of Kailkeep, Reaper leads a brutal, hungry, hunt-and-kill pack. 
 
 ###### Lynch's Pack
 hails from the seventh layer
