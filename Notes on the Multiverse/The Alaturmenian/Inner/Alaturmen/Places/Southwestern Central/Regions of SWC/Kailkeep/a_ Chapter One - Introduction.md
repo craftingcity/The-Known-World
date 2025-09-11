@@ -119,7 +119,7 @@ The Gnoll that find themselves in Kailkeep typically develop a black tint in the
 Hailing from the fourth level of Kailkeep, Bloodylip leads the desperate remnants of a leadership dispute with brutal efficiency and an iron fist. Those who remain with Bloodylip do so out of fear of retaliation more than any benefit they may receive.
 
 ###### Dusk's Pack
-Hailing from the fifth level of Kailkeep, Dusk leads a 
+Hailing from the fifth level of Kailkeep, Dusk leads a well-equipped pack of obedient operators in well-informed raids on the other factions on the fifth level. Dusk's Pack has a tense relationship with Mercy and their Roamers; the Pack will corner Mercy's Roamers and force them into a trading their supplies for the **Tokens** the Pack takes off their kills.
 
 ###### Reaper's Pack
 hails from the sixth layer
