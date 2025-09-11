@@ -37,5 +37,6 @@ We haven't really seen any around since like, the 60s excepting Tetrimoc, so som
 
 ### What happened?
 
+Leliana told the [[Slimknives]] what happened (via dead drop in [[Veritas Garigill]]), the Dragon got out of the amber and is heading west;
 
 We leave our heroes on the date of ... AF, as they ...
