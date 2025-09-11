@@ -20,7 +20,7 @@ When last we left our heroes, they were trapped in time and crystal - amber, to 
 
 We get to fight Tymirek! He wants to leave, but he's an asshole (and has nothing to give), so he might have to scrap to get out of here. We can try to talk to them if they don't just attack us right away. He is (roughly) a [Young Gold Dragon](https://www.aidedd.org/dnd/monstres.php?vo=young-gold-dragon).
 
-20 - Tymirek (3)
+20 - Tymirek (3, 10)
 17 - Xenfer
 16 - Leliana
 9 - Em
