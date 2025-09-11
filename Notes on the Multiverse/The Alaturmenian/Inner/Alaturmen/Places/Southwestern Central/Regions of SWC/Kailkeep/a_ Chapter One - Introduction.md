@@ -124,10 +124,10 @@ Hailing from the fifth level of Kailkeep, Dusk leads a well-equipped pack of obe
 Dusk's Pack has a tense relationship with Mercy and their Roamers; the Pack will corner Mercy's Roamers and force them into a trading locational information on the other inhabitants of the level and their supplies for the **Tokens** the Pack takes off their kills.
 
 ###### Reaper's Pack
-Hailing from the sixth level of Kailkeep, Reaper leads a brutal, hungry, hunt-and-kill pack. 
+Hailing from the sixth level of Kailkeep, Reaper leads a brutal, hungry, hunt-and-kill pack. They will eat their kills on scene, or even during the fight.
 
 ###### Lynch's Pack
-hails from the seventh layer
+Hails from the seventh level of Kailkeep, Lynch leads a drug fueled pack of 
 
 #### Survivalists
 People with little to no training have been taken to the Hells as long as the Hells have existed. Few are capable of surviving while retaining their morality, *and* their intelligence. These are those few. Survivalists all will avoid conflict if at all reasonable, and have been scorned for trusting others before.
