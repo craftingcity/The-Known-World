@@ -23,11 +23,11 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 	- The Red card is guarded by an obstacle course and an automaton combatant.
 	- The Green card is hidden within a grove of plants, specifically within a plant that will deliver a poison upon contact.
 	- The Blue card is hidden among a large collection of books within a library. There is not an indication in which book it is hidden, and the destruction of the library is the intended solution for a "quick" solve. 
-	- When all three cards are collected and returned to the entrance, the timer stops, opens the way into the rest of the level, and produces 
+	- When all three cards are collected and returned to the entrance, the timer stops, opens the way into the rest of the level, and produces a **Token**.
 #### Ways
 #### Pick-up Sticks (Exit Game)
 - Pick-up Sticks is a level wide game that pits all teams of the level against one another, in theory. 
-- The goal of the game is to collect stone **Tokens** dispensed by games throughout the level. When a total of five **Tokens** are inserted by a player, the exit door is opened, and that player and their team is forcibly ascended to the next level.
+- The goal of the game is to collect stone **Tokens** dispensed by games throughout the level. When a total of five **Tokens** are collected by a player and inserted into a scoreboard on this level, the exit door is opened, and that scoreboard-room becomes inaccessible from this level.
 ### Detail
 #### Go Fish!
 - A large salt-water lake hosts a number of aquatic critters, one of which - a quick and small fish - has a **Token**. Other critters will not attack the keyholder, and even larger predators will defend a smaller keyholder.
