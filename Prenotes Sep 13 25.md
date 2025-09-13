@@ -34,16 +34,17 @@ The ingame date is the 21st of Harvest, 106AF (07/21/106). I don't know *how* th
 	- [[Hillkeep Loyalists]] & [[Knights in Red]] are fighting against us here.
 	- [[Harvord Trading Company]] is, as always, trying to take a share it doesn't deserve.
 
-##### The Utility Recuitment of Grovetenders
+##### The Utility Recruitment of Grovetenders
 - SEASEC is a powerful fighting force, but getting a specialized science division would be very nice for long-term prosperity. So far, [[Grovetenders]] are the only ones who have show interest, likely due to their locational proximity to the [[Dampguard]].
 
 #### The Dragon
 ##### The Dragons have Come!
 - We saw a dragon coming from the Combine! We all did! Where did it come from?
+	- Call the Council of Mages!
 - More dragons will come, I swear! It came to me in a dream.
 
 ##### The Escape to Kailkeep
-- [[Tymirek, the Unbound]] is running towards [[Kailkeep]], where he seeks refuge for a while. He will likely find some, as he fights through the layers, and may return to the outside world after his experiences.
+- [[Tymirek, the Unbound]] is flying towards [[Kailkeep]], where he seeks refuge for a while. He will likely find some, as he fights through the layers, and may return to the outside world after his experiences.
 
 ##### The Call to Tetrimoc
 - We, the people of the Desert, call upon you [[Tetrimoc]] as our holy protector - banish the false gods from these lands and keep us safe in your light.
