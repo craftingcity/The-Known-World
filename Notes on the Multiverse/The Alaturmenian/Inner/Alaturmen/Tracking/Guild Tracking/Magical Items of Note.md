@@ -94,13 +94,13 @@ aliases:
 	Threat Level: PURPLE
 	Entry Class: TRINKET
 	Source: Ventan (divine)
-	Last Known Keeper: KEEPER
+	Last Known Keeper: Jasper's Angels
 
 	Entry Description: GME-047 is to be stored in the Warm Storage Sector of Vault 0 in a 30'x40'x20' darksteel storage container. 
 
-	GME-047 is a large 6'x4'x3' rectangular-cut slab of amber that surrounds a complete skeleton of a small winged creature since determined to be a very young dragon. When any concious humanoid comes into contact with the GME-047, it will activate a Type-2 Planar Gate, transporting the subject and any other humanoids within 20' of GME-047 into a Consistent Extraplanar Instance that has informally become known as 'The Amber Den' among researchers and subjects. Described as a 'fractal nightmare' this CEI is a seemingly procedural or recursive complex of sap and amber rooms and halls. The purpose of the complex is as of yet unknown, and continued research failed to provide insight in that regard (see Experiment Log 047-1 through -18).
+	GME-047 is a large 6'x4'x3' rectangular-cut slab of amber ~~that surrounds a complete skeleton of a small winged creature since determined to be a very young dragon~~. When any concious humanoid comes into contact with the GME-047, it will activate a Type-2 Planar Gate, transporting the subject and any other humanoids within 20' of GME-047 into a Consistent Extraplanar Instance that has informally become known as 'The Amber Den' among researchers and subjects. Described as a 'fractal nightmare' this CEI is a seemingly procedural or recursive complex of sap and amber rooms and halls. The purpose of the complex is as of yet unknown, and continued research failed to provide insight in that regard (see Experiment Log 047-1 through -18).
 
-	GME-047 was strategically transported by independant contractors (including 'Jasper's Angels') to it's current location after significant discussion with the Circle of Aquan, who came to possess GME-047 in the early 80s.  
+	Since the Circle of Aquan came to possess GME-047 in the early 80s, GME-047 was captured by indepentant contractors and sold to the SEASEC conglomerate, who in turn, aimed to sell GME-047 to the Guild. In this process, the adventuring party 'Jasper's Angels' were contracted to transport GME-047, and were forced to release it's contents, and GME-047 was disabled. 
 ```
 
 ###### Emulation

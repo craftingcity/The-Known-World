@@ -6,6 +6,7 @@
       {
         "id": "7a1e4b65c4a804e5",
         "type": "tabs",
+        "dimension": 56.77206229353468,
         "children": [
           {
             "id": "aef8bf3e53dbb330",
@@ -29,12 +30,108 @@
               "icon": "lucide-file",
               "title": "Prenotes Sep 10 25"
             }
+          },
+          {
+            "id": "85ba546733a47300",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Campaign Rosters/Jasper's Angels.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Jasper's Angels"
+            },
+            "group": "7b58faa43677ca76"
+          },
+          {
+            "id": "c0fe27734f55df3e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Game Notes/Campaign Rosters/Jasper's Angels.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 0.56644129641554,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0,
+                  "repelStrength": 10.1459540673964,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6413597422091042,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Jasper's Angels"
+            },
+            "group": "7b58faa43677ca76"
+          },
+          {
+            "id": "3ccb116a4525e7cc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Goldfield.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Goldfield"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
-        "id": "d794395f16a15088",
+        "id": "f1f3f0dfbe354523",
         "type": "tabs",
+        "dimension": 43.22793770646532,
         "children": [
           {
             "id": "6c620c48b8fd8196",
@@ -333,10 +430,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c620c48b8fd8196",
+  "active": "3ccb116a4525e7cc",
   "lastOpenFiles": [
-    "Prenotes Sep 10 25.md",
     "Prenotes Sep 13 25.md",
+    "Game Notes/Prenotes/'25/Prenotes July 29 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+    "Game Notes/Campaign Rosters/Jasper's Angels.md",
+    "Prenotes Sep 10 25.md",
+    "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Mossburg/Veritas Garigill.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
@@ -357,11 +459,6 @@
     "Game Notes/The Bucket List.md",
     "Game Notes/Prenotes/'22/'22.md",
     "Game Notes/Prenotes/'21/'21.md",
-    "Game Notes/NPCs/zNon-Humanoid NPCs/Giant NPCs/Jarl Grungar.md",
-    "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Tetrimoc.md",
-    "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Kakurak.md",
-    "Game Notes/NPCs/Weak Power/King's Tenants/Ex-Bandit Lords/Ex-Bandit Lords.md",
-    "Game Notes/NPCs/Mild Power/Tendered/Valerio Avishalom.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",

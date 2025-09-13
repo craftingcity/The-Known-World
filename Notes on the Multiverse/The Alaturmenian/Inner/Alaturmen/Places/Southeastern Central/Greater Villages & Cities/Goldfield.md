@@ -2,10 +2,10 @@
 tags: holding,
 aliases:
 ---
-# Name
+# Goldfield
 #### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+## Holding of [[Dampguard]]
+### Located in [[Gabr, X:Y
 ## Description
 ### Quote
 
