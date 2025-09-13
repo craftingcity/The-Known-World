@@ -1,12 +1,132 @@
 {
   "recentFiles": [
     {
-      "basename": "Prenotes Sep 13 25",
-      "path": "Prenotes Sep 13 25.md"
+      "basename": "DATABASE",
+      "path": "DATABASE.base"
+    },
+    {
+      "basename": "Guild of Wizards",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
+    },
+    {
+      "basename": "Guild of Merchants",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Merchants.md"
+    },
+    {
+      "basename": "Guild of Crafters",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Crafters.md"
+    },
+    {
+      "basename": "Guild of Adventurers",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Adventurers.md"
+    },
+    {
+      "basename": "Cenva Minyo",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md"
+    },
+    {
+      "basename": "Blood Clans",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md"
+    },
+    {
+      "basename": "The Kingdom of Prosper",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md"
+    },
+    {
+      "basename": "Simonson's Adventuring Party",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md"
+    },
+    {
+      "basename": "Noble Houses of Prosper",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md"
+    },
+    {
+      "basename": "Noble House a'LeQuinn",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'LeQuinn.md"
+    },
+    {
+      "basename": "Noble House a'Haruuc",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Haruuc.md"
+    },
+    {
+      "basename": "Noble House a'Fen",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Fen.md"
+    },
+    {
+      "basename": "Arthur's Knights",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
+    },
+    {
+      "basename": "The Democratic Combine of Peoples",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md"
+    },
+    {
+      "basename": "Slimknives",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Slimknives.md"
+    },
+    {
+      "basename": "Mossburg Enforcers",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Mossburg Enforcers.md"
+    },
+    {
+      "basename": "Mossburg Corporation",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Mossburg Corporation.md"
+    },
+    {
+      "basename": "Knights in Red",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/Knights in Red/Knights in Red.md"
+    },
+    {
+      "basename": "The Church of the White Flame",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md"
+    },
+    {
+      "basename": "Marked By the Fire",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/Local Lore/Marked By the Fire.md"
+    },
+    {
+      "basename": "Great Fires",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/Local Lore/Great Fires.md"
+    },
+    {
+      "basename": "First Invasion of Orcus",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Local Lore/First Invasion of Orcus.md"
+    },
+    {
+      "basename": "Golden Claws",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
+    },
+    {
+      "basename": "Tubric's Bag of Rooms",
+      "path": "Notes on the Multiverse/The Alaturmenian/Immaterial/Tubric's Bag of Rooms.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Languages",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Languages.md"
+    },
+    {
+      "basename": "The Infection",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/The Infection.md"
+    },
+    {
+      "basename": "The Bombings",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/The Bombings.md"
+    },
+    {
+      "basename": "Fiction Exposition Broadcast Script",
+      "path": "Notes on the Multiverse/Seattle Exports Misery/Fiction Exposition Broadcast Script.md"
     },
     {
       "basename": "Prenotes Sep 10 25",
       "path": "Prenotes Sep 10 25.md"
+    },
+    {
+      "basename": "Prenotes Sep 13 25",
+      "path": "Prenotes Sep 13 25.md"
     },
     {
       "basename": "Jasper's Angels",
@@ -61,20 +181,12 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/j_ Chapter Twelve - Faction Deep Dive.md"
     },
     {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
-    },
-    {
       "basename": "Tiana Turing",
       "path": "Junie's Characters/Tiana Turing.md"
     },
     {
       "basename": "conflict-files-obsidian-git",
       "path": "conflict-files-obsidian-git.md"
-    },
-    {
-      "basename": "DATABASE",
-      "path": "DATABASE.base"
     },
     {
       "basename": "Notes on the Multiverse",
@@ -87,118 +199,6 @@
     {
       "basename": "Erin 'Fox' Bathal",
       "path": "Junie's Characters/Erin 'Fox' Bathal.md"
-    },
-    {
-      "basename": "Eliza 'Elliot' O'Brien",
-      "path": "Junie's Characters/Eliza 'Elliot' O'Brien.md"
-    },
-    {
-      "basename": "Amelia Hawkford, the Red",
-      "path": "Junie's Characters/Amelia Hawkford, the Red.md"
-    },
-    {
-      "basename": "'22",
-      "path": "Game Notes/Prenotes/'22/'22.md"
-    },
-    {
-      "basename": "'21",
-      "path": "Game Notes/Prenotes/'21/'21.md"
-    },
-    {
-      "basename": "Jarl Grungar",
-      "path": "Game Notes/NPCs/zNon-Humanoid NPCs/Giant NPCs/Jarl Grungar.md"
-    },
-    {
-      "basename": "Tetrimoc",
-      "path": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Tetrimoc.md"
-    },
-    {
-      "basename": "Kakurak",
-      "path": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Kakurak.md"
-    },
-    {
-      "basename": "Ex-Bandit Lords",
-      "path": "Game Notes/NPCs/Weak Power/King's Tenants/Ex-Bandit Lords/Ex-Bandit Lords.md"
-    },
-    {
-      "basename": "Valerio Avishalom",
-      "path": "Game Notes/NPCs/Mild Power/Tendered/Valerio Avishalom.md"
-    },
-    {
-      "basename": "Enoch Ben",
-      "path": "Game Notes/NPCs/Mild Power/Tendered/Enoch Ben.md"
-    },
-    {
-      "basename": "True Villian NPCs",
-      "path": "Game Notes/NPCs/High Power/True Villian NPCs/True Villian NPCs.md"
-    },
-    {
-      "basename": "Varis",
-      "path": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Varis.md"
-    },
-    {
-      "basename": "Kakurak's Chosen",
-      "path": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Kakurak's Chosen.md"
-    },
-    {
-      "basename": "Grod",
-      "path": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Grod.md"
-    },
-    {
-      "basename": "Amashod",
-      "path": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Amashod.md"
-    },
-    {
-      "basename": "Grey Ordeal",
-      "path": "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md"
-    },
-    {
-      "basename": "Nobles of Prosper NPCs",
-      "path": "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Nobles of Prosper NPCs.md"
-    },
-    {
-      "basename": "Arthur Simonson",
-      "path": "Game Notes/NPCs/High Power/Nobles of Prosper NPCs/Arthur Simonson.md"
-    },
-    {
-      "basename": "Lorekeeper NPCs",
-      "path": "Game Notes/NPCs/High Power/Lorekeeper NPCs/Lorekeeper NPCs.md"
-    },
-    {
-      "basename": "High Holyl'nder NPCs",
-      "path": "Game Notes/NPCs/High Power/High Holyl'nder NPCs/High Holyl'nder NPCs.md"
-    },
-    {
-      "basename": "Guilded Wizard NPCs",
-      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Guilded Wizard NPCs.md"
-    },
-    {
-      "basename": "Guild Admin",
-      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Guild Admin.md"
-    },
-    {
-      "basename": "Adriana Fairlin Franx",
-      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Adriana Fairlin Franx.md"
-    },
-    {
-      "basename": "Devils",
-      "path": "Game Notes/NPCs/High Power/Devils/Devils.md"
-    },
-    {
-      "basename": "Demons",
-      "path": "Game Notes/NPCs/High Power/Demons/Demons.md"
-    },
-    {
-      "basename": "Trxyi Emorin",
-      "path": "Game Notes/NPCs/High Power/Blood Clan Leadership NPCs/Trxyi Emorin.md"
-    },
-    {
-      "basename": "Blood Clan Leadership NPCs",
-      "path": "Game Notes/NPCs/High Power/Blood Clan Leadership NPCs/Blood Clan Leadership NPCs.md"
-    },
-    {
-      "basename": "Barons of Combine NPCs",
-      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Barons of Combine NPCs.md"
     }
   ],
   "omittedPaths": [],

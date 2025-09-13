@@ -5,17 +5,15 @@ aliases:
 
 # Nations
 %% Begin Waypoint %%
-- **[[Lands of Tetrimoc]]**
+- **Lands of Tetrimoc**
 	- **Factions**
 		- [[Agrandica's Thieves]]
 		- [[Barthalmule's Thieves]]
 		- [[Cobalt's Thieves]]
 		- [[Golden Claws]]
-		- [[Golden Merchant's Company]]
 		- [[Nobles of Mountain Hall]]
 	- **Local Lore**
 		- [[First Invasion of Orcus]]
-		- [[Tetrimoc's Tournament of Glory]]
 - **[[The Church of the White Flame]]**
 	- **Factions**
 		- [[Macht's Brood]]

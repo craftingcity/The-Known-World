@@ -18,7 +18,7 @@ When last we left our heroes, they had fought their way through and out of a pri
 
 ### What does the World Know?
 
-The ingame date is the 21st of Harvest, 106AF (07/21/106). I don't know *how* they're going to get this information, but I can know what information they are going to get.
+The ingame date is the 21st of Harvest, 106AF (07/21/106). 
 
 #### The Company
 - We have interests in [[The Democratic Combine of Peoples]] and [[The Old|Minyostalma]].
@@ -35,7 +35,7 @@ The ingame date is the 21st of Harvest, 106AF (07/21/106). I don't know *how* th
 	- [[Harvord Trading Company]] is, as always, trying to take a share it doesn't deserve.
 
 ##### The Utility Recruitment of Grovetenders
-- SEASEC is a powerful fighting force, but getting a specialized science division would be very nice for long-term prosperity. So far, [[Grovetenders]] are the only ones who have show interest, likely due to their locational proximity to the [[Dampguard]].
+- SEASEC is a powerful fighting force, but getting a specialized science division would be very nice for long-term prosperity. So far, [[Grovetenders]] are the only ones who have shown interest, likely due to their locational proximity to the [[Dampguard]].
 
 #### The Dragon
 ##### The Dragons have Come!

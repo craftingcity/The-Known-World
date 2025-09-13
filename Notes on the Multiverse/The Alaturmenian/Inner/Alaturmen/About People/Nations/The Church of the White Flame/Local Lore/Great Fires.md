@@ -1,6 +1,9 @@
 ---
-tags: loreful, needs_work
+tags: stub
+aliases:
 ---
+
+*This page is a #stub. You can help by expanding it!*
 
 The Great Fires describe a twenty-year period of time when [[Its Greatness]] near indiscriminately burnt away all evidence of life. 
 

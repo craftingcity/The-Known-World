@@ -1,3 +1,10 @@
+---
+tags: 
+- seattle
+- text
+aliases:
+---
+
 #### KENTUCKY, December 21st, 2012
 ```
 BULLETIN - EAS ACTIVATION REQUESTED

@@ -1,5 +1,7 @@
 ---
-tags: groups, needs_work
+tags: 
+- groups
+- stub
 aliases:
 ---
 

@@ -1,3 +1,9 @@
+---
+tags:
+- seattle
+- text
+aliases:
+---
 #### CDC-LOU-2013
 ```
 Agent: Unknown, Virus or Prion proposed

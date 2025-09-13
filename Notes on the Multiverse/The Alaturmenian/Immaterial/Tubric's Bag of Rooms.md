@@ -1,3 +1,8 @@
+---
+tags:
+- bookkeeping
+aliases:
+---
 
 		- Greenhouse;
 			- Currently, there are multiple foodstuff growing here. The alchemical components are of most interest here, and they most recently were tended on the 18th of Weeding 105AF. 

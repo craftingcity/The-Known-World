@@ -1,5 +1,7 @@
 ---
-tags: groups, company
+tags: 
+- groups
+- company
 aliases:
 ---
 

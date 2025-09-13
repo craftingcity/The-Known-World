@@ -1,3 +1,11 @@
+---
+tags:
+- seattle
+- text
+aliases:
+---
+
+
 ### Timeline of The Bombings
 12/21/12 - A large device explodes within the city of Louisville, Kentucky. Immediately, it becomes clear that the device also carried, and has since spread, an unknown hazardous contagion.
 12/23/12 - A Quarantine Zone surrounding the Louisville area is created and enforced by the Kentucky National Guard.

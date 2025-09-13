@@ -1,5 +1,7 @@
 ---
-tags: groups, faction
+tags: 
+- groups
+- faction
 aliases: FuckThePigs
 ---
 

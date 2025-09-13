@@ -1,5 +1,8 @@
 ---
-tags: groups, faction
+tags: 
+- groups
+- military
+- faction
 aliases:
 ---
 

@@ -1,5 +1,7 @@
 ---
-tags: nation_page, region
+tags: 
+- nation_page
+- faction
 aliases: Prosper
 ---
 # The Kingdom of Prosper

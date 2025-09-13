@@ -1,5 +1,6 @@
 ---
-tags: writeup, text
+tags:
+- text
 aliases:
 ---
 # The Invasion of Orcus

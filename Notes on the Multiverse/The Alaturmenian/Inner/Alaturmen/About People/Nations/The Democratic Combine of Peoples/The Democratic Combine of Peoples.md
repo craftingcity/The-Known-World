@@ -1,5 +1,7 @@
 ---
-tags: groups, meta-faction
+tags: 
+- groups
+- meta-faction
 aliases:
 ---
 # The Democratic Combine of Peoples

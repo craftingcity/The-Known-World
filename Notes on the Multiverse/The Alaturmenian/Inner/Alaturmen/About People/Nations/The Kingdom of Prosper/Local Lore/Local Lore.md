@@ -13,7 +13,6 @@ aliases:
 - [[Order of Arthurian Saints]]
 - [[Simonson's Adventuring Party]]
 - [[The Legend of the Bandit Lords]]
-- [[The Tales of Big Buster Badass]]
 - [[Unification]]
 
 %% End Waypoint %%

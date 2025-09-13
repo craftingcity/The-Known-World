@@ -1,5 +1,7 @@
 ---
-tags: timeline-labeled, bookkeeping
+tags: 
+- timeline-labeled
+- bookkeeping
 ---
 
 # Grand [Timeline](https://github.com/George-debug/obsidian-timeline)
