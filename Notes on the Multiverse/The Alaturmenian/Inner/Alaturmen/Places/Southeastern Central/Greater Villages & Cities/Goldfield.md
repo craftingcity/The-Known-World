@@ -5,7 +5,7 @@ aliases:
 # Goldfield
 #### Sub-names?
 ## Holding of [[Dampguard]]
-### Located in [[Gabr, X:Y
+### Located in [[Gabrin Shrublands]], X:Y
 ## Description
 ### Quote
 

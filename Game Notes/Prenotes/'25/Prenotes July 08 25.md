@@ -20,7 +20,7 @@ You can see beyond the grate, you will enter into an unoccupied maintenance room
 
 ### What does the World Know?
 
-The ingame date is 19th of Harvest (7), 106AF.
+The ingame date is 19th of Harvest, 106AF (07/19/106).
 
 > **Operational Assignment**
 > Enter the Prison under the Garrison. Locate and eliminate the Captain of Imprisonment. Locate Prisoner 6522 within Block B and escort them to the surface. Report your completion within 4 days.
