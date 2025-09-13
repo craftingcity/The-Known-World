@@ -21,6 +21,8 @@ When last we left our heroes, they had fought their way through and out of a pri
 The ingame date is the 21st of Harvest, 106AF (07/21/106). I don't know *how* they're going to get this information, but I can know what information they are going to get.
 
 #### The Company
+- We have interests in [[The Democratic Combine of Peoples]] and [[The Old|Minyostalma]].
+- We'd like to expand, absorbing or interacting with [[Cenva Minyo]] and the Noble Thieves of the Desert.
 ##### The Duties of the Three
 - [[Slimknives]] are the bureaucratic powerhouse of SEASEC, in their proficiency in it's use or it's ignorance. Since the Conglomeration, we see less local field work, but that's fun.
 - [[Riphounds]] are the physical powerhouse of SEASEC. We stand guard and look really mean (because we are) where we get told to. Getting told what to do really blows, but it's coming from the powers that be, and I don't want my ass kicked.
@@ -41,10 +43,10 @@ The ingame date is the 21st of Harvest, 106AF (07/21/106). I don't know *how* th
 - More dragons will come, I swear! It came to me in a dream.
 
 ##### The Escape to Kailkeep
-[[Tymirek, th]]
+- [[Tymirek, the Unbound]] is running towards [[Kailkeep]], where he seeks refuge for a while. He will likely find some, as he fights through the layers, and may return to the outside world after his experiences.
 
 ##### The Call to Tetrimoc
-
+- We, the people of the Desert, call upon you [[Tetrimoc]] as our holy protector - banish the false gods from these lands and keep us safe in your light.
 
 ### What happened?
 
