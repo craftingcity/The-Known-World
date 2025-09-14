@@ -58,4 +58,16 @@ Leliana dropped about dragons and seeing [[Baron Cassindil]] after we shop in [[
 	- We sold our Amber at Draco's Jewelry, Em ordered an Amber Knuckledusters, Zesh ordered an Amber Dagger to come on 7/22/106
 	- Leliana ordered 2 (+1 to hit), 2 (+1AC) to come on 8/21/106 from 'an Enchantress'
 
+##### Fighting the Baron
+23 - Liliana
+20 - Guards
+	A
+	B
+	~~C (39, )~~
+	D
+19 - Zesh
+18 - Em
+15 - Cassindil (7, 10, 20, 29, 37, 40)
+12 - Xenfer
+
 We leave our heroes on the date of ... AF, as they ...
