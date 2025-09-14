@@ -61,13 +61,13 @@ Leliana dropped about dragons and seeing [[Baron Cassindil]] after we shop in [[
 ##### Fighting the Baron
 23 - Liliana
 20 - Guards
-	A
-	B
+	A (24)
+	~~B (12, )~~
 	~~C (39, )~~
 	D
 19 - Zesh
 18 - Em
-15 - Cassindil (7, 10, 20, 29, 37, 40)
+~~15 - Cassindil (7, 10, 20, 29, 37, 40)~~
 12 - Xenfer
 
 We leave our heroes on the date of ... AF, as they ...
