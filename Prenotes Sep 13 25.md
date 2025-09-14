@@ -54,6 +54,7 @@ The ingame date is the 21st of Harvest, 106AF (07/21/106).
 
 ### What happened?
 
-Leliana dropped about dragons and seeing [[Baron Cassindil]] after we shop in [[Coalition City]]
+Leliana dropped about dragons and seeing [[Baron Cassindil]] after we shop in [[Coalition City]];
+	- We sold our Amber at Draco's Jewelry, Em ordered an Amber Knuckledusters, Zesh ordered an Amber Dagger
 
 We leave our heroes on the date of ... AF, as they ...
