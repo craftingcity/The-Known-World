@@ -49,7 +49,11 @@ The ingame date is the 21st of Harvest, 106AF (07/21/106).
 ##### The Call to Tetrimoc
 - We, the people of the Desert, call upon you [[Tetrimoc]] as our holy protector - banish the false gods from these lands and keep us safe in your light.
 
+#### The Black Ghost
+- Oh my god guys, drop it.
+
 ### What happened?
 
+Leliana dropped about dragons and seeing [[Baron Cassindil]] after we shop in [[Coalition City]]
 
 We leave our heroes on the date of ... AF, as they ...
