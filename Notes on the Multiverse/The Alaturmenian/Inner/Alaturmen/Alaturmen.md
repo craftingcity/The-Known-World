@@ -1,5 +1,7 @@
 ---
-tags: folderfile, region
+tags: 
+- folderfile
+- region
 aliases: Corpse-meat of the All Father
 ---
 

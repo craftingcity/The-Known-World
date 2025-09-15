@@ -1,5 +1,7 @@
 ---
-tags: text, needs_work, stub
+tags: 
+- text
+- stub
 aliases:
 ---
 

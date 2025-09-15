@@ -1,5 +1,7 @@
 ---
-tags: groups, greyordeal
+tags: 
+- groups
+- stub
 ---
 # The Grey Ordeal
 

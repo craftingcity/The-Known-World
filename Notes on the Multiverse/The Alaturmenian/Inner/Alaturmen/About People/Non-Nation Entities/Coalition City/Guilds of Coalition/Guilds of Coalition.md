@@ -1,5 +1,8 @@
 ---
 tags:
+- group
+- coalition
+- faction
 aliases:
 ---
 

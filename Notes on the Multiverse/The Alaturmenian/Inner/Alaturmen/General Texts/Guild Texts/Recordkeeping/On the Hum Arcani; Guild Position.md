@@ -1,3 +1,17 @@
+---
+tags: 
+- text
+- coalition
+aliases:
+---
+
+### Foreword
+# On the Hum Arcani
+### Subtitle, if applicable
+## Author
+
+## Index
+
 by [[Adriana Fairlin Franx]]
 
 Nearly two weeks to the day of the publishing article, our Coalition was rocked by a force of Arcani that has become known as the Hum. Many of you witnessed this event, and in an attempt to quell fear in those of you who did not, we took deliberate time in forming our response - for our lack of haste, we are sorry.

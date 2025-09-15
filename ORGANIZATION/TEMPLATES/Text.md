@@ -1,5 +1,6 @@
 ---
-tags: text
+tags: 
+- text
 aliases:
 ---
 

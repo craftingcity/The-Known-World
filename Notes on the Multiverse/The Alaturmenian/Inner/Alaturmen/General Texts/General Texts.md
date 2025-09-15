@@ -13,8 +13,6 @@ aliases:
 		- [[Coalition's Founding Document]]
 		- [[Emergency Communicae c. 105AF]]
 		- [[Genereric Party Formation Contract]]
-		- [[Guild Associates Agreement]]
-		- [[Guild Equipment Requisition Form]]
 		- [[Guild of Adventurers Admission of Knowledge Assessment 1]]
 		- [[Laws of Adventuring]]
 		- [[Politics of Coalition c. 093AF - XXXAF]]

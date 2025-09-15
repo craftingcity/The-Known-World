@@ -1,3 +1,10 @@
+---
+tags:
+- coalition
+- text
+aliases:
+---
+
 ----
 
 This is a contractual agreement between all signed parties. The aforementioned signatories, the being(s) and creature(s) these signatories have dominion over - alive or otherwise, and any property they own will be hereafter referred to in aggregate in this contract as the adventurer(s). The "party" or "adventuring party" is taken to mean the aggregate of the adventurers.

@@ -1,5 +1,8 @@
 ---
-tags: groups, company
+tags: 
+- groups
+- company
+- coalition
 aliases:
 ---
 

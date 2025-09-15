@@ -1,5 +1,8 @@
 ---
-tags: groups, faction
+tags: 
+- groups
+- faction
+- druidic
 aliases:
 ---
 
