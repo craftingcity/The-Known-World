@@ -1,3 +1,9 @@
+---
+tags:
+- kailkeep
+aliases:
+---
+
 # Level Two: Line
 The second level of Kailkeep extends the ruse of the first; continuing in the "dwarven style", with additional artistic pieces that more explicitly tell the story of the imaginary dwarves.
 

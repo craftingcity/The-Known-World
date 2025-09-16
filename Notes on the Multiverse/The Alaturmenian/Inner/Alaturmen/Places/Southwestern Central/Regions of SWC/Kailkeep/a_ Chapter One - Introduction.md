@@ -1,3 +1,9 @@
+---
+tags:
+- kailkeep
+aliases:
+---
+
 # The Hells of Kailkeep
 ## An Ode to Tucker's Kobolds
 ### Let me tell you a story...

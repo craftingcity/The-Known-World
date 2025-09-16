@@ -1,3 +1,9 @@
+---
+tags:
+- kailkeep
+aliases:
+---
+
 # Big City Kobolds
 Kailkeep is a massive, mountain wide structure that bases much of its production and gathering in its entertainment; the Hells of Kailkeep.
 

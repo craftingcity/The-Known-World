@@ -1,3 +1,9 @@
+---
+tags:
+- bookkeeping
+aliases:
+---
+
 We use the standard 100:10:1 for cp:sp:gp.
 
 Adventurers are *not* the most important people in the world, although they do end up with a great deal of power and connection.

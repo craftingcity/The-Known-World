@@ -1,5 +1,7 @@
 ---
-tags: table, bookkeeping
+tags: 
+- table
+- bookkeeping
 aliases:
 ---
 # Currency of Alaturmen

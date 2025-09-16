@@ -1,5 +1,7 @@
 ---
-tags: timeline-labeled, bookkeeping
+tags: 
+- timeline-labeled
+- bookkeeping
 aliases:
 ---
 

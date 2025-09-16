@@ -1,3 +1,9 @@
+---
+tags:
+- minyostalma
+aliases:
+---
+
 ## Things Aren't Right Here...
 ### Casting
 #### Divine & Natural Spellcasters

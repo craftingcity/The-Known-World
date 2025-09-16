@@ -1,3 +1,9 @@
+---
+tags:
+- kailkeep
+aliases:
+---
+
 # Level Six: Here Comes an Old Soldier
 ## What Dwells Here?
 ### Loyalists

@@ -1,3 +1,9 @@
+---
+tags:
+- kailkeep
+aliases:
+---
+
 # Level Seven: Kadabbi
 ## What Dwells Here?
 ## Exploring this Place

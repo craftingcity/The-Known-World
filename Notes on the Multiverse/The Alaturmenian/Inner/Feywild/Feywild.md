@@ -1,5 +1,7 @@
 ---
-tags: fey, planes
+tags: 
+- fey
+- planes
 aliases:
 ---
 # The Plane of Faerie

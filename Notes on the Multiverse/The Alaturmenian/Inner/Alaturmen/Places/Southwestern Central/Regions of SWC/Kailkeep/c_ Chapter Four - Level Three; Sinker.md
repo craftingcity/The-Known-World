@@ -1,3 +1,9 @@
+---
+tags:
+- kailkeep
+aliases:
+---
+
 # Level Three: Sinker
 The third level of Kailkeep is the final drops of the sweet promised nothings the Kobolds sing in the form of defamation, claims of guarded but abandoned treasures, and unlooted corpses. These are the final lies that will seal an uninformed grave.
 

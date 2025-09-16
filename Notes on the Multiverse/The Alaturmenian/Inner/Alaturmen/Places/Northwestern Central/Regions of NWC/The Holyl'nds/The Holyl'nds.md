@@ -1,5 +1,7 @@
 ---
-tags: region, nation_page
+tags: 
+- region
+- nation_page
 aliases:
 ---
 # The Holy'lnds

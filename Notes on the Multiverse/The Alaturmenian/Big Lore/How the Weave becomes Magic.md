@@ -1,5 +1,7 @@
 ---
-tags: bible
+tags: 
+- mechanics
+- bookkeeping
 aliases:
 ---
 # The Weave...

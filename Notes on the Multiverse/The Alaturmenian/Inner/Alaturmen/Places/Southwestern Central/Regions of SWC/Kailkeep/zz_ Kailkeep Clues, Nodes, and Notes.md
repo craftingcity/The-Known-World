@@ -1,7 +1,6 @@
 ---
 tags:
-- faction
-- region
+- kailkeep
 aliases:
 ---
 

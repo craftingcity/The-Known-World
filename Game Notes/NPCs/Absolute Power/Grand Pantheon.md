@@ -1,6 +1,6 @@
 ---
 tags: 
-- bible
+- alaturmen
 - planes
 aliases: 
 ---

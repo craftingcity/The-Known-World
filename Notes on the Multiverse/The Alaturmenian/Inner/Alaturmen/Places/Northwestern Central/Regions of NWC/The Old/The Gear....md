@@ -1,3 +1,9 @@
+---
+tags:
+- minyostalma
+aliases:
+---
+
 # The Gear...
 The primary business within the Old is death. Death as business is fueled by ammunition, fuel, armor, and rations. To most Seekers, modern coinage is generally valued as something easy to throw into anomalous fields as path markers. *Ancient Elven Empire* coins, however, are well positioned within the Old as a token of value given their near-rarity and value. 
 

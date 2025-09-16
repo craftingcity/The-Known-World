@@ -1,3 +1,9 @@
+---
+tags:
+- kailkeep
+aliases:
+---
+
 # Factions
 ## Kobold Loyalists
 ## Goblin Hit-teams

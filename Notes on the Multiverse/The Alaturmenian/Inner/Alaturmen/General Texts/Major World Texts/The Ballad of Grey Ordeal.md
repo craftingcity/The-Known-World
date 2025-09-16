@@ -1,3 +1,9 @@
+---
+tags: 
+- text
+aliases:
+---
+
 # The Ballad of Grey Ordeal
 ### Original Oration by [[Paulo San Tymiq]]
 #### Written by [[Poppy Bumbleheart]]

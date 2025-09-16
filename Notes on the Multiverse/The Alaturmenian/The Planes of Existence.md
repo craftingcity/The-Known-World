@@ -1,5 +1,7 @@
 ---
-tags: planes, bible
+tags: 
+- planes
+- folderfile
 aliases: The Planes, Planes
 ---
 # The Material Plane

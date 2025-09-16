@@ -1,3 +1,9 @@
+---
+tags:
+- folderfile
+aliases:
+---
+
 # Inner
 %% Begin Waypoint %%
 - **[[Alaturmen]]**

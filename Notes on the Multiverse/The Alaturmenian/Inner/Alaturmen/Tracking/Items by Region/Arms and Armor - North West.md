@@ -1,3 +1,9 @@
+---
+tags:
+- mechanics
+- bookkeeping
+aliases:
+---
 # Arms
 ## Melee Weapons
 | Weapon | Range | Damage | Tags | Cost |

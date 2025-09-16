@@ -1,3 +1,16 @@
+---
+tags: 
+- text
+aliases:
+---
+
+### Foreword
+# Title
+### Subtitle, if applicable
+## Author
+
+## Index
+
 # Prologue
 When ==Varis== first opened his eyes, he could not see, blinded by the powerful lights and colors of his surroundings. He was warm, swaddled in blankets, but he was alone. He began to cry. Some time later, he could not determine, his cries were answered. A pair of hands pulled him from the mass of fabric, and held him close. He began to stop crying.
 

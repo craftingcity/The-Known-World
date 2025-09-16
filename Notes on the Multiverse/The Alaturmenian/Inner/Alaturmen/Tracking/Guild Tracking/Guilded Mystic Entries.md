@@ -1,3 +1,10 @@
+---
+tags:
+- guild
+- bookkeeping
+aliases:
+---
+
 ## Entry Guide
 
 ```

@@ -1,3 +1,9 @@
+---
+tags:
+- kailkeep
+aliases:
+---
+
 # Stat blocks by Level
 ## L1 & L2
 #### Goblin Coward

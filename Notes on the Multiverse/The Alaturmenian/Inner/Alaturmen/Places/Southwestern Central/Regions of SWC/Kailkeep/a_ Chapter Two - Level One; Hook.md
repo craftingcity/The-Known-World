@@ -1,3 +1,9 @@
+---
+tags:
+- kailkeep
+aliases:
+---
+
 # Level One: Hook
 The first level of Kailkeep is a series of halls and chambers seemingly built in a brutalist and well crafted - "dwarven" - style. Throughout this level, pockets of the weakest Loyalists dwell in relative safety, but doomed to boredom in an endless cycle of production and relocation.
 

@@ -1,3 +1,9 @@
+---
+tags:
+- kailkeep
+aliases:
+---
+
 # Level Four: Four Corners
 The fourth layer of Kailkeep harbors the first major game-as-progression. At points throughout the level, a large square room contains the game; four equal quarters are separated by a waist-high barrier. On two opposing sides, two chambers hold the competing teams, and hanging in the center is a large cage that contains the threat - and the escape. 
 

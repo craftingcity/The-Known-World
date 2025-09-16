@@ -1,5 +1,6 @@
 ---
-tags: holding, dragon
+tags: 
+- holding
 ---
 # Kakurak's Lair
 

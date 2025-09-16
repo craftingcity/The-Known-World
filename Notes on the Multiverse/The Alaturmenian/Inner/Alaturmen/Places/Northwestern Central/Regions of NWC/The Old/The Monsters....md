@@ -1,3 +1,9 @@
+---
+tags:
+- minyostalma
+aliases:
+---
+
 #### Squirrel
 #### Bear
 ### The Monsters...

@@ -1,3 +1,10 @@
+---
+tags:
+- planes
+- folderfile
+aliases:
+---
+
 # Outer
 The Outer planes are the planes beyond the Elemental. These can be divided into 
 

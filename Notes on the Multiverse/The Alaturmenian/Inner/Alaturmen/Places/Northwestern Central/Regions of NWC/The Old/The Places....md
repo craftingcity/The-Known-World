@@ -1,3 +1,9 @@
+---
+tags:
+- minyostalma
+aliases:
+---
+
 # The Places...
 Each of the following locations describe the contents of the singular hex-mile they are contained within (excepting the City and Village, which are two and three hex-miles respectively, and are still described below). 
 

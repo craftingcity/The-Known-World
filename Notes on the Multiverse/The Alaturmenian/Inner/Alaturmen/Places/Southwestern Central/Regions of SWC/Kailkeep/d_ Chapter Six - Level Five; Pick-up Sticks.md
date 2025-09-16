@@ -1,3 +1,9 @@
+---
+tags:
+- kailkeep
+aliases:
+---
+
 # Level Five: Pick-up Sticks
 Level Five is the first and last level of Kailkeep to offer any sort of ecosystem that promotes cooperation between parties. From the prospective of the participant and the operators, this level continues the game, requiring five tokens per person to progress into the next level - but to the discerning eye, it presents an ecosystem of supply and demand that can be exploited to create a small stable community. 
 

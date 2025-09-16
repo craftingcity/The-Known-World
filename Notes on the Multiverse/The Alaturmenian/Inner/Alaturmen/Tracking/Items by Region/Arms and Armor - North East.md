@@ -1,3 +1,9 @@
+---
+tags:
+- mechanics
+- bookkeeping
+aliases:
+---
 # Arms
 ## Weapons
 | Weapon         | Damage | Tags                                    | Cost | Faction Use |

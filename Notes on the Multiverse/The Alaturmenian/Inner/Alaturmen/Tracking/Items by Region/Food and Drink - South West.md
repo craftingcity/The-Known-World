@@ -1,3 +1,9 @@
+---
+tags:
+- mechanics
+- bookkeeping
+aliases:
+---
 # Commodities
 ## Food
 | Food            | Type   | Desc.                                        | Cost  |

@@ -16,6 +16,6 @@ views:
       - property: file.tags
         direction: ASC
     columnSize:
-      file.tags: 134
+      file.tags: 267
       file.mtime: 104
       file.links: 907

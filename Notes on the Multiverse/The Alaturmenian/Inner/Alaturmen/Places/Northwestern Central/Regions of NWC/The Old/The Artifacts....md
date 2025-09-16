@@ -1,3 +1,8 @@
+---
+tags:
+- minyostalma
+aliases:
+---
 
 ## Artifact Hunting
 ### What is an "Artifact"?

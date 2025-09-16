@@ -1,3 +1,11 @@
+---
+tags:
+- folderfile
+- bookkeeping
+aliases:
+---
+
+
 | x             | Econ                                       | Exec                                        | Jude                                        | Legi                                                                     |
 | ------------- | ------------------------------------------ | ------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------ |
 | Coalition     | [[Economics of Coalition City]]            | [[Guilds of Coalition]]                     | [[Guilds of Coalition]]                     | [[Coalition's Founding Document]] & [[Communicaes]] as Civil-Common Code |

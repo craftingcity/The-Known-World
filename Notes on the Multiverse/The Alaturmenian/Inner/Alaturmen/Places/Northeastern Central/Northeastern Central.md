@@ -1,5 +1,7 @@
 ---
-tags: folderfile, region
+tags: 
+- folderfile
+- region
 aliases:
 ---
 # Northeastern Central
@@ -112,7 +114,6 @@ aliases:
 	- [[Brandle Wrench]]
 	- [[Dragons Blood Inn]]
 	- [[Earlwynn's Fine Dining]]
-	- [[Magius University]]
 	- [[Sally's Alley]]
 	- [[Yawning Pillow]]
 

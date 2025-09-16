@@ -1,3 +1,10 @@
+---
+tags:
+- bookkeeping
+aliases:
+---
+
+
 | Power   | City           | Village           |  | Population % or Weight | True Population |
 |---------|----------------|-------------------|--|------------------------|-----------------|
 | Prosper |                |                   |  | 1                      | 205613          |

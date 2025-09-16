@@ -1,8 +1,14 @@
+---
+tags:
+- folderfile
+- bookkeeping
+aliases:
+---
+
 # ORGANIZATION Overview
 %% Begin Waypoint %%
 - [[Books To Write]]
-- [[Holding Rules]]
-- [[Methods of Organization]]
+- [[Methods of Civil Organization]]
 - [[Notes From Grain Into Gold]]
 - **[[TEMPLATES]]**
 

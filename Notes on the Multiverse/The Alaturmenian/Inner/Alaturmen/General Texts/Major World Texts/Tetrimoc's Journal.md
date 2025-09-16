@@ -1,5 +1,7 @@
 ---
-tags: loreful, tetrimocal, text
+tags: 
+- tetrimocal
+- text
 aliases: Journal of Tetrimoc
 ---
 # Tetrimoc's Journal

@@ -1,5 +1,7 @@
 ---
-tags: encounter, Underdark, needs_work
+tags: 
+- encounter
+- Underdark
 aliases:
 ---
 

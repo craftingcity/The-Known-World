@@ -1,5 +1,6 @@
 ---
 tags:
+- holding
 aliases:
 ---
 # Giant's Toe

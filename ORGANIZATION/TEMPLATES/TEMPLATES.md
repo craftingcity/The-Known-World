@@ -1,3 +1,9 @@
+---
+tags:
+- folderfile
+aliases:
+---
+
 # TEMPLATES Overview
 %% Begin Waypoint %%
 - [[Artifact Template]]
@@ -5,16 +11,16 @@
 - [[Economy]]
 - [[Group]]
 - [[Holdings]]
-- [[Kitset]]
+- [[Kitset Template]]
 - [[NPCs]]
-- [[ORGANIZATION/TEMPLATES/Prenotes]]
+- [[Prenotes]]
 - [[Region]]
 - [[Stub]]
 - [[Table]]
 - [[Tags and Aliases]]
 - [[Text]]
-- [[Watches]]
-- [[Waypoint]]
+- [[Watches Template]]
+- [[Waypoint Template]]
 
 %% End Waypoint %%
  

@@ -1,3 +1,9 @@
+---
+tags:
+- minyostalma
+aliases:
+---
+
 ### The People...
 Many people who come and go from this place are peaceful folk who need money, and try their luck in the prosperous ruins of the old empire. The most unprepared are those that believe anyone they encounter is not willing to kill them for their findings.
 

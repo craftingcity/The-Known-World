@@ -1,5 +1,7 @@
 ---
-tags: bookkeeping, loreful
+tags:
+- guild
+- bookkeeping
 aliases:
 ---
 

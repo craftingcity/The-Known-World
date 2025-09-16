@@ -1,5 +1,6 @@
 ---
-tags: stub
+tags: 
+- stub
 aliases:
 ---
 

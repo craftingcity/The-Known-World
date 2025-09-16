@@ -1,3 +1,9 @@
+---
+tags:
+- bookkeeping
+aliases:
+---
+
 # Books To Write
 ### Fiction
 ### Guides / Instructional Texts
