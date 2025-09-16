@@ -23,6 +23,9 @@ Many allies of Yassir were quite perturbed by Arroit's decision, and joined in t
 ### A True Barony
 Since becoming the Baron of the Southern Third in 0XXAF, they cultivated a culture of internal positivity, and famously adopted the Yellow Mage, [[Nicolas Talaveem]], among many others displaced by the [[Great Fires]]. This "adoption" was often more ceremonial or practical than legal; the "children" of the Cassindil family are encouraged to use the resources and reputation that comes from the Cassindil family.
 
+### Death
+Yassir Cassindil was killed by [[Jasper's Angels]] on 07/26/106.
+
 ## Location
 Their place of residence, work, and other locations they may be found in, such as a favorite tavern or shoppe.
 

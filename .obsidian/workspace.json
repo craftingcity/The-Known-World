@@ -20,10 +20,14 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Custom Cultures"
             }
           }
         ]
@@ -301,6 +305,8 @@
   },
   "active": "1b369c821ced63c8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Prenotes Sep 10 25.md",
     "Prenotes Sep 13 25.md",
     "ORGANIZATION/TEMPLATES/Waypoint Template.md",
@@ -322,12 +328,10 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/j_ Chapter Twelve - Faction Deep Dive.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Junie's Characters/Tiana Turing.md",
-    "conflict-files-obsidian-git.md",
     "DATABASE.base",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "MEDIA/SUPP/Here lie my suppliments....md",
     "MEDIA/MEDIA.md",
-    "Junie's Characters/Junie's Characters.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
