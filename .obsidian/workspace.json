@@ -4,21 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "89102098b2b9cf03",
+        "id": "7a1e4b65c4a804e5",
         "type": "tabs",
+        "dimension": 56.77206229353468,
         "children": [
           {
-            "id": "1db09a61957d3ed1",
+            "id": "aef8bf3e53dbb330",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "i_ Chapter Eleven - Maintaining Kailkeep",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/i_ Chapter Eleven - Maintaining Kailkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"i_ Chapter Eleven - Maintaining Kailkeep\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -26,13 +21,44 @@
               ]
             },
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "DATABASE.base",
-                "viewName": "Table"
+                "file": "Prenotes Sep 10 25.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-table",
-              "title": "DATABASE"
+              "icon": "lucide-file",
+              "title": "Prenotes Sep 10 25"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f1f3f0dfbe354523",
+        "type": "tabs",
+        "dimension": 43.22793770646532,
+        "children": [
+          {
+            "id": "6c620c48b8fd8196",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Sep 13 25.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes Sep 13 25"
             }
           }
         ]
@@ -85,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slots",
+                "query": "\"goblin dissenters",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -308,35 +334,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1db09a61957d3ed1",
+  "active": "6c620c48b8fd8196",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
-    "DATABASE.base",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Who has a Horde.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/The Worldwide Calendar Systems.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/How the Weave becomes Magic.md",
-    "README.md",
     "ORGANIZATION/TEMPLATES/Waypoint Template.md",
     "ORGANIZATION/TEMPLATES/Watches Template.md",
-    "ORGANIZATION/TEMPLATES/TEMPLATES.md",
-    "ORGANIZATION/TEMPLATES/Tags and Aliases.md",
     "ORGANIZATION/TEMPLATES/Kitset Template.md",
-    "ORGANIZATION/TEMPLATES/Artifact Template.md",
-    "ORGANIZATION/ORGANIZATION.md",
-    "ORGANIZATION/Notes From Grain Into Gold.md",
     "ORGANIZATION/Methods of Civil Organization.md",
-    "ORGANIZATION/Holding Rules.md",
-    "ORGANIZATION/Books To Write.md",
-    "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Outer.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Limbo/Limbo.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Elysium/Elysium.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Abyss/Abyss.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Tables/Underdark Travel Table.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Tables/Underdark Encounters.md",
+    "Prenotes Sep 10 25.md",
+    "Game Notes/Campaign Rosters/Jasper's Angels.md",
+    "Prenotes Sep 13 25.md",
+    "Game Notes/Prenotes/'25/Prenotes July 08 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Goldfield.md",
+    "Game Notes/Prenotes/'25/Prenotes July 29 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+    "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Mossburg/Veritas Garigill.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/j_ Chapter Twelve - Faction Deep Dive.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+    "Junie's Characters/Tiana Turing.md",
+    "conflict-files-obsidian-git.md",
+    "DATABASE.base",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "MEDIA/SUPP/Here lie my suppliments....md",
+    "MEDIA/MEDIA.md",
+    "Junie's Characters/Junie's Characters.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
