@@ -60,8 +60,32 @@
               "icon": "lucide-file",
               "title": "Prenotes Sep 13 25"
             }
+          },
+          {
+            "id": "0374e78089134bef",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Baron Cassindil"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -334,15 +358,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c620c48b8fd8196",
+  "active": "0374e78089134bef",
   "lastOpenFiles": [
+    "Prenotes Sep 13 25.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
     "ORGANIZATION/TEMPLATES/Waypoint Template.md",
     "ORGANIZATION/TEMPLATES/Watches Template.md",
     "ORGANIZATION/TEMPLATES/Kitset Template.md",
     "ORGANIZATION/Methods of Civil Organization.md",
     "Prenotes Sep 10 25.md",
     "Game Notes/Campaign Rosters/Jasper's Angels.md",
-    "Prenotes Sep 13 25.md",
     "Game Notes/Prenotes/'25/Prenotes July 08 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Goldfield.md",
     "Game Notes/Prenotes/'25/Prenotes July 29 25.md",
@@ -362,7 +387,6 @@
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "MEDIA/SUPP/Here lie my suppliments....md",
     "MEDIA/MEDIA.md",
-    "Junie's Characters/Junie's Characters.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
