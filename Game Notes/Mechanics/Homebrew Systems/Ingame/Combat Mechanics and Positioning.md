@@ -86,9 +86,9 @@ You may perform a second **Object Interaction** on your turn by using your **Bon
 Larger creatures can wield larger weapons more easily. For creatures of a size-class of 'Large' or greater, Melee Weapons with the *two-handed* property but without the *very heavy* property become *versatile (d+)* instead of *two-handed* for them.
 
 ## Having Reach
-While you have *reach*, any non-spell text that reads 'within 5 feet', that text instead reads 'within *Threatened Area*'.
+While you have *reach*, any non-spell text that reads 'within 5 feet', that text instead reads 'within your *Threatened Area*'.
 
-Your *Threatened Area* 
+Your *Threatened Area* is the area into which you can make melee attacks.
 
 ## Equipment Slots
 To gain the benefits of a given item, you must assign it to a valid slot. You may only gain the benefits of a single item in a given slot. Some items may occupy more than one slot, in which case, you must assign it to all slots to gain its benefits.
