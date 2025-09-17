@@ -199,7 +199,7 @@ We begin to take our rest for the night, and some floating lights approached us!
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| o   | o   | o   | .   | .   | .   | .   | .    | .   |
+| x   | x   | o   | .   | .   | .   | .   | .    | .   |
 | o   | o   | o   | .   | .   | .   | .   |      |     |
 | o   | o   | .   | .   | .   |     |     | DC   | 16  |
 | o   |     |     |     |     |     |     | ATTK | +8  |
