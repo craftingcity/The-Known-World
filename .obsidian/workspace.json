@@ -52,9 +52,32 @@
               "icon": "lucide-file",
               "title": "Combat Mechanics and Positioning"
             }
+          },
+          {
+            "id": "92ecd91eae45bcb8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Junie's Characters/Tiana Turing.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tiana Turing"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"goblin dissenters",
+                "query": "reach",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +176,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -327,8 +351,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d35b12b5d3dcc28c",
+  "active": "92ecd91eae45bcb8",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "conflict-files-obsidian-git.md",
     "Prenotes Sep 10 25.md",
@@ -355,7 +380,6 @@
     "DATABASE.base",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "MEDIA/SUPP/Here lie my suppliments....md",
-    "MEDIA/MEDIA.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
