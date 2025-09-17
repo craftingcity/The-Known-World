@@ -182,6 +182,10 @@ We keep travelling, and we finally get to make a choice about where we go - we c
 
 We begin to take our rest for the night, and some floating lights approached us!
 
+#### Session 14: Beyond the Cove... (cont.)
+
+
+
 ## Stats
 
 | L. 5 | XP: 11,200 | / 14.0k | (0) Inspiration |

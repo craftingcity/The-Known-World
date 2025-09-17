@@ -21,7 +21,7 @@ The *stunned* condition additionally reads: 'As you resolve this condition, you 
 ## Opportunity Attack
 When a creature **Moves** away from an opponent, unless they have **Disengaged**, they present their opponent with a chance to strike; an *Opportunity Attack*. By spending their Reaction, the second creature can make one Melee Weapon Attack against the first.
 
-A creature triggers an *Opportunity Attack* when they voluntarily **Move** outside their opponent's 'Engagement Range', the area they can *reach* with whatever they're holding. 
+A creature triggers an *Opportunity Attack* when they voluntarily **Move** outside their opponent's '*Threatened Area*', the area they can *reach* with whatever they're holding. 
 
 ## High Ground
 When a creature makes an **Attack** against an opponent that is below them by 5' or more, that **Attack** is made with **Advantage**.
@@ -86,7 +86,9 @@ You may perform a second **Object Interaction** on your turn by using your **Bon
 Larger creatures can wield larger weapons more easily. For creatures of a size-class of 'Large' or greater, Melee Weapons with the *two-handed* property but without the *very heavy* property become *versatile (d+)* instead of *two-handed* for them.
 
 ## Having Reach
-While you have *reach*, any non-spell
+While you have *reach*, any non-spell text that reads 'within 5 feet', that text instead reads 'within *Threatened Area*'.
+
+Your *Threatened Area* 
 
 ## Equipment Slots
 To gain the benefits of a given item, you must assign it to a valid slot. You may only gain the benefits of a single item in a given slot. Some items may occupy more than one slot, in which case, you must assign it to all slots to gain its benefits.

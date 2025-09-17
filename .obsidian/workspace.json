@@ -8,29 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b369c821ced63c8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Custom Cultures"
-            }
-          },
-          {
             "id": "d35b12b5d3dcc28c",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -78,6 +55,35 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "62e1433890d969c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf2088f4b0395604",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Junie's Characters/Tiana Turing.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tiana Turing"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5080032348633
+    "width": 359.5080032348633,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -351,11 +358,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d35b12b5d3dcc28c",
+  "active": "cf2088f4b0395604",
   "lastOpenFiles": [
-    "Junie's Characters/Tiana Turing.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+    "Junie's Characters/Tiana Turing.md",
     "conflict-files-obsidian-git.md",
     "Prenotes Sep 10 25.md",
     "Prenotes Sep 13 25.md",
