@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "83ae8db15cb214ae",
+        "id": "7a1e4b65c4a804e5",
         "type": "tabs",
+        "dimension": 56.77206229353468,
         "children": [
           {
-            "id": "92ecd91eae45bcb8",
+            "id": "aef8bf3e53dbb330",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,22 +23,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
+                "file": "Prenotes Sep 10 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tiana Turing"
+              "title": "Prenotes Sep 10 25"
             }
           }
         ]
       },
       {
-        "id": "62e1433890d969c7",
+        "id": "f1f3f0dfbe354523",
         "type": "tabs",
+        "dimension": 43.22793770646532,
         "children": [
           {
-            "id": "cf2088f4b0395604",
+            "id": "6c620c48b8fd8196",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -51,15 +53,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
+                "file": "Prenotes Sep 13 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tiana Turing"
+              "title": "Prenotes Sep 13 25"
+            }
+          },
+          {
+            "id": "0374e78089134bef",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Baron Cassindil"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reach",
+                "query": "\"goblin dissenters",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,13 +184,11 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 359.5080032348633,
-    "collapsed": true
+    "width": 359.5080032348633
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -334,13 +358,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92ecd91eae45bcb8",
+  "active": "0374e78089134bef",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
-    "Junie's Characters/Tiana Turing.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-    "conflict-files-obsidian-git.md",
     "Prenotes Sep 10 25.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
     "Prenotes Sep 13 25.md",
     "ORGANIZATION/TEMPLATES/Waypoint Template.md",
     "ORGANIZATION/TEMPLATES/Watches Template.md",
@@ -360,9 +381,12 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/j_ Chapter Twelve - Faction Deep Dive.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+    "Junie's Characters/Tiana Turing.md",
+    "conflict-files-obsidian-git.md",
     "DATABASE.base",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "MEDIA/SUPP/Here lie my suppliments....md",
+    "MEDIA/MEDIA.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
