@@ -29,8 +29,32 @@
               "icon": "lucide-file",
               "title": "Custom Cultures"
             }
+          },
+          {
+            "id": "d35b12b5d3dcc28c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Combat Mechanics and Positioning"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -303,10 +327,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b369c821ced63c8",
+  "active": "d35b12b5d3dcc28c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+    "conflict-files-obsidian-git.md",
     "Prenotes Sep 10 25.md",
     "Prenotes Sep 13 25.md",
     "ORGANIZATION/TEMPLATES/Waypoint Template.md",
