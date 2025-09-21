@@ -79,77 +79,78 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Armors
 #### SCAVANGED / REFIT
-| Name                 | Type   | Prot.          | Space   | Refitters | Cost in AC | Cost in SP |
-| -------------------- | ------ | -------------- | ------- | --------- | ---------- | ---------- |
-| Leather              | Light  | 11+DEX         | 1x Arti | all       | 0.1        | 80sp           |
-| Hide                 | Medium | 14+DEX (max 2) | 1x Arti | all       | 0.2        |            |
-| Patched Scout Armor  | Light  | 15+DEX         | 2x Arti | all       | 0.8        |            |
-| Patched Combat Armor | Medium | 16+DEX         | 2x Arti | all       | 2.0        |            |
-| Plate                | Heavy  | 18             | 1x Arti | all       | 0.2        |            |
-| Refit Tank-plate     | Heavy  | 20, DR 1       | 3x Arti | all       | 2.8        |            |
-| Empty Power Plate    | Heavy  | 22, DR 2       | 5x Arti | all       | 7.5        |            |
+| Name                 | Type   | Prot.                       | Space   | Refitters | Cost in AC | Cost in SP |
+| -------------------- | ------ | --------------------------- | ------- | --------- | ---------- | ---------- |
+| Leather              | Light  | 11+DEX                      | 1x Arti | all       | 0.4        | 80sp       |
+| Hide                 | Medium | 14+DEX (max 2)              | 1x Arti | all       | 0.75       | 150sp      |
+| Patched Scout Armor  | Light  | 15+DEX, +5 R. Protection    | 2x Arti | all       | 8          | 1600sp     |
+| Patched Combat Armor | Medium | 16+DEX, +10 R. Protection   | 2x Arti | all       | 12         | 2400sp     |
+| Plate                | Heavy  | 18                          | 1x Arti | all       | 4.5        | 900sp      |
+| Refit Tank-plate     | Heavy  | 20, DR 1, +30 R. Protection | 3x Arti | all       | 16         | 3200sp     |
+| Empty Power Plate    | Heavy  | 22, DR 2, +75 R. Protection | 5x Arti | all       | 26         | 5200sp     |
 
 #### IMPORTED / FORGED
-| Name                    | Type   | Prot.          | Space   | Importers             | Cost in AC | Cost in SP |
-| ----------------------- | ------ | -------------- | ------- | --------------------- | ---------- | ---------- |
-| Chitin Studded          | Light  | 13+DEX         | 1x Arti | all                   | 0.2        |            |
-| Chitin Mail             | Medium | 14+DEX (max 3) | 1x Arti | all                   | 0.4        |            |
-| Chitin Plate            | Heavy  | 16+DEX (max 3) | 1x Arti | all                   | 0.75       |            |
-| Pressigen Scout Armor   | Light  | 16+DEX         | 3x Arti | scavs, mercs          | 1.0        |            |
-| Pressigen Combat Armor  | Medium | 18+DEX         | 3x Arti | scavs, mercs          | 2.5        |            |
-| Blessed Half-plate      | Medium | 17+DEX (max 2) | 2x Arti | wfm, extramis         | 0.8        |            |
-| Blessed Plate           | Heavy  | 20             | 3x Arti | wfm, extramis         | 1.4        |            |
-| Darksteel Tank-plate    | Heavy  | 21, DR 2       | 4x Arti | wfm, troopers, fallen | 3.6        |            |
-| Durandurm Powered Plate | Medium | 23, DR 5       | 5x Arti | fallen                | 32.0       |            |
+| Name                    | Type   | Prot.                             | Space   | Importers             | Cost in AC | Cost in SP |
+| ----------------------- | ------ | --------------------------------- | ------- | --------------------- | ---------- | ---------- |
+| Chitin Studded          | Light  | 13+DEX                            | 1x Arti | all                   | 0.6        | 120sp      |
+| Chitin Mail             | Medium | 14+DEX (max 3)                    | 1x Arti | all                   | 2          | 400sp      |
+| Chitin Plate            | Heavy  | 16+DEX (max 3)                    | 1x Arti | all                   | 6          | 1200sp     |
+| Pressigen Scout Armor   | Light  | 16+DEX, +15 R. Protection         | 3x Arti | scavs, mercs          | 10         | 2000sp     |
+| Pressigen Combat Armor  | Medium | 18+DEX, +20 R. Protection         | 3x Arti | scavs, mercs          | 14         | 2800sp     |
+| Blessed Half-plate      | Medium | 17+DEX (max 2), +15 R. Protection | 2x Arti | wfm, extramis         | 4          | 800sp      |
+| Blessed Plate           | Heavy  | 20, +35 R. Protection             | 3x Arti | wfm, extramis         | 5.5        | 1100sp     |
+| Darksteel Tank-plate    | Heavy  | 21, DR 2, +60 R. Protection       | 4x Arti | wfm, troopers, fallen | 24         | 4800sp     |
+| Durandurm Powered Plate | Medium | 23, DR 5, +150 R. Protection      | 5x Arti | fallen                | 32.0       | 6400sp     |
 
 #### RADIATION
-| Name                                                             | Type           | Prot.             | Importers | Cost in AC | Cost in SP |
-| ---------------------------------------------------------------- | -------------- | ----------------- | --------- | ---------- | ---------- |
-| Hazardous Environment Facial Protector (HEFP), Mark 1            | Headgear       | +5 R. Protection  | All       | 0.4        |            |
-| Hazardous Environment Facial Protector (HEFP), Mark 2            | Headgear       | +15 R. Protection | All       | 1.2        |            |
-| Hazardous Environment Facial Protector (HEFP), Mark 3            | Headgear       | +35 R. Protection | All       | 3.4        |            |
-| Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 1 | Full-body Suit | +20 R. Protection | All       | 1.2        |            |
-| Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 2 | Full-body Suit | +45 R. Protection | All       | 5.0        |            |
-| Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 3 | Full-body Suit | +75 R. Protection | All       | 13.2       |            |
+| Name                                                             | Type   | Prot.                             | Importers | Cost in AC | Cost in SP |
+| ---------------------------------------------------------------- | ------ | --------------------------------- | --------- | ---------- | ---------- |
+| Hazardous Environment Facial Protector (HEFP), Mark 1            | Face   | +5 R. Protection                  | All       | 3          | 600sp      |
+| Hazardous Environment Facial Protector (HEFP), Mark 2            | Face   | +15 R. Protection                 | All       | 5          | 1000sp     |
+| Hazardous Environment Facial Protector (HEFP), Mark 3            | Face   | +35 R. Protection                 | All       | 8          | 1600sp     |
+| Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 1 | Light  | 12+DEX, +20 R. Protection         | All       | 8          | 1600sp     |
+| Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 2 | Light  | 13+DEX, +45 R. Protection         | All       | 12         | 2400sp     |
+| Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 3 | Medium | 15+DEX (max 2), +75 R. Protection | All       | 15         | 3000sp     |
 
 ### Ammunition
 #### SCAVANGED / REFIT
 | Name                                     | Type          | Dam.                                 | Cost in AC | Cost in SP |
 | ---------------------------------------- | ------------- | ------------------------------------ | ---------- | ---------- |
-| Refit Durandurm Magazine, Wild Tracer    | force         | 1d6                                  | 0.2        |            |
-| Refit Durandurm Magazine, High Explosive | slash & force | 1d6+1d4 (scaling d4 is on probation) | 0.5        |            |
-| Refit Durandurm Magazine, Blessed        | radiant       | 1d6+1                                | 0.3        |            |
+| Refit Durandurm Magazine, Wild Tracer    | force         | 1d6                                  | 0.1        | 20sp       |
+| Refit Durandurm Magazine, High Explosive | slash & force | 1d6+1d4 (scaling d4 is on probation) | 1          | 200sp      |
+| Refit Durandurm Magazine, Blessed        | radiant       | 1d6+1                                | 0.5        | 100sp      |
 
 #### IMPORTED / FORGED
 | Name                             | Type    | Dam. | Cost in AC | Cost in SP |
 | -------------------------------- | ------- | ---- | ---------- | ---------- |
-| Durandurm Magazine, Fire Red     | fire    | 1d6  | 0.2        |            |
-| Durandurm Magazine, Water Blue   | cold    | 1d6  | 0.2        |            |
-| Durandurm Magazine, Earth Yellow | thunder | 1d6  | 0.2        |            |
-| Durandurm Magazine, Air Clear    | force   | 1d6  | 0.2        |            |
-| Hummpo                           | fire    | 2d4  | 0.15       |            |
+| Durandurm Magazine, Fire Red     | fire    | 1d6  | 0.1        | 20sp       |
+| Durandurm Magazine, Water Blue   | cold    | 1d6  | 0.1        | 20sp       |
+| Durandurm Magazine, Earth Yellow | thunder | 1d6  | 0.1        | 20sp       |
+| Durandurm Magazine, Air Clear    | force   | 1d6  | 0.1        | 20sp       |
+| Hummpo                           | fire    | 2d4  | 0.1        | 20sp       |
 
 
 ### Containers
 #### FLUIDS STORAGE
 | Name     | Type    | Space | Cost in AC | Cost in SP |
 | -------- | ------- | ----- | ---------- | ---------- |
-| Wineskin | leather | 1 gal | 0.1        |            |
+| Wineskin | leather | 1 gal | 0.1        | 20sp       |
+|          |         |       |            |            |
 
 #### SOLIDS STORAGE
 | Name                  | Type | Space | Cost in AC | Cost in SP |
 | --------------------- | ---- | ----- | ---------- | ---------- |
-| Backpack              | x    |       |            |            |
+| Backpack              |      |       |            |            |
 | Simple Crate          |      |       |            |            |
 | Black Arti-lock Crate |      |       |            |            |
 
 #### ARTIFACTS STORAGE
 | Name                  | Type    | Reduction | Space   | Cost in AC | Cost in SP |
 | --------------------- | ------- | --------- | ------- | ---------- | ---------- |
-| Simple Anti-Rad Box   | lockbox | 8 RadRed  | 1x Arti | 1.0        |            |
-| Blessed Anti-Rad Box  | lockbox | 24 RadRed | 1x Arti | 3.2        |            |
-| Advanced Anti-Rad Box | lockbox | 36 RadRed | 3x Arti | 5.4        |            |
-| Fallen Anti-Rad Box   | lockbox | 99 RadRed | 5x Arti | 15.0       |            |
+| Simple Anti-Rad Box   | lockbox | 8 RadRed  | 1x Arti | 1.0        | 200sp      |
+| Blessed Anti-Rad Box  | lockbox | 24 RadRed | 1x Arti | 3.0        | 600sp      |
+| Advanced Anti-Rad Box | lockbox | 36 RadRed | 3x Arti | 6.0        | 1200sp     |
+| Fallen Anti-Rad Box   | lockbox | 99 RadRed | 5x Arti | 15.0       | 3000sp     |
 
 ### Commodities
 #### DRUGS / ALCH

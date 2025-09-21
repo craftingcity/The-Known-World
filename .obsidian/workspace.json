@@ -4,37 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "dd0c45ea8f33ee6a",
-        "type": "tabs",
-        "dimension": 43.90096618357488,
-        "children": [
-          {
-            "id": "d53aa6f339bbb287",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "GrainIntoGold"
-            }
-          }
-        ]
-      },
-      {
         "id": "5acdc155822d3096",
         "type": "tabs",
-        "dimension": 56.09903381642513,
         "children": [
           {
             "id": "9a1656cfd9d6082c",
