@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "The Gear...",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
+    },
+    {
+      "basename": "DATABASE",
+      "path": "DATABASE.base"
+    },
+    {
       "basename": "Who has a Horde",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Who has a Horde.md"
     },
     {
       "basename": "Kakurak's Lair",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md"
-    },
-    {
-      "basename": "DATABASE",
-      "path": "DATABASE.base"
     },
     {
       "basename": "Grand Pantheon",
@@ -195,10 +199,6 @@
     {
       "basename": "Underdark Air",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/General/Underdark Air.md"
-    },
-    {
-      "basename": "Inner",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md"
     }
   ],
   "omittedPaths": [],

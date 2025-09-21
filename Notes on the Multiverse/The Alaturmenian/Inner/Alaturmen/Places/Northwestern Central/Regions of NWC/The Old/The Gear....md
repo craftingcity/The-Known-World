@@ -15,46 +15,45 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 
 ### Arms
 #### SCAVANGED / REFIT
-| Name                     | Range  | Type      | Dam.                | Ammo      | Crafters | Cost in AC |
-| ------------------------ | ------ | --------- | ------------------- | --------- | -------- | ---------- |
-| Steel Machete            | 5ft    | slashing  | 2d4+STR             | none      | all      | 0.1        |
-| Scavenged Handblaster    | 30/90  | dunam     | 1d6+DEX             | durandurm | all      | 0.25       |
-| Scavended Scatterblaster | 10'    | dunam     | 3d6+DEX             | durandurm | all      | 0.35       |
-| Scavenged Carbine        | 60/180 | dunam     | 3d6+DEX             | durandurm | all      | 0.5        |
-| Pipe Grenade             | 0-20   | explosive | 10ft sphere, 3d6+16 | n/a       | all      | 0.2        |
-| Homemade Fire-Bomb       | 0-20   | fire      | 5ft sphere, 3d4+8   | n/a       | all      | 0.1        |
+| Name                     | Range  | Type      | Dam.                | Ammo      | Crafters | Cost in AC | Cost in SP |
+| ------------------------ | ------ | --------- | ------------------- | --------- | -------- | ---------- | ---------- |
+| Steel Machete            | 5ft    | slashing  | 2d4+STR             | none      | all      | 0.1        | 20sp       |
+| Scavenged Handblaster    | 30/90  | dunam     | 1d6+DEX             | durandurm | all      | 1          | 200sp      |
+| Scavended Scatterblaster | 10'    | dunam     | 3d6+DEX             | durandurm | all      | 3          | 600sp      |
+| Scavenged Carbine        | 60/180 | dunam     | 3d6+DEX             | durandurm | all      | 5          | 1000sp     |
+| Pipe Grenade             | 0-20   | explosive | 10ft sphere, 3d6+16 | n/a       | all      | 0.2        | 40sp       |
+| Homemade Fire-Bomb       | 0-20   | fire      | 5ft sphere, 3d4+8   | n/a       | all      | 0.1        | 20sp       |
 
 #### IMPORTED / FORGED
-| Name                        | Range   | Type          | Dam.                 | Ammo      | Importers | Cost in AC |
-| --------------------------- | ------- | ------------- | -------------------- | --------- | --------- | ---------- |
-| Handblaster                 | 45/120  | dunam         | 1d6+DEX              | durandurm | all       | 0.3        |
-| Longblaster                 | 180/500 | dunam         | 1d10+DEX             | durandurm | all       | 0.5        |
-| Scatterblaster              | 15'     | dunam         | 5d6+DEX              | durnadurm | all       | 0.6        |
-| Repeating Blaster / Carbine | 90/360  | dunam         | 3d6+DEX              | durandurm | all       | 0.75       |
-| Machine Repeater            | 45/120  | dunam         | 3x(1d6+DEX)          | durandurm | all       | 1.0        |
-| Pineapple Grenade           | 0-20    | slash & force | 15ft sphere, 5d6+20  | n/a       | all       | 0.3        |
-| Fire Grenade                | 0-20    | fire          | 10ft sphere, 3d8+16  | n/a       | all       | 0.25       |
-| Shoebox Anti-Personnel Mine | -       | slash & force | 15ft sphere, 4d10+30 | n/a       | all       | 1.2        |
-| Hillsight Shaped Mine       | -       | slash & force | 10ft cone, 4d10+25   | n/a       | all       | 2.4        |
+| Name                        | Range   | Type          | Dam.                 | Ammo      | Importers | Cost in AC | Cost in SP |
+| --------------------------- | ------- | ------------- | -------------------- | --------- | --------- | ---------- | ---------- |
+| Handblaster                 | 45/120  | dunam         | 1d6+DEX              | durandurm | all       | 3          | 600sp      |
+| Longblaster                 | 180/500 | dunam         | 1d10+DEX             | durandurm | all       | 5          | 1000sp     |
+| Scatterblaster              | 15'     | dunam         | 5d6+DEX              | durnadurm | all       | 6          | 1200sp     |
+| Repeating Blaster / Carbine | 90/360  | dunam         | 3d6+DEX              | durandurm | all       | 8          | 1600sp     |
+| Machine Repeater            | 45/120  | dunam         | 3x(1d6+DEX)          | durandurm | all       | 10         | 2000sp     |
+| Pineapple Grenade           | 0-20    | slash & force | 15ft sphere, 5d6+20  | n/a       | all       | 0.3        | 60sp       |
+| Fire Grenade                | 0-20    | fire          | 10ft sphere, 3d8+16  | n/a       | all       | 0.25       | 50sp       |
+| Shoebox Anti-Personnel Mine | -       | slash & force | 15ft sphere, 4d10+30 | n/a       | all       | 1.2        | 240sp      |
+| Hillsight Shaped Mine       | -       | slash & force | 10ft cone, 4d10+25   | n/a       | all       | 2.4        | 480sp      | 
 
 ###### Durandurm Upgrades
-| Name                                | Range   | Type | Use                                        | Ammo? | Imprters             | Cost in AC |
-| ----------------------------------- | ------- | ---- | ------------------------------------------ | ----- | -------------------- | ---------- |
-| Loose Trigger                       | -       | side | multishot per d6, -2 to hit                | n/a   | all                  | 0.2        |
-| Advanced Sight Scope                | +15/+90 | upg. | -                                          | n/a   |                      |            |
-| Tight Tracer Muzzle Attachment      | -5/-30  | side | +1 dam                                     | n/a   |                      |            |
-| Tracer Suppresser Muzzle System     | -10/-60 | side | +2 dam                                     | n/a   |                      |            |
-| Refined Handblaster Receiver        | -       | upg. | +1 to hit, +1 dam                          | n/a   | mercs, troopers      | 2.0        |
-| Blessed Handblaster Receiver        | -       | upg. | +1d4 to hit, +1d4                          | n/a   | wfm, extramis        | 2.0        |
-| Extended Handblaster Barrel         | +5/+30  | upg. | +1d6                                       | n/a   | all                  | 4.0        |
-| Refined Carbine Receiver            | -       | upg  | +2 to hit, +2 dam                          | n/a   | mercs                | 3.2        |
-| Dual-pop Carbine Receiver           | -       | upg  | +1 to hit, +1d6                            | n/a   | mercs, troopers, wfm | 4.0        |
-| Ares Manual-Switch Carbine Receiver | 45/120  | upg. | multishot per d6                           | n/a   | scavs, troopers      | 1.5        |
-| Magazine Extender, 20-shot          | -       | upg. | 2x mag cap                                 | n/a   | all                  | 0.8        |
-| Magazine Extender, 40-shot          | -       | upg. | 4x mag cap                                 | n/a   | all                  | 2.4        |
-| Magazine Belt Feeder                | -       | upg. | inf mag cap                                | n/a   | all                  | 5.6        |
-| TacLight! Cone Lamp                 | 45/90   | upg. | Dim light for 90', bright for 45'          | n/a   | all                  |            |
-| TacLight! Prefire Tracer Module     | 30/90   | upg. | +2 to hit within 30', +1 to hit within 90' | n/a   | all                  |            |
+| Name                            | Range   | Type | Use                                        | Ammo? | Imprters             | Cost in AC | Cost in SP |
+| ------------------------------- | ------- | ---- | ------------------------------------------ | ----- | -------------------- | ---------- | ---------- |
+| Loose Trigger                   | -       | side | multishot per d6, -2 to hit                | n/a   | all                  | 0.2        | 40sp       |
+| Advanced Sight Scope            | +15/+90 | upg. | -                                          | n/a   |                      | 1          | 200sp      |
+| Extended Barrel                 | +5/+30  | upg. | +1d6                                       | n/a   | all                  | 4.0        | 800sp      |
+| Tight Tracer Muzzle Attachment  | -5/-30  | side | +1 dam                                     | n/a   |                      | 5          | 1000sp     |
+| Tracer Suppresser Muzzle System | -10/-60 | side | +2 dam                                     | n/a   |                      | 10         | 2000sp     |
+| Blessed Receiver                | -       | upg. | +1d4 to hit, +1d4                          | n/a   | wfm, extramis        | 12         |            |
+| Refined Receiver                | -       | upg  | +2 to hit, +2 dam                          | n/a   | mercs                | 16         | 3200sp           |
+| Dual-pop Receiver               | -       | upg  | +1 to hit, +1d6                            | n/a   | mercs, troopers, wfm | 28         | 5600sp           |
+| Ares Manual-Switch Receiver     | 45/120  | upg. | multishot per d6                           | n/a   | scavs, troopers      | 15         | 3000sp           |
+| Magazine Extender, 20-shot      | -       | upg. | 2x mag cap                                 | n/a   | all                  | 0.8        | 160sp           |
+| Magazine Extender, 40-shot      | -       | upg. | 4x mag cap                                 | n/a   | all                  | 2.4        | 480sp           |
+| Magazine Belt Feeder            | -       | upg. | inf mag cap                                | n/a   | all                  | 5.6        | 1120sp           |
+| TacLight! Cone Lamp             | 45/90   | upg. | Dim light for 90', bright for 45'          | n/a   | all                  | 1          | 200sp           |
+| TacLight! Prefire Tracer Module | 30/90   | upg. | +2 to hit within 30', +1 to hit within 90' | n/a   | all                  | 3          | 600sp           |
 
 #### EQUIPMENT
 | Name                                   | Type                   | Use                             | Importers   | Cost in AC |

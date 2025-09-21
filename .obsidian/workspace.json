@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "313bc27afbdeb763",
+        "id": "5acdc155822d3096",
         "type": "tabs",
         "children": [
           {
-            "id": "d9b4ecfa95fefc8f",
+            "id": "9a1656cfd9d6082c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,46 +20,17 @@
               ]
             },
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "DATABASE.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "DATABASE"
-            }
-          },
-          {
-            "id": "5d21957d1d8965fa",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Kakurak's Lair",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kakurak's Lair\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Who has a Horde.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Who has a Horde"
+              "title": "The Gear..."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5080032348633
+    "width": 359.5080032348633,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -333,11 +305,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d21957d1d8965fa",
+  "active": "9a1656cfd9d6082c",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Who has a Horde.md",
     "DATABASE.base",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Who has a Horde.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
     "ORGANIZATION/Notes From Grain Into Gold.md",
@@ -361,7 +333,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Game Notes/Prenotes/'25/Prenotes Jun 30 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/Factions/SEASEC/SEASEC.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Mossburg/Veritas Garigill.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
