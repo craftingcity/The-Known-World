@@ -156,41 +156,41 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 #### DRUGS / ALCH
 | Name            | Type   | Desc.                                                                                                                                                                                                                   | Cost in AC | Cost in SP |
 | --------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- |
-| Cannabis        | Eupho. | A natural euphoric leaf used recreationally across Alaturmen.                                                                                                                                                           |            |            |
-| Tabacco         | Stimu. | A natural stimulant leaf used recreationally across Alaturmen.                                                                                                                                                          |            |            |
-| Smokebulb       | Hallu. | A natural hallucinogen fungi used recreationally in some areas of Alaturmen. (Use: DC15 save, gain 30ft Truesight for 10 minutes if success, or -4 WIS mod if fail.)                                                    |            |            |
-| Lephora Essence | Hallu. | A high-end liquid hallucinogen. Rarely exported outside the Deserts of Tetrimoc and used in theological rituals. (Use: DC 21 save, +3 spellcasting ability mod for 1 minute if success, or Poisoned and Dazed if fail.) |            |            |
-| Bulbkiss        | Hallu. | A high-end powder hallucinogen. Mildly addictive, and overdose is uncommon. (Use: DC21 save, +2 to INT/WIS/CHA mods for 1 minute if success, or Poisoned and Charmed for 1 minute if fail.)                             |            |            |
-| Nova            | Stimu. | A mid-end powder stimulant. Addiction is common, and overdose is deadly. (Use: DC 17 save, +5ft speed, +1AC, +1 to hit on Ranged Attacks for 1 minute if success, or Poisoned and Paralyzed if fail.)                   |            |            |
-| Dareanamon      | Eupho. | A high-end crystal euphoriant. Sometimes sold as a more expensive syrup. Mildly addictive, and overdoses are common. (Use: DC21, +2 to STR/DEX mods for 1 minute if success, or Poisoned and Paralyzed if fail.)        |            |            |
-| Oldshine        | Depre. | A low-end liquid depressant used recreationally across Alaturmen. (Use: DC17 save, +1 STR mod, +1 DR if success, or Poisoned if fail.)                                                                                  |            |            |
-| Good Liquor     | Depre. | A mid-end liquid depressant used recreationally across Alaturmen. (Use: DC21 save, +3 STR mod, +1 DR if success, or Poisoned if fail.)                                                                                  |            |            |
+| Cannabis        | Eupho. | A natural euphoric leaf used recreationally across Alaturmen.                                                                                                                                                           | 0.1        | 4sp        |
+| Tabacco         | Stimu. | A natural stimulant leaf used recreationally across Alaturmen.                                                                                                                                                          | 0.1        | 2sp        |
+| Smokebulb       | Hallu. | A natural hallucinogen fungi used recreationally in some areas of Alaturmen. (Use: DC15 save, gain 30ft Truesight for 10 minutes if success, or -4 WIS mod if fail.)                                                    | 0.1        | 10sp       |
+| Lephora Essence | Hallu. | A high-end liquid hallucinogen. Rarely exported outside the Deserts of Tetrimoc and used in theological rituals. (Use: DC 21 save, +3 spellcasting ability mod for 1 minute if success, or Poisoned and Dazed if fail.) | 0.25       | 50sp       |
+| Bulbkiss        | Hallu. | A high-end powder hallucinogen. Mildly addictive, and overdose is uncommon. (Use: DC21 save, +2 to INT/WIS/CHA mods for 1 minute if success, or Poisoned and Charmed for 1 minute if fail.)                             | 0.1        | 18sp       |
+| Nova            | Stimu. | A mid-end powder stimulant. Addiction is common, and overdose is deadly. (Use: DC 17 save, +5ft speed, +1AC, +1 to hit on Ranged Attacks for 1 minute if success, or Poisoned and Paralyzed if fail.)                   | 0.1        | 12sp       |
+| Dareanamon      | Eupho. | A high-end crystal euphoriant. Sometimes sold as a more expensive syrup. Mildly addictive, and overdoses are common. (Use: DC21, +2 to STR/DEX mods for 1 minute if success, or Poisoned and Paralyzed if fail.)        | 0.125      | 25sp       |
+| Oldshine        | Depre. | A low-end liquid depressant used recreationally across Alaturmen. (Use: DC17 save, +1 STR mod, +1 DR if success, or Poisoned if fail.)                                                                                  | 0.1        | 6sp        |
+| Good Liquor     | Depre. | A mid-end liquid depressant used recreationally across Alaturmen. (Use: DC21 save, +3 STR mod, +1 DR if success, or Poisoned if fail.)                                                                                  | 0.1        | 15sp       |
 
 #### TROPHIES
-| Name                | Type  | Desc.                                                       | Cost in AC | Cost in SP |
-| ------------------- | ----- | ----------------------------------------------------------- | ---------- | ---------- |
-| Claw of Cancer      | leg   | A long sharp talon harvested from one of the Old's Cancers. | 0.1        |            |
-| Eye of Cancer       | eye   |                                                             |            |            |
-| Hide of Cancer      | hide  |                                                             |            |            |
-| Claw of Demon       | leg   |                                                             |            |            |
-| Tooth of Demon      | tooth |                                                             |            |            |
-| Hide of Demon       | hide  |                                                             |            |            |
-| Claw of Freak       | leg   |                                                             |            |            |
-| Head of Freak       | head  |                                                             |            |            |
-| Hand of Hidden Man  | leg   |                                                             |            |            |
-| Brain of Hidden Man | head  |                                                             |            |            |
-| Claw of Jumper      | leg   |                                                             |            |            |
-| Hide of Jumper      | hide  |                                                             |            |            |
-| Eye of Jumper       | eye   |                                                             |            |            |
-| Tooth of Jumper     | tooth |                                                             |            |            |
-| Fist of Mass        | leg   |                                                             |            |            |
-| Eye of Mass         | eye   |                                                             |            |            |
-| Hide of Mass        | hide  |                                                             |            |            |
-| Brain of Warper     | head  |                                                             |            |            |
-| Claw of Warper      | leg   |                                                             |            |            |
-| Hide of Warper      | hide  |                                                             |            |            |
-| Heart of Warper     | other |                                                             |            |            |
-| Claw of Zombie      | leg   |                                                             |            |            |
+| Name                | Type  | Desc.                                                                              | Cost in AC | Cost in SP |
+| ------------------- | ----- | ---------------------------------------------------------------------------------- | ---------- | ---------- |
+| Claw of Cancer      | leg   | A long hollow talon harvested from one of the Old's Cancers.                       | 0.1        | 20sp       |
+| Eye of Cancer       | eye   | A grotesque rippled eye harvested from one of the Old's Cancers.                   | 0.5        | 100sp      |
+| Hide of Cancer      | hide  | A large bulging strip of peachfuzzed hide harvested from one of the Old's Cancers. |            |            |
+| Claw of Demon       | leg   | A dagger-sharp claw harvested from one of the Old's Demons.                        |            |            |
+| Tooth of Demon      | tooth | A curved                                                                                    |            |            |
+| Hide of Demon       | hide  |                                                                                    |            |            |
+| Claw of Freak       | leg   |                                                                                    |            |            |
+| Head of Freak       | head  |                                                                                    |            |            |
+| Hand of Hidden Man  | leg   |                                                                                    |            |            |
+| Brain of Hidden Man | head  |                                                                                    |            |            |
+| Claw of Jumper      | leg   |                                                                                    |            |            |
+| Hide of Jumper      | hide  |                                                                                    |            |            |
+| Eye of Jumper       | eye   |                                                                                    |            |            |
+| Tooth of Jumper     | tooth |                                                                                    |            |            |
+| Fist of Mass        | leg   |                                                                                    |            |            |
+| Eye of Mass         | eye   |                                                                                    |            |            |
+| Hide of Mass        | hide  |                                                                                    |            |            |
+| Brain of Warper     | head  |                                                                                    |            |            |
+| Claw of Warper      | leg   |                                                                                    |            |            |
+| Hide of Warper      | hide  |                                                                                    |            |            |
+| Heart of Warper     | other |                                                                                    |            |            |
+| Claw of Zombie      | leg   |                                                                                    |            |            |
 
 ### Food
 #### LOCAL CUISINE
