@@ -30,11 +30,17 @@
             }
           },
           {
-            "id": "a4d6b28bc3076d0d",
+            "id": "5d21957d1d8965fa",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Kakurak's Lair",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kakurak's Lair\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -103,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "circle",
+                "query": "vault",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -327,10 +333,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4d6b28bc3076d0d",
+  "active": "5d21957d1d8965fa",
   "lastOpenFiles": [
-    "DATABASE.base",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Who has a Horde.md",
+    "DATABASE.base",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
     "ORGANIZATION/Notes From Grain Into Gold.md",

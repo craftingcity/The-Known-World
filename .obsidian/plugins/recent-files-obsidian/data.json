@@ -5,6 +5,10 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Who has a Horde.md"
     },
     {
+      "basename": "Kakurak's Lair",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md"
+    },
+    {
       "basename": "DATABASE",
       "path": "DATABASE.base"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Inner",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md"
-    },
-    {
-      "basename": "Feywild",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Feywild/Feywild.md"
     }
   ],
   "omittedPaths": [],
