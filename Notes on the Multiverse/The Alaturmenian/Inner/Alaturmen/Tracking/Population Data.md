@@ -1,5 +1,8 @@
 ---
-tags: bookkeeping
+tags: 
+- bookkeeping
+- alaturmen
+- depreceated
 aliases:
 ---
 

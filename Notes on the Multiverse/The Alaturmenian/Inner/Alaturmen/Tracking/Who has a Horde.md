@@ -18,3 +18,6 @@ So too do the bowels of [[Kailkeep]] hold many magical artifacts, but to sort th
 
 [[The Old Man]] knows the location of all the Relics of [[The Grey Ordeal]], though he himself keeps no wealth.
 
+| Owner |     | Location | Estimated Value |
+| ----- | --- | -------- | --------------- |
+|       |     |          |                 |

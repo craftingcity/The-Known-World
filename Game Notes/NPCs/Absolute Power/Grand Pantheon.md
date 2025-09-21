@@ -1,7 +1,7 @@
 ---
 tags: 
+- diety
 - alaturmen
-- planes
 aliases: 
 ---
 # Gods by Plane
