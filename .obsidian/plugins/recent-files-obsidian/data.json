@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Class - Psion",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Psion.md"
+    },
+    {
       "basename": "The Gear...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Underdark Hazards",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/General/Underdark Hazards.md"
-    },
-    {
-      "basename": "Underdark Ecology",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/General/Underdark Ecology.md"
     }
   ],
   "omittedPaths": [],

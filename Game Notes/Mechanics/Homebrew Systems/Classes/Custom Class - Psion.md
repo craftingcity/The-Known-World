@@ -10,7 +10,7 @@ aliases:
 	- Weapons: Daggers, Darts, Slings / Hand Crossbows, Staves, Shortbows
 	- Tools: None
 	- Saving Throws: Intelligence, Charisma
-	- Skills: Choose two of your choice i dont give a shit
+	- Skills: Two of your choice
 ## Equipment
 	- (a) a staff or (b) a dagger
 	- studded leather armor
@@ -71,7 +71,7 @@ At sixth level, you may access a number of Effort fueled ectoplasmic Reactions, 
 	- For three Effort, when you or an ally within 30ft of you is the target of an attack, you form an ectoplasmic distraction or blockade, imposing disadvantage on the Attack.
 
 #### The Lies of Reality
-At tenth level, when you invoke a Psychosolidics, Pschychometalbomism, or Telepathy Discipline, you may invoke one Discipline you know of the either of the other two Discipline types, as a Bonus Action. 
+At tenth level, when you invoke a Psychosolidics, Pschychometalbomism, or Telepathy Discipline, you may invoke one Discipline you know of one of the other two Discipline types, as a Bonus Action. 
 
 #### Mind as Body, Body as Mind
 At fourteenth level, your ability to invoke Psychometabolism Disciplines has become nearly innate. When you invoke a Psychometabolism Discipline on your turn, it costs you one less Effort to invoke than it normally would.
@@ -116,7 +116,7 @@ Expend and roll a Hit Die. You regain 1/2 the value rolled as Effort. You may, i
 ### WIS: 15
 By invoking Auto-Adjustment, you use Effort to control the process of healing within your own body.
 
-Expend and roll a Hit Die. You may either regain the value of the dice plus your Psionic Ability Modifier in Vitality or you may heal one Wound.
+Expend and roll a Hit Die. You may either regain the value of the dice plus your Psionic Ability Modifier in Hit Points or you may heal one Wound.
 
 ## Auto-Adaptation
 ### FULL (2, CON)
@@ -148,10 +148,10 @@ By invoking Brace, you use Effort to reduce the amount of damage you would take 
 
 When you take damage from a non-magical source, you may reduce the damage that triggered this reaction by a number equal to twice your current Effort.
 
-## Incorperate
+## Incorporate
 ### FULL (1)
 ### CHA: 13
-By invoking Incorperate, you use Effort to adjust the visibility of your material form. You are now Invisible, as per *invisibility*.
+By invoking Incorporate, you use Effort to adjust the visibility of your material form. You are now Invisible, as per *invisibility*.
 
 #### Psychokinesis
 ## Assail, Minor

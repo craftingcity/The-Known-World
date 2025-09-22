@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5acdc155822d3096",
+        "id": "5e3973ee732a18c7",
         "type": "tabs",
         "children": [
           {
-            "id": "9a1656cfd9d6082c",
+            "id": "734512aa2c938342",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "README",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"README\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":140},\"to\":{\"line\":15,\"ch\":140}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -28,12 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Psion.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Gear..."
+              "title": "Custom Class - Psion"
             }
           }
         ]
@@ -311,10 +305,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a1656cfd9d6082c",
+  "active": "734512aa2c938342",
   "lastOpenFiles": [
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Untitled.md",
     "README.md",
     "DATABASE.base",
