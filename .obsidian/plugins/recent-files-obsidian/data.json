@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Languages",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Languages.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Major Agricultural Harvests",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Baator",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
-    },
-    {
-      "basename": "Abyss",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Abyss/Abyss.md"
-    },
-    {
-      "basename": "Underdark Travel Table",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Tables/Underdark Travel Table.md"
     }
   ],
   "omittedPaths": [],
