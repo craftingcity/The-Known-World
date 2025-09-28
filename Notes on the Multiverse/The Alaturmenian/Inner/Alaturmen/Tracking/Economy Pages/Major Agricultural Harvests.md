@@ -9,100 +9,100 @@ aliases:
 
 | Name (Source)        | Cost @ Market | Regions Producing |
 | -------------------- | ------------- | ----------------- |
-| Beef (*Cattle*)      |               |                   |
-| Pork (*Pig*)         |               |                   |
-| Chevron (*Goat*)     |               |                   |
-| Mutton (*Sheep*)     |               |                   |
-| Venison (*Deer*)     |               |                   |
-| Wolv (*Wolf*)        |               |                   |
-| Brish (*Bear*)       |               |                   |
-| Bushmeat (*Rabbit*)  |               |                   |
-| Bushmeat (*Raccoon*) |               |                   |
-| Bushmeat (*Fox*)     |               |                   |
+| Beef (*Cattle*)      |               | Prosper,          |
+| Pork (*Pig*)         |               | Prosper, Illburn, |
+| Chevron (*Goat*)     |               | Prosper, Illburn, |
+| Mutton (*Sheep*)     |               | Prosper,          |
+| Venison (*Deer*)     |               | Prosper, Illburn, |
+| Wolv (*Wolf*)        |               | Prosper, Illburn, |
+| Brish (*Bear*)       |               | Prosper, Illburn, |
+| Bushmeat (*Rabbit*)  |               | Prosper, Illburn, |
+| Bushmeat (*Raccoon*) |               | Prosper, Illburn, |
+| Bushmeat (*Fox*)     |               | Prosper, Illburn, |
 |                      |               |                   |
 
 # Dairy
 
 | Name (Source) | Cost @ Market | Regions Producing |
 | ------------- | ------------- | ----------------- |
-| Cow's Milk    |               |                   |
-| Cow's Cheese  |               |                   |
-| Cow's Butter  |               |                   |
-| Goat's Milk   |               |                   |
-| Goat's Cheese |               |                   |
-| Goat's Butter |               |                   |
+| Cow's Milk    |               | Prosper,          |
+| Cow's Cheese  |               | Prosper,          |
+| Cow's Butter  |               | Prosper,          |
+| Goat's Milk   |               | Prosper, Illburn,          |
+| Goat's Cheese |               | Prosper, Illburn,          |
+| Goat's Butter |               | Prosper, Illburn,          |
 |               |               |                   |
 
 # Grains & Nuts
 
 | Name (Source) | Cost @ Market | Regions Producing |
 | ------------- | ------------- | ----------------- |
-| Wheat         |               |                   |
-| Rye           |               |                   |
-| Oat           |               |                   |
-| Heartnut      |               |                   |
-| Acorn              |               |                   |
+| Wheat         |               | Prosper,          |
+| Rye           |               | Prosper,          |
+| Oat           |               | Prosper,          |
+| Heartnut      |               | Prosper,          |
+| Acorn         |               | Prosper,          |
 
 # Fruits
 
 | Name (Source) | Cost @ Market | Regions Producing |
 | ------------- | ------------- | ----------------- |
-| Apple         |               |                   |
-| Pear          |               |                   |
-| Blueberry     |               |                   |
-| Raspberry     |               |                   |
-| Blackberry    |               |                   |
-| Strawberry    |               |                   |
-| Lemon         |               |                   |
-| Lime          |               |                   |
-| Orange        |               |                   |
+| Apple         |               | Prosper,          |
+| Pear          |               | Prosper,          |
+| Blueberry     |               | Prosper,          |
+| Raspberry     |               | Prosper,          |
+| Blackberry    |               | Prosper,          |
+| Strawberry    |               | Prosper,          |
+| Lemon         |               | Prosper,          |
+| Lime          |               | Prosper,          |
+| Orange        |               | Prosper,          |
 |               |               |                   |
 
 # Vegetables
 
 | Name (Source) | Cost @ Market | Regions Producing |
 | ------------- | ------------- | ----------------- |
-| Beans         |               |                   |
-| Carrots       |               |                   |
-| Cabbage       |               |                   |
-| Pumpkin       |               |                   |
-| Squash        |               |                   |
-| White Corn    |               |                   |
-| Potato              |               |                   |
+| Beans         |               | Prosper,          |
+| Carrots       |               | Prosper,          |
+| Cabbage       |               | Prosper,          |
+| Pumpkin       |               | Prosper,          |
+| Squash        |               | Prosper,          |
+| White Corn    |               | Prosper,          |
+| Potato        |               | Prosper,          |
 
 # Spices
 
 | Name (Source)        | Cost @ Market | Regions Producing |
 | -------------------- | ------------- | ----------------- |
-| Garlic               |               |                   |
-| Ginger               |               |                   |
-| Onion                |               |                   |
-| Mint                 |               |                   |
-| Parsley              |               |                   |
-| Applesugar (*Apple*) |               |                   |
-| Honey                |               |                   |
-| Cinnamon             |               |                   |
+| Garlic               |               | Prosper,          |
+| Ginger               |               | Prosper,          |
+| Onion                |               | Prosper,          |
+| Mint                 |               | Prosper,          |
+| Parsley              |               | Prosper,          |
+| Applesugar (*Apple*) |               | Prosper,          |
+| Honey                |               | Prosper,          |
+| Cinnamon             |               | Prosper,          |
 |                      |               |                   |
 
 # Oils
 
 | Name (Source) | Cost @ Market | Regions Producing |
 | ------------- | ------------- | ----------------- |
-| Heartnut Oil  |               |                   |
-| Seed Oil      |               |                   |
+| Heartnut Oil  |               | Prosper,          |
+| Seed Oil      |               | Prosper,          |
 
 # Vices
 
 | Name (Source) | Cost @ Market | Regions Producing |
 | ------------- | ------------- | ----------------- |
-| Tobacco       |               |                   |
-| Cannabis      |               |                   |
+| Tobacco       |               | Prosper,          |
+| Cannabis      |               | Prosper,          |
 
 # Textiles
 
 | Name (Source)     | Cost @ Market | Regions Producing |
 | ----------------- | ------------- | ----------------- |
-| Hemp (*Cannabis*) |               |                   |
-| Wool (*Sheep*)    |               |                   |
-| Wool (*Goat*)     |               |                   |
+| Hemp (*Cannabis*) |               | Prosper,          |
+| Wool (*Sheep*)    |               | Prosper,          |
+| Wool (*Goat*)     |               | Prosper,          |
 |                   |               |                   |
