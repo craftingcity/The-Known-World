@@ -50,30 +50,30 @@ aliases:
 | White Corn    | 0.2 / pound   | Prosper, Holyl'nd          |
 | Yellow Corn   | 0.3 / pound   | Tetrimoc                   |
 | Almond        | 0.5 / pound   | Tetrmioc, Actstow          |
-| Bluecap       |               | Mnt. Hall                  |
-| Peanut        |               | Mnt. Hall, Actstow         |
+| Bluecap       | 0.2 / pound   | Mnt. Hall                  |
+| Peanut        | 0.4 / pound   | Mnt. Hall, Actstow         |
 
 # Fruits
 
 | Name (Source) | Cost @ Market | Regions Producing                   |
 | ------------- | ------------- | ----------------------------------- |
-| Apple         |               | Prosper, Illburn, Combine,          |
-| Pear          |               | Prosper, Illburn, Combine, Holyl'nd |
-| Blueberry     |               | Prosper, Illburn, Combine,          |
-| Raspberry     |               | Prosper, Illburn, Combine,          |
-| Blackberry    |               | Prosper, Illburn, Combine,          |
-| Strawberry    |               | Prosper, Illburn, Combine,          |
-| Cherry        |               | Prosper, Illburn, Combine,          |
-| Lemon         |               | Combine, Tetrimoc                   |
-| Lime          |               | Combine, Tetrimoc                   |
-| Orange        |               | Combine, Tetrimoc, Actstow          |
-| Plum          |               | Combine,                            |
-| Peach         |               | Combine, Tetrimoc                   |
-| Papaya        |               | Combine, Tetrimoc                   |
-| Mango         |               | Combine, Tetrimoc                   |
+| Apple         | 0.1 / pound   | Prosper, Illburn, Combine,          |
+| Pear          | 0.1 / pound   | Prosper, Illburn, Combine, Holyl'nd |
+| Blueberry     | 1.4 / pound   | Prosper, Illburn, Combine,          |
+| Raspberry     | 1.6 / pound   | Prosper, Illburn, Combine,          |
+| Blackberry    | 1.5 / pound   | Prosper, Illburn, Combine,          |
+| Strawberry    | 1.2 / pound   | Prosper, Illburn, Combine,          |
+| Cherry        | 1.0 / pound   | Prosper, Illburn, Combine,          |
+| Lemon         | 2.0 / pound   | Combine, Tetrimoc                   |
+| Lime          | 2.2 / pound   | Combine, Tetrimoc                   |
+| Orange        | 1.6 / pound   | Combine, Tetrimoc, Actstow          |
+| Plum          | 0.4 / pound   | Combine,                            |
+| Peach         | 0.3 / pound   | Combine, Tetrimoc                   |
+| Papaya        | 0.8 / pound   | Combine, Tetrimoc                   |
+| Mango         | 1.0 / pound   | Combine, Tetrimoc                   |
 | Cacti Fruit   |               | Tetrimoc                            |
 | Avocado       |               | Mnt. Hall, Holyl'nd, Actstow        |
-| Solanberry    |               | Holyl'nd, Actstow                   | 
+| Solanberry    |               | Holyl'nd, Actstow                   |
 
 # Vegetables
 
