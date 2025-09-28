@@ -10,6 +10,10 @@ aliases:
 	- [[Custom Armor Mechanics]]
 - **[[Homebrew Spells]]**
 - **Homebrew Systems**
+	- **Alchemy**
+		- [[Alchemy Components]]
+		- [[Alchemy Processes & Products]]
+		- [[Homebrew Alchemy System]]
 	- **Ancient (depreciated)**
 		- [[Skills of Alaturmen]]
 	- **Classes**
@@ -19,18 +23,16 @@ aliases:
 		- [[Custom Class - Psion]]
 	- **Ingame**
 		- [[Alaturmenian Travel Table]]
-		- [[Alchemy Processes & Products]]
 		- [[Combat Mechanics and Positioning]]
-		- [[Homebrew Alchemy System]]
+		- [[Lingering Injuries]]
 		- [[Mechanics of Plane-walking]]
 		- [[Skillbooks]]
-	- [[Lingering Injuries]]
+		- [[Strength As Carrying Capacity]]
 	- **Lore**
 		- [[Custom Cultures]]
 		- [[Custom Features]]
 		- [[Custom Heritages]]
 		- [[Custom Languages]]
-	- [[Strength As Carrying Capacity]]
 - **Homebrew Weapons**
 	- [[Custom Weapon Mechanics]]
 	- [[Weapons of Alaturmen]]

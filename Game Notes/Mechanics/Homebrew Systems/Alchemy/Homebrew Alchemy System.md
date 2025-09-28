@@ -1,5 +1,7 @@
 ---
-tags: mechanics
+tags:
+  - mechanics
+  - alchemy
 aliases:
 ---
 
