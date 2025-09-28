@@ -135,13 +135,15 @@ aliases:
 
 # Vices
 
-| Name (Source) | Cost @ Market | Regions Producing           |
-| ------------- | ------------- | --------------------------- |
-| Tobacco       | 1.25 / pound  | Prosper, Illburn, Combine   |
-| Cannabis      | 4.50 / pound  | Prosper, Illburn, Combine   |
-| Smokebulb     | 7.50 / pound  | Illburn, Mnt. Hall, Actstow |
-| Lephora Fruit | 14.00 / pound | Tetrimoc                    |
-|               |               |                             |
+| Name (Source)   | Cost @ Market | Regions Producing           |
+| --------------- | ------------- | --------------------------- |
+| Tobacco         | 1.25 / pound  | Prosper, Illburn, Combine   |
+| Cannabis        | 4.50 / pound  | Prosper, Illburn, Combine   |
+| Smokebulb       | 7.50 / pound  | Illburn, Mnt. Hall, Actstow |
+| Dareanamon      |               |                             |
+| Smokekiss       |               |                             |
+| Lephora Fruit   | 14.00 / pound | Tetrimoc                    |
+| Lephora Essence |               |                             |
 
 # Textiles
 
