@@ -28,52 +28,52 @@ aliases:
 
 | Name (Source) | Cost @ Market | Regions Producing                     |
 | ------------- | ------------- | ------------------------------------- |
-| Cow's Milk    | 0.3 / gallon  | Prosper, Holyl'nd                     |
-| Cow's Cheese  | 1.3 / pound   | Prosper, Holyl'nd                     |
-| Cow's Butter  | 1.3 / pound   | Prosper, Holyl'nd                     |
-| Goat's Milk   | 0.2 / gallon  | Prosper, Illburn, Tetrimoc, Mnt. Hall |
-| Goat's Cheese | 1.2 / pound   | Prosper, Illburn, Tetrimoc, Mnt. Hall |
-| Goat's Butter | 1.2 / pound   | Prosper, Illburn, Tetrimoc, Mnt. Hall |
-| Chicken Egg   | 0.7 / dozen   | Prosper, Illburn, Mnt. Hall           |
-| Wild Egg      | 0.5 / dozen   | Prosper, Illburn, Tetrimoc            |
+| Cow's Milk    | 0.30 / gallon  | Prosper, Holyl'nd                     |
+| Cow's Cheese  | 1.30 / pound   | Prosper, Holyl'nd                     |
+| Cow's Butter  | 1.35 / pound   | Prosper, Holyl'nd                     |
+| Goat's Milk   | 0.25 / gallon  | Prosper, Illburn, Tetrimoc, Mnt. Hall |
+| Goat's Cheese | 1.25 / pound   | Prosper, Illburn, Tetrimoc, Mnt. Hall |
+| Goat's Butter | 1.30 / pound   | Prosper, Illburn, Tetrimoc, Mnt. Hall |
+| Chicken Egg   | 0.75 / dozen   | Prosper, Illburn, Mnt. Hall           |
+| Wild Egg      | 0.55 / dozen   | Prosper, Illburn, Tetrimoc            |
 
 # Grains & Nuts
 
 | Name (Source) | Cost @ Market | Regions Producing          |
 | ------------- | ------------- | -------------------------- |
-| Wheat Flour   | 0.5 / pound   | Prosper,                   |
-| Rye Flour     | 0.4 / pound   | Prosper, Illburn,          |
-| Oats          | 0.2 / pound   | Prosper, Illburn,          |
-| Heartnut      | 0.3 / pound   | Prosper, Illburn, Holyl'nd |
-| Acorn         | 0.1 / pound   | Prosper, Illburn,          |
-| Rice          | 0.5 / pound   | Combine,                   |
-| White Corn    | 0.2 / pound   | Prosper, Holyl'nd          |
-| Yellow Corn   | 0.3 / pound   | Tetrimoc                   |
-| Almond        | 0.5 / pound   | Tetrmioc, Actstow          |
-| Bluecap       | 0.2 / pound   | Mnt. Hall                  |
-| Peanut        | 0.4 / pound   | Mnt. Hall, Actstow         |
+| Wheat Flour   | 0.50 / pound   | Prosper,                   |
+| Rye Flour     | 0.40 / pound   | Prosper, Illburn,          |
+| Oats          | 0.20 / pound   | Prosper, Illburn,          |
+| Heartnut      | 0.30 / pound   | Prosper, Illburn, Holyl'nd |
+| Acorn         | 0.10 / pound   | Prosper, Illburn,          |
+| Rice          | 0.55 / pound   | Combine,                   |
+| White Corn    | 0.20 / pound   | Prosper, Holyl'nd          |
+| Yellow Corn   | 0.30 / pound   | Tetrimoc                   |
+| Almond        | 0.50 / pound   | Tetrmioc, Actstow          |
+| Bluecap       | 0.25 / pound   | Mnt. Hall                  |
+| Peanut        | 0.40 / pound   | Mnt. Hall, Actstow         |
 
 # Fruits
 
 | Name (Source) | Cost @ Market | Regions Producing                   |
 | ------------- | ------------- | ----------------------------------- |
-| Apple         | 0.1 / pound   | Prosper, Illburn, Combine,          |
-| Pear          | 0.1 / pound   | Prosper, Illburn, Combine, Holyl'nd |
-| Blueberry     | 1.4 / pound   | Prosper, Illburn, Combine,          |
-| Raspberry     | 1.6 / pound   | Prosper, Illburn, Combine,          |
+| Apple         | 0.15 / pound   | Prosper, Illburn, Combine,          |
+| Pear          | 0.10 / pound   | Prosper, Illburn, Combine, Holyl'nd |
+| Blueberry     | 1.40 / pound   | Prosper, Illburn, Combine,          |
+| Raspberry     | 1.60 / pound   | Prosper, Illburn, Combine,          |
 | Blackberry    | 1.5 / pound   | Prosper, Illburn, Combine,          |
 | Strawberry    | 1.2 / pound   | Prosper, Illburn, Combine,          |
 | Cherry        | 1.0 / pound   | Prosper, Illburn, Combine,          |
-| Lemon         | 2.0 / pound   | Combine, Tetrimoc                   |
-| Lime          | 2.2 / pound   | Combine, Tetrimoc                   |
-| Orange        | 1.6 / pound   | Combine, Tetrimoc, Actstow          |
+| Lemon         | 1.8 / pound   | Combine, Tetrimoc                   |
+| Lime          | 2.0 / pound   | Combine, Tetrimoc                   |
+| Orange        | 0.8 / pound   | Combine, Tetrimoc, Actstow          |
 | Plum          | 0.4 / pound   | Combine,                            |
 | Peach         | 0.3 / pound   | Combine, Tetrimoc                   |
-| Papaya        | 0.8 / pound   | Combine, Tetrimoc                   |
-| Mango         | 1.0 / pound   | Combine, Tetrimoc                   |
-| Cacti Fruit   |               | Tetrimoc                            |
-| Avocado       |               | Mnt. Hall, Holyl'nd, Actstow        |
-| Solanberry    |               | Holyl'nd, Actstow                   |
+| Papaya        | 0.5 / pound   | Combine, Tetrimoc                   |
+| Mango         | 0.4 / pound   | Combine, Tetrimoc                   |
+| Cacti Fruit   | 0.1 / pound   | Tetrimoc                            |
+| Avocado       | 0.4 / pound   | Mnt. Hall, Holyl'nd, Actstow        |
+| Solanberry    | 0.1 / pound   | Holyl'nd, Actstow                   |
 
 # Vegetables
 
