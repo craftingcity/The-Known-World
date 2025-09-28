@@ -28,52 +28,52 @@ aliases:
 
 | Name (Source) | Cost @ Market | Regions Producing                     |
 | ------------- | ------------- | ------------------------------------- |
-| Cow's Milk    | 0.30 / gallon  | Prosper, Holyl'nd                     |
-| Cow's Cheese  | 1.30 / pound   | Prosper, Holyl'nd                     |
-| Cow's Butter  | 1.35 / pound   | Prosper, Holyl'nd                     |
-| Goat's Milk   | 0.25 / gallon  | Prosper, Illburn, Tetrimoc, Mnt. Hall |
-| Goat's Cheese | 1.25 / pound   | Prosper, Illburn, Tetrimoc, Mnt. Hall |
-| Goat's Butter | 1.30 / pound   | Prosper, Illburn, Tetrimoc, Mnt. Hall |
-| Chicken Egg   | 0.75 / dozen   | Prosper, Illburn, Mnt. Hall           |
-| Wild Egg      | 0.55 / dozen   | Prosper, Illburn, Tetrimoc            |
+| Cow's Milk    | 0.30 / gallon | Prosper, Holyl'nd                     |
+| Cow's Cheese  | 1.30 / pound  | Prosper, Holyl'nd                     |
+| Cow's Butter  | 1.35 / pound  | Prosper, Holyl'nd                     |
+| Goat's Milk   | 0.25 / gallon | Prosper, Illburn, Tetrimoc, Mnt. Hall |
+| Goat's Cheese | 1.25 / pound  | Prosper, Illburn, Tetrimoc, Mnt. Hall |
+| Goat's Butter | 1.30 / pound  | Prosper, Illburn, Tetrimoc, Mnt. Hall |
+| Chicken Egg   | 0.75 / dozen  | Prosper, Illburn, Mnt. Hall           |
+| Wild Egg      | 0.55 / dozen  | Prosper, Illburn, Tetrimoc            |
 
 # Grains & Nuts
 
 | Name (Source) | Cost @ Market | Regions Producing          |
 | ------------- | ------------- | -------------------------- |
-| Wheat Flour   | 0.50 / pound   | Prosper,                   |
-| Rye Flour     | 0.40 / pound   | Prosper, Illburn,          |
-| Oats          | 0.20 / pound   | Prosper, Illburn,          |
-| Heartnut      | 0.30 / pound   | Prosper, Illburn, Holyl'nd |
-| Acorn         | 0.10 / pound   | Prosper, Illburn,          |
-| Rice          | 0.55 / pound   | Combine,                   |
-| White Corn    | 0.20 / pound   | Prosper, Holyl'nd          |
-| Yellow Corn   | 0.30 / pound   | Tetrimoc                   |
-| Almond        | 0.50 / pound   | Tetrmioc, Actstow          |
-| Bluecap       | 0.25 / pound   | Mnt. Hall                  |
-| Peanut        | 0.40 / pound   | Mnt. Hall, Actstow         |
+| Wheat Flour   | 0.50 / pound  | Prosper,                   |
+| Rye Flour     | 0.40 / pound  | Prosper, Illburn,          |
+| Oats          | 0.20 / pound  | Prosper, Illburn,          |
+| Heartnut      | 0.30 / pound  | Prosper, Illburn, Holyl'nd |
+| Acorn         | 0.10 / pound  | Prosper, Illburn,          |
+| Rice          | 0.55 / pound  | Combine,                   |
+| White Corn    | 0.20 / pound  | Prosper, Holyl'nd          |
+| Yellow Corn   | 0.30 / pound  | Tetrimoc                   |
+| Almond        | 0.50 / pound  | Tetrmioc, Actstow          |
+| Bluecap       | 0.25 / pound  | Mnt. Hall                  |
+| Peanut        | 0.40 / pound  | Mnt. Hall, Actstow         |
 
 # Fruits
 
 | Name (Source) | Cost @ Market | Regions Producing                   |
 | ------------- | ------------- | ----------------------------------- |
-| Apple         | 0.15 / pound   | Prosper, Illburn, Combine,          |
-| Pear          | 0.10 / pound   | Prosper, Illburn, Combine, Holyl'nd |
-| Blueberry     | 1.40 / pound   | Prosper, Illburn, Combine,          |
-| Raspberry     | 1.55 / pound   | Prosper, Illburn, Combine,          |
-| Blackberry    | 1.50 / pound   | Prosper, Illburn, Combine,          |
-| Strawberry    | 1.35 / pound   | Prosper, Illburn, Combine,          |
-| Cherry        | 1.00 / pound   | Prosper, Illburn, Combine,          |
-| Lemon         | 1.65 / pound   | Combine, Tetrimoc                   |
-| Lime          | 1.70 / pound   | Combine, Tetrimoc                   |
-| Orange        | 0.75 / pound   | Combine, Tetrimoc, Actstow          |
-| Plum          | 0.45 / pound   | Combine,                            |
-| Peach         | 0.35 / pound   | Combine, Tetrimoc                   |
-| Papaya        | 0.50 / pound   | Combine, Tetrimoc                   |
-| Mango         | 0.40 / pound   | Combine, Tetrimoc                   |
-| Cacti Fruit   | 0.10 / pound   | Tetrimoc                            |
-| Avocado       | 0.45 / pound   | Mnt. Hall, Holyl'nd, Actstow        |
-| Solanberry    | 0.10 / pound   | Holyl'nd, Actstow                   |
+| Apple         | 0.15 / pound  | Prosper, Illburn, Combine,          |
+| Pear          | 0.10 / pound  | Prosper, Illburn, Combine, Holyl'nd |
+| Blueberry     | 1.40 / pound  | Prosper, Illburn, Combine,          |
+| Raspberry     | 1.55 / pound  | Prosper, Illburn, Combine,          |
+| Blackberry    | 1.50 / pound  | Prosper, Illburn, Combine,          |
+| Strawberry    | 1.35 / pound  | Prosper, Illburn, Combine,          |
+| Cherry        | 1.00 / pound  | Prosper, Illburn, Combine,          |
+| Lemon         | 1.65 / pound  | Combine, Tetrimoc                   |
+| Lime          | 1.70 / pound  | Combine, Tetrimoc                   |
+| Orange        | 0.75 / pound  | Combine, Tetrimoc, Actstow          |
+| Plum          | 0.45 / pound  | Combine,                            |
+| Peach         | 0.35 / pound  | Combine, Tetrimoc                   |
+| Papaya        | 0.50 / pound  | Combine, Tetrimoc                   |
+| Mango         | 0.40 / pound  | Combine, Tetrimoc                   |
+| Cacti Fruit   | 0.10 / pound  | Tetrimoc                            |
+| Avocado       | 0.45 / pound  | Mnt. Hall, Holyl'nd, Actstow        |
+| Solanberry    | 0.10 / pound  | Holyl'nd, Actstow                   |
 
 # Vegetables
 
@@ -135,15 +135,13 @@ aliases:
 
 # Vices
 
-| Name (Source)   | Cost @ Market | Regions Producing           |
-| --------------- | ------------- | --------------------------- |
-| Tobacco         | 1.25 / pound  | Prosper, Illburn, Combine   |
-| Cannabis        | 4.50 / pound  | Prosper, Illburn, Combine   |
-| Smokebulb       | 7.50 / pound  | Illburn, Mnt. Hall, Actstow |
-| Dareanamon      |               |                             |
-| Smokekiss       |               |                             |
-| Lephora Fruit   | 14.00 / pound | Tetrimoc                    |
-| Lephora Essence |               |                             |
+| Name (Source)      | Cost @ Market | Regions Producing           |
+| ------------------ | ------------- | --------------------------- |
+| Tobacco            | 1.25 / pound  | Prosper, Illburn, Combine   |
+| Cannabis           | 4.50 / pound  | Prosper, Illburn, Combine   |
+| Smokebulb          | 7.50 / ounce  | Illburn, Mnt. Hall, Actstow |
+| Crystal Dareanamon | 25.00 / ounce |                             |
+| Lephora Fruit      | 14.00 / ounce | Tetrimoc                    |
 
 # Textiles
 
