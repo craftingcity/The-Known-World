@@ -6,4 +6,6 @@ tags:
 aliases:
 ---
 
-# 
+# Flora
+# Fauna
+# Mineral
