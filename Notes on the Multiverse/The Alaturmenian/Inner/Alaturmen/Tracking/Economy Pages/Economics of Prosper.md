@@ -78,7 +78,7 @@ Guilded Craftsmen generally request 50/50 timed charging based on how long they 
 ### Textiles
 People in Prosper wear mostly for furs or goat-wool. Leather is more useful as things other than clothing. Canvas is more common than Linen, and much more common than the luxury import Silk.
 
-The berries of the region make warm and cool dyes, but not very poppy ones. The people of Prosper have little demand for imported dye other than the coveted White or Black.
+The berries of the region make warm and cool dyes, but not very vibrant ones. The people of Prosper nonetheless have little demand for imported dye other than the coveted White or Black.
 
 ### Preservation
 There are few sources of salt in Prosper, although it is imported from both Combine and Acstow. Applesugar is fairly weak and distinctly flavored compared to other sources, but can still be used in preservatives. Cheese pairs well with Meat, Beer and other imported spirits. Vegetables are typically pickled with apple vinegar, lending them a strong flavor. Fruit preserves and other vegetables are sometimes canned in glass or metal cans.
