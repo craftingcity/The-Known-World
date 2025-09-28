@@ -5,6 +5,10 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md"
     },
     {
+      "basename": "Currency of Alaturmen",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
+    },
+    {
       "basename": "GrainIntoGold",
       "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Underdark Travel Table",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Tables/Underdark Travel Table.md"
-    },
-    {
-      "basename": "Underdark Encounters",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Tables/Underdark Encounters.md"
     }
   ],
   "omittedPaths": [],
