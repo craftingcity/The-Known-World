@@ -7,6 +7,7 @@ aliases:
 ---
 
 # Flora
+## Foodstuffs
 ## Flower
 ## Fungi
 ## Tree
