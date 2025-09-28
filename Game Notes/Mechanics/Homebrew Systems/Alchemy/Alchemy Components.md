@@ -7,5 +7,8 @@ aliases:
 ---
 
 # Flora
+## Flower
+## Fungi
+## Tree
 # Fauna
 # Mineral

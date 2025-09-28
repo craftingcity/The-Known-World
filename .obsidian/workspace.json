@@ -88,9 +88,32 @@
               "icon": "lucide-file",
               "title": "Alchemy Components"
             }
+          },
+          {
+            "id": "756679405e6633fd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Food and Drink - South West.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Food and Drink - South West"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -363,11 +386,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43f09f9a2622df44",
+  "active": "756679405e6633fd",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
     "Prenotes Sep 13 25.md",
