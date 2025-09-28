@@ -1,5 +1,7 @@
 ---
-tags: bookkeeping
+tags: 
+- bookkeeping
+- company
 aliases:
 ---
 

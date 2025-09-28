@@ -49,7 +49,7 @@ Many farmers grow Cannabis and Tobacco alongside their other fibers and dry them
 ### Land
 Land is "owned" by the King, but he grants management to his nobles, who rent their land to commoners. The nobles are responsible for the upkeep of public works on their managed land, and the King often holds Common Court by lottery at festivals to check in with his citizenry.
 
-Temples to all of the [[Grand Pantheon#Emotional Gods]] can be found in Prosper, and larger cities have multiple temples. Prosper is the Domain of the Idol Ventan, and he is worshiped in the [[Circle of Ventan]].
+Temples to all of the [[Grand Pantheon#Emotional Gods]] can be found in Prosper, and larger cities have multiple temples. Prosper is the Domain of the Idol Ventan, and he is worshiped in the [[Druids of Ventan]].
 
 Lands closer to Castle Prosper or Coalition City are considered much more valuable, as they are better protected. The best of the King's fields grow Barley.
 

@@ -1,6 +1,7 @@
 ---
 tags:
 - bookkeeping
+- planes
 aliases:
 ---
 

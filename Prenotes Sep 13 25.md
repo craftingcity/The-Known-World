@@ -70,4 +70,4 @@ Leliana dropped about dragons and seeing [[Baron Cassindil]] after we shop in [[
 ~~15 - Cassindil (7, 10, 20, 29, 37, 40)~~
 12 - Xenfer
 
-We leave our heroes on the date of 07/26/106 AF, as they escape [[Zalfari]] after their execution of the [[Baron Cassindil]]
+We leave our heroes on the date of 07/26/106 AF, as they escape [[Zalfari]] after their execution of the [[Baron Cassindil]].
