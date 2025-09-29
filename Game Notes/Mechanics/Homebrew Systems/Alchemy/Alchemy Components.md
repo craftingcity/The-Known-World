@@ -8,16 +8,20 @@ aliases:
 
 # Flora
 ## Foodstuffs
-### Apple
-### Chicken Egg
-### Lemon / Lime
-### Solanberry
-### Cactus Fruit
-### Garlic
-### Onion
-### Honey
-### Lavender
-### Sea Salt / Rock Salt
+
+| Name (Source)                            | Motifs               | Cost @ Market | Regions Producing |
+| ---------------------------------------- | -------------------- | ------------- | ----------------- |
+| Apple Seed (*Apple*)                     | POISON / WEIGHT      |               |                   |
+| Yolk (*Chicken Egg / Wild Egg*)          | MORTAL / SPIRIT      |               |                   |
+| Citrus Essence (*Lemon / Lime / Orange*) | DESIST / DISEASE     |               |                   |
+| Solanberry Tar (*Solanberry*)            | NECROT / ARCANA      |               |                   |
+| Cactus Essence (*Cactus Fruit*)          | WATER / WEIGHT       |               |                   |
+| Garlic                                   | CHARM / POISON       |               |                   |
+| Onion                                    | REGENERATE / DISEASE |               |                   |
+| Honey                                    | FABRIM / HEALING     |               |                   |
+| Lavender                                 | ABJURE / DESIST      |               |                   |
+| Salt                                     | ABJURE / BANE        |               |                   |
+
 ## Flowers
 ### Alkanet
 ### Aloe Vera
