@@ -105,7 +105,22 @@ aliases:
 
 # Fauna
 ## Domesticated
+### Cattle
+### Pig
+### Chicken
+### Goat
+### Sheep
+### Wurm
+
 ## Wild
+### Deer
+### Wolf
+### Bear
+### Rabbit
+### Raccoon
+### Fox
+### Fish
+
 ## Monstrous
 
 
