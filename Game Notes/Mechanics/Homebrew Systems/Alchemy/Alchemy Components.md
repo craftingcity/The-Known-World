@@ -35,22 +35,22 @@ aliases:
 
 ## Flowers
 
-| Name (Source)   | Motifs | Cost @ Market | Regions Producing |
-| --------------- | ------ | ------------- | ----------------- |
-| Alkanet         |        |               |                   |
-| Aloe Vera       |        |               |                   |
-| Dragon's Tongue |        |               |                   |
-| Foxglove        |        |               |                   |
-| Nightshade      |        |               |                   |
-| Witchweed       |        |               |                   |
-| Lephora         |        | 14.00 / ounce | Tetrimoc          |
-| Tobacco         |        |               |                   |
-| Cannabis        |        |               |                   |
-| Brightmoss      |        |               |                   |
-| Harrada         |        |               |                   |
-| Mandrake        |        |               |                   |
-| Mountain Flower |        |               |                   |
-| Momma Moss      |        |               |                   |
+| Name (Source)   | Motifs               | Cost @ Market | Regions Producing            |
+| --------------- | -------------------- | ------------- | ---------------------------- |
+| Alkanet         | EVOKE / RESIST       | 8.50 / ounce  | Combine                      |
+| Aloe Vera       | HEALING / REGENERATE | 12.65 / ounce | Combine, Tetrimoc            |
+| Dragon's Tongue | DRACONIC / FORM      | 9.15 / ounce  | Combine, Mnt. Hall, Holyl'nd |
+| Foxglove        | CHARM / DESIST       | 16.00 / ounce | Prosper, Illburn, Combine    |
+| Nightshade      | POISON / DEGENERATE  | 80.00 / ounce | Illburn, Combine, Actstow    |
+| Witchweed       | BANE / ARCANA        | 22.00 / ounce | Prosper, Combine, Holyl'nd   |
+| Lephora         | ILLUSION / FORM      | 14.00 / ounce | Tetrimoc                     |
+| Tobacco         | CHARM / POISON       | 0.10 / ounce  | Prosper, Illburn, Combine    |
+| Cannabis        | HEALING / POISON     | 0.30 / ounce  | Prosper, Illburn, Combine    |
+| Brightmoss      | LIGHT / REGENERATE   | 9.60 / ounce  | Combine, Mnt. Hall           |
+| Harrada         | POISON / IMMUTE      | 18.35 / ounce | Mnt. Hall, Holyl'nd          |
+| Mandrake        | DIVINE / MORTAL      | 8.00 / ounce  | Combine, Tetrimoc            |
+| Mountain Flower | REGENERATE / ARCANE  | 7.50 / ounce  | Combine, Mnt. Hall, Actstow  |
+| Momma Moss      | NECROT / REGENERATE  | 40.00 / ounce | Illburn, Combine             |
 
 ### Alkanet
 ### Aloe Vera
