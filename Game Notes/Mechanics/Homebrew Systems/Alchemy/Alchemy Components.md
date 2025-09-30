@@ -104,4 +104,9 @@ aliases:
 ### Birch
 
 # Fauna
+## Domesticated
+## Wild
+## Monstrous
+
+
 # Mineral
