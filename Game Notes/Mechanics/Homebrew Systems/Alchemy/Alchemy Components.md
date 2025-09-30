@@ -69,15 +69,15 @@ aliases:
 
 ## Fungi
 
-| Name (Source)    | Motifs | Cost @ Market | Regions Producing |
-| ---------------- | ------ | ------------- | ----------------- |
-| Polypore, Red    |        |               |                   |
-| Polypore, Blue   |        |               |                   |
-| Polypore, Yellow |        |               |                   |
-| Elf's Cup        |        |               |                   |
-| Glowshroom       |        |               |                   |
-| Stinkhorn        |        |               |                   |
-| Smokebulb        |        |               |                   |
+| Name (Source)    | Motifs          | Cost @ Market | Regions Producing |
+| ---------------- | --------------- | ------------- | ----------------- |
+| Polypore, Red    | ARCANA / FIRE   | 3.60 / ounce  |                   |
+| Polypore, Blue   | ARCANA / WATER  | 3.50 / ounce  |                   |
+| Polypore, Yellow | ARCANA / EARTH  | 3.55 / ounce  |                   |
+| Elf's Cup        | ARCANA / FABRIM | 18.65 / ounce |                   |
+| Glowshroom       | LIGHT / FORM    | 8.75 / ounce  |                   |
+| Stinkhorn        | NECROT / FORM   | 2.00 / ounce  |                   |
+| Smokebulb        | NECROT / CHARM  | 7.50 / ounce  |                   |
 
 ### Polypore, Red
 ### Polypore, Blue
