@@ -10,6 +10,7 @@ aliases:
 | Name (Source)        | Cost @ Market | Regions Producing                              |
 | -------------------- | ------------- | ---------------------------------------------- |
 | Beef (*Cattle*)      | 0.50 / pound  | Prosper, Holyl'nd                              |
+| Camel (*Dromedary*)  | 0.45 / pound  | Tetrimoc                                       |
 | Pork (*Pig*)         | 0.25 / pound  | Prosper, Illburn,                              |
 | Fowl (*Chicken*)     | 0.25 / pound  | Prosper, Illburn, Mnt. Hall, Actstow           |
 | Chevron (*Goat*)     | 0.45 / pound  | Prosper, Illburn, Tetrmioc, Mnt. Hall, Actstow |
@@ -26,16 +27,19 @@ aliases:
 
 # Dairy
 
-| Name (Source) | Cost @ Market | Regions Producing                     |
-| ------------- | ------------- | ------------------------------------- |
-| Cow's Milk    | 0.30 / gallon | Prosper, Holyl'nd                     |
-| Cow's Cheese  | 1.30 / pound  | Prosper, Holyl'nd                     |
-| Cow's Butter  | 1.35 / pound  | Prosper, Holyl'nd                     |
-| Goat's Milk   | 0.25 / gallon | Prosper, Illburn, Tetrimoc, Mnt. Hall |
-| Goat's Cheese | 1.25 / pound  | Prosper, Illburn, Tetrimoc, Mnt. Hall |
-| Goat's Butter | 1.30 / pound  | Prosper, Illburn, Tetrimoc, Mnt. Hall |
-| Chicken Egg   | 0.75 / dozen  | Prosper, Illburn, Mnt. Hall           |
-| Wild Egg      | 0.55 / dozen  | Prosper, Illburn, Tetrimoc            |
+| Name (Source)      | Cost @ Market | Regions Producing                     |
+| ------------------ | ------------- | ------------------------------------- |
+| Cow's Milk         | 0.30 / gallon | Prosper, Holyl'nd                     |
+| Cow's Cheese       | 1.30 / pound  | Prosper, Holyl'nd                     |
+| Cow's Butter       | 1.35 / pound  | Prosper, Holyl'nd                     |
+| Dromedary's Milk   | 0.35 / gallon | Tetrimoc                              |
+| Dromedary's Cheese | 1.50 / pound  | Tetrimoc                              |
+| Dromedary's Butter | 1.65 / pound  | Tetrimoc                              |
+| Goat's Milk        | 0.25 / gallon | Prosper, Illburn, Tetrimoc, Mnt. Hall |
+| Goat's Cheese      | 1.25 / pound  | Prosper, Illburn, Tetrimoc, Mnt. Hall |
+| Goat's Butter      | 1.30 / pound  | Prosper, Illburn, Tetrimoc, Mnt. Hall |
+| Chicken Egg        | 0.75 / dozen  | Prosper, Illburn, Mnt. Hall           |
+| Wild Egg           | 0.55 / dozen  | Prosper, Illburn, Tetrimoc            |
 
 # Grains & Nuts
 

@@ -106,11 +106,13 @@ aliases:
 # Fauna
 ## Domesticated
 ### Cattle
+### Dromedary
 ### Pig
 ### Chicken
 ### Goat
 ### Sheep
 ### Wurm
+### Humanoid
 
 ## Wild
 ### Deer
@@ -120,8 +122,10 @@ aliases:
 ### Raccoon
 ### Fox
 ### Fish
+### Frog
 
 ## Monstrous
+
 
 
 # Mineral
