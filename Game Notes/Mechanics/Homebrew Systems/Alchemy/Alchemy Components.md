@@ -89,13 +89,13 @@ aliases:
 
 ## Trees
 
-| Name (Source)     | Motifs          | Cost @ Market | Regions Producing                   |
-| ----------------- | --------------- | ------------- | ----------------------------------- |
-| Ginko Leaf        | FABRIM / WEIGHT | 2.30 / ounce  | Prosper, Combine                    |
-| Ironwood Shavings | IMMUTE / ARCANA | 18.50 / ounce | Tetrimoc                            |
-| Oak Bark          | ABJURE / EVOKE  | 3.25 / ounce  | Prosper, Illburn, Combine           |
-| Pine Needles      | DESIST / CHARM  | 1.35 / ounce  | Prosper, Illburn, Combine, Holyl'nd |
-| Birch Bark        | HEALING / LIGHT | 4.00 / ounce  | Prosper, Holyl'nd                   |
+| Name (Source)     | Motifs          | Cost @ Market | Regions Producing                            |
+| ----------------- | --------------- | ------------- | -------------------------------------------- |
+| Ginko Leaf        | FABRIM / WEIGHT | 2.30 / ounce  | Prosper, Combine, Actstow                    |
+| Ironwood Shavings | IMMUTE / ARCANA | 18.50 / ounce | Tetrimoc                                     |
+| Oak Bark          | ABJURE / EVOKE  | 3.25 / ounce  | Prosper, Illburn, Combine, Actstow           |
+| Pine Needles      | DESIST / CHARM  | 1.35 / ounce  | Prosper, Illburn, Combine, Actstow, Holyl'nd |
+| Birch Bark        | HEALING / LIGHT | 4.00 / ounce  | Prosper, Holyl'nd                            |
 
 ### Ginko
 ### Ironwood
