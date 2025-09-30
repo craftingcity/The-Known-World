@@ -69,15 +69,15 @@ aliases:
 
 ## Fungi
 
-| Name (Source)    | Motifs          | Cost @ Market | Regions Producing |
-| ---------------- | --------------- | ------------- | ----------------- |
-| Polypore, Red    | ARCANA / FIRE   | 3.60 / ounce  |                   |
-| Polypore, Blue   | ARCANA / WATER  | 3.50 / ounce  |                   |
-| Polypore, Yellow | ARCANA / EARTH  | 3.55 / ounce  |                   |
-| Elf's Cup        | ARCANA / FABRIM | 18.65 / ounce |                   |
-| Glowshroom       | LIGHT / FORM    | 8.75 / ounce  |                   |
-| Stinkhorn        | NECROT / FORM   | 2.00 / ounce  |                   |
-| Smokebulb        | NECROT / CHARM  | 7.50 / ounce  |                   |
+| Name (Source)    | Motifs          | Cost @ Market | Regions Producing                     |
+| ---------------- | --------------- | ------------- | ------------------------------------- |
+| Polypore, Red    | ARCANA / FIRE   | 3.60 / ounce  | Tetrimoc, Mnt. Hall, Holyl'nd         |
+| Polypore, Blue   | ARCANA / WATER  | 3.50 / ounce  | Prosper, Illburn, Combine             |
+| Polypore, Yellow | ARCANA / EARTH  | 3.55 / ounce  | Prosper, Illburn, Mnt. Hall, Holyl'nd |
+| Elf's Cup        | ARCANA / FABRIM | 18.65 / ounce | Combine, Mnt. Hall                    |
+| Glowshroom       | LIGHT / FORM    | 8.75 / ounce  | Mnt. Hall, Actstow                    |
+| Stinkhorn        | NECROT / FORM   | 2.00 / ounce  | Mnt. Hall, Holyl'nd                   |
+| Smokebulb        | NECROT / CHARM  | 7.50 / ounce  | Illburn, Mnt. Hall, Actstow           |
 
 ### Polypore, Red
 ### Polypore, Blue
@@ -89,13 +89,13 @@ aliases:
 
 ## Trees
 
-| Name (Source)     | Motifs | Cost @ Market | Regions Producing |
-| ----------------- | ------ | ------------- | ----------------- |
-| Ginko Leaf        |        |               |                   |
-| Ironwood Shavings |        |               |                   |
-| Oak Bark          |        |               |                   |
-| Pine Needles      |        |               |                   |
-| Birch Bark        |        |               |                   |
+| Name (Source)     | Motifs          | Cost @ Market | Regions Producing                   |
+| ----------------- | --------------- | ------------- | ----------------------------------- |
+| Ginko Leaf        | FABRIM / WEIGHT | 2.30 / ounce  | Prosper, Combine                    |
+| Ironwood Shavings | IMMUTE / ARCANA | 18.50 / ounce | Tetrimoc                            |
+| Oak Bark          | ABJURE / EVOKE  | 3.25 / ounce  | Prosper, Illburn, Combine           |
+| Pine Needles      | DESIST / CHARM  | 1.35 / ounce  | Prosper, Illburn, Combine, Holyl'nd |
+| Birch Bark        | HEALING / LIGHT | 4.00 / ounce  | Prosper, Holyl'nd                   |
 
 ### Ginko
 ### Ironwood
