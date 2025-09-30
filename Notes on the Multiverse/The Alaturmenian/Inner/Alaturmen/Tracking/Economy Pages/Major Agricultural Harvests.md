@@ -44,14 +44,14 @@ aliases:
 | Wheat Flour   | 0.50 / pound  | Prosper,                   |
 | Rye Flour     | 0.40 / pound  | Prosper, Illburn,          |
 | Oats          | 0.20 / pound  | Prosper, Illburn,          |
-| Heartnut      | 0.30 / pound  | Prosper, Illburn, Holyl'nd |
-| Acorn         | 0.10 / pound  | Prosper, Illburn,          |
 | Rice          | 0.55 / pound  | Combine,                   |
 | White Corn    | 0.20 / pound  | Prosper, Holyl'nd          |
 | Yellow Corn   | 0.30 / pound  | Tetrimoc                   |
 | Almond        | 0.50 / pound  | Tetrmioc, Actstow          |
-| Bluecap       | 0.25 / pound  | Mnt. Hall                  |
 | Peanut        | 0.40 / pound  | Mnt. Hall, Actstow         |
+| Heartnut      | 0.30 / pound  | Prosper, Illburn, Holyl'nd |
+| Acorn         | 0.10 / pound  | Prosper, Illburn,          |
+| Bluecap       | 0.25 / pound  | Mnt. Hall                  |
 
 # Fruits
 

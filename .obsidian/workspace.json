@@ -31,6 +31,35 @@
             }
           }
         ]
+      },
+      {
+        "id": "6f57c2ab7a00a95f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ea540dfb88c073a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Major Agricultural Harvests"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,10 +334,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b44646776ab5735",
+  "active": "0ea540dfb88c073a",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Components.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Languages.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",

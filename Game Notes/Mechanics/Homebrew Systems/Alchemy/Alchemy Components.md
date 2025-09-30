@@ -1,4 +1,4 @@
----
+ ---
 tags:
   - stub
   - mechanics
@@ -22,7 +22,36 @@ aliases:
 | Lavender                                 | ABJURE / DESIST      |               |                   |
 | Salt                                     | ABJURE / BANE        |               |                   |
 
+### Apple Seed
+### Egg Yolk
+### Citrus Essence
+### Solanberry Tar
+### Cactus Essence
+### Garlic
+### Onion
+### Honey
+### Lavender
+### Salt
+
 ## Flowers
+
+| Name (Source)   | Motifs | Cost @ Market | Regions Producing |
+| --------------- | ------ | ------------- | ----------------- |
+| Alkanet         |        |               |                   |
+| Aloe Vera       |        |               |                   |
+| Dragon's Tongue |        |               |                   |
+| Foxglove        |        |               |                   |
+| Nightshade      |        |               |                   |
+| Witchweed       |        |               |                   |
+| Lephora         |        |               |                   |
+| Tobacco         |        |               |                   |
+| Cannabis        |        |               |                   |
+| Brightmoss      |        |               |                   |
+| Harrada         |        |               |                   |
+| Mandrake        |        |               |                   |
+| Mountain Flower |        |               |                   |
+| Momma Moss      |        |               |                   |
+
 ### Alkanet
 ### Aloe Vera
 ### Dragon's Tongue
@@ -33,11 +62,23 @@ aliases:
 ### Tobacco
 ### Cannabis
 ### Brightmoss
-### Momma's Moss
 ### Harrada
 ### Mandrake
 ### Mountain Flower
+### Momma's Moss
+
 ## Fungi
+
+| Name (Source)    | Motifs | Cost @ Market | Regions Producing |
+| ---------------- | ------ | ------------- | ----------------- |
+| Polypore, Red    |        |               |                   |
+| Polypore, Blue   |        |               |                   |
+| Polypore, Yellow |        |               |                   |
+| Elf's Cup        |        |               |                   |
+| Glowshroom       |        |               |                   |
+| Stinkhorn        |        |               |                   |
+| Smokebulb        |        |               |                   |
+
 ### Polypore, Red
 ### Polypore, Blue
 ### Polypore, Yellow
@@ -45,6 +86,7 @@ aliases:
 ### Glowshroom
 ### Stinkhorn
 ### Smokebulb
+
 ## Trees
 ### Ginko
 ### Heartnut
