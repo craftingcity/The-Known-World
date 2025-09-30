@@ -88,8 +88,20 @@ aliases:
 ### Smokebulb
 
 ## Trees
+
+| Name (Source)     | Motifs | Cost @ Market | Regions Producing |
+| ----------------- | ------ | ------------- | ----------------- |
+| Ginko Leaf        |        |               |                   |
+| Ironwood Shavings |        |               |                   |
+| Oak Bark          |        |               |                   |
+| Pine Needles      |        |               |                   |
+| Birch Bark        |        |               |                   |
+
 ### Ginko
-### Heartnut
 ### Ironwood
+### Oak
+### Pine
+### Birch
+
 # Fauna
 # Mineral

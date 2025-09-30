@@ -121,6 +121,8 @@ aliases:
 | Peppercorn           | 6.00 / pound  | Tetrimoc, Holyl'nd           |
 | Sea Salt             | 0.65 / pound  | Holyl'nds                    |
 | Rock Salt            | 0.50 / pound  | Tetrimoc, Mnt. Hall, Actstow |
+| Birch Sap            |               |                              |
+| Pine Sap                     |               |                              |
 
 # Oils
 
