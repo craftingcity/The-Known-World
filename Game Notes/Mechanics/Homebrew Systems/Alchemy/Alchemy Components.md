@@ -9,18 +9,18 @@ aliases:
 # Flora
 ## Foodstuffs
 
-| Name (Source)                            | Motifs               | Cost @ Market | Regions Producing |
-| ---------------------------------------- | -------------------- | ------------- | ----------------- |
-| Apple Seed (*Apple*)                     | POISON / WEIGHT      |               |                   |
-| Yolk (*Chicken Egg / Wild Egg*)          | MORTAL / SPIRIT      |               |                   |
-| Citrus Essence (*Lemon / Lime / Orange*) | DESIST / DISEASE     |               |                   |
-| Solanberry Tar (*Solanberry*)            | NECROT / ARCANA      |               |                   |
-| Cactus Essence (*Cactus Fruit*)          | WATER / WEIGHT       |               |                   |
-| Garlic                                   | CHARM / POISON       |               |                   |
-| Onion                                    | REGENERATE / DISEASE |               |                   |
-| Honey                                    | FABRIM / HEALING     |               |                   |
-| Lavender                                 | ABJURE / DESIST      |               |                   |
-| Salt                                     | ABJURE / BANE        |               |                   |
+| Name (Source)                            | Motifs               | Cost @ Market | Regions Producing                       |
+| ---------------------------------------- | -------------------- | ------------- | --------------------------------------- |
+| Apple Seed (*Apple*)                     | POISON / WEIGHT      | 0.10 / ounce  | Prosper, Illburn, Combine               |
+| Yolk (*Chicken Egg / Wild Egg*)          | MORTAL / SPIRIT      | 0.10 / ounce  | Prosper, Illburn, Tetrimoc, Mnt. Hall   |
+| Citrus Essence (*Lemon / Lime / Orange*) | DESIST / DISEASE     | 13.50 / ounce | Combine, Tetrimoc, Actstow              |
+| Solanberry Tar (*Solanberry*)            | NECROT / ARCANA      | 1.10 / ounce  | Holyl'nd, Actstow                       |
+| Cactus Essence (*Cactus Fruit*)          | WATER / WEIGHT       | 6.75 / ounce  | Tetrimoc                                |
+| Dried Garlic                             | CHARM / POISON       | 0.20 / ounce  | Prosper, Illburn                        |
+| Dried Onion                              | REGENERATE / DISEASE | 0.15 / ounce  | Prosper, Illburn                        |
+| Honey                                    | FABRIM / HEALING     | 0.15 / ounce  | Prosper, Illburn                        |
+| Lavender                                 | ABJURE / DESIST      | 0.40 / ounce  | Tetrimoc, Holyl'nd                      |
+| Salt                                     | ABJURE / BANE        | 0.05 / ounce  | Tetrimoc, Mnt. Hall, Holyl'nds, Actstow |
 
 ### Apple Seed
 ### Egg Yolk
@@ -43,7 +43,7 @@ aliases:
 | Foxglove        |        |               |                   |
 | Nightshade      |        |               |                   |
 | Witchweed       |        |               |                   |
-| Lephora         |        |               |                   |
+| Lephora         |        | 14.00 / ounce | Tetrimoc          |
 | Tobacco         |        |               |                   |
 | Cannabis        |        |               |                   |
 | Brightmoss      |        |               |                   |

@@ -97,32 +97,32 @@ aliases:
 
 # Spices
 
-| Name (Source)        | Cost @ Market | Regions Producing            |
-| -------------------- | ------------- | ---------------------------- |
-| Garlic               | 3.00 / pound  | Prosper, Illburn,            |
-| Ginger               | 1.50 / pound  | Prosper, Illburn, Actstow    |
-| Onion                | 1.70 / pound  | Prosper, Illburn,            |
-| Mint                 | 3.00 / pound  | Prosper, Illburn,            |
-| Parsley              | 3.75 / pound  | Prosper, Illburn, Actstow    |
-| Applesugar (*Apple*) | 0.55 / pound  | Prosper, Illburn,            |
-| Honey                | 2.00 / pound  | Prosper, Illburn,            |
-| Cinnamon             | 4.00 / pound  | Prosper,                     |
-| Jasmin               | 18.00 / pound | Combine,                     |
-| Water Pepper         | 4.50 / pound  | Combine,                     |
-| Wasabi               | 14.50 / pound | Combine,                     |
-| Basil                | 4.50 / pound  | Combine,                     |
-| Sage                 | 6.75 / pound  | Combine,                     |
-| Lemongrass           | 1.25 / pound  | Combine, Holyl'nd            |
-| Rosemary             | 5.25 / pound  | Tetrimoc                     |
-| Lavender             | 6.00 / pound  | Tetrimoc, Holyl'nd           |
-| Oregano              | 5.00 / pound  | Tetrimoc                     |
-| Nutmeg               | 2.50 / pound  | Tetrimoc                     |
-| Paprika              | 3.75 / pound  | Tetrimoc, Mnt. Hall          |
-| Peppercorn           | 6.00 / pound  | Tetrimoc, Holyl'nd           |
-| Sea Salt             | 0.65 / pound  | Holyl'nds                    |
-| Rock Salt            | 0.50 / pound  | Tetrimoc, Mnt. Hall, Actstow |
-| Birch Sap            |               |                              |
-| Pine Sap                     |               |                              |
+| Name (Source)        | Cost @ Market | Regions Producing                   |
+| -------------------- | ------------- | ----------------------------------- |
+| Garlic               | 3.00 / pound  | Prosper, Illburn,                   |
+| Ginger               | 1.50 / pound  | Prosper, Illburn, Actstow           |
+| Onion                | 1.70 / pound  | Prosper, Illburn,                   |
+| Mint                 | 3.00 / pound  | Prosper, Illburn,                   |
+| Parsley              | 3.75 / pound  | Prosper, Illburn, Actstow           |
+| Applesugar (*Apple*) | 0.55 / pound  | Prosper, Illburn,                   |
+| Honey                | 2.00 / pound  | Prosper, Illburn,                   |
+| Cinnamon             | 4.00 / pound  | Prosper,                            |
+| Jasmin               | 18.00 / pound | Combine,                            |
+| Water Pepper         | 4.50 / pound  | Combine,                            |
+| Wasabi               | 14.50 / pound | Combine,                            |
+| Basil                | 4.50 / pound  | Combine,                            |
+| Sage                 | 6.75 / pound  | Combine,                            |
+| Lemongrass           | 1.25 / pound  | Combine, Holyl'nd                   |
+| Rosemary             | 5.25 / pound  | Tetrimoc                            |
+| Lavender             | 6.00 / pound  | Tetrimoc, Holyl'nd                  |
+| Oregano              | 5.00 / pound  | Tetrimoc                            |
+| Nutmeg               | 2.50 / pound  | Tetrimoc                            |
+| Paprika              | 3.75 / pound  | Tetrimoc, Mnt. Hall                 |
+| Peppercorn           | 6.00 / pound  | Tetrimoc, Holyl'nd                  |
+| Sea Salt             | 0.65 / pound  | Holyl'nds                           |
+| Rock Salt            | 0.50 / pound  | Tetrimoc, Mnt. Hall, Actstow        |
+| Birch Sap            | 4.50 / gallon | Prosper, Illburn, Combine, Holyl'nd |
+| Pine Sap             | 5.45 / gallon | Prosper, Illburn, Combine, Actstow  |
 
 # Oils
 
@@ -144,7 +144,6 @@ aliases:
 | Smokebulb          | 7.50 / ounce  | Illburn, Mnt. Hall, Actstow                             |
 | Crystal Dareanamon | 25.00 / ounce | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Actstow |
 | Lephora Fruit      | 14.00 / ounce | Tetrimoc                                                |
-|                    |               |                                                         |
 
 # Textiles
 
