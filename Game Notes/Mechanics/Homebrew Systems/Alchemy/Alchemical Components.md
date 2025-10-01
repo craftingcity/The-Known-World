@@ -231,18 +231,18 @@ aliases:
 ### Alum
 ## Ores
 
-| Name (Source) | Motifs           | Cost @ Market | Regions Producing |
-| ------------- | ---------------- | ------------- | ----------------- |
-| Adamentine    | ABJURE / DESIST  |               |                   |
-| Copper        | FABRIM / ARCANA  |               |                   |
-| Tin           | FABRIM / WEIGHT  |               |                   |
-| Bronze        | EVOKE / FORM     |               |                   |
-| Iron          | FABRIM / BANE    |               |                   |
-| Silver        | FABRIM / ABJURE                 |               |                   |
-| Lead          | FABRIM / DISEASE |               |                   |
-| Platinum      | FABRIM / EVOKE                 |               |                   |
-| Mithril       |                  |               |                   |
-| Bitumen       |                  |               |                   |
+| Name (Source) | Motifs              | Cost @ Market | Regions Producing |
+| ------------- | ------------------- | ------------- | ----------------- |
+| Adamentine    | ABJURE / DESIST     |               |                   |
+| Copper        | FABRIM / DEGENERATE |               |                   |
+| Tin           | FABRIM / WEIGHT     |               |                   |
+| Bronze        | EVOKE / FORM        |               |                   |
+| Iron          | FABRIM / BANE       |               |                   |
+| Silver        | FABRIM / ABJURE     |               |                   |
+| Lead          | FABRIM / DISEASE    |               |                   |
+| Platinum      | FABRIM / EVOKE      |               |                   |
+| Mithril       | FABRIM / DIVINE     |               |                   |
+| Bitumen       | FORM / IMMUTE       |               |                   |
 
 ### Adamentine
 ### Copper
@@ -284,19 +284,19 @@ aliases:
 ### Durandurm
 ## Other
 
-| Name (Source) | Motifs | Cost @ Market | Regions Producing |
-| ------------- | ------ | ------------- | ----------------- |
-| Amber         |        |               |                   |
-| Glass         |        |               |                   |
-| Pewter        |        |               |                   |
-| Chalk         |        |               |                   |
-| Soil          |        |               |                   |
-| Clay          |        |               |                   |
-| Coal          |        |               |                   |
-| Charcoal      |        |               |                   |
-| Crude Oil     |        |               |                   |
-| Mercury       |        |               |                   |
-| Sulfur        |        |               |                   |
+| Name (Source) | Motifs          | Cost @ Market | Regions Producing |
+| ------------- | --------------- | ------------- | ----------------- |
+| Amber         | DUNAM / IMMUTE  |               |                   |
+| Glass         | EVOKE / LIGHT   |               |                   |
+| Pewter        | BANE / EARTH    |               |                   |
+| Chalk         | FABRIM / ARCANA |               |                   |
+| Soil          |                 |               |                   |
+| Clay          |                 |               |                   |
+| Coal          |                 |               |                   |
+| Charcoal      |                 |               |                   |
+| Crude Oil     |                 |               |                   |
+| Mercury       |                 |               |                   |
+| Sulfur        |                 |               |                   |
 
 ### Amber
 ### Glass
