@@ -210,16 +210,16 @@ aliases:
 # Mineral
 ## Rocks
 
-| Name (Source) | Motifs          | Cost @ Market | Regions Producing |
-| ------------- | --------------- | ------------- | ----------------- |
-| Alabaster     | DESIST / ARCANA |               |                   |
-| Mica          |                 |               |                   |
-| Marble        |                 |               |                   |
-| Slate         |                 |               |                   |
-| Granite       |                 |               |                   |
-| Sandstone     |                 |               |                   |
-| Limestone     |                 |               |                   |
-| Alum          |                 |               |                   |
+| Name (Source) | Motifs             | Cost @ Market | Regions Producing   |
+| ------------- | ------------------ | ------------- | ------------------- |
+| Alabaster     | DESIST / ARCANA    | 1.00 / pound  | Tetrimoc, Mnt. Hall |
+| Mica          | ILLUSION / EVOKE   |               |                     |
+| Marble        | BANE / DISEASE     |               |                     |
+| Slate         | IMMUTE / ILLUSION  |               |                     |
+| Granite       | IMMUTE / WEIGHT    | 0.10 / pound  |                     |
+| Sandstone     | EARTH / DEGENERATE | 0.10 /               |                     |
+| Limestone     | IMMUTE / DISEASE   |               |                     |
+| Alum          | IMMUTE / EARTH     |               |                     |
 
 ### Alabaster
 ### Mica
@@ -235,7 +235,7 @@ aliases:
 | ------------- | ------------------- | ------------- | ----------------- |
 | Adamentine    | ABJURE / DESIST     |               |                   |
 | Copper        | FABRIM / DEGENERATE |               |                   |
-| Tin           | FABRIM / WEIGHT     |               |                   |
+| Tin           | FABRIM / WEIGHT     | 1.20 / pound  |                   |
 | Bronze        | EVOKE / FORM        |               |                   |
 | Iron          | FABRIM / BANE       |               |                   |
 | Silver        | FABRIM / ABJURE     |               |                   |
@@ -257,19 +257,20 @@ aliases:
 ### Bitumen
 ## Gems
 
-| Name (Source) | Motifs            | Cost @ Market | Regions Producing |
-| ------------- | ----------------- | ------------- | ----------------- |
-| Agate         | FABRIM / ILLUSION |               |                   |
-| Diamond       | DIVINE / WEIGHT   |               |                   |
-| Ruby          | FABRIM / FIRE     |               |                   |
-| Sapphire      | FABRIM / WATER    |               |                   |
-| Emerald       | FABRIM / EARTH    |               |                   |
-| Amethyst      | FABRIM / AIR      |               |                   |
-| Onyx          | FABRIM / LIGHT    |               |                   |
-| Jade          | DIVINE / HEALING  |               |                   |
-| Rose Quartz   | ARCANA / FIRE     |               |                   |
-| White Quartz  | ARCANA / EARTH    |               |                   |
-| Durandurm     | FABRIM / DUNAM    |               |                   |
+| Name (Source) | Motifs            | Cost @ Market  | Regions Producing |
+| ------------- | ----------------- | -------------- | ----------------- |
+| Agate         | FABRIM / ILLUSION | 8.00 / carat   |                   |
+| Diamond       | DIVINE / WEIGHT   | 1.0k / carat   |                   |
+| Ruby          | FABRIM / FIRE     | 650.00 / carat |                   |
+| Sapphire      | FABRIM / WATER    | 500.00 / carat |                   |
+| Emerald       | FABRIM / EARTH    | 550.00 / carat |                   |
+| Amethyst      | FABRIM / AIR      | 100.00 / carat |                   |
+| Onyx          | FABRIM / LIGHT    | 75.00 / carat  |                   |
+| Jade          | DIVINE / HEALING  | 10.00 / carat  |                   |
+| Pearl         | MORTAL / WATER    | 250.00 / carat |                   |
+| Rose Quartz   | ARCANA / FIRE     | 300.00 / carat |                   |
+| White Quartz  | ARCANA / EARTH    | 275.00 / carat |                   |
+| Durandurm     | FABRIM / DUNAM    | 475.00 / carat |                   |
 
 ### Agate
 ### Diamond
@@ -279,6 +280,7 @@ aliases:
 ### Amethyst
 ### Onyx
 ### Jade
+### Pearl
 ### Rose Quartz
 ### White Quartz
 ### Durandurm
@@ -292,7 +294,7 @@ aliases:
 | Chalk         | FABRIM / ARCANA    |               |                   |
 | Soil          | REGENERATE / EARTH |               |                   |
 | Clay          | FABRIM / MORTAL    |               |                   |
-| Coal          | FIRE / WEIGHT      |               |                   |
+| Coal          | FIRE / WEIGHT      | 0.10 / pound  |                   |
 | Charcoal      | FIRE / EARTH       |               |                   |
 | Crude Oil     | EARTH / WATER      |               |                   |
 | Mercury       | AIR / WATER        |               |                   |

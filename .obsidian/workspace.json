@@ -31,6 +31,57 @@
             }
           }
         ]
+      },
+      {
+        "id": "679f7b3002bfc6ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4a055e8309b715f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "GrainIntoGold"
+            }
+          },
+          {
+            "id": "d93fd5645cb29b0d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Currency of Alaturmen"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -307,13 +358,14 @@
   },
   "active": "1b44646776ab5735",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Languages.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
