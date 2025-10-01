@@ -29,29 +29,6 @@
               "icon": "lucide-file",
               "title": "Alchemy Components"
             }
-          },
-          {
-            "id": "9878ca2ea54ad3e0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Major Agricultural Harvests"
-            }
           }
         ]
       }
@@ -371,6 +348,48 @@
                   },
                   "icon": "lucide-image",
                   "title": "AlchemicalComponentMotifs"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 912,
+        "maximize": false,
+        "zoom": -2.5
+      },
+      {
+        "id": "24ba84d894538a4e",
+        "type": "window",
+        "children": [
+          {
+            "id": "5acf804546e6edf8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ccd76d6d5b6afa7e",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Major Agricultural Harvests"
                 }
               }
             ]

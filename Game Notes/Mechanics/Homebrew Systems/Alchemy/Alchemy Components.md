@@ -106,21 +106,21 @@ aliases:
 # Fauna
 ## Domesticated
 
-| Name (Source)    | Motifs             | Cost @ Market  | Regions Producing |
-| ---------------- | ------------------ | -------------- | ----------------- |
-| Blood (*any*)    | MORTAL / SPIRIT    | 1.00 / gallon  |                   |
-| Bone (*any*)     | MORTAL / NECROT    | 3.50 / pound   |                   |
-| Eye (*any*)      | CHARM / FORM       | 8.00 / ounce   |                   |
-| Hide (*any*)     | WEIGHT / FORM      | 4.25 / sq yard |                   |
-| Chitin of Wurm   | DESIST / DRACONIC  | 5.00 / ounce   |                   |
-| Cocoon of Silk   | MORTAL / FORM      | 120.00 / ounce |                   |
-| Fang of Wurm     | ABJURE / IMMUTE    | 12.00 / ounce  |                   |
-| Feather of Bird  | WEIGHT / LIGHT     | 24.00 / ounce  |                   |
-| Hair of Horse    | CHARM / WEIGHT     | 12.50 / ounce  |                   |
-| Hair of Humanoid | CHARM / REGENERATE | 22.               |                   |
-| Horn of Goat     | IMMUTE / BANE      |                |                   |
-| Horn of Boar     | FABRIM / EVOKE     |                |                   |
-| Head of Lamb     | SPIRIT / AIR       |                |                   |
+| Name (Source)    | Motifs             | Cost @ Market  | Regions Producing                   |
+| ---------------- | ------------------ | -------------- | ----------------------------------- |
+| Blood (*any*)    | MORTAL / SPIRIT    | 1.00 / gallon  | -                                   |
+| Bone (*any*)     | MORTAL / NECROT    | 3.50 / pound   | -                                   |
+| Eye (*any*)      | CHARM / FORM       | 8.00 / ounce   | -                                   |
+| Hide (*any*)     | WEIGHT / FORM      | 4.25 / sq yard | -                                   |
+| Chitin of Wurm   | DESIST / DRACONIC  | 5.00 / ounce   | Tetrimoc, Mnt. Hall                 |
+| Cocoon of Silk   | MORTAL / FORM      | 120.00 / ounce | Combine, Tetrimoc, Coalition        |
+| Fang of Wurm     | ABJURE / IMMUTE    | 12.00 / ounce  | Tetrimoc, Mnt. Hall                 |
+| Feather of Bird  | WEIGHT / LIGHT     | 24.00 / ounce  | -                                   |
+| Hair of Horse    | CHARM / WEIGHT     | 12.50 / ounce  | -                                   |
+| Hair of Humanoid | CHARM / REGENERATE | 22.00 / ounce  | -                                   |
+| Horn of Goat     | IMMUTE / BANE      | 8.45 / ounce   | -                                   |
+| Horn of Boar     | FABRIM / EVOKE     | 18.00 / ounce  | Prosper, Illburn, Actstow, Holyl'nd |
+| Head of Lamb     | SPIRIT / AIR       | 12.00 / ounce  | Prosper                             |
 
 ### Cattle
 ### Dromedary
@@ -136,11 +136,11 @@ aliases:
 
 | Name (Source)  | Motifs            | Cost @ Market | Regions Producing |
 | -------------- | ----------------- | ------------- | ----------------- |
-| Antler of Deer | EARTH / DIVINE    |               |                   |
-| Claw of Bear   | EVOKE / BANE      |               |                   |
-| Eye of Frog    | ILLUSION / POISON |               |                   |
-| Fang of Wolf   | FABRIM / IMMUTE   |               |                   |
-| Foot of Rabbit | SPIRIT / FORM     |               |                   |
+| Antler of Deer | EARTH / DIVINE    | 1.60 / ounce  |                   |
+| Claw of Bear   | EVOKE / BANE      | 3.80 / ounce  |                   |
+| Eye of Frog    | ILLUSION / POISON | 20.00 / ounce |                   |
+| Fang of Wolf   | FABRIM / IMMUTE   | 2.35 / ounce  |                   |
+| Foot of Rabbit | SPIRIT / FORM     | 1.00 / ounce  |                   |
 | Hide of Wolf   | MORTAL / AIR      |               |                   |
 | Hide of Bear   | BANE / FORM       |               |                   |
 | Scale of Fish  | WATER / ILLUSION  |               |                   |
