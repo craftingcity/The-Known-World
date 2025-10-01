@@ -4,33 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "37d6af1c30050aa1",
-        "type": "tabs",
+        "id": "345b5d4a4113d766",
+        "type": "split",
         "children": [
           {
-            "id": "1b44646776ab5735",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "37d6af1c30050aa1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1b44646776ab5735",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Components.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Alchemy Components"
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Components.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Alchemy Components"
-            }
+              }
+            ]
+          },
+          {
+            "id": "32ce1ea725331cda",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b92fe5568e65fd25",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "AlchemicalComponentMotifs"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -305,111 +339,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "4d701ead33950bd6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "965d5165a06d16bb",
-        "type": "window",
-        "children": [
-          {
-            "id": "3a16db2ca24bea98",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1334ee1fe675483d",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "AlchemicalComponentsChart",
-                      "icon": "lucide-image",
-                      "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/SUPP/AlchemicalComponentsChart.png\"},\"icon\":\"lucide-image\",\"title\":\"AlchemicalComponentsChart\"}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Major Agricultural Harvests",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Major Agricultural Harvests\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":8},\"to\":{\"line\":4,\"ch\":8}},\"scroll\":0}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "AlchemicalComponentMotifs"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 0,
-        "width": 768,
-        "height": 912,
-        "maximize": false,
-        "zoom": -2.5
-      },
-      {
-        "id": "24ba84d894538a4e",
-        "type": "window",
-        "children": [
-          {
-            "id": "5acf804546e6edf8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ccd76d6d5b6afa7e",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Major Agricultural Harvests"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 0,
-        "width": 768,
-        "height": 912,
-        "maximize": false,
-        "zoom": -2.5
-      }
-    ]
-  },
   "active": "1b44646776ab5735",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Components.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Components.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",

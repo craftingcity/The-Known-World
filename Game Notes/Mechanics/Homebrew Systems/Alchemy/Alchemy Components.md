@@ -12,7 +12,7 @@ aliases:
 | Name (Source)                            | Motifs               | Cost @ Market | Regions Producing                       |
 | ---------------------------------------- | -------------------- | ------------- | --------------------------------------- |
 | Apple Seed (*Apple*)                     | POISON / WEIGHT      | 0.10 / ounce  | Prosper, Illburn, Combine               |
-| Yolk (*Chicken Egg / Wild Egg*)          | MORTAL / SPIRIT      | 0.10 / ounce  | Prosper, Illburn, Tetrimoc, Mnt. Hall   |
+| Yolk (*Chicken Egg / Wild Egg*)          | MORTAL / FORM      | 0.10 / ounce  | Prosper, Illburn, Tetrimoc, Mnt. Hall   |
 | Citrus Essence (*Lemon / Lime / Orange*) | DESIST / DISEASE     | 13.50 / ounce | Combine, Tetrimoc, Actstow              |
 | Solanberry Tar (*Solanberry*)            | NECROT / ARCANA      | 1.10 / ounce  | Holyl'nd, Actstow                       |
 | Cactus Essence (*Cactus Fruit*)          | WATER / WEIGHT       | 6.75 / ounce  | Tetrimoc                                |
@@ -94,7 +94,7 @@ aliases:
 | Ginko Leaf        | FABRIM / WEIGHT | 2.30 / ounce  | Prosper, Combine, Actstow                    |
 | Ironwood Shavings | IMMUTE / ARCANA | 18.50 / ounce | Tetrimoc                                     |
 | Oak Bark          | ABJURE / EVOKE  | 3.25 / ounce  | Prosper, Illburn, Combine, Actstow           |
-| Pine Needles      | DESIST / CHARM  | 1.35 / ounce  | Prosper, Illburn, Combine, Actstow, Holyl'nd |
+| Pine Needles      | DESIST / NECROT | 1.35 / ounce  | Prosper, Illburn, Combine, Actstow, Holyl'nd |
 | Birch Bark        | HEALING / LIGHT | 4.00 / ounce  | Prosper, Holyl'nd                            |
 
 ### Ginko
@@ -113,7 +113,7 @@ aliases:
 | Eye (*any*)      | CHARM / FORM       | 8.00 / ounce   | -                                   |
 | Hide (*any*)     | WEIGHT / FORM      | 4.25 / sq yard | -                                   |
 | Chitin of Wurm   | DESIST / DRACONIC  | 5.00 / ounce   | Tetrimoc, Mnt. Hall                 |
-| Cocoon of Silk   | MORTAL / FORM      | 120.00 / ounce | Combine, Tetrimoc, Coalition        |
+| Cocoon of Silk   | FABRIM / FORM      | 120.00 / ounce | Combine, Tetrimoc, Coalition        |
 | Fang of Wurm     | ABJURE / IMMUTE    | 12.00 / ounce  | Tetrimoc, Mnt. Hall                 |
 | Feather of Bird  | WEIGHT / LIGHT     | 24.00 / ounce  | -                                   |
 | Hair of Horse    | CHARM / WEIGHT     | 12.50 / ounce  | -                                   |
@@ -158,37 +158,37 @@ aliases:
 
 ## Monstrous
 
-| Name (Source)           | Motifs           | Cost @ Market | Regions Producing |
-| ----------------------- | ---------------- | ------------- | ----------------- |
-| Ash of Arstovich        | DIVINE / DISEASE |               |                   |
-| Blood of Celestial      |                  |               |                   |
-| Blood of Dragon         |                  |               |                   |
-| Blood of Fey            |                  |               |                   |
-| Blood of Fiend          |                  |               |                   |
-| Brain of Illithid       |                  |               |                   |
-| Chitin of Ankheg        |                  |               |                   |
-| Eye of Beholder         |                  |               |                   |
-| Eye of Cockatrice       |                  |               |                   |
-| Eye of Dragon           |                  |               |                   |
-| Extract of Fiend        |                  |               |                   |
-| Fang of Basilisk        |                  |               |                   |
-| Fang of Dragon          |                  |               |                   |
-| Feather of Harpy        |                  |               |                   |
-| Fluff of Warg           |                  |               |                   |
-| Gland of Ankheg         |                  |               |                   |
-| Gland of Dragon         |                  |               |                   |
-| Gland of 'Rust Monster' |                  |               |                   |
-| Heart of Dragon         |                  |               |                   |
-| Heart of Illithid       |                  |               |                   |
-| Hair of Celestial       |                  |               |                   |
-| Hair of Fey             |                  |               |                   |
-| Hair of Wyvern          |                  |               |                   |
-| Hand of Harpy           |                  |               |                   |
-| Horn of Bulette         |                  |               |                   |
-| Horn of Fiend           |                  |               |                   |
-| Scale of Bulette        |                  |               |                   |
-| Scale of Dragon         |                  |               |                   |
-| Scale of Harpy          |                  |               |                   |
+| Name (Source)           | Motifs                | Cost @ Market | Regions Producing |
+| ----------------------- | --------------------- | ------------- | ----------------- |
+| Ash of Arstovich        | DIVINE / DISEASE      |               |                   |
+| Blood of Celestial      | MORTAL / IMMUTE       |               |                   |
+| Blood of Dragon         | DRACONIC / ARCANA     |               |                   |
+| Blood of Fey            | ILLUSION / ARCANA     |               |                   |
+| Blood of Fiend          | DEGENERATE / ARCANA   |               |                   |
+| Brain of Illithid       | ABJURE / ARCANA       |               |                   |
+| Chitin of Ankheg        | DESIST / POISON       |               |                   |
+| Eye of Beholder         | EVOKE / ARCANA        |               |                   |
+| Eye of Cockatrice       | NECROT / FORM         |               |                   |
+| Eye of Dragon           | DRACONIC / EVOKE      |               |                   |
+| Excrete of Fiend        | CHARM / ARCANA        |               |                   |
+| Fang of Basilisk        | IMMUTE / DEGENERATE   |               |                   |
+| Fang of Dragon          | DRACONIC / EVOKE      |               |                   |
+| Feather of Harpy        | BANE / WEIGHT         |               |                   |
+| Fluff of Warg           | DESIST / FABRIM       |               |                   |
+| Gland of Ankheg         | POISON / NECROT       |               |                   |
+| Gland of Dragon         | SPIRIT / DRACONIC     |               |                   |
+| Gland of 'Rust Monster' | EVOKE / DEGENERATE    |               |                   |
+| Heart of Dragon         | DRACONIC / FORM       |               |                   |
+| Heart of Illithid       | ARCANA / FORM         |               |                   |
+| Hair of Celestial       | DUNAM / SPIRIT        |               |                   |
+| Hair of Fey             | ARCANA / SPIRIT       |               |                   |
+| Hair of Wyvern          | DESIST / WATER        |               |                   |
+| Hand of Harpy           | SPIRIT / BANE         |               |                   |
+| Horn of Bulette         | DESIST / ARCANA       |               |                   |
+| Horn of Fiend           | FABRIM / SPIRIT       |               |                   |
+| Scale of Bulette        | DESIST / FIRE         |               |                   |
+| Scale of Dragon         | DRAGONIC / REGENERATE |               |                   |
+| Scale of Harpy          | BANE / AIR                      |               |                   |
 
 
 ### True Dragon
