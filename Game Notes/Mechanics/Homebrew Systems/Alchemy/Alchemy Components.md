@@ -106,21 +106,21 @@ aliases:
 # Fauna
 ## Domesticated
 
-| Name (Source)    | Motifs             | Cost @ Market | Regions Producing |
-| ---------------- | ------------------ | ------------- | ----------------- |
-| Blood (*any*)    | MORTAL / SPIRIT    |               |                   |
-| Bone (*any*)     | MORTAL / NECROT    |               |                   |
-| Eye (*any*)      | CHARM / FORM       |               |                   |
-| Hide (*any*)     | WEIGHT / FORM      |               |                   |
-| Chitin of Wurm   | DESIST / DRACONIC  |               |                   |
-| Cocoon of Silk   | MORTAL / FORM      |               |                   |
-| Fang of Wurm     | ABJURE / IMMUTE    |               |                   |
-| Feather of Bird  | WEIGHT / LIGHT     |               |                   |
-| Hair of Horse    | CHARM / WEIGHT     |               |                   |
-| Hair of Humanoid | CHARM / REGENERATE |               |                   |
-| Horn of Goat     | IMMUTE / BANE      |               |                   |
-| Horn of Boar     | FABRIM / EVOKE     |               |                   |
-| Head of Lamb     | SPIRIT / AIR       |               |                   |
+| Name (Source)    | Motifs             | Cost @ Market  | Regions Producing |
+| ---------------- | ------------------ | -------------- | ----------------- |
+| Blood (*any*)    | MORTAL / SPIRIT    | 1.00 / gallon  |                   |
+| Bone (*any*)     | MORTAL / NECROT    | 3.50 / pound   |                   |
+| Eye (*any*)      | CHARM / FORM       | 8.00 / ounce   |                   |
+| Hide (*any*)     | WEIGHT / FORM      | 4.25 / sq yard |                   |
+| Chitin of Wurm   | DESIST / DRACONIC  | 5.00 / ounce   |                   |
+| Cocoon of Silk   | MORTAL / FORM      | 120.00 / ounce |                   |
+| Fang of Wurm     | ABJURE / IMMUTE    | 12.00 / ounce  |                   |
+| Feather of Bird  | WEIGHT / LIGHT     | 24.00 / ounce  |                   |
+| Hair of Horse    | CHARM / WEIGHT     | 12.50 / ounce  |                   |
+| Hair of Humanoid | CHARM / REGENERATE | 22.               |                   |
+| Horn of Goat     | IMMUTE / BANE      |                |                   |
+| Horn of Boar     | FABRIM / EVOKE     |                |                   |
+| Head of Lamb     | SPIRIT / AIR       |                |                   |
 
 ### Cattle
 ### Dromedary
@@ -170,6 +170,7 @@ aliases:
 | Eye of Beholder         |                  |               |                   |
 | Eye of Cockatrice       |                  |               |                   |
 | Eye of Dragon           |                  |               |                   |
+| Extract of Fiend        |                  |               |                   |
 | Fang of Basilisk        |                  |               |                   |
 | Fang of Dragon          |                  |               |                   |
 | Feather of Harpy        |                  |               |                   |
