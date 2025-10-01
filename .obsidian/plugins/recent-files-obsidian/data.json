@@ -5,12 +5,16 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md"
     },
     {
-      "basename": "Currency of Alaturmen",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
+      "basename": "Prenotes Feb 04 25",
+      "path": "Game Notes/Prenotes/'25/Prenotes Feb 04 25.md"
     },
     {
       "basename": "GrainIntoGold",
       "path": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+    },
+    {
+      "basename": "Currency of Alaturmen",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
     },
     {
       "basename": "AlchemicalComponentMotifs",
@@ -195,10 +199,6 @@
     {
       "basename": "Mechanis",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md"
-    },
-    {
-      "basename": "Limbo",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Limbo/Limbo.md"
     }
   ],
   "omittedPaths": [],

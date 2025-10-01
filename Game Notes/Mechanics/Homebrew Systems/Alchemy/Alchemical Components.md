@@ -210,16 +210,16 @@ aliases:
 # Mineral
 ## Rocks
 
-| Name (Source) | Motifs             | Cost @ Market | Regions Producing   |
-| ------------- | ------------------ | ------------- | ------------------- |
-| Alabaster     | DESIST / ARCANA    | 1.00 / pound  | Tetrimoc, Mnt. Hall |
-| Mica          | ILLUSION / EVOKE   |               |                     |
-| Marble        | BANE / DISEASE     |               |                     |
-| Slate         | IMMUTE / ILLUSION  |               |                     |
-| Granite       | IMMUTE / WEIGHT    | 0.10 / pound  |                     |
-| Sandstone     | EARTH / DEGENERATE | 0.10 /               |                     |
-| Limestone     | IMMUTE / DISEASE   |               |                     |
-| Alum          | IMMUTE / EARTH     |               |                     |
+| Name (Source) | Motifs             | Cost @ Market | Regions Producing                     |
+| ------------- | ------------------ | ------------- | ------------------------------------- |
+| Alabaster     | DESIST / ARCANA    | 0.20 / pound  | Tetrimoc, Mnt. Hall                   |
+| Mica          | ILLUSION / EVOKE   | 0.50 / pound  | Prosper, Holyl'nd, Actstow            |
+| Marble        | BANE / DISEASE     | 0.35 / pound  | Mnt. Hall                             |
+| Slate         | IMMUTE / ILLUSION  | 0.20 / pound  | Holyl'nd                              |
+| Granite       | IMMUTE / WEIGHT    | 0.10 / pound  | Prosper, Holyl'nd, Actstow            |
+| Sandstone     | EARTH / DEGENERATE | 0.10 / pound  | Tetrimoc, Mnt. Hall                   |
+| Limestone     | IMMUTE / DISEASE   | 0.15 / pound  | Combine, Tetrimoc, Mnt. Hall, Actstow |
+| Alum          | IMMUTE / HEALING   | 0.45 / pound  | Tetrimoc, Mnt. Hall                   | 
 
 ### Alabaster
 ### Mica
@@ -231,18 +231,18 @@ aliases:
 ### Alum
 ## Ores
 
-| Name (Source) | Motifs              | Cost @ Market | Regions Producing |
-| ------------- | ------------------- | ------------- | ----------------- |
-| Adamentine    | ABJURE / DESIST     |               |                   |
-| Copper        | FABRIM / DEGENERATE |               |                   |
-| Tin           | FABRIM / WEIGHT     | 1.20 / pound  |                   |
-| Bronze        | EVOKE / FORM        |               |                   |
-| Iron          | FABRIM / BANE       |               |                   |
-| Silver        | FABRIM / ABJURE     |               |                   |
-| Lead          | FABRIM / DISEASE    |               |                   |
-| Platinum      | FABRIM / EVOKE      |               |                   |
-| Mithril       | FABRIM / DIVINE     |               |                   |
-| Bitumen       | FORM / IMMUTE       |               |                   |
+| Name (Source) | Motifs              | Cost @ Market  | Regions Producing                                                 |
+| ------------- | ------------------- | -------------- | ----------------------------------------------------------------- |
+| Adamentine    | ABJURE / DESIST     | 450.00 / pound | Mnt. Hall, Actstow                                                |
+| Copper        | FABRIM / DEGENERATE | 1.20 / pound   | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
+| Tin           | FABRIM / WEIGHT     | 1.20 / pound   |                                                                   |
+| Bronze        | EVOKE / FORM        | 1.80 / pound   |                                                                   |
+| Iron          | FABRIM / BANE       | 0.50 / pound   |                                                                   |
+| Silver        | FABRIM / ABJURE     | 12.00 / pound  |                                                                   |
+| Lead          | FABRIM / DISEASE    | 0.60 / pound   |                                                                   |
+| Platinum      | FABRIM / EVOKE      | 110.00 / pound |                                                                   |
+| Mithril       | FABRIM / DIVINE     | 240.00 / pound |                                                                   |
+| Bitumen       | FORM / IMMUTE       | 0.45 / pound   |                                                                   |
 
 ### Adamentine
 ### Copper
