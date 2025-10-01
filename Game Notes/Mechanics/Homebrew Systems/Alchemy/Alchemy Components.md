@@ -106,6 +106,13 @@ aliases:
 # Fauna
 ## Domesticated
 
+| Name (Source)      | Motifs          | Cost @ Market | Regions Producing |
+| ------------------ | --------------- | ------------- | ----------------- |
+| Blood (*any*)      | MORTAL / SPIRIT |               |                   |
+| Bone (*any*)       | MORTAL / NECROT |               |                   |
+| Cocoon (*Insects*) | MORTAL / FORM   |               |                   |
+| Eye (*Reptiles*)                   |                 |               |                   |
+
 ### Cattle
 ### Dromedary
 ### Horse
@@ -113,6 +120,8 @@ aliases:
 ### Chicken
 ### Goat
 ### Sheep
+### Insects
+### Reptiles
 ### Wurm
 ### Humanoid
 
