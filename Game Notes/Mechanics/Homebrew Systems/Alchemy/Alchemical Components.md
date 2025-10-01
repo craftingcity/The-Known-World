@@ -231,18 +231,19 @@ aliases:
 ### Alum
 ## Ores
 
-| Name (Source) | Motifs              | Cost @ Market  | Regions Producing                                                 |
-| ------------- | ------------------- | -------------- | ----------------------------------------------------------------- |
-| Adamentine    | ABJURE / DESIST     | 450.00 / pound | Mnt. Hall, Actstow                                                |
-| Copper        | FABRIM / DEGENERATE | 1.20 / pound   | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
-| Tin           | FABRIM / WEIGHT     | 1.20 / pound   |                                                                   |
-| Bronze        | EVOKE / FORM        | 1.80 / pound   |                                                                   |
-| Iron          | FABRIM / BANE       | 0.50 / pound   |                                                                   |
-| Silver        | FABRIM / ABJURE     | 12.00 / pound  |                                                                   |
-| Lead          | FABRIM / DISEASE    | 0.60 / pound   |                                                                   |
-| Platinum      | FABRIM / EVOKE      | 110.00 / pound |                                                                   |
-| Mithril       | FABRIM / DIVINE     | 240.00 / pound |                                                                   |
-| Bitumen       | FORM / IMMUTE       | 0.45 / pound   |                                                                   |
+| Name (Source) | Motifs              | Cost @ Market   | Regions Producing                                                 |
+| ------------- | ------------------- | --------------- | ----------------------------------------------------------------- |
+| Adamentine    | ABJURE / DESIST     | 450.00 / pound  | Mnt. Hall, Actstow                                                |
+| Copper        | FABRIM / DEGENERATE | 1.20 / pound    | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
+| Tin           | FABRIM / WEIGHT     | 1.20 / pound    | Prosper, Illburn, Combine, Mnt. Hall, Actstow                     |
+| Bronze        | EVOKE / FORM        | 1.80 / pound    | Prosper, Illburn, Combine, Mnt. Hall, Actstow                     |
+| Iron          | FABRIM / BANE       | 0.50 / pound    | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
+| Silver        | FABRIM / ABJURE     | 12.00 / pound   | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
+| Lead          | FABRIM / DISEASE    | 0.60 / pound    | Tetrimoc, Mnt. Hall, Actstow                                      |
+| Gold          | ARCANA / DUNAM      | 110.00 / pound  | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
+| Platinum      | FABRIM / EVOKE      | 1100.00 / pound | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow | 
+| Mithril       | FABRIM / DIVINE     | 240.00 / pound  | Mnt. Hall                                                         |
+| Bitumen       | FORM / IMMUTE       | 0.45 / pound    | Tetrimoc, Mnt. Hall, Actstow                                      |
 
 ### Adamentine
 ### Copper
@@ -257,20 +258,20 @@ aliases:
 ### Bitumen
 ## Gems
 
-| Name (Source) | Motifs            | Cost @ Market  | Regions Producing |
-| ------------- | ----------------- | -------------- | ----------------- |
-| Agate         | FABRIM / ILLUSION | 8.00 / carat   |                   |
-| Diamond       | DIVINE / WEIGHT   | 1.0k / carat   |                   |
-| Ruby          | FABRIM / FIRE     | 650.00 / carat |                   |
-| Sapphire      | FABRIM / WATER    | 500.00 / carat |                   |
-| Emerald       | FABRIM / EARTH    | 550.00 / carat |                   |
-| Amethyst      | FABRIM / AIR      | 100.00 / carat |                   |
-| Onyx          | FABRIM / LIGHT    | 75.00 / carat  |                   |
-| Jade          | DIVINE / HEALING  | 10.00 / carat  |                   |
-| Pearl         | MORTAL / WATER    | 250.00 / carat |                   |
-| Rose Quartz   | ARCANA / FIRE     | 300.00 / carat |                   |
-| White Quartz  | ARCANA / EARTH    | 275.00 / carat |                   |
-| Durandurm     | FABRIM / DUNAM    | 475.00 / carat |                   |
+| Name (Source) | Motifs            | Cost @ Market  | Regions Producing             |
+| ------------- | ----------------- | -------------- | ----------------------------- |
+| Agate         | FABRIM / ILLUSION | 8.00 / carat   | Tetrimoc, Mnt. Hall, Holyl'nd |
+| Diamond       | DIVINE / WEIGHT   | 1.0k / carat   | Tetrimoc, Mnt. Hall, Actstow  |
+| Ruby          | FABRIM / FIRE     | 650.00 / carat | Tetrimoc, Mnt. Hall           |
+| Sapphire      | FABRIM / WATER    | 500.00 / carat | Tetrimoc, Mnt. Hall, Actstow  |
+| Emerald       | FABRIM / EARTH    | 550.00 / carat | Combine, Mnt. Hall            |
+| Amethyst      | FABRIM / AIR      | 100.00 / carat | Combine, Tetrimoc, Mnt. Hall  |
+| Onyx          | FABRIM / LIGHT    | 75.00 / carat  | Combine, Mnt. Hall, Actstow   |
+| Jade          | DIVINE / HEALING  | 10.00 / carat  | Holyl'nd, Actstow             |
+| Pearl         | MORTAL / WATER    | 250.00 / carat | Combine, Tetrimoc             |
+| Rose Quartz   | ARCANA / FIRE     | 300.00 / carat | Mnt. Hall, Holyl'nd, Actstow  |
+| White Quartz  | ARCANA / EARTH    | 275.00 / carat | Mnt. Hall, Holyl'nd, Actstow  |
+| Durandurm     | FABRIM / DUNAM    | 475.00 / carat | Tetrimoc, Mnt. Hall, Actstow  |
 
 ### Agate
 ### Diamond
@@ -286,19 +287,19 @@ aliases:
 ### Durandurm
 ## Other
 
-| Name (Source) | Motifs             | Cost @ Market | Regions Producing |
-| ------------- | ------------------ | ------------- | ----------------- |
-| Amber         | DUNAM / IMMUTE     |               |                   |
-| Glass         | EVOKE / LIGHT      |               |                   |
-| Pewter        | BANE / EARTH       |               |                   |
-| Chalk         | FABRIM / ARCANA    |               |                   |
-| Soil          | REGENERATE / EARTH |               |                   |
-| Clay          | FABRIM / MORTAL    |               |                   |
-| Coal          | FIRE / WEIGHT      | 0.10 / pound  |                   |
-| Charcoal      | FIRE / EARTH       |               |                   |
-| Crude Oil     | EARTH / WATER      |               |                   |
-| Mercury       | AIR / WATER        |               |                   |
-| Sulfur        | AIR / FIRE         |               |                   |
+| Name (Source) | Motifs             | Cost @ Market | Regions Producing            |
+| ------------- | ------------------ | ------------- | ---------------------------- |
+| Amber         | DUNAM / IMMUTE     | 45.00 / pound |                              |
+| Glass         | EVOKE / LIGHT      | 0.10 / pound  |                              |
+| Pewter        | BANE / EARTH       | 0.15 / pound  |                              |
+| Chalk         | FABRIM / ARCANA    | 0.05 / pound  |                              |
+| Soil          | REGENERATE / EARTH | 0.10 / pound  |                              |
+| Clay          | FABRIM / MORTAL    | 0.65 / pound  | Combine, Tetrimoc                             |
+| Coal          | FIRE / WEIGHT      | 0.10 / pound  | Combine, Mnt. Hall, Actstow                             |
+| Charcoal      | FIRE / EARTH       | 0.15 / pound  | -                             |
+| Crude Oil     | EARTH / WATER      | 0.25 / gallon | Tetrimoc, Mnt. Hall          |
+| Mercury       | AIR / WATER        | 0.75 / gallon | Mnt. Hall, Holyl'nd, Actstow |
+| Sulfur        | AIR / FIRE         | 45.00 / pound | Combine, Mnt. Hall, Holyl'nd |
 
 ### Amber
 ### Glass
