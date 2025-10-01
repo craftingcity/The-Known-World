@@ -58,10 +58,22 @@ The Electrolysistem is a magical lab-grade electrolysis equipment, usually a spe
 ##### Auspex Scope
 The Auspex Scope is a magical lab-grade identification equipment, usually a set of two or more [[#Auspex Lens]] in a stable rotating cylinder.
 
-
-
+---
 # Alchemical Productions (WIP)
 `dont copy-paste until the whole grid is finished...`
+
+# Productions
+## Material
+### Hard Solids
+### Composites
+### Liquids & Oils
+### Textiles
+## Consumable
+## Equipment
+## Other
+
+---
+
 ### Tools
 #### Equipment
 ##### Spell Smoke Incense (Bane, Arcane)
