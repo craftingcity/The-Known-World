@@ -210,6 +210,13 @@ aliases:
 # Mineral
 ## Rocks
 ### Alabaster
+### Mica
+### Marble
+### Slate
+### Granite
+### Sandstone
+### Limestone
+### Alum
 ## Ores
 ### Adamentine
 ### Copper
@@ -220,7 +227,10 @@ aliases:
 ### Tin
 ### Bronze
 ### Platinum
-### Mithr
+### Mithril
+### Mercury
+### Sulfur
+### Bitumen
 ## Gems
 ### Agate
 ### Diamond
@@ -236,3 +246,10 @@ aliases:
 ## Other
 ### Amber
 ### Glass
+### Pewter
+### Chalk
+### Soil
+### Clay
+### Coal
+### Charcoal
+### Crude Oil
