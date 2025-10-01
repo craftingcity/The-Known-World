@@ -144,8 +144,8 @@ aliases:
 | Hide of Wolf   | MORTAL / AIR      |               |                   |
 | Hide of Bear   | BANE / FORM       |               |                   |
 | Scale of Fish  | WATER / ILLUSION  |               |                   |
-| Paw of Raccoon | POISON / IMMORT                  |               |                   |
-| Paw of Fox     |                   |               |                   |
+| Paw of Raccoon | POISON / IMMORT   |               |                   |
+| Paw of Fox     | EVOKE / WEIGHT    |               |                   |
 
 ### Deer
 ### Wolf
