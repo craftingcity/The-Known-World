@@ -129,10 +129,17 @@ aliases:
 ### Dragon
 ### Wyvren
 ### Warg / Dire Wolf
-### Harpy
 ### Ankheg
+### Basilisk
+### Bulette
+### Cockatrice
+### Harpy
 ### 'Rust Monster'
+### Myconid
 ### Iddie / Illithid
+### Beholder
+### Fey
+### Fiend
 
 
 
