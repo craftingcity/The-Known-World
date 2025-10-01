@@ -7,23 +7,23 @@ aliases:
 
 # Meats
 
-| Name (Source)        | Cost @ Market | Regions Producing                              |
-| -------------------- | ------------- | ---------------------------------------------- |
-| Beef (*Cattle*)      | 0.50 / pound  | Prosper, Holyl'nd                              |
-| Camel (*Dromedary*)  | 0.45 / pound  | Tetrimoc                                       |
-| Pork (*Pig*)         | 0.25 / pound  | Prosper, Illburn,                              |
-| Fowl (*Chicken*)     | 0.25 / pound  | Prosper, Illburn, Mnt. Hall, Actstow           |
-| Chevron (*Goat*)     | 0.45 / pound  | Prosper, Illburn, Tetrmioc, Mnt. Hall, Actstow |
-| Mutton (*Sheep*)     | 0.40 / pound  | Prosper,                                       |
-| Venison (*Deer*)     | 0.30 / pound  | Prosper, Illburn,                              |
-| Wolv (*Wolf*)        | 0.35 / pound  | Prosper, Illburn,                              |
-| Brish (*Bear*)       | 0.55 / pound  | Prosper, Illburn,                              |
-| Bushmeat (*Rabbit*)  | 0.25 / pound  | Prosper, Illburn,                              |
-| Bushmeat (*Raccoon*) | 0.25 / pound  | Prosper, Illburn,                              |
-| Bushmeat (*Fox*)     | 0.25 / pound  | Prosper, Illburn,                              |
-| Fish (*Fish*)        | 0.20 / pound  | Combine,                                       |
-| Flof (*Wurm*)        | 0.20 / pound  | Tetrmioc, Mnt. Hall                            |
-| People (*Person*)    | 0.35 / pound  | Tetrmioc                                       |
+| Name (Source)        | Cost @ Market | Regions Producing                                       |
+| -------------------- | ------------- | ------------------------------------------------------- |
+| Beef (*Cattle*)      | 0.50 / pound  | Prosper, Holyl'nd                                       |
+| Camel (*Dromedary*)  | 0.45 / pound  | Tetrimoc                                                |
+| Pork (*Pig*)         | 0.25 / pound  | Prosper, Illburn,                                       |
+| Fowl (*Chicken*)     | 0.25 / pound  | Prosper, Illburn, Mnt. Hall, Actstow                    |
+| Chevron (*Goat*)     | 0.45 / pound  | Prosper, Illburn, Tetrmioc, Mnt. Hall, Actstow          |
+| Mutton (*Sheep*)     | 0.40 / pound  | Prosper                                                 |
+| Venison (*Deer*)     | 0.30 / pound  | Prosper, Illburn, Actstow                               |
+| Wolv (*Wolf*)        | 0.35 / pound  | Prosper, Illburn, Actstow                               |
+| Brish (*Bear*)       | 0.55 / pound  | Prosper, Illburn, Actstow                               |
+| Bushmeat (*Rabbit*)  | 0.25 / pound  | Prosper, Illburn, Combine, Mnt. Hall, Holyl'nd, Actstow |
+| Bushmeat (*Raccoon*) | 0.25 / pound  | Prosper, Illburn, Combine, Mnt. Hall, Holyl'nd, Actstow |
+| Bushmeat (*Fox*)     | 0.25 / pound  | Prosper, Illburn, Combine, Holyl'nd, Actstow            |
+| Fish (*Fish*)        | 0.20 / pound  | Combine, Tetrimoc                                       |
+| Flof (*Wurm*)        | 0.20 / pound  | Tetrmioc, Mnt. Hall                                     |
+| People (*Person*)    | 0.35 / pound  | Tetrmioc                                                |
 
 # Dairy
 

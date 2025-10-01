@@ -134,18 +134,18 @@ aliases:
 
 ## Wild
 
-| Name (Source)  | Motifs            | Cost @ Market | Regions Producing |
-| -------------- | ----------------- | ------------- | ----------------- |
-| Antler of Deer | EARTH / DIVINE    | 1.60 / ounce  |                   |
-| Claw of Bear   | EVOKE / BANE      | 3.80 / ounce  |                   |
-| Eye of Frog    | ILLUSION / POISON | 20.00 / ounce |                   |
-| Fang of Wolf   | FABRIM / IMMUTE   | 2.35 / ounce  |                   |
-| Foot of Rabbit | SPIRIT / FORM     | 1.00 / ounce  |                   |
-| Hide of Wolf   | MORTAL / AIR      |               |                   |
-| Hide of Bear   | BANE / FORM       |               |                   |
-| Scale of Fish  | WATER / ILLUSION  |               |                   |
-| Paw of Raccoon | POISON / IMMORT   |               |                   |
-| Paw of Fox     | EVOKE / WEIGHT    |               |                   |
+| Name (Source)  | Motifs            | Cost @ Market   | Regions Producing                                       |
+| -------------- | ----------------- | --------------- | ------------------------------------------------------- |
+| Antler of Deer | EARTH / DIVINE    | 1.60 / ounce    | Prosper, Illburn                                        |
+| Claw of Bear   | EVOKE / BANE      | 3.80 / ounce    | Prosper, Illburn                                        |
+| Eye of Frog    | ILLUSION / POISON | 20.00 / ounce   | Combine                                                 |
+| Fang of Wolf   | FABRIM / IMMUTE   | 2.35 / ounce    | Prosper, Illburn                                        |
+| Foot of Rabbit | SPIRIT / FORM     | 1.00 / ounce    | Prosper, Illburn, Combine, Mnt. Hall, Holyl'nd, Actstow |
+| Hide of Wolf   | MORTAL / AIR      | 9.50 / sq yard  | Prosper, Illburn, Actstow                               |
+| Hide of Bear   | BANE / FORM       | 30.95 / sq yard | Prosper, Illburn, Actstow                               |
+| Scale of Fish  | WATER / ILLUSION  | 2.00 / ounce    | Combine, Tetrimoc                                       |
+| Paw of Raccoon | POISON / IMMORT   | 20.00 / ounce   | Prosper, Illburn, Combine, Mnt. Hall, Holyl'nd, Actstow |
+| Paw of Fox     | EVOKE / WEIGHT    | 48.00 / ounce   | Prosper, Illburn, Combine, Holyl'nd, Actstow            |
 
 ### Deer
 ### Wolf
@@ -158,38 +158,37 @@ aliases:
 
 ## Monstrous
 
-| Name (Source)           | Motifs                | Cost @ Market | Regions Producing |
-| ----------------------- | --------------------- | ------------- | ----------------- |
-| Ash of Arstovich        | DIVINE / DISEASE      |               |                   |
-| Blood of Celestial      | MORTAL / IMMUTE       |               |                   |
-| Blood of Dragon         | DRACONIC / ARCANA     |               |                   |
-| Blood of Fey            | ILLUSION / ARCANA     |               |                   |
-| Blood of Fiend          | DEGENERATE / ARCANA   |               |                   |
-| Brain of Illithid       | ABJURE / ARCANA       |               |                   |
-| Chitin of Ankheg        | DESIST / POISON       |               |                   |
-| Eye of Beholder         | EVOKE / ARCANA        |               |                   |
-| Eye of Cockatrice       | NECROT / FORM         |               |                   |
-| Eye of Dragon           | DRACONIC / EVOKE      |               |                   |
-| Excrete of Fiend        | CHARM / ARCANA        |               |                   |
-| Fang of Basilisk        | IMMUTE / DEGENERATE   |               |                   |
-| Fang of Dragon          | DRACONIC / EVOKE      |               |                   |
-| Feather of Harpy        | BANE / WEIGHT         |               |                   |
-| Fluff of Warg           | DESIST / FABRIM       |               |                   |
-| Gland of Ankheg         | POISON / NECROT       |               |                   |
-| Gland of Dragon         | SPIRIT / DRACONIC     |               |                   |
-| Gland of 'Rust Monster' | EVOKE / DEGENERATE    |               |                   |
-| Heart of Dragon         | DRACONIC / FORM       |               |                   |
-| Heart of Illithid       | ARCANA / FORM         |               |                   |
-| Hair of Celestial       | DUNAM / SPIRIT        |               |                   |
-| Hair of Fey             | ARCANA / SPIRIT       |               |                   |
-| Hair of Wyvern          | DESIST / WATER        |               |                   |
-| Hand of Harpy           | SPIRIT / BANE         |               |                   |
-| Horn of Bulette         | DESIST / ARCANA       |               |                   |
-| Horn of Fiend           | FABRIM / SPIRIT       |               |                   |
-| Scale of Bulette        | DESIST / FIRE         |               |                   |
-| Scale of Dragon         | DRAGONIC / REGENERATE |               |                   |
-| Scale of Harpy          | BANE / AIR                      |               |                   |
-
+| Name (Source)           | Motifs                | Cost @ Market    | Regions Producing            |
+| ----------------------- | --------------------- | ---------------- | ---------------------------- |
+| Ash of Arstovich        | DIVINE / DISEASE      | -                | -                            |
+| Blood of Celestial      | MORTAL / IMMUTE       | -                | -                            |
+| Blood of Dragon         | DRACONIC / ARCANA     | -                | Tetrimoc                     |
+| Blood of Fey            | ILLUSION / ARCANA     | -                | -                            |
+| Blood of Fiend          | DEGENERATE / ARCANA   | -                | Combine, Tetrimoc, Holyl'nds |
+| Brain of Illithid       | ABJURE / ARCANA       | -                | Mnt. Hall                    |
+| Chitin of Ankheg        | DESIST / POISON       | 60.00 / ounce    | Mnt. Hall                    |
+| Eye of Beholder         | EVOKE / ARCANA        | -                | -                            |
+| Eye of Cockatrice       | NECROT / FORM         | -                | Combine                      |
+| Eye of Dragon           | DRACONIC / EVOKE      | -                | -                            |
+| Excrete of Fiend        | CHARM / ARCANA        | -                | -                            |
+| Fang of Basilisk        | IMMUTE / DEGENERATE   | 3.6k / ounce     | Combine                      |
+| Fang of Dragon          | DRACONIC / EVOKE      | -                | -                            |
+| Feather of Harpy        | BANE / WEIGHT         | 1.2k / ounce     | Mnt. Hall                    |
+| Fluff of Warg           | DESIST / FABRIM       | 675.00 / sq yard | Illburn                      |
+| Gland of Ankheg         | POISON / NECROT       | 750.00 / ounce   | Mnt. Hall                    |
+| Gland of Dragon         | SPIRIT / DRACONIC     | -                | -                            |
+| Gland of 'Rust Monster' | EVOKE / DEGENERATE    | -                | Combine, Tetrimoc, Mnt. Hall |
+| Heart of Dragon         | DRACONIC / FORM       | -                | -                            |
+| Heart of Illithid       | ARCANA / FORM         | -                | Mnt. Hall                    |
+| Hair of Celestial       | DUNAM / SPIRIT        | -                | -                            |
+| Hair of Fey             | ARCANA / SPIRIT       | -                | -                            |
+| Hair of Wyvern          | DESIST / WATER        | -                | Tetrimoc                     |
+| Hand of Harpy           | SPIRIT / BANE         | 800.00 / pound   | Mnt. Hall                    |
+| Horn of Bulette         | DESIST / ARCANA       | -                | Mnt. Hall                    |
+| Horn of Fiend           | FABRIM / SPIRIT       | -                | -                            |
+| Scale of Bulette        | DESIST / FIRE         | 1.2k / pound     | Mnt. Hall                    |
+| Scale of Dragon         | DRAGONIC / REGENERATE | -                | -                            |
+| Scale of Harpy          | BANE / AIR            | 675.00 / ounce   | Mnt. Hall                    |
 
 ### True Dragon
 ### Drake
@@ -207,7 +206,5 @@ aliases:
 ### Celestial
 ### Fey
 ### Fiend
-
-
 
 # Mineral
