@@ -11,7 +11,7 @@ aliases:
 - **[[Homebrew Spells]]**
 - **Homebrew Systems**
 	- **Alchemy**
-		- [[Alchemy Components]]
+		- [[Alchemical Components]]
 		- [[Alchemy Processes & Products]]
 		- [[Homebrew Alchemy System]]
 	- **Ancient (depreciated)**

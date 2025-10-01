@@ -208,3 +208,31 @@ aliases:
 ### Fiend
 
 # Mineral
+## Rocks
+### Alabaster
+## Ores
+### Adamentine
+### Copper
+### Gold
+### Iron
+### Silver
+### Lead
+### Tin
+### Bronze
+### Platinum
+### Mithr
+## Gems
+### Agate
+### Diamond
+### Ruby
+### Sapphire
+### Emerald
+### Amethyst
+### Onyx
+### Jade
+### Rose Quartz
+### White Quartz
+### Durandurm
+## Other
+### Amber
+### Glass
