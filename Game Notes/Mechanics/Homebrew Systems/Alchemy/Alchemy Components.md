@@ -107,6 +107,7 @@ aliases:
 ## Domesticated
 ### Cattle
 ### Dromedary
+### Horse
 ### Pig
 ### Chicken
 ### Goat
@@ -125,6 +126,13 @@ aliases:
 ### Frog
 
 ## Monstrous
+### Dragon
+### Wyvren
+### Warg / Dire Wolf
+### Harpy
+### Ankheg
+### 'Rust Monster'
+### Iddie / Illithid
 
 
 
