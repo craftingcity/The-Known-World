@@ -105,6 +105,7 @@ aliases:
 
 # Fauna
 ## Domesticated
+
 ### Cattle
 ### Dromedary
 ### Horse
@@ -126,7 +127,8 @@ aliases:
 ### Frog
 
 ## Monstrous
-### Dragon
+### True Dragon
+### Drake
 ### Wyvren
 ### Warg / Dire Wolf
 ### Ankheg
@@ -136,8 +138,9 @@ aliases:
 ### Harpy
 ### 'Rust Monster'
 ### Myconid
-### Iddie / Illithid
+### Illithid
 ### Beholder
+### Celestial
 ### Fey
 ### Fiend
 
