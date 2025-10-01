@@ -210,16 +210,16 @@ aliases:
 # Mineral
 ## Rocks
 
-| Name (Source) | Motifs | Cost @ Market | Regions Producing |
-| ------------- | ------ | ------------- | ----------------- |
-| Alabaster     |        |               |                   |
-| Mica          |        |               |                   |
-| Marble        |        |               |                   |
-| Slate         |        |               |                   |
-| Granite       |        |               |                   |
-| Sandstone     |        |               |                   |
-| Limestone     |        |               |                   |
-| Alum          |        |               |                   |
+| Name (Source) | Motifs          | Cost @ Market | Regions Producing |
+| ------------- | --------------- | ------------- | ----------------- |
+| Alabaster     | DESIST / ARCANA |               |                   |
+| Mica          |                 |               |                   |
+| Marble        |                 |               |                   |
+| Slate         |                 |               |                   |
+| Granite       |                 |               |                   |
+| Sandstone     |                 |               |                   |
+| Limestone     |                 |               |                   |
+| Alum          |                 |               |                   |
 
 ### Alabaster
 ### Mica
@@ -284,19 +284,19 @@ aliases:
 ### Durandurm
 ## Other
 
-| Name (Source) | Motifs          | Cost @ Market | Regions Producing |
-| ------------- | --------------- | ------------- | ----------------- |
-| Amber         | DUNAM / IMMUTE  |               |                   |
-| Glass         | EVOKE / LIGHT   |               |                   |
-| Pewter        | BANE / EARTH    |               |                   |
-| Chalk         | FABRIM / ARCANA |               |                   |
-| Soil          |                 |               |                   |
-| Clay          |                 |               |                   |
-| Coal          |                 |               |                   |
-| Charcoal      |                 |               |                   |
-| Crude Oil     |                 |               |                   |
-| Mercury       |                 |               |                   |
-| Sulfur        |                 |               |                   |
+| Name (Source) | Motifs             | Cost @ Market | Regions Producing |
+| ------------- | ------------------ | ------------- | ----------------- |
+| Amber         | DUNAM / IMMUTE     |               |                   |
+| Glass         | EVOKE / LIGHT      |               |                   |
+| Pewter        | BANE / EARTH       |               |                   |
+| Chalk         | FABRIM / ARCANA    |               |                   |
+| Soil          | REGENERATE / EARTH |               |                   |
+| Clay          | FABRIM / MORTAL    |               |                   |
+| Coal          | FIRE / WEIGHT      |               |                   |
+| Charcoal      | FIRE / EARTH       |               |                   |
+| Crude Oil     | EARTH / WATER      |               |                   |
+| Mercury       | AIR / WATER        |               |                   |
+| Sulfur        | AIR / FIRE         |               |                   |
 
 ### Amber
 ### Glass
