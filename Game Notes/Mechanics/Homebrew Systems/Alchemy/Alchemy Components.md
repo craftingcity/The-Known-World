@@ -111,7 +111,7 @@ aliases:
 | Blood (*any*)    | MORTAL / SPIRIT    |               |                   |
 | Bone (*any*)     | MORTAL / NECROT    |               |                   |
 | Eye (*any*)      | CHARM / FORM       |               |                   |
-| Hide (*any*)     |                    |               |                   |
+| Hide (*any*)     | WEIGHT / FORM      |               |                   |
 | Chitin of Wurm   | DESIST / DRACONIC  |               |                   |
 | Cocoon of Silk   | MORTAL / FORM      |               |                   |
 | Fang of Wurm     | ABJURE / IMMUTE    |               |                   |
@@ -120,7 +120,7 @@ aliases:
 | Hair of Humanoid | CHARM / REGENERATE |               |                   |
 | Horn of Goat     | IMMUTE / BANE      |               |                   |
 | Horn of Boar     | FABRIM / EVOKE     |               |                   |
-| Head of Lamb     |                    |               |                   |
+| Head of Lamb     | SPIRIT / AIR       |               |                   |
 
 ### Cattle
 ### Dromedary
@@ -134,9 +134,18 @@ aliases:
 
 ## Wild
 
-| Name (Source) | Motifs | Cost @ Market | Regions Producing |
-| ------------- | ------ | ------------- | ----------------- |
-|               |        |               |                   |
+| Name (Source)  | Motifs            | Cost @ Market | Regions Producing |
+| -------------- | ----------------- | ------------- | ----------------- |
+| Antler of Deer | EARTH / DIVINE    |               |                   |
+| Claw of Bear   | EVOKE / BANE      |               |                   |
+| Eye of Frog    | ILLUSION / POISON |               |                   |
+| Fang of Wolf   | FABRIM / IMMUTE   |               |                   |
+| Foot of Rabbit | SPIRIT / FORM     |               |                   |
+| Hide of Wolf   | MORTAL / AIR      |               |                   |
+| Hide of Bear   | BANE / FORM       |               |                   |
+| Scale of Fish  | WATER / ILLUSION  |               |                   |
+| Paw of Raccoon | POISON / IMMORT                  |               |                   |
+| Paw of Fox     |                   |               |                   |
 
 ### Deer
 ### Wolf

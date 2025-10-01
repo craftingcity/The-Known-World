@@ -349,18 +349,28 @@
                     {
                       "state": "{}",
                       "eState": "{}"
+                    },
+                    {
+                      "title": "AlchemicalComponentsChart",
+                      "icon": "lucide-image",
+                      "state": "{\"type\":\"image\",\"state\":{\"file\":\"MEDIA/SUPP/AlchemicalComponentsChart.png\"},\"icon\":\"lucide-image\",\"title\":\"AlchemicalComponentsChart\"}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Major Agricultural Harvests",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Major Agricultural Harvests\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":8},\"to\":{\"line\":4,\"ch\":8}},\"scroll\":0}"
                     }
                   ]
                 },
                 "state": {
-                  "type": "markdown",
+                  "type": "image",
                   "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
-                    "mode": "source",
-                    "source": true
+                    "file": "MEDIA/SUPP/AlchemicalComponentMotifs.png"
                   },
-                  "icon": "lucide-file",
-                  "title": "Major Agricultural Harvests"
+                  "icon": "lucide-image",
+                  "title": "AlchemicalComponentMotifs"
                 }
               }
             ]
@@ -378,9 +388,11 @@
   },
   "active": "1b44646776ab5735",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Components.md",
+    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
+    "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Components.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Languages.md",
@@ -406,7 +418,6 @@
     "ORGANIZATION/Notes From Grain Into Gold.md",
     "ORGANIZATION/Books To Write.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Data.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Population Center Data.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
@@ -416,10 +427,8 @@
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/ShawtyOnTheBlock.7z",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
-    "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
     "MEDIA/MAPS/WORLD/underdark.png",
-    "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "MEDIA/CHAR/danteFinal.jpg"
   ]
 }
