@@ -7,7 +7,7 @@ aliases:
 
 # Alchemical Processes
 [x](https://www.alchemywebsite.com/alch-pro.html)
-## Tools & Their Purpose
+## Laboratory Equipment
 ### Basic Laboratory Equipment
 ##### Vessels / Tanks
 The Vessel (or Tank) is used to store ingredients and essences.
@@ -57,6 +57,8 @@ The Hyper Pressure Locker is a magical lab-grade pressurization equipment, usual
 The Electrolysistem is a magical lab-grade electrolysis equipment, usually a specialized vessel with two conductive rods in the center, and an electric generation source, such as a [[#Bottled Thunderstorm]] or a [[#Turbine Engine]].
 ##### Auspex Scope
 The Auspex Scope is a magical lab-grade identification equipment, usually a set of two or more [[#Auspex Lens]] in a stable rotating cylinder.
+
+
 
 # Alchemical Productions (WIP)
 `dont copy-paste until the whole grid is finished...`

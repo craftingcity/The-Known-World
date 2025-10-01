@@ -289,14 +289,14 @@ aliases:
 
 | Name (Source) | Motifs             | Cost @ Market | Regions Producing            |
 | ------------- | ------------------ | ------------- | ---------------------------- |
-| Amber         | DUNAM / IMMUTE     | 45.00 / pound |                              |
-| Glass         | EVOKE / LIGHT      | 0.10 / pound  |                              |
-| Pewter        | BANE / EARTH       | 0.15 / pound  |                              |
-| Chalk         | FABRIM / ARCANA    | 0.05 / pound  |                              |
-| Soil          | REGENERATE / EARTH | 0.10 / pound  |                              |
-| Clay          | FABRIM / MORTAL    | 0.65 / pound  | Combine, Tetrimoc                             |
-| Coal          | FIRE / WEIGHT      | 0.10 / pound  | Combine, Mnt. Hall, Actstow                             |
-| Charcoal      | FIRE / EARTH       | 0.15 / pound  | -                             |
+| Amber         | DUNAM / IMMUTE     | 45.00 / pound | all                          |
+| Glass         | EVOKE / LIGHT      | 0.10 / pound  | all                          |
+| Pewter        | BANE / EARTH       | 0.15 / pound  | all                          |
+| Chalk         | FABRIM / ARCANA    | 0.05 / pound  | all                          |
+| Soil          | REGENERATE / EARTH | 0.10 / pound  | all                          |
+| Clay          | FABRIM / MORTAL    | 0.65 / pound  | Prosper, Combine, Tetrimoc   |
+| Coal          | FIRE / WEIGHT      | 0.10 / pound  | Combine, Mnt. Hall, Actstow  |
+| Charcoal      | FIRE / EARTH       | 0.15 / pound  | all                          |
 | Crude Oil     | EARTH / WATER      | 0.25 / gallon | Tetrimoc, Mnt. Hall          |
 | Mercury       | AIR / WATER        | 0.75 / gallon | Mnt. Hall, Holyl'nd, Actstow |
 | Sulfur        | AIR / FIRE         | 45.00 / pound | Combine, Mnt. Hall, Holyl'nd |
