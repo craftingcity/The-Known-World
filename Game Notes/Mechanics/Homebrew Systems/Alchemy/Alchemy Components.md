@@ -106,12 +106,21 @@ aliases:
 # Fauna
 ## Domesticated
 
-| Name (Source)      | Motifs          | Cost @ Market | Regions Producing |
-| ------------------ | --------------- | ------------- | ----------------- |
-| Blood (*any*)      | MORTAL / SPIRIT |               |                   |
-| Bone (*any*)       | MORTAL / NECROT |               |                   |
-| Cocoon (*Insects*) | MORTAL / FORM   |               |                   |
-| Eye (*Reptiles*)                   |                 |               |                   |
+| Name (Source)    | Motifs             | Cost @ Market | Regions Producing |
+| ---------------- | ------------------ | ------------- | ----------------- |
+| Blood (*any*)    | MORTAL / SPIRIT    |               |                   |
+| Bone (*any*)     | MORTAL / NECROT    |               |                   |
+| Eye (*any*)      | CHARM / FORM       |               |                   |
+| Hide (*any*)     |                    |               |                   |
+| Chitin of Wurm   | DESIST / DRACONIC  |               |                   |
+| Cocoon of Silk   | MORTAL / FORM      |               |                   |
+| Fang of Wurm     | ABJURE / IMMUTE    |               |                   |
+| Feather of Bird  | WEIGHT / LIGHT     |               |                   |
+| Hair of Horse    | CHARM / WEIGHT     |               |                   |
+| Hair of Humanoid | CHARM / REGENERATE |               |                   |
+| Horn of Goat     | IMMUTE / BANE      |               |                   |
+| Horn of Boar     | FABRIM / EVOKE     |               |                   |
+| Head of Lamb     |                    |               |                   |
 
 ### Cattle
 ### Dromedary
@@ -120,12 +129,15 @@ aliases:
 ### Chicken
 ### Goat
 ### Sheep
-### Insects
-### Reptiles
 ### Wurm
 ### Humanoid
 
 ## Wild
+
+| Name (Source) | Motifs | Cost @ Market | Regions Producing |
+| ------------- | ------ | ------------- | ----------------- |
+|               |        |               |                   |
+
 ### Deer
 ### Wolf
 ### Bear
@@ -136,6 +148,11 @@ aliases:
 ### Frog
 
 ## Monstrous
+
+| Name (Source) | Motifs | Cost @ Market | Regions Producing |
+| ------------- | ------ | ------------- | ----------------- |
+|               |        |               |                   |
+
 ### True Dragon
 ### Drake
 ### Wyvren
