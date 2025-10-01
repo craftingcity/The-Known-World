@@ -158,9 +158,37 @@ aliases:
 
 ## Monstrous
 
-| Name (Source) | Motifs | Cost @ Market | Regions Producing |
-| ------------- | ------ | ------------- | ----------------- |
-|               |        |               |                   |
+| Name (Source)           | Motifs           | Cost @ Market | Regions Producing |
+| ----------------------- | ---------------- | ------------- | ----------------- |
+| Ash of Arstovich        | DIVINE / DISEASE |               |                   |
+| Blood of Celestial      |                  |               |                   |
+| Blood of Dragon         |                  |               |                   |
+| Blood of Fey            |                  |               |                   |
+| Blood of Fiend          |                  |               |                   |
+| Brain of Illithid       |                  |               |                   |
+| Chitin of Ankheg        |                  |               |                   |
+| Eye of Beholder         |                  |               |                   |
+| Eye of Cockatrice       |                  |               |                   |
+| Eye of Dragon           |                  |               |                   |
+| Fang of Basilisk        |                  |               |                   |
+| Fang of Dragon          |                  |               |                   |
+| Feather of Harpy        |                  |               |                   |
+| Fluff of Warg           |                  |               |                   |
+| Gland of Ankheg         |                  |               |                   |
+| Gland of Dragon         |                  |               |                   |
+| Gland of 'Rust Monster' |                  |               |                   |
+| Heart of Dragon         |                  |               |                   |
+| Heart of Illithid       |                  |               |                   |
+| Hair of Celestial       |                  |               |                   |
+| Hair of Fey             |                  |               |                   |
+| Hair of Wyvern          |                  |               |                   |
+| Hand of Harpy           |                  |               |                   |
+| Horn of Bulette         |                  |               |                   |
+| Horn of Fiend           |                  |               |                   |
+| Scale of Bulette        |                  |               |                   |
+| Scale of Dragon         |                  |               |                   |
+| Scale of Harpy          |                  |               |                   |
+
 
 ### True Dragon
 ### Drake
