@@ -12,14 +12,14 @@ aliases:
 | Name (Source)                            | Motifs               | Cost @ Market | Regions Producing                       |
 | ---------------------------------------- | -------------------- | ------------- | --------------------------------------- |
 | Apple Seed (*Apple*)                     | POISON / WEIGHT      | 0.10 / ounce  | Prosper, Illburn, Combine               |
-| Yolk (*Chicken Egg / Wild Egg*)          | MORTAL / FORM      | 0.10 / ounce  | Prosper, Illburn, Tetrimoc, Mnt. Hall   |
+| Yolk (*Chicken Egg / Wild Egg*)          | MORTAL / FORM        | 0.10 / ounce  | Prosper, Illburn, Tetrimoc, Mnt. Hall   |
 | Citrus Essence (*Lemon / Lime / Orange*) | DESIST / DISEASE     | 13.50 / ounce | Combine, Tetrimoc, Actstow              |
 | Solanberry Tar (*Solanberry*)            | NECROT / ARCANA      | 1.10 / ounce  | Holyl'nd, Actstow                       |
 | Cactus Essence (*Cactus Fruit*)          | WATER / WEIGHT       | 6.75 / ounce  | Tetrimoc                                |
 | Dried Garlic                             | CHARM / POISON       | 0.20 / ounce  | Prosper, Illburn                        |
 | Dried Onion                              | REGENERATE / DISEASE | 0.15 / ounce  | Prosper, Illburn                        |
 | Honey                                    | FABRIM / HEALING     | 0.15 / ounce  | Prosper, Illburn                        |
-| Lavender                                 | ABJURE / DESIST      | 0.40 / ounce  | Tetrimoc, Holyl'nd                      |
+| Lavender                                 | ABJURE / DISEASE     | 0.40 / ounce  | Tetrimoc, Holyl'nd                      |
 | Salt                                     | ABJURE / BANE        | 0.05 / ounce  | Tetrimoc, Mnt. Hall, Holyl'nds, Actstow |
 
 ### Apple Seed
@@ -37,7 +37,7 @@ aliases:
 
 | Name (Source)   | Motifs               | Cost @ Market | Regions Producing            |
 | --------------- | -------------------- | ------------- | ---------------------------- |
-| Alkanet         | EVOKE / RESIST       | 8.50 / ounce  | Combine                      |
+| Alkanet         | EVOKE / DESIST       | 8.50 / ounce  | Combine                      |
 | Aloe Vera       | HEALING / REGENERATE | 12.65 / ounce | Combine, Tetrimoc            |
 | Dragon's Tongue | DRACONIC / FORM      | 9.15 / ounce  | Combine, Mnt. Hall, Holyl'nd |
 | Foxglove        | CHARM / DESIST       | 16.00 / ounce | Prosper, Illburn, Combine    |
@@ -69,15 +69,15 @@ aliases:
 
 ## Fungi
 
-| Name (Source)    | Motifs          | Cost @ Market | Regions Producing                     |
-| ---------------- | --------------- | ------------- | ------------------------------------- |
-| Polypore, Red    | ARCANA / FIRE   | 3.60 / ounce  | Tetrimoc, Mnt. Hall, Holyl'nd         |
-| Polypore, Blue   | ARCANA / WATER  | 3.50 / ounce  | Prosper, Illburn, Combine             |
-| Polypore, Yellow | ARCANA / EARTH  | 3.55 / ounce  | Prosper, Illburn, Mnt. Hall, Holyl'nd |
-| Elf's Cup        | ARCANA / FABRIM | 18.65 / ounce | Combine, Mnt. Hall                    |
-| Glowshroom       | LIGHT / FORM    | 8.75 / ounce  | Mnt. Hall, Actstow                    |
-| Stinkhorn        | NECROT / FORM   | 2.00 / ounce  | Mnt. Hall, Holyl'nd                   |
-| Smokebulb        | NECROT / CHARM  | 7.50 / ounce  | Illburn, Mnt. Hall, Actstow           |
+| Name (Source)    | Motifs            | Cost @ Market | Regions Producing                     |
+| ---------------- | ----------------- | ------------- | ------------------------------------- |
+| Polypore, Red    | ARCANA / FIRE     | 3.60 / ounce  | Tetrimoc, Mnt. Hall, Holyl'nd         |
+| Polypore, Blue   | ARCANA / WATER    | 3.50 / ounce  | Prosper, Illburn, Combine             |
+| Polypore, Yellow | ARCANA / EARTH    | 3.55 / ounce  | Prosper, Illburn, Mnt. Hall, Holyl'nd |
+| Elf's Cup        | ARCANA / ILLUSION | 18.65 / ounce | Combine, Mnt. Hall                    |
+| Glowshroom       | LIGHT / FORM      | 8.75 / ounce  | Mnt. Hall, Actstow                    |
+| Stinkhorn        | NECROT / FORM     | 2.00 / ounce  | Mnt. Hall, Holyl'nd                   |
+| Smokebulb        | NECROT / CHARM    | 7.50 / ounce  | Illburn, Mnt. Hall, Actstow           |
 
 ### Polypore, Red
 ### Polypore, Blue
@@ -209,6 +209,18 @@ aliases:
 
 # Mineral
 ## Rocks
+
+| Name (Source) | Motifs | Cost @ Market | Regions Producing |
+| ------------- | ------ | ------------- | ----------------- |
+| Alabaster     |        |               |                   |
+| Mica          |        |               |                   |
+| Marble        |        |               |                   |
+| Slate         |        |               |                   |
+| Granite       |        |               |                   |
+| Sandstone     |        |               |                   |
+| Limestone     |        |               |                   |
+| Alum          |        |               |                   |
+
 ### Alabaster
 ### Mica
 ### Marble
@@ -218,6 +230,20 @@ aliases:
 ### Limestone
 ### Alum
 ## Ores
+
+| Name (Source) | Motifs           | Cost @ Market | Regions Producing |
+| ------------- | ---------------- | ------------- | ----------------- |
+| Adamentine    | ABJURE / DESIST  |               |                   |
+| Copper        | FABRIM / ARCANA  |               |                   |
+| Tin           | FABRIM / WEIGHT  |               |                   |
+| Bronze        | EVOKE / FORM     |               |                   |
+| Iron          | FABRIM / BANE    |               |                   |
+| Silver        | FABRIM / ABJURE                 |               |                   |
+| Lead          | FABRIM / DISEASE |               |                   |
+| Platinum      | FABRIM / EVOKE                 |               |                   |
+| Mithril       |                  |               |                   |
+| Bitumen       |                  |               |                   |
+
 ### Adamentine
 ### Copper
 ### Gold
@@ -228,10 +254,23 @@ aliases:
 ### Bronze
 ### Platinum
 ### Mithril
-### Mercury
-### Sulfur
 ### Bitumen
 ## Gems
+
+| Name (Source) | Motifs            | Cost @ Market | Regions Producing |
+| ------------- | ----------------- | ------------- | ----------------- |
+| Agate         | FABRIM / ILLUSION |               |                   |
+| Diamond       | DIVINE / WEIGHT   |               |                   |
+| Ruby          | FABRIM / FIRE     |               |                   |
+| Sapphire      | FABRIM / WATER    |               |                   |
+| Emerald       | FABRIM / EARTH    |               |                   |
+| Amethyst      | FABRIM / AIR      |               |                   |
+| Onyx          | FABRIM / LIGHT    |               |                   |
+| Jade          | DIVINE / HEALING  |               |                   |
+| Rose Quartz   | ARCANA / FIRE     |               |                   |
+| White Quartz  | ARCANA / EARTH    |               |                   |
+| Durandurm     | FABRIM / DUNAM    |               |                   |
+
 ### Agate
 ### Diamond
 ### Ruby
@@ -244,6 +283,21 @@ aliases:
 ### White Quartz
 ### Durandurm
 ## Other
+
+| Name (Source) | Motifs | Cost @ Market | Regions Producing |
+| ------------- | ------ | ------------- | ----------------- |
+| Amber         |        |               |                   |
+| Glass         |        |               |                   |
+| Pewter        |        |               |                   |
+| Chalk         |        |               |                   |
+| Soil          |        |               |                   |
+| Clay          |        |               |                   |
+| Coal          |        |               |                   |
+| Charcoal      |        |               |                   |
+| Crude Oil     |        |               |                   |
+| Mercury       |        |               |                   |
+| Sulfur        |        |               |                   |
+
 ### Amber
 ### Glass
 ### Pewter
@@ -253,3 +307,5 @@ aliases:
 ### Coal
 ### Charcoal
 ### Crude Oil
+### Mercury
+### Sulfur
