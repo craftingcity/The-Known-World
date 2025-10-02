@@ -65,7 +65,6 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 # Productions
 ## Material
 ### Solids
-#### Steel
 #### Darksteel
 #### Chaotic Gold
 #### Adjust Bronze

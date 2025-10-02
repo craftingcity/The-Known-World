@@ -237,11 +237,12 @@ aliases:
 | Copper        | FABRIM / DEGENERATE | 1.20 / pound    | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
 | Tin           | FABRIM / WEIGHT     | 1.20 / pound    | Prosper, Illburn, Combine, Mnt. Hall, Actstow                     |
 | Bronze        | EVOKE / FORM        | 1.80 / pound    | Prosper, Illburn, Combine, Mnt. Hall, Actstow                     |
-| Iron          | FABRIM / BANE       | 0.50 / pound    | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
-| Silver        | FABRIM / ABJURE     | 12.00 / pound   | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
+| Iron          | FABRIM / BANE       | 1.20 / pound    | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
+| Steel         | BANE / FIRE         | 1.80 / pound    | Combine, Mnt. Hall, Actstow                                       |
+| Silver        | FABRIM / ABJURE     | 11.00 / pound   | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
 | Lead          | FABRIM / DISEASE    | 0.60 / pound    | Tetrimoc, Mnt. Hall, Actstow                                      |
 | Gold          | ARCANA / DUNAM      | 110.00 / pound  | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
-| Platinum      | FABRIM / EVOKE      | 1100.00 / pound | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow | 
+| Platinum      | FABRIM / EVOKE      | 1100.00 / pound | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
 | Mithril       | FABRIM / DIVINE     | 240.00 / pound  | Mnt. Hall                                                         |
 | Bitumen       | FORM / IMMUTE       | 0.45 / pound    | Tetrimoc, Mnt. Hall, Actstow                                      |
 
