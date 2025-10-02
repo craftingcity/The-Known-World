@@ -52,9 +52,30 @@
               "icon": "lucide-file",
               "title": "Alchemy Processes & Products"
             }
+          },
+          {
+            "id": "af8ffcb661a37376",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -328,7 +349,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4300b6cacba669a0",
+  "active": "af8ffcb661a37376",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
