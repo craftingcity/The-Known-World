@@ -158,4 +158,4 @@ aliases:
 | Wool (*Goat*)              | 3.15 / sq. yard  | Prosper, Illburn,                    |
 | Linen (*Flax*)             | 4.00 / sq. yard  | Prosper, Combine, Tetrimoc, Holyl'nd |
 | Silk (*Silkworm / Spider*) | 24.00 / sq. yard | Combine, Tetrimoc, Coalition         |
-| Elvenfiber                 | 32.00 / sq. yard | Actstow                              |
+| Elvenfiber                 | 30.00 / sq. yard | Actstow                              |

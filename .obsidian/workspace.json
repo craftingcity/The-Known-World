@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37d6af1c30050aa1",
+        "id": "cfe424a4290a8993",
         "type": "tabs",
         "children": [
           {
-            "id": "4300b6cacba669a0",
+            "id": "e578e706b6376a48",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,26 +22,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+                "file": "Prenotes Sep 13 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Alchemy Processes & Products"
+              "title": "Prenotes Sep 13 25"
             }
           }
         ]
       },
       {
-        "id": "735d5458a4b6202a",
+        "id": "12d1e2144ae40af6",
         "type": "tabs",
         "children": [
           {
-            "id": "1b44646776ab5735",
+            "id": "ce9077f0fb24e209",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -51,35 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
+                "file": "Prenotes Oct 04 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Alchemical Components"
-            }
-          },
-          {
-            "id": "e235add75131537d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Major Agricultural Harvests"
+              "title": "Prenotes Oct 04 25"
             }
           }
         ]
@@ -132,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mithril",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,8 +164,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -356,14 +338,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4300b6cacba669a0",
+  "active": "ce9077f0fb24e209",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
+    "Untitled.md",
+    "Prenotes Oct 04 25.md",
+    "Prenotes Sep 13 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/Prenotes/'25/Prenotes Feb 04 25.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
@@ -381,13 +366,11 @@
     "DATABASE.base",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Psion.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Untitled.md",
     "README.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Who has a Horde.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
-    "ORGANIZATION/Notes From Grain Into Gold.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",

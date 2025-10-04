@@ -74,10 +74,18 @@ A glittering black metal produced by an advanced chain of alchemical and metallu
 	- > 1 pound Darksteel (2.60sp / pound)
 
 #### Chaotic Gold
+A gold that devolves into elemental force when overly agitated.
+
 #### Adjust Bronze
+A bronze that shrinks and spreads to the whims of its design.
+
 #### Pure Force
+A transparent material of outstanding strength and rigidity.
+
 ### Composites
 #### Firepowder
+...
+
 ### Liquids & Oils
 #### Dark Oil
 A glittering, darker-than-black oil created via the introduction of Bitumen to Crude Oil as it is being refined, Dark Oil is used in the production of Darksteel, Pressigen, and other intermediate products.
@@ -100,7 +108,9 @@ A matte black material of advanced alchemical origin, Pressigen is hydrophobic, 
 A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber is very resistant to the natural elements, incredibly beautiful, and alluringly mysterious in it's production.
 
 **Ingredients**;
-- 
+- 1 pound Pine Needles (21.60sp)
+- 2 pounds Bone dust (7.00sp)
+	- 1 sq. yard Elvenfiber (30.00sp / sq. yard)
 
 ## Consumable
 ## Equipment

@@ -101,7 +101,7 @@ aliases:
 | Linen fabric (1 sq. yard, fine)          | 4.0             |                         |
 | Silk fabric (1 sq. yard)                 | 42.5            |                         |
 | Anamabric (1 sq. yard)                   | 21.2            |                         |
-| Elven Fiber (1 sq. yard)                 | 30.0            |                         |
+| Elvenfiber (1 sq. yard)                 | 30.0            |                         |
 | ---                                      | ---             | ---                     |
 | Leather (1 sq. yard, cattle)             | 6.0             |                         |
 | Leather (1 sq. yard, goat)               | 7.0             |                         |
