@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cfe424a4290a8993",
+        "id": "9c8c525e136a11c1",
         "type": "tabs",
         "children": [
           {
-            "id": "e578e706b6376a48",
+            "id": "1982b72ae9f6468e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,49 +20,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Sep 13 25.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Prenotes Sep 13 25"
-            }
-          }
-        ]
-      },
-      {
-        "id": "12d1e2144ae40af6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ce9077f0fb24e209",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Untitled",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Oct 04 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Oct 04 25"
+              "title": "New tab"
             }
           }
         ]
@@ -338,11 +299,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce9077f0fb24e209",
+  "active": "1982b72ae9f6468e",
   "lastOpenFiles": [
+    "Game Notes/Campaign Rosters/Campaign Rosters.md",
+    "Game Notes/Mechanics/Mechanics.md",
+    "Game Notes/NPCs/NPCs.md",
+    "Game Notes/Prenotes/Prenotes.md",
+    "Game Notes/Game Notes.md",
+    "Junie's Characters/Junie's Characters.md",
+    "Notes on the Multiverse/Notes on the Multiverse.md",
+    "ORGANIZATION/ORGANIZATION.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Merchant Companies/Yosimmite Industries.md",
+    "list of alchemical items to place.md",
+    "Game Notes/Prenotes/'25/Prenotes Sep 10 25.md",
+    "Game Notes/Prenotes/'25/Prenotes Sep 13 25.md",
+    "Game Notes/Prenotes/'25/Prenotes Oct 04 25.md",
     "Untitled.md",
-    "Prenotes Oct 04 25.md",
-    "Prenotes Sep 13 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
@@ -357,20 +330,8 @@
     "conflict-files-obsidian-git.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Strength As Carrying Capacity.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Lingering Injuries.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Age of Beginning/Arthurian (language).md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Age of Beginning/Kantine (language).md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Age of Beginning/Actcenvan (language).md",
     "DATABASE.base",
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Psion.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "README.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Who has a Horde.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Specific Places/Kakurak's Lair.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",

@@ -15,6 +15,7 @@ aliases:
 		- [[Alchemy Processes & Products]]
 		- [[Homebrew Alchemy System]]
 	- **Ancient (depreciated)**
+		- [[APGtAv1]]
 		- [[Skills of Alaturmen]]
 	- **Classes**
 		- [[Custom Class - Alchemist]]

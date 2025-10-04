@@ -12,5 +12,6 @@ aliases:
 		- [[The Grey Ordeal]]
 	- **Merchant Companies**
 		- [[Ammarin Transportation]]
+		- [[Yosimmite Industries]]
 
 %% End Waypoint %%
