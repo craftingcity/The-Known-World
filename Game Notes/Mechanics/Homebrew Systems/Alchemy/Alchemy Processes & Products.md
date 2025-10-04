@@ -66,6 +66,12 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 ## Material
 ### Solids
 #### Darksteel
+A glittering black metal produced by an advanced chain of alchemical and metallurgic processes. One of the strongest metals processed by Alatermenians today.
+
+**Ingredients**;
+- 4 gallons Dark Oil (1.08sp)
+- 1 pound 
+
 #### Chaotic Gold
 #### Adjust Bronze
 #### Pure Force
@@ -76,8 +82,9 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 A glittering, darker-than-black oil created via the introduction of Bitumen to Crude Oil as it is being refined, Dark Oil is used in the production of Darksteel, Pressigen, and other intermediate products.
 
 **Ingredients**;
-- 3 part Crude Oil
-- 1 part ground Bitumen
+- 15 gallons Crude Oil (3.75sp)
+- 1 pound ground Bitumen (0.45sp)
+	- > 16 gallons Dark Oil (4.20sp) > (0.27sp / gallon)
 
 ### Textiles
 #### Pressigen
