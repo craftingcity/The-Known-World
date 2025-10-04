@@ -69,8 +69,9 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 A glittering black metal produced by an advanced chain of alchemical and metallurgic processes. One of the strongest metals processed by Alatermenians today.
 
 **Ingredients**;
-- 4 gallons Dark Oil (1.08sp)
-- 1 pound 
+- 4 gallons Dark Oil (1.20sp)
+- 1 pound Iron dust (1.20sp)
+	- > 1 pound Darksteel (2.60sp / pound)
 
 #### Chaotic Gold
 #### Adjust Bronze
@@ -83,12 +84,24 @@ A glittering, darker-than-black oil created via the introduction of Bitumen to C
 
 **Ingredients**;
 - 15 gallons Crude Oil (3.75sp)
-- 1 pound ground Bitumen (0.45sp)
-	- > 16 gallons Dark Oil (4.20sp) > (0.27sp / gallon)
+- 1 pound Bitumen dust (0.45sp)
+	- > 16 gallons Dark Oil (4.20sp) > (0.30sp / gallon)
 
 ### Textiles
 #### Pressigen
+A matte black material of advanced alchemical origin, Pressigen is hydrophobic, flexible, and incredibly tough.
+
+**Ingredients**;
+- 4 gallons Dark Oil (1.20sp)
+- 1 sq. yard Linen (4.00sp)
+	- > 1 sq. yard Pressigen (6.00sp / sq. yard)
+
 #### Elvenfiber
+A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber is very resistant to the natural elements, incredibly beautiful, and alluringly mysterious in it's production.
+
+**Ingredients**;
+- 
+
 ## Consumable
 ## Equipment
 ## Other

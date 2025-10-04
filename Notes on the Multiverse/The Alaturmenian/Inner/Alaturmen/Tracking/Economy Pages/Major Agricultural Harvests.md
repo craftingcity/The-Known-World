@@ -153,7 +153,7 @@ aliases:
 
 | Name (Source)              | Cost @ Market    | Regions Producing                    |
 | -------------------------- | ---------------- | ------------------------------------ |
-| Hemp (*Cannabis*)          | 2.50 / sq. yard  | Prosper, Illburn,                    |
+| Hemp (*Cannabis*)          | 2.50 / sq. yard  | Prosper, Illburn, Combine            |
 | Wool (*Sheep*)             | 3.25 / sq. yard  | Prosper,                             |
 | Wool (*Goat*)              | 3.15 / sq. yard  | Prosper, Illburn,                    |
 | Linen (*Flax*)             | 4.00 / sq. yard  | Prosper, Combine, Tetrimoc, Holyl'nd |

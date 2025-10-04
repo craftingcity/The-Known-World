@@ -58,6 +58,29 @@
               "icon": "lucide-file",
               "title": "Alchemical Components"
             }
+          },
+          {
+            "id": "e235add75131537d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Major Agricultural Harvests"
+            }
           }
         ]
       }
@@ -336,12 +359,12 @@
   "active": "4300b6cacba669a0",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/Prenotes/'25/Prenotes Feb 04 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
