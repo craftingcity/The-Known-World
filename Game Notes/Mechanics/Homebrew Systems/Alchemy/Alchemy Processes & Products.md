@@ -73,6 +73,12 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 #### Firepowder
 ### Liquids & Oils
 #### Dark Oil
+A glittering, darker-than-black oil created via the introduction of Bitumen to Crude Oil as it is being refined, Dark Oil is used in the production of Darksteel, Pressigen, and other intermediate products.
+
+**Ingredients**;
+- 3 part Crude Oil
+- 1 part ground Bitumen
+
 ### Textiles
 #### Pressigen
 #### Elvenfiber
