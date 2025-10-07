@@ -114,7 +114,7 @@ A matte black material of advanced alchemical origin, Pressigen is hydrophobic, 
 A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber is very resistant to the natural elements, incredibly beautiful, and alluringly mysterious in it's production.
 
 **Ingredients**;
-- 1 pound Pine Needles (21.60sp)
+- 16 pound Pine Needles (21.60sp)
 - 2 pounds Bone dust (7.00sp)
 	- 1 sq. yard Elvenfiber (30.00sp / sq. yard)
 
