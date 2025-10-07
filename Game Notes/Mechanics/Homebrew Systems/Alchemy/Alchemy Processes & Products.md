@@ -121,6 +121,35 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 ## Consumable
 ## Equipment
 ## Other
+### Essences
+#### Essence of Earth
+#### Essence of Water
+#### Essence of Fire
+#### Essence of Air
+#### Essence of Healing
+#### Essence of Disease
+#### Essence of Illusion
+#### Essence of Light
+#### Essence of Arcana
+#### Essence of Weight
+#### Essence of Form
+#### Essence of Poison
+#### Essence of Desist
+#### Essence of Divine
+#### Essence of Regenerate
+#### Essence of Necrot
+#### Essence of Degenerate
+#### Essence of Fabrim
+#### Essence of Charm
+#### Essence of Evoke
+#### Essence of Immute
+#### Essence of Dunam
+#### Essence of Immort
+#### Essence of Dragon
+#### Essence of Mortal
+#### Essence of Abjure
+#### Essence of Bane
+#### Essence of Spirit
 
 ---
 
