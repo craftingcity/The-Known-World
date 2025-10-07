@@ -20,10 +20,43 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Alchemy Processes & Products"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d66bf6fc32ad747c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50864b3e4b716a35",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Alchemical Components"
             }
           }
         ]
@@ -129,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5080032348633
+    "width": 359.5080032348633,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -299,8 +333,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1982b72ae9f6468e",
+  "active": "50864b3e4b716a35",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Campaign Rosters/Campaign Rosters.md",
     "Game Notes/Mechanics/Mechanics.md",
     "Game Notes/NPCs/NPCs.md",
@@ -319,7 +354,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/Prenotes/'25/Prenotes Feb 04 25.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",

@@ -84,7 +84,10 @@ A transparent material of outstanding strength and rigidity.
 
 ### Composites
 #### Firepowder
-...
+A dark grey powder that explodes when agitated. 
+
+**Ingredients**;
+- 
 
 ### Liquids & Oils
 #### Dark Oil
