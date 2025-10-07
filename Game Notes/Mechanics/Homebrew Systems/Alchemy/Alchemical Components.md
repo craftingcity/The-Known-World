@@ -270,8 +270,8 @@ aliases:
 | Onyx          | FABRIM / LIGHT    | 75.00 / carat  | Combine, Mnt. Hall, Actstow   |
 | Jade          | DIVINE / HEALING  | 10.00 / carat  | Holyl'nd, Actstow             |
 | Pearl         | MORTAL / WATER    | 250.00 / carat | Combine, Tetrimoc             |
-| Rose Quartz   | ARCANA / FIRE     | 300.00 / carat | Mnt. Hall, Holyl'nd, Actstow  |
-| White Quartz  | ARCANA / EARTH    | 275.00 / carat | Mnt. Hall, Holyl'nd, Actstow  |
+| Rose Quartz   | EVOKE / FIRE      | 300.00 / carat | Mnt. Hall, Holyl'nd, Actstow  |
+| White Quartz  | EVOKE / EARTH     | 275.00 / carat | Mnt. Hall, Holyl'nd, Actstow  |
 | Durandurm     | FABRIM / DUNAM    | 475.00 / carat | Tetrimoc, Mnt. Hall, Actstow  |
 
 ### Agate
@@ -290,7 +290,7 @@ aliases:
 
 | Name (Source) | Motifs             | Cost @ Market | Regions Producing            |
 | ------------- | ------------------ | ------------- | ---------------------------- |
-| Amber         | DUNAM / IMMUTE     | 45.00 / pound | all                          |
+| Amber         | DUNAM / IMMUTE     | 15.00 / pound | all                          |
 | Glass         | EVOKE / LIGHT      | 0.10 / pound  | all                          |
 | Pewter        | BANE / EARTH       | 0.15 / pound  | all                          |
 | Chalk         | FABRIM / ARCANA    | 0.05 / pound  | all                          |
@@ -300,7 +300,8 @@ aliases:
 | Charcoal      | FIRE / EARTH       | 0.15 / pound  | all                          |
 | Crude Oil     | EARTH / WATER      | 0.25 / gallon | Tetrimoc, Mnt. Hall          |
 | Mercury       | AIR / WATER        | 0.75 / gallon | Mnt. Hall, Holyl'nd, Actstow |
-| Sulfur        | AIR / FIRE         | 45.00 / pound | Combine, Mnt. Hall, Holyl'nd |
+| Sulfur        | AIR / FIRE         | 1.00 / pound  | Combine, Mnt. Hall, Holyl'nd |
+| Nitrate       | AIR / EARTH        | 0.15 / pound  | all                          |
 
 ### Amber
 ### Glass
@@ -313,3 +314,4 @@ aliases:
 ### Crude Oil
 ### Mercury
 ### Sulfur
+### Nitrate

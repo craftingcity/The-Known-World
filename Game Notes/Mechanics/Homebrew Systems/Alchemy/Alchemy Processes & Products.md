@@ -87,7 +87,10 @@ A transparent material of outstanding strength and rigidity.
 A dark grey powder that explodes when agitated. 
 
 **Ingredients**;
-- 
+- 1 pound Nitrate (0.15sp)
+- 1 pound Sulphur (1.00sp)
+- 3 pounds Charcoal (0.45sp)
+	- > 5 pounds Firepowder (1.75sp) > (0.35sp / pound)
 
 ### Liquids & Oils
 #### Dark Oil
