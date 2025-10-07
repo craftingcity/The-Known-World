@@ -80,7 +80,7 @@ A gold that devolves into elemental force when overly agitated.
 A bronze that shrinks and spreads to the whims of its design.
 
 #### Pure Force
-A transparent material of outstanding strength and rigidity.
+A transparent material of outstanding strength and rigidity, Pure Force is made and manipulated of and with arcane implementation.
 
 ### Composites
 #### Firepowder
