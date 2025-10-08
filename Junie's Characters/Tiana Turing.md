@@ -191,11 +191,11 @@ We meet a swamp man named Bramble. He has a pet otter. The lizardfolk call thems
 
 *Whispering Skull of Varr'thul (req. attune)* - While carried, 'Revenants' and similar undead have disadvantage against you, and you resist necrotic damage against them, and 1/day, command word, within 30ft those creatures must succeed on DC 15 Wisdom or be Turned.
 
-Vresk's Shack is Hallowed.
+Vresk's Shack is Hallowed. We take a nap and move on. To the swamp.
 
 ## Stats
 
-| L. 5 | XP: 12,950 | / 14.0k | (0) Inspiration |
+| L. 5 | XP: 12,950 | / 14.0k | (1) Inspiration |
 | ---- | ---------- | ------- | --------------- |
 | STR  | 8  (-1)    | PRF     | +3              |
 | CON  | 13 (+1)    | M. HP   | 27 Max HP       |
