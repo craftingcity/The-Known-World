@@ -184,7 +184,7 @@ We begin to take our rest for the night, and some floating lights approached us!
 
 #### Session 14: Beyond the Cove... (cont.)
 
-We meet a swamp man named Bramble. He has a pet otter. The lizardfolk call themselves Vresk. The city is called Vresktal, and Bramble trades his swamp crystals there for charms and such.
+We meet a swamp man named Bramble. He has a pet otter. The lizardfolk call themselves Vresk. The city is called Vresktal, and Bramble trades his swamp crystals there for charms and such. He said he has protection from the natural threats, maybe, but he wouldn't immediately give us some, and I fucking killed him and took them. 
 
 ## Stats
 
@@ -242,8 +242,8 @@ Don't forget *the Flip*!
 	- **1st Level Spells**;
 o (R) [Alarm](https://dnd5e.wikidot.com/spell:alarm)
 o [Chromatic Orb](https://dnd5e.wikidot.com/spell:chromatic-orb) (50gp diamond)
-o (R, C) [Detect Magic](https://dnd5e.wikidot.com/spell:detect-magic) 
-x [Feather Fall](https://dnd5e.wikidot.com/spell:feather-fall)
+x (R, C) [Detect Magic](https://dnd5e.wikidot.com/spell:detect-magic) 
+o [Feather Fall](https://dnd5e.wikidot.com/spell:feather-fall)
 x [Shield](https://dnd5e.wikidot.com/spell:shield)
 o [Sleep](https://dnd5e.wikidot.com/spell:sleep)
 x [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs)
@@ -257,26 +257,32 @@ x [Snowball Swarm](https://dnd5e.wikidot.com/spell:snillocs-snowball-swarm)
 	- **3rd Level Spells**;
 x (C) [Haste](https://dnd5e.wikidot.com/spell:haste)
 x [Counterspell](https://dnd5e.wikidot.com/spell:counterspell)
-o [Remove Curse](https://dnd5e.wikidot.com/spell:remove-curse)
+o (F) [Remove Curse](https://dnd5e.wikidot.com/spell:remove-curse)
 
-##### Arcane Recovery
+##### Arcane Recovery (+3 Slot-Level / Rest)
 - Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
 
-##### Wizardly Quill
+##### Wizardly Quill (BA)
 At 2nd level, as a bonus action, you can magically create a Tiny quill in your free hand. The magic quill has the following properties:
 	- The quill doesn't require ink. When you write with it, it produces ink in a color of your choice on the writing surface.
 	- The time you must spend to copy a spell into your spell book equals 2 minutes per spell level if you use the quill for the transcription.
 	- You can erase anything you write with the quill if you wave the feather over the text as a bonus action, provided the text is within 5 feet of you.
 
-##### Awakened Spellbook
+##### Awakened Spellbook (1/1)
 At 2nd level, while you are holding the book, it grants you the following benefits:
 	- You can use the book as a spellcasting focus for your wizard spells.
 	- When you cast a wizard spell with a spell slot, you can temporarily replace its damage type with a type that appears in another spell in your spellbook. The latter spell must be of the same level as the spell slot you expend.
-	- When you cast a wizard spell as a ritual, you can use the spell's normal casting time, rather than adding 10 minutes to it. Once you use this benefit, you can't do so again until you finish a long rest.
+	- When you cast a wizard spell as a ritual, you can use the spell's normal casting time, rather than adding 10 minutes to it. **Once you use this benefit, you can't do so again until you finish a long rest.**
 
-##### Telekinetic
+##### Telekinetic (BA)
+At 4th level, Tiana takes the [[#Telekinetic]] Feat;
 - You can cast *mage hand* without verbal or somatic components, and you can make the spectral hand invisible.
 - As a bonus action, you can try to *telekinetically shove* one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward or away from you. A creature can willingly fail this save.
+
+##### Manifest Mind (-/1)
+At 6th level, as a bonus action, while you are holding the book, you can cause it to manifest as a Tiny spectral object, hovering in an unoccupied space of your choice within 60 feet of you. The book is *intangible* and *doesn't occupy its space*, and it *sheds dim light in a 10-foot radius*.
+
+While manifested, the book *can hear and see*, and it has darkvision with a range of 60 feet. The mind can telepathically share with you what it sees and hears (no action required).
 
 #### Equipment (2/3 Attuned)
 (10gp, 25sp)
