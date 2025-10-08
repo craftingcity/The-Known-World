@@ -49,7 +49,7 @@ aliases:
 	Source: 'The Progenitor' (TL-O uncontained unidentified)
 	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: GME-013 is, at the time of record, an uncontained non-threat, located at ///REDACTED///, an area in the relative south-east of the 'Underdark' extraplane, though the precise location is constantly changing.
+	Entry Description: GME-013 is, at the time of record, an uncontained non-threat, located at ///REDACTED///, an area in the relative south-east of the 'Underdark' extraplane, though GME-013's precise location is inconsistant.
 
 	GME-013 is a large glowing cyan-blue gemstone estimated to be roughly 36' in diameter, though its current location prevents acurrate measurement. GME-013 actively and consistently emits a field of organically attractive material, since identified as diffused Earth Essense, which aggresively encourages growth of local flora and provides the resources necessary to do so.
 
@@ -63,7 +63,7 @@ aliases:
 	Threat Level: BLUE
 	Entry Class: TRINKET
 	Source: Terran (divine)
-	Last Known Keeper: KEEPER
+	Last Known Keeper: Communal, Site-004
 
 	Entry Description: GME-044 is to be stored in the Ritualistic Center of Site-004 within the hands of the statue. The Ritualistic Center is to be stationed by a rotating 72-hour guard of at least 2 personnel at a time, each of whom have graduated the GOAL-2a 'Nonactive Handling of Objects' program with a score of 6 or higher. Stationed personnel may participate in no more than 2 shifts in a 172-hour period.
 	
@@ -102,7 +102,7 @@ aliases:
 	Threat Level: PURPLE
 	Entry Class: TRINKET
 	Source: Ventan (divine)
-	Last Known Keeper: Jasper's Angels
+	Last Known Keeper: Communal, Site-012
 
 	Entry Description: GME-047 is to be stored in the Ritualistic Center of Site-012 within the sarcophagus. The Ritualistic Center is to be stationed by a rotation 72-hour guard of at least 2 personnel at a time, each of whom have graduated the GOAL-2a 'Nonactive Handling of Objects' program with a score of 8 or higher. Stationed personnel may participate in no more than 2 shifts in a 172-hour period.
 
@@ -117,7 +117,7 @@ aliases:
 	Threat Level: RED
 	Entry Class: KNACK
 	Source: Animan (divine)
-	Last Known Keeper: KEEPER
+	Last Known Keeper: Communal, Site-048
 
 	Entry Description: GME-048 is to be stored in the Ritualistic Center of Site-048 on the central stone display. The Ritualistic Center is to be stationed by a rotating 16-hour guard of at least 4 personnel at a time, each of whom have graduated the GOAL-6c 'Identifying Illusiory Figures' program with a score of 8 or higher. Stationed personnel may spend participate in no more than 3 shifts in a 172-hour period.
 
@@ -219,7 +219,7 @@ aliases:
 
 	Entry Description: GME-009 is a crafted alchemical material that has been seen to be created in areas of significant population of Faefolk.
 
-		GME-009 is a glimmering gold-green colored fabric with a texture similar to silk. While GME-009 is very light-weight and flexible, it has a similar material hardness as a strong metal, such as cast-iron or steel.
+	GME-009 is a glimmering gold-green colored fabric with a texture similar to silk. While GME-009 is very light-weight and flexible, it has a similar material hardness as a strong metal, such as cast-iron or steel.
 ```
 
 ###### Dawnblade
@@ -262,7 +262,7 @@ aliases:
 
 	Entry Description: GME-XXX is to be stored within Vault 1's Warm Storage Sector at least 500' away from any other TL-O cells in a 20'x30'x15' lead storage container which itself is stored with a 30'x40'x20' darksteel storage container. This cell is to be stationed by a rotating 2-hour guard of at least 2 personnel at a time. Stationed personnel may spend participate in no more than 3 shifts in a 24-hour period.
 
-	GME-XXX is a complicated system of mythril tanks, pressigen tubes, and lead casings that - when properly fueled by a mixture of water and oil cycling through the tanks and ///REDACTED/// within the casings - produces a heat consistent with Alchemical Thermite for as long as GME-XXX remains fueled.
+	GME-XXX is a complicated system of mithril tanks, pressigen tubes, and lead casings that - when properly fueled by a mixture of water and oil cycling through the tanks and ///REDACTED/// within the casings - produces a heat consistent with Alchemical Thermite for as long as GME-XXX remains fueled.
 
 	As a result of experiments conducted with GME-XXX, potential means of translating this heat into labor have been discovered, and are described in more detail alongside relavent diagrams and schematics in Experiment Log XXX-3 through -22.  
 ```
@@ -355,7 +355,7 @@ aliases:
 
 		GME-008 is a dual-headed greataxe primarily composed of steel. Together, the heads of the axe are 1.45' across, and they each have a blade just over 14" long. In addition to its material proporties, GME-008 exhibits an emotional influence on its user, creating or increasing irritation and or anger that leads to a murderous rage. Investigation into this property has concluded that this 'rage' is continually and exponentially increasing, but is seriously quelled by its user causing the death of an intelligent humanoid experiencing fear of the user or GME-008 itself.
 
-		GME-008 was crafted by the late Sarhin Bodaim while under the service of her patriarch, Edward Bodaim, who used GME-008 during his rule of the Greenhilles and the surrounding holdings. Since its creation, GME-008 has passed through an unknown number of hands before it was taken off the corpse of its previous Keeper by Killrick Em Glask, who now actively wields GME-008.
+		GME-008 was crafted by the late Sarhin Bodaim while under the service of her patriarch, Edward Bodaim, who used GME-008 during his rule of the Greenhilles and the surrounding holdings. Since its creation, GME-008 has passed through an unknown number of hands before it was gathered by Killrick Em Glask, who now actively wields GME-008.
 ```
 
 ###### The Compalati
@@ -370,7 +370,7 @@ aliases:
 
 	GME-020 is a set of 10 identical 11" gold chain-loops that lack unique or identifying text or markings. The Guild controls all 10 GME-020 instances. While worn, the GME-020 instance will slowly shrink at a constant rate. Experimentation has revealed this rate of shrinkage to be three-tenths of a centimeter per hour. As the GME-020 instance continues to shrink, it will eventually burrow itself into the flesh of it's wearer, and eventually cut through muscle and bone. When a GME-020 instance is removed from its wearer, typically as it falls off once a limb is dismembered, it returns to its typical size.
 
-	GME-020 was created in the late 50s - at the height of the Bandit Lord's reign, and just before their fall - and have been used only twice, disregarding experimentations; the first was used in a pair, named GME-020-1 and -2 respectively, in the dismemberment of Syr Saxon's left arm and right leg, which resulted in his death via exsanguination, and the second was used alone, named GME-020-3, in the beheading of Jacqi Simonson, immediately resulting in her death. All 10 GME-020 instances were recovered by Arthur Simonson during the Unification of Prosper, and were kept in the Chapter House Constantia before they were eventually moved into their current location.
+	GME-020 was created in the late 50s - at the height of the Bandit Lord's reign, and just before their fall - and have been used only twice, disregarding experimentations; the first was used in a pair, named GME-020-1 and -2 respectively, in the dismemberment of Syr Saxon's left arm and right leg, which resulted in his death via exsanguination, and the second was used alone, named GME-020-3, in the beheading of Jacqi Simonson, immediately resulting in her death. All 10 GME-020 instances were recovered by Arthur Simonson during the Unification of Prosper, and were kept in the Chapter House Constantia before they were eventually transported into their current location after Containment Conference 002.
 ```
 
 #### Crafts of Dwarvenkind
@@ -441,9 +441,7 @@ aliases:
 
 	Entry Description: GME-007 is a naturally occuring gemstone material discovered first by a group of miners in Mountain Hall's 4th Mining Colony, the area now known as Kickoff, but Blackrock Yosimmite is individually recognized for the popularization of its military applications.
 
-		GME-007 is a multi-staging bright white colored gemstone material that exhibits atypical attunement to Weave influencing effects. When extracted from a source, GME-007 is in it's 'seeking' stage. When exposed to concentrated elements, GME-007 attune to the relevant element, changing color to relfect it's attunement and begin to emit or exhibit affects related to that element (see Experiment Log 007-1 through -4). This is known as the 'attuned' phase. While GME-007 is 'attuned', it will continue to exhibit it's 'attuned' affects for a period of time relative to the size of the GME-007 instance and the concentration of it's 'attuned' elements. 
-		
-		After this period, GME-007 enters its 'inert' phase, and will cease to exhibit 'attuned' affects and will slowly begin to dull into a light grey. GME-007 that is 'inert' can be recycled and reprocessed into another instance in the 'seeking' phase.
+		GME-007 is a multi-staging bright white colored gemstone material that exhibits atypical attunement to Weave influencing effects. When extracted from a source, GME-007 is in it's 'seeking' stage. When exposed to concentrated elements, GME-007 attune to the relevant element, changing color to relfect it's attunement and begin to emit or exhibit affects related to that element (see Experiment Log 007-1 through -4). This is known as the 'attuned' phase. While GME-007 is 'attuned', it will continue to exhibit it's 'attuned' affects for a period of time relative to the size of the GME-007 instance and the concentration of it's 'attuned' elements. After this period, GME-007 enters its 'inert' phase, and will cease to exhibit 'attuned' affects and will slowly begin to dull into a light grey. GME-007 that is 'inert' can be recycled and reprocessed into another instance in the 'seeking' phase.
 ```
 
 ### Post Great Fires c.050AF
@@ -458,7 +456,7 @@ aliases:
 
 	Entry Description: GME-004 is to be stored within Vault 0's Warm Storage sector in a 1-inch square soft textile bag, which then is to be stored in a 1'x'1'x1' darksteel cube-box lined with a soft textile. GME-004 is, at the time of record, uncontained and being used by it's current Keeper.
 
-		GME-004 is a thick ring of gold with a Draconic phrase enscribed on its outer face. While worn, GME-004 is rendered imperceptable to non-arcane perceptions, and imbues its user with a self-sustainance beyond mortality; the user will not experience age, thirst, or hunger, their wounds will quickly heal, and the user will always deny GME-004's presence and existence.
+		GME-004 is a thick ring of gold with a Draconic phrase enscribed on its outer face. While worn, GME-004 is rendered imperceptable to non-arcane perceptions, and imbues its user with a self-sustainance beyond mortality; the user will not experience age, thirst, or hunger, and their wounds will quickly heal. Subjects in possession of GME-004 will deny it's presence and existence.
 
 		GME-004 is the final creation of Tianna Moore before her very public suicide. In the era of the Bandit Lords, GME-004 traded hands between high-level commanders and soldiers before it was claimed by Arthur Simonson during the Battle for Magius c.054AF. Information in this Entry has been gathered via non-invasive divination, and may be incomplete, misinformed, or wholly deceitful.
 ```
@@ -473,7 +471,7 @@ aliases:
 
 	Entry Description: GME-005 is to be stored within Vault 0's Warm Storage sector in a 5'x1'x1' darksteel container lined with a soft textile. GME-005 is, at the time of record, uncontained and being used by it's current Keeper.
 
-		GME-005 is a straight-blade mithril longsword. The blade is just over 4' long seemingly becomes sharper as it is used - rather than duller. In addition to its material properties, GME-005 exhibits an emotional influence on its user, creating or increasing a sense of communal justice - a passion for the good of people.
+		GME-005 is a straight-blade mithril longsword. The blade is just over 4' long, and seemingly becomes sharper as it is used - rather than duller. In addition to its material properties, GME-005 exhibits an emotional influence on its user, creating or increasing a sense of communal justice - a passion for the good of people.
 
 		GME-005 was crafted sometime before the beginning of the Unification Wars, c.056AF, and has been held by King Arthur Simonson since it's creation. Information in this Entry has been gathered via non-invasive divination, and may be incomplete, misinformed, or wholly deceitful.
 ```
@@ -612,7 +610,7 @@ aliases:
 
 		GME-003 is a large atlas bound in a furred green hide containing over a thousand pages, each of which is recently created map of a given six-square-mile area. The maps generated by GME-003 will slowly re-generate on a page over the course of 36 hours. If the map-area is unchanged over this period, the image remains unchanged. If the map-area changed, the image will be equally disrupted in those areas that have been changed. Significant constructions or foot-traffic in a map-area will likely present as a blotch of color on the map-image, preventing the use of GME-003 in immediate information gathering, as for military application.
 
-		GME-003 was delivered to a Guild Representative while they were participating in paid-leave by a sickly human man who would become identified as a member of the Cult of Sight. The man exchanged no words with the Representative. During their debriefing interview, the Representative stated: "The man walked by me and dropped the book. I tried to get his attention and give it back, but he kept walking away. Didn't look like he was missing it, I guess, so I opened it up and was immediately overwhelmed. Either art or magic, neither of which are my forte." 
+		GME-003 was delivered to a Guild Representative while they were participating in paid-leave by a sickly human man who would remain unidentified. The man exchanged no words with the Representative. During their debriefing interview, the Representative stated: "The man walked by me and dropped the book. I tried to get his attention and give it back, but he kept walking away. Didn't look like he was missing it, I guess, so I opened it up and was immediately overwhelmed. It's either art or magic, neither of which are my forte." 
 ```
 
 ###### The Helmet of Certi'alikor
@@ -651,7 +649,7 @@ aliases:
 #### Relics of the Grey Ordeal
 ###### Turing's Tinkering Staff
 ```
-	GME-033 "TURING'S TINKERING STAGG"
+	GME-033 "TURING'S TINKERING STAFF"
 	Threat Level: COLOR
 	Entry Class: CLASS
 	Source: AUTHOR
@@ -670,7 +668,7 @@ aliases:
 
 	Entry Description: GME-002 is stored on a hanging rack within Vault 3's Freeform sector.
 
-		GME-002 is a small white-dragonhide cloak with a sapphire clasp. In addition to its material proporties, GME-002 provides its user with a personal atmosphere that proportionaly increases in temperature as the external atmostphere decreases in temperature. This results in the user experiencing a mild warmth even in externally freezing temperatures.
+	GME-002 is a small white-dragonhide cloak with a sapphire clasp. In addition to its material proporties, GME-002 provides its user with a personal atmosphere that proportionaly increases in temperature as the external atmostphere decreases in temperature. This results in the user experiencing a mild warmth even in externally freezing temperatures.
 ```
 
 ###### Tubric's Gleeming Platemail
@@ -745,18 +743,19 @@ aliases:
 	Last Known Keeper: None, see Entry Description.
 
 	Entry Description: Instances of GME-049 are to be stored within the Vault 0 Processing sector in a 1'x'1'x1' darksteel cube-box lined with a soft textile labelled appropriately for the class of the instance. After processing, the following procedures are to be followed:
+	
 	- GME-049-C1 instances are to be stored within the Vault 0 Warm Storage sector in independent TL-O cells, at least 500' from any other TL-O cells, in their 'original' cube-box.
 	- GME-049-C2 instances are to be stored within the Vault 0 Warm Storage sector in one of six TL-R cells (see Procedure Document 049-33), in their 'original' cube-box.
 	- GME-049-C3 instances are to be stored within the Vault 0 Cold Storage sector, in their 'original' cube-box.
 	- GME-049-C4 instances are to be released to the Guild of Merchants within 3 weeks of their processing.
 
-		GME-049 is a collective identifier for the objects that qualify under the following designation classes:
-			- GME-049-C1 are instance objects capable of instantly forming and collapsing a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance at the will of it's wielder.
-			- GME-049-C2 are instance objects capable of forming a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance, and capable of manipulating the size of their own Gate Entrance within a radius of 3', extending the physical size of the instance's Gate Entrance. 
-			- GME-049-C3 are instance objects capable of forming a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance, and incapable of manipulating the size of their own Gate Entrance.
-			- GME-049-C4 are instance objects capable of forming a Type-2 Planar Gate pointed at one finite Consistant Extraplanar Instance, and incapable of manipulating the size of their own Gate Entrance.
+	GME-049 is a collective identifier for the objects that qualify under the following designation classes:
+		- GME-049-C1 are instance objects capable of instantly forming and collapsing a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance at the will of it's wielder.
+		- GME-049-C2 are instance objects capable of forming a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance, and capable of manipulating the pysical size of their own Gate Entrance within a radius of 3', extending the physical size of the instance's Gate Entrance. 
+		- GME-049-C3 are instance objects capable of forming a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance, and incapable of manipulating the size of their own Gate Entrance.
+		- GME-049-C4 are instance objects capable of forming a Type-2 Planar Gate pointed at one finite Consistant Extraplanar Instance, and incapable of manipulating the size of their own Gate Entrance.
 
-		GME-049 instances, and the process and knowledge of their creation, presents an existential threat to physical reality as we know it, and therefore the mission of the Guild of Wizards. Class 1 and Class 2 instances present an immediate tactical threat and should be dealt with accordingly. Class 1 or Class 2 instances, or the knowledge of their creation, must be immediately captured, recovered, or destroyed at all costs.
+	GME-049 instances, and the process and knowledge of their creation, presents an existential threat to physical reality as we know it, and therefore the mission of the Guild of Wizards. Class 1 and Class 2 instances present an immediate tactical threat and should be dealt with accordingly. Class 1 or Class 2 instances, or the knowledge of their creation, must be immediately captured, recovered, or destroyed at all costs.
 ```
 
 ==$==
