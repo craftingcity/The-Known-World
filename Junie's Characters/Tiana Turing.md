@@ -279,10 +279,12 @@ At 4th level, Tiana takes the [[#Telekinetic]] Feat;
 - You can cast *mage hand* without verbal or somatic components, and you can make the spectral hand invisible.
 - As a bonus action, you can try to *telekinetically shove* one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward or away from you. A creature can willingly fail this save.
 
-##### Manifest Mind (-/1)
+##### Manifest Mind (BA, -/1+ summon, 3/3 spells)
 At 6th level, as a bonus action, while you are holding the book, you can cause it to manifest as a Tiny spectral object, hovering in an unoccupied space of your choice within 60 feet of you. The book is *intangible* and *doesn't occupy its space*, and it *sheds dim light in a 10-foot radius*.
 
-While manifested, the book *can hear and see*, and it has darkvision with a range of 60 feet. The mind can telepathically share with you what it sees and hears (no action required).
+While manifested, the book *can hear and see*, and it has darkvision with a range of 60 feet. The mind can telepathically share with you what it sees and hears (no action required). You can cast spells on your turn as if you were in the book's space a number of times equal to your proficiency bonus per long rest.
+
+As a bonus action, you can cause the spectral mind to hover up to 30 feet to an unoccupied space that you or it can see. It can pass through creatures but not objects. The spectral mind stops manifesting if it is ever more than 300 feet away from you, if someone casts [Dispel Magic](http://dnd5e.wikidot.com/spell:dispel-magic) on it, if the Awakened Spellbook is destroyed, if you die, or if you dismiss the spectral mind as a bonus action.
 
 #### Equipment (2/3 Attuned)
 (10gp, 25sp)
