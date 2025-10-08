@@ -67,7 +67,11 @@ aliases:
 
 	Entry Description: GME-044 is to be stored in the Ritualistic Center of Site-004 within the hands of the statue. The Ritualistic Center is to be stationed by a rotating 72-hour guard of at least 2 personnel at a time, each of whom have graduated the GOAL-2a 'Nonactive Handling of Objects' program with a score of 6 or higher. Stationed personnel may participate in no more than 2 shifts in a 172-hour period.
 	
-	GME-044 is a head-sized cyan-blue gemstone. When any concious creature comes into contact with GME-044, it becomes active, and will begin to emit a thin stream of visibly blue gas
+	GME-044 is a head-sized cyan-blue gemstone. When any concious creature comes into contact with GME-044, it becomes active, and will begin to emit a thin stream of visibly blue gas at an unoccupied point within 10' of the subject. As the gas coalesces, it forms itself into a rough copy of the subject (GME-044-1). GME-044 returns to an inactive state upon the complete coalescence of GME-044-1.
+	
+	GME-044-1 instances are pysically incorporeal, and will act independantly of their subject upon their coalescence. Testing has revealed that all GME-044-1 instances will cease existance within 48 hours, during which time the instance will travel towards the northern border of the Wildlands, at which point they will halt, and spend the remainder of their existance pointing northwards, out into the distance. No instance has yet crossed the boundry markers into the Wildlands. 
+	
+	GME-044 was captured and transported to the Wheernat Hillkeep in the early 90s by members of the SEASEC conglomerate and other independant contracters, where it has since remained.
 ```
 
 ###### Ablation
@@ -100,11 +104,11 @@ aliases:
 	Source: Ventan (divine)
 	Last Known Keeper: Jasper's Angels
 
-	Entry Description: GME-047 is to be stored in the Ritualistic Center of Site-018 within the sarcophagus. The Ritualistic Center is to be stationed by a rotation 72-hour guard of at least 2 personnel at a time, each of whom have graduated the GOAL-2a 'Nonactive Handling of Objects' program with a score of 8 or higher. Stationed personnel may participate in no more than 2 shifts in a 172-hour period.
+	Entry Description: GME-047 is to be stored in the Ritualistic Center of Site-012 within the sarcophagus. The Ritualistic Center is to be stationed by a rotation 72-hour guard of at least 2 personnel at a time, each of whom have graduated the GOAL-2a 'Nonactive Handling of Objects' program with a score of 8 or higher. Stationed personnel may participate in no more than 2 shifts in a 172-hour period.
 
-	GME-047 is a large 6'x4'x3' rectangular-cut slab of amber ~~that surrounds a complete skeleton of a small winged creature since determined to be a very young dragon~~. When any concious creature comes into contact with a GME-047 instance, the subject and any other creatures within 20' of GME-047 will be transported via a Type-2 Planar Gate into a Consistent Extraplanar Instance that has informally become known as 'The Amber Den' among researchers and subjects. Described as a 'fractal nightmare' this CEI is a seemingly procedural or recursive complex of sap and amber rooms and halls. The purpose of the complex is hypothesised as a place of imprisonment (see Experiment Log 047-1 through -18). When a GME-047 instance becomes disabled, it will shatter into shards and release it's subjects from the CEI before another GME-047 instance will begin to form at the Ritualistic Center at Site-018.
+	GME-047 is a large 6'x4'x3' rectangular-cut slab of amber ~~that surrounds a complete skeleton of a small winged creature since determined to be a very young dragon~~. When any concious creature comes into contact with a GME-047 instance, the subject and any other creatures within 20' of GME-047 will be transported via a Type-2 Planar Gate into a Consistent Extraplanar Instance that has informally become known as 'The Amber Den' among researchers and subjects. Described as a 'fractal nightmare' this CEI is a seemingly procedural or recursive complex of sap and amber rooms and halls. The purpose of the complex is hypothesised as a place of imprisonment (see Experiment Log 047-1 through -18). When a GME-047 instance becomes disabled, it will shatter into shards and release it's subjects from the CEI before another GME-047 instance will begin to form at the Ritualistic Center at Site-012.
 
-	Since the Circle of Aquan came to occupy Site-018 in the early 80s, GME-047-1 was captured by indepentant contractors and sold to the SEASEC conglomerate, who in turn, aimed to sell GME-047-1 to the Guild. In this process, the adventuring party 'Jasper's Angels' were contracted to transport GME-047-1, and due to inadvetant activation, they entered 'The Amber Den'. Due to their actions within the CEI, GME-047-1 became disabled, and another instance (GME-047-2) began to form at this time.
+	Since the Circle of Aquan came to occupy Site-012 in the early 80s, GME-047-1 was captured by indepentant contractors and sold to the SEASEC conglomerate, who in turn, aimed to sell GME-047-1 to the Guild. In this process, the adventuring party 'Jasper's Angels' were contracted to transport GME-047-1, and due to inadvetant activation, they entered 'The Amber Den'. Due to their actions within the CEI, GME-047-1 became disabled, and another instance (GME-047-2) began to form at this time.
 ```
 
 ###### Emulation
