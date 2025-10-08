@@ -184,7 +184,10 @@ We begin to take our rest for the night, and some floating lights approached us!
 
 #### Session 14: Beyond the Cove... (cont.)
 
-We meet a swamp man named Bramble. He has a pet otter. The lizardfolk call themselves Vresk. The city is called Vresktal, and Bramble trades his swamp crystals there for charms and such. He said he has protection from the natural threats, maybe, but he wouldn't immediately give us some, and I fucking killed him and took them. 
+We meet a swamp man named Bramble. He has a pet otter. The lizardfolk call themselves Vresk. The city is called Vresktal, and Bramble trades his swamp crystals there for charms and such. He said they grant protection from the natural threats, but he wouldn't immediately give us some, so I fucking killed him, and took them. 
+
+#### Session 15: Beyond the Cove... (cont.)
+
 
 ## Stats
 
@@ -280,11 +283,13 @@ At 4th level, Tiana takes the [[#Telekinetic]] Feat;
 - As a bonus action, you can try to *telekinetically shove* one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward or away from you. A creature can willingly fail this save.
 
 ##### Manifest Mind (BA, -/1+ summon, 3/3 spells)
-At 6th level, as a bonus action, while you are holding the book, you can cause it to manifest as a Tiny spectral object, hovering in an unoccupied space of your choice within 60 feet of you. The book is *intangible* and *doesn't occupy its space*, and it *sheds dim light in a 10-foot radius*.
+At 6th level, as a bonus action, while you are holding the Awakened Spellbook, you can cause it to manifest as a Tiny spectral object, hovering in an unoccupied space of your choice within 60 feet of you. The Awakened Spellbook is *intangible* and *doesn't occupy its space*, and it *sheds dim light in a 10-foot radius*.
 
-While manifested, the book *can hear and see*, and it has darkvision with a range of 60 feet. The mind can telepathically share with you what it sees and hears (no action required). You can cast spells on your turn as if you were in the book's space a number of times equal to your proficiency bonus per long rest.
+While manifested, the Awakened Spellbook *can hear and see*, and it has darkvision with a range of 60 feet. The Awakened Spellbook can telepathically share with you what it sees and hears (no action required). You can cast spells on your turn as if you were in the Awakened Spellbook's space a number of times equal to your proficiency bonus per long rest.
 
-As a bonus action, you can cause the spectral mind to hover up to 30 feet to an unoccupied space that you or it can see. It can pass through creatures but not objects. The spectral mind stops manifesting if it is ever more than 300 feet away from you, if someone casts [Dispel Magic](http://dnd5e.wikidot.com/spell:dispel-magic) on it, if the Awakened Spellbook is destroyed, if you die, or if you dismiss the spectral mind as a bonus action.
+As a bonus action, you can cause the Awakened Spellbook to hover up to 30 feet to an unoccupied space that you or it can see. It can pass through creatures but not objects. The Awakened Spellbook stops manifesting if it is ever more than 300 feet away from you, if someone casts [Dispel Magic](http://dnd5e.wikidot.com/spell:dispel-magic) on it, if the Awakened Spellbook is destroyed, if you die, or if you dismiss the Awakened Spellbook as a bonus action.
+
+Once you conjure the mind, you can't do so again until you finish a long rest, unless you expend a spell slot of any level to conjure it again.
 
 #### Equipment (2/3 Attuned)
 (10gp, 25sp)
@@ -324,7 +329,7 @@ As a bonus action, you can cause the spectral mind to hover up to 30 feet to an 
 *Groin*:
 	Equipment Belt
 		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]] 1/1 flip)
-		- Ghostlight Lantern (*faerie fire* DC 13 1/1)
+		- [[#Ghostlight Lantern]] (*faerie fire* DC 13 1/1)
 		- Sheath (Dagger)
 		- Sending Stone (paired with Soju)
 *Legs*:
