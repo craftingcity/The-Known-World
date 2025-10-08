@@ -178,7 +178,7 @@ We got into combat with more Grung...
 
 ... and combat continues. We won.
 
-We keep travelling, and we finally get to make a choice about where we go - we can follow the path north, towards the mountain, east towards the central island, or west towards the swamp. We choose west, hoping to end up in the swamps, where we seek the Heartsoul of the Sunken Pyre.
+We keep travelling, and we finally get to make a choice about where we go - we can follow the path north, towards the mountain, east towards the central island, or west towards the swamp. We choose west, hoping to end up in the swamps, where we seek the Heartcoal of the Sunken Pyre.
 
 We begin to take our rest for the night, and some floating lights approached us!
 
@@ -187,9 +187,9 @@ We begin to take our rest for the night, and some floating lights approached us!
 We meet a swamp man named Bramble. He has a pet otter. The lizardfolk call themselves Vresk. The city is called Vresktal, and Bramble trades his swamp crystals there for charms and such. He said they grant protection from the natural threats, but he wouldn't immediately give us some, so I fucking killed him, and took them. 
 
 #### Session 15: Beyond the Cove... (cont.)
-*Screaming Bead Reeds* - Whenever an undead comes within 30ft it emits a scream audible from 120 feet.
+*Mourning Coil* - Whenever an undead comes within 30ft it emits a scream audible from 120 feet.
 
-*Runed Bleached Skull* - While carried, 'Revenants' and similar undead have disadvantage against you, and you resist necrotic damage against them, and 1/day, command word those creatures must succeed on DC 15 Wisdom or be Turned.
+*Whispering Skull of Varr'thul (req. attune)* - While carried, 'Revenants' and similar undead have disadvantage against you, and you resist necrotic damage against them, and 1/day, command word, within 30ft those creatures must succeed on DC 15 Wisdom or be Turned.
 
 Vresk's Shack is Hallowed.
 
@@ -347,13 +347,13 @@ Once you conjure the mind, you can't do so again until you finish a long rest, u
 - While you are Attuned, the Coin can be used as an Arcane Focus.
 - While you are Attuned, the Coin grants +1 to Arcana Skill Checks.
 - While you are Attuned, you may store a 1st Level Wizard Spell in the Coin (currently *Silvery Barbs* 1/1).
-- While you are Attuned, once per long rest, before you cast a spell (6/10);
+- While you are Attuned, once per long rest, before you cast a spell (7/10);
 	- *(Heads / Evens)* Gain Advantage on an Attack Roll made for the spell, or impose Disadvantage on a Saving Throw made for the spell.
 	- *(Tails / Odds)* Regain the lowest level spell slot expended to cast the spell.
 
 ###### Verdant Band
 - *Attuned*
-- While you are Attuned, you may cast Entangle once per long rest without using a spell slot (0/1).
+- While you are Attuned, you may cast Entangle once per long rest without using a spell slot (1/1).
 - While you are Attuned and standing on 'natural earth', when a Plant attempts to Grapple or Restrain you, you have Advantage on that Check.
 
 ###### Ghostlight Lantern
