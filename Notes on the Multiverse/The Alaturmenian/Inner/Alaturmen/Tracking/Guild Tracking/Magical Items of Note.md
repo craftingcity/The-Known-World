@@ -24,7 +24,7 @@ aliases:
 		
 		- GME-000-1 is an identical instance to the others, excepting it is attuned to 'The Plane of Earth', and when activated will have a series of effects, which are currently unknown. This instance is currently undiscovered.
 
-		- GME-000-2 is an identical instance to the others, excepting it is attuned to 'The Plane of Fire', and when activated will begin to steam and smoke as they heat to a white hot, requiring specialized disentanglement. The image visible is of a brass plated room seeming decorated as a grand entrance hall for a humanoid creature at least 12' tall, as indicated by the visible doors and distorted magnification of the circlular pairs of the instance. GME-000-2 was delivered to the Guild by 'Marcus, the Partnered' on behalf of Kakurak at Containment Conference 000, alongside it's history with Kakurak's Chosen.
+		- GME-000-2 is an identical instance to the others, excepting it is attuned to 'The Plane of Fire', and when activated will begin to steam and smoke as the instance heats to a white hot. The image visible is of a brass plated room seeming decorated as a grand entrance hall for a humanoid creature at least 12' tall, as indicated by the visible doors and distorted magnification of the circlular pairs of the instance. GME-000-2 was delivered to the Guild by 'Marcus, the Partnered' on behalf of Kakurak at Containment Conference 000, alongside it's history with Kakurak's Chosen.
 
 		- GME-000-3 is an identical instance to the others, excepting it is attuned to 'The Plane of Air', and when activated will have a series of effects, which are currently unknown. This instance is currently undiscovered.
 
@@ -32,7 +32,7 @@ aliases:
 
 		- GME-000-5 is an identical instance to the others, excepting it is attuned to 'Mechanis', and when activated will have a series of effects, which are currently unknown. This instance is currently undiscovered.
 
-		- GME-000-6 is an identical instance to the others, excepting it is attuned to 'The Abyss', and when activated will emit a dark putrid fog, and display the sight of a huge stone-brick bridge. The fog is toxic, and will cause significant internal damage. GME-000-6 was delivered to the Guild by 'the Hatdroppers' at Containment Conference 000.
+		- GME-000-6 is an identical instance to the others, excepting it is attuned to 'Abyss', and when activated will emit a dark putrid fog, and display the sight of a huge stone-brick bridge. The fog is toxic, and will cause significant lasting organ damage when ingested. GME-000-6 was delivered to the Guild by 'the Hatdroppers' at Containment Conference 000.
 
 		- GME-000-7 is an identical instance to the others, excepting it is attuned to 'Baator', and when activated will have a series of effects, which are currently unknown. This instance is currently undiscovered.
 
@@ -46,12 +46,12 @@ aliases:
 	GME-013 "GROWTH-HEART"
 	Threat Level: WHITE
 	Entry Class: KNACK
-	Source: 'The Progenitor' ?;(possibly Tetrimoc or equal)
+	Source: 'The Progenitor' (TL-O uncontained unidentified)
 	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: GME-013 is, at the time of record, an uncontained non-threat, located at ///REDACTED///, an area in the relative south-east of the Extraplane: Underdark, though the precise location is constantly changing.
+	Entry Description: GME-013 is, at the time of record, an uncontained non-threat, located at ///REDACTED///, an area in the relative south-east of the 'Underdark' extraplane, though the precise location is constantly changing.
 
-	GME-013 is a large glowing cyan-blue gemstone estimated to be roughly 36' in diameter, though its current location prevents acurrate measurement. GME-013 actively and consistently emits a field of organically attractive material, since identified as diffused Earth Essance, which aggresively encourages growth of local flora and provides the resources necessary to do so.
+	GME-013 is a large glowing cyan-blue gemstone estimated to be roughly 36' in diameter, though its current location prevents acurrate measurement. GME-013 actively and consistently emits a field of organically attractive material, since identified as diffused Earth Essense, which aggresively encourages growth of local flora and provides the resources necessary to do so.
 
 	During the course of experimentation, GME-013 displayed signs of agression and intelligence by promoting the growth of flora nearby personnel investigating GME-013 in an attempt to entangle and trap them, which has reduced the number of accurate experiments that can be performed.
 ```
@@ -65,7 +65,9 @@ aliases:
 	Source: Terran (divine)
 	Last Known Keeper: KEEPER
 
-	Entry Description: GME-044 is to be stored in the Ritualistic Center of Site-004 within the hands of the statue. The Ritualistic Center is to be stationed by a rotating 72-hour guard of at least 2 personnel at a time, each of whom have graduated the GOAL-2a 'Nonactive Handling of Objects' program with a score of 6 or higher. Stationed personnel may spend participate in no more than 2 shifts in a 172-hour period.
+	Entry Description: GME-044 is to be stored in the Ritualistic Center of Site-004 within the hands of the statue. The Ritualistic Center is to be stationed by a rotating 72-hour guard of at least 2 personnel at a time, each of whom have graduated the GOAL-2a 'Nonactive Handling of Objects' program with a score of 6 or higher. Stationed personnel may participate in no more than 2 shifts in a 172-hour period.
+	
+	GME-044 is a head-sized cyan-blue gemstone. When any concious creature comes into contact with GME-044, it becomes active, and will begin to emit a thin stream of visibly blue gas
 ```
 
 ###### Ablation
@@ -98,11 +100,11 @@ aliases:
 	Source: Ventan (divine)
 	Last Known Keeper: Jasper's Angels
 
-	Entry Description: GME-047 is to be stored in the Warm Storage Sector of Vault 0 in a 30'x40'x20' darksteel storage container. 
+	Entry Description: GME-047 is to be stored in the Ritualistic Center of Site-018 within the sarcophagus. The Ritualistic Center is to be stationed by a rotation 72-hour guard of at least 2 personnel at a time, each of whom have graduated the GOAL-2a 'Nonactive Handling of Objects' program with a score of 8 or higher. Stationed personnel may participate in no more than 2 shifts in a 172-hour period.
 
-	GME-047 is a large 6'x4'x3' rectangular-cut slab of amber ~~that surrounds a complete skeleton of a small winged creature since determined to be a very young dragon~~. When any concious creature comes into contact with the GME-047, the subject and any other creatures within 20' of GME-047 will be transported via a Type-2 Planar Gate into a Consistent Extraplanar Instance that has informally become known as 'The Amber Den' among researchers and subjects. Described as a 'fractal nightmare' this CEI is a seemingly procedural or recursive complex of sap and amber rooms and halls. The purpose of the complex is hypothesised as a place of imprisonment (see Experiment Log 047-1 through -18). When a GME-047 instance is disabled, it will shatter into shards and release it's subjects from the CEI before another GME-047 instance will begin to form at the Ritualistic Center at Site-018.
+	GME-047 is a large 6'x4'x3' rectangular-cut slab of amber ~~that surrounds a complete skeleton of a small winged creature since determined to be a very young dragon~~. When any concious creature comes into contact with a GME-047 instance, the subject and any other creatures within 20' of GME-047 will be transported via a Type-2 Planar Gate into a Consistent Extraplanar Instance that has informally become known as 'The Amber Den' among researchers and subjects. Described as a 'fractal nightmare' this CEI is a seemingly procedural or recursive complex of sap and amber rooms and halls. The purpose of the complex is hypothesised as a place of imprisonment (see Experiment Log 047-1 through -18). When a GME-047 instance becomes disabled, it will shatter into shards and release it's subjects from the CEI before another GME-047 instance will begin to form at the Ritualistic Center at Site-018.
 
-	Since the Circle of Aquan came to occupy Site-018 in the early 80s, GME-047-1 was captured by indepentant contractors and sold to the SEASEC conglomerate, who in turn, aimed to sell GME-047-1 to the Guild. In this process, the adventuring party 'Jasper's Angels' were contracted to transport GME-047-1, and due to inadvetant activation, they entered 'The Amber Den'. Due to their actions there, GME-047-1 was disabled at this time, and another instance (GME-047-2) began to reform.
+	Since the Circle of Aquan came to occupy Site-018 in the early 80s, GME-047-1 was captured by indepentant contractors and sold to the SEASEC conglomerate, who in turn, aimed to sell GME-047-1 to the Guild. In this process, the adventuring party 'Jasper's Angels' were contracted to transport GME-047-1, and due to inadvetant activation, they entered 'The Amber Den'. Due to their actions within the CEI, GME-047-1 became disabled, and another instance (GME-047-2) began to form at this time.
 ```
 
 ###### Emulation
@@ -113,11 +115,11 @@ aliases:
 	Source: Animan (divine)
 	Last Known Keeper: KEEPER
 
-	Entry Description: GME-048 is to be stored in the Ritualistic Center of Site-048 on the central stone display. The Ritualistic Center is to be stationed by a rotating 18-hour guard of at least 4 personnel at a time, each of whom have graduated the GOAL-6c 'Identifying Illusiory Figures' program with a score of 8 or higher. Stationed personnel may spend participate in no more than 3 shifts in a 172-hour period.
+	Entry Description: GME-048 is to be stored in the Ritualistic Center of Site-048 on the central stone display. The Ritualistic Center is to be stationed by a rotating 16-hour guard of at least 4 personnel at a time, each of whom have graduated the GOAL-6c 'Identifying Illusiory Figures' program with a score of 8 or higher. Stationed personnel may spend participate in no more than 3 shifts in a 172-hour period.
 
-	GME-048, while non-active, is a large 3'x2'x6' slab of solid mercury, as confirmed by all current tests or identifying processes. While active, however, GME-048 is a relatively sized humanoid creature. Observers of the GME-048 fail to produce consistant descriptions while it is in an active state, both amongst eachother and themselves, suggesting that the creature manipulates what it is observed as for each observer.
+	GME-048, while non-active, is a large 3'x2'x6' slab of solid mercury, as confirmed by all current tests or identifying processes. While active, however, GME-048 is a medium sized humanoid creature. Observers of the GME-048 fail to produce consistant descriptions while it is in an active state, both amongst eachother and themselves, suggesting that the creature manipulates what it is observed as for each observer each time it is observed.
 
-	GME-048 has been stored in the Ritualistic Center of Site-048 under the control of the Circle of Animan's Druids for the entirety of recorded history. Requests for testing involving GME-048 to more precicely determine its properties have been and will be denied.
+	GME-048 has been stored in the Ritualistic Center of Site-048 under the control of the Circle of Animan's Druids for the entirety of recorded history. Requests for testing involving GME-048 have been and will continue to be denied.
 ```
 
 #### Gifts of the Dragons
@@ -135,7 +137,7 @@ aliases:
 
 		- GME-012-1 is a traditional wide-blade dagger made of an unknown bone-white metallic material, with a hemp cord wrapped grip. Once per day, when the wielder of this dagger speaks the command word, the blade of GME-012-1 will extend to a total length of 13 inches. After a period of 50-70 minutes, the effect ceases, and the blade of GME-012-1 retracts to its uneffected length.
 
-		- GME-012-2 is a serrated shiv made of an unknown bone-white metallic material and a very simple tang-grooved grip. Once per day, when the wielder of this dagger speaks the command word, GME-012-2 will dematerialize. After exactly 1 minute elapses, or when the command word is spoken again, the wielder dematerializes and immediately rematerializes with GME-012-2 in the space in which GME-012-2 dematerialized.
+		- GME-012-2 is a serrated shiv made of an unknown bone-white metallic material and a very simple tang-grooved grip. Once per day, when the wielder of this dagger speaks the command word, GME-012-2 will dematerialize. After exactly 1 minute elapses, or when the command word is spoken again, the wielder dematerializes and immediately rematerializes with GME-012-2 in the space and position at which GME-012-2 dematerialized.
 
 		- GME-012-3 is a karambit-blade dagger made of an unknown bone-white metallic material, with a tight black silk wrapped grip. Once per day, when the wielder of this dagger speaks the command word, GME-012-3 begins to emit a thick black smoke, which will surround the wielder in a 10' radius, until GME-012-3 ceases to emit the smoke after 30 seconds and it naturally dissapates. Extensive testing has revealed that this smoke is transparent to the wielder, and has no effect on range of vision or fine motor skills.  
 
@@ -143,7 +145,7 @@ aliases:
 
 		- GME-012-5 is a traditional wide-blade dagger made of an unknown bone-white metallic material with a leather-wrapped grip and a small pyramidic pommel. Once per day, when the wielder of this dagger speaks the command word, the blade of GME-012-5 begins to vibrate without causing damage to the form or discomfort to the user. The effect ceases after 3 minutes and 16 seconds.
 
-		- GME-012-6 is a thin stilletto dagger made of an unknown bone-white metallic material with an offensive pointed guard, and a leather-wrapped grip. Once per day, when the wielder of this dagger speaks the command word, the blade of GME-012-6 quickly becomes covered in a stinking green liquid that has since been identified as 'Black Dragon Bile'.
+		- GME-012-6 is a thin stilletto dagger made of an unknown bone-white metallic material with an offensive pointed guard, and a leather-wrapped grip. Once per day, when the wielder of this dagger speaks the command word, the blade of GME-012-6 quickly becomes covered in a stinking green liquid that has since been identified as the alchemical solution 'Green Ooze'.
 ```
 
 ###### Primalloy Scalemail
