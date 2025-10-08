@@ -187,7 +187,11 @@ We begin to take our rest for the night, and some floating lights approached us!
 We meet a swamp man named Bramble. He has a pet otter. The lizardfolk call themselves Vresk. The city is called Vresktal, and Bramble trades his swamp crystals there for charms and such. He said they grant protection from the natural threats, but he wouldn't immediately give us some, so I fucking killed him, and took them. 
 
 #### Session 15: Beyond the Cove... (cont.)
+*Screaming Bead Reeds* - Whenever an undead comes within 30ft it emits a scream audible from 120 feet.
 
+*Runed Bleached Skull* - While carried, 'Revenants' and similar undead have disadvantage against you, and you resist necrotic damage against them, and 1/day, command word those creatures must succeed on DC 15 Wisdom or be Turned.
+
+Vresk's Shack is Hallowed.
 
 ## Stats
 
