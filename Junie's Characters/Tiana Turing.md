@@ -193,6 +193,8 @@ We meet a swamp man named Bramble. He has a pet otter. The lizardfolk call thems
 
 Vresk's Shack is Hallowed. We take a nap and move on. To the swamp.
 
+We reach a fork, the left path has a cloak on a branch worn by a member of our crew!
+
 ## Stats
 
 | L. 5 | XP: 12,950 | / 14.0k | (1) Inspiration |
