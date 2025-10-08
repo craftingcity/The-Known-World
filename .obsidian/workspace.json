@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40cfb6678764f5a1",
+        "id": "d55ba7685e348d3a",
         "type": "tabs",
         "children": [
           {
-            "id": "90d2cff66df37296",
+            "id": "c5a9853f164364da",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,41 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tiana Turing"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ecd861ea01dcb7d3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b3f775c437a37cbc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tiana Turing"
+              "title": "Magical Items of Note"
             }
           }
         ]
@@ -333,7 +304,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3f775c437a37cbc",
+  "active": "c5a9853f164364da",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",

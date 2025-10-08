@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Tiana Turing",
-      "path": "Junie's Characters/Tiana Turing.md"
+      "basename": "Magical Items of Note",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
     },
     {
       "basename": "Alchemical Components",
       "path": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md"
+    },
+    {
+      "basename": "Tiana Turing",
+      "path": "Junie's Characters/Tiana Turing.md"
     },
     {
       "basename": "Alchemy Processes & Products",
@@ -195,10 +199,6 @@
     {
       "basename": "Waypoint Template",
       "path": "ORGANIZATION/TEMPLATES/Waypoint Template.md"
-    },
-    {
-      "basename": "Watches Template",
-      "path": "ORGANIZATION/TEMPLATES/Watches Template.md"
     }
   ],
   "omittedPaths": [],
