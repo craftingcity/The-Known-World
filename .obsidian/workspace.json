@@ -6,6 +6,7 @@
       {
         "id": "d55ba7685e348d3a",
         "type": "tabs",
+        "dimension": 63.90952059419311,
         "children": [
           {
             "id": "c5a9853f164364da",
@@ -81,6 +82,7 @@
       {
         "id": "a4a687bdb67661d4",
         "type": "tabs",
+        "dimension": 36.09047940580689,
         "children": [
           {
             "id": "73d0e32185fcc0bd",
@@ -155,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wheernat",
+                "query": "Litigation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -379,7 +381,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5a9853f164364da",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",

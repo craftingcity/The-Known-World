@@ -63,7 +63,7 @@ aliases:
 	Threat Level: BLUE
 	Entry Class: TRINKET
 	Source: Terran (divine)
-	Last Known Keeper: Communal, Site-004
+	Last Known Keeper: Arrek Bozkin
 
 	Entry Description: GME-044 is to be stored in the Ritualistic Center of Site-004 within the hands of the statue. The Ritualistic Center is to be stationed by a rotating 72-hour guard of at least 2 personnel at a time, each of whom have graduated the GOAL-2a 'Nonactive Handling of Objects' program with a score of 6 or higher. Stationed personnel may participate in no more than 2 shifts in a 172-hour period.
 	
@@ -666,7 +666,7 @@ aliases:
 	Source: The Old Man (TL-O uncontained, assumed deceased)
 	Last Known Keeper: Kakurak & Marcus
 
-	Entry Description: GME-002 is stored on a hanging rack within Vault 3's Freeform sector.
+	Entry Description: GME-002 is stored on a hanging rack within Vault 3's Cold Storage sector.
 
 	GME-002 is a small white-dragonhide cloak with a sapphire clasp. In addition to its material proporties, GME-002 provides its user with a personal atmosphere that proportionaly increases in temperature as the external atmostphere decreases in temperature. This results in the user experiencing a mild warmth even in externally freezing temperatures.
 ```
@@ -729,7 +729,7 @@ aliases:
 
 		GME-001 has been, to our knowledge, the host of exactly two adventuring parties to date, those being first the Grey Ordeal, and second the Hatdroppers. In both the parties' time with GME-001, they have made additions to the assosiated CEIs in such a manner that they together act as a mobile base of operations, including a barracks, a kitchen, a storage room, a garden, an alchemistry labratory, a tinker's workshop, a prison, and a spa.
 
-	Researcher Notes: The modern concpet of extradimensional storage is almost certainly a result of the creation of GME-001 and it's use by legendary adventuring parties, so we can blame the Old Man for all our paperwork.
+	Researcher Notes: The modern concept of extradimensional storage is almost certainly a result of the creation of GME-001 and it's use by legendary adventuring parties, so we can blame the Old Man for the new flood of paperwork.
 ```
 
 ### Rule of the Coalition c.080AF
@@ -750,8 +750,8 @@ aliases:
 	- GME-049-C4 instances are to be released to the Guild of Merchants within 3 weeks of their processing.
 
 	GME-049 is a collective identifier for the objects that qualify under the following designation classes:
-		- GME-049-C1 are instance objects capable of instantly forming and collapsing a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance at the will of it's wielder.
-		- GME-049-C2 are instance objects capable of forming a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance, and capable of manipulating the pysical size of their own Gate Entrance within a radius of 3', extending the physical size of the instance's Gate Entrance. 
+		- GME-049-C1 are instance objects capable of instantly forming and collapsing a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance within a radius of and at the will of it's wielder.
+		- GME-049-C2 are instance objects capable of forming a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance, and capable of manipulating the size of their own Gate Entrance. 
 		- GME-049-C3 are instance objects capable of forming a Type-2 Planar Gate pointed at one infinite Consistant Extraplanar Instance, and incapable of manipulating the size of their own Gate Entrance.
 		- GME-049-C4 are instance objects capable of forming a Type-2 Planar Gate pointed at one finite Consistant Extraplanar Instance, and incapable of manipulating the size of their own Gate Entrance.
 
