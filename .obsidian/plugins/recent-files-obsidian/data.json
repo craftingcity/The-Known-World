@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "Tiana Turing",
       "path": "Junie's Characters/Tiana Turing.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Waypoint Template",
       "path": "ORGANIZATION/TEMPLATES/Waypoint Template.md"
-    },
-    {
-      "basename": "Watches Template",
-      "path": "ORGANIZATION/TEMPLATES/Watches Template.md"
     }
   ],
   "omittedPaths": [],

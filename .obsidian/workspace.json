@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40cfb6678764f5a1",
+        "id": "91a1bb7085f8f84c",
         "type": "tabs",
         "children": [
           {
-            "id": "90d2cff66df37296",
+            "id": "b5ae8843a3d09350",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,41 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tiana Turing"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ecd861ea01dcb7d3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b3f775c437a37cbc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tiana Turing"
+              "title": "Untitled"
             }
           }
         ]
@@ -333,8 +304,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3f775c437a37cbc",
+  "active": "b5ae8843a3d09350",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Junie's Characters/Tiana Turing.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Campaign Rosters/Campaign Rosters.md",
@@ -351,7 +324,6 @@
     "Game Notes/Prenotes/'25/Prenotes Sep 10 25.md",
     "Game Notes/Prenotes/'25/Prenotes Sep 13 25.md",
     "Game Notes/Prenotes/'25/Prenotes Oct 04 25.md",
-    "Untitled.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
@@ -363,7 +335,6 @@
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Languages.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Strength As Carrying Capacity.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy",
     "DATABASE.base",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
