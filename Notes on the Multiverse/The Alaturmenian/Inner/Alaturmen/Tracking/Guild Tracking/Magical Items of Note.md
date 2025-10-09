@@ -82,7 +82,7 @@ aliases:
 	Source: Ignan (divine)
 	Last Known Keeper: KEEPER
 
-	Entry Description: ...
+	Entry Description: GME-045 is to be stored within Vault 4's Warm Storage Sector in a 12'x12'x12' cube of pure force.
 ```
 
 ###### Litigation

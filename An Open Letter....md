@@ -6,6 +6,6 @@ In an effort to organize my thoughts on the state of the campaign, I am creating
 	- So far, each of the different hostiles we have encountered are acting *oddly*. What I mean by this is; the wild animals are holding space against our frontline fighters, or fully commit to fights instead of slash-and-grabbing one of us to eat, while the tool-wielding near-human-intelligence faction fighters are engaging us seemingly territorially and without advantage - though we haven't made contact with enough for my taste or to form an opinion on your use of them.
 - *Choices / Saying No*
 	- In my opinion, while we are DMing, our default response should be "Yes, but...", where so far yours has been a flat "No."; We can't stray from the path, we can't retcon the simple things, we can't find what we're looking for. It's okay to say No sometimes, of course, but the hard No is so discouraging.
- - As a party, we have a goal - get off the island - and maybe that means we need to do some certain things, but we have no way to achieve those certain things excepting "follow the path, fight the baddies".
-  - Additionally, We know about the places that are interesting because you marked them down on the map, so spending so much time in between these important and interesting places 
+	 - As a party, we have a goal - get off the island - and maybe that means we need to do some certain things, but we have no way to achieve those certain things excepting "follow the path, fight the baddies".
+		 - Additionally, We know about the places that are interesting because you marked them down on the map. Spending so much time *in between* these important and interesting places makes me bored. 
 - *Keeping Your Secrets*
