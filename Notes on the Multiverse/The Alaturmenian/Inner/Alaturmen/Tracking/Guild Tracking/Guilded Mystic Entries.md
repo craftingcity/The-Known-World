@@ -33,7 +33,7 @@ All entries are given a Threat Level based on its most harmful potential. The Th
 ### Entry Classes
 All entries are given a Class based on the physicality of the entry. The Entry Classes are as follows;
 	- **TRINKET** ; The entry is a physical item that can be carried or worn by or on a person.
-	- **MATERIAL** ; The entry is a physical material from which many items can be created.
+	- **MATERIAL** ; The entry is a physical material from which other items can be created.
 	- **FORM** ; The entry is a physical item or entity deemed blessed with sentience.
 	- **KNACK** ; The entry is a physical item that cannot be worn or carried by or on a person.
 	- **SIGNAL** ; The entry is a non-physical item or entity.
@@ -60,5 +60,5 @@ The Description of the Entry must include the following information about the ob
 	- Type-1 Planar Gates are temporary or instantaneous instances of travel between points within a plane.
 	- Type-2 Planar Gates are consistently replicable instances of travel from a point within a plane to a Consistent Extraplanar Instance. (*Consistent Extraplanar Instances have no effect or symmetry with the Major Planes.*)
 	- Type-3 Planar Gates are temporary or instantaneous instances of travel from a point within a plane to an inconsistent point within another Major Plane.
-	- Type-4 Planar Gates are consistently replicable instances of travel from a consistent point within a plane to another consistent point within another Major Plane.
+	- Type-4 Planar Gates are consistently replicable instances of travel from a point within a plane to a consistent point within another Major Plane.
 - The Guild of Adventurer Lectures (*GOAL*) program services members of the Guilds with relevant skills and procedures while dealing with [[Magical Items of Note]].

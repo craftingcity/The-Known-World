@@ -22,12 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "An Open Letter....md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "An Open Letter..."
             }
           }
         ]
@@ -306,7 +306,8 @@
   },
   "active": "b5ae8843a3d09350",
   "lastOpenFiles": [
-    "Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "An Open Letter....md",
     "Junie's Characters/Tiana Turing.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
@@ -333,7 +334,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Languages.md",
-    "conflict-files-obsidian-git.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alchemy Processes & Products.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy",
     "DATABASE.base",
