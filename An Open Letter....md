@@ -1,6 +1,8 @@
 In an effort to organize my thoughts on the state of the campaign, I am creating an unordered list of thoughts. Fundamentally, I am dissatisfied by the current state.
 
 - *Tactics*
-	- So far, each of the different hostiles we have encountered are utilizing the same 'second wave' style deployment strategy, and have 
+	- So far, each of the different hostiles we have encountered are utilizing the same 'second wave' style deployment strategy. There is always a second group - of roughly a third or a half the size of the first - that will arrive as the first group begins to take casualties. I'm simply bored of 
+	- So far, each of the different hostiles we have encountered are utilizing some form of debilitating crowd control, some way of holding someone where they are or taking their turn entirely.
+		- I understand that it presents a sincere element of danger, but while it does so, it removes choices from individual players and the party as a whole. Actually damaging someone leaves room for them to make choices while they are still conscious, while presenting at least the same level of danger if not more. 
 - *Choices / Saying No*
 - *Keeping Your Secrets*
