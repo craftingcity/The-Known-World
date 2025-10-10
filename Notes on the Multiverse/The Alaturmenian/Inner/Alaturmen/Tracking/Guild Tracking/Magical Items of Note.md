@@ -86,7 +86,7 @@ aliases:
 	
 	GME-045 is a glowing red fist-sized gemstone that continually generates a spherical field ranging from 3" to just under 21" that reduces any solids or liquids into their gaseous form.
 	
-	GME-045 was held in a perpetual stasis at Site-101 by members of the Circle of Ignan before it was contained and collected by members of the Guild 
+	GME-045 was held in a perpetual stasis at Site-101 by members of the Circle of Ignan before it was contained and collected by members of the Guild in 088AF, and 
 ```
 
 ###### Litigation
