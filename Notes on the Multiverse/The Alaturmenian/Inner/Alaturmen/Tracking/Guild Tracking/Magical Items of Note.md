@@ -82,7 +82,9 @@ aliases:
 	Source: Ignan (divine)
 	Last Known Keeper: KEEPER
 
-	Entry Description: GME-045 is to be stored within Vault 4's Warm Storage Sector in a 12'x12'x12' cube of pure force.
+	Entry Description: GME-045 is to be stored within Vault 4's Warm Storage Sector in a cube of pure force over 2' in each diameter.
+	
+	GME-045 is a glowing red fist-sized gemstone that generates a spherical field ranging from 3" to just under 21" that reduces any solids or liquids into their 
 ```
 
 ###### Litigation

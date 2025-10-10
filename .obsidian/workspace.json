@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vault",
+                "query": "f",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
