@@ -80,13 +80,13 @@ aliases:
 	Threat Level: RED
 	Entry Class: TRINKET
 	Source: Ignan (divine)
-	Last Known Keeper: KEEPER
+	Last Known Keeper: Quartermaster, Vault 4
 
 	Entry Description: GME-045 is stored within Vault 4's Warm Storage Sector in a cube of pure force over 2' in each diameter.
 	
 	GME-045 is a glowing red fist-sized gemstone that continually generates a spherical field ranging from 3" to just under 21" that reduces any solids or liquids into their gaseous form.
 	
-	GME-045 was held in a perpetual stasis at Site-101 by members of the Circle of Ignan before it was contained and collected by members of the Guild in 088AF, and 
+	GME-045 was held in a perpetual stasis at Site-101 by members of the Circle of Ignan before it was contained and collected by members of the Guild in 088AF, and transfered to Vault 4.
 ```
 
 ###### Litigation
