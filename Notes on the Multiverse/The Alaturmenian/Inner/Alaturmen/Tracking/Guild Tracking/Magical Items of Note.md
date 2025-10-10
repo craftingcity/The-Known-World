@@ -16,7 +16,7 @@ aliases:
 	Source: 'The Progenitor' (TL-O uncontained unidentified)
 	Last Known Keeper: Quartermaster, Vault 0
 
-	Entry Description: GME-000 is stored within Vault 0's Warm Storage sector across 9 cells - each of which are at least 500' from any other TL-O cells, and must change monthly - in a series of identical 10'x8'x1' darksteel closets. In each of these closets is a set of rods on which the GME-000 instance rests. A system of mechanics powered by a crank on the left-facing exterior moves the rods to the corners of the closet, such that the instance is pulled taught into a rectangle.
+	Entry Description: GME-000 instances are to be stored within Vault 0's Warm Storage sector across 9 cells - each of which are at least 500' from any other TL-O cells, and must change monthly - in a series of identical 10'x8'x1' darksteel closets. In each of these closets is a set of rods on which the GME-000 instance rests. A system of mechanics powered by a crank on the left-facing exterior moves the rods to the corners of the closet, such that the instance is pulled taught into a rectangle.
 
 		GME-000 is a set of 9 identical 16' loops of iron chain, each of which is *assumedly* attuned to one of the nine most distant planes of the universe. The Guild controls of 2 of the total 9 instances of GME-000. While the GME-000 instance is not crossed into a lemniscate, a 'figure eight' or 'hourglass' shape, the instance is non-active, and will act as assumed. If the instance is crossed into a lemniscate, it becomes active, and creates a pair of Type-4 Planar Gates of the attuned plane in the circular sections of the leminscate.
 
@@ -82,9 +82,11 @@ aliases:
 	Source: Ignan (divine)
 	Last Known Keeper: KEEPER
 
-	Entry Description: GME-045 is to be stored within Vault 4's Warm Storage Sector in a cube of pure force over 2' in each diameter.
+	Entry Description: GME-045 is stored within Vault 4's Warm Storage Sector in a cube of pure force over 2' in each diameter.
 	
-	GME-045 is a glowing red fist-sized gemstone that generates a spherical field ranging from 3" to just under 21" that reduces any solids or liquids into their 
+	GME-045 is a glowing red fist-sized gemstone that continually generates a spherical field ranging from 3" to just under 21" that reduces any solids or liquids into their gaseous form.
+	
+	GME-045 was held in a perpetual stasis at Site-101 by members of the Circle of Ignan before it was contained and collected by members of the Guild 
 ```
 
 ###### Litigation
