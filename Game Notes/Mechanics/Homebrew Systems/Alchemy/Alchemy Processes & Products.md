@@ -59,8 +59,6 @@ The Electrolysistem is a magical lab-grade electrolysis equipment, usually a spe
 The Auspex Scope is a magical lab-grade identification equipment, usually a set of two or more [[#Auspex Lens]] in a stable rotating cylinder.
 
 ---
-# Alchemical Productions (WIP)
-`dont copy-paste until the whole grid is finished...`
 
 # Productions
 ## Material
@@ -125,6 +123,7 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 - 16 pound Pine Needles (21.60sp)
 - 2 pounds Bone dust (7.00sp)
 	- 1 sq. yard Elvenfiber (30.00sp / sq. yard)
+
 #### Alchemical Fabric
 ## Consumable
 ### Potions
@@ -157,6 +156,7 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Blight Venom
 #### Stone Blood
 #### Weakmind
+#### Torrin's Bane
 #### King's Last Drink
 #### Asphyxium
 #### Petrifica
@@ -188,6 +188,8 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 ### Vices
 #### Glimmer
 #### Dareanamon
+#### Bulbkiss
+#### Nova
 #### Liquid Joy
 #### Liquid Calm
 #### Liquid Fear
@@ -199,6 +201,7 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 ### Adventuring
 #### Liquid Light
 #### Suregrip
+#### Alchemical Explosive
 #### Everlight Wax
 #### Spellsmoke Wax
 #### Violet Emitter
@@ -207,16 +210,15 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Auspex Lens
 #### Precounter Charm
 ### Storage
-#### Bag of Holding, Grade 4
-#### Bag of Holding, Grade 3
-#### Bag of Holding, Grade 2
-#### Bag of Holding, Grade 1
+#### of Holding, Grade 4
+#### of Holding, Grade 3
 ### Enchanting
 #### Soma Gel
 #### Kylao Gel
 #### Animan's Tears
 #### Enchanter's Ink
 #### Enchanter's Acid
+#### Alchemical Chalk
 #### Spell Gem
 ### Production
 #### Philosopher's Stone
@@ -273,6 +275,9 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Essence of Prevention
 #### Essence of Removal
 #### Essence of Faith
+### Magical Inscriptions
+#### Stone of Far Speech
+
 ---
 
 ### Tools
