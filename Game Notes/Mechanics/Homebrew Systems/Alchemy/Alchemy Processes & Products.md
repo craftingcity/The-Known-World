@@ -74,6 +74,10 @@ A glittering black metal produced by an advanced chain of alchemical and metallu
 #### Chaotic Gold
 A gold that devolves into elemental force when overly agitated.
 
+**Ingredients**;
+- 8 pounds Gold (880.00sp)
+- 1 ounce Essence of Dragon ()
+
 #### Adjust Bronze
 A bronze that shrinks and spreads to the whims of its design.
 
@@ -125,6 +129,7 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 	- 1 sq. yard Elvenfiber (30.00sp / sq. yard)
 
 #### Alchemical Fabric
+
 ## Consumable
 ### Potions
 #### of Healing
@@ -150,6 +155,7 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### of False Death
 #### of Cure Disease
 #### of Astral Projection
+
 ### Poisons
 #### Traditional
 #### Debilitation
@@ -168,6 +174,7 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Green Gas
 #### Black Gas
 #### Poisoner's Matrix
+
 ### Medicines
 #### Druid's Dust
 #### Nalasculas
@@ -185,6 +192,7 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Cognitive Driver
 #### Immuno Secundus
 #### Elysian Petal
+
 ### Vices
 #### Glimmer
 #### Dareanamon
@@ -197,6 +205,7 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Liquid Greed
 #### Liquid Love
 #### Liquid Potentia
+
 ## Equipment
 ### Adventuring
 #### Liquid Light
@@ -209,9 +218,11 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Purity Lens
 #### Auspex Lens
 #### Precounter Charm
+
 ### Storage
 #### of Holding, Grade 4
 #### of Holding, Grade 3
+
 ### Enchanting
 #### Soma Gel
 #### Kylao Gel
@@ -220,6 +231,7 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Enchanter's Acid
 #### Alchemical Chalk
 #### Spell Gem
+
 ### Production
 #### Philosopher's Stone
 #### Red Water
@@ -229,6 +241,7 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Atmos Sphere
 #### Asphyx Sphere
 #### Simulacrum
+
 ### Manipulation
 #### Miner's Savior
 #### Immobility Core
@@ -245,11 +258,30 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Aether Host
 #### Zero Point Emitter
 #### Four Point Emitter
+
 ## Other
 ### Essences
 #### Essence of Earth
+An elemental essence of natural growth and heart.
+
+**Ingredients**;
+- 40 ounce Polypore, Yellow (124.00sp)
+	- > 1 ounce Essence of Earth (150.00sp)
+
 #### Essence of Water
+An elemental essence of life and liquid.
+
+**Ingredients**;
+- 40 ounce Polypore, Blue (140.00sp)
+	- > 1 ounce Essence of Water (175.00sp)
+
 #### Essence of Fire
+An elemental essence of heat and destruction.
+
+**Ingredients**;
+- 40 ounce Polypore, Red (144.00sp)
+	- > 1 ounce Essence of Fire (175.00sp)
+
 #### Essence of Air
 #### Essence of Health
 #### Essence of Pestilence
@@ -275,6 +307,7 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Essence of Prevention
 #### Essence of Removal
 #### Essence of Faith
+
 ### Magical Inscriptions
 #### Stone of Far Speech
 

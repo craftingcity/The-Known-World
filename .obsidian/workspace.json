@@ -37,6 +37,35 @@
             }
           }
         ]
+      },
+      {
+        "id": "75ad520834857e80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2b08596a599b4cb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Alchemical Components"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -313,12 +342,12 @@
   },
   "active": "c57783a9b3c4ea90",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "An Open Letter....md",
     "conflict-files-obsidian-git.md",
     "Junie's Characters/Tiana Turing.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Campaign Rosters/Campaign Rosters.md",
     "Game Notes/Mechanics/Mechanics.md",
     "Game Notes/NPCs/NPCs.md",
