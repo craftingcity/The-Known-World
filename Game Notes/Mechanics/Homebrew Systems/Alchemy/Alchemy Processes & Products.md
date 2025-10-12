@@ -290,10 +290,20 @@ An elemental essence of gas and velocity.
 	- > 1 ounce of Essence of Air (175.00sp)
 
 #### Essence of Health
+An inner essence of life and growth.
+
 #### Essence of Pestilence
+An inner essence of death and rot.
+
 #### Essence of Deception
+An inner essence of lies and imagery.
+
 #### Essence of Light
+An inner essence of light and joy.
+
 #### Essence of Arcana
+An inner essence of instruction and law.
+
 #### Essence of Density
 #### Essence of Mutation
 #### Essence of Acidity
