@@ -65,13 +65,13 @@ aliases:
 	Source: Terran (divine)
 	Last Known Keeper: Arrek Bozkin
 
-	Entry Description: GME-044 is to be stored in the Ritualistic Center of Site-004 within the hands of the statue. The Ritualistic Center is to be stationed by a rotating 72-hour guard of at least 2 personnel at a time, each of whom have graduated the GOAL-2a 'Nonactive Handling of Objects' program with a score of 6 or higher. Stationed personnel may participate in no more than 2 shifts in a 172-hour period.
+	Entry Description: GME-044 is to be stored in the Ritualistic Center of Site-004 within the hands of the statue. The Ritualistic Center is to be stationed by a rotating 72-hour guard of at least 2 personnel at a time, each of whom have graduated the GOAL-2a 'Nonactive Handling of Objects' program with a score of 6 or higher. Stationed personnel may participate in no more than 1 shifts in a 172-hour period.
 	
 	GME-044 is a head-sized cyan-blue gemstone. When any concious creature comes into contact with GME-044, it becomes active, and will begin to emit a thin stream of visibly blue gas at an unoccupied point within 10' of the subject. As the gas coalesces, it forms itself into a rough copy of the subject (GME-044-1). GME-044 returns to an inactive state upon the complete coalescence of GME-044-1.
 	
 	GME-044-1 instances are pysically incorporeal, and will act independantly of their subject upon their coalescence. Testing has revealed that all GME-044-1 instances will cease existance within 48 hours, during which time the instance will travel towards the northern border of the Wildlands, at which point they will halt, and spend the remainder of their existance pointing northwards, out into the distance. No instance has yet crossed the boundry markers into the Wildlands. 
 	
-	GME-044 was captured and transported to the Wheernat Hillkeep in the early 90s by members of the SEASEC conglomerate and other independant contracters, where it has since remained.
+	GME-044 was captured from Site-004 and transported to the Wheernat Hillkeep in the early 90s by members of the SEASEC conglomerate and other independant contracters, where it has since remained in the hands of Arrek Bozkin.
 ```
 
 ###### Ablation
@@ -95,9 +95,11 @@ aliases:
 	Threat Level: PURPLE
 	Entry Class: TRINKET
 	Source: Aquan (divine)
-	Last Known Keeper: KEEPER
+	Last Known Keeper: Communal, Site-004
 
-	Entry Description: GME-046 is stored in 
+	Entry Description: GME-046 is stored in the Ritualistic Center of Site-004 within the display on the eastern wall. The Ritualistic Center is to be stationed by a rotating 72-hour guard of at least 2 personnel at a time, each of whom have graduated the GOAL-2a 'Nonactive Handling of Objects' program with a score of 6 or higher. Stationed personnel may participate in no more than 1 shifts in a 172-hour period.
+	
+	GME-046 is a quarter-inch thick sheet of pink-white leather of unknown origin on which a length of text has been enscribed. Research suggests the language of the text is of extraplanar origin, and, at the time of record, the content of the text remains unknown. While GME-046 is stored within the display on the eastern wall of Site-004, GME-046 becomes active, and an illusiory image (GME-046-1) surfaces upon the wall, displaying a series of front-facing busts depicting a person above a length of text in the extraplanar language present on GME-046. While the exact correlation is still unknown at time of record, extensive research suggests that more than half of the subjects displayed upon GME-046-1
 ```
 
 ###### Fixation
