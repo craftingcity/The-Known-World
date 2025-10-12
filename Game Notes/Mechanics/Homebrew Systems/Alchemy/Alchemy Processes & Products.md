@@ -63,6 +63,16 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 # Productions
 ## Material
 ### Solids
+
+| Name (Source)                 | Mechanic | Cost @ Market | Regions Producing |
+| ----------------------------- | -------- | ------------- | ----------------- |
+| Darksteel (*Iron*)            |          |               |                   |
+| Chaotic Gold (*Gold*)         |          |               |                   |
+| Adjust Bronze (*Copper, Tin*) |          |               |                   |
+| Pure Force                    |          |               |                   |
+| Hardlight                     |          |               |                   |
+| Materiael Falsifus            |          |               |                   |
+
 #### Darksteel
 A glittering black metal produced by an advanced chain of alchemical and metallurgic processes. One of the strongest metals processed by Alatermenians today.
 
@@ -88,6 +98,13 @@ A transparent material of outstanding strength and rigidity, Pure Force is made 
 #### Materiael Falsifus
 
 ### Composites
+
+| Name (Source)            | Mechanic | Cost @ Market | Regions Producing |
+| ------------------------ | -------- | ------------- | ----------------- |
+| Firepowder (*Sulphur*)   |          |               |                   |
+| Alchemical Clay (*Clay*) |          |               |                   |
+|                          |          |               |                   |
+
 #### Firepowder
 A dark grey powder that explodes when agitated. 
 
@@ -100,6 +117,13 @@ A dark grey powder that explodes when agitated.
 #### Alchemical Clay
 
 ### Liquids & Oils
+
+| Name (Source)          | Mechanic | Cost @ Market | Regions Producing |
+| ---------------------- | -------- | ------------- | ----------------- |
+| Dark Oil (*Crude Oil*) |          |               |                   |
+| Gasoline (*Crude Oil*) |          |               |                   |
+| Hummpo (*Crude Oil*)   |          |               |                   |
+
 #### Dark Oil
 A glittering, darker-than-black oil created via the introduction of Bitumen to Crude Oil as it is being refined, Dark Oil is used in the production of Darksteel, Pressigen, and other intermediate products.
 
@@ -112,6 +136,13 @@ A glittering, darker-than-black oil created via the introduction of Bitumen to C
 #### Hummpo
 
 ### Textiles
+
+| Name (Source)               | Mechanic | Cost @ Market | Regions Producing |
+| --------------------------- | -------- | ------------- | ----------------- |
+| Pressigen (*Dark Oil*)      |          |               |                   |
+| Elven Fiber (*Pine Needle*) |          |               |                   |
+| Alchemical Fabric (*Linen*) |          |               |                   |
+
 #### Pressigen
 A matte black material of advanced alchemical origin, Pressigen is hydrophobic, flexible, and incredibly tough.
 
@@ -132,6 +163,33 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 
 ## Consumable
 ### Potions
+
+| Name (Source)               | Mechanic | Cost @ Market | Regions Producing |
+| --------------------------- | -------- | ------------- | ----------------- |
+| ... of Healing              |          |               |                   |
+| ... of Vitality             |          |               |                   |
+| ... of Rejuvenation         |          |               |                   |
+| ... of Physical Resistance  |          |               |                   |
+| ... of Elemental Resistance |          |               |                   |
+| ... of Poison Resistance    |          |               |                   |
+| ... of Strong Mind          |          |               |                   |
+| ... of Mobility             |          |               |                   |
+| ... of Haste                |          |               |                   |
+| ... of Weightlessness       |          |               |                   |
+| ... of Flight               |          |               |                   |
+| ... of Water Breathing      |          |               |                   |
+| ... of Liquid Form          |          |               |                   |
+| ... of Gaseous Form         |          |               |                   |
+| ... of Detect Extraplanar   |          |               |                   |
+| ... of Dragon's Breath      |          |               |                   |
+| ... of Detect Mortal        |          |               |                   |
+| ... of Ethereal Sight       |          |               |                   |
+| ... of True Sight           |          |               |                   |
+| ... of False Life           |          |               |                   |
+| ... of False Death          |          |               |                   |
+| ... of Cure Disease         |          |               |                   |
+| ... of Astral Projection    |          |               |                   |
+
 #### of Healing
 #### of Vitality
 #### of Rejuvenation
@@ -157,6 +215,27 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### of Astral Projection
 
 ### Poisons
+
+| Name (Source)       | Mechanic | Cost @ Market | Regions Producing |
+| ------------------- | -------- | ------------- | ----------------- |
+| Traditional Poison  |          |               |                   |
+| Debilitation Poison |          |               |                   |
+| Blight Venom        |          |               |                   |
+| Stone Blood Poison  |          |               |                   |
+| Weakmind Poison     |          |               |                   |
+| Torrin's Bane       |          |               |                   |
+| King's Last Drink   |          |               |                   |
+| Asphyxium           |          |               |                   |
+| Petrifica           |          |               |                   |
+| Sensorcompra        |          |               |                   |
+| Ashmaker Dust       |          |               |                   |
+| Sleeping Stone Dust |          |               |                   |
+| Yellow Gas          |          |               |                   |
+| Brown Gas           |          |               |                   |
+| Green Gas           |          |               |                   |
+| Black Gass          |          |               |                   |
+| Poisoner's Matrix   |          |               |                   |
+
 #### Traditional
 #### Debilitation
 #### Blight Venom
@@ -176,6 +255,19 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Poisoner's Matrix
 
 ### Medicines
+
+| Name (Source)         | Mechanic | Cost @ Market | Regions Producing |
+| --------------------- | -------- | ------------- | ----------------- |
+| Druid's Dust          |          |               |                   |
+| Nalasculas            |          |               |                   |
+| Generalized Antivenom |          |               |                   |
+| Aerotide              |          |               |                   |
+| Ambebamol             |          |               |                   |
+| Amorphia              |          |               |                   |
+| Pretokarin            |          |               |                   |
+| Scar Balm             |          |               |                   |
+| Bone                       |          |               |                   |
+
 #### Druid's Dust
 #### Nalasculas
 #### Generalized Antivenom
@@ -194,6 +286,11 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Elysian Petal
 
 ### Vices
+
+| Name (Source) | Mechanic | Cost @ Market | Regions Producing |
+| ------------- | -------- | ------------- | ----------------- |
+|               |          |               |                   |
+
 #### Glimmer
 #### Dareanamon
 #### Bulbkiss
@@ -208,6 +305,11 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 
 ## Equipment
 ### Adventuring
+
+| Name (Source) | Mechanic | Cost @ Market | Regions Producing |
+| ------------- | -------- | ------------- | ----------------- |
+|               |          |               |                   |
+
 #### Liquid Light
 #### Suregrip
 #### Alchemical Explosive
@@ -220,10 +322,20 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Precounter Charm
 
 ### Storage
+
+| Name (Source) | Mechanic | Cost @ Market | Regions Producing |
+| ------------- | -------- | ------------- | ----------------- |
+|               |          |               |                   |
+
 #### of Holding, Grade 4
 #### of Holding, Grade 3
 
 ### Enchanting
+
+| Name (Source) | Mechanic | Cost @ Market | Regions Producing |
+| ------------- | -------- | ------------- | ----------------- |
+|               |          |               |                   |
+
 #### Soma Gel
 #### Kylao Gel
 #### Animan's Tears
@@ -233,6 +345,11 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Spell Gem
 
 ### Production
+
+| Name (Source) | Mechanic | Cost @ Market | Regions Producing |
+| ------------- | -------- | ------------- | ----------------- |
+|               |          |               |                   |
+
 #### Philosopher's Stone
 #### Red Water
 #### Yellow Powder
@@ -243,6 +360,11 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Simulacrum
 
 ### Manipulation
+
+| Name (Source) | Mechanic | Cost @ Market | Regions Producing |
+| ------------- | -------- | ------------- | ----------------- |
+|               |          |               |                   |
+
 #### Miner's Savior
 #### Immobility Core
 #### Heatcore
@@ -261,6 +383,11 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 
 ## Other
 ### Essences
+
+| Name (Source) | Mechanic | Cost @ Market | Regions Producing |
+| ------------- | -------- | ------------- | ----------------- |
+|               |          |               |                   |
+
 #### Essence of Earth
 An elemental essence of natural growth and heart.
 
@@ -325,6 +452,11 @@ An inner essence of instruction and law.
 #### Essence of Faith
 
 ### Magical Inscriptions
+
+| Name (Source) | Mechanic | Cost @ Market | Regions Producing |
+| ------------- | -------- | ------------- | ----------------- |
+|               |          |               |                   |
+
 #### Stone of Far Speech
 
 ---
