@@ -82,7 +82,7 @@ aliases:
 	Source: Ignan (divine)
 	Last Known Keeper: Quartermaster, Vault 4
 
-	Entry Description: GME-045 is stored within Vault 4's Warm Storage Sector in a cube of pure force over 2' in each diameter.
+	Entry Description: GME-045 is stored within Vault 4's Warm Storage Sector in a cube of pure force over 2' in each diameter and of a thickness no less than 3".
 	
 	GME-045 is a glowing red fist-sized gemstone that continually generates a spherical field ranging from 3" to just under 21" that reduces any solids or liquids into their gaseous form.
 	
@@ -99,7 +99,11 @@ aliases:
 
 	Entry Description: GME-046 is stored in the Ritualistic Center of Site-004 within the display on the eastern wall. The Ritualistic Center is to be stationed by a rotating 72-hour guard of at least 2 personnel at a time, each of whom have graduated the GOAL-2a 'Nonactive Handling of Objects' program with a score of 6 or higher. Stationed personnel may participate in no more than 1 shifts in a 172-hour period.
 	
-	GME-046 is a quarter-inch thick sheet of pink-white leather of unknown origin on which a length of text has been enscribed. Research suggests the language of the text is of extraplanar origin, and, at the time of record, the content of the text remains unknown. While GME-046 is stored within the display on the eastern wall of Site-004, GME-046 becomes active, and an illusiory image (GME-046-1) surfaces upon the wall, displaying a series of front-facing busts depicting a person above a length of text in the extraplanar language present on GME-046. While the exact correlation is still unknown at time of record, extensive research suggests that more than half of the subjects displayed upon GME-046-1
+	GME-046 is a quarter-inch thick sheet of pink-white leather of unknown origin on which a length of text has been enscribed. Research suggests the language of the text is of extraplanar origin, and, at the time of record, the content of the text remains unknown. While GME-046 is stored within the display on the eastern wall of Site-004, GME-046 becomes active, and an illusiory image (GME-046-1) surfaces upon the wall, displaying a series of front-facing busts depicting a person above a length of text in the extraplanar language present on GME-046. Extensive monitoring and research suggests that more than half of the subjects displayed upon GME-046-1 are arrested or fined for at least one legal infraction or crime within 3 months, and more than four-fifths of the subjects are arrested or fined within 9 months. 
+	
+	The working hypothesis of the purpose of GME-046 are as follows; GME-046 either causes this correlation - somehow forcing these people to commit crimes or otherwise be found guilty of them - or GME-046 observes and reports these crimes as GME-046-1 while they are occuring or immediately after they have occured. Neither of these hypothesis can be proven at the time of record.
+	
+	GME-046 has been stored in the Ritualistic Center of Site-004 under the control of the Circle of Aquan's Druids for the entirety of recorded history.
 ```
 
 ###### Fixation
