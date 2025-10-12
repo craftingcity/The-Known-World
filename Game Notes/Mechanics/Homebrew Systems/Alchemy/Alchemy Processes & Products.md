@@ -95,6 +95,8 @@ A dark grey powder that explodes when agitated.
 - 3 pounds Charcoal (0.45sp)
 	- > 5 pounds Firepowder (1.75sp) > (0.35sp / pound)
 
+#### Alchemical Clay
+
 ### Liquids & Oils
 #### Dark Oil
 A glittering, darker-than-black oil created via the introduction of Bitumen to Crude Oil as it is being refined, Dark Oil is used in the production of Darksteel, Pressigen, and other intermediate products.
@@ -123,13 +125,16 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 - 16 pound Pine Needles (21.60sp)
 - 2 pounds Bone dust (7.00sp)
 	- 1 sq. yard Elvenfiber (30.00sp / sq. yard)
-
+#### Alchemical Fabric
 ## Consumable
 ### Potions
 #### of Healing
 #### of Vitality
 #### of Rejuvenation
-#### of Resistance
+#### of Physical Resistance
+#### of Elemental Resistance
+#### of Poison Resistance
+#### of Strong Mind
 #### of Mobility
 #### of Haste
 #### of Weightlessness
@@ -140,8 +145,12 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### of Detect Extraplanar
 #### of Dragon's Breath
 #### of Detect Mortal
-#### of Ethereal Sense
+#### of Ethereal Sight
+#### of True Sight
+#### of False Life
+#### of False Death
 #### of Cure Disease
+#### of Astral Projection
 ### Poisons
 #### Traditional
 #### Debilitation
@@ -151,18 +160,21 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### King's Last Drink
 #### Asphyxium
 #### Petrifica
+#### Sensorcompra
 #### Ashmaker Dust
 #### Sleeping Stone Dust
 #### Yellow Gas
 #### Brown Gas
 #### Green Gas
 #### Black Gas
+#### Poisoner's Matrix
 ### Medicines
 #### Druid's Dust
 #### Nalasculas
 #### Generalized Antivenom
 #### Aerotide
 #### Ambebamol
+#### Amorphia
 #### Pretokarin
 #### Scar Balm
 #### Bone Balm
@@ -170,6 +182,8 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Isiopara
 #### Secreclude Propaterol
 #### Seeker Symbiote
+#### Cognitive Driver
+#### Immuno Secundus
 #### Elysian Petal
 ### Vices
 #### Glimmer
@@ -177,18 +191,33 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Liquid Joy
 #### Liquid Calm
 #### Liquid Fear
+#### Liquid Rage
+#### Liquid Greed
+#### Liquid Love
 #### Liquid Potentia
 ## Equipment
-### Adventering
+### Adventuring
 #### Liquid Light
 #### Suregrip
 #### Everlight Wax
 #### Spellsmoke Wax
 #### Violet Emitter
+#### Lightswitch
 #### Purity Lens
+#### Auspex Lens
+#### Precounter Charm
+### Storage
+#### Bag of Holding, Grade 4
+#### Bag of Holding, Grade 3
+#### Bag of Holding, Grade 2
+#### Bag of Holding, Grade 1
 ### Enchanting
 #### Soma Gel
 #### Kylao Gel
+#### Animan's Tears
+#### Enchanter's Ink
+#### Enchanter's Acid
+#### Spell Gem
 ### Production
 #### Philosopher's Stone
 #### Red Water
@@ -197,6 +226,7 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Bottled Thunderstorm
 #### Atmos Sphere
 #### Asphyx Sphere
+#### Simulacrum
 ### Manipulation
 #### Miner's Savior
 #### Immobility Core
@@ -205,36 +235,44 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Heat Snare
 #### Bloody Vessel
 #### Fleshmould
+#### Polyphorma
+#### Spell Sieve
+#### Realism Ward
+#### Reality Spike
+#### Planar Anchor
+#### Aether Host
+#### Zero Point Emitter
+#### Four Point Emitter
 ## Other
 ### Essences
 #### Essence of Earth
 #### Essence of Water
 #### Essence of Fire
 #### Essence of Air
-#### Essence of Healing
-#### Essence of Disease
-#### Essence of Illusion
+#### Essence of Health
+#### Essence of Pestilence
+#### Essence of Deception
 #### Essence of Light
 #### Essence of Arcana
-#### Essence of Weight
-#### Essence of Form
-#### Essence of Poison
-#### Essence of Desist
-#### Essence of Divine
-#### Essence of Regenerate
-#### Essence of Necrot
-#### Essence of Degenerate
-#### Essence of Fabrim
-#### Essence of Charm
-#### Essence of Evoke
-#### Essence of Immute
-#### Essence of Dunam
-#### Essence of Immort
+#### Essence of Density
+#### Essence of Mutation
+#### Essence of Acidity
+#### Essence of Ending
+#### Essence of Divinity
+#### Essence of Growth
+#### Essence of Rot
+#### Essence of Undoing
+#### Essence of Creation
+#### Essence of Conversation
+#### Essence of Action
+#### Essence of Immutability
+#### Essence of Time
+#### Essence of Timelessness
 #### Essence of Dragon
-#### Essence of Mortal
-#### Essence of Abjure
-#### Essence of Bane
-#### Essence of Spirit
+#### Essence of Mortality
+#### Essence of Prevention
+#### Essence of Removal
+#### Essence of Faith
 ---
 
 ### Tools
