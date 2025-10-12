@@ -126,24 +126,54 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 
 ## Consumable
 ### Potions
-#### of Water Breathing
+#### of Healing
 #### of Vitality
+#### of Rejuvenation
 #### of Resistance
+#### of Mobility
+#### of Haste
 #### of Weightlessness
+#### of Flight
+#### of Water Breathing
 #### of Liquid Form
+#### of Gaseous Form
 #### of Detect Extraplanar
 #### of Dragon's Breath
 #### of Detect Mortal
 #### of Ethereal Sense
+#### of Cure Disease
 ### Poisons
 #### Traditional
+#### Debilitation
+#### Blight Venom
 #### Stone Blood
+#### Weakmind
+#### King's Last Drink
+#### Asphyxium
+#### Petrifica
 #### Ashmaker Dust
 #### Sleeping Stone Dust
+#### Yellow Gas
 #### Brown Gas
+#### Green Gas
+#### Black Gas
 ### Medicines
 #### Druid's Dust
+#### Nalasculas
+#### Generalized Antivenom
+#### Aerotide
+#### Ambebamol
+#### Pretokarin
+#### Scar Balm
+#### Bone Balm
+#### Heamox Balm
+#### Isiopara
+#### Secreclude Propaterol
+#### Seeker Symbiote
+#### Elysian Petal
 ### Vices
+#### Glimmer
+#### Dareanamon
 #### Liquid Joy
 #### Liquid Calm
 #### Liquid Fear
@@ -153,19 +183,28 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Liquid Light
 #### Suregrip
 #### Everlight Wax
+#### Spellsmoke Wax
+#### Violet Emitter
+#### Purity Lens
 ### Enchanting
+#### Soma Gel
+#### Kylao Gel
 ### Production
 #### Philosopher's Stone
 #### Red Water
 #### Yellow Powder
-#### Alchemical Flame
 #### Kelvin's Wick
+#### Bottled Thunderstorm
+#### Atmos Sphere
+#### Asphyx Sphere
 ### Manipulation
 #### Miner's Savior
 #### Immobility Core
 #### Heatcore
 #### Minute Snare
 #### Heat Snare
+#### Bloody Vessel
+#### Fleshmould
 ## Other
 ### Essences
 #### Essence of Earth
