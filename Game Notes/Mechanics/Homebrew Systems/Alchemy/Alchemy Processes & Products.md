@@ -59,8 +59,6 @@ The Electrolysistem is a magical lab-grade electrolysis equipment, usually a spe
 The Auspex Scope is a magical lab-grade identification equipment, usually a set of two or more [[#Auspex Lens]] in a stable rotating cylinder.
 
 ---
-# Alchemical Productions (WIP)
-`dont copy-paste until the whole grid is finished...`
 
 # Productions
 ## Material
@@ -76,11 +74,18 @@ A glittering black metal produced by an advanced chain of alchemical and metallu
 #### Chaotic Gold
 A gold that devolves into elemental force when overly agitated.
 
+**Ingredients**;
+- 8 pounds Gold (880.00sp)
+- 1 ounce Essence of Dragon ()
+
 #### Adjust Bronze
 A bronze that shrinks and spreads to the whims of its design.
 
 #### Pure Force
 A transparent material of outstanding strength and rigidity, Pure Force is made and manipulated of and with arcane implementation.
+
+#### Hardlight
+#### Materiael Falsifus
 
 ### Composites
 #### Firepowder
@@ -92,6 +97,8 @@ A dark grey powder that explodes when agitated.
 - 3 pounds Charcoal (0.45sp)
 	- > 5 pounds Firepowder (1.75sp) > (0.35sp / pound)
 
+#### Alchemical Clay
+
 ### Liquids & Oils
 #### Dark Oil
 A glittering, darker-than-black oil created via the introduction of Bitumen to Crude Oil as it is being refined, Dark Oil is used in the production of Darksteel, Pressigen, and other intermediate products.
@@ -100,6 +107,9 @@ A glittering, darker-than-black oil created via the introduction of Bitumen to C
 - 15 gallons Crude Oil (3.75sp)
 - 1 pound Bitumen dust (0.45sp)
 	- > 16 gallons Dark Oil (4.20sp) > (0.30sp / gallon)
+
+#### Gasoline
+#### Hummpo
 
 ### Textiles
 #### Pressigen
@@ -118,38 +128,194 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 - 2 pounds Bone dust (7.00sp)
 	- 1 sq. yard Elvenfiber (30.00sp / sq. yard)
 
+#### Alchemical Fabric
+
 ## Consumable
+### Potions
+#### of Healing
+#### of Vitality
+#### of Rejuvenation
+#### of Physical Resistance
+#### of Elemental Resistance
+#### of Poison Resistance
+#### of Strong Mind
+#### of Mobility
+#### of Haste
+#### of Weightlessness
+#### of Flight
+#### of Water Breathing
+#### of Liquid Form
+#### of Gaseous Form
+#### of Detect Extraplanar
+#### of Dragon's Breath
+#### of Detect Mortal
+#### of Ethereal Sight
+#### of True Sight
+#### of False Life
+#### of False Death
+#### of Cure Disease
+#### of Astral Projection
+
+### Poisons
+#### Traditional
+#### Debilitation
+#### Blight Venom
+#### Stone Blood
+#### Weakmind
+#### Torrin's Bane
+#### King's Last Drink
+#### Asphyxium
+#### Petrifica
+#### Sensorcompra
+#### Ashmaker Dust
+#### Sleeping Stone Dust
+#### Yellow Gas
+#### Brown Gas
+#### Green Gas
+#### Black Gas
+#### Poisoner's Matrix
+
+### Medicines
+#### Druid's Dust
+#### Nalasculas
+#### Generalized Antivenom
+#### Aerotide
+#### Ambebamol
+#### Amorphia
+#### Pretokarin
+#### Scar Balm
+#### Bone Balm
+#### Heamox Balm
+#### Isiopara
+#### Secreclude Propaterol
+#### Seeker Symbiote
+#### Cognitive Driver
+#### Immuno Secundus
+#### Elysian Petal
+
+### Vices
+#### Glimmer
+#### Dareanamon
+#### Bulbkiss
+#### Nova
+#### Liquid Joy
+#### Liquid Calm
+#### Liquid Fear
+#### Liquid Rage
+#### Liquid Greed
+#### Liquid Love
+#### Liquid Potentia
+
 ## Equipment
+### Adventuring
+#### Liquid Light
+#### Suregrip
+#### Alchemical Explosive
+#### Everlight Wax
+#### Spellsmoke Wax
+#### Violet Emitter
+#### Lightswitch
+#### Purity Lens
+#### Auspex Lens
+#### Precounter Charm
+
+### Storage
+#### of Holding, Grade 4
+#### of Holding, Grade 3
+
+### Enchanting
+#### Soma Gel
+#### Kylao Gel
+#### Animan's Tears
+#### Enchanter's Ink
+#### Enchanter's Acid
+#### Alchemical Chalk
+#### Spell Gem
+
+### Production
+#### Philosopher's Stone
+#### Red Water
+#### Yellow Powder
+#### Kelvin's Wick
+#### Bottled Thunderstorm
+#### Atmos Sphere
+#### Asphyx Sphere
+#### Simulacrum
+
+### Manipulation
+#### Miner's Savior
+#### Immobility Core
+#### Heatcore
+#### Minute Snare
+#### Heat Snare
+#### Bloody Vessel
+#### Fleshmould
+#### Polyphorma
+#### Spell Sieve
+#### Realism Ward
+#### Reality Spike
+#### Planar Anchor
+#### Aether Host
+#### Zero Point Emitter
+#### Four Point Emitter
+
 ## Other
 ### Essences
 #### Essence of Earth
+An elemental essence of natural growth and heart.
+
+**Ingredients**;
+- 40 ounce Polypore, Yellow (124.00sp)
+	- > 1 ounce Essence of Earth (150.00sp)
+
 #### Essence of Water
+An elemental essence of life and liquid.
+
+**Ingredients**;
+- 40 ounce Polypore, Blue (140.00sp)
+	- > 1 ounce Essence of Water (175.00sp)
+
 #### Essence of Fire
+An elemental essence of heat and destruction.
+
+**Ingredients**;
+- 40 ounce Polypore, Red (144.00sp)
+	- > 1 ounce Essence of Fire (175.00sp)
+
 #### Essence of Air
-#### Essence of Healing
-#### Essence of Disease
-#### Essence of Illusion
+An elemental essence of gas and velocity.
+
+**Ingredients**;
+- 12 ounce Head of Lamb (144.00sp)
+	- > 1 ounce of Essence of Air (175.00sp)
+
+#### Essence of Health
+#### Essence of Pestilence
+#### Essence of Deception
 #### Essence of Light
 #### Essence of Arcana
-#### Essence of Weight
-#### Essence of Form
-#### Essence of Poison
-#### Essence of Desist
-#### Essence of Divine
-#### Essence of Regenerate
-#### Essence of Necrot
-#### Essence of Degenerate
-#### Essence of Fabrim
-#### Essence of Charm
-#### Essence of Evoke
-#### Essence of Immute
-#### Essence of Dunam
-#### Essence of Immort
+#### Essence of Density
+#### Essence of Mutation
+#### Essence of Acidity
+#### Essence of Ending
+#### Essence of Divinity
+#### Essence of Growth
+#### Essence of Rot
+#### Essence of Undoing
+#### Essence of Creation
+#### Essence of Conversation
+#### Essence of Action
+#### Essence of Immutability
+#### Essence of Time
+#### Essence of Timelessness
 #### Essence of Dragon
-#### Essence of Mortal
-#### Essence of Abjure
-#### Essence of Bane
-#### Essence of Spirit
+#### Essence of Mortality
+#### Essence of Prevention
+#### Essence of Removal
+#### Essence of Faith
+
+### Magical Inscriptions
+#### Stone of Far Speech
 
 ---
 
