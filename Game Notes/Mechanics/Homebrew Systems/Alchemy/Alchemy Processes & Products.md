@@ -377,7 +377,7 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 | Bottled Thunderstorm |          |               |                   |
 | Atmos Sphere         |          |               |                   |
 | Asphyx Sphere        |          |               |                   |
-| Simulacrum                     |          |               |                   |
+| Simulacrum           |          |               |                   |
 
 #### Philosopher's Stone
 #### Red Water
@@ -456,7 +456,7 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 | ... of Mortality    |          |               |                   |
 | ... of Prevention   |          |               |                   |
 | ... of Removal      |          |               |                   |
-| ... of Faith                    |          |               |                   |
+| ... of Faith        |          |               |                   |
 
 #### Essence of Earth
 An elemental essence of natural growth and heart.
@@ -489,11 +489,26 @@ An elemental essence of gas and velocity.
 #### Essence of Health
 An inner essence of life and growth.
 
+**Ingredients**;
+- 20 carat Jade (200.00sp)
+- 30 ounce Cannabis (9.00sp)
+	- > 1 ounce Essence of Health (300.00sp)
+
 #### Essence of Pestilence
 An inner essence of death and rot.
 
+**Ingredients**;
+- 15 ounce Citrus Essence (202.50sp)
+- 30 ounce Lavander (12.00sp)
+	- 1 ounce Essence of Pestilence (300.00sp)
+
 #### Essence of Deception
 An inner essence of lies and imagery.
+
+**Ingredients**;
+- 20 ounce Scale of Fish (40.00sp)
+- 12 ounce Eye of Frog (240.00sp)
+	- > 1 ounce of Essence of Deception (400.00sp)
 
 #### Essence of Light
 An inner essence of light and joy.
@@ -514,21 +529,49 @@ An inner essence of chemistry and reaction.
 An outer essence of ending.
 
 #### Essence of Divinity
-An outer essence of div
+An outer essence of divinity.
+
 #### Essence of Growth
+An outer essence of growth.
+
 #### Essence of Rot
+An outer essence of rot.
+
 #### Essence of Undoing
+An outer essence of undoing.
+
 #### Essence of Creation
+An outer essence of creation.
+
 #### Essence of Conversation
+An outer essence of conversation.
+
 #### Essence of Action
+An outer essence of action.
+
 #### Essence of Immutability
+An outer essence of immutability.
+
 #### Essence of Time
+An outer essence of time.
+
 #### Essence of Timelessness
+An outer essence of timelessness.
+
 #### Essence of Dragon
+An outer essence of draconics.
+
 #### Essence of Mortality
+An outer essence of mortality.
+
 #### Essence of Prevention
+An outer essence of prevention.
+
 #### Essence of Removal
+An outer essence of removal.
+
 #### Essence of Faith
+An outer essence of faith.
 
 ### Magical Inscriptions
 

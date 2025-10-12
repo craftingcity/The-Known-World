@@ -4,39 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "45c78d72b520f013",
-        "type": "tabs",
-        "dimension": 22.822417285617824,
-        "children": [
-          {
-            "id": "f3edf00429e85632",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Homebrew Alchemy System"
-            }
-          }
-        ]
-      },
-      {
         "id": "b4712f0735ddb0d6",
         "type": "tabs",
-        "dimension": 77.17758271438217,
         "children": [
           {
             "id": "126f51eacf0af961",
@@ -59,6 +28,35 @@
               },
               "icon": "lucide-file",
               "title": "Alchemy Processes & Products"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ce81914b545bfd1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68c985ee6c9bc68b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Alchemical Components"
             }
           }
         ]
@@ -165,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5080032348633
+    "width": 359.5080032348633,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -335,10 +334,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "126f51eacf0af961",
+  "active": "68c985ee6c9bc68b",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
