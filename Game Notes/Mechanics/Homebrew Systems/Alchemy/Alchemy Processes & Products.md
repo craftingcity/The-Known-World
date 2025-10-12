@@ -82,6 +82,9 @@ A bronze that shrinks and spreads to the whims of its design.
 #### Pure Force
 A transparent material of outstanding strength and rigidity, Pure Force is made and manipulated of and with arcane implementation.
 
+#### Hardlight
+#### Materiael Falsifus
+
 ### Composites
 #### Firepowder
 A dark grey powder that explodes when agitated. 
@@ -101,6 +104,9 @@ A glittering, darker-than-black oil created via the introduction of Bitumen to C
 - 1 pound Bitumen dust (0.45sp)
 	- > 16 gallons Dark Oil (4.20sp) > (0.30sp / gallon)
 
+#### Gasoline
+#### Hummpo
+
 ### Textiles
 #### Pressigen
 A matte black material of advanced alchemical origin, Pressigen is hydrophobic, flexible, and incredibly tough.
@@ -119,7 +125,47 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 	- 1 sq. yard Elvenfiber (30.00sp / sq. yard)
 
 ## Consumable
+### Potions
+#### of Water Breathing
+#### of Vitality
+#### of Resistance
+#### of Weightlessness
+#### of Liquid Form
+#### of Detect Extraplanar
+#### of Dragon's Breath
+#### of Detect Mortal
+#### of Ethereal Sense
+### Poisons
+#### Traditional
+#### Stone Blood
+#### Ashmaker Dust
+#### Sleeping Stone Dust
+#### Brown Gas
+### Medicines
+#### Druid's Dust
+### Vices
+#### Liquid Joy
+#### Liquid Calm
+#### Liquid Fear
+#### Liquid Potentia
 ## Equipment
+### Adventering
+#### Liquid Light
+#### Suregrip
+#### Everlight Wax
+### Enchanting
+### Production
+#### Philosopher's Stone
+#### Red Water
+#### Yellow Powder
+#### Alchemical Flame
+#### Kelvin's Wick
+### Manipulation
+#### Miner's Savior
+#### Immobility Core
+#### Heatcore
+#### Minute Snare
+#### Heat Snare
 ## Other
 ### Essences
 #### Essence of Earth
@@ -150,7 +196,6 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Essence of Abjure
 #### Essence of Bane
 #### Essence of Spirit
-
 ---
 
 ### Tools
