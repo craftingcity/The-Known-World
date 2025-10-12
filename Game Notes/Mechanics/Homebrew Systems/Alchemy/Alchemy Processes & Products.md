@@ -283,6 +283,12 @@ An elemental essence of heat and destruction.
 	- > 1 ounce Essence of Fire (175.00sp)
 
 #### Essence of Air
+An elemental essence of gas and velocity.
+
+**Ingredients**;
+- 12 ounce Head of Lamb (144.00sp)
+	- > 1 ounce of Essence of Air (175.00sp)
+
 #### Essence of Health
 #### Essence of Pestilence
 #### Essence of Deception
