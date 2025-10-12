@@ -77,7 +77,7 @@ aliases:
 ###### Ablation
 ```
 	GME-045 "ABLATION"
-	Threat Level: RED
+	Threat Level: PURPLE
 	Entry Class: TRINKET
 	Source: Ignan (divine)
 	Last Known Keeper: Quartermaster, Vault 4
@@ -97,7 +97,7 @@ aliases:
 	Source: Aquan (divine)
 	Last Known Keeper: KEEPER
 
-	Entry Description: ...
+	Entry Description: GME-046 is stored in 
 ```
 
 ###### Fixation

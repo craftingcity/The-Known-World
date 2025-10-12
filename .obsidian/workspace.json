@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "628f93396d06b25f",
+        "id": "be657bbfa33f0773",
         "type": "tabs",
         "children": [
           {
-            "id": "c409a9f399e9b34b",
+            "id": "30b266394db8ff88",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,12 +22,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "An Open Letter....md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "An Open Letter..."
+              "title": "Magical Items of Note"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a362027efeff9c11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0416fbbebb1dd7f9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Guilded Mystic Entries"
             }
           }
         ]
@@ -304,13 +333,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c409a9f399e9b34b",
+  "active": "30b266394db8ff88",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-    "Game Notes/Prenotes/'23/Prenotes Nov 15 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Nov 06 23.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "An Open Letter....md",
+    "conflict-files-obsidian-git.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 15 23.md",
+    "Game Notes/Prenotes/'23/Prenotes Nov 06 23.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Campaign Rosters/Campaign Rosters.md",
@@ -334,7 +364,6 @@
     "Game Notes/Prenotes/'25/Prenotes Feb 04 25.md",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy",
     "DATABASE.base",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",

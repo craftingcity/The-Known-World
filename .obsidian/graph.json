@@ -6,17 +6,25 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#folderfile  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.683972602739726,
   "lineSizeMultiplier": 0.683972602739726,
   "collapse-forces": false,
-  "centerStrength": 0.19041095890411,
-  "repelStrength": 11.8082191780822,
+  "centerStrength": 0,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.10834974173821088,
+  "scale": 0.16893754722585191,
   "close": false
 }
