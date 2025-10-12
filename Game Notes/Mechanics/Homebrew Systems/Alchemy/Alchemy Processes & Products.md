@@ -64,14 +64,14 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 ## Material
 ### Solids
 
-| Name (Source)                 | Mechanic | Cost @ Market | Regions Producing |
-| ----------------------------- | -------- | ------------- | ----------------- |
-| Darksteel (*Iron*)            |          |               |                   |
-| Chaotic Gold (*Gold*)         |          |               |                   |
-| Adjust Bronze (*Copper, Tin*) |          |               |                   |
-| Pure Force                    |          |               |                   |
-| Hardlight                     |          |               |                   |
-| Materiael Falsifus            |          |               |                   |
+| Name (Source)                 | Mechanic | Cost @ Market  | Regions Producing |
+| ----------------------------- | -------- | -------------- | ----------------- |
+| Darksteel (*Iron*)            |          | 2.75sp / pound |                   |
+| Chaotic Gold (*Gold*)         |          |                |                   |
+| Adjust Bronze (*Copper, Tin*) |          |                |                   |
+| Pure Force                    |          |                |                   |
+| Hardlight                     |          |                |                   |
+| Materiael Falsifus            |          |                |                   |
 
 #### Darksteel
 A glittering black metal produced by an advanced chain of alchemical and metallurgic processes. One of the strongest metals processed by Alatermenians today.
@@ -79,7 +79,7 @@ A glittering black metal produced by an advanced chain of alchemical and metallu
 **Ingredients**;
 - 4 gallons Dark Oil (1.20sp)
 - 1 pound Iron dust (1.20sp)
-	- > 1 pound Darksteel (2.60sp / pound)
+	- > 1 pound Darksteel (2.75sp / pound)
 
 #### Chaotic Gold
 A gold that devolves into elemental force when overly agitated.
@@ -103,7 +103,6 @@ A transparent material of outstanding strength and rigidity, Pure Force is made 
 | ------------------------ | -------- | ------------- | ----------------- |
 | Firepowder (*Sulphur*)   |          |               |                   |
 | Alchemical Clay (*Clay*) |          |               |                   |
-|                          |          |               |                   |
 
 #### Firepowder
 A dark grey powder that explodes when agitated. 
@@ -266,7 +265,14 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 | Amorphia              |          |               |                   |
 | Pretokarin            |          |               |                   |
 | Scar Balm             |          |               |                   |
-| Bone                       |          |               |                   |
+| Bone Balm             |          |               |                   |
+| Heamox Balm           |          |               |                   |
+| Isiopara              |          |               |                   |
+| Secreculde Propaterol |          |               |                   |
+| Seeker Symbiote       |          |               |                   |
+| Cognitive Driver      |          |               |                   |
+| Immuno-Secundus       |          |               |                   |
+| Elysian Petal         |          |               |                   |
 
 #### Druid's Dust
 #### Nalasculas
@@ -282,14 +288,24 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Secreclude Propaterol
 #### Seeker Symbiote
 #### Cognitive Driver
-#### Immuno Secundus
+#### Immuno-Secundus
 #### Elysian Petal
 
 ### Vices
 
-| Name (Source) | Mechanic | Cost @ Market | Regions Producing |
-| ------------- | -------- | ------------- | ----------------- |
-|               |          |               |                   |
+| Name (Source)   | Mechanic | Cost @ Market | Regions Producing |
+| --------------- | -------- | ------------- | ----------------- |
+| Glimmer         |          |               |                   |
+| Dareanamon      |          |               |                   |
+| Bulbkiss        |          |               |                   |
+| Nova            |          |               |                   |
+| Liquid Joy      |          |               |                   |
+| Liquid Calm     |          |               |                   |
+| Liquid Fear     |          |               |                   |
+| Liquid Rage     |          |               |                   |
+| Liquid Greed    |          |               |                   |
+| Liquid Love     |          |               |                   |
+| Liquid Potentia |          |               |                   |
 
 #### Glimmer
 #### Dareanamon
@@ -306,9 +322,18 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 ## Equipment
 ### Adventuring
 
-| Name (Source) | Mechanic | Cost @ Market | Regions Producing |
-| ------------- | -------- | ------------- | ----------------- |
-|               |          |               |                   |
+| Name (Source)        | Mechanic | Cost @ Market | Regions Producing |
+| -------------------- | -------- | ------------- | ----------------- |
+| Liquid Light         |          |               |                   |
+| Suregrip             |          |               |                   |
+| Alchemical Explosive |          |               |                   |
+| Everlight Wax        |          |               |                   |
+| Spellsmoke Wax       |          |               |                   |
+| Violet Emitter       |          |               |                   |
+| Lightswitch          |          |               |                   |
+| Purity Lens          |          |               |                   |
+| Auspex Lens          |          |               |                   |
+| Precounter Charm     |          |               |                   |
 
 #### Liquid Light
 #### Suregrip
@@ -321,20 +346,17 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 #### Auspex Lens
 #### Precounter Charm
 
-### Storage
-
-| Name (Source) | Mechanic | Cost @ Market | Regions Producing |
-| ------------- | -------- | ------------- | ----------------- |
-|               |          |               |                   |
-
-#### of Holding, Grade 4
-#### of Holding, Grade 3
-
 ### Enchanting
 
-| Name (Source) | Mechanic | Cost @ Market | Regions Producing |
-| ------------- | -------- | ------------- | ----------------- |
-|               |          |               |                   |
+| Name (Source)    | Mechanic | Cost @ Market | Regions Producing |
+| ---------------- | -------- | ------------- | ----------------- |
+| Soma Gel         |          |               |                   |
+| Kylao Gel        |          |               |                   |
+| Animan's Tears   |          |               |                   |
+| Enchanter's Ink  |          |               |                   |
+| Enchanter's Acid |          |               |                   |
+| Alchemical Chalk |          |               |                   |
+| Spell Gem        |          |               |                   |
 
 #### Soma Gel
 #### Kylao Gel
@@ -346,9 +368,16 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 
 ### Production
 
-| Name (Source) | Mechanic | Cost @ Market | Regions Producing |
-| ------------- | -------- | ------------- | ----------------- |
-|               |          |               |                   |
+| Name (Source)        | Mechanic | Cost @ Market | Regions Producing |
+| -------------------- | -------- | ------------- | ----------------- |
+| Philosopher's Stone  |          |               |                   |
+| Red Water            |          |               |                   |
+| Yellow Powder        |          |               |                   |
+| Kelvin's Wick        |          |               |                   |
+| Bottled Thunderstorm |          |               |                   |
+| Atmos Sphere         |          |               |                   |
+| Asphyx Sphere        |          |               |                   |
+| Simulacrum                     |          |               |                   |
 
 #### Philosopher's Stone
 #### Red Water
@@ -361,9 +390,23 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 
 ### Manipulation
 
-| Name (Source) | Mechanic | Cost @ Market | Regions Producing |
-| ------------- | -------- | ------------- | ----------------- |
-|               |          |               |                   |
+| Name (Source)      | Mechanic | Cost @ Market | Regions Producing |
+| ------------------ | -------- | ------------- | ----------------- |
+| Miner's Savior     |          |               |                   |
+| Immobility Core    |          |               |                   |
+| Heatcore           |          |               |                   |
+| Minute Snare       |          |               |                   |
+| Heat Snare         |          |               |                   |
+| Bloody Vessel      |          |               |                   |
+| Fleshmould         |          |               |                   |
+| Polyphormia        |          |               |                   |
+| Spell Sieve        |          |               |                   |
+| Realism Ward       |          |               |                   |
+| Reality Spike      |          |               |                   |
+| Planar Anchor      |          |               |                   |
+| Aether Host        |          |               |                   |
+| Zero Point Emitter |          |               |                   |
+| Four Point Emitter |          |               |                   |
 
 #### Miner's Savior
 #### Immobility Core
@@ -384,9 +427,36 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 ## Other
 ### Essences
 
-| Name (Source) | Mechanic | Cost @ Market | Regions Producing |
-| ------------- | -------- | ------------- | ----------------- |
-|               |          |               |                   |
+| Name (Source)       | Mechanic | Cost @ Market | Regions Producing |
+| ------------------- | -------- | ------------- | ----------------- |
+| ... of Earth        |          |               |                   |
+| ... of Water        |          |               |                   |
+| ... of Fire         |          |               |                   |
+| ... of Air          |          |               |                   |
+| ... of Health       |          |               |                   |
+| ... of Pestilence   |          |               |                   |
+| ... of Deception    |          |               |                   |
+| ... of Light        |          |               |                   |
+| ... of Arcana       |          |               |                   |
+| ... of Density      |          |               |                   |
+| ... of Mutation     |          |               |                   |
+| ... of Acidity      |          |               |                   |
+| ... of Ending       |          |               |                   |
+| ... of Divinity     |          |               |                   |
+| ... of Growth       |          |               |                   |
+| ... of Rot          |          |               |                   |
+| ... of Undoing      |          |               |                   |
+| ... of Creation     |          |               |                   |
+| ... of Conversation |          |               |                   |
+| ... of Action       |          |               |                   |
+| ... of Immutability |          |               |                   |
+| ... of Time         |          |               |                   |
+| ... of Timelessness |          |               |                   |
+| ... of Dragon       |          |               |                   |
+| ... of Mortality    |          |               |                   |
+| ... of Prevention   |          |               |                   |
+| ... of Removal      |          |               |                   |
+| ... of Faith                    |          |               |                   |
 
 #### Essence of Earth
 An elemental essence of natural growth and heart.
@@ -432,10 +502,19 @@ An inner essence of light and joy.
 An inner essence of instruction and law.
 
 #### Essence of Density
+An inner essence of gravity and mass.
+
 #### Essence of Mutation
+An inner essence of change and difference.
+
 #### Essence of Acidity
+An inner essence of chemistry and reaction.
+
 #### Essence of Ending
+An outer essence of ending.
+
 #### Essence of Divinity
+An outer essence of div
 #### Essence of Growth
 #### Essence of Rot
 #### Essence of Undoing
@@ -453,11 +532,15 @@ An inner essence of instruction and law.
 
 ### Magical Inscriptions
 
-| Name (Source) | Mechanic | Cost @ Market | Regions Producing |
-| ------------- | -------- | ------------- | ----------------- |
-|               |          |               |                   |
+| Name (Source)           | Mechanic | Cost @ Market | Regions Producing |
+| ----------------------- | -------- | ------------- | ----------------- |
+| ... of Far Speech       |          |               |                   |
+| ... of Holding, Grade 4 |          |               |                   |
+| ... of Holding, Grade 3 |          |               |                   |
 
-#### Stone of Far Speech
+#### of Far Speech
+#### of Holding, Grade 4
+#### of Holding, Grade 3
 
 ---
 
