@@ -597,21 +597,35 @@ An outer essence of undoing.
 An outer essence of creation.
 
 **Ingredients**;
+- 30 pounds Clay (19.5)
+- 60 ounces Honey (9.00sp)
+- 5 carat Onyx (375.00sp)
+	- > 1 ounce Essence of Creation (500.00sp)
 
 #### Essence of Conversation
 An outer essence of conversation.
 
 **Ingredients**;
+- 15 ounce Foxglove (240.00sp)
+- 50 ounce Tobacco (5.00sp)
+- 20 ounce Smokebulb (150.00sp)
+	- > 1 ounce Essence of Conversation (500.00sp)
 
 #### Essence of Action
 An outer essence of action.
 
 **Ingredients**;
+- 30 ounce Alkanet (255.00sp)
+- 50 ounce Oak Bark (175.00sp)
+	- > 1 ounce Essence of Action (500.00sp)
 
 #### Essence of Immutability
 An outer essence of immutability.
 
 **Ingredients**;
+- 15 pounds Amber (225.00sp)
+- 15 ounces Ironwood Shavings (277.50sp)
+	- > 1 ounce Essence of Immutability ()
 
 #### Essence of Time
 An outer essence of time.
