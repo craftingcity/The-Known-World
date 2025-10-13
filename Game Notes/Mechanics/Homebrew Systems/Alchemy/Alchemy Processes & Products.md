@@ -531,6 +531,8 @@ An inner essence of instruction and law.
 An inner essence of gravity and mass.
 
 **Ingredients**;
+- 100 ounce Ginko Leaf (230.00sp)
+	- > 1 ounce Essence of Density (300.00sp)
 
 #### Essence of Mutation
 An inner essence of change and difference.
