@@ -625,12 +625,15 @@ An outer essence of immutability.
 **Ingredients**;
 - 15 pounds Amber (225.00sp)
 - 15 ounces Ironwood Shavings (277.50sp)
-	- > 1 ounce Essence of Immutability ()
+	- > 1 ounce Essence of Immutability (675.00sp)
 
 #### Essence of Time
 An outer essence of time.
 
 **Ingredients**;
+- 15 pounds Gold (1650.00sp)
+- 5 carat Durandurm (2375.00sp)
+	- 1 ounce Essence of Time (5.5k sp)
 
 #### Essence of Timelessness
 An outer essence of timelessness.
