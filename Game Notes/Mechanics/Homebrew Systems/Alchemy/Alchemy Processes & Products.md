@@ -574,17 +574,24 @@ An outer essence of growth.
 **Ingredients**;
 - 15 ounce Brightmoss (144.00sp)
 - 30 ounce Mountain Flower (225.00sp)
-	- 1 ounce Essence of Growth (400)
+	- 1 ounce Essence of Growth (400.00sp)
 
 #### Essence of Rot
 An outer essence of rot.
 
 **Ingredients**;
+- 20 ounce Solanberry Tar (22.00sp)
+- 20 ounce Stinkhorn (40.00sp)
+- 20 ounce Smokebulb (150.00sp)
+	- > 1 ounce Essence of Rot (300.00sp)
 
 #### Essence of Undoing
 An outer essence of undoing.
 
 **Ingredients**;
+- 4 ounce Nightshade (320.00sp)
+- 100 pounds Copper (120.00sp)
+	- > 1 ounce Essence of Undoing (500.00sp)
 
 #### Essence of Creation
 An outer essence of creation.
