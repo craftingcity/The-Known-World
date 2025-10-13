@@ -639,6 +639,8 @@ An outer essence of time.
 An outer essence of timelessness.
 
 **Ingredients**;
+- 1 pound Platinum (1100.00sp)
+- 
 
 #### Essence of Dragon
 An outer essence of draconics.

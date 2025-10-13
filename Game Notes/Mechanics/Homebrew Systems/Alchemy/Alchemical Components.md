@@ -242,7 +242,7 @@ aliases:
 | Silver        | FABRIM / ABJURE     | 11.00 / pound   | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
 | Lead          | FABRIM / DISEASE    | 0.60 / pound    | Tetrimoc, Mnt. Hall, Actstow                                      |
 | Gold          | ARCANA / DUNAM      | 110.00 / pound  | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
-| Platinum      | FABRIM / EVOKE      | 1100.00 / pound | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
+| Platinum      | IMMORT / EVOKE      | 1100.00 / pound | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
 | Mithril       | IMMORT / DIVINE     | 240.00 / pound  | Mnt. Hall                                                         |
 | Bitumen       | FORM / IMMUTE       | 0.45 / pound    | Tetrimoc, Mnt. Hall, Actstow                                      |
 
