@@ -522,6 +522,10 @@ An inner essence of light and joy.
 An inner essence of instruction and law.
 
 **Ingredients**;
+- 15 ounce Polypore, Red (54.00sp)
+- 15 ounce Polypore, Blue (52.50sp)
+- 15 ounce Polypore, Yellow (53.25sp)
+	- > 1 ounce Essence of Arcana (200.00sp)
 
 #### Essence of Density
 An inner essence of gravity and mass.
