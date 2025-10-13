@@ -640,12 +640,15 @@ An outer essence of timelessness.
 
 **Ingredients**;
 - 1 pound Platinum (1100.00sp)
-- 
+- 15 pounds Mithril (3600.00sp)
+	- > 1 ounce Essence of Timelessness (6.0k sp)
 
 #### Essence of Dragon
 An outer essence of draconics.
 
 **Ingredients**;
+- 320 ounces Chitin of Wurm (1600.00sp)
+- 320 ounces Dragon's Tongue (2928.00sp)
 
 #### Essence of Mortality
 An outer essence of mortality.
