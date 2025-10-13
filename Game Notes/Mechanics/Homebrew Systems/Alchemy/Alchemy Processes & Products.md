@@ -513,65 +513,110 @@ An inner essence of lies and imagery.
 #### Essence of Light
 An inner essence of light and joy.
 
+**Ingredients**;
+- 30 ounce Birch Bark (120.00sp)
+- 20 ounce Glowshroom (175.00sp)
+	- > 1 ounce Essence of Light (400.00sp)
+
 #### Essence of Arcana
 An inner essence of instruction and law.
+
+**Ingredients**;
 
 #### Essence of Density
 An inner essence of gravity and mass.
 
+**Ingredients**;
+
 #### Essence of Mutation
 An inner essence of change and difference.
+
+**Ingredients**;
 
 #### Essence of Acidity
 An inner essence of chemistry and reaction.
 
+**Ingredients**;
+
 #### Essence of Ending
 An outer essence of ending.
+
+**Ingredients**;
 
 #### Essence of Divinity
 An outer essence of divinity.
 
+**Ingredients**;
+
 #### Essence of Growth
 An outer essence of growth.
+
+**Ingredients**;
 
 #### Essence of Rot
 An outer essence of rot.
 
+**Ingredients**;
+
 #### Essence of Undoing
 An outer essence of undoing.
+
+**Ingredients**;
 
 #### Essence of Creation
 An outer essence of creation.
 
+**Ingredients**;
+
 #### Essence of Conversation
 An outer essence of conversation.
+
+**Ingredients**;
 
 #### Essence of Action
 An outer essence of action.
 
+**Ingredients**;
+
 #### Essence of Immutability
 An outer essence of immutability.
+
+**Ingredients**;
 
 #### Essence of Time
 An outer essence of time.
 
+**Ingredients**;
+
 #### Essence of Timelessness
 An outer essence of timelessness.
+
+**Ingredients**;
 
 #### Essence of Dragon
 An outer essence of draconics.
 
+**Ingredients**;
+
 #### Essence of Mortality
 An outer essence of mortality.
+
+**Ingredients**;
 
 #### Essence of Prevention
 An outer essence of prevention.
 
+**Ingredients**;
+
 #### Essence of Removal
 An outer essence of removal.
 
+**Ingredients**;
+
 #### Essence of Faith
 An outer essence of faith.
+
+**Ingredients**;
 
 ### Magical Inscriptions
 
