@@ -37,6 +37,29 @@
         "type": "tabs",
         "children": [
           {
+            "id": "631ad97c6c99aabc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Homebrew Alchemy System"
+            }
+          },
+          {
             "id": "68c985ee6c9bc68b",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -59,7 +82,8 @@
               "title": "Alchemical Components"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"

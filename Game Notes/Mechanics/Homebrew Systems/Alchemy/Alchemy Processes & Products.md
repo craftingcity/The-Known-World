@@ -538,26 +538,43 @@ An inner essence of gravity and mass.
 An inner essence of change and difference.
 
 **Ingredients**;
+- 10 ounce Glowshroom (87.50sp)
+- 20 ounce Creature Eye (160.00sp)
+- 100 pounds Bitumen (45.00sp)
+	- > 1 ounce Essence of Mutation (400.00sp)
 
 #### Essence of Acidity
 An inner essence of chemistry and reaction.
 
 **Ingredients**;
+- 100 ounce Tobacco (10.00sp) 
+- 4 ounce Nightshade (320.00sp)
+	- > 1 ounce Essence of Acidity (400.00sp)
 
 #### Essence of Ending
 An outer essence of ending.
 
 **Ingredients**;
+- 10 ounce Foxglove (160.00sp)
+- 10 ounce Alknet (85.00sp)
+- 100 ounce Pine Needles (135.00sp)
+	- > 1 ounce Essence of Ending (500.00sp)
 
 #### Essence of Divinity
 An outer essence of divinity.
 
 **Ingredients**;
+- 10 ounce Mandrake (80.00sp)
+- 35 carat Jade (350.00sp)
+	- > 1 ounce Essence of Divinity (500.00sp)
 
 #### Essence of Growth
 An outer essence of growth.
 
 **Ingredients**;
+- 15 ounce Brightmoss (144.00sp)
+- 30 ounce Mountain Flower (225.00sp)
+	- 1 ounce Essence of Growth (400)
 
 #### Essence of Rot
 An outer essence of rot.
