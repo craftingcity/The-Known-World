@@ -64,14 +64,14 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 ## Material
 ### Solids
 
-| Name (Source)                 | Mechanic | Cost @ Market  | Regions Producing |
-| ----------------------------- | -------- | -------------- | ----------------- |
-| Darksteel (*Iron*)            |          | 2.75sp / pound |                   |
-| Chaotic Gold (*Gold*)         |          |                |                   |
-| Adjust Bronze (*Copper, Tin*) |          |                |                   |
-| Pure Force                    |          |                |                   |
-| Hardlight                     |          |                |                   |
-| Materiael Falsifus            |          |                |                   |
+| Name (Source)                 | Mechanic | Cost @ Market   | Regions Producing |
+| ----------------------------- | -------- | --------------- | ----------------- |
+| Darksteel (*Iron*)            |          | 2.75sp / pound  |                   |
+| Chaotic Gold (*Gold*)         |          | 1.0k sp / pound |                   |
+| Adjust Bronze (*Copper, Tin*) |          | 85.00 / pound   |                   |
+| Pure Force                    |          |                 |                   |
+| Hardlight                     |          |                 |                   |
+| Materiael Falsifus            |          |                 |                   |
 
 #### Darksteel
 A glittering black metal produced by an advanced chain of alchemical and metallurgic processes. One of the strongest metals processed by Alatermenians today.
@@ -86,10 +86,17 @@ A gold that devolves into elemental force when overly agitated.
 
 **Ingredients**;
 - 8 pounds Gold (880.00sp)
-- 1 ounce Essence of Dragon ()
+- 1 ounce Essence of Dragon (5.5k sp)
+	- > 8 pounds Chaotic Gold (6380.00sp) > (1.0k sp / pound)
 
 #### Adjust Bronze
 A bronze that shrinks and spreads to the whims of its design.
+
+**Ingredients**;
+- 3 pounds Copper (3.60sp)
+- 1 pound Tin (1.20sp)
+- 1 ounce Essence of Density (300.0sp)
+	- > 4 pounds Adjust Bronze (305.0sp) > (85.00sp / pound)
 
 #### Pure Force
 A transparent material of outstanding strength and rigidity, Pure Force is made and manipulated of and with arcane implementation.
@@ -429,34 +436,34 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 
 | Name (Source)       | Mechanic | Cost @ Market | Regions Producing |
 | ------------------- | -------- | ------------- | ----------------- |
-| ... of Earth        |          |               |                   |
-| ... of Water        |          |               |                   |
-| ... of Fire         |          |               |                   |
-| ... of Air          |          |               |                   |
-| ... of Health       |          |               |                   |
-| ... of Pestilence   |          |               |                   |
-| ... of Deception    |          |               |                   |
-| ... of Light        |          |               |                   |
-| ... of Arcana       |          |               |                   |
-| ... of Density      |          |               |                   |
-| ... of Mutation     |          |               |                   |
-| ... of Acidity      |          |               |                   |
-| ... of Ending       |          |               |                   |
-| ... of Divinity     |          |               |                   |
-| ... of Growth       |          |               |                   |
-| ... of Rot          |          |               |                   |
-| ... of Undoing      |          |               |                   |
-| ... of Creation     |          |               |                   |
-| ... of Conversation |          |               |                   |
-| ... of Action       |          |               |                   |
-| ... of Immutability |          |               |                   |
-| ... of Time         |          |               |                   |
-| ... of Timelessness |          |               |                   |
-| ... of Dragon       |          |               |                   |
-| ... of Mortality    |          |               |                   |
-| ... of Prevention   |          |               |                   |
-| ... of Removal      |          |               |                   |
-| ... of Faith        |          |               |                   |
+| ... of Earth        |          | 150.0 / ounce |                   |
+| ... of Water        |          | 175.0 / ounce |                   |
+| ... of Fire         |          | 175.0 / ounce |                   |
+| ... of Air          |          | 175.0 / ounce |                   |
+| ... of Health       |          | 300.0 / ounce |                   |
+| ... of Pestilence   |          | 300.0 / ounce |                   |
+| ... of Deception    |          | 400.0 / ounce |                   |
+| ... of Light        |          | 400.0 / ounce |                   |
+| ... of Arcana       |          | 200.0 / ounce |                   |
+| ... of Density      |          | 300.0 / ounce |                   |
+| ... of Mutation     |          | 300.0 / ounce |                   |
+| ... of Acidity      |          | 400.0 / ounce |                   |
+| ... of Ending       |          | 400.0 / ounce |                   |
+| ... of Divinity     |          | 500.0 / ounce |                   |
+| ... of Growth       |          | 500.0 / ounce |                   |
+| ... of Rot          |          | 400.0 / ounce |                   |
+| ... of Undoing      |          | 300.0 / ounce |                   |
+| ... of Creation     |          | 500.0 / ounce |                   |
+| ... of Conversation |          | 500.0 / ounce |                   |
+| ... of Action       |          | 500.0 / ounce |                   |
+| ... of Immutability |          | 675.0 / ounce |                   |
+| ... of Time         |          | 5.5k / ounce  |                   |
+| ... of Timelessness |          | 6.0k / ounce  |                   |
+| ... of Dragon       |          | 5.5k / ounce  |                   |
+| ... of Mortality    |          | 6.0k / ounce  |                   |
+| ... of Prevention   |          | 4.5k / ounce  |                   |
+| ... of Removal      |          | 5.5k / ounce  |                   |
+| ... of Faith        |          | 5.5k / ounce  |                   |
 
 #### Essence of Earth
 An elemental essence of natural growth and heart.
