@@ -675,12 +675,17 @@ An outer essence of removal.
 **Ingredients**;
 - 160 ounce Alkanet (1360.00sp)
 - 80 ounce Foxglove (1280.00sp)
-- 160 ounce Chitin of Wur
+- 160 ounce Chitin of Wurm (800.00sp)
+- 3 pounds Adamantine (1350.00sp)
+	- > 1 ounce Essence of Removal (5.5k sp)
 
 #### Essence of Faith
 An outer essence of faith.
 
 **Ingredients**;
+- 1800 gallons Blood (1.8k sp)
+- 320 ounce Head of Lamb (3.9k sp)
+	- > 1 ounce Essence of Faith (5.5k sp)
 
 ### Magical Inscriptions
 
