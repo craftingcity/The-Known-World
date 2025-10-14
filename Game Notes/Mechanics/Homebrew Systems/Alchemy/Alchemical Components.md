@@ -233,7 +233,7 @@ aliases:
 
 | Name (Source) | Motifs              | Cost @ Market   | Regions Producing                                                 |
 | ------------- | ------------------- | --------------- | ----------------------------------------------------------------- |
-| Adamentine    | ABJURE / DESIST     | 450.00 / pound  | Mnt. Hall, Actstow                                                |
+| Adamantine    | ABJURE / DESIST     | 450.00 / pound  | Mnt. Hall, Actstow                                                |
 | Copper        | FABRIM / DEGENERATE | 1.20 / pound    | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
 | Tin           | FABRIM / WEIGHT     | 1.20 / pound    | Prosper, Illburn, Combine, Mnt. Hall, Actstow                     |
 | Bronze        | EVOKE / FORM        | 1.80 / pound    | Prosper, Illburn, Combine, Mnt. Hall, Actstow                     |
@@ -246,7 +246,7 @@ aliases:
 | Mithril       | IMMORT / DIVINE     | 240.00 / pound  | Mnt. Hall                                                         |
 | Bitumen       | FORM / IMMUTE       | 0.45 / pound    | Tetrimoc, Mnt. Hall, Actstow                                      |
 
-### Adamentine
+### Adamantine
 ### Copper
 ### Gold
 ### Iron

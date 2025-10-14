@@ -649,21 +649,33 @@ An outer essence of draconics.
 **Ingredients**;
 - 320 ounces Chitin of Wurm (1600.00sp)
 - 320 ounces Dragon's Tongue (2928.00sp)
+	- > 1 ounce Essence of Dragon (5.5k sp)
 
 #### Essence of Mortality
 An outer essence of mortality.
 
 **Ingredients**;
+- 160 ounces Mandrake (1280.00sp)
+- 16 carat Pearl (4000.00sp)
+	- > 1 ounce Essence of Mortality (6.0k sp)
 
 #### Essence of Prevention
 An outer essence of prevention.
 
 **Ingredients**;
+- 5 pounds Adamantine (2250.00sp)
+- 20 pounds Silver (220.00sp)
+- 640 ounces Salt (32.00sp)
+- 320 ounces Oak Bark (1040.00sp)
+	- > 1 ounce Essence of Prevention (4.5k sp)
 
 #### Essence of Removal
 An outer essence of removal.
 
 **Ingredients**;
+- 160 ounce Alkanet (1360.00sp)
+- 80 ounce Foxglove (1280.00sp)
+- 160 ounce Chitin of Wur
 
 #### Essence of Faith
 An outer essence of faith.
