@@ -101,7 +101,18 @@ A bronze that shrinks and spreads to the whims of its design.
 #### Pure Force
 A transparent material of outstanding strength and rigidity, Pure Force is made and manipulated of and with arcane implementation.
 
+**Ingredients**;
+- 1 ounce Essence of Arcana (200sp)
+- 1 ounce Essence of Density (300sp)
+- 1 ounce Essence of Creation (500sp)
+	- 8 pounds Pure Force (1000sp) > (125.00sp / pound)
+
 #### Hardlight
+A translucent material of the strength of steel, Hardlight is made and manipulated of and with arcane implementation.
+
+**Ingredients**;
+- 
+
 #### Materiael Falsifus
 
 ### Composites
