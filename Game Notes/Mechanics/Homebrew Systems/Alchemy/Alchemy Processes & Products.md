@@ -132,7 +132,7 @@ A dark grey powder that explodes when agitated.
 	- > 5 pounds Firepowder (1.75sp) > (0.35sp / pound)
 
 #### Alchemical Clay
-A clay infused with arcane-active ingredients,
+A clay infused with arcane-active ingredients.
 
 **Ingredients**;
 - 20 pounds Clay (13.00sp)
@@ -142,11 +142,11 @@ A clay infused with arcane-active ingredients,
 
 ### Liquids & Oils
 
-| Name (Source)          | Mechanic | Cost @ Market   | Regions Producing |
-| ---------------------- | -------- | --------------- | ----------------- |
-| Dark Oil (*Crude Oil*) |          | 0.30sp / gallon |                   |
-| Gasoline (*Crude Oil*) |          | 0.55sp / gallon |                   |
-| Hummpo (*Crude Oil*)   |          | 2.10sp / gallon |                   |
+| Name (Source)          | Mechanic | Cost @ Market   | Regions Producing   |
+| ---------------------- | -------- | --------------- | ------------------- |
+| Dark Oil (*Crude Oil*) |          | 0.30sp / gallon | Tetrimoc, Mnt. Hall |
+| Gasoline (*Crude Oil*) |          | 0.55sp / gallon | Tetrimoc, Mnt. Hall |
+| Hummpo (*Crude Oil*)   |          | 2.10sp / gallon | Tetrimoc, Mnt. Hall |
 
 #### Dark Oil
 A glittering, darker-than-black oil created via the introduction of Bitumen to Crude Oil as it is being refined, Dark Oil is used in the production of Darksteel, Pressigen, and other intermediate products.
@@ -176,11 +176,11 @@ A thick pink oil derived from crude oil.
 
 ### Textiles
 
-| Name (Source)               | Mechanic | Cost @ Market | Regions Producing |
-| --------------------------- | -------- | ------------- | ----------------- |
-| Pressigen (*Dark Oil*)      |          |               |                   |
-| Elven Fiber (*Pine Needle*) |          |               |                   |
-| Alchemical Fabric (*Linen*) |          |               |                   |
+| Name (Source)               | Mechanic | Cost @ Market    | Regions Producing |
+| --------------------------- | -------- | ---------------- | ----------------- |
+| Pressigen (*Dark Oil*)      |          | 6.00 / sq. yard  |                   |
+| Elven Fiber (*Pine Needle*) |          | 30.00 / sq. yard |                   |
+| Alchemical Fabric (*Linen*) |          | 175.0 / sq. yard |                   |
 
 #### Pressigen
 A matte black material of advanced alchemical origin, Pressigen is hydrophobic, flexible, and incredibly tough.
@@ -199,6 +199,13 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 	- 1 sq. yard Elvenfiber (30.00sp / sq. yard)
 
 #### Alchemical Fabric
+A fabric infused with arcane-active ingredients.
+
+**Ingredients**;
+- 1 ounce Essence of Arcana (500.0sp)
+- 1 pound Gold (110.0sp)
+- 4 sq. yards Linen (16.00sp)
+	- 4 sq. yards Alchemical Fabric (650.0sp) > (175.0 / sq. yard) 
 
 ## Consumable
 ### Potions
