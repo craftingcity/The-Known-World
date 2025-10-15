@@ -81,7 +81,7 @@ A glittering black metal produced by an advanced chain of alchemical and metallu
 	- > 1 pound Darksteel (2.75sp / pound)
 
 #### Chaotic Gold
-A gold that devolves into elemental force when overly agitated.
+A gold that devolves into elemental force when overly agitated. Traditionally 
 
 **Ingredients**;
 - 8 pounds Gold (880.00sp)
