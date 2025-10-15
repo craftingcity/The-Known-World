@@ -208,7 +208,7 @@ We fight some spiders down that way.
 | STR  | 8  (-1)    | PRF     | +3              |
 | CON  | 13 (+1)    | M. HP   | 27 Max HP       |
 | DEX  | 16 (+3)    | AC      | (13)            |
-| INT  | 20 (+5) ^  | C. HP   | 19 HP           |
+| INT  | 20 (+5) ^  | C. HP   | 19+5 HP           |
 | WIS  | 14 (+2) ^  | HD      | 5d6 (5/5)       |
 | CHA  | 12 (+1)    | SPD     | 25' (5s)        |
 
@@ -216,7 +216,7 @@ We fight some spiders down that way.
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | o   | .   | .   | .   | .   | .    | .   |
 | o   | o   | x   | .   | .   | .   | .   |      |     |
-| o   | o   | .   | .   | .   |     |     | DC   | 16  |
+| o   | x   | .   | .   | .   |     |     | DC   | 16  |
 | o   |     |     |     |     |     |     | ATTK | +8  |
 
 #### Proficiencies
