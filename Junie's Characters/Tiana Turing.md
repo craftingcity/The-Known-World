@@ -198,8 +198,7 @@ We reach a fork, the left path has a cloak on a branch worn by a member of our c
 We fight some spiders down that way.
 
 #### Session 16: Into the Swamps... (cont.)
-
-
+As we continue down the path, we end up in what seems to be the den of the spiders, where a big teleporting one surprises us!
 
 ## Stats
 
