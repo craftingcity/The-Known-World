@@ -81,7 +81,7 @@ A glittering black metal produced by an advanced chain of alchemical and metallu
 	- > 1 pound Darksteel (2.75sp / pound)
 
 #### Chaotic Gold
-A gold that devolves into elemental force when overly agitated. Traditionally 
+A gold that devolves into elemental force when overly agitated. Unable to fill the role of a traditional metal, Chaotic Gold has fills the niche of a reliable source of elemental chaos.
 
 **Ingredients**;
 - 8 pounds Gold (880.00sp)
@@ -89,7 +89,7 @@ A gold that devolves into elemental force when overly agitated. Traditionally
 	- > 8 pounds Chaotic Gold (6380.00sp) > (1.0k sp / pound)
 
 #### Adjust Bronze
-A bronze that shrinks and spreads to the whims of its design.
+A bronze that shrinks and spreads to the whims of its design. Traditionally, Adjust Bronze is used in mechanical contraptions, but it has found use in personal defense measures.
 
 **Ingredients**;
 - 3 pounds Copper (3.60sp)
