@@ -269,6 +269,7 @@ x [Thunderwave](https://dnd5e.wikidot.com/spell:thunderwave)
 x (C) [Earthen Grasp](https://dnd5e.wikidot.com/spell:maximillians-earthen-grasp)
 x (C) [Dragon's Breath](https://dnd5e.wikidot.com/spell:dragons-breath)
 x [Snowball Swarm](https://dnd5e.wikidot.com/spell:snillocs-snowball-swarm)
+o (F, C) [Spider Climb](https://dnd5e.wikidot.com/spell:spider-climb)
 	- **3rd Level Spells**;
 x (C) [Haste](https://dnd5e.wikidot.com/spell:haste)
 x [Counterspell](https://dnd5e.wikidot.com/spell:counterspell)
