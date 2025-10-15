@@ -163,7 +163,7 @@ A thin yellow oil derived from crude oil.
 - 21 gallons Crude Oil (5.25sp)
 - 10 pounds White Corn (2.00sp)
 - 1 pound Lead (0.60sp)
-	- 16 gallons Gasoline (8.50sp) > (0.55sp / gallon)
+	- 9 gallons Gasoline (8.50sp) > (1.15sp / gallon)
 
 #### Hummpo
 A thick pink oil derived from crude oil.
