@@ -174,7 +174,7 @@ We ended up fighting some living Grung, and we had to switch back and forth on r
 
 We got into combat with more Grung...
 
-#### Session 13: Beyond the Cove... (cont.)
+#### Session 13: Into the Swamps...
 
 ... and combat continues. We won.
 
@@ -182,11 +182,11 @@ We keep travelling, and we finally get to make a choice about where we go - we c
 
 We begin to take our rest for the night, and some floating lights approached us!
 
-#### Session 14: Beyond the Cove... (cont.)
+#### Session 14: Into the Swamps... (cont.)
 
 We meet a swamp man named Bramble. He has a pet otter. The lizardfolk call themselves Vresk. The city is called Vresktal, and Bramble trades his swamp crystals there for charms and such. He said they grant protection from the natural threats, but he wouldn't immediately give us some, so I fucking killed him, and took them. 
 
-#### Session 15: Beyond the Cove... (cont.)
+#### Session 15: Into the Swamps... (cont.)
 *Mourning Coil* - Whenever an undead comes within 30ft it emits a scream audible from 120 feet.
 
 *Whispering Skull of Varr'thul (req. attune)* - While carried, 'Revenants' and similar undead have disadvantage against you, and you resist necrotic damage against them, and 1/day, command word, within 30ft those creatures must succeed on DC 15 Wisdom or be Turned.
@@ -197,7 +197,8 @@ We reach a fork, the left path has a cloak on a branch worn by a member of our c
 
 We fight some spiders down that way.
 
-#### Session 16: Beyond the Cove... (cont.)
+#### Session 16: Into the Swamps... (cont.)
+
 
 
 ## Stats
@@ -354,7 +355,7 @@ Once you conjure the mind, you can't do so again until you finish a long rest, u
 - While you are Attuned, the Coin can be used as an Arcane Focus.
 - While you are Attuned, the Coin grants +1 to Arcana Skill Checks.
 - While you are Attuned, you may store a 1st Level Wizard Spell in the Coin (currently *Silvery Barbs* 1/1).
-- While you are Attuned, once per long rest, before you cast a spell (7/10);
+- While you are Attuned, once per long rest, before you cast a spell (8/10);
 	- *(Heads / Evens)* Gain Advantage on an Attack Roll made for the spell, or impose Disadvantage on a Saving Throw made for the spell.
 	- *(Tails / Odds)* Regain the lowest level spell slot expended to cast the spell.
 
