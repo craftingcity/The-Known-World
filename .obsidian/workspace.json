@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d1418d5ebf0e7de",
+        "id": "d8a155bf9a9d588e",
         "type": "tabs",
         "children": [
           {
-            "id": "fc6a51dedf25b5b4",
+            "id": "c399cd56c459e3c6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,43 +20,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tiana Turing"
-            }
-          }
-        ]
-      },
-      {
-        "id": "bfae34a83e4f7a5b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5d9a5b2a03ca17fc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tiana Turing"
+              "title": "New tab"
             }
           }
         ]
@@ -334,10 +301,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc6a51dedf25b5b4",
+  "active": "c399cd56c459e3c6",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Junie's Characters/Tiana Turing.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
