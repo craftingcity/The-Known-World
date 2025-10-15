@@ -157,6 +157,14 @@ A glittering, darker-than-black oil created via the introduction of Bitumen to C
 	- > 16 gallons Dark Oil (4.20sp) > (0.30sp / gallon)
 
 #### Gasoline
+A thin yellow oil derived from crude oil.
+
+**Ingredients**;
+- 21 gallons Crude Oil (5.25sp)
+- 10 pounds White Corn (2.00sp)
+- 1 pound Lead (0.60sp)
+	- 19 gallons Gasoline
+
 #### Hummpo
 
 ### Textiles
