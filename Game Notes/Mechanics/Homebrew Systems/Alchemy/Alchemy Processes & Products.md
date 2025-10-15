@@ -142,11 +142,11 @@ A clay infused with arcane-active ingredients,
 
 ### Liquids & Oils
 
-| Name (Source)          | Mechanic | Cost @ Market | Regions Producing |
-| ---------------------- | -------- | ------------- | ----------------- |
-| Dark Oil (*Crude Oil*) |          |               |                   |
-| Gasoline (*Crude Oil*) |          |               |                   |
-| Hummpo (*Crude Oil*)   |          |               |                   |
+| Name (Source)          | Mechanic | Cost @ Market   | Regions Producing |
+| ---------------------- | -------- | --------------- | ----------------- |
+| Dark Oil (*Crude Oil*) |          | 0.30sp / gallon |                   |
+| Gasoline (*Crude Oil*) |          | 0.55sp / gallon |                   |
+| Hummpo (*Crude Oil*)   |          | 2.10sp / gallon |                   |
 
 #### Dark Oil
 A glittering, darker-than-black oil created via the introduction of Bitumen to Crude Oil as it is being refined, Dark Oil is used in the production of Darksteel, Pressigen, and other intermediate products.
@@ -163,9 +163,16 @@ A thin yellow oil derived from crude oil.
 - 21 gallons Crude Oil (5.25sp)
 - 10 pounds White Corn (2.00sp)
 - 1 pound Lead (0.60sp)
-	- 19 gallons Gasoline
+	- 16 gallons Gasoline (8.50sp) > (0.55sp / gallon)
 
 #### Hummpo
+A thick pink oil derived from crude oil.
+
+**Ingredients**;
+- 18 gallons Crude Oil (4.50sp)
+- 3 ounces Polypore, Red (10.80sp)
+- 1 pound Lead (0.60sp)
+	- 8 gallons Hummpo (16.75sp) > (2.10sp / gallon)
 
 ### Textiles
 
