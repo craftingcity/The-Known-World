@@ -64,14 +64,13 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 ## Material
 ### Solids
 
-| Name (Source)                 | Mechanic | Cost @ Market   | Regions Producing |
-| ----------------------------- | -------- | --------------- | ----------------- |
-| Darksteel (*Iron*)            |          | 2.75sp / pound  |                   |
-| Chaotic Gold (*Gold*)         |          | 1.0k sp / pound |                   |
-| Adjust Bronze (*Copper, Tin*) |          | 85.00 / pound   |                   |
-| Pure Force                    |          |                 |                   |
-| Hardlight                     |          |                 |                   |
-| Materiael Falsifus            |          |                 |                   |
+| Name (Source)                 | Mechanic | Cost @ Market    | Regions Producing |
+| ----------------------------- | -------- | ---------------- | ----------------- |
+| Darksteel (*Iron*)            |          | 2.75sp / pound   |                   |
+| Chaotic Gold (*Gold*)         |          | 1.0k sp / pound  |                   |
+| Adjust Bronze (*Copper, Tin*) |          | 85.00sp / pound  |                   |
+| Pure Force                    |          | 125.00sp / pound |                   |
+| Hardlight                     |          | 1.3k sp / pound  |                   |
 
 #### Darksteel
 A glittering black metal produced by an advanced chain of alchemical and metallurgic processes. One of the strongest metals processed by Alatermenians today.
@@ -111,16 +110,17 @@ A transparent material of outstanding strength and rigidity, Pure Force is made 
 A translucent material of the strength of steel, Hardlight is made and manipulated of and with arcane implementation.
 
 **Ingredients**;
-- 
-
-#### Materiael Falsifus
+- 1 ounce Essence of Light (500sp)
+- 1 ounce Essence of Density (300sp)
+- 1 ounce Essence of Creation (500sp)
+	- 1 pound Hardlight (1.3k sp / pound)
 
 ### Composites
 
-| Name (Source)            | Mechanic | Cost @ Market | Regions Producing |
-| ------------------------ | -------- | ------------- | ----------------- |
-| Firepowder (*Sulphur*)   |          |               |                   |
-| Alchemical Clay (*Clay*) |          |               |                   |
+| Name (Source)            | Mechanic | Cost @ Market  | Regions Producing |
+| ------------------------ | -------- | -------------- | ----------------- |
+| Firepowder (*Sulphur*)   |          | 0.35sp / pound |                   |
+| Alchemical Clay (*Clay*) |          | 50.0sp / pound |                   |
 
 #### Firepowder
 A dark grey powder that explodes when agitated. 
@@ -132,6 +132,13 @@ A dark grey powder that explodes when agitated.
 	- > 5 pounds Firepowder (1.75sp) > (0.35sp / pound)
 
 #### Alchemical Clay
+A clay infused with arcane-active ingredients,
+
+**Ingredients**;
+- 20 pounds Clay (13.00sp)
+- 1 ounce Essence of Arcana (200.00sp)
+- 1 ounce Essence of Creation (500.00sp)
+	- > 20 pounds Alchemical Clay (1.0k sp) > (50.00sp / pound)
 
 ### Liquids & Oils
 
@@ -481,28 +488,28 @@ An elemental essence of natural growth and heart.
 
 **Ingredients**;
 - 40 ounce Polypore, Yellow (124.00sp)
-	- > 1 ounce Essence of Earth (150.00sp)
+	- > 1 ounce Essence of Earth (150.00sp / ounce)
 
 #### Essence of Water
 An elemental essence of life and liquid.
 
 **Ingredients**;
 - 40 ounce Polypore, Blue (140.00sp)
-	- > 1 ounce Essence of Water (175.00sp)
+	- > 1 ounce Essence of Water (175.00sp / ounce)
 
 #### Essence of Fire
 An elemental essence of heat and destruction.
 
 **Ingredients**;
 - 40 ounce Polypore, Red (144.00sp)
-	- > 1 ounce Essence of Fire (175.00sp)
+	- > 1 ounce Essence of Fire (175.00sp / ounce)
 
 #### Essence of Air
 An elemental essence of gas and velocity.
 
 **Ingredients**;
 - 12 ounce Head of Lamb (144.00sp)
-	- > 1 ounce of Essence of Air (175.00sp)
+	- > 1 ounce of Essence of Air (175.00sp / ounce)
 
 #### Essence of Health
 An inner essence of life and growth.
@@ -510,7 +517,7 @@ An inner essence of life and growth.
 **Ingredients**;
 - 20 carat Jade (200.00sp)
 - 30 ounce Cannabis (9.00sp)
-	- > 1 ounce Essence of Health (300.00sp)
+	- > 1 ounce Essence of Health (300.00sp  / ounce)
 
 #### Essence of Pestilence
 An inner essence of death and rot.
@@ -518,7 +525,7 @@ An inner essence of death and rot.
 **Ingredients**;
 - 15 ounce Citrus Essence (202.50sp)
 - 30 ounce Lavander (12.00sp)
-	- 1 ounce Essence of Pestilence (300.00sp)
+	- 1 ounce Essence of Pestilence (300.00sp / ounce)
 
 #### Essence of Deception
 An inner essence of lies and imagery.
@@ -526,7 +533,7 @@ An inner essence of lies and imagery.
 **Ingredients**;
 - 20 ounce Scale of Fish (40.00sp)
 - 12 ounce Eye of Frog (240.00sp)
-	- > 1 ounce of Essence of Deception (400.00sp)
+	- > 1 ounce of Essence of Deception (400.00sp / ounce)
 
 #### Essence of Light
 An inner essence of light and joy.
@@ -534,7 +541,7 @@ An inner essence of light and joy.
 **Ingredients**;
 - 30 ounce Birch Bark (120.00sp)
 - 20 ounce Glowshroom (175.00sp)
-	- > 1 ounce Essence of Light (400.00sp)
+	- > 1 ounce Essence of Light (400.00sp / ounce)
 
 #### Essence of Arcana
 An inner essence of instruction and law.
@@ -543,14 +550,14 @@ An inner essence of instruction and law.
 - 15 ounce Polypore, Red (54.00sp)
 - 15 ounce Polypore, Blue (52.50sp)
 - 15 ounce Polypore, Yellow (53.25sp)
-	- > 1 ounce Essence of Arcana (200.00sp)
+	- > 1 ounce Essence of Arcana (200.00sp / ounce)
 
 #### Essence of Density
 An inner essence of gravity and mass.
 
 **Ingredients**;
 - 100 ounce Ginko Leaf (230.00sp)
-	- > 1 ounce Essence of Density (300.00sp)
+	- > 1 ounce Essence of Density (300.00sp / ounce)
 
 #### Essence of Mutation
 An inner essence of change and difference.
@@ -559,7 +566,7 @@ An inner essence of change and difference.
 - 10 ounce Glowshroom (87.50sp)
 - 20 ounce Creature Eye (160.00sp)
 - 100 pounds Bitumen (45.00sp)
-	- > 1 ounce Essence of Mutation (400.00sp)
+	- > 1 ounce Essence of Mutation (400.00sp / ounce)
 
 #### Essence of Acidity
 An inner essence of chemistry and reaction.
@@ -567,7 +574,7 @@ An inner essence of chemistry and reaction.
 **Ingredients**;
 - 100 ounce Tobacco (10.00sp) 
 - 4 ounce Nightshade (320.00sp)
-	- > 1 ounce Essence of Acidity (400.00sp)
+	- > 1 ounce Essence of Acidity (400.00sp / ounce)
 
 #### Essence of Ending
 An outer essence of ending.
@@ -576,7 +583,7 @@ An outer essence of ending.
 - 10 ounce Foxglove (160.00sp)
 - 10 ounce Alknet (85.00sp)
 - 100 ounce Pine Needles (135.00sp)
-	- > 1 ounce Essence of Ending (500.00sp)
+	- > 1 ounce Essence of Ending (500.00sp / ounce)
 
 #### Essence of Divinity
 An outer essence of divinity.
@@ -584,7 +591,7 @@ An outer essence of divinity.
 **Ingredients**;
 - 10 ounce Mandrake (80.00sp)
 - 35 carat Jade (350.00sp)
-	- > 1 ounce Essence of Divinity (500.00sp)
+	- > 1 ounce Essence of Divinity (500.00sp / ounce)
 
 #### Essence of Growth
 An outer essence of growth.
@@ -592,7 +599,7 @@ An outer essence of growth.
 **Ingredients**;
 - 15 ounce Brightmoss (144.00sp)
 - 30 ounce Mountain Flower (225.00sp)
-	- 1 ounce Essence of Growth (400.00sp)
+	- 1 ounce Essence of Growth (400.00sp / ounce)
 
 #### Essence of Rot
 An outer essence of rot.
@@ -601,7 +608,7 @@ An outer essence of rot.
 - 20 ounce Solanberry Tar (22.00sp)
 - 20 ounce Stinkhorn (40.00sp)
 - 20 ounce Smokebulb (150.00sp)
-	- > 1 ounce Essence of Rot (300.00sp)
+	- > 1 ounce Essence of Rot (300.00sp / ounce)
 
 #### Essence of Undoing
 An outer essence of undoing.
@@ -609,7 +616,7 @@ An outer essence of undoing.
 **Ingredients**;
 - 4 ounce Nightshade (320.00sp)
 - 100 pounds Copper (120.00sp)
-	- > 1 ounce Essence of Undoing (500.00sp)
+	- > 1 ounce Essence of Undoing (500.00sp / ounce)
 
 #### Essence of Creation
 An outer essence of creation.
@@ -618,7 +625,7 @@ An outer essence of creation.
 - 30 pounds Clay (19.5)
 - 60 ounces Honey (9.00sp)
 - 5 carat Onyx (375.00sp)
-	- > 1 ounce Essence of Creation (500.00sp)
+	- > 1 ounce Essence of Creation (500.00sp / ounce)
 
 #### Essence of Conversation
 An outer essence of conversation.
@@ -627,7 +634,7 @@ An outer essence of conversation.
 - 15 ounce Foxglove (240.00sp)
 - 50 ounce Tobacco (5.00sp)
 - 20 ounce Smokebulb (150.00sp)
-	- > 1 ounce Essence of Conversation (500.00sp)
+	- > 1 ounce Essence of Conversation (500.00sp / ounce)
 
 #### Essence of Action
 An outer essence of action.
@@ -635,7 +642,7 @@ An outer essence of action.
 **Ingredients**;
 - 30 ounce Alkanet (255.00sp)
 - 50 ounce Oak Bark (175.00sp)
-	- > 1 ounce Essence of Action (500.00sp)
+	- > 1 ounce Essence of Action (500.00sp / ounce)
 
 #### Essence of Immutability
 An outer essence of immutability.
@@ -643,7 +650,7 @@ An outer essence of immutability.
 **Ingredients**;
 - 15 pounds Amber (225.00sp)
 - 15 ounces Ironwood Shavings (277.50sp)
-	- > 1 ounce Essence of Immutability (675.00sp)
+	- > 1 ounce Essence of Immutability (675.00sp / ounce)
 
 #### Essence of Time
 An outer essence of time.
@@ -651,7 +658,7 @@ An outer essence of time.
 **Ingredients**;
 - 15 pounds Gold (1650.00sp)
 - 5 carat Durandurm (2375.00sp)
-	- 1 ounce Essence of Time (5.5k sp)
+	- 1 ounce Essence of Time (5.5k sp / ounce)
 
 #### Essence of Timelessness
 An outer essence of timelessness.
@@ -659,7 +666,7 @@ An outer essence of timelessness.
 **Ingredients**;
 - 1 pound Platinum (1100.00sp)
 - 15 pounds Mithril (3600.00sp)
-	- > 1 ounce Essence of Timelessness (6.0k sp)
+	- > 1 ounce Essence of Timelessness (6.0k sp / ounce)
 
 #### Essence of Dragon
 An outer essence of draconics.
@@ -667,7 +674,7 @@ An outer essence of draconics.
 **Ingredients**;
 - 320 ounces Chitin of Wurm (1600.00sp)
 - 320 ounces Dragon's Tongue (2928.00sp)
-	- > 1 ounce Essence of Dragon (5.5k sp)
+	- > 1 ounce Essence of Dragon (5.5k sp / ounce)
 
 #### Essence of Mortality
 An outer essence of mortality.
@@ -675,7 +682,7 @@ An outer essence of mortality.
 **Ingredients**;
 - 160 ounces Mandrake (1280.00sp)
 - 16 carat Pearl (4000.00sp)
-	- > 1 ounce Essence of Mortality (6.0k sp)
+	- > 1 ounce Essence of Mortality (6.0k sp / ounce)
 
 #### Essence of Prevention
 An outer essence of prevention.
@@ -685,7 +692,7 @@ An outer essence of prevention.
 - 20 pounds Silver (220.00sp)
 - 640 ounces Salt (32.00sp)
 - 320 ounces Oak Bark (1040.00sp)
-	- > 1 ounce Essence of Prevention (4.5k sp)
+	- > 1 ounce Essence of Prevention (4.5k sp / ounce)
 
 #### Essence of Removal
 An outer essence of removal.
@@ -695,7 +702,7 @@ An outer essence of removal.
 - 80 ounce Foxglove (1280.00sp)
 - 160 ounce Chitin of Wurm (800.00sp)
 - 3 pounds Adamantine (1350.00sp)
-	- > 1 ounce Essence of Removal (5.5k sp)
+	- > 1 ounce Essence of Removal (5.5k sp / ounce)
 
 #### Essence of Faith
 An outer essence of faith.
@@ -703,7 +710,7 @@ An outer essence of faith.
 **Ingredients**;
 - 1800 gallons Blood (1.8k sp)
 - 320 ounce Head of Lamb (3.9k sp)
-	- > 1 ounce Essence of Faith (5.5k sp)
+	- > 1 ounce Essence of Faith (5.5k sp / ounce)
 
 ### Magical Inscriptions
 
