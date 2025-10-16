@@ -64,13 +64,13 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 ## Material
 ### Solids
 
-| Name (Source)                 | Mechanic | Cost @ Market    | Regions Producing |
-| ----------------------------- | -------- | ---------------- | ----------------- |
-| Darksteel (*Iron*)            |          | 2.75sp / pound   |                   |
-| Chaotic Gold (*Gold*)         |          | 1.0k sp / pound  |                   |
-| Adjust Bronze (*Copper, Tin*) |          | 85.00sp / pound  |                   |
-| Pure Force                    |          | 125.00sp / pound |                   |
-| Hardlight                     |          | 1.3k sp / pound  |                   |
+| Name (Source)                              | Mechanic           | Cost @ Market    | Regions Producing   |
+| ------------------------------------------ | ------------------ | ---------------- | ------------------- |
+| Darksteel (*Iron*, *Bitumen*, *Crude Oil*) | +2 Metallic        | 2.75sp / pound   | Tetrimoc, Mnt. Hall |
+| Chaotic Gold (*Gold*)                      | Chaotic Orb        | 1.0k sp / pound  | Tetrimoc            |
+| Adjust Bronze (*Copper, Tin*)              | +1 Metallic        | 85.00sp / pound  | Mnt. Hall           |
+| Pure Force                                 | Invisible Solid    | 125.00sp / pound | any                 |
+| Hardlight                                  | Portal Lightbridge | 1.3k sp / pound  | any                 |
 
 #### Darksteel
 A glittering black metal produced by an advanced chain of alchemical and metallurgic processes. One of the strongest metals processed by Alatermenians today.
@@ -117,10 +117,10 @@ A translucent material of the strength of steel, Hardlight is made and manipulat
 
 ### Composites
 
-| Name (Source)            | Mechanic | Cost @ Market  | Regions Producing |
-| ------------------------ | -------- | -------------- | ----------------- |
-| Firepowder (*Sulphur*)   |          | 0.35sp / pound |                   |
-| Alchemical Clay (*Clay*) |          | 50.0sp / pound |                   |
+| Name (Source)            | Mechanic                     | Cost @ Market  | Regions Producing            |
+| ------------------------ | ---------------------------- | -------------- | ---------------------------- |
+| Firepowder (*Sulphur*)   | Fire Damage / Gas Projection | 0.35sp / pound | Combine, Mnt. Hall, Holyl'nd |
+| Alchemical Clay (*Clay*) | Arca                             | 50.0sp / pound | Prosper, Combine, Tetrimoc   |
 
 #### Firepowder
 A dark grey powder that explodes when agitated. 

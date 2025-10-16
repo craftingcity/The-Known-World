@@ -86,7 +86,7 @@ You may perform a second **Object Interaction** on your turn by using your **Bon
 Larger creatures can wield larger weapons more easily. For creatures of a size-class of 'Large' or greater, Melee Weapons with the *two-handed* property but without the *very heavy* property become *versatile (d+)* instead of *two-handed* for them.
 
 ## Having Reach
-While you have *reach*, any non-spell text that reads 'within 5 feet', that text instead reads 'within your *Threatened Area*'.
+While you have *reach*, any non-spell text that reads 'within 5 feet' instead reads 'within your *Threatened Area*'.
 
 Your *Threatened Area* is the area into which you can make melee attacks.
 
