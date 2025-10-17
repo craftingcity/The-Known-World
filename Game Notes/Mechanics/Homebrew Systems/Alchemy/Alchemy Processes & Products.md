@@ -120,7 +120,7 @@ A translucent material of the strength of steel, Hardlight is made and manipulat
 | Name (Source)            | Mechanic                     | Cost @ Market  | Regions Producing            |
 | ------------------------ | ---------------------------- | -------------- | ---------------------------- |
 | Firepowder (*Sulphur*)   | Fire Damage / Gas Projection | 0.35sp / pound | Combine, Mnt. Hall, Holyl'nd |
-| Alchemical Clay (*Clay*) | Arca                             | 50.0sp / pound | Prosper, Combine, Tetrimoc   |
+| Alchemical Clay (*Clay*) | Arcane Reactive              | 50.0sp / pound | Prosper, Combine, Tetrimoc   |
 
 #### Firepowder
 A dark grey powder that explodes when agitated. 
@@ -142,11 +142,11 @@ A clay infused with arcane-active ingredients.
 
 ### Liquids & Oils
 
-| Name (Source)          | Mechanic | Cost @ Market   | Regions Producing   |
-| ---------------------- | -------- | --------------- | ------------------- |
-| Dark Oil (*Crude Oil*) |          | 0.30sp / gallon | Tetrimoc, Mnt. Hall |
-| Gasoline (*Crude Oil*) |          | 0.55sp / gallon | Tetrimoc, Mnt. Hall |
-| Hummpo (*Crude Oil*)   |          | 2.10sp / gallon | Tetrimoc, Mnt. Hall |
+| Name (Source)          | Mechanic                      | Cost @ Market   | Regions Producing   |
+| ---------------------- | ----------------------------- | --------------- | ------------------- |
+| Dark Oil (*Crude Oil*) | Prereq Material / Fire Damage | 0.30sp / gallon | Tetrimoc, Mnt. Hall |
+| Gasoline (*Crude Oil*) | Fuel / Fire Damage            | 0.55sp / gallon | Tetrimoc, Mnt. Hall |
+| Hummpo (*Crude Oil*)   | Fuel / Fire Damage            | 2.10sp / gallon | Tetrimoc, Mnt. Hall |
 
 #### Dark Oil
 A glittering, darker-than-black oil created via the introduction of Bitumen to Crude Oil as it is being refined, Dark Oil is used in the production of Darksteel, Pressigen, and other intermediate products.
