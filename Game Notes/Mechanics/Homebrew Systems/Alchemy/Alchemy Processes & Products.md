@@ -176,11 +176,11 @@ A thick pink oil derived from crude oil.
 
 ### Textiles
 
-| Name (Source)               | Mechanic | Cost @ Market    | Regions Producing |
-| --------------------------- | -------- | ---------------- | ----------------- |
-| Pressigen (*Dark Oil*)      |          | 6.00 / sq. yard  |                   |
-| Elven Fiber (*Pine Needle*) |          | 30.00 / sq. yard |                   |
-| Alchemical Fabric (*Linen*) |          | 175.0 / sq. yard |                   |
+| Name (Source)               | Mechanic               | Cost @ Market    | Regions Producing   |
+| --------------------------- | ---------------------- | ---------------- | ------------------- |
+| Pressigen (*Dark Oil*)      | Form Fitting / Stretch | 6.00 / sq. yard  | Mnt. Hall, Tetrimoc |
+| Elven Fiber (*Pine Needle*) | +1 Material            | 30.00 / sq. yard | Actstow             |
+| Alchemical Fabric (*Linen*) | Arcane Reactive        | 175.0 / sq. yard | any                 |
 
 #### Pressigen
 A matte black material of advanced alchemical origin, Pressigen is hydrophobic, flexible, and incredibly tough.
@@ -210,31 +210,31 @@ A fabric infused with arcane-active ingredients.
 ## Consumable
 ### Potions
 
-| Name (Source)               | Mechanic | Cost @ Market | Regions Producing |
-| --------------------------- | -------- | ------------- | ----------------- |
-| ... of Healing              |          |               |                   |
-| ... of Vitality             |          |               |                   |
-| ... of Rejuvenation         |          |               |                   |
-| ... of Physical Resistance  |          |               |                   |
-| ... of Elemental Resistance |          |               |                   |
-| ... of Poison Resistance    |          |               |                   |
-| ... of Strong Mind          |          |               |                   |
-| ... of Mobility             |          |               |                   |
-| ... of Haste                |          |               |                   |
-| ... of Weightlessness       |          |               |                   |
-| ... of Flight               |          |               |                   |
-| ... of Water Breathing      |          |               |                   |
-| ... of Liquid Form          |          |               |                   |
-| ... of Gaseous Form         |          |               |                   |
-| ... of Detect Extraplanar   |          |               |                   |
-| ... of Dragon's Breath      |          |               |                   |
-| ... of Detect Mortal        |          |               |                   |
-| ... of Ethereal Sight       |          |               |                   |
-| ... of True Sight           |          |               |                   |
-| ... of False Life           |          |               |                   |
-| ... of False Death          |          |               |                   |
-| ... of Cure Disease         |          |               |                   |
-| ... of Astral Projection    |          |               |                   |
+| Name (Source)               | Mechanic                                                     | Cost @ Market | Regions Producing |
+| --------------------------- | ------------------------------------------------------------ | ------------- | ----------------- |
+| ... of Healing              | Regain (G * (1d4+1)) Hit Points                              |               |                   |
+| ... of Vitality             | Gain (G * (1d4+1)) Temporary Hit Points                      |               |                   |
+| ... of Rejuvenation         | Regain (G * 3) Hit Points                                    |               |                   |
+| ... of Physical Resistance  | Grant G DR vs Bludgeoning, Slashing, Piercing                |               |                   |
+| ... of Elemental Resistance | Grant G DR vs one of Fire/Cold/Thunder/Lightning             |               |                   |
+| ... of Poison Resistance    | Grant G DR vs one of Poison/Acid                             |               |                   |
+| ... of Strong Mind          | Grant G DR vs Psychic, Grant Adv. for INT saves              |               |                   |
+| ... of Mobility             | Grant +(G * 2) on DEX saves, Grant +(G * 2ft) SPD rounded up |               |                   |
+| ... of Haste                |                                                              |               |                   |
+| ... of Weightlessness       |                                                              |               |                   |
+| ... of Flight               |                                                              |               |                   |
+| ... of Water Breathing      |                                                              |               |                   |
+| ... of Liquid Form          |                                                              |               |                   |
+| ... of Gaseous Form         |                                                              |               |                   |
+| ... of Detect Extraplanar   |                                                              |               |                   |
+| ... of Dragon's Breath      |                                                              |               |                   |
+| ... of Detect Mortal        |                                                              |               |                   |
+| ... of Ethereal Sight       |                                                              |               |                   |
+| ... of True Sight           |                                                              |               |                   |
+| ... of False Life           |                                                              |               |                   |
+| ... of False Death          |                                                              |               |                   |
+| ... of Cure Disease         |                                                              |               |                   |
+| ... of Astral Projection    |                                                              |               |                   |
 
 #### of Healing
 #### of Vitality
