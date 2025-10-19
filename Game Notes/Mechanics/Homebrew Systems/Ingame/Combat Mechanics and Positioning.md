@@ -74,7 +74,7 @@ Most Ranged Weapons consume Ammunition. If that Ammunition is not *fragile*, it 
 This weapon is a grenade, designed to be readied, thrown, and then explode. When you make an Attack with a grenade, instead of making an Attack Roll, make an Athletics Check. You may throw the grenade a number of feet equal to twice the total of your Athletics Check. To avoid the explosion, creatures within the radius make a Dexterity Saving throw, the DC of which is equal to your Athletics Check.
 
 ## Consuming Potions
-Consuming a potion for yourself costs a **Bonus Action**. Forcing someone else to drink a potion is a **Standard Action**.
+Potions must be consumed and digested for 10 minutes before they take effect. Potions continue to grant their effects for an hour after use.
 
 ## Changing Weapons or Held Items During Combat
 Dropping something in your hands is a **Free Action**. The item or items land at your feet.

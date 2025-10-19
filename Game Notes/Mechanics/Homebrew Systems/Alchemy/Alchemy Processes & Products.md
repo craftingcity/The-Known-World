@@ -212,23 +212,23 @@ A fabric infused with arcane-active ingredients.
 
 | Name (Source)               | Mechanic                                                                | Cost @ Market | Regions Producing |
 | --------------------------- | ----------------------------------------------------------------------- | ------------- | ----------------- |
-| ... of Healing              | Regain (G * (1d4+1)) Hit Points                                         |               |                   |
-| ... of Vitality             | Gain (G * (1d4+1)) Temporary Hit Points                                 |               |                   |
-| ... of Rejuvenation         | Regain (G * 3) Hit Points                                               |               |                   |
-| ... of Physical Resistance  | Grant G DR vs Bludgeoning, Slashing, Piercing                           |               |                   |
+| ... of Healing              | Once per minute, regain (G * (1d4+1)) Hit Points                        |               |                   |
+| ... of Vitality             | Once per minute, gain (G * (1d4+1)) Temporary Hit Points                |               |                   |
+| ... of Rejuvenation         | Once per minute, regain (G * 4) Hit Points                              |               |                   |
+| ... of Physical Resistance  | Grant G DR vs Bludgeoning, Slashing, and Piercing                       |               |                   |
 | ... of Elemental Resistance | Grant G DR vs one of Fire/Cold/Thunder/Lightning                        |               |                   |
 | ... of Poison Resistance    | Grant G DR vs one of Poison/Acid                                        |               |                   |
-| ... of Strong Mind          | Grant G DR vs Psychic, Grant Adv. for INT saves                         |               |                   |
-| ... of Mobility             | Grant +(G * 2) on DEX saves, Grant +(G * 2ft) SPD rounded up            |               |                   |
-| ... of Haste                | Cast *haste* on quaff, experience 'lethargy' once every (G + 1) rounds  |               |                   |
-| ... of Weightlessness       | Cast *levitation* on quaff if G>3, else gain +(G * 5) jump dist.        |               |                   |
-| ... of Flight               | Cast *flight* on quaff if G>3, else cast *levitation*                   |               |                   |
+| ... of Strong Mind          | Grant G DR vs Psychic, and Grant Adv. for INT saves                     |               |                   |
+| ... of Mobility             | Grant +(G * 2) on DEX saves, and Grant +(G * 2ft) SPD rounded up        |               |                   |
+| ... of Haste                | Cast *haste*, experience 'lethargy' once every (G + 1) rounds           |               |                   |
+| ... of Weightlessness       | Cast *levitation* if G>3, else gain +(G * 5) jump dist.                 |               |                   |
+| ... of Flight               | Cast *flight* if G>3, else cast *levitation*                            |               |                   |
 | ... of Water Breathing      | You may breathe water as if it were air if G>2, else gain G minutes air |               |                   |
-| ... of Liquid Form          |                                                                         |               |                   |
-| ... of Gaseous Form         |                                                                         |               |                   |
-| ... of Detect Extraplanar   |                                                                         |               |                   |
-| ... of Dragon's Breath      |                                                                         |               |                   |
-| ... of Detect Mortal        |                                                                         |               |                   |
+| ... of Liquid Form          | Cast *aqueous form*                                                     |               |                   |
+| ... of Gaseous Form         | Cast *gaseous form*                                                     |               |                   |
+| ... of Detect Extraplanar   | Cast *detect extraplanar* with (G * 15ft) range                         |               |                   |
+| ... of Dragon's Breath      | Cast *dragon's breath*                                                  |               |                   |
+| ... of Detect Mortal        | Cast *detect *                                                                        |               |                   |
 | ... of Ethereal Sight       |                                                                         |               |                   |
 | ... of True Sight           |                                                                         |               |                   |
 | ... of False Life           |                                                                         |               |                   |
