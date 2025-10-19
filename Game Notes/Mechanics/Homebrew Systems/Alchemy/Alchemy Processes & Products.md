@@ -210,31 +210,31 @@ A fabric infused with arcane-active ingredients.
 ## Consumable
 ### Potions
 
-| Name (Source)               | Mechanic                                                               | Cost @ Market | Regions Producing |
-| --------------------------- | ---------------------------------------------------------------------- | ------------- | ----------------- |
-| ... of Healing              | Regain (G * (1d4+1)) Hit Points                                        |               |                   |
-| ... of Vitality             | Gain (G * (1d4+1)) Temporary Hit Points                                |               |                   |
-| ... of Rejuvenation         | Regain (G * 3) Hit Points                                              |               |                   |
-| ... of Physical Resistance  | Grant G DR vs Bludgeoning, Slashing, Piercing                          |               |                   |
-| ... of Elemental Resistance | Grant G DR vs one of Fire/Cold/Thunder/Lightning                       |               |                   |
-| ... of Poison Resistance    | Grant G DR vs one of Poison/Acid                                       |               |                   |
-| ... of Strong Mind          | Grant G DR vs Psychic, Grant Adv. for INT saves                        |               |                   |
-| ... of Mobility             | Grant +(G * 2) on DEX saves, Grant +(G * 2ft) SPD rounded up           |               |                   |
-| ... of Haste                | Cast *haste* on quaff, experience 'lethargy' once every (G + 1) rounds |               |                   |
-| ... of Weightlessness       | Cast *levitation* on quaff if G>3, else gain +5 jump dist.             |               |                   |
-| ... of Flight               | Cast *flight* on quaff if G>3, else cast *levitation*                  |               |                   |
-| ... of Water Breathing      |                                                                        |               |                   |
-| ... of Liquid Form          |                                                                        |               |                   |
-| ... of Gaseous Form         |                                                                        |               |                   |
-| ... of Detect Extraplanar   |                                                                        |               |                   |
-| ... of Dragon's Breath      |                                                                        |               |                   |
-| ... of Detect Mortal        |                                                                        |               |                   |
-| ... of Ethereal Sight       |                                                                        |               |                   |
-| ... of True Sight           |                                                                        |               |                   |
-| ... of False Life           |                                                                        |               |                   |
-| ... of False Death          |                                                                        |               |                   |
-| ... of Cure Disease         |                                                                        |               |                   |
-| ... of Astral Projection    |                                                                        |               |                   |
+| Name (Source)               | Mechanic                                                                | Cost @ Market | Regions Producing |
+| --------------------------- | ----------------------------------------------------------------------- | ------------- | ----------------- |
+| ... of Healing              | Regain (G * (1d4+1)) Hit Points                                         |               |                   |
+| ... of Vitality             | Gain (G * (1d4+1)) Temporary Hit Points                                 |               |                   |
+| ... of Rejuvenation         | Regain (G * 3) Hit Points                                               |               |                   |
+| ... of Physical Resistance  | Grant G DR vs Bludgeoning, Slashing, Piercing                           |               |                   |
+| ... of Elemental Resistance | Grant G DR vs one of Fire/Cold/Thunder/Lightning                        |               |                   |
+| ... of Poison Resistance    | Grant G DR vs one of Poison/Acid                                        |               |                   |
+| ... of Strong Mind          | Grant G DR vs Psychic, Grant Adv. for INT saves                         |               |                   |
+| ... of Mobility             | Grant +(G * 2) on DEX saves, Grant +(G * 2ft) SPD rounded up            |               |                   |
+| ... of Haste                | Cast *haste* on quaff, experience 'lethargy' once every (G + 1) rounds  |               |                   |
+| ... of Weightlessness       | Cast *levitation* on quaff if G>3, else gain +(G * 5) jump dist.        |               |                   |
+| ... of Flight               | Cast *flight* on quaff if G>3, else cast *levitation*                   |               |                   |
+| ... of Water Breathing      | You may breathe water as if it were air if G>2, else gain G minutes air |               |                   |
+| ... of Liquid Form          |                                                                         |               |                   |
+| ... of Gaseous Form         |                                                                         |               |                   |
+| ... of Detect Extraplanar   |                                                                         |               |                   |
+| ... of Dragon's Breath      |                                                                         |               |                   |
+| ... of Detect Mortal        |                                                                         |               |                   |
+| ... of Ethereal Sight       |                                                                         |               |                   |
+| ... of True Sight           |                                                                         |               |                   |
+| ... of False Life           |                                                                         |               |                   |
+| ... of False Death          |                                                                         |               |                   |
+| ... of Cure Disease         |                                                                         |               |                   |
+| ... of Astral Projection    |                                                                         |               |                   |
 
 #### of Healing
 #### of Vitality
