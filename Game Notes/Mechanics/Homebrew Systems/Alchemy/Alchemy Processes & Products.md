@@ -209,6 +209,7 @@ A fabric infused with arcane-active ingredients.
 
 ## Consumable
 ### Potions
+> A 'Potion' as a unit of measurement
 
 | Name (Source)               | Mechanic                                                                                                                                                    | Cost @ Market | Regions Producing |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------------- |
@@ -235,7 +236,15 @@ A fabric infused with arcane-active ingredients.
 | ... of Cure Disease         | Cast *lesser restoration*                                                                                                                                                            |               |                   |
 
 #### of Healing
-A thin, deep red, decarbonated potion commonly used by adventurers or field medics to sustain a combatant over a long period of time.
+A thin, deep red, decarbonated potion commonly used by adventurers or field medics to sustain a combatant over multiple battles.
+
+After digestion, once per minute, you regain (G * (1d4+1)) Hit Points.
+
+**Ingredients**;
+- 32 ounces (9.60sp)
+- 8 ounces Aloe Vera (101.20sp)
+- 4 carat Jade (40.00sp)
+	- 
 
 #### of Vitality
 #### of Rejuvenation
