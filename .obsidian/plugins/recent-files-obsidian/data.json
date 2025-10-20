@@ -9,8 +9,16 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md"
     },
     {
+      "basename": "Homebrew Alchemy System",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md"
+    },
+    {
       "basename": "Combat Mechanics and Positioning",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
+    },
+    {
+      "basename": "The Gear...",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
     },
     {
       "basename": "Major Agricultural Harvests",
@@ -23,10 +31,6 @@
     {
       "basename": "Tiana Turing",
       "path": "Junie's Characters/Tiana Turing.md"
-    },
-    {
-      "basename": "Homebrew Alchemy System",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md"
     },
     {
       "basename": "Guilded Mystic Entries",
@@ -195,10 +199,6 @@
     {
       "basename": "zz_ Kailkeep Clues, Nodes, and Notes",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md"
-    },
-    {
-      "basename": "Who has a Horde",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Who has a Horde.md"
     }
   ],
   "omittedPaths": [],

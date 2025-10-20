@@ -297,9 +297,9 @@ To generate the contents of a given "random" PDA, roll 1d8 the following table a
 | Name                  | Type       | Desc.                                                                                                                                          | Cost in AC | Cost in SP |
 | --------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- |
 | Heamox Balm           | Semi-Solid | A thick balm used in the treatment of minor to major wounds, such as cuts, infections or punctures. (Use: Regain 2d6hp / 5 rounds + 1 Hit Die) |            |            |
-| Isiopara              | Solid      | A powerful powder that has multiple effects, depending on the manner of it’s consumption. (Use: Regain 10 + 3d4hp / 3 rounds)                  | 0.1           | 9sp           |
+| Isiopara              | Solid      | A powerful powder that has multiple effects, depending on the manner of it’s consumption. (Use: Regain 10 + 3d4hp / 3 rounds)                  | 0.1        | 9sp        |
 | Pretokarin            | Liquid     | A bitter liquid used to induce vomiting in the treatment of digestive ailments (Use: Resolve Poisoned condition)                               |            |            |
-| Secreclude Propaterol | Liquid     | Typically dispensed by injection, Secreclude Propaterol quickly regenerates even the most severe wounds. (Use: Regain 25hp / 3 rounds)         | 0.2          |  40sp          |
+| Secreclude Propaterol | Liquid     | Typically dispensed by injection, Secreclude Propaterol quickly regenerates even the most severe wounds. (Use: Regain 25hp / 3 rounds)         | 0.2        | 40sp       |
 | Medical Kit           | Solid      | A collection of bandages, antiseptics, and gauze, packed neatly into a swift bag. (10 Charges, Use: -1 Charge, roll HitDie, regain HD+CON hp)  |            |            |
 
 
