@@ -246,7 +246,7 @@ After digestion, once per minute, you regain (G * (1d4+1)) Hit Points.
 	- 4 ounces Potion of Healing, *Apprentice* (250.00sp / potion)
 
 #### of Vitality
-A thin, grey, decarbonated potion commonly used by adventurers or field medics as preventative medicine.
+A thin, light grey, decarbonated potion commonly used by adventurers or field medics as preventative medicine.
 
 After digestion, once per minute, you gain (G * (1d4+1)) Temporary Hit Points.
 
@@ -267,6 +267,10 @@ After digestion, once per minute, you gain (G * 8) Hit Points.
 	- 4 ounces Potion of Rejuvenation, *Apprentice* (500.00 / potion)
 
 #### of Physical Resistance
+A thick, dark grey, lightly carbonated potion used by adventurers or field medics as preventative medicine.
+
+After digestion, you gain G Bludgeoning, Slashing, and Piercing Damage Resistance.
+
 #### of Elemental Resistance
 #### of Poison Resistance
 #### of Strong Mind
