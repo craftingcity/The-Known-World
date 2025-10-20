@@ -210,33 +210,33 @@ A fabric infused with arcane-active ingredients.
 ## Consumable
 ### Potions
 
-| Name (Source)               | Mechanic                                                                | Cost @ Market | Regions Producing |
-| --------------------------- | ----------------------------------------------------------------------- | ------------- | ----------------- |
-| ... of Healing              | Once per minute, regain (G * (1d4+1)) Hit Points                        |               |                   |
-| ... of Vitality             | Once per minute, gain (G * (1d4+1)) Temporary Hit Points                |               |                   |
-| ... of Rejuvenation         | Once per minute, regain (G * 4) Hit Points                              |               |                   |
-| ... of Physical Resistance  | Grant G DR vs Bludgeoning, Slashing, and Piercing                       |               |                   |
-| ... of Elemental Resistance | Grant G DR vs one of Fire/Cold/Thunder/Lightning                        |               |                   |
-| ... of Poison Resistance    | Grant G DR vs one of Poison/Acid                                        |               |                   |
-| ... of Strong Mind          | Grant G DR vs Psychic, and Grant Adv. for INT saves                     |               |                   |
-| ... of Mobility             | Grant +(G * 2) on DEX saves, and Grant +(G * 2ft) SPD rounded up        |               |                   |
-| ... of Haste                | Cast *haste*, experience 'lethargy' once every (G + 1) rounds           |               |                   |
-| ... of Weightlessness       | Cast *levitation* if G>3, else gain +(G * 5) jump dist.                 |               |                   |
-| ... of Flight               | Cast *flight* if G>3, else cast *levitation*                            |               |                   |
-| ... of Water Breathing      | You may breathe water as if it were air if G>2, else gain G minutes air |               |                   |
-| ... of Liquid Form          | Cast *aqueous form*                                                     |               |                   |
-| ... of Gaseous Form         | Cast *gaseous form*                                                     |               |                   |
-| ... of Detect Extraplanar   | Cast *detect extraplanar* with (G * 15ft) range                         |               |                   |
-| ... of Dragon's Breath      | Cast *dragon's breath*                                                  |               |                   |
-| ... of Detect Mortal        | Cast *detect *                                                                        |               |                   |
-| ... of Ethereal Sight       |                                                                         |               |                   |
-| ... of True Sight           |                                                                         |               |                   |
-| ... of False Life           |                                                                         |               |                   |
-| ... of False Death          |                                                                         |               |                   |
-| ... of Cure Disease         |                                                                         |               |                   |
-| ... of Astral Projection    |                                                                         |               |                   |
+| Name (Source)               | Mechanic                                                                                                                                                    | Cost @ Market | Regions Producing |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------------- |
+| ... of Healing              | Once per minute, regain (G * (1d4+1)) Hit Points                                                                                                            |               |                   |
+| ... of Vitality             | Once per minute, gain (G * (1d4+1)) Temporary Hit Points                                                                                                    |               |                   |
+| ... of Rejuvenation         | Once per minute, regain (G * 4) Hit Points                                                                                                                  |               |                   |
+| ... of Physical Resistance  | Grant G DR vs Bludgeoning, Slashing, and Piercing                                                                                                           |               |                   |
+| ... of Elemental Resistance | Grant G DR vs one of Fire/Cold/Thunder/Lightning                                                                                                            |               |                   |
+| ... of Poison Resistance    | Grant G DR vs one of Poison/Acid                                                                                                                            |               |                   |
+| ... of Strong Mind          | Grant G DR vs Psychic, and Grant Adv. for INT saves                                                                                                         |               |                   |
+| ... of Mobility             | Grant +(G * 2) on DEX saves, and Grant +(G * 2ft) SPD rounded up                                                                                            |               |                   |
+| ... of Haste                | Cast *haste*, experience 'lethargy' once every (G + 1) rounds                                                                                               |               |                   |
+| ... of Weightlessness       | Cast *levitation* if G>3, else gain +(G * 5) jump dist.                                                                                                     |               |                   |
+| ... of Flight               | Cast *flight* if G>3, else cast *levitation*                                                                                                                |               |                   |
+| ... of Water Breathing      | You may breathe water as if it were air if G>2, else gain G minutes air                                                                                     |               |                   |
+| ... of Liquid Form          | Cast *aqueous form*                                                                                                                                         |               |                   |
+| ... of Gaseous Form         | Cast *gaseous form*                                                                                                                                         |               |                   |
+| ... of Detect Extraplanar   | Cast *detect extraplanar* with (G * 15ft) range                                                                                                             |               |                   |
+| ... of Dragon's Breath      | Cast *dragon's breath*                                                                                                                                      |               |                   |
+| ... of Detect Mortal        | Cast *detect extraplanar* with (G * 15ft) range for Humanoids exclusively                                                                                   |               |                   |
+| ... of True Sight           | Cast *true seeing* with (G * 15ft) range                                                                                                                    |               |                   |
+| ... of False Life           | For the duration, your creature type is Humanoid                                                                                                            |               |                   |
+| ... of False Death          | For the duration, you are paralyzed, poisoned, and incapacitated. While incapacitated this way, you appear dead to all but the most thorough investigation. |               |                   |
+| ... of Cure Disease         | Cast *lesser restoration*                                                                                                                                                            |               |                   |
 
 #### of Healing
+A 
+
 #### of Vitality
 #### of Rejuvenation
 #### of Physical Resistance
