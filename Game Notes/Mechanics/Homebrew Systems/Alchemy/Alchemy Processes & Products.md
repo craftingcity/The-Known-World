@@ -213,8 +213,8 @@ A fabric infused with arcane-active ingredients.
 | Name (Source)               | Mechanic                                                                                                 | Cost @ Market          | Regions Producing |
 | --------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------- | ----------------- |
 | ... of Healing              | Once per minute, regain (G * (1d4+1)) Hit Points                                                         | 250sp * Grade / potion |                   |
-| ... of Vitality             | Once per minute, gain (G * (1d4+1)) Temporary Hit Points                                                 |                        |                   |
-| ... of Rejuvenation         | Once per minute, regain (G * 4) Hit Points                                                               |                        |                   |
+| ... of Vitality             | Once per minute, gain (G * (1d4+1)) Temporary Hit Points                                                 | 75sp * Grade / potion  |                   |
+| ... of Rejuvenation         | Once per minute, regain (G * 8) Hit Points                                                               | 500sp * Grade / potion |                   |
 | ... of Physical Resistance  | Grant G DR vs Bludgeoning, Slashing, and Piercing                                                        |                        |                   |
 | ... of Elemental Resistance | Grant G DR vs one of Fire/Cold/Thunder/Lightning                                                         |                        |                   |
 | ... of Poison Resistance    | Grant G DR vs one of Poison/Acid                                                                         |                        |                   |
@@ -252,11 +252,20 @@ After digestion, once per minute, you gain (G * (1d4+1)) Temporary Hit Points.
 
 **Ingredients**;
 - 32 ounces Cannabis (9.60sp)
-- 16 ounces Lavander (6.40sp)
+- 16 ounces Lavender (6.40sp)
 - 8 ounces Oak Bark (26.00sp)
-	- 
+	- 4 ounces Potion of Vitality, *Apprentice* (75.00sp / potion)
 
 #### of Rejuvenation
+A thin, bright green, lightly carbonated potion typically reserved for long-term-care facilities, sometimes used by high-tier adventurers and militants.
+
+After digestion, once per minute, you gain (G * 8) Hit Points.
+
+**Ingredients**;
+- 16 ounces Aloe Vera (202.40sp)
+- 32 ounces Birch Bark (128.00sp)
+	- 4 ounces Potion of Rejuvenation, *Apprentice* (500.00 / potion)
+
 #### of Physical Resistance
 #### of Elemental Resistance
 #### of Poison Resistance
