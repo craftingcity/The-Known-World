@@ -269,10 +269,18 @@ After digestion, once per minute, you gain (G * 8) Hit Points.
 #### of Physical Resistance
 A thick, dark grey, lightly carbonated potion used by adventurers or field medics as preventative medicine.
 
-After digestion, you gain G Bludgeoning, Slashing, and Piercing Damage Resistance.
+After digestion, you gain G Damage Resistance to Bludgeoning, Slashing, and Piercing damage.
 
 #### of Elemental Resistance
+A thick, iridescent, lightly carbonated potion used by adventurers or field medics as preventative medicine.
+
+After digestion, you gain G Damage Resistance to one of Acid, Fire, Cold, Thunder, or Lightning damage.
+
 #### of Poison Resistance
+A thick, dark blue, decarbonated potion most commonly used by exterminators and other hazard workers, and sometimes used by adventurers as preventative medicine.
+
+After digestion, you gain G Damage Resistance to Poison damage.
+
 #### of Strong Mind
 #### of Mobility
 #### of Haste
