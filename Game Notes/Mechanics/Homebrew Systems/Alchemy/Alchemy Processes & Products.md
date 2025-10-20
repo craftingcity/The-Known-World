@@ -235,7 +235,7 @@ A fabric infused with arcane-active ingredients.
 | ... of Cure Disease         | Cast *lesser restoration*                                                                                                                                                            |               |                   |
 
 #### of Healing
-A thin, light to deep red 
+A thin, light to deep red, decarbonated potion 
 
 #### of Vitality
 #### of Rejuvenation
