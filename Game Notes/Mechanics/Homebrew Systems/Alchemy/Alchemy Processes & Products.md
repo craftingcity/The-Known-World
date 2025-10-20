@@ -235,7 +235,7 @@ A fabric infused with arcane-active ingredients.
 | ... of Cure Disease         | Cast *lesser restoration*                                                                                                                                                            |               |                   |
 
 #### of Healing
-A thin, light to deep red, decarbonated potion 
+A thin, deep red, decarbonated potion commonly used by adventurers or field medics to sustain a combatant over a long period of time.
 
 #### of Vitality
 #### of Rejuvenation
