@@ -289,9 +289,23 @@ After digestion, you gain G Damage Resistance to Psychic damage, and you have Ad
 #### of Mobility
 A thin, orange, lightly carbonated potion used by adventurers and illicit athletes to force their bodies beyond their natural limits.
 
+After digestion, you gain a bonus to your speed equal to (G * 5ft), and you have Advantage on Dexterity Saving Throws.
+
 #### of Haste
+A thick, yellow, decarbonated potion used by adventurers and arcanists to decrease the impact of time on their movements.
+
+After digestion, you are effected by a modified *haste* spell. You experience the "lethargy" effect described in the spell once every (G + 1) rounds instead of when the spell ends.
+
 #### of Weightlessness
+A thin, dark blue, decarbonated potion used by adventurers and arcanists to decrease the impact of gravity on their movements.
+
+After digestion, you are effected by a modified *levitate* spell. The speed at which you may maneuver is (G * 5ft) instead of 20ft. You must still use your Full Action to move horizontally.
+
 #### of Flight
+A thin, dark blue, decarbonated potion used by adventurers and arcanists to completely disregard the impact of gravity on their movements.
+
+After digestion, you are effected by a modified *fly* spell. The 
+
 #### of Water Breathing
 #### of Liquid Form
 #### of Gaseous Form
