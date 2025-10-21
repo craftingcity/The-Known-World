@@ -282,6 +282,7 @@ A thick, dark blue, decarbonated potion most commonly used by exterminators and 
 After digestion, you gain G Damage Resistance to Poison damage.
 
 #### of Strong Mind
+A thin, pink, lightly carbonated potion used by adventurers 
 #### of Mobility
 #### of Haste
 #### of Weightlessness
