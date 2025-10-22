@@ -271,9 +271,10 @@ A thick, dark grey, lightly carbonated potion used by adventurers or field medic
 After digestion, you gain G Damage Resistance to Bludgeoning, Slashing, and Piercing damage.
 
 **Ingredients**;
-
-
-
+- 16 ounces Lavender (6.40sp)
+- 16 ounces Ironwood Shavings (296.00sp)
+- 32 ounces Oak Bark (104.00sp)
+	- 4 ounces Potion of Physical Resistance, *Apprentice* (750.00 / potion)
 
 #### of Elemental Resistance
 A thick, iridescent, lightly carbonated potion used by adventurers or field medics as preventative medicine.
