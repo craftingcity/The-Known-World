@@ -293,9 +293,10 @@ A thick, dark blue, decarbonated potion most commonly used by exterminators and 
 After digestion, you gain G Damage Resistance to Poison damage.
 
 **Ingredients**;
-
-
-
+- 32 ounces Lavender (12.80sp)
+- 32 ounces Oak Bark (104.00sp)
+- 4 ounces Nightshade (320.00sp)
+	- 4 ounces Potion of Poison Resistance, *Apprentice* (750.00sp / potion)
 
 #### of Strong Mind
 A thin, pink, lightly carbonated potion used by adventurers in the defense of their mind.
@@ -303,9 +304,12 @@ A thin, pink, lightly carbonated potion used by adventurers in the defense of th
 After digestion, you gain G Damage Resistance to Psychic damage, and you have Advantage on Intelligence Saving Throws.
 
 **Ingredients**;
-
-
-
+- 32 ounces Lavender (12.80sp)
+- 32 ounces Oak Bark (104.00sp)
+- 32 ounces Tobacco (3.20sp)
+- 16 ounces Ironwood Shavings (296.00sp)
+- 16 ounces Foxglove (256.00sp)
+	- 4 ounces Potion of Strong Mind, *Apprentice* (1.5k sp / potion)
 
 #### of Mobility
 A thin, orange, lightly carbonated potion used by adventurers and illicit athletes to force their bodies beyond their natural limits.
@@ -313,7 +317,8 @@ A thin, orange, lightly carbonated potion used by adventurers and illicit athlet
 After digestion, you gain a bonus to your speed equal to (G * 5ft), and you have Advantage on Dexterity Saving Throws.
 
 **Ingredients**;
-
+- 16 ounces Brightmoss (153.60sp)
+- 16 ounces Mountain Flower (120.00sp)
 
 
 
