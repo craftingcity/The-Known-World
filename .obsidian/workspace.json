@@ -6,7 +6,7 @@
       {
         "id": "d8a155bf9a9d588e",
         "type": "tabs",
-        "dimension": 56.197230665315764,
+        "dimension": 61.378205128205124,
         "children": [
           {
             "id": "0ef919ab154fb315",
@@ -30,13 +30,36 @@
               "icon": "lucide-file",
               "title": "Alchemy Processes & Products"
             }
+          },
+          {
+            "id": "86d9eb9eed2566ea",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Combat Mechanics and Positioning"
+            }
           }
         ]
       },
       {
         "id": "81e4786714e45107",
         "type": "split",
-        "dimension": 43.80276933468423,
+        "dimension": 38.621794871794876,
         "children": [
           {
             "id": "99d7f76fc8955207",
@@ -64,55 +87,8 @@
                   "icon": "lucide-file",
                   "title": "Alchemical Components"
                 }
-              },
-              {
-                "id": "f35246ca7be9a1eb",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Homebrew Alchemy System"
-                }
-              },
-              {
-                "id": "7c75feb8a0327a4f",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Alchemy Processes & Products"
-                }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "683109b5892c87c4",
@@ -194,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "healing",
+                "query": "Litigation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -243,7 +219,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -418,16 +395,92 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ef919ab154fb315",
+  "floating": {
+    "id": "2bd7f8631d31d0ff",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0aa07ea129fac3ee",
+        "type": "window",
+        "children": [
+          {
+            "id": "59207ddc394d3685",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ca8e1c6196ba7c5e",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Tiana Turing.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tiana Turing"
+                }
+              }
+            ]
+          },
+          {
+            "id": "02f6d8de9b62f186",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b0d665f266d5b104",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Tiana Turing.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tiana Turing"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 514,
+        "y": 0,
+        "width": 1022,
+        "height": 912,
+        "maximize": false,
+        "zoom": -2.5
+      }
+    ]
+  },
+  "active": "b0d665f266d5b104",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "Junie's Characters/Tiana Turing.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "An Open Letter....md",
@@ -447,6 +500,7 @@
     "list of alchemical items to place.md",
     "Game Notes/Prenotes/'25/Prenotes Sep 10 25.md",
     "Game Notes/Prenotes/'25/Prenotes Sep 13 25.md",
+    "Game Notes/Prenotes/'25/Prenotes Oct 04 25.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",

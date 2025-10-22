@@ -200,6 +200,9 @@ We fight some spiders down that way.
 #### Session 16: Into the Swamps... (cont.)
 As we continue down the path, we end up in what seems to be the den of the spiders, where a big teleporting one surprises us!
 
+#### Session 17: Into the Swamps (cont.)
+We continue the fight against the teleporting spider.
+
 ## Stats
 
 | L. 5 | XP: 13,925 | / 14.0k | (1) Inspiration |
@@ -207,7 +210,7 @@ As we continue down the path, we end up in what seems to be the den of the spide
 | STR  | 8  (-1)    | PRF     | +3              |
 | CON  | 13 (+1)    | M. HP   | 27 Max HP       |
 | DEX  | 16 (+3)    | AC      | (13)            |
-| INT  | 20 (+5) ^  | C. HP   | 19+5 HP           |
+| INT  | 20 (+5) ^  | C. HP   | 19+5 HP         |
 | WIS  | 14 (+2) ^  | HD      | 5d6 (5/5)       |
 | CHA  | 12 (+1)    | SPD     | 25' (5s)        |
 
@@ -294,7 +297,7 @@ At 4th level, Tiana takes the [[#Telekinetic]] Feat;
 - You can cast *mage hand* without verbal or somatic components, and you can make the spectral hand invisible.
 - As a bonus action, you can try to *telekinetically shove* one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward or away from you. A creature can willingly fail this save.
 
-##### Manifest Mind (BA, -/1+ summon, 3/3 spells)
+##### (@L6) Manifest Mind (BA, -/1+ summon, 3/3 spells)
 At 6th level, as a bonus action, while you are holding the Awakened Spellbook, you can cause it to manifest as a Tiny spectral object, hovering in an unoccupied space of your choice within 60 feet of you. The Awakened Spellbook is *intangible* and *doesn't occupy its space*, and it *sheds dim light in a 10-foot radius*.
 
 While manifested, the Awakened Spellbook *can hear and see*, and it has darkvision with a range of 60 feet. The Awakened Spellbook can telepathically share with you what it sees and hears (no action required). You can cast spells on your turn as if you were in the Awakened Spellbook's space a number of times equal to your proficiency bonus per long rest.
