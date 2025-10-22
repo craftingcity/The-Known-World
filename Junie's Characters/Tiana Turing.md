@@ -201,7 +201,7 @@ We fight some spiders down that way.
 As we continue down the path, we end up in what seems to be the den of the spiders, where a big teleporting one surprises us!
 
 #### Session 17: Into the Swamps (cont.)
-We continue the fight against the teleporting spider.
+We continue the fight against the teleporting spider. We rescue Mindy and Crorix.
 
 ## Stats
 
