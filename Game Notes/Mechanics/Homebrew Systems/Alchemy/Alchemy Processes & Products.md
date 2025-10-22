@@ -247,7 +247,7 @@ After digestion, once per minute, you regain (G * (1d4+1)) Hit Points.
 #### of Vitality
 A thin, light grey, decarbonated potion commonly used by adventurers or field medics as preventative medicine.
 
-After digestion, once per minute, you gain (G * (1d4+1)) Temporary Hit Points.
+After digestion, once per minute, you may set your Temporary Hit Points to (G * (1d4+1)).
 
 **Ingredients**;
 - 32 ounces Cannabis (9.60sp)
@@ -258,7 +258,7 @@ After digestion, once per minute, you gain (G * (1d4+1)) Temporary Hit Points.
 #### of Rejuvenation
 A thin, bright green, lightly carbonated potion typically reserved for long-term-care facilities, sometimes used by high-tier adventurers and militants.
 
-After digestion, once per minute, you gain (G * 8) Hit Points.
+After digestion, once per minute, you regain (G * 8) Hit Points.
 
 **Ingredients**;
 - 16 ounces Aloe Vera (202.40sp)
@@ -270,78 +270,171 @@ A thick, dark grey, lightly carbonated potion used by adventurers or field medic
 
 After digestion, you gain G Damage Resistance to Bludgeoning, Slashing, and Piercing damage.
 
+**Ingredients**;
+
+
+
+
 #### of Elemental Resistance
 A thick, iridescent, lightly carbonated potion used by adventurers or field medics as preventative medicine.
 
 After digestion, you gain G Damage Resistance to one of Acid, Fire, Cold, Thunder, or Lightning damage.
+
+**Ingredients**;
+
+
+
+
 
 #### of Poison Resistance
 A thick, dark blue, decarbonated potion most commonly used by exterminators and other hazard workers, and sometimes used by adventurers as preventative medicine.
 
 After digestion, you gain G Damage Resistance to Poison damage.
 
+**Ingredients**;
+
+
+
+
 #### of Strong Mind
 A thin, pink, lightly carbonated potion used by adventurers in the defense of their mind.
 
 After digestion, you gain G Damage Resistance to Psychic damage, and you have Advantage on Intelligence Saving Throws.
+
+**Ingredients**;
+
+
+
 
 #### of Mobility
 A thin, orange, lightly carbonated potion used by adventurers and illicit athletes to force their bodies beyond their natural limits.
 
 After digestion, you gain a bonus to your speed equal to (G * 5ft), and you have Advantage on Dexterity Saving Throws.
 
+**Ingredients**;
+
+
+
+
 #### of Haste
 A thick, yellow, decarbonated potion used by adventurers and arcanists to decrease the impact of time on their movements.
 
 After digestion, you are effected by a modified *haste* spell. You experience the "lethargy" effect, as described in the spell, once every (G + 1) rounds instead of when the spell ends.
+
+**Ingredients**;
+
+
+
 
 #### of Weightlessness
 A thin, dark blue, decarbonated potion used by adventurers and arcanists to decrease the impact of gravity on their movements.
 
 After digestion, you are effected by a modified *levitate* spell. The speed at which you may maneuver is (G * 5ft) instead of 20ft. You must still use your Full Action to move horizontally, as described in the spell.
 
+**Ingredients**;
+
+
+
+
 #### of Flight
 A thin, light blue, decarbonated potion used by adventurers and arcanists to completely disregard the impact of gravity on their movements.
 
 After digestion, you are effected by a modified *fly* spell. You gain a (G * 10ft) flying speed instead of 60ft.
+
+**Ingredients**;
+
+
+
 
 #### of Water Breathing
 A viscus, deep green, heavily carbonated potion used by adventurers and hazard workers in flooded or otherwise water-dense environments.
 
 After digestion, you can breathe in water as if it were air.
 
+**Ingredients**;
+
+
+
+
 #### of Gaseous Form
 A viscus, dark purple, decarbonated potion used primarily by assassins to bypass heavy surveillance or other defenses.
 
 After digestion, you are effected by the *gaseous form* spell. 
+
+**Ingredients**;
+
+
+
 
 #### of Detect Extraplanar
 A thin, golden, lightly carbonated potion used primarily by rangers and adventurers to detect and identify extra-planar entities.
 
 After digestion, you are effected by a modified *detect evil and good* spell. The range at which you detect extraplanars is (G * 15ft) instead of 30ft.
 
+**Ingredients**;
+
+
+
+
 #### of Dragon's Breath
 A thin, prismatic, swirling potion used exclusively by adventurers as an alternative weapon that cannot be taken.
 
 After digestion, you are effected by a modified *dragon's breath* spell. When you "exhale energy", roll a d6 to determine the damage type, where 1-5 are the types as listed in the spell description, and 6 is force. Then, the damage you deal is (Gd6) instead of 3d6.
+
+**Ingredients**;
+
+
+
 
 #### of Detect Mortal
 A thin, grey, lightly carbonated potion used primarily by rangers and adventurers to detect and identify mortal entities.
 
 After digestion, you are effected by a modified *detect evil and good* spell. Instead of the listed creature types, you detect Humanoids. The range at which you detect Humanoids is (G * 15ft) instead of 30ft.
 
+**Ingredients**;
+
+
+
+
 #### of True Sight
 A thin, white, lightly carbonated potion used primarily by rangers and adventurers to detect and identify illusions.
 
 After digestion, you are effected by a modified *true seeing* spell. The range at which you "see things as they are" is (G * 15ft) instead of 120ft.
 
+**Ingredients**;
+
+
+
+
 #### of False Life
-A thick, light green, heavily carbonated potion used by 
+A thick, light green, heavily carbonated potion used by amortal entities to appear so.
+
+After digestion, your creature type is Humanoid instead of any other creature types.
+
+**Ingredients**;
+
+
 
 
 #### of False Death
+A thick, black, decarbonated potion used by spies, assassins, or other illicit figures to appear as dead despite in fact being alive.
+
+After digestion, you are paralyzed and incapacitated. While you are incapacitated this way, you appear dead to all but the most thorough investigation (DC 20).
+
+**Ingredients**;
+
+
+
+
 #### of Cure Disease
-#### of Astral Projection
+A thin, gold, decarbonated potion used by common folk to resolve infection or disease when it becomes apparent.
+
+After digestion, you are effected by the *lesser restoration* spell.
+
+**Ingredients**;
+
+
+
 
 ### Poisons
 
