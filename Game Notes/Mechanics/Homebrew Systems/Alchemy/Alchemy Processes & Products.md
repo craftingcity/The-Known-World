@@ -319,8 +319,9 @@ After digestion, you gain a bonus to your speed equal to (G * 5ft), and you have
 **Ingredients**;
 - 16 ounces Brightmoss (153.60sp)
 - 16 ounces Mountain Flower (120.00sp)
-
-
+- 16 ounces Foot of Rabbit (16.00sp)
+- 64 gallons Blood (64.00sp)
+	- 4 ounces Potion of Mobility, *Apprentice* (375.00sp / potion)
 
 #### of Haste
 A thick, yellow, decarbonated potion used by adventurers and arcanists to decrease the impact of time on their movements.
