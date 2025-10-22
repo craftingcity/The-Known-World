@@ -224,7 +224,6 @@ A fabric infused with arcane-active ingredients.
 | ... of Weightlessness       | Cast *levitation* if G>3, else gain +(G * 5) jump dist.                                                  |                        |                   |
 | ... of Flight               | Cast *flight* if G>3, else cast *levitation*                                                             |                        |                   |
 | ... of Water Breathing      | You may breathe water as if it were air if G>2, else gain G minutes air                                  |                        |                   |
-| ... of Liquid Form          | Cast *aqueous form*                                                                                      |                        |                   |
 | ... of Gaseous Form         | Cast *gaseous form*                                                                                      |                        |                   |
 | ... of Detect Extraplanar   | Cast *detect extraplanar* with (G * 15ft) range                                                          |                        |                   |
 | ... of Dragon's Breath      | Cast *dragon's breath*                                                                                   |                        |                   |
@@ -294,27 +293,52 @@ After digestion, you gain a bonus to your speed equal to (G * 5ft), and you have
 #### of Haste
 A thick, yellow, decarbonated potion used by adventurers and arcanists to decrease the impact of time on their movements.
 
-After digestion, you are effected by a modified *haste* spell. You experience the "lethargy" effect described in the spell once every (G + 1) rounds instead of when the spell ends.
+After digestion, you are effected by a modified *haste* spell. You experience the "lethargy" effect, as described in the spell, once every (G + 1) rounds instead of when the spell ends.
 
 #### of Weightlessness
 A thin, dark blue, decarbonated potion used by adventurers and arcanists to decrease the impact of gravity on their movements.
 
-After digestion, you are effected by a modified *levitate* spell. The speed at which you may maneuver is (G * 5ft) instead of 20ft. You must still use your Full Action to move horizontally.
+After digestion, you are effected by a modified *levitate* spell. The speed at which you may maneuver is (G * 5ft) instead of 20ft. You must still use your Full Action to move horizontally, as described in the spell.
 
 #### of Flight
-A thin, dark blue, decarbonated potion used by adventurers and arcanists to completely disregard the impact of gravity on their movements.
+A thin, light blue, decarbonated potion used by adventurers and arcanists to completely disregard the impact of gravity on their movements.
 
-After digestion, you are effected by a modified *fly* spell. The 
+After digestion, you are effected by a modified *fly* spell. You gain a (G * 10ft) flying speed instead of 60ft.
 
 #### of Water Breathing
-#### of Liquid Form
+A viscus, deep green, heavily carbonated potion used by adventurers and hazard workers in flooded or otherwise water-dense environments.
+
+After digestion, you can breathe in water as if it were air.
+
 #### of Gaseous Form
+A viscus, dark purple, decarbonated potion used primarily by assassins to bypass heavy surveillance or other defenses.
+
+After digestion, you are effected by the *gaseous form* spell. 
+
 #### of Detect Extraplanar
+A thin, golden, lightly carbonated potion used primarily by rangers and adventurers to detect and identify extra-planar entities.
+
+After digestion, you are effected by a modified *detect evil and good* spell. The range at which you detect extraplanars is (G * 15ft) instead of 30ft.
+
 #### of Dragon's Breath
+A thin, prismatic, swirling potion used exclusively by adventurers as an alternative weapon that cannot be taken.
+
+After digestion, you are effected by a modified *dragon's breath* spell. When you "exhale energy", roll a d6 to determine the damage type, where 1-5 are the types as listed in the spell description, and 6 is force. Then, the damage you deal is (Gd6) instead of 3d6.
+
 #### of Detect Mortal
-#### of Ethereal Sight
+A thin, grey, lightly carbonated potion used primarily by rangers and adventurers to detect and identify mortal entities.
+
+After digestion, you are effected by a modified *detect evil and good* spell. Instead of the listed creature types, you detect Humanoids. The range at which you detect Humanoids is (G * 15ft) instead of 30ft.
+
 #### of True Sight
+A thin, white, lightly carbonated potion used primarily by rangers and adventurers to detect and identify illusions.
+
+After digestion, you are effected by a modified *true seeing* spell. The range at which you "see things as they are" is (G * 15ft) instead of 120ft.
+
 #### of False Life
+A thick, light green, heavily carbonated potion used by 
+
+
 #### of False Death
 #### of Cure Disease
 #### of Astral Projection
