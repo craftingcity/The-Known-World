@@ -263,7 +263,7 @@ After digestion, once per minute, you regain (G * 8) Hit Points.
 **Ingredients**;
 - 16 ounces Aloe Vera (202.40sp)
 - 32 ounces Birch Bark (128.00sp)
-	- 4 ounces Potion of Rejuvenation, *Apprentice* (500.00 / potion)
+	- 4 ounces Potion of Rejuvenation, *Apprentice* (500.00sp / potion)
 
 #### of Physical Resistance
 A thick, dark grey, lightly carbonated potion used by adventurers or field medics as preventative medicine.
@@ -274,7 +274,7 @@ After digestion, you gain G Damage Resistance to Bludgeoning, Slashing, and Pier
 - 16 ounces Lavender (6.40sp)
 - 16 ounces Ironwood Shavings (296.00sp)
 - 32 ounces Oak Bark (104.00sp)
-	- 4 ounces Potion of Physical Resistance, *Apprentice* (750.00 / potion)
+	- 4 ounces Potion of Physical Resistance, *Apprentice* (750.00sp / potion)
 
 #### of Elemental Resistance
 A thick, iridescent, lightly carbonated potion used by adventurers or field medics as preventative medicine.
@@ -282,10 +282,10 @@ A thick, iridescent, lightly carbonated potion used by adventurers or field medi
 After digestion, you gain G Damage Resistance to one of Acid, Fire, Cold, Thunder, or Lightning damage.
 
 **Ingredients**;
-
-
-
-
+- 32 ounces Lavender (12.80sp)
+- 32 ounces Oak Bark (104.00sp)
+- 1 pound Gold (110.00sp)
+	- 4 ounces Potion of Elemental Resistance, *Apprentice* (375.00sp / potion)
 
 #### of Poison Resistance
 A thick, dark blue, decarbonated potion most commonly used by exterminators and other hazard workers, and sometimes used by adventurers as preventative medicine.
