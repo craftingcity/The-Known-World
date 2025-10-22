@@ -395,91 +395,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "2bd7f8631d31d0ff",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0aa07ea129fac3ee",
-        "type": "window",
-        "children": [
-          {
-            "id": "02f6d8de9b62f186",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b0d665f266d5b104",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Junie's Characters/Tiana Turing.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tiana Turing"
-                }
-              }
-            ]
-          },
-          {
-            "id": "97f639c8ce7253f2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ca8e1c6196ba7c5e",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Junie's Characters/Tiana Turing.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tiana Turing"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 514,
-        "y": 0,
-        "width": 1022,
-        "height": 912,
-        "maximize": false,
-        "zoom": -2.5
-      }
-    ]
-  },
-  "active": "b0d665f266d5b104",
+  "active": "0ef919ab154fb315",
   "lastOpenFiles": [
+    "Junie's Characters/Tiana Turing.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
-    "Junie's Characters/Tiana Turing.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
