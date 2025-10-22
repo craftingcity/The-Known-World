@@ -191,7 +191,7 @@ We meet a swamp man named Bramble. He has a pet otter. The lizardfolk call thems
 
 *Whispering Skull of Varr'thul (req. attune)* - While carried, 'Revenants' and similar undead have disadvantage against you, and you resist necrotic damage against them, and 1/day, command word, within 30ft those creatures must succeed on DC 15 Wisdom or be Turned.
 
-Vresk's Shack is Hallowed. We take a nap and move on. To the swamp.
+Bramble's Shack is Hallowed. We take a nap and move on. To the swamp.
 
 We reach a fork, the left path has a cloak on a branch worn by a member of our crew!
 
@@ -201,7 +201,7 @@ We fight some spiders down that way.
 As we continue down the path, we end up in what seems to be the den of the spiders, where a big teleporting one surprises us!
 
 #### Session 17: Into the Swamps (cont.)
-We continue the fight against the teleporting spider. We rescue Mindy and Crorix.
+We continue the fight against the teleporting spider. We rescue Mindy and Crorix. Crorix takes us to a place to stay in the swamp.
 
 ## Stats
 
@@ -210,7 +210,7 @@ We continue the fight against the teleporting spider. We rescue Mindy and Crorix
 | STR  | 8  (-1)    | PRF     | +3              |
 | CON  | 13 (+1)    | M. HP   | 27 Max HP       |
 | DEX  | 16 (+3)    | AC      | (13)            |
-| INT  | 20 (+5) ^  | C. HP   | 27 HP         |
+| INT  | 20 (+5) ^  | C. HP   | 27 HP           |
 | WIS  | 14 (+2) ^  | HD      | 5d6 (5/5)       |
 | CHA  | 12 (+1)    | SPD     | 25' (5s)        |
 
