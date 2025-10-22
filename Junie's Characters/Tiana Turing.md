@@ -218,8 +218,8 @@ We continue the fight against the teleporting spider.
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | o   | .   | .   | .   | .   | .    | .   |
 | o   | o   | x   | .   | .   | .   | .   |      |     |
-| o   | x   | .   | .   | .   |     |     | DC   | 16  |
-| o   |     |     |     |     |     |     | ATTK | +8  |
+| x   | x   | .   | .   | .   |     |     | DC   | 16  |
+| x   |     |     |     |     |     |     | ATTK | +8  |
 
 #### Proficiencies
 ##### Skills
