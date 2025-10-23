@@ -359,14 +359,16 @@ After digestion, you are effected by a modified *fly* spell. You gain a (G * 10f
 
 
 #### of Water Breathing
-A viscus, deep green, heavily carbonated potion used by adventurers and hazard workers in flooded or otherwise water-dense environments.
+A viscus, deep green, heavily carbonated potion used by adventurers and hazard workers to survive in flooded or otherwise water-dense environments.
 
 After digestion, you can breathe in water as if it were air.
 
 **Ingredients**;
-
-
-
+- 16 ounces Cactus Essence (108.00sp)
+- 16 ounces Polypore, Blue (56.00sp)
+- 8 carat Amethyst (800.00sp)
+- 32 gallon Mercury (24.00sp)
+	- 4 ounces Potion of Water Breathing, *Apprentice* (1.25k sp / potion)
 
 #### of Gaseous Form
 A viscus, dark purple, decarbonated potion used primarily by assassins to bypass heavy surveillance or other defenses.
@@ -374,7 +376,9 @@ A viscus, dark purple, decarbonated potion used primarily by assassins to bypass
 After digestion, you are effected by the *gaseous form* spell. 
 
 **Ingredients**;
-
+- 16 pounds Sulfur (16.00sp)
+- 64 ounces Head of Lamb (768.00sp)
+- 12 pounds Bronze 3()
 
 
 
