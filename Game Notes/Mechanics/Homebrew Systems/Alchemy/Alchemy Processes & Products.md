@@ -378,9 +378,8 @@ After digestion, you are effected by the *gaseous form* spell.
 **Ingredients**;
 - 16 pounds Sulfur (16.00sp)
 - 64 ounces Head of Lamb (768.00sp)
-- 12 pounds Bronze 3()
-
-
+- 12 pounds Bronze (21.60sp)
+	- 4 ounces Potion of Gaseous Form, *Apprentice* (1.5k sp / potion)
 
 #### of Detect Extraplanar
 A thin, golden, lightly carbonated potion used primarily by rangers and adventurers to detect and identify extra-planar entities.
@@ -388,7 +387,9 @@ A thin, golden, lightly carbonated potion used primarily by rangers and adventur
 After digestion, you are effected by a modified *detect evil and good* spell. The range at which you detect extraplanars is (G * 15ft) instead of 30ft.
 
 **Ingredients**;
-
+- 32 ounces Head of Lamb (384.00sp)
+- 1 carat Diamond (1.0k sp)
+- 30 carat Jade (300.00sp)
 
 
 
