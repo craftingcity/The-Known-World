@@ -329,9 +329,10 @@ A thick, yellow, decarbonated potion used by adventurers and arcanists to decrea
 After digestion, you are effected by a modified *haste* spell. You experience the "lethargy" effect, as described in the spell, once every (G + 1) rounds instead of when the spell ends.
 
 **Ingredients**;
-
-
-
+- 12 pounds Amber (180.00sp)
+- 4 pounds Gold (440.00sp)
+- 1 carat White Quartz (300.00sp)
+	- 4 ounces Potion of Haste, *Apprentice* (1.5k sp / potion)
 
 #### of Weightlessness
 A thin, dark blue, decarbonated potion used by adventurers and arcanists to decrease the impact of gravity on their movements.
@@ -339,9 +340,10 @@ A thin, dark blue, decarbonated potion used by adventurers and arcanists to decr
 After digestion, you are effected by a modified *levitate* spell. The speed at which you may maneuver is (G * 5ft) instead of 20ft. You must still use your Full Action to move horizontally, as described in the spell.
 
 **Ingredients**;
-
-
-
+- 32 ounces Ginko Leaf (73.60sp)
+- 16 ounces Cactus Essence (108.00sp)
+- 16 ounces Feather of Bird (384.00sp)
+	- 4 ounces Potion of Weightlessness, *Apprentice* (750.00sp / potion)
 
 #### of Flight
 A thin, light blue, decarbonated potion used by adventurers and arcanists to completely disregard the impact of gravity on their movements.
@@ -349,8 +351,11 @@ A thin, light blue, decarbonated potion used by adventurers and arcanists to com
 After digestion, you are effected by a modified *fly* spell. You gain a (G * 10ft) flying speed instead of 60ft.
 
 **Ingredients**;
-
-
+- 8 carat Amethyst (800.00sp)
+- 24 pounds Sulphur (24.00sp)
+- 16 ounces Cactus Essence (108.00sp)
+- 32 ounces Ginko Leaf (73.60sp)
+	- 4 ounces Potion of Flight, *Apprentice* (1.5k sp / potion)
 
 
 #### of Water Breathing
