@@ -486,7 +486,7 @@ After digestion, you are effected by the *lesser restoration* spell.
 | Poisoner's Matrix   |          |               |                   |
 
 #### Traditional
-A
+A bright green poison that, when introduced to the bloodstream by either direct injection or contact with points such as the skin, eyes, or mouth, causes irritation, inflammation, or outright failure in various organs throughout the body.
 
 #### Debilitation
 #### Blight Venom
