@@ -210,28 +210,28 @@ A fabric infused with arcane-active ingredients.
 ## Consumable
 ### Potions
 
-| Name (Source)               | Mechanic                                                                                                                   | Cost @ Market             | Regions Producing |
-| --------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
-| ... of Healing              | After digestion, once per minute, you regain (G * (1d4+1)) Hit Points.                                                     | 250sp * Grade / potion    |                   |
-| ... of Vitality             | After digestion, once per minute, you may set your Temporary Hit Points to (G * (1d4+1)).                                  | 75sp * Grade / potion     |                   |
-| ... of Rejuvenation         | After digestion, once per minute, you regain (G * 8) Hit Points.                                                           | 500sp * Grade / potion    |                   |
-| ... of Physical Resistance  | After digestion, you gain G Damage Resistance to Bludgeoning, Slashing, and Piercing damage.                               | 750sp * Grade / potion    |                   |
-| ... of Elemental Resistance | After digestion, you gain G Damage Resistance to one of Acid, Fire, Cold, Thunder, or Lightning damage.                    | 375sp * Grade / potion    |                   |
-| ... of Poison Resistance    | After digestion, you gain G Damage Resistance to Poison damage.                                                            | 750sp * Grade / potion    |                   |
-| ... of Strong Mind          | After digestion, you gain G Damage Resistance to Psychic damage, and you have Advantage on Intelligence Saving Throws.     | 1.5k sp * Grade / potion  |                   |
-| ... of Mobility             | After digestion, you gain a bonus to your speed equal to (G * 5ft), and you have Advantage on Dexterity Saving Throws.     | 375sp * Grade / potion    |                   |
-| ... of Haste                | After digestion, you are effected by a modified *haste* spell...                                                           | 1.5k sp * Grade / potion  |                   |
-| ... of Weightlessness       | After digestion, you are effected by a modified *levitate* spell...                                                        | 750sp * Grade / potion    |                   |
-| ... of Flight               | After digestion, you are effected by a modified *fly* spell...                                                             | 1.5k sp * Grade / potion  |                   |
-| ... of Water Breathing      | After digestion, you can breathe in water as if it were air.                                                               | 1.25k sp * Grade / potion |                   |
-| ... of Gaseous Form         | After digestion, you are effected by the *gaseous form* spell.                                                             | 1.5k sp * Grade / potion  |                   |
-| ... of Detect Extraplanar   | After digestion, you are effected by a modified *detect evil and good* spell...                                            | 1.75k sp * Grade / potion |                   |
-| ... of Dragon's Breath      | After digestion, you are effected by a modified *dragon's breath* spell...                                                 | 1.5k sp * Grade / potion  |                   |
-| ... of Detect Mortal        | After digestion, you are effected by a modified *detect evil and good* spell...                                            | 2.5k sp * Grade / potion  |                   |
-| ... of True Sight           | After digestion, you are effected by a modified *true seeing* spell...                                                     |                           |                   |
-| ... of False Life           | After digestion, your creature type is Humanoid instead of any other creature types.                                       |                           |                   |
-| ... of False Death          | After digestion, you are paralyzed and incapacitated...you appear dead to all but the most thorough investigation (DC 20). |                           |                   |
-| ... of Cure Disease         | After digestion, you are effected by the *lesser restoration* spell.                                                       |                           |                   |
+| Name (Source)               | Mechanic                                                                                                                             | Cost @ Market             | Regions Producing |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- | ----------------- |
+| ... of Healing              | After digestion, once per minute, you regain (G * (1d4+1)) Hit Points.                                                               | 250sp * Grade / potion    |                   |
+| ... of Vitality             | After digestion, once per minute, you may set your Temporary Hit Points to (G * (1d4+1)).                                            | 75sp * Grade / potion     |                   |
+| ... of Rejuvenation         | After digestion, once per minute, you regain (G * 8) Hit Points.                                                                     | 500sp * Grade / potion    |                   |
+| ... of Physical Resistance  | After digestion, you gain G Damage Resistance to Bludgeoning, Slashing, and Piercing damage.                                         | 750sp * Grade / potion    |                   |
+| ... of Elemental Resistance | After digestion, you gain G Damage Resistance to one of Acid, Fire, Cold, Thunder, or Lightning damage.                              | 375sp * Grade / potion    |                   |
+| ... of Poison Resistance    | After digestion, you gain G Damage Resistance to Poison damage.                                                                      | 750sp * Grade / potion    |                   |
+| ... of Strong Mind          | After digestion, you gain G Damage Resistance to Psychic damage, and you have Advantage on Intelligence Saving Throws.               | 1.5k sp * Grade / potion  |                   |
+| ... of Mobility             | After digestion, you gain a bonus to your speed equal to (G * 5ft), and you have Advantage on Dexterity Saving Throws.               | 375sp * Grade / potion    |                   |
+| ... of Haste                | After digestion, you are effected by a modified *haste* spell...                                                                     | 1.5k sp * Grade / potion  |                   |
+| ... of Weightlessness       | After digestion, you are effected by a modified *levitate* spell...                                                                  | 750sp * Grade / potion    |                   |
+| ... of Flight               | After digestion, you are effected by a modified *fly* spell...                                                                       | 1.5k sp * Grade / potion  |                   |
+| ... of Water Breathing      | After digestion, you can breathe in water as if it were air.                                                                         | 1.25k sp * Grade / potion |                   |
+| ... of Gaseous Form         | After digestion, you are effected by the *gaseous form* spell.                                                                       | 1.5k sp * Grade / potion  |                   |
+| ... of Detect Extraplanar   | After digestion, you are effected by a modified *detect evil and good* spell...                                                      | 1.75k sp * Grade / potion |                   |
+| ... of Dragon's Breath      | After digestion, you are effected by a modified *dragon's breath* spell...                                                           | 1.5k sp * Grade / potion  |                   |
+| ... of Detect Mortal        | After digestion, you are effected by a modified *detect evil and good* spell...                                                      | 2.5k sp * Grade / potion  |                   |
+| ... of True Sight           | After digestion, you are effected by a modified *true seeing* spell...                                                               | 2.5k sp * Grade / potion  |                   |
+| ... of False Life           | After digestion, your creature type is Humanoid instead of any other creature types.                                                 | 1.0k sp * Grade / potion  |                   |
+| ... of False Death          | After digestion, you are paralyzed and incapacitated...you appear dead to all but the most thorough investigation (DC 16 + (G * 2)). | 1.0k sp * Grade / potion  |                   |
+| ... of Cure Disease         | After digestion, you are effected by the *lesser restoration* spell.                                                                 | 475sp * Grade / potion    |                   |
 
 #### of Healing
 A thin, deep red, decarbonated potion commonly used by adventurers or field medics to sustain a combatant over multiple battles.
@@ -438,18 +438,17 @@ After digestion, your creature type is Humanoid instead of any other creature ty
 - 24 ounces Lephora (336.00sp)
 	- 4 ounces Potion of False Life, *Apprentice* (1.0k sp / potion)
 
-
-
-
 #### of False Death
 A thick, black, decarbonated potion used by spies, assassins, or other illicit figures to appear as dead despite in fact being alive.
 
-After digestion, you are paralyzed and incapacitated. While you are incapacitated this way, you appear dead to all but the most thorough investigation (DC 20).
+After digestion, you are paralyzed and incapacitated. While you are incapacitated this way, you appear dead to all but the most thorough investigation (DC 16 + (G * 2)).
 
 **Ingredients**;
-
-
-
+- 24 pounds Bone (84.00sp)
+- 64 ounces Eye (512.00sp)
+- 64 ounces Stinkhorn (128.00sp)
+- 24 ounces Lephora (336.00sp)
+	- 4 ounces Potion of False Death, *Apprentice* (1.0k sp / potion)
 
 #### of Cure Disease
 A thin, gold, decarbonated potion used by common folk to resolve infection or disease when it becomes apparent.
@@ -457,9 +456,12 @@ A thin, gold, decarbonated potion used by common folk to resolve infection or di
 After digestion, you are effected by the *lesser restoration* spell.
 
 **Ingredients**;
-
-
-
+- 12 pounds Marble (42.00sp)
+- 12 ounces Citrus Essence (162.00sp)
+- 36 ounces Dried Onion (5.40sp)
+- 36 ounces Pine Needle (48.60sp)
+- 8 ounces Foxglove (128.00sp)
+	- 4 ounces Potion of Cure Disease, *Apprentice* (475.00sp / potion)
 
 ### Poisons
 
@@ -484,6 +486,8 @@ After digestion, you are effected by the *lesser restoration* spell.
 | Poisoner's Matrix   |          |               |                   |
 
 #### Traditional
+A
+
 #### Debilitation
 #### Blight Venom
 #### Stone Blood
