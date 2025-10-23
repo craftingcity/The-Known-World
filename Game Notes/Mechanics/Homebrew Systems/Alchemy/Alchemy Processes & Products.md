@@ -492,6 +492,8 @@ A bright green liquid that, when introduced to the bloodstream by either direct 
 A dark yellow liquid that, when introduced to the bloodstream by either direct injection or contact with points such as the skin, eyes, or mouth, travels to the spinal column or brain to disrupt regular neurological signals to or from the body's limbs.
 
 #### Blight Venom
+A dark green liquid that, when introduced to the bloodstream by direct injection, causes some white blood-cells to identify red blood-cells as threats to the bloodstream, and eventually forces the body to completely cease operation.
+
 #### Stone Blood
 #### Weakmind
 #### Torrin's Bane
