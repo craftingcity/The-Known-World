@@ -210,28 +210,28 @@ A fabric infused with arcane-active ingredients.
 ## Consumable
 ### Potions
 
-| Name (Source)               | Mechanic                                                                                                 | Cost @ Market          | Regions Producing |
-| --------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------- | ----------------- |
-| ... of Healing              | Once per minute, regain (G * (1d4+1)) Hit Points                                                         | 250sp * Grade / potion |                   |
-| ... of Vitality             | Once per minute, gain (G * (1d4+1)) Temporary Hit Points                                                 | 75sp * Grade / potion  |                   |
-| ... of Rejuvenation         | Once per minute, regain (G * 8) Hit Points                                                               | 500sp * Grade / potion |                   |
-| ... of Physical Resistance  | Grant G DR vs Bludgeoning, Slashing, and Piercing                                                        |                        |                   |
-| ... of Elemental Resistance | Grant G DR vs one of Fire/Cold/Thunder/Lightning                                                         |                        |                   |
-| ... of Poison Resistance    | Grant G DR vs one of Poison/Acid                                                                         |                        |                   |
-| ... of Strong Mind          | Grant G DR vs Psychic, and Grant Adv. for INT saves                                                      |                        |                   |
-| ... of Mobility             | Grant +(G * 2) on DEX saves, and Grant +(G * 2ft) SPD rounded up                                         |                        |                   |
-| ... of Haste                | Cast *haste*, experience 'lethargy' once every (G + 1) rounds                                            |                        |                   |
-| ... of Weightlessness       | Cast *levitation* if G>3, else gain +(G * 5) jump dist.                                                  |                        |                   |
-| ... of Flight               | Cast *flight* if G>3, else cast *levitation*                                                             |                        |                   |
-| ... of Water Breathing      | You may breathe water as if it were air if G>2, else gain G minutes air                                  |                        |                   |
-| ... of Gaseous Form         | Cast *gaseous form*                                                                                      |                        |                   |
-| ... of Detect Extraplanar   | Cast *detect extraplanar* with (G * 15ft) range                                                          |                        |                   |
-| ... of Dragon's Breath      | Cast *dragon's breath*                                                                                   |                        |                   |
-| ... of Detect Mortal        | Cast *detect extraplanar* with (G * 15ft) range for Humanoids exclusively                                |                        |                   |
-| ... of True Sight           | Cast *true seeing* with (G * 15ft) range                                                                 |                        |                   |
-| ... of False Life           | For the duration, your creature type is Humanoid                                                         |                        |                   |
-| ... of False Death          | For the duration, you are incapacitated, and you appear dead to all but the most thorough investigation. |                        |                   |
-| ... of Cure Disease         | Cast *lesser restoration*                                                                                |                        |                   |
+| Name (Source)               | Mechanic                                                                                                                   | Cost @ Market             | Regions Producing |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
+| ... of Healing              | After digestion, once per minute, you regain (G * (1d4+1)) Hit Points.                                                     | 250sp * Grade / potion    |                   |
+| ... of Vitality             | After digestion, once per minute, you may set your Temporary Hit Points to (G * (1d4+1)).                                  | 75sp * Grade / potion     |                   |
+| ... of Rejuvenation         | After digestion, once per minute, you regain (G * 8) Hit Points.                                                           | 500sp * Grade / potion    |                   |
+| ... of Physical Resistance  | After digestion, you gain G Damage Resistance to Bludgeoning, Slashing, and Piercing damage.                               | 750sp * Grade / potion    |                   |
+| ... of Elemental Resistance | After digestion, you gain G Damage Resistance to one of Acid, Fire, Cold, Thunder, or Lightning damage.                    | 375sp * Grade / potion    |                   |
+| ... of Poison Resistance    | After digestion, you gain G Damage Resistance to Poison damage.                                                            | 750sp * Grade / potion    |                   |
+| ... of Strong Mind          | After digestion, you gain G Damage Resistance to Psychic damage, and you have Advantage on Intelligence Saving Throws.     | 1.5k sp * Grade / potion  |                   |
+| ... of Mobility             | After digestion, you gain a bonus to your speed equal to (G * 5ft), and you have Advantage on Dexterity Saving Throws.     | 375sp * Grade / potion    |                   |
+| ... of Haste                | After digestion, you are effected by a modified *haste* spell...                                                           | 1.5k sp * Grade / potion  |                   |
+| ... of Weightlessness       | After digestion, you are effected by a modified *levitate* spell...                                                        | 750sp * Grade / potion    |                   |
+| ... of Flight               | After digestion, you are effected by a modified *fly* spell...                                                             | 1.5k sp * Grade / potion  |                   |
+| ... of Water Breathing      | After digestion, you can breathe in water as if it were air.                                                               | 1.25k sp * Grade / potion |                   |
+| ... of Gaseous Form         | After digestion, you are effected by the *gaseous form* spell.                                                             | 1.5k sp * Grade / potion  |                   |
+| ... of Detect Extraplanar   | After digestion, you are effected by a modified *detect evil and good* spell...                                            | 1.75k sp * Grade / potion |                   |
+| ... of Dragon's Breath      | After digestion, you are effected by a modified *dragon's breath* spell...                                                 | 1.5k sp * Grade / potion  |                   |
+| ... of Detect Mortal        | After digestion, you are effected by a modified *detect evil and good* spell...                                            |                           |                   |
+| ... of True Sight           | After digestion, you are effected by a modified *true seeing* spell...                                                     |                           |                   |
+| ... of False Life           | After digestion, your creature type is Humanoid instead of any other creature types.                                       |                           |                   |
+| ... of False Death          | After digestion, you are paralyzed and incapacitated...you appear dead to all but the most thorough investigation (DC 20). |                           |                   |
+| ... of Cure Disease         | After digestion, you are effected by the *lesser restoration* spell.                                                       |                           |                   |
 
 #### of Healing
 A thin, deep red, decarbonated potion commonly used by adventurers or field medics to sustain a combatant over multiple battles.
@@ -357,7 +357,6 @@ After digestion, you are effected by a modified *fly* spell. You gain a (G * 10f
 - 32 ounces Ginko Leaf (73.60sp)
 	- 4 ounces Potion of Flight, *Apprentice* (1.5k sp / potion)
 
-
 #### of Water Breathing
 A viscus, deep green, heavily carbonated potion used by adventurers and hazard workers to survive in flooded or otherwise water-dense environments.
 
@@ -389,9 +388,8 @@ After digestion, you are effected by a modified *detect evil and good* spell. Th
 **Ingredients**;
 - 32 ounces Head of Lamb (384.00sp)
 - 1 carat Diamond (1.0k sp)
-- 30 carat Jade (300.00sp)
-
-
+- 15 carat Jade (150.00sp)
+	- 4 ounces Potion of Detect Extraplanar, *Apprentice* (1.75k sp)
 
 #### of Dragon's Breath
 A thin, prismatic, swirling potion used exclusively by adventurers as an alternative weapon that cannot be taken.
@@ -399,9 +397,10 @@ A thin, prismatic, swirling potion used exclusively by adventurers as an alterna
 After digestion, you are effected by a modified *dragon's breath* spell. When you "exhale energy", roll a d6 to determine the damage type, where 1-5 are the types as listed in the spell description, and 6 is force. Then, the damage you deal is (Gd6) instead of 3d6.
 
 **Ingredients**;
-
-
-
+- 32 ounces Dragon's Tongue (292.80sp)
+- 64 ounces Chitin of Wurm (320.00sp)
+- 5 pounds Gold (550.00sp)
+	- 4 ounces Potion of Dragon's Breath, *Apprentice* (1.5k sp)
 
 #### of Detect Mortal
 A thin, grey, lightly carbonated potion used primarily by rangers and adventurers to detect and identify mortal entities.

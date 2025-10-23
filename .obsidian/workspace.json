@@ -6,7 +6,7 @@
       {
         "id": "d8a155bf9a9d588e",
         "type": "tabs",
-        "dimension": 56.197230665315764,
+        "dimension": 75.62000840689366,
         "children": [
           {
             "id": "0ef919ab154fb315",
@@ -36,8 +36,31 @@
       {
         "id": "99d7f76fc8955207",
         "type": "tabs",
-        "dimension": 43.80276933468423,
+        "dimension": 24.379991593106347,
         "children": [
+          {
+            "id": "7c75feb8a0327a4f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Alchemy Processes & Products"
+            }
+          },
           {
             "id": "92b304cb3c0e0877",
             "type": "leaf",
@@ -82,29 +105,6 @@
               },
               "icon": "lucide-file",
               "title": "Homebrew Alchemy System"
-            }
-          },
-          {
-            "id": "7c75feb8a0327a4f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Alchemy Processes & Products"
             }
           },
           {
