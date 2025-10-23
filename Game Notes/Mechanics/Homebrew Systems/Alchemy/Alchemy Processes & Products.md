@@ -486,9 +486,11 @@ After digestion, you are effected by the *lesser restoration* spell.
 | Poisoner's Matrix   |          |               |                   |
 
 #### Traditional
-A bright green poison that, when introduced to the bloodstream by either direct injection or contact with points such as the skin, eyes, or mouth, causes irritation, inflammation, or outright failure in various organs throughout the body.
+A bright green liquid that, when introduced to the bloodstream by either direct injection or contact with points such as the skin, eyes, or mouth, causes irritation, inflammation, or outright failure in various organs throughout the body.
 
 #### Debilitation
+A dark yellow liquid that, when introduced to the bloodstream by either direct injection or contact with points such as the skin, eyes, or mouth, travels to the spinal column or brain to disrupt regular neurological signals to or from the body's limbs.
+
 #### Blight Venom
 #### Stone Blood
 #### Weakmind
