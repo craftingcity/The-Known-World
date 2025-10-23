@@ -227,7 +227,7 @@ A fabric infused with arcane-active ingredients.
 | ... of Gaseous Form         | After digestion, you are effected by the *gaseous form* spell.                                                             | 1.5k sp * Grade / potion  |                   |
 | ... of Detect Extraplanar   | After digestion, you are effected by a modified *detect evil and good* spell...                                            | 1.75k sp * Grade / potion |                   |
 | ... of Dragon's Breath      | After digestion, you are effected by a modified *dragon's breath* spell...                                                 | 1.5k sp * Grade / potion  |                   |
-| ... of Detect Mortal        | After digestion, you are effected by a modified *detect evil and good* spell...                                            |                           |                   |
+| ... of Detect Mortal        | After digestion, you are effected by a modified *detect evil and good* spell...                                            | 2.5k sp * Grade / potion  |                   |
 | ... of True Sight           | After digestion, you are effected by a modified *true seeing* spell...                                                     |                           |                   |
 | ... of False Life           | After digestion, your creature type is Humanoid instead of any other creature types.                                       |                           |                   |
 | ... of False Death          | After digestion, you are paralyzed and incapacitated...you appear dead to all but the most thorough investigation (DC 20). |                           |                   |
@@ -389,7 +389,8 @@ After digestion, you are effected by a modified *detect evil and good* spell. Th
 - 32 ounces Head of Lamb (384.00sp)
 - 1 carat Diamond (1.0k sp)
 - 15 carat Jade (150.00sp)
-	- 4 ounces Potion of Detect Extraplanar, *Apprentice* (1.75k sp)
+- 8 ounce Mandrake (64.00sp)
+	- 4 ounces Potion of Detect Extraplanar, *Apprentice* (1.75k sp / potion)
 
 #### of Dragon's Breath
 A thin, prismatic, swirling potion used exclusively by adventurers as an alternative weapon that cannot be taken.
@@ -400,7 +401,7 @@ After digestion, you are effected by a modified *dragon's breath* spell. When yo
 - 32 ounces Dragon's Tongue (292.80sp)
 - 64 ounces Chitin of Wurm (320.00sp)
 - 5 pounds Gold (550.00sp)
-	- 4 ounces Potion of Dragon's Breath, *Apprentice* (1.5k sp)
+	- 4 ounces Potion of Dragon's Breath, *Apprentice* (1.5k sp / potion)
 
 #### of Detect Mortal
 A thin, grey, lightly carbonated potion used primarily by rangers and adventurers to detect and identify mortal entities.
@@ -408,9 +409,10 @@ A thin, grey, lightly carbonated potion used primarily by rangers and adventurer
 After digestion, you are effected by a modified *detect evil and good* spell. Instead of the listed creature types, you detect Humanoids. The range at which you detect Humanoids is (G * 15ft) instead of 30ft.
 
 **Ingredients**;
-
-
-
+- 32 ounces Head of Lamb (384.00sp)
+- 64 ounces Mandrake (512.00sp)
+- 15 carat Jade (150.00sp)
+	- 4 ounces Potion of Detect Mortal, *Apprentice* (1.25k sp / potion)
 
 #### of True Sight
 A thin, white, lightly carbonated potion used primarily by rangers and adventurers to detect and identify illusions.
@@ -418,9 +420,11 @@ A thin, white, lightly carbonated potion used primarily by rangers and adventure
 After digestion, you are effected by a modified *true seeing* spell. The range at which you "see things as they are" is (G * 15ft) instead of 120ft.
 
 **Ingredients**;
-
-
-
+- 64 ounce Scale of Fish (128.00sp)
+- 32 ounce Fang of Wurm (384.00sp)
+- 8 pounds Slate (1.60sp)
+- 4 pounds Adamantine (1.8k sp)
+	- 4 ounces Potion of True Sight, *Apprentice* (2.5k sp / potion)
 
 #### of False Life
 A thick, light green, heavily carbonated potion used by amortal entities to appear so.
@@ -428,6 +432,11 @@ A thick, light green, heavily carbonated potion used by amortal entities to appe
 After digestion, your creature type is Humanoid instead of any other creature types.
 
 **Ingredients**;
+- 12 ounces Egg Yolk (1.20sp)
+- 24 ounces Mandrake (192.00sp)
+- 300 gallons Blood (300.00sp)
+- 24 ounces Lephora (336.00sp)
+	- 4 ounces Potion of False Life, *Apprentice* (1.0k sp / potion)
 
 
 

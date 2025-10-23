@@ -6,7 +6,7 @@
       {
         "id": "d8a155bf9a9d588e",
         "type": "tabs",
-        "dimension": 75.62000840689366,
+        "dimension": 60.48759983186213,
         "children": [
           {
             "id": "0ef919ab154fb315",
@@ -36,7 +36,7 @@
       {
         "id": "99d7f76fc8955207",
         "type": "tabs",
-        "dimension": 24.379991593106347,
+        "dimension": 39.51240016813787,
         "children": [
           {
             "id": "7c75feb8a0327a4f",
@@ -130,7 +130,8 @@
               "title": "Major Agricultural Harvests"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
