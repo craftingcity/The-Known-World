@@ -507,6 +507,8 @@ A light brown liquid that, when introduced to the bloodstream by direct injectio
 A colorless, odorless, and tasteless liquid that, when introduced to the bloodstream by either direct injection or ingestion, travels to the spinal column and brain where it begins to erode the brain, causing cognitive malfunction and irrationality.
 
 #### Asphyxium
+A fine grey powder that is tasteless and odorless, and when ingested, causes the body's lungs to cease expelling air, and quickly experience asphyxiation.
+
 #### Petrifica
 #### Sensorcompra
 #### Ashmaker Dust
