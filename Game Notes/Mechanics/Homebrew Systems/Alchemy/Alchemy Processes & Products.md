@@ -510,6 +510,8 @@ A colorless, odorless, and tasteless liquid that, when introduced to the bloodst
 A fine grey powder that is tasteless and odorless, and when ingested, causes the body's lungs to cease expelling air, and quickly experience asphyxiation.
 
 #### Petrifica
+A coarse brown powder that, when exposed to flesh or other organs, begins to convert the substance it covers to a stone-like substance. This presents the threat of succumbing to natural needs such as dehydration or starvation, as the body will no longer be able to maneuver effectively if at all. 
+
 #### Sensorcompra
 #### Ashmaker Dust
 #### Sleeping Stone Dust
