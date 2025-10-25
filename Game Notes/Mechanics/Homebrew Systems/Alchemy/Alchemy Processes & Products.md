@@ -504,7 +504,7 @@ A bright pink liquid that, when introduced to the bloodstream by direct injectio
 A light brown liquid that, when introduced to the bloodstream by direct injection or contact with exposure points such as the skin, eyes, or mouth, causes the body to release unnaturally high levels of adrenaline, engaging and confusing the 'flight, flight, freeze' response and raising the body's heartrate to rise into dangerous levels. When the body becomes stressed while effected, cardiac malfunction is likely to occur.
 
 #### King's Last Drink
-A colorless, odorless, and tasteless liquid that, when introduced to the bloodstream by either direct injection or ingestion, travels to the spinal column and brain where it begins to 
+A colorless, odorless, and tasteless liquid that, when introduced to the bloodstream by either direct injection or ingestion, travels to the spinal column and brain where it begins to erode the brain, causing cognitive malfunction and irrationality.
 
 #### Asphyxium
 #### Petrifica
