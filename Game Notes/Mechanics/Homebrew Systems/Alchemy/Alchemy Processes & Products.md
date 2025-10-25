@@ -486,19 +486,26 @@ After digestion, you are effected by the *lesser restoration* spell.
 | Poisoner's Matrix   |          |               |                   |
 
 #### Traditional
-A bright green liquid that, when introduced to the bloodstream by either direct injection or contact with points such as the skin, eyes, or mouth, causes irritation, inflammation, or outright failure in various organs throughout the body.
+A bright green liquid that, when introduced to the bloodstream by either direct injection or ingestion, causes irritation, inflammation, or outright failure in various organs throughout the body.
 
 #### Debilitation
-A dark yellow liquid that, when introduced to the bloodstream by either direct injection or contact with points such as the skin, eyes, or mouth, travels to the spinal column or brain to disrupt regular neurological signals to or from the body's limbs.
+A dark yellow liquid that, when introduced to the bloodstream by either direct injection or ingestion, travels to the spinal column and brain to disrupt regular neurological signals to or from the body's limbs.
 
 #### Blight Venom
-A dark green liquid that, when introduced to the bloodstream by direct injection, causes some white blood-cells to identify red blood-cells as threats to the bloodstream, and eventually forces the body to completely cease operation.
+A dark green liquid that, when introduced to the bloodstream by direct injection, causes some white blood-cells to identify red blood-cells as threats to the bloodstream, and eventually causes the body to cease operation.
 
 #### Stone Blood
-A dull grey li
+A dull grey liquid that, when introduced to the bloodstream by direct injection, causes severe clotting around the heart. Without medical intervention, this clotting presents an immediate threat to limb mobility, and will eventually cause the body to cease operation.
+
 #### Weakmind
+A bright pink liquid that, when introduced to the bloodstream by direct injection, travels to the spinal column and brain to disrupt neurological functions within the brain, including sight and touch senses, and general cognitive awareness.
+
 #### Torrin's Bane
+A light brown liquid that, when introduced to the bloodstream by direct injection or contact with exposure points such as the skin, eyes, or mouth, causes the body to release unnaturally high levels of adrenaline, engaging and confusing the 'flight, flight, freeze' response and raising the body's heartrate to rise into dangerous levels. When the body becomes stressed while effected, cardiac malfunction is likely to occur.
+
 #### King's Last Drink
+A colorless, odorless, and tasteless liquid that, when introduced to the bloodstream by either direct injection or ingestion, travels to the spinal column and brain where it begins to 
+
 #### Asphyxium
 #### Petrifica
 #### Sensorcompra
