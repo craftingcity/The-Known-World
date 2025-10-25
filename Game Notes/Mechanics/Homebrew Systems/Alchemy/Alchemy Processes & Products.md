@@ -513,6 +513,7 @@ A fine grey powder that is tasteless and odorless, and when ingested, causes the
 A coarse brown powder that, when exposed to flesh or other organs, begins to convert the substance it covers to a stone-like substance. This presents the threat of succumbing to natural needs such as dehydration or starvation, as the body will no longer be able to maneuver effectively if at all. 
 
 #### Sensorcompra
+A fine yellow powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, 
 #### Ashmaker Dust
 #### Sleeping Stone Dust
 #### Yellow Gas
