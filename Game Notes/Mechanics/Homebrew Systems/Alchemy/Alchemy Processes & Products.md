@@ -495,6 +495,7 @@ A dark yellow liquid that, when introduced to the bloodstream by either direct i
 A dark green liquid that, when introduced to the bloodstream by direct injection, causes some white blood-cells to identify red blood-cells as threats to the bloodstream, and eventually forces the body to completely cease operation.
 
 #### Stone Blood
+A dull grey li
 #### Weakmind
 #### Torrin's Bane
 #### King's Last Drink
