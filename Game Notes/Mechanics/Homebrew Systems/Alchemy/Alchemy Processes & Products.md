@@ -516,7 +516,7 @@ A coarse brown powder that, when exposed to flesh or other organs, begins to con
 A fine yellow powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, immediately halts sensory transmission to or from the point of exposure. While extremely disorienting, this reaction is temporary, and will resolve over a number of hours.
 
 #### Ashmaker Dust
-A coarse red powder that, when exposed to flesh or other organs, burns 
+A coarse red powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, immediately begins to burn the contact area.
 
 #### Sleeping Stone Dust
 #### Yellow Gas
