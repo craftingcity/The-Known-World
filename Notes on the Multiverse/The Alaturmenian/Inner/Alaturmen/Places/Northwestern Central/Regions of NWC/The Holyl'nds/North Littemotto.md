@@ -16,11 +16,11 @@ aliases:
 #### B8. Carthura Mines, Collapsed
 #### B9. Salt Spray Spikes
 #### C6. Statue of the Weeping Woman
-#### C7. Temple of 
-#### C8.
-#### C9.
-#### C10.
-#### C11.
+#### C7. Temple of Winter
+#### C8. Cursed Cave
+#### C9. Burned Pit
+#### C10. Surabous' Growing Scar
+#### C11. Seaside Temple
 #### D5. 
 #### D6.
 #### D7.
