@@ -2,7 +2,7 @@
 tags: region
 aliases:
 ---
-# Title
+# North Littemotto
 #### A sub-region of [[The Holyl'nds]]
 ## Boundaries
 ## Contents
@@ -10,9 +10,9 @@ aliases:
 ### Scenarios
 #### A7. Slipping Hill
 #### A8. Bounding Dens
-#### A9.
-#### B6.
-#### B7.
+#### A9. Goring Spines
+#### B6. Carbonite Hillkeep
+#### B7. 
 #### B8.
 #### B9.
 #### C6.

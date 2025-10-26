@@ -8,77 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5883c309d6ad97e7",
+            "id": "48de54de6e922579",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Black Egal",
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Alaturmen",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Black Egal.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Black Egal\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Alaturmen\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Jasper's Angels",
+                  "title": "Who has a Horde",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/Jasper's Angels.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Jasper's Angels\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":22},\"to\":{\"line\":15,\"ch\":22}},\"scroll\":3.8981076878176193}"
-                },
-                {
-                  "title": "Prenotes Oct 26 25",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'25/Prenotes Oct 26 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Oct 04 25\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":35},\"to\":{\"line\":6,\"ch\":35}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Who has a Horde.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Who has a Horde\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":77},\"to\":{\"line\":20,\"ch\":77}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes Oct 26 25.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Oct 26 25"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0d7fcd23bb8e1e29",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "29ae80e9f708aae9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'25/Prenotes Sep 13 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Sep 13 25"
+              "title": "Central Alaturmen"
             }
           },
           {
-            "id": "9462670671d393ed",
+            "id": "c34d0cd4a24d7b2d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -92,16 +57,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/South Littemotto.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mossburg"
+              "title": "South Littemotto"
+            }
+          },
+          {
+            "id": "358835766fa62f9b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Central Holyl'nd.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Central Holyl'nd"
+            }
+          },
+          {
+            "id": "e9253fc67248e5b5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "North Littemotto"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,7 +216,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5080032348633
+    "width": 359.5080032348633,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -375,15 +387,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5883c309d6ad97e7",
+  "active": "e9253fc67248e5b5",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Central Holyl'nd.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/South Littemotto.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
     "Game Notes/Prenotes/'25/Prenotes Oct 26 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Who has a Horde.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
+    "Game Notes/Prenotes/'25/Prenotes Sep 13 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Beacon.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Beacon/Amourain.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Black Egal.md",
     "black.md",
-    "Game Notes/Prenotes/'25/Prenotes Sep 13 25.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
     "Game Notes/Campaign Rosters/Jasper's Angels.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
@@ -397,13 +416,6 @@
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "Junie's Characters/Tiana Turing.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-    "An Open Letter....md",
-    "conflict-files-obsidian-git.md",
-    "Game Notes/Prenotes/'23/Prenotes Nov 15 23.md",
-    "Game Notes/Prenotes/'23/Prenotes Nov 06 23.md",
-    "Game Notes/Campaign Rosters/Campaign Rosters.md",
-    "Game Notes/Mechanics/Mechanics.md",
-    "Game Notes/NPCs/NPCs.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
