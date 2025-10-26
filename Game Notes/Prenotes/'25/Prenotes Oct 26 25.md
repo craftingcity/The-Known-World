@@ -35,13 +35,19 @@ See [[Prenotes Sep 13 25]].
 - We are fighting where we have to, but we do have an Op if you're interested; we want to run over one of the Guild vaults, Vault 2 specifically, where they are keeping 'The Compalati'. We'd like those back.
 ##### What do We do about the Grovetenders?
 - Well, we're going to end up fighting the Sunnites for it. We shouldn't do that right now, we need to take and restabilize Mossburg first, but the Dampguard is right there, so we can mess with them some. Harvard might present an issue if he somehow allies with them, but that seems unlikely.
+
 #### Tailing Tymirek
 ##### To Kailkeep
+- Tymirek has travelled to Kailkeep, where he has made a space for himself.
 ##### To Tetrimoc
+- Travelling to the Golden City is an idea, we'll tell you that Tymirek was north of us the whole time, try Kailkeep.
+- We're missing our boy though, so if you want to go delving around, go for it
+
 #### Heading into The Jungle
 ##### Why do we need to go there?
 - From the SEASEC perspective, you guys are a little buck-wild, and we need you to tone it down a little. You can go kill Harvard, and then maybe just go explore in there.
 ##### What's happening when we get there?
+- The Buggies are kinda getting everywhere. Harvard is trying to make space in the west-side, but SEASEC would like to take the east-side
 
 ### What happened?
 
