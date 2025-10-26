@@ -12,11 +12,11 @@ aliases:
 #### A8. Bounding Dens
 #### A9. Goring Spines
 #### B6. Carbonite Hillkeep
-#### B7. 
-#### B8.
-#### B9.
-#### C6.
-#### C7.
+#### B7. Carthura, Destroyed
+#### B8. Carthura Mines, Collapsed
+#### B9. Salt Spray Spikes
+#### C6. Statue of the Weeping Woman
+#### C7. Temple of 
 #### C8.
 #### C9.
 #### C10.

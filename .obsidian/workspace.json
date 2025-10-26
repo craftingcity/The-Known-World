@@ -110,9 +110,55 @@
               "icon": "lucide-file",
               "title": "North Littemotto"
             }
+          },
+          {
+            "id": "dd066f170b5bf1f0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Feywild/Feywild.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Feywild"
+            }
+          },
+          {
+            "id": "af83a7e37b83e1b3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Littetavarse"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vault",
+                "query": "fey",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,8 +262,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5080032348633,
-    "collapsed": true
+    "width": 359.5080032348633
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -387,10 +432,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9253fc67248e5b5",
+  "active": "dd066f170b5bf1f0",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Central Holyl'nd.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Feywild/Ceilie Courts.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Central Holyl'nd.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/South Littemotto.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
@@ -414,8 +461,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
-    "Junie's Characters/Tiana Turing.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",

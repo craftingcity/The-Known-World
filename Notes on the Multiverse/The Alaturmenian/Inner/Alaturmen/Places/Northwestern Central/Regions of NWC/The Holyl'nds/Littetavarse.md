@@ -48,7 +48,7 @@ The region of Littetavarse is hilly and covered in ashen forest. The region is g
 		- A large leather kit-bag containing...
 			- A scroll of *Detect Good and Evil* written in Draconic on Alchemical Paper
 			- A scroll of *Faerie Fire* written in Draconic on Alchemical Paper
-			- A small leather purse. This bag has the properties of a *bag of holding*.
+			- A small leather purse. This bag has the properties of a *bag of holding, grade 2*.
 			- Three identical corked vials of viscus red liquid. These vials have the properties of a Journeyman's Potion of Healing (6d4 + 12 hp).
 			- A finely constructed wooden lute, stringed with copper, and engraved "Gilamore" on the handle (appraised at 35sp, weighing about 2lb).
 			- A set of common clothing made of linen.

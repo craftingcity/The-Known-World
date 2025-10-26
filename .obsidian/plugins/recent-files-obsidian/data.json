@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Feywild",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Feywild/Feywild.md"
+    },
+    {
       "basename": "North Littemotto",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md"
+    },
+    {
+      "basename": "Ceilie Courts",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Feywild/Ceilie Courts.md"
+    },
+    {
+      "basename": "Littetavarse",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md"
     },
     {
       "basename": "Central Holyl'nd",
@@ -187,18 +199,6 @@
     {
       "basename": "Languages",
       "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Languages.md"
-    },
-    {
-      "basename": "Economics of Prosper",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md"
-    },
-    {
-      "basename": "Economics of the Hobgoblin Territories",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md"
-    },
-    {
-      "basename": "Economics of Combine",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md"
     }
   ],
   "omittedPaths": [],
