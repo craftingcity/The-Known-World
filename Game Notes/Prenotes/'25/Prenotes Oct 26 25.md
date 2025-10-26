@@ -27,8 +27,20 @@ It is the evening of the 26th day of Harvest, in the 106th year. Here, in the ci
 See [[Prenotes Sep 13 25]].
 
 #### Visiting SEASEC
-- Come
+##### Mossburg
+- We're in a full on war at this point. Defense (Enforcers, Loyalists, Knights) vs Offence (SEASEC, Militia of Scum, RDFP / Harvard, Avalon)
+##### Amourain / Slimknives (or Beacon)
+##### Goldfield / Dampguard 
+##### Barkryn / Riphounds (or Beacon)
+##### What do We do about the Grovetenders?
+- Well, we're going to end up fighting the Sunnites for it. We shouldn't do that right now, we need to take and restabilize Mossburg first, but the Dampguard is right there, so we can mess with them some. Harvard might present an issue if he somehow allies with them, but that seems unlikely.
 #### Tailing Tymirek
+##### To Kailkeep
+##### To Tetrimoc
+#### Heading into The Jungle
+##### Why do we need to go there?
+- From the SEASEC perspective, you guys might just be going around fucking up anyone unaligned with 
+##### What's happening when we get there?
 
 ### What happened?
 

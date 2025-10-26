@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "61280a141865542d",
+        "id": "90d8e8ac8166d1c9",
         "type": "tabs",
         "children": [
           {
@@ -14,9 +14,9 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Baron Cassindil",
+                  "title": "Black Egal",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Baron Cassindil\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Black Egal.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Black Egal\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -47,47 +47,6 @@
               "icon": "lucide-file",
               "title": "Prenotes Oct 26 25"
             }
-          },
-          {
-            "id": "704d26f5191d5e92",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Prenotes Oct 26 25",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'25/Prenotes Oct 26 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Oct 26 25\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":323},\"to\":{\"line\":16,\"ch\":323}},\"scroll\":0.8504482210518284}"
-                },
-                {
-                  "title": "Jasper's Angels",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/Jasper's Angels.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Jasper's Angels\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":22},\"to\":{\"line\":15,\"ch\":22}},\"scroll\":3.8981076878176193}"
-                },
-                {
-                  "title": "Prenotes Oct 26 25",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'25/Prenotes Oct 26 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Oct 04 25\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":35},\"to\":{\"line\":6,\"ch\":35}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Baron Cassindil"
-            }
           }
         ]
       },
@@ -117,8 +76,32 @@
               "icon": "lucide-file",
               "title": "Prenotes Sep 13 25"
             }
+          },
+          {
+            "id": "9462670671d393ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mossburg"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -393,8 +376,13 @@
   },
   "active": "5883c309d6ad97e7",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'25/Prenotes Sep 13 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Beacon.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Beacon/Amourain.md",
     "Game Notes/Prenotes/'25/Prenotes Oct 26 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Black Egal.md",
+    "black.md",
+    "Game Notes/Prenotes/'25/Prenotes Sep 13 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
     "Game Notes/Campaign Rosters/Jasper's Angels.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
@@ -415,11 +403,6 @@
     "Game Notes/Campaign Rosters/Campaign Rosters.md",
     "Game Notes/Mechanics/Mechanics.md",
     "Game Notes/NPCs/NPCs.md",
-    "Game Notes/Game Notes.md",
-    "Junie's Characters/Junie's Characters.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
-    "ORGANIZATION/ORGANIZATION.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",

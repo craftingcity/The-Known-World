@@ -5,8 +5,24 @@
       "path": "Game Notes/Prenotes/'25/Prenotes Oct 26 25.md"
     },
     {
+      "basename": "Beacon",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Beacon.md"
+    },
+    {
+      "basename": "Amourain",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Beacon/Amourain.md"
+    },
+    {
+      "basename": "Black Egal",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Black Egal.md"
+    },
+    {
       "basename": "Prenotes Sep 13 25",
       "path": "Game Notes/Prenotes/'25/Prenotes Sep 13 25.md"
+    },
+    {
+      "basename": "Mossburg",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md"
     },
     {
       "basename": "Baron Cassindil",
@@ -183,22 +199,6 @@
     {
       "basename": "Tracking",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Tracking.md"
-    },
-    {
-      "basename": "Magic Item Authors",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magic Item Authors.md"
-    },
-    {
-      "basename": "Items by Region",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Items by Region.md"
-    },
-    {
-      "basename": "Food and Drink - South West",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Food and Drink - South West.md"
-    },
-    {
-      "basename": "DATABASE",
-      "path": "DATABASE.base"
     }
   ],
   "omittedPaths": [],
