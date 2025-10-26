@@ -4,12 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "d8a155bf9a9d588e",
+        "id": "61280a141865542d",
         "type": "tabs",
-        "dimension": 56.197230665315764,
         "children": [
           {
-            "id": "0ef919ab154fb315",
+            "id": "5883c309d6ad97e7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Baron Cassindil",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Baron Cassindil\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Jasper's Angels",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/Jasper's Angels.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Jasper's Angels\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":22},\"to\":{\"line\":15,\"ch\":22}},\"scroll\":3.8981076878176193}"
+                },
+                {
+                  "title": "Prenotes Oct 26 25",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'25/Prenotes Oct 26 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Oct 04 25\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":35},\"to\":{\"line\":6,\"ch\":35}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'25/Prenotes Oct 26 25.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes Oct 26 25"
+            }
+          },
+          {
+            "id": "704d26f5191d5e92",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -17,29 +57,46 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Prenotes Oct 26 25",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'25/Prenotes Oct 26 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Oct 26 25\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":323},\"to\":{\"line\":16,\"ch\":323}},\"scroll\":0.8504482210518284}"
+                },
+                {
+                  "title": "Jasper's Angels",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/Jasper's Angels.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Jasper's Angels\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":22},\"to\":{\"line\":15,\"ch\":22}},\"scroll\":3.8981076878176193}"
+                },
+                {
+                  "title": "Prenotes Oct 26 25",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'25/Prenotes Oct 26 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Oct 04 25\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":35},\"to\":{\"line\":6,\"ch\":35}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Alchemy Processes & Products"
+              "title": "Baron Cassindil"
             }
           }
         ]
       },
       {
-        "id": "99d7f76fc8955207",
+        "id": "0d7fcd23bb8e1e29",
         "type": "tabs",
-        "dimension": 43.80276933468423,
         "children": [
           {
-            "id": "92b304cb3c0e0877",
+            "id": "29ae80e9f708aae9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -53,81 +110,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
+                "file": "Game Notes/Prenotes/'25/Prenotes Sep 13 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Alchemical Components"
-            }
-          },
-          {
-            "id": "f35246ca7be9a1eb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Homebrew Alchemy System"
-            }
-          },
-          {
-            "id": "7c75feb8a0327a4f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Alchemy Processes & Products"
-            }
-          },
-          {
-            "id": "c01e67af9fb8990e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Major Agricultural Harvests"
+              "title": "Prenotes Sep 13 25"
             }
           }
         ]
@@ -180,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flash",
+                "query": "healing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,8 +217,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -404,18 +391,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17bba7903284a409",
+  "active": "5883c309d6ad97e7",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'25/Prenotes Sep 13 25.md",
+    "Game Notes/Prenotes/'25/Prenotes Oct 26 25.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
+    "Game Notes/Campaign Rosters/Jasper's Angels.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+    "Game Notes/Prenotes/Prenotes.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "Junie's Characters/Tiana Turing.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "An Open Letter....md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'23/Prenotes Nov 15 23.md",
@@ -423,16 +415,11 @@
     "Game Notes/Campaign Rosters/Campaign Rosters.md",
     "Game Notes/Mechanics/Mechanics.md",
     "Game Notes/NPCs/NPCs.md",
-    "Game Notes/Prenotes/Prenotes.md",
     "Game Notes/Game Notes.md",
     "Junie's Characters/Junie's Characters.md",
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "ORGANIZATION/ORGANIZATION.md",
     "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Merchant Companies/Yosimmite Industries.md",
-    "list of alchemical items to place.md",
-    "Game Notes/Prenotes/'25/Prenotes Sep 10 25.md",
-    "Game Notes/Prenotes/'25/Prenotes Sep 13 25.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
