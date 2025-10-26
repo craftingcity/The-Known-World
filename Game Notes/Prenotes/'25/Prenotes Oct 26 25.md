@@ -32,6 +32,7 @@ See [[Prenotes Sep 13 25]].
 ##### Amourain / Slimknives (or Beacon)
 ##### Goldfield / Dampguard 
 ##### Barkryn / Riphounds (or Beacon)
+- We are fighting where we have to, but we do have an Op if you're interested; we want to run over one of the Guild vaults, Vault 2 specifically, where they are keeping 'The Compalati'. We'd like those back.
 ##### What do We do about the Grovetenders?
 - Well, we're going to end up fighting the Sunnites for it. We shouldn't do that right now, we need to take and restabilize Mossburg first, but the Dampguard is right there, so we can mess with them some. Harvard might present an issue if he somehow allies with them, but that seems unlikely.
 #### Tailing Tymirek
@@ -39,7 +40,7 @@ See [[Prenotes Sep 13 25]].
 ##### To Tetrimoc
 #### Heading into The Jungle
 ##### Why do we need to go there?
-- From the SEASEC perspective, you guys might just be going around fucking up anyone unaligned with 
+- From the SEASEC perspective, you guys are a little buck-wild, and we need you to tone it down a little. You can go kill Harvard, and then maybe just go explore in there.
 ##### What's happening when we get there?
 
 ### What happened?
