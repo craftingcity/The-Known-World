@@ -35,55 +35,8 @@
               "icon": "lucide-file",
               "title": "Prenotes Oct 26 25"
             }
-          },
-          {
-            "id": "2839fd2261f42a85",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Alaturmenian Travel Table"
-            }
-          },
-          {
-            "id": "66c58f7edff4c9c8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Barkryn.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Barkryn"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -357,9 +310,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66c58f7edff4c9c8",
+  "active": "af83a7e37b83e1b3",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Barkryn.md",
     "Game Notes/Prenotes/'25/Prenotes Oct 26 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Littetavarse.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
@@ -384,7 +338,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
