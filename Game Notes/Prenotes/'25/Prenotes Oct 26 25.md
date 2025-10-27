@@ -50,6 +50,16 @@ See [[Prenotes Sep 13 25]].
 - The Buggies are kinda getting everywhere. Harvard is trying to make space in the west-side, and SEASEC would like to take the east-side.
 
 ### What happened?
-
+#### Fight on the Road
+14 - Q
+13 - Da Druids
+	A
+	B
+	C
+	D (9, )
+11 - Zesh
+10 - Jasper
+7 - Em
+5 - Xenfer
 
 We leave our heroes on the date of ... AF, as they ...
