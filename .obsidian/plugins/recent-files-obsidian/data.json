@@ -5,6 +5,10 @@
       "path": "Game Notes/Prenotes/'25/Prenotes Oct 26 25.md"
     },
     {
+      "basename": "Custom Class - Psion",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Psion.md"
+    },
+    {
       "basename": "Alaturmenian Travel Table",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "AlchemicalComponentsChart",
       "path": "MEDIA/SUPP/AlchemicalComponentsChart.png"
-    },
-    {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
     }
   ],
   "omittedPaths": [],

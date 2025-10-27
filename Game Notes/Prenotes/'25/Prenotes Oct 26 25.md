@@ -53,10 +53,10 @@ See [[Prenotes Sep 13 25]].
 #### Fight on the Road
 14 - Q
 13 - Da Druids
-	A
-	B
-	C
-	D (9, )
+	A (1, 21)
+	B (20, 25)
+	C (15, )
+	D (9, 20)
 11 - Zesh
 10 - Jasper
 7 - Em
