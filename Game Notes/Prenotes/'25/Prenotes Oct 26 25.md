@@ -47,7 +47,7 @@ See [[Prenotes Sep 13 25]].
 ##### Why do we need to go there?
 - From the SEASEC perspective, you guys are a little buck-wild, and we need you to tone it down a little. You can go kill Harvard, and then maybe just go explore in there.
 ##### What's happening when we get there?
-- The Buggies are kinda getting everywhere. Harvard is trying to make space in the west-side, but SEASEC would like to take the east-side
+- The Buggies are kinda getting everywhere. Harvard is trying to make space in the west-side, and SEASEC would like to take the east-side.
 
 ### What happened?
 
