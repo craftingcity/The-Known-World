@@ -54,12 +54,14 @@ See [[Prenotes Sep 13 25]].
 14 - Q
 13 - Da Druids
 	A (1, 21)
-	B (20, 25, 26, 29, 33)
-	C (15, 21, 25)
-	D (9, 20, 31, 40, 48)
+	~~B (20, 25, 26, 29, 33, 37)~~
+	~~C (15, 21, 25, 32, 41, 49, 61, 73)~~
+	~~D (9, 20, 31, 40, 48)~~
 11 - Zesh
 10 - Jasper
 7 - Em
 5 - Xenfer
 
-We leave our heroes on the date of ... AF, as they ...
+
+
+We leave our heroes on the date of the 6th of Drying, 106AF, as they continue towards [[New Quillbuck]] to fight against the [[Baron Harvord]].

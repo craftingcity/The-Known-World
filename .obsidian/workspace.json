@@ -35,29 +35,6 @@
               "icon": "lucide-file",
               "title": "Prenotes Oct 26 25"
             }
-          },
-          {
-            "id": "73644aa61b9f4233",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Psion.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Custom Class - Psion"
-            }
           }
         ]
       }
