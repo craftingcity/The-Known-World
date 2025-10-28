@@ -203,23 +203,25 @@ As we continue down the path, we end up in what seems to be the den of the spide
 #### Session 17: Into the Swamps (cont.)
 We continue the fight against the teleporting spider. We rescue Mindy and Crorix. Crorix takes us to a place to stay in the swamp.
 
+#### Session 18: Into the Swamps (cont.)
+
 ## Stats
 
-| L. 5 | XP: 16,225 | / 14.0k | (1) Inspiration |
+| L. 6 | XP: 16,225 | / 23.0k | (1) Inspiration |
 | ---- | ---------- | ------- | --------------- |
 | STR  | 8  (-1)    | PRF     | +3              |
-| CON  | 13 (+1)    | M. HP   | 27 Max HP       |
+| CON  | 13 (+1)    | M. HP   | 32 Max HP       |
 | DEX  | 16 (+3)    | AC      | (13)            |
-| INT  | 20 (+5) ^  | C. HP   | 27 HP           |
-| WIS  | 14 (+2) ^  | HD      | 5d6 (5/5)       |
+| INT  | 20 (+5) ^  | C. HP   | 32 HP           |
+| WIS  | 14 (+2) ^  | HD      | 6d6 (6/6)       |
 | CHA  | 12 (+1)    | SPD     | 25' (5s)        |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | o   | .   | .   | .   | .   | .    | .   |
-| x   | o   | x   | .   | .   | .   | .   |      |     |
-| x   | x   | .   | .   | .   |     |     | DC   | 16  |
-| x   |     |     |     |     |     |     | ATTK | +8  |
+| o   | o   | o   | .   | .   | .   | .   |      |     |
+| o   | o   | o   | .   | .   |     |     | DC   | 16  |
+| o   |     |     |     |     |     |     | ATTK | +8  |
 
 #### Proficiencies
 ##### Skills
@@ -244,7 +246,7 @@ We continue the fight against the teleporting spider. We rescue Mindy and Crorix
 	- **(R)** [Identify](https://dnd5e.wikidot.com/spell:identify), (100gp pearl)
 	- **(R)** [Find Familiar](https://dnd5e.wikidot.com/spell:find-familiar) (10gp charcoal, incense, and herbs)
 
-##### Spellcasting (Prep 10)
+##### Spellcasting (Prep 11)
 - You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
 - Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook (T = 4 + (L * 2) + Found Spells).
 
@@ -267,6 +269,7 @@ x [Silvery Barbs](https://dnd5e.wikidot.com/spell:silvery-barbs)
 o [Snare](https://dnd5e.wikidot.com/spell:snare) (30ft rope)
 x (F, C) [Protection from Good and Evil](https://dnd5e.wikidot.com/spell:protection-from-evil-and-good)
 x [Thunderwave](https://dnd5e.wikidot.com/spell:thunderwave)
+o (R) [Comprehend Languages](https://dnd5e.wikidot.com/spell:comprehend-languages)
 	- **2nd Level Spells**;
 x (C) [Earthen Grasp](https://dnd5e.wikidot.com/spell:maximillians-earthen-grasp)
 x (C) [Dragon's Breath](https://dnd5e.wikidot.com/spell:dragons-breath)
@@ -276,6 +279,7 @@ o (F, C) [Spider Climb](https://dnd5e.wikidot.com/spell:spider-climb)
 x (C) [Haste](https://dnd5e.wikidot.com/spell:haste)
 x [Counterspell](https://dnd5e.wikidot.com/spell:counterspell)
 o (F) [Remove Curse](https://dnd5e.wikidot.com/spell:remove-curse)
+x [Tounges](https://dnd5e.wikidot.com/spell:tongues)
 
 ##### Arcane Recovery (+3 Slot-Level / Rest)
 - Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
@@ -297,7 +301,7 @@ At 4th level, Tiana takes the [[#Telekinetic]] Feat;
 - You can cast *mage hand* without verbal or somatic components, and you can make the spectral hand invisible.
 - As a bonus action, you can try to *telekinetically shove* one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward or away from you. A creature can willingly fail this save.
 
-##### (@L6) Manifest Mind (BA, -/1+ summon, 3/3 spells)
+##### Manifest Mind (BA, 1/1+ summon, 3/3 spells)
 At 6th level, as a bonus action, while you are holding the Awakened Spellbook, you can cause it to manifest as a Tiny spectral object, hovering in an unoccupied space of your choice within 60 feet of you. The Awakened Spellbook is *intangible* and *doesn't occupy its space*, and it *sheds dim light in a 10-foot radius*.
 
 While manifested, the Awakened Spellbook *can hear and see*, and it has darkvision with a range of 60 feet. The Awakened Spellbook can telepathically share with you what it sees and hears (no action required). You can cast spells on your turn as if you were in the Awakened Spellbook's space a number of times equal to your proficiency bonus per long rest.
