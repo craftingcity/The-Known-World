@@ -328,7 +328,7 @@ Once you conjure the mind, you can't do so again until you finish a long rest, u
 *Hands*: 
 	Leather Fingerless Gloves
 	Maggie's Lucky Spoon-Ring
-	Verdant Band (1/1)
+	Verdant Band (*entangle* 1/1)
 *Arms*: 
 	Cloth Shirt
 	Canvas Cloak
@@ -347,7 +347,7 @@ Once you conjure the mind, you can't do so again until you finish a long rest, u
 		- A Painting of My Dad and Grom
 *Groin*:
 	Equipment Belt
-		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]] 0/1 flip)
+		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]] 1/1 flip)
 		- [[#Ghostlight Lantern]] (*faerie fire* DC 13 1/1)
 		- Sheath (Dagger)
 		- Sending Stone (paired with Soju)
@@ -361,7 +361,7 @@ Once you conjure the mind, you can't do so again until you finish a long rest, u
 - *Attuned*
 - While you are Attuned, the Coin can be used as an Arcane Focus.
 - While you are Attuned, the Coin grants +1 to Arcana Skill Checks.
-- While you are Attuned, you may store a 1st Level Wizard Spell in the Coin (currently *Silvery Barbs* 0/1).
+- While you are Attuned, you may store a 1st Level Wizard Spell in the Coin (currently *Silvery Barbs* 1/1).
 - While you are Attuned, once per long rest, before you cast a spell (8/10);
 	- *(Heads / Evens)* Gain Advantage on an Attack Roll made for the spell, or impose Disadvantage on a Saving Throw made for the spell.
 	- *(Tails / Odds)* Regain the lowest level spell slot expended to cast the spell.
