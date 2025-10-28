@@ -204,7 +204,12 @@ As we continue down the path, we end up in what seems to be the den of the spide
 We continue the fight against the teleporting spider. We rescue Mindy and Crorix. Crorix takes us to a place to stay in the swamp.
 
 #### Session 18: Into the Swamps (cont.)
+Talking with Crorix, he revealed some more about the Vresk; 
+- 'Vresshara' leads the Council of Scales, and governs Vresktal
+- The Marsh Tribe in the East
+- The River Tribe in the North
 
+We are heading to Outpost Jrakshawn
 ## Stats
 
 | L. 6 | XP: 16,225 | / 23.0k | (1) Inspiration |
