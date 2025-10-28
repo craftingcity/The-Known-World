@@ -4,62 +4,142 @@
     "type": "split",
     "children": [
       {
-        "id": "d4953c4af8d830f8",
-        "type": "tabs",
+        "id": "aa81dd0647043923",
+        "type": "split",
         "children": [
           {
-            "id": "489a57419c023e64",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
+            "id": "557af41ec1653246",
+            "type": "split",
+            "children": [
+              {
+                "id": "f7ea2c4dd635d384",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "4adc559cbb6011a1",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "state": "{}",
+                          "eState": "{}"
+                        },
+                        {
+                          "title": "Tiana Turing",
+                          "icon": "lucide-file",
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Junie's Characters/Tiana Turing.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Tiana Turing\"}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":211,\"ch\":71},\"to\":{\"line\":211,\"ch\":71}},\"scroll\":200.97762838317814}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
+                        "mode": "source",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "The Secretkeepers"
+                    },
+                    "group": "a0a61fb2a3e399c2"
+                  }
+                ]
               },
-              "icon": "lucide-file",
-              "title": "Tiana Turing"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f7ea2c4dd635d384",
-        "type": "tabs",
-        "children": [
+              {
+                "id": "c0d4c8fccc2e132e",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "c7f235360e07fea1",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "state": "{}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "backlink",
+                      "state": {
+                        "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
+                        "collapseAll": false,
+                        "extraContext": false,
+                        "sortOrder": "alphabetical",
+                        "showSearch": false,
+                        "searchQuery": "",
+                        "backlinkCollapsed": false,
+                        "unlinkedCollapsed": true
+                      },
+                      "icon": "links-coming-in",
+                      "title": "Backlinks for The Secretkeepers"
+                    },
+                    "group": "a0a61fb2a3e399c2"
+                  },
+                  {
+                    "id": "9a5018ccb3248952",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "state": "{}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Game Notes/Prenotes/'25/Prenotes Aug 09 25.md",
+                        "mode": "source",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "Prenotes Aug 09 25"
+                    }
+                  }
+                ],
+                "currentTab": 1
+              }
+            ],
+            "direction": "horizontal"
+          },
           {
-            "id": "4adc559cbb6011a1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "9d011e48080d95c4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c3489e739e78bee0",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Prenotes/'24/Prenotes Nov 21 24.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Prenotes Nov 21 24"
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tiana Turing"
-            }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -109,7 +189,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "zipper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,12 +238,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 359.5080032348633,
-    "collapsed": true
+    "width": 359.5080032348633
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -333,8 +413,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "489a57419c023e64",
+  "active": "9a5018ccb3248952",
   "lastOpenFiles": [
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "Game Notes/Prenotes/'24/Prenotes Nov 21 24.md",
+    "Junie's Characters/Tiana Turing.md",
     "Game Notes/Prenotes/'25/Prenotes Oct 26 25.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Psion.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md",
@@ -358,9 +441,6 @@
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
     "Game Notes/Campaign Rosters/Jasper's Angels.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-    "Game Notes/Prenotes/Prenotes.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
