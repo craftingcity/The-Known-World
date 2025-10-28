@@ -209,7 +209,8 @@ Talking with Crorix, he revealed some more about the Vresk;
 - The Marsh Tribe in the East
 - The River Tribe in the North
 
-We are heading to Outpost Jrakshawn
+We come to Outpost Draksharn where there is a fight - we come upon it; 
+
 ## Stats
 
 | L. 6 | XP: 16,225 | / 23.0k | (1) Inspiration |
@@ -325,7 +326,7 @@ Once you conjure the mind, you can't do so again until you finish a long rest, u
 
 | Components     | Quantity |
 | -------------- | -------- |
-| Incense        | 13x      |
+| Incense        | 12x      |
 | Charcoal       | 4x       |
 | Pearl          | 3x       |
 | Spiderstep Sap | 1x       |
