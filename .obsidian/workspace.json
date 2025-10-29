@@ -4,15 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aa81dd0647043923",
+        "id": "8dbca031b505378f",
         "type": "split",
         "children": [
           {
-            "id": "557af41ec1653246",
+            "id": "7ea30b7ed8427af3",
             "type": "split",
             "children": [
               {
-                "id": "f7ea2c4dd635d384",
+                "id": "968a060b9dd4ddcf",
                 "type": "tabs",
                 "children": [
                   {
@@ -43,16 +43,16 @@
                       "icon": "lucide-file",
                       "title": "The Secretkeepers"
                     },
-                    "group": "a0a61fb2a3e399c2"
+                    "group": "99c3091ed2475d7b"
                   }
                 ]
               },
               {
-                "id": "c0d4c8fccc2e132e",
+                "id": "7f23c36d48894e3b",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "c7f235360e07fea1",
+                    "id": "87c434b071de1297",
                     "type": "leaf",
                     "pane-relief:history-v1": {
                       "pos": 0,
@@ -78,43 +78,19 @@
                       "icon": "links-coming-in",
                       "title": "Backlinks for The Secretkeepers"
                     },
-                    "group": "a0a61fb2a3e399c2"
-                  },
-                  {
-                    "id": "9a5018ccb3248952",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Game Notes/Prenotes/'25/Prenotes Aug 09 25.md",
-                        "mode": "source",
-                        "source": true
-                      },
-                      "icon": "lucide-file",
-                      "title": "Prenotes Aug 09 25"
-                    }
+                    "group": "99c3091ed2475d7b"
                   }
-                ],
-                "currentTab": 1
+                ]
               }
             ],
             "direction": "horizontal"
           },
           {
-            "id": "9d011e48080d95c4",
+            "id": "aa11f365780c170a",
             "type": "tabs",
             "children": [
               {
-                "id": "c3489e739e78bee0",
+                "id": "9a5018ccb3248952",
                 "type": "leaf",
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -128,15 +104,39 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Game Notes/Prenotes/'24/Prenotes Nov 21 24.md",
+                    "file": "Game Notes/Prenotes/'25/Prenotes Aug 09 25.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Prenotes Nov 21 24"
+                  "title": "Prenotes Aug 09 25"
+                }
+              },
+              {
+                "id": "fb7215317a59dd08",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Prenotes Oct 30 25.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Prenotes Oct 30 25"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -243,7 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5080032348633
+    "width": 269.5091133117676
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -413,9 +413,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a5018ccb3248952",
+  "active": "fb7215317a59dd08",
   "lastOpenFiles": [
+    "Prenotes Oct 30 25.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "Game Notes/Prenotes/'25/Prenotes Aug 09 25.md",
+    "Game Notes/Prenotes/'25/Prenotes Sep 13 25.md",
     "Game Notes/Prenotes/'24/Prenotes Nov 21 24.md",
     "Junie's Characters/Tiana Turing.md",
     "Game Notes/Prenotes/'25/Prenotes Oct 26 25.md",
@@ -432,15 +435,12 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Who has a Horde.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
-    "Game Notes/Prenotes/'25/Prenotes Sep 13 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Mossburg.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Beacon.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Beacon/Amourain.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Black Egal.md",
     "black.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
-    "Game Notes/Campaign Rosters/Jasper's Angels.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
