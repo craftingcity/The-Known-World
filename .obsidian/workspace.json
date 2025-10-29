@@ -4,142 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "8dbca031b505378f",
-        "type": "split",
+        "id": "89adeeff7ece53bd",
+        "type": "tabs",
         "children": [
           {
-            "id": "7ea30b7ed8427af3",
-            "type": "split",
-            "children": [
-              {
-                "id": "968a060b9dd4ddcf",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "4adc559cbb6011a1",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        },
-                        {
-                          "title": "Tiana Turing",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Junie's Characters/Tiana Turing.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Tiana Turing\"}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":211,\"ch\":71},\"to\":{\"line\":211,\"ch\":71}},\"scroll\":200.97762838317814}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
-                        "mode": "source",
-                        "source": true
-                      },
-                      "icon": "lucide-file",
-                      "title": "The Secretkeepers"
-                    },
-                    "group": "99c3091ed2475d7b"
-                  }
-                ]
-              },
-              {
-                "id": "7f23c36d48894e3b",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "87c434b071de1297",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "backlink",
-                      "state": {
-                        "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
-                        "collapseAll": false,
-                        "extraContext": false,
-                        "sortOrder": "alphabetical",
-                        "showSearch": false,
-                        "searchQuery": "",
-                        "backlinkCollapsed": false,
-                        "unlinkedCollapsed": true
-                      },
-                      "icon": "links-coming-in",
-                      "title": "Backlinks for The Secretkeepers"
-                    },
-                    "group": "99c3091ed2475d7b"
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
-          },
-          {
-            "id": "aa11f365780c170a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9a5018ccb3248952",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Prenotes/'25/Prenotes Aug 09 25.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prenotes Aug 09 25"
+            "id": "df85f112a4aed946",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
-              },
-              {
-                "id": "fb7215317a59dd08",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Prenotes Oct 30 25.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prenotes Oct 30 25"
-                }
-              }
-            ],
-            "currentTab": 1
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
@@ -413,11 +300,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb7215317a59dd08",
+  "active": "df85f112a4aed946",
   "lastOpenFiles": [
-    "Prenotes Oct 30 25.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Game Notes/Prenotes/'25/Prenotes Aug 09 25.md",
+    "Prenotes Oct 30 25.md",
     "Game Notes/Prenotes/'25/Prenotes Sep 13 25.md",
     "Game Notes/Prenotes/'24/Prenotes Nov 21 24.md",
     "Junie's Characters/Tiana Turing.md",
