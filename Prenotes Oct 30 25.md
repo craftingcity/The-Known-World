@@ -14,7 +14,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, they had great success in their journeys 
+When last we left our heroes, they had great success in their trip to [[Kohnstamm]], where they fought their way through the city's Experimental Genetics Facility to find [[Otto Malkovich]]. After quickly dispatching the Doctor
 
 ### What does the World Know?
 
