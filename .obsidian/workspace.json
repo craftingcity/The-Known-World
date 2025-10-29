@@ -20,10 +20,14 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "stardew.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "stardew"
             }
           }
         ]
@@ -302,6 +306,7 @@
   },
   "active": "df85f112a4aed946",
   "lastOpenFiles": [
+    "stardew.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Game Notes/Prenotes/'25/Prenotes Aug 09 25.md",
     "Prenotes Oct 30 25.md",
@@ -327,7 +332,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Beacon/Amourain.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Black Egal.md",
     "black.md",
-    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
