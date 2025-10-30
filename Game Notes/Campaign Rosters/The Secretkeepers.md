@@ -44,6 +44,8 @@ Within the White Church, a section of government sponsored research has gone tow
 ( - )  : [[Northstone Family Trading Company]]
 ( - )  : [[Guilds of Coalition]]
 ( + ) : [[Slimknives]]
+( - )  : [[The Church of the White Flame]]
+( - )  : [[The People...#Fallen]]
 
 ## Places
 ### Scenarios Changed

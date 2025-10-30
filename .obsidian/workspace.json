@@ -4,6 +4,59 @@
     "type": "split",
     "children": [
       {
+        "id": "fb2843733ad97f3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f6b0c362002fe8f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'25/Prenotes Aug 09 25.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes Aug 09 25"
+            }
+          },
+          {
+            "id": "aabe94777f3c115f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Secretkeepers"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
         "id": "89adeeff7ece53bd",
         "type": "tabs",
         "children": [
@@ -20,10 +73,14 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Oct 30 25.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Prenotes Oct 30 25"
             }
           }
         ]
@@ -76,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zipper",
+                "query": "\"the fallen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -302,11 +359,12 @@
   },
   "active": "df85f112a4aed946",
   "lastOpenFiles": [
-    "stardew.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
-    "Game Notes/Prenotes/'25/Prenotes Aug 09 25.md",
     "Prenotes Oct 30 25.md",
+    "Game Notes/Prenotes/'25/Prenotes Aug 09 25.md",
+    "Game Notes/Prenotes/'25/Prenotes Sep 10 25.md",
     "Game Notes/Prenotes/'25/Prenotes Sep 13 25.md",
+    "stardew.md",
     "Game Notes/Prenotes/'24/Prenotes Nov 21 24.md",
     "Junie's Characters/Tiana Turing.md",
     "Game Notes/Prenotes/'25/Prenotes Oct 26 25.md",
@@ -327,7 +385,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Beacon.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Beacon/Amourain.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Black Egal.md",
-    "black.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
