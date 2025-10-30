@@ -19,9 +19,22 @@ When last we left our heroes, they had great success in their trip to [[Kohnstam
 Upon their return to their home in [[Coalition City]], the party's homekeeper-alchemist [[Anita Rewch]] presented their newly furnished abode, and over a well-earned home dinner, she spoke of her research being 'experimentally viable'. Today is the 25th of Harvest, in the 106th year. She's ready.
 
 ### What does the World Know?
-#### Anita & *Display Faith*
+#### Anita, *Display Faith*, & the Notadeer
+Anita Rewch has created a new ritual spell, *display faith*. She plans on performing it for the first time on Saorsia, in an attempt to identify what extraplanar entity she had encountered in the years before. 
+
 #### Roan & Slimknives Missions
+Roan is going to have to stick around in town for a while, they need to keep their reputation in the Slimknives. He'll do solo missions if the party is uninterested in the money, but there are some things we would be able to do together;
+	- "Fire Sale"
+	- "Termination"
+	- "Reposession"
+	- "Estate Sale"
+
 #### The Fallen watches...
+Agents of the Fallen are watching the party. They have been tailed since [[Kohnstamm]], and are within the sights of the hivemind - our goal is the elimination of Zipper, and the rest of the party will be collateral damage.
+
+Plan A; *Hired Killers*. Unlikely to succeed, low resource investment. Always a good first choice.
+Plan B; *Cart Bomb* May succeed, middling resource investment. Not my favorite.
+Plan C; *Return to the Old* High success rate, high resource investment. If they don't die out there, we'll do it ourselves.
 
 ### What happened?
 
