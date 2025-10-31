@@ -20,7 +20,9 @@ Upon their return to their home in [[Coalition City]], the party's homekeeper-al
 
 ### What does the World Know?
 #### Anita, *Display Faith*, & the Notadeer
-Anita Rewch has created a new ritual spell, *display faith*. She plans on performing it for the first time on Saorsia, in an attempt to identify what extraplanar entity she had encountered in the years before. 
+Anita Rewch has created a new ritual spell, *display faith*. She plans on performing it for the first time on Saorsia, in an attempt to identify what extraplanar entity she had encountered in her past. 
+
+When performed, *display faith* will create a series of illusory orbs surrounding the target. These orbs will be of various sizes, representing the portion of faith being gathered by a given entity. When *identified*, more information regarding who/what the faith is gathered by can be gained.
 
 #### Roan & Slimknives Missions
 Roan is going to have to stick around in town for a while, they need to keep their reputation in the Slimknives. He'll do solo missions if the party is uninterested in the money, but there are some things we would be able to do together;
