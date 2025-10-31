@@ -42,10 +42,10 @@
                   "pos": 1,
                   "stack": [
                     {
-                      "title": "Prenotes Nov 21 24",
+                      "title": "Baator",
                       "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'24/Prenotes Nov 21 24.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Nov 21 24\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.078064258645075}"
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Baator\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":157},\"to\":{\"line\":17,\"ch\":157}},\"scroll\":13.721102947223008}"
                     },
                     {
                       "state": "{}",
@@ -449,11 +449,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5fac44f1519775e",
+  "active": "df85f112a4aed946",
   "lastOpenFiles": [
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
-    "Game Notes/Prenotes/'24/Prenotes Dec 13 24.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Prenotes Oct 30 25.md",
+    "Game Notes/Prenotes/'24/Prenotes Dec 13 24.md",
     "Game Notes/Prenotes/'24/Prenotes Nov 21 24.md",
     "Game Notes/Prenotes/'25/Prenotes Mar 21 25.md",
     "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
@@ -476,7 +477,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Feywild/Ceilie Courts.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Who has a Horde.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",

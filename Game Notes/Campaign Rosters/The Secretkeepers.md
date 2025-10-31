@@ -19,6 +19,7 @@ aliases:
 - what happened to my family?, and or my adoptive father figure, but very specifically the research they were doing together?
 ##### Saoirse, the Cursed
 - what the fuck really happened, what is the NotADeer, how do I stop it?
+- learn draconic, meet a dragon, they teach me how to become a dragon
 
 ### Trusted Allies
 [[Anita Rewch]]
