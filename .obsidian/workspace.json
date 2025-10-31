@@ -174,6 +174,29 @@
               "icon": "lucide-file",
               "title": "Prenotes Oct 30 25"
             }
+          },
+          {
+            "id": "3fb494cef305b6f2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Baator"
+            }
           }
         ]
       }
@@ -451,9 +474,10 @@
   },
   "active": "df85f112a4aed946",
   "lastOpenFiles": [
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Prenotes Oct 30 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Game Notes/Prenotes/'24/Prenotes Dec 13 24.md",
     "Game Notes/Prenotes/'24/Prenotes Nov 21 24.md",
     "Game Notes/Prenotes/'25/Prenotes Mar 21 25.md",
@@ -476,7 +500,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Feywild/Feywild.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Feywild/Ceilie Courts.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Who has a Horde.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",

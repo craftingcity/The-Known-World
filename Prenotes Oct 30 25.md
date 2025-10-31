@@ -40,5 +40,8 @@ Plan C; *Return to the Old* High success rate, high resource investment. If they
 
 ### What happened?
 
+22 gave the EGF yearbooks to Anita to comb through and contextualize.
+Niko wants to research ways to kill Notadeer, learn Infernal, and comb through his parents research.
+Soarsia wants to find and talk to a demonologist, and eventually find a dragon.
 
 We leave our heroes on the date of ... AF, as they ...
