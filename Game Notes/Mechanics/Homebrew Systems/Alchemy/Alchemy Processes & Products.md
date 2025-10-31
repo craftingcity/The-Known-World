@@ -488,8 +488,12 @@ After digestion, you are effected by the *lesser restoration* spell.
 #### Traditional
 A bright green liquid that, when introduced to the bloodstream by either direct injection or ingestion, causes irritation, inflammation, or outright failure in various organs throughout the body.
 
+Upon introduction, a creature must succeed on a DC (G + 12) Constitution Saving Throw or, for the next (G + 1) rounds or until save ends, take (G * (1d4 + 1)) poison damage at the end of their turn. When a creature takes damage this way, they make another Save against this effect.
+
 #### Debilitation
 A dark yellow liquid that, when introduced to the bloodstream by either direct injection or ingestion, travels to the spinal column and brain to disrupt regular neurological signals to or from the body's limbs.
+
+Upon introduction, a creature must succeed on a DC (G + 12) Constitution Saving Throw or, for the next (G + )
 
 #### Blight Venom
 A dark green liquid that, when introduced to the bloodstream by direct injection, causes some white blood-cells to identify red blood-cells as threats to the bloodstream, and eventually causes the body to cease operation.
@@ -519,6 +523,8 @@ A fine yellow powder that, when exposed to contact with exposure points such as 
 A coarse red powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, immediately begins to burn the contact area.
 
 #### Sleeping Stone Dust
+A fine purple powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, dissolves into the bloodstream, and travels to the spinal column and brain. When it arrives, it begins over-population hormones related to sleep and dreaming, melatonin in particular, causing the body to quickly fall into unconsciousness.
+
 #### Yellow Gas
 #### Brown Gas
 #### Green Gas
