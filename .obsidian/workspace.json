@@ -6,6 +6,7 @@
       {
         "id": "c54c53a35ea3aa37",
         "type": "split",
+        "dimension": 33.08056872037915,
         "children": [
           {
             "id": "fb2843733ad97f3b",
@@ -133,7 +134,7 @@
                       "linkStrength": 1,
                       "linkDistance": 250,
                       "scale": 0.6031347241679104,
-                      "close": false
+                      "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
@@ -149,6 +150,7 @@
       {
         "id": "89adeeff7ece53bd",
         "type": "tabs",
+        "dimension": 66.91943127962085,
         "children": [
           {
             "id": "df85f112a4aed946",
@@ -447,7 +449,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df85f112a4aed946",
+  "active": "d5fac44f1519775e",
   "lastOpenFiles": [
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Game Notes/Prenotes/'24/Prenotes Dec 13 24.md",
