@@ -493,7 +493,7 @@ Upon introduction, a creature must succeed on a DC (G + 12) Constitution Saving 
 #### Debilitation
 A dark yellow liquid that, when introduced to the bloodstream by either direct injection or ingestion, travels to the spinal column and brain to disrupt regular neurological signals to or from the body's limbs.
 
-Upon introduction, a creature must succeed on a DC (G + 12) Constitution Saving Throw or, for the next (G + 3) rounds or until save ends, is 'Dazed'. At the end of that creature's turn, they make another Save against this effect.
+Upon introduction, a creature must succeed on a DC (G + 12) Constitution Saving Throw or, for the next (G + 3) rounds or until save ends, become 'Dazed'. At the end of that creature's turn, they make another Save against this effect.
 
 #### Blight Venom
 A dark green liquid that, when introduced to the bloodstream by direct injection, causes some white blood-cells to identify red blood-cells as threats to the bloodstream, and eventually causes the body to cease operation.
@@ -503,7 +503,7 @@ Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving 
 #### Stone Blood
 A dull grey liquid that, when introduced to the bloodstream by direct injection, causes severe clotting around the heart. Without medical intervention, this clotting presents an immediate threat to limb mobility, and will eventually cause the body to cease operation.
 
-Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving Throw or 
+Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving Throw or, for the next (G + 2) rounds, become 'Dazed'. At the end of that creature's turn, they make another Save against this effect. While 'Dazed' this way, if they fail the Constitution Saving Throw against this effect, they become 'Stunned' for the next (G + 2) rounds. While 'Stunned' this way, if they fail the Constitution Saving Throw against this effect, they are 'Petrified'. 
 
 #### Weakmind
 A bright pink liquid that, when introduced to the bloodstream by direct injection, travels to the spinal column and brain to disrupt neurological functions within the brain, including sight and touch senses, and general cognitive awareness.
