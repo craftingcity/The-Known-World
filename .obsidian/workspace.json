@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Dazed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +160,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -334,8 +335,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7ce0a1b60f73813",
+  "active": "0fee003a9c67f337",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Prenotes/'24/Prenotes Dec 13 24.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Game Notes/Prenotes/'25/Prenotes Aug 09 25.md",
@@ -360,8 +363,6 @@
     "Game Notes/Prenotes/'25/Prenotes Mar 21 25.md",
     "Game Notes/Prenotes/'25/Prenotes May 24 25.md",
     "Game Notes/Prenotes/'25/Prenotes July 10 25.md",
-    "Game Notes/Prenotes/'25/Prenotes Sep 10 25.md",
-    "Game Notes/Prenotes/'25/Prenotes Sep 13 25.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",

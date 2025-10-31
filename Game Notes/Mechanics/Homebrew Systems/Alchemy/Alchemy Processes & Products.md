@@ -493,13 +493,17 @@ Upon introduction, a creature must succeed on a DC (G + 12) Constitution Saving 
 #### Debilitation
 A dark yellow liquid that, when introduced to the bloodstream by either direct injection or ingestion, travels to the spinal column and brain to disrupt regular neurological signals to or from the body's limbs.
 
-Upon introduction, a creature must succeed on a DC (G + 12) Constitution Saving Throw or, for the next (G + )
+Upon introduction, a creature must succeed on a DC (G + 12) Constitution Saving Throw or, for the next (G + 3) rounds or until save ends, is 'Dazed'. At the end of that creature's turn, they make another Save against this effect.
 
 #### Blight Venom
 A dark green liquid that, when introduced to the bloodstream by direct injection, causes some white blood-cells to identify red blood-cells as threats to the bloodstream, and eventually causes the body to cease operation.
 
+Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving Throw or, for the next (G + 1) rounds or until save ends, take (G * (1d6 + 1)) necrotic damage at the end of their turn. When a creature takes damage this way, they make another Save against this effect.
+
 #### Stone Blood
 A dull grey liquid that, when introduced to the bloodstream by direct injection, causes severe clotting around the heart. Without medical intervention, this clotting presents an immediate threat to limb mobility, and will eventually cause the body to cease operation.
+
+Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving Throw or 
 
 #### Weakmind
 A bright pink liquid that, when introduced to the bloodstream by direct injection, travels to the spinal column and brain to disrupt neurological functions within the brain, including sight and touch senses, and general cognitive awareness.

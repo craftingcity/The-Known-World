@@ -82,6 +82,12 @@ Putting something away is an **Object Interaction**. The item is stowed.
 Pulling something out is an **Object Interaction**. The item is wielded.
 You may perform a second **Object Interaction** on your turn by using your **Bonus Action**.
 
+## Dazed
+While you are Dazed;
+	- You may only use either your Standard or Bonus Actions, not both.
+	- Your speed is halved.
+	- You cannot take Reactions.
+
 ## Oversized Weapons
 Larger creatures can wield larger weapons more easily. For creatures of a size-class of 'Large' or greater, Melee Weapons with the *two-handed* property but without the *very heavy* property become *versatile (d+)* instead of *two-handed* for them.
 
