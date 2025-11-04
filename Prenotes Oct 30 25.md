@@ -45,7 +45,7 @@ Plan C; *Return to the Old* High success rate, high resource investment. If they
 Niko wants to research ways to kill Notadeer, learn Infernal, and comb through his parents research.
 	- > The Notadeer is an Arbiter, here's what that means and how we can dismiss if not outright kill one
 	- > You can do that. It'll take a while.
-	- > Sure, they tried a lot of stuff, but found the most promising leads in the realm of soul transference; One can manipulate a soul as a form of energy, store it in an object, or transfer it into another body. We know how to manipulate a loose soul, and we have a design for a gem-battery
+	- > Sure, they tried a lot of stuff, but found the most promising leads in the realm of soul transference; One can manipulate a soul as a form of energy, store it in an object, or transfer it into another body. We know how to manipulate a loose soul, and we have a design for a gem-battery, but we can't test anything, morally.
 Soarsia wants to find and talk to a demonologist, and eventually find a dragon.
 [[Fulton Shepherd]] is cited - alongside [[Paulo San Tymiq]] and [[Abraham the Wise]] - in the demonology book the gang has, and theyre going to see them, somewhere in Mountain Hall.
 

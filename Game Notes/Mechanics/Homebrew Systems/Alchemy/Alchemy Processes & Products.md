@@ -508,8 +508,12 @@ Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving 
 #### Weakmind
 A bright pink liquid that, when introduced to the bloodstream by direct injection, travels to the spinal column and brain to disrupt neurological functions within the brain, including sight and touch senses, and general cognitive awareness.
 
+Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving Throw or, for the next (G + 4) rounds, they have Disadvantage on Intelligence and Wisdom Checks and Saving Throws, and they are Vulnerable to psychic damage. At the end of that creature's turn, they make another save against this effect.
+
 #### Torrin's Bane
 A light brown liquid that, when introduced to the bloodstream by direct injection or contact with exposure points such as the skin, eyes, or mouth, causes the body to release unnaturally high levels of adrenaline, engaging and confusing the 'flight, flight, freeze' response and raising the body's heartrate to rise into dangerous levels. When the body becomes stressed while effected, cardiac malfunction is likely to occur.
+
+Upon introduction, a creature must succeed on a DC (G + 17) Constitution Saving Throw or, for the next (G + 2) rounds, at the beginning of their turn they take (G * (2d6 + 3)) necrotic damage. At the end of that creature's turn, they make another save against this effect. If they fail a save against this effect by eight or more, they take 
 
 #### King's Last Drink
 A colorless, odorless, and tasteless liquid that, when introduced to the bloodstream by either direct injection or ingestion, travels to the spinal column and brain where it begins to erode the brain, causing cognitive malfunction and irrationality.
