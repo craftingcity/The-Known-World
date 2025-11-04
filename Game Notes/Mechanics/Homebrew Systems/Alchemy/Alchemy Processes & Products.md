@@ -518,10 +518,10 @@ Upon introduction, a creature must succeed on a DC (G + 17) Constitution Saving 
 #### King's Last Drink
 A colorless, odorless, and tasteless liquid that, when introduced to the bloodstream by either direct injection or ingestion, travels to the spinal column and brain where it begins to erode the brain, causing cognitive malfunction and irrationality.
 
-Upon introduction, a creature must succeed on a DC (G + 17) Constitution Saving Throw or, for the next (G + 5) rounds, they are Poisoned and Dazed. At the end of that creature's turn, they make another save against this effect.
+Upon introduction, a creature must succeed on a DC (G + 17) Constitution Saving Throw or, for the next (G + 5) rounds, they are Poisoned and Dazed, and at the beginning of their turn thry take (G * 1d10) poison damage. At the end of that creature's turn, they make another save against this effect.
 
 #### Asphyxium
-A fine grey powder that is tasteless and odorless, and when ingested, causes the body's lungs to cease expelling air, and quickly experience asphyxiation.
+A fine grey powder that is tasteless and odorless, and when ingested, causes the body's lungs to cease intaking or expelling air, and quickly experience asphyxiation.
 
 #### Petrifica
 A coarse brown powder that, when exposed to flesh or other organs, begins to convert the substance it covers to a stone-like substance. Without medical intervention, this reaction presents a threat of natural needs, as the body fails maneuver effectively, if at all, towards meeting those needs. 
