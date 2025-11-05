@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Campaigns",
+      "path": "Game Notes/Campaigns.md"
+    },
+    {
+      "basename": "Tetrimoc",
+      "path": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Tetrimoc.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
+    },
+    {
       "basename": "Alchemy Processes & Products",
       "path": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Amourain",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Beacon/Amourain.md"
-    },
-    {
-      "basename": "Black Egal",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Boneborn/Black Egal.md"
-    },
-    {
-      "basename": "Baron Cassindil",
-      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Cassindil.md"
-    },
-    {
-      "basename": "Jasper's Angels",
-      "path": "Game Notes/Campaign Rosters/Jasper's Angels.md"
     }
   ],
   "omittedPaths": [],
