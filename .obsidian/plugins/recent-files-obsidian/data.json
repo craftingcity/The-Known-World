@@ -5,6 +5,10 @@
       "path": "Game Notes/Campaigns.md"
     },
     {
+      "basename": "Houran Venclaw",
+      "path": "Game Notes/NPCs/High Power/Council of Eight NPCs/Houran Venclaw.md"
+    },
+    {
       "basename": "Tetrimoc",
       "path": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Tetrimoc.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Beacon",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/Beacon.md"
-    },
-    {
-      "basename": "Amourain",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Beacon/Amourain.md"
     }
   ],
   "omittedPaths": [],

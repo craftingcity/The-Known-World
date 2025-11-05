@@ -12,7 +12,7 @@ Politics / Tactics: *3* / *4*
 
 Evocative Title: **"The Ancient Empire's Mysteries"**
 Description: *'I don't know what year it is. The folks that come are saying we're past a century. I've been here over a decade and I still don't understand this place. I know I'm not long for this world, but I'll be damned if I don't figure Minyostalma somehow in my head.'*
-Vibe Notation: This campaign will begin at middle-low level, and nearly all questing will focus on the happenings inside Minyostalma.
+Vibe Notation: This campaign will begin at middle-low level, and nearly all questing will focus on the happenings inside Minyostalma, and the secrets still buried within.
 Politics / Tactics (*Survival Tactics*): *2* / *5*
 
 Evocative Title: **"The Baron's Instruments"**
@@ -25,10 +25,10 @@ Description: *'It doesn't matter how you got here, if you came willingly, or wha
 Vibe Notation: This campaign will begin at middle-low level, and will be entirely contained within Kailkeep, where you are forced to perform feats of combat, intelligence, and betrayal. 
 Politics / Tactics (*Survival Horror*): *2* / *4*
 
-Evocative Title:
-Description: *'The year is 106 AF. It has been nearly 14 years since Tetrimoc has flown in the skies, and we are a house divided. There are children born who do not know the beauty of his scales, who dare to question the authority of our Planebearer and of his chosen shepherds. '*
+Evocative Title: **"The Desert's Worries"**
+Description: *'The year is 106 AF. It has been nearly 15 years since Tetrimoc has flown in the skies, and we are a house divided. There are children born who do not know the beauty of his scales. Some of us are losing faith that he still speaks to us - that the High Ambassador does speak the truth for Him. The rest of us know his return to be coming.'*
 Vibe Notation: This campaign will begin at low level, and initial questing will focus on exploring Tetrimoc's Desert and the happenings in that region.
-Politics / Tactics (*ZZZ*): *X* / *X*
+Politics / Tactics (**): *3* / *3*
 
 Evocative Title:
 Description:
