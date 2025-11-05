@@ -523,10 +523,12 @@ Upon introduction, a creature must succeed on a DC (G + 17) Constitution Saving 
 #### Asphyxium
 A fine grey powder that is tasteless and odorless, and when ingested, causes the body's lungs to cease intaking or expelling air, and quickly experience asphyxiation.
 
-Upon ingestion, a creature must succeed on a DC (G + 15) Constitution Saving Throw or, for the next (G + )
+Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving Throw or, for the next (G + 10) rounds, they cannot breathe, and begin to suffocate.
 
 #### Petrifica
-A coarse brown powder that, when exposed to flesh or other organs, begins to convert the substance it covers to a stone-like substance. Without medical intervention, this reaction presents a threat of natural needs, as the body fails maneuver effectively, if at all, towards meeting those needs. 
+A coarse brown powder that, when exposed to flesh or other organs, begins to spread and convert the substance it grows to cover into a stone-like substance. Without medical intervention, this reaction presents a threat of natural needs, as the body fails maneuver effectively, if at all, towards meeting those needs. 
+
+Upon introduction, a creature must succeed on a DC (G + 17) Constitution Saving Throw or, for the next (G + 5) rounds, become 'Dazed'. At the end of that creature's turn, they make another Save against this effect. While 'Dazed' this way, if they fail the Constitution Saving Throw against this effect, they become 'Stunned' for the next (G + 5) rounds. While 'Stunned' this way, if they fail the Constitution Saving Throw against this effect, they are 'Petrified'. 
 
 #### Sensorcompra
 A fine yellow powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, immediately halts sensory transmission to or from the point of exposure. While extremely disorienting, this reaction is temporary, and will resolve over a number of hours.
