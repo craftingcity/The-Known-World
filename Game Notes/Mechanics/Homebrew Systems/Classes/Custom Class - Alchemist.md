@@ -22,11 +22,11 @@ aliases:
 | 11th  |     | Concoct: Pharmaceutical                      | 14            |
 | 12th  |     | Ability Score Improvement                    | 15            |
 | 13th  | +5  | Graduate                                     | 17            |
-| 14th  |     |                                              | 18            |
+| 14th  |     | Infuse Trinket II                            | 18            |
 | 15th  |     | Mobile Laboratory III                        | 19            |
 | 16th  |     | Ability Score Improvement                    | 20            |
-| 17th  | +6  |                                              | 22            |
-| 18th  |     |                                              | 23            |
+| 17th  | +6  | Extra Attack II                              | 22            |
+| 18th  |     | Whoops!                                      | 23            |
 | 19th  |     | Ability Score Improvement                    | 24            |
 | 20th  |     | Master Alchemist                             | 25            |
 
@@ -79,13 +79,13 @@ At 2nd level, as a Bonus Action, you may expend a number of Reagent Points to in
 | 1    | *Reflexive* - When you next make a Saving Throw, you expend the Infusion and gain +2 to that Save.                                                                   |
 | 1    | *Protective* - When you next are the target of an Attack, you expend the Infusion and gain +1 to your AC.                                                            |
 | 2    | *Concussive* - When you next take Damage, you expend the Infusion and roll 2d6. You deal an amount of force damage equal to the result to the source of your damage. |
-| 2    | *Operative* - When you next make a Initiative Roll, you expend the Infusion and gain +2 to the result.                                                               |
+| 2    | *Operative* - When you next make an Initiative Roll, you expend the Infusion and gain +2 to the result.                                                               |
 | 3    | *Competitive* - When you next Hit on an Attack, you expend the Infusion and roll twice for the Damage you deal, taking the higher total result.                      |
 
-At 14th level, 
+At 14th level, the effects granted by expending your Infusions are more powerful. *Offensive*, *Reflexive*, and *Operative* Infusions grant +4, *Protective* Infusions grant +2, *Concussive* Infusions roll 4d6, and *Competitive* Infusions read '... and deal the maximum damage for the attack instead of rolling.'
 
 ### Mobile Laboratory
-At 3rd level, during a long rest, you may modify a mobile space (such as a cart or a room on a ship) you occupy with secured alchemical facilities to create your Mobile Laboratory. 
+At 3rd level, during a long rest, you may modify a mobile space you occupy or own (such as a cart or a room on a ship) with secured alchemical facilities to create your Mobile Laboratory. 
 
 At 3rd level, your Mobile Laboratory grants you the following effects;
 
@@ -101,11 +101,13 @@ At 9th level, your Mobile Laboratory grants you the following additional effects
 
 At 15th level, your Mobile Laboratory grants you the following additional effects;
 
-- When you spend an Alchemical Component to regain Reagent Points, you gain twice the number of Reagent Points.
-- While your Laboratory is accessible, when you finish a long rest, you may choose an Alchemical Component that you own. You gain another unit of that Component.
+- Whenever you spend an Alchemical Component to regain Reagent Points, you gain twice as many Reagent Points.
+- While your Laboratory is accessible, when you finish a long rest, you may choose up to three Alchemical Components that you own. You gain another unit of each of those Components.
 
 ### Extra Attack
 At 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+At 17th level, you can attack thrice, instead of twice, whenever you take the Attack action on your turn.
 
 ### Concoct: Powderblast
 At 6th level, as an Attack, you throw a Powderblast. Spend two Reagent Points and roll a d6 on the Powderblast Effect Table. Then, you choose a point you can see within 20ft where the Powderblast erupts into a 5ft radius sphere. The Powder remains concentrated in this radius for 1 minute (10 rounds), or until a strong wind disperses the Powder. 
@@ -143,17 +145,8 @@ At 11th level, as an Attack, you violently dispense a Pharmaceutical. Spend thre
 ### Graduate
 At 13th level, when you make a Skill Check to create an Alchemical Product, you can treat a d20 roll of 7 or lower as an 8.
 
-### xx
-At 14th level,
-
-### xx
-At 15th level,
-
-### xx
-At 17th level,
-
-### xx
-At 18th level,
+### Whoops!
+At 18th level, when you use a Concoct feature, you if you choose to roll twice for the Effect, you use both Effects. You may choose another target for your second Concoction.
 
 ### Master Alchemist
-At 20th level, 
+At 20th level, when you make a Skill Check to create an Alchemical Product, you can treat a d20 roll of 15 or lower as a 16.
