@@ -26,7 +26,7 @@ aliases:
 | 15th  |     | Mobile Laboratory III                        | 19            |
 | 16th  |     | Ability Score Improvement                    | 20            |
 | 17th  | +6  | Extra Attack II                              | 22            |
-| 18th  |     | Whoops!                                      | 23            |
+| 18th  |     | To Much Fun!                                 | 23            |
 | 19th  |     | Ability Score Improvement                    | 24            |
 | 20th  |     | Master Alchemist                             | 25            |
 
@@ -56,19 +56,19 @@ At 1st level, choose two of your skill proficiencies. Your proficiency bonus is 
 At 10th level, you can choose another two skill proficiencies to gain this benefit.
 
 ### Reagent Points
-The Reagent Points column of the Alchemist table shows you how many Reagent Points you have to use your features. You regain all expended Reagent Points when you finish a long rest. 
+The Reagent Points column of the Alchemist table shows you how many Reagent Points you have to use your features. You regain a number of points equal to your Intelligence Modifier you finish a long rest. 
 
 ### Concoct: Elixir
 At 1st level, as an Attack, you throw an Elixir. Expend one Reagent Point and roll a d6 on the Elixir Effect Table. Then, choose a point you can see within 30ft of you where the Elixir will land.
 
 | d6  | Effect                                                                                                                                                                                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | *Explosion* - Creatures and Objects within a 10ft radius of the point take 2d6 force damage.                                                                                                      |
+| 1   | *Explosion* - Creatures and Objects within a 10ft radius of the point take 2d6+INT force damage.                                                                                                      |
 | 2   | *Illumination* - Creatures within a 5ft radius of the point must succeed on a DC 14 Dexterity Save or become Dazed until the end of your next turn.                                               |
 | 3   | *Condensation* - Creatures within a 10ft radius of the point must succeed on a DC 14 Strength Save or are pushed Prone. Earthy terrain within this radius becomes Difficult Terrain for 12 hours. |
 | 4   | *Acceleration* - Creatures within a 10ft radius of the point gain +5 Speed and +1 AC until the end of your next turn.                                                                             |
 | 5   | *Eruption* - Within a 5ft radius of the point, grey earth fills the radius, creating a 5ft raised surface within the radius.                                                                      |
-| 6   | *Continuation* - Creatures within a 15ft radius of the point gain 10 Temporary Hit Points.                                                                                                        |
+| 6   | *Continuation* - Creatures within a 15ft radius of the point may set their Temporary Hit Points to 10.                                                                                                        |
 
 ### Infuse Trinket
 At 2nd level, as a Bonus Action, you may expend a number of Reagent Points to infuse a small item or object with your choice of an Infusion from the Infusion Table. The item or object remains Infused until it is used, or you finish a long rest.
@@ -114,10 +114,10 @@ At 6th level, as an Attack, you throw a Powderblast. Spend two Reagent Points an
 
 | d6  | Effect                                                                                                                                                                                                                                                                                                            |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | *Red* - Creatures who enter or start their turn within the radius must succeed on a DC 16 Wisdom Save take 2d6 psychic damage and be Frightened of you until the beginning of their next turn.                                                                                                                    |
+| 1   | *Red* - Creatures who enter or start their turn within the radius must succeed on a DC 16 Wisdom Save take 2d6+INT psychic damage and be Frightened of you until the beginning of their next turn.                                                                                                                    |
 | 2   | *Yellow* - Creatures who enter or start their turn within the radius must succeed on a DC 16 Dexterity Save or be Paralyzed until the beginning of their next turn.                                                                                                                                               |
-| 3   | *Green* - Creatures who enter or start their turn within the radius must succeed on a DC 16 Constitution Save or take 2d4 poison damage and be Poisoned until the beginning of their next turn.                                                                                                                   |
-| 4   | *Blue* - Creatures who enter or start their turn within the radius must succeed on a DC 16 Strength Save or take 1d8 force damage and become Restrained until the beginning of their next turn.                                                                                                                   |
+| 3   | *Green* - Creatures who enter or start their turn within the radius must succeed on a DC 16 Constitution Save or take 2d4+INT poison damage and be Poisoned until the beginning of their next turn.                                                                                                                   |
+| 4   | *Blue* - Creatures who enter or start their turn within the radius must succeed on a DC 16 Strength Save or take 1d8+INT force damage and become Restrained until the beginning of their next turn.                                                                                                                   |
 | 5   | *Purple* - Creatures who enter or start their turn within the radius must succeed on a DC 16 Intelligence Save or gain Disadvantage on Ability Checks, Attack Rolls, and Saving Throws until the beginning of their next turn.                                                                                    |
 | 6   | *Pink* - Creatures who enter or start their turn within the radius must succeed on a DC 16 Charisma Save or become Charmed by you until the beginning of their next turn. While they are Charmed this way, they will follow your commands to the best of their ability, provided the given command is reasonable. |
 
@@ -135,18 +135,18 @@ At 11th level, as an Attack, you violently dispense a Pharmaceutical. Spend thre
 
 | d6  | Effect                                                                                                                                       |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | *Wake Up* - The creature immediately regains Consciousness if it is Unconscious. Otherwise, it takes 3d10 necrotic damage.                   |
+| 1   | *Wake Up* - The creature immediately regains Consciousness if it is Unconscious. Otherwise, it takes 3d10+INT necrotic damage.               |
 | 2   | *Psychite* - The creature immediately makes two Attacks against an adjacent creature.                                                        |
 | 3   | *Go Juice* - The creature immediately moves its Speed.                                                                                       |
 | 4   | *Ambrosia* - The creature immediately becomes Dazed until the end of it's next turn and may spend up to three Hit Dice to regain Hit Points. |
-| 5   | *Flack* - The creature immediately takes 1d6 necrotic damage and gains Advantage on Attack Rolls until the end of it's next turn.            |
+| 5   | *Flack* - The creature immediately takes 1d6+INT necrotic damage and gains Advantage on Attack Rolls until the end of it's next turn.        |
 | 6   | *Finelica* - The creature immediately resolves one of the following Conditions; Dazed, Stunned, Frightened, Charmed, or Poisoned.            |
 
 ### Graduate
 At 13th level, when you make a Skill Check to create an Alchemical Product, you can treat a d20 roll of 7 or lower as an 8.
 
-### Whoops!
-At 18th level, when you use a Concoct feature, you if you choose to roll twice for the Effect, you use both Effects. You may choose another target for your second Concoction.
+### To Much Fun!
+At 18th level, when you use a Concoct feature, you if you choose to roll twice for the Effect, you must use both Effects. You may choose another target for the second Effect.
 
 ### Master Alchemist
 At 20th level, when you make a Skill Check to create an Alchemical Product, you can treat a d20 roll of 15 or lower as a 16.
