@@ -21,7 +21,7 @@ aliases:
 | 10th  |     | Expertise II, Emergency Prevention and Care  | 13            |
 | 11th  |     | Concoct: Pharmaceutical                      | 14            |
 | 12th  |     | Ability Score Improvement                    | 15            |
-| 13th  | +5  |                                              | 17            |
+| 13th  | +5  | Graduate                                     | 17            |
 | 14th  |     |                                              | 18            |
 | 15th  |     | Mobile Laboratory III                        | 19            |
 | 16th  |     | Ability Score Improvement                    | 20            |
@@ -78,12 +78,14 @@ At 2nd level, as a Bonus Action, you may expend a number of Reagent Points to in
 | 1    | *Offensive* - When you next make an Attack Roll, you expend the Infusion and gain +2 to hit.                                                                         |
 | 1    | *Reflexive* - When you next make a Saving Throw, you expend the Infusion and gain +2 to that Save.                                                                   |
 | 1    | *Protective* - When you next are the target of an Attack, you expend the Infusion and gain +1 to your AC.                                                            |
-| 2    | *Concussive* - When you next take Damage, you expend the Infusion and roll 2d8. You deal an amount of force damage equal to the result to the source of your damage. |
+| 2    | *Concussive* - When you next take Damage, you expend the Infusion and roll 2d6. You deal an amount of force damage equal to the result to the source of your damage. |
 | 2    | *Operative* - When you next make a Initiative Roll, you expend the Infusion and gain +2 to the result.                                                               |
 | 3    | *Competitive* - When you next Hit on an Attack, you expend the Infusion and roll twice for the Damage you deal, taking the higher total result.                      |
 
+At 14th level, 
+
 ### Mobile Laboratory
-At 3rd level, during a long rest, you may modify a mobile space (such as a cart or a room on a ship) you occupy with secured alchemical facilities. 
+At 3rd level, during a long rest, you may modify a mobile space (such as a cart or a room on a ship) you occupy with secured alchemical facilities to create your Mobile Laboratory. 
 
 At 3rd level, your Mobile Laboratory grants you the following effects;
 
@@ -99,7 +101,8 @@ At 9th level, your Mobile Laboratory grants you the following additional effects
 
 At 15th level, your Mobile Laboratory grants you the following additional effects;
 
-- When you spending an Alchemical Component to regain Reagent Points, you gain twice the number of Reagent Points.
+- When you spend an Alchemical Component to regain Reagent Points, you gain twice the number of Reagent Points.
+- While your Laboratory is accessible, when you finish a long rest, you may choose an Alchemical Component that you own. You gain another unit of that Component.
 
 ### Extra Attack
 At 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
@@ -120,13 +123,13 @@ At 6th level, as an Attack, you throw a Powderblast. Spend two Reagent Points an
 At 7th level, when you make a Skill Check to identify or understand an Alchemical Component, Product, or Recipe, you can treat a d20 roll of 7 or lower as an 8.
 
 ### Reliable Concoctions
-At 7th level, when you use a Concoct feature, you may roll twice for the Effect, and choose one.
+At 7th level, when you use a Concoct feature, you may roll twice for the Effect, and choose either.
 
 ### Emergency Prevention and Care
 At 10th level, as a Bonus Action, you may spend any number of Reagent Points and choose that many creatures that can you can see within 60ft. When you do, those creatures immediately make a Saving Throw against an Effect or Condition they are under.
 
 ### Concoct: Pharmaceutical
-At 11th level, as an Attack, you fire a Pharmaceutical. Spend three Reagent Points and roll a d6 on the Pharmaceutical Effect Table. Then, target a creature you can see within 60ft that you fire the Pharmaceutical into. If that creature is not your Ally, make an Attack Roll against their AC using your Intelligence Modifier and Proficiency Bonus.
+At 11th level, as an Attack, you violently dispense a Pharmaceutical. Spend three Reagent Points and roll a d6 on the Pharmaceutical Effect Table. Then, target a creature you can see within 60ft that you fire the Pharmaceutical into. If that creature is not yourself or an Ally, make an Attack Roll against their AC using your Intelligence Modifier and Proficiency Bonus.
 
 | d6  | Effect                                                                                                                                       |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -137,8 +140,8 @@ At 11th level, as an Attack, you fire a Pharmaceutical. Spend three Reagent Poin
 | 5   | *Flack* - The creature immediately takes 1d6 necrotic damage and gains Advantage on Attack Rolls until the end of it's next turn.            |
 | 6   | *Finelica* - The creature immediately resolves one of the following Conditions; Dazed, Stunned, Frightened, Charmed, or Poisoned.            |
 
-### xx
-At 13th level,
+### Graduate
+At 13th level, when you make a Skill Check to create an Alchemical Product, you can treat a d20 roll of 7 or lower as an 8.
 
 ### xx
 At 14th level,
@@ -153,4 +156,4 @@ At 17th level,
 At 18th level,
 
 ### Master Alchemist
-At 20th level,
+At 20th level, 
