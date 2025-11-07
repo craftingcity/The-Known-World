@@ -536,6 +536,8 @@ A fine yellow powder that, when exposed to contact with exposure points such as 
 #### Ashmaker Dust
 A coarse red powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, immediately begins to burn the contact area.
 
+Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving Throw or take (G * (3d4 + 6)) fire damage.
+
 #### Sleeping Stone Dust
 A fine purple powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, dissolves into the bloodstream, and travels to the spinal column and brain. When it arrives, it begins over-population hormones related to sleep and dreaming, melatonin in particular, causing the body to quickly fall into unconsciousness.
 
