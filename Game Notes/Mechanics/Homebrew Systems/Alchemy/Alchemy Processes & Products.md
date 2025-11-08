@@ -465,85 +465,119 @@ After digestion, you are effected by the *lesser restoration* spell.
 
 ### Poisons
 
-| Name (Source)       | Mechanic | Cost @ Market | Regions Producing |
-| ------------------- | -------- | ------------- | ----------------- |
-| Traditional Poison  |          |               |                   |
-| Debilitation Poison |          |               |                   |
-| Blight Venom        |          |               |                   |
-| Stone Blood Poison  |          |               |                   |
-| Weakmind Poison     |          |               |                   |
-| Torrin's Bane       |          |               |                   |
-| King's Last Drink   |          |               |                   |
-| Asphyxium           |          |               |                   |
-| Petrifica           |          |               |                   |
-| Sensorcompra        |          |               |                   |
-| Ashmaker Dust       |          |               |                   |
-| Sleeping Stone Dust |          |               |                   |
-| Yellow Gas          |          |               |                   |
-| Brown Gas           |          |               |                   |
-| Green Gas           |          |               |                   |
-| Black Gass          |          |               |                   |
-| Poisoner's Matrix   |          |               |                   |
+| Name (Source)       | Mechanic                                                                        | Cost @ Market | Regions Producing |
+| ------------------- | ------------------------------------------------------------------------------- | ------------- | ----------------- |
+| Traditional Poison  | DC G+11 CON; (G * (1d4 + 1)) poison damage                                      |               |                   |
+| Debilitation Poison | DC G+11 CON; Dazed                                                              |               |                   |
+| Blight Venom        | DC G+13 CON; (G * (1d6 + 1)) necrotic damage                                    |               |                   |
+| Stone Blood Poison  | DC G+15 CON; Dazed -> Stunned -> Petrified                                      |               |                   |
+| Weakmind Poison     | DC G+13 INT; DIS on INT, WIS, Vulnerable to Psychic                             |               |                   |
+| Torrin's Bane       | DC G+17 CON; (G * (2d6 + 3)) necrotic / fire                                    |               |                   |
+| King's Last Drink   | DC G+17 CON; Poisoned, Dazed, (G * 1d10) poison damage, (G * 2d8) poison damage |               |                   |
+| Asphyxium           | DC G+15 CON; Suffocate                                                          |               |                   |
+| Petrifica           | DC G+17 CON; Dazed -> Stunned -> Petrified                                      |               |                   |
+| Sensorcompra        | DC G+15 CON; Blinded, Deafened                                                  |               |                   |
+| Ashmaker Dust       | DC G+15 CON; (G * (3d4 + 6)) fire damage                                        |               |                   |
+| Sleeping Stone Dust | DC G+13 CON; Dazed -> Incapacitated                                             |               |                   |
+| Yellow Gas          |                                                                                 |               |                   |
+| Brown Gas           |                                                                                 |               |                   |
+| Green Gas           |                                                                                 |               |                   |
+| Black Gass          |                                                                                 |               |                   |
+| Poisoner's Matrix   |                                                                                 |               |                   |
 
 #### Traditional
 A bright green liquid that, when introduced to the bloodstream by either direct injection or ingestion, causes irritation, inflammation, or outright failure in various organs throughout the body.
 
 Upon introduction, a creature must succeed on a DC (G + 11) Constitution Saving Throw or, for the next (G + 1) rounds or until save ends, take (G * (1d4 + 1)) poison damage at the end of their turn. When a creature takes damage this way, they make another Save against this effect.
 
+**Ingredients**;
+- 32 ounces Apple Seed (3.20sp)
+- 16 ounces Tobacco (1.60sp)
+- 2 ounces Nightshade (160.0sp)
+	- 24 ounces Traditional Poison (240.0sp) > (10.0sp / ounce)
+
 #### Debilitation
 A dark yellow liquid that, when introduced to the bloodstream by either direct injection or ingestion, travels to the spinal column and brain to disrupt regular neurological signals to or from the body's limbs.
 
 Upon introduction, a creature must succeed on a DC (G + 11) Constitution Saving Throw or, for the next (G + 3) rounds or until save ends, become 'Dazed'. At the end of that creature's turn, they make another Save against this effect.
+
+**Ingredients**;
+- 32 ounces Apple Seed (3.20sp)
+- 16 ounces Tobacco (1.60sp)
+- 4 pounds Lead (2.40sp)
+- 1 ounce Gland of Ankheg (750.0sp)
+	- 24 ounces Debilitation Poison (1.5k sp) > (75.0sp / ounce)
 
 #### Blight Venom
 A dark green liquid that, when introduced to the bloodstream by direct injection, causes some white blood-cells to identify red blood-cells as threats to the bloodstream, and eventually causes the body to cease operation.
 
 Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving Throw or, for the next (G + 1) rounds or until save ends, take (G * (1d6 + 1)) necrotic damage at the end of their turn. When a creature takes damage this way, they make another Save against this effect.
 
+**Ingredients**;
+
+
 #### Stone Blood
 A dull grey liquid that, when introduced to the bloodstream by direct injection, causes severe clotting around the heart. Without medical intervention, this clotting presents an immediate threat to limb mobility, and will eventually cause the body to cease operation.
 
 Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving Throw or, for the next (G + 2) rounds, become 'Dazed'. At the end of that creature's turn, they make another Save against this effect. While 'Dazed' this way, if they fail the Constitution Saving Throw against this effect, they become 'Stunned' for the next (G + 2) rounds. While 'Stunned' this way, if they fail the Constitution Saving Throw against this effect, they are 'Petrified'. 
+
+**Ingredients**;
 
 #### Weakmind
 A bright pink liquid that, when introduced to the bloodstream by direct injection, travels to the spinal column and brain to disrupt neurological functions within the brain, including sight and touch senses, and general cognitive awareness.
 
 Upon introduction, a creature must succeed on a DC (G + 13) Intelligence Saving Throw or, for the next (G + 4) rounds, they have Disadvantage on Intelligence and Wisdom Checks and Saving Throws, and they are Vulnerable to psychic damage. At the end of that creature's turn, they make another save against this effect.
 
+**Ingredients**;
+
 #### Torrin's Bane
 A light brown liquid that, when introduced to the bloodstream by direct injection or contact with exposure points such as the skin, eyes, or mouth, causes the body to release unnaturally high levels of adrenaline, engaging and confusing the 'flight, flight, freeze' response and raising the body's heartrate to rise into dangerous levels. When the body becomes stressed while effected, cardiac malfunction is likely to occur.
 
 Upon introduction, a creature must succeed on a DC (G + 17) Constitution Saving Throw or, for the next (G + 2) rounds, at the beginning of their turn they take (G * (2d6 + 3)) necrotic damage. At the end of that creature's turn, they make another save against this effect. If they fail a save against this effect by eight or more, they take (G * (2d6 + 3)) fire damage.
+
+**Ingredients**;
 
 #### King's Last Drink
 A colorless, odorless, and tasteless liquid that, when introduced to the bloodstream by either direct injection or ingestion, travels to the spinal column and brain where it begins to erode the brain, causing cognitive malfunction and irrationality.
 
 Upon introduction, a creature must succeed on a DC (G + 17) Constitution Saving Throw or, for the next (G + 5) rounds, they are Poisoned and Dazed, and at the beginning of their turn they take (G * 1d10) poison damage. At the end of that creature's turn, they make another save against this effect. If they fail a save against this effect by eight or more, they take (G * 2d8) poison damage.
 
+**Ingredients**;
+
 #### Asphyxium
 A fine grey powder that is tasteless and odorless, and when ingested, causes the body's lungs to cease intaking or expelling air, and quickly experience asphyxiation.
 
 Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving Throw or, for the next (G + 10) rounds, they cannot breathe, and begin to suffocate.
+
+**Ingredients**;
 
 #### Petrifica
 A coarse brown powder that, when exposed to flesh or other organs, begins to spread and convert the substance it grows to cover into a stone-like substance. Without medical intervention, this reaction presents a threat of natural needs, as the body fails maneuver effectively, if at all, towards meeting those needs. 
 
 Upon introduction, a creature must succeed on a DC (G + 17) Constitution Saving Throw or, for the next (G + 5) rounds, become 'Dazed'. At the end of that creature's turn, they make another Save against this effect. While 'Dazed' this way, if they fail the Constitution Saving Throw against this effect, they become 'Stunned' for the next (G + 5) rounds. While 'Stunned' this way, if they fail the Constitution Saving Throw against this effect, they are 'Petrified'. 
 
+**Ingredients**;
+
 #### Sensorcompra
 A fine yellow powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, immediately halts sensory transmission to or from the point of exposure. While extremely disorienting, this reaction is temporary, and will resolve over a number of hours.
 
 Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving Throw or become 'Blinded' and 'Deafened' until they take a short rest.
+
+**Ingredients**;
 
 #### Ashmaker Dust
 A coarse red powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, immediately begins to burn the contact area.
 
 Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving Throw or take (G * (3d4 + 6)) fire damage.
 
+**Ingredients**;
+
 #### Sleeping Stone Dust
 A fine purple powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, dissolves into the bloodstream, and travels to the spinal column and brain. When it arrives, it begins over-population hormones related to sleep and dreaming, melatonin in particular, causing the body to quickly fall into unconsciousness.
 
 Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving Throw or become 'Dazed'. At the end of that creature's turn, they make another Save against this effect. While 'Dazed' this way, if they fail the Constitution Saving Throw against this effect, they become 'Incapacitated' until they take damage.
+
+**Ingredients**;
 
 #### Yellow Gas
 #### Brown Gas

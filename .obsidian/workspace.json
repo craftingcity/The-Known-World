@@ -6,7 +6,7 @@
       {
         "id": "8c65b86f4a28fdd2",
         "type": "tabs",
-        "dimension": 71.67277167277167,
+        "dimension": 44.57904300423986,
         "children": [
           {
             "id": "e30069774c4ea5b8",
@@ -60,7 +60,7 @@
       {
         "id": "e125d6fcfe765c45",
         "type": "tabs",
-        "dimension": 28.327228327228326,
+        "dimension": 55.42095699576015,
         "children": [
           {
             "id": "c6ff8ebc6500b428",
@@ -86,8 +86,32 @@
               "title": "Outline of Alchemy Processes & Products"
             },
             "group": "054d562c67eb4af9"
+          },
+          {
+            "id": "ea9f9bf51d36109c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Alchemical Components"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -364,8 +388,9 @@
   },
   "active": "e30069774c4ea5b8",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "Game Notes/Campaigns.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Tetrimoc.md",
@@ -389,7 +414,6 @@
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Past Adventurers, Now NPCs.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Kakurak's Chosen.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers/Fulton Shepherd.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
