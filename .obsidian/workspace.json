@@ -386,10 +386,59 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea9f9bf51d36109c",
+  "floating": {
+    "id": "0037c7cd10f20cb7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "20a5db417fd77dd7",
+        "type": "window",
+        "children": [
+          {
+            "id": "3df0e1cac503265d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1b9d9af7faf7381a",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Custom Cultures"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 56,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": -2.5
+      }
+    ]
+  },
+  "active": "1b9d9af7faf7381a",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "Game Notes/Campaigns.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
@@ -413,7 +462,6 @@
     "Game Notes/NPCs/High Power/Lorekeeper NPCs/Lorekeeper NPCs.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Past Adventurers, Now NPCs.md",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Kakurak's Chosen/Kakurak's Chosen.md",
-    "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Grey Ordeal/Grey Ordeal.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
