@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2025-04-14T22:44:05.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="wZQ7bVH6wvM2PXxpMOC-" version="24.4.0" type="device">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.15 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.15">
   <diagram name="Page-1" id="o0ZqQBc5p8aBz4_Yj3NF">
-    <mxGraphModel dx="1500" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#999999" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#999999" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,11 @@
         </mxCell>
         <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-2" value="Guild of Merchants" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="260" y="240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zs4EJt9pAPgEDIWjnem3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-3" value="Guild of Crafters" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="260" y="280" width="200" height="40" as="geometry" />
@@ -28,6 +33,11 @@
         <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-7" value="Guilded Mercenary Corps" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
           <mxGeometry x="380" y="160" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="zs4EJt9pAPgEDIWjnem3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-9" value="Guild of Rangers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="260" y="320" width="200" height="40" as="geometry" />
         </mxCell>
@@ -40,7 +50,7 @@
         <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-12" value="Council of Mages" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="220" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.17;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-10" target="Qp0GUsCn_s2tmI3Qah0Y-12" edge="1">
+        <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.17;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-10" target="Qp0GUsCn_s2tmI3Qah0Y-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qp0GUsCn_s2tmI3Qah0Y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.85;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#00FF00;strokeColor=#00FF00;" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-9" target="Qp0GUsCn_s2tmI3Qah0Y-5" edge="1">
@@ -315,6 +325,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="zs4EJt9pAPgEDIWjnem3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f0a30a;strokeColor=#FFCE9F;" parent="1" source="91A2RXsGNv93fPLzzTM1-74" target="91A2RXsGNv93fPLzzTM1-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="91A2RXsGNv93fPLzzTM1-74" value="D.G. Tac. Sec. Company" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="700" y="600" width="80" height="40" as="geometry" />
         </mxCell>
@@ -322,6 +335,9 @@
           <mxGeometry x="700" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="91A2RXsGNv93fPLzzTM1-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="91A2RXsGNv93fPLzzTM1-81" target="91A2RXsGNv93fPLzzTM1-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zs4EJt9pAPgEDIWjnem3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#97D077;startArrow=classic;startFill=1;" parent="1" source="91A2RXsGNv93fPLzzTM1-81" target="91A2RXsGNv93fPLzzTM1-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="91A2RXsGNv93fPLzzTM1-81" value="Baron Filip" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
@@ -365,27 +381,6 @@
         </mxCell>
         <mxCell id="91A2RXsGNv93fPLzzTM1-95" value="Baron Xuiop" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="1420" y="520" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="91A2RXsGNv93fPLzzTM1-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00FF00;" parent="1" source="91A2RXsGNv93fPLzzTM1-96" target="91A2RXsGNv93fPLzzTM1-88" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="b-xVL_7S8nbbo-IQDQZ7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeColor=#00FF00;" parent="1" source="91A2RXsGNv93fPLzzTM1-96" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1550" y="500" />
-              <mxPoint x="720" y="500" />
-              <mxPoint x="720" y="560" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b-xVL_7S8nbbo-IQDQZ7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00FF00;" parent="1" source="91A2RXsGNv93fPLzzTM1-96" target="91A2RXsGNv93fPLzzTM1-116" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1550" y="500" />
-              <mxPoint x="920" y="500" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="91A2RXsGNv93fPLzzTM1-96" value="Righteous Beasts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
           <mxGeometry x="1460" y="560" width="120" height="40" as="geometry" />
@@ -435,7 +430,15 @@
         <mxCell id="91A2RXsGNv93fPLzzTM1-113" value="Mossburg Enforcers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="1900" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="91A2RXsGNv93fPLzzTM1-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#007FFF;" parent="1" source="91A2RXsGNv93fPLzzTM1-115" target="91A2RXsGNv93fPLzzTM1-125" edge="1">
+        <mxCell id="91A2RXsGNv93fPLzzTM1-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#97D077;" parent="1" source="91A2RXsGNv93fPLzzTM1-70" target="91A2RXsGNv93fPLzzTM1-125" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="510" />
+              <mxPoint x="990" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zs4EJt9pAPgEDIWjnem3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#97D077;" parent="1" source="91A2RXsGNv93fPLzzTM1-115" target="91A2RXsGNv93fPLzzTM1-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="91A2RXsGNv93fPLzzTM1-115" value="Baron Glask" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
@@ -456,7 +459,7 @@
         <mxCell id="91A2RXsGNv93fPLzzTM1-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="91A2RXsGNv93fPLzzTM1-119" target="91A2RXsGNv93fPLzzTM1-120" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="91A2RXsGNv93fPLzzTM1-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#007FFF;" parent="1" source="91A2RXsGNv93fPLzzTM1-119" target="91A2RXsGNv93fPLzzTM1-125" edge="1">
+        <mxCell id="91A2RXsGNv93fPLzzTM1-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#97D077;" parent="1" source="91A2RXsGNv93fPLzzTM1-119" target="91A2RXsGNv93fPLzzTM1-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="91A2RXsGNv93fPLzzTM1-119" value="Baron Avory" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
@@ -479,14 +482,14 @@
         <mxCell id="91A2RXsGNv93fPLzzTM1-121" value="Ammarin Transportation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="1100" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="91A2RXsGNv93fPLzzTM1-125" value="Eastern Control Agreement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="900" y="640" width="120" height="40" as="geometry" />
+        <mxCell id="91A2RXsGNv93fPLzzTM1-125" value="South Eastern Alliance of Security (SEASec)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="900" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="91A2RXsGNv93fPLzzTM1-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="91A2RXsGNv93fPLzzTM1-115" target="91A2RXsGNv93fPLzzTM1-116" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="91A2RXsGNv93fPLzzTM1-128" value="The Company" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="760" width="80" height="40" as="geometry" />
+          <mxGeometry x="920" y="700" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="91A2RXsGNv93fPLzzTM1-132" value="White Flame Militants for the Minyostalman Blockade and Exclusion District" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="370" width="80" height="120" as="geometry" />
@@ -511,6 +514,15 @@
         </mxCell>
         <mxCell id="lt6AwBfO4V5_-j9UhJtK-1" value="House a&#39;Nyrk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="1340" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zs4EJt9pAPgEDIWjnem3-3" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2035" y="725" as="sourcePoint" />
+            <mxPoint x="2085" y="675" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zs4EJt9pAPgEDIWjnem3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.169;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="Qp0GUsCn_s2tmI3Qah0Y-2" target="Qp0GUsCn_s2tmI3Qah0Y-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

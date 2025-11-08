@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c65b86f4a28fdd2",
+        "id": "396b16b984a3ddd1",
         "type": "tabs",
-        "dimension": 44.57904300423986,
         "children": [
           {
-            "id": "e30069774c4ea5b8",
+            "id": "8adc36f24c897a8f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -21,120 +20,13 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Alchemy Processes & Products"
-            },
-            "group": "054d562c67eb4af9"
-          },
-          {
-            "id": "7a939ad98768f450",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Custom Class - Alchemist"
+              "title": "New tab"
             }
           }
         ]
-      },
-      {
-        "id": "e125d6fcfe765c45",
-        "type": "tabs",
-        "dimension": 55.42095699576015,
-        "children": [
-          {
-            "id": "c6ff8ebc6500b428",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Alchemy Processes & Products"
-            },
-            "group": "054d562c67eb4af9"
-          },
-          {
-            "id": "ea9f9bf51d36109c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Alchemical Components"
-            }
-          },
-          {
-            "id": "59fe219e5419d645",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Grand Pantheon"
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Dazed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5091133117676
+    "width": 269.5091133117676,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -408,85 +301,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "0037c7cd10f20cb7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "20a5db417fd77dd7",
-        "type": "window",
-        "children": [
-          {
-            "id": "3df0e1cac503265d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1b9d9af7faf7381a",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Custom Cultures"
-                }
-              },
-              {
-                "id": "4023439865074880",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Custom Heritages"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 56,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": -2.5
-      }
-    ]
-  },
-  "active": "59fe219e5419d645",
+  "active": "8adc36f24c897a8f",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Nyrk.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Fen.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Valim.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "Game Notes/Campaigns.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Tetrimoc.md",
