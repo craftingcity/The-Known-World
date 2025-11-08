@@ -453,7 +453,7 @@ After digestion, you are paralyzed and incapacitated. While you are incapacitate
 #### of Cure Disease
 A thin, gold, decarbonated potion used by common folk to resolve infection or disease when it becomes apparent.
 
-After digestion, you are effected by the *lesser restoration* spell.
+After digestion, you are effected by the *lesser restoration* spell G times.
 
 **Ingredients**;
 - 12 pounds Marble (42.00sp)
@@ -514,10 +514,10 @@ A dark green liquid that, when introduced to the bloodstream by direct injection
 Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving Throw or, for the next (G + 1) rounds or until save ends, take (G * (1d6 + 1)) necrotic damage at the end of their turn. When a creature takes damage this way, they make another Save against this effect.
 
 **Ingredients**;
-- 1 ounce Fang of Basilisk (3.6k sp)
-- 20 pounds Granite (2.0sp)
+- 8 ounces Solanberry Tar (8.80sp)
 - 24 ounces Stinkhorn (48.0sp)
-	- 8 ounces Blight Venom (5.0k sp) > (625.0sp / ounce)
+- 4 ounces Nightshade (320.0sp)
+	- 16 ounces Blight Venom (500.0sp) > (45.0sp / ounce)
 
 #### Stone Blood
 A dull grey liquid that, when introduced to the bloodstream by direct injection, causes severe clotting around the heart. Without medical intervention, this clotting presents an immediate threat to limb mobility, and will eventually cause the body to cease operation.
@@ -525,6 +525,10 @@ A dull grey liquid that, when introduced to the bloodstream by direct injection,
 Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving Throw or, for the next (G + 2) rounds, become 'Dazed'. At the end of that creature's turn, they make another Save against this effect. While 'Dazed' this way, if they fail the Constitution Saving Throw against this effect, they become 'Stunned' for the next (G + 2) rounds. While 'Stunned' this way, if they fail the Constitution Saving Throw against this effect, they are 'Petrified'. 
 
 **Ingredients**;
+- 1 ounce Fang of Basilisk (3.6k sp)
+- 20 pounds Granite (2.0sp)
+- 24 ounces Stinkhorn (48.0sp)
+	- 8 ounces Stone Blood Poison (5.0k sp) > (625.0sp / ounce)
 
 #### Weakmind
 A bright pink liquid that, when introduced to the bloodstream by direct injection, travels to the spinal column and brain to disrupt neurological functions within the brain, including sight and touch senses, and general cognitive awareness.
@@ -532,6 +536,10 @@ A bright pink liquid that, when introduced to the bloodstream by direct injectio
 Upon introduction, a creature must succeed on a DC (G + 13) Intelligence Saving Throw or, for the next (G + 4) rounds, they have Disadvantage on Intelligence and Wisdom Checks and Saving Throws, and they are Vulnerable to psychic damage. At the end of that creature's turn, they make another save against this effect.
 
 **Ingredients**;
+- 4 ounces Nightshade (320.0sp)
+- 64 ounces Tobacco (6.40sp)
+- 16 ounces of Smokebulb (120.0sp)
+	- 4 ounces Weakmind Poison (500.0sp) > (125.0sp / ounce)
 
 #### Torrin's Bane
 A light brown liquid that, when introduced to the bloodstream by direct injection or contact with exposure points such as the skin, eyes, or mouth, causes the body to release unnaturally high levels of adrenaline, engaging and confusing the 'flight, flight, freeze' response and raising the body's heartrate to rise into dangerous levels. When the body becomes stressed while effected, cardiac malfunction is likely to occur.
