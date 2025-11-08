@@ -7,28 +7,28 @@ aliases:
 *You must have an Intelligence score of 13 or higher in order to multiclass in or out of this class.*
 > ...
 
-| Level | PB  | Features                                     | Reagent Point |
-| ----- | --- | -------------------------------------------- | ------------- |
-| 1st   | +2  | Expertise I, Reagent Points, Concoct: Elixir | 2             |
-| 2nd   |     | Infuse Trinket                               | 3             |
-| 3rd   |     | Mobile Laboratory I                          | 4             |
-| 4th   |     | Ability Score Improvement                    | 5             |
-| 5th   | +3  | Extra Attack                                 | 7             |
-| 6th   |     | Concoct: Powderblast                         | 8             |
-| 7th   |     | Student of The Art, Reliable Concoctions     | 9             |
-| 8th   |     | Ability Score Improvement                    | 10            |
-| 9th   | +4  | Mobile Laboratory II                         | 12            |
-| 10th  |     | Expertise II, Emergency Prevention and Care  | 13            |
-| 11th  |     | Concoct: Pharmaceutical                      | 14            |
-| 12th  |     | Ability Score Improvement                    | 15            |
-| 13th  | +5  | Graduate                                     | 17            |
-| 14th  |     | Infuse Trinket II                            | 18            |
-| 15th  |     | Mobile Laboratory III                        | 19            |
-| 16th  |     | Ability Score Improvement                    | 20            |
-| 17th  | +6  | Extra Attack II                              | 22            |
-| 18th  |     | To Much Fun!                                 | 23            |
-| 19th  |     | Ability Score Improvement                    | 24            |
-| 20th  |     | Master Alchemist                             | 25            |
+| Level | PB  | Features                                     |
+| ----- | --- | -------------------------------------------- |
+| 1st   | +2  | Expertise I, Reagent Points, Concoct: Elixir |
+| 2nd   |     | Infuse Trinket                               |
+| 3rd   |     | Mobile Laboratory I                          |
+| 4th   |     | Ability Score Improvement                    |
+| 5th   | +3  | Extra Attack                                 |
+| 6th   |     | Concoct: Powderblast                         |
+| 7th   |     | Student of The Art, Reliable Concoctions     |
+| 8th   |     | Ability Score Improvement                    |
+| 9th   | +4  | Mobile Laboratory II                         |
+| 10th  |     | Expertise II, Emergency Prevention and Care  |
+| 11th  |     | Concoct: Pharmaceutical                      |
+| 12th  |     | Ability Score Improvement                    |
+| 13th  | +5  | Graduate                                     |
+| 14th  |     | Infuse Trinket II                            |
+| 15th  |     | Mobile Laboratory III                        |
+| 16th  |     | Ability Score Improvement                    |
+| 17th  | +6  | Extra Attack II                              |
+| 18th  |     | To Much Fun!                                 |
+| 19th  |     | Ability Score Improvement                    |
+| 20th  |     | Master Alchemist                             |
 
 
 ### Hit Points
@@ -54,9 +54,6 @@ aliases:
 At 1st level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
 At 10th level, you can choose another two skill proficiencies to gain this benefit.
-
-### Reagent Points
-The Reagent Points column of the Alchemist table shows you how many Reagent Points you have to use your features. You regain a number of points equal to your Intelligence Modifier you finish a long rest. 
 
 ### Concoct: Elixir
 At 1st level, as an Attack, you throw an Elixir. Expend one Reagent Point and roll a d6 on the Elixir Effect Table. Then, choose a point you can see within 30ft of you where the Elixir will land.
