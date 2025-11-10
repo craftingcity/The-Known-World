@@ -35,8 +35,55 @@
               "icon": "lucide-file",
               "title": "Noble Houses of Prosper"
             }
+          },
+          {
+            "id": "4afbca5b42c7999f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Spells from Spike's Brain"
+            }
+          },
+          {
+            "id": "83647cb199e1fb2d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Spells from Collective"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dazed",
+                "query": "spells",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -310,10 +357,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8adc36f24c897a8f",
+  "active": "83647cb199e1fb2d",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Haruuc.md",
+    "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
+    "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Haruuc.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Valim.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Nyrk.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
@@ -336,8 +385,6 @@
     "Game Notes/NPCs/Mild Power/Mild Power.md",
     "Game Notes/NPCs/High Power/Devils/Devils.md",
     "Game Notes/NPCs/High Power/High Holyl'nder NPCs/High Holyl'nder NPCs.md",
-    "Game Notes/NPCs/High Power/High Holyl'nder NPCs/Abraham the Wise.md",
-    "Game Notes/NPCs/High Power/Loose Wizard NPCs/Loose Wizard NPCs.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
