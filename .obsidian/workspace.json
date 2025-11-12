@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0522e669d38bc803",
+        "id": "d532940d4dfa974c",
         "type": "tabs",
         "children": [
           {
-            "id": "8b0733e29f6fd37f",
+            "id": "fc5f39e0d2ca5853",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,43 +20,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tiana Turing"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1082e0c46f6190f3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f2cfe645c8b3b293",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tiana Turing"
+              "title": "New tab"
             }
           }
         ]
@@ -334,8 +301,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b0733e29f6fd37f",
+  "active": "fc5f39e0d2ca5853",
   "lastOpenFiles": [
+    "Junie's Characters/Tiana Turing.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md",
@@ -361,7 +329,6 @@
     "Notes on the Multiverse/Notes on the Multiverse.md",
     "Game Notes/Game Notes.md",
     "Game Notes/NPCs/NPCs.md",
-    "Game Notes/NPCs/Mild Power/Mild Power.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
