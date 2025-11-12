@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "25e5dbeef8c84d45",
+        "id": "0522e669d38bc803",
         "type": "tabs",
         "children": [
           {
-            "id": "7642b47b31e5b9f4",
+            "id": "8b0733e29f6fd37f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,22 +22,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+                "file": "Junie's Characters/Tiana Turing.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Magical Items of Note"
+              "title": "Tiana Turing"
             }
           }
         ]
       },
       {
-        "id": "0531ae22f380e850",
+        "id": "1082e0c46f6190f3",
         "type": "tabs",
         "children": [
           {
-            "id": "4e6c7df1e8231091",
+            "id": "f2cfe645c8b3b293",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -51,39 +51,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+                "file": "Junie's Characters/Tiana Turing.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Magical Items of Note"
-            }
-          },
-          {
-            "id": "362301c5a1c53623",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Guilded Mystic Entries"
+              "title": "Tiana Turing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -357,10 +333,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7642b47b31e5b9f4",
+  "active": "f2cfe645c8b3b293",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md",
     "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
     "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md",

@@ -209,7 +209,9 @@ Talking with Crorix, he revealed some more about the Vresk;
 - The Marsh Tribe in the East
 - The River Tribe in the North
 
-We come to Outpost Draksharn where there is a fight - we come upon it; 
+We come to Outpost Draksharn where there is a fight - we come upon it and join in.
+
+#### Session 19: Outpost Draksharn
 
 ## Stats
 

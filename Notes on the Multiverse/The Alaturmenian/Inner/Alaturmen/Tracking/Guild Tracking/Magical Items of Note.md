@@ -409,7 +409,7 @@ aliases:
 
 	Entry Description: GME-021 is an alchemical compound of Dark Oil and Iron, originally produced exclusively in Mountain Hall and the surrounding areas, that has seen extensive use in both military and civil industries.
 	
-	GME-021 is a dark grey or black metal that exhibits extreme structural solidarity and hardness.
+	GME-021 is a dark grey or black metal that is incredibly tough and has an extreme melting point.
 ```
 
 ###### Void-tie Chains
