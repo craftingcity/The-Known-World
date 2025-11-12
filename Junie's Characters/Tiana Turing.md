@@ -228,7 +228,7 @@ We come to Outpost Draksharn where there is a fight - we come upon it and join i
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | o   | .   | .   | .   | .   | .    | .   |
 | o   | o   | o   | .   | .   | .   | .   |      |     |
-| o   | o   | o   | .   | .   |     |     | DC   | 16  |
+| o   | o   | x   | .   | .   |     |     | DC   | 16  |
 | o   |     |     |     |     |     |     | ATTK | +8  |
 
 #### Proficiencies
@@ -370,7 +370,7 @@ Once you conjure the mind, you can't do so again until you finish a long rest, u
 - While you are Attuned, the Coin can be used as an Arcane Focus.
 - While you are Attuned, the Coin grants +1 to Arcana Skill Checks.
 - While you are Attuned, you may store a 1st Level Wizard Spell in the Coin (currently *Silvery Barbs* 1/1).
-- While you are Attuned, once per long rest, before you cast a spell (8/10);
+- While you are Attuned, once per long rest, before you cast a spell (9/10);
 	- *(Heads / Evens)* Gain Advantage on an Attack Roll made for the spell, or impose Disadvantage on a Saving Throw made for the spell.
 	- *(Tails / Odds)* Regain the lowest level spell slot expended to cast the spell.
 

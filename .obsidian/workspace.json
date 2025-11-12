@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5091133117676
+    "width": 269.5091133117676,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -333,7 +334,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2cfe645c8b3b293",
+  "active": "8b0733e29f6fd37f",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
