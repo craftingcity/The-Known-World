@@ -213,6 +213,7 @@ We come to Outpost Draksharn where there is a fight - we come upon it and join i
 
 #### Session 19: Outpost Draksharn
 
+
 ## Stats
 
 | L. 6 | XP: 16,225 | / 23.0k | (1) Inspiration |
