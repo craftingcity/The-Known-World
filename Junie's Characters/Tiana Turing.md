@@ -228,7 +228,7 @@ We come to Outpost Draksharn where there is a fight - we come upon it and join i
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | o   | .   | .   | .   | .   | .    | .   |
-| o   | o   | o   | .   | .   | .   | .   |      |     |
+| o   | o   | x   | .   | .   | .   | .   |      |     |
 | o   | o   | x   | .   | .   |     |     | DC   | 16  |
 | o   |     |     |     |     |     |     | ATTK | +8  |
 
