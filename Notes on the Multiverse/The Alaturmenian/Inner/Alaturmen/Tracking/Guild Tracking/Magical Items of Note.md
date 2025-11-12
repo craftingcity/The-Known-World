@@ -170,7 +170,9 @@ aliases:
 	Source: Fyu-Friew (TL-G contained, confimed deceased)
 	Last Known Keeper: Quartermaster, Vault 0.
 
-	Entry Description: ...
+	Entry Description: GME-013 are to be stored within Vault 0's Cold Storage sector, upon the stands within Armory 3. No instance of GME-013 has been used in combat at the time of article completion, as the entire set was delivered to a member of the Guild by their direct Source during Containment Conference 001 and immediately contained.
+	
+	GME-013 is a set of six identical Scalemail armors composed of the scales of a number of chromatic dragons.
 ```
 
 ###### Bloodrite Tomes
@@ -400,12 +402,14 @@ aliases:
 ###### Darksteel
 ```
 	GME-021 "DARKSTEEL"
-	Threat Level: COLOR
-	Entry Class: CLASS
+	Threat Level: GREY
+	Entry Class: MATERIAL
 	Source: Frin Copperhammer (TL-W contained, confirmed desceased)
 	Last Known Keeper: None, see Entry Description.
 
-	Entry Description: ...
+	Entry Description: GME-021 is an alchemical compound of Dark Oil and Iron, originally produced exclusively in Mountain Hall and the surrounding areas, that has seen extensive use in both military and civil industries.
+	
+	GME-021 is a dark grey or black metal that exhibits extreme structural solidarity and hardness.
 ```
 
 ###### Void-tie Chains
