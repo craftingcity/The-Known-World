@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d532940d4dfa974c",
+        "id": "12bb9e4d86bb0f1d",
         "type": "tabs",
         "children": [
           {
-            "id": "fc5f39e0d2ca5853",
+            "id": "6d5adfb61c92eb1e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,12 +20,10 @@
               ]
             },
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -132,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5091133117676,
-    "collapsed": true
+    "width": 269.5091133117676
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -303,7 +300,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc5f39e0d2ca5853",
+  "active": "6d5adfb61c92eb1e",
   "lastOpenFiles": [
     "Junie's Characters/Tiana Turing.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
