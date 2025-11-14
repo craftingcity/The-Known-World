@@ -78,7 +78,7 @@ A glittering black metal produced by an advanced chain of alchemical and metallu
 **Ingredients**;
 - 4 gallons Dark Oil (1.20sp)
 - 1 pound Iron dust (1.20sp)
-	- > 1 pound Darksteel (2.75sp / pound)
+	- 1 pound Darksteel (2.75sp / pound)
 
 #### Chaotic Gold
 A gold that devolves into elemental force when overly agitated. Unable to fill the role of a traditional metal, Chaotic Gold has fills the niche of a reliable source of elemental chaos.
@@ -86,7 +86,7 @@ A gold that devolves into elemental force when overly agitated. Unable to fill t
 **Ingredients**;
 - 8 pounds Gold (880.00sp)
 - 1 ounce Essence of Dragon (5.5k sp)
-	- > 8 pounds Chaotic Gold (6380.00sp) > (1.0k sp / pound)
+	- 8 pounds Chaotic Gold (6380.00sp) > (1.0k sp / pound)
 
 #### Adjust Bronze
 A bronze that shrinks and spreads to the whims of its design. Traditionally, Adjust Bronze is used in mechanical contraptions, but it has found use in personal defense measures.
@@ -95,7 +95,7 @@ A bronze that shrinks and spreads to the whims of its design. Traditionally, Adj
 - 3 pounds Copper (3.60sp)
 - 1 pound Tin (1.20sp)
 - 1 ounce Essence of Density (300.0sp)
-	- > 4 pounds Adjust Bronze (305.0sp) > (85.00sp / pound)
+	- 4 pounds Adjust Bronze (305.0sp) > (85.00sp / pound)
 
 #### Pure Force
 A transparent material of outstanding strength and rigidity, Pure Force is made and manipulated of and with arcane implementation.
@@ -129,7 +129,7 @@ A dark grey powder that explodes when agitated.
 - 1 pound Nitrate (0.15sp)
 - 1 pound Sulphur (1.00sp)
 - 3 pounds Charcoal (0.45sp)
-	- > 5 pounds Firepowder (1.75sp) > (0.35sp / pound)
+	- 5 pounds Firepowder (1.75sp) > (0.35sp / pound)
 
 #### Alchemical Clay
 A clay infused with arcane-active ingredients.
@@ -138,7 +138,7 @@ A clay infused with arcane-active ingredients.
 - 20 pounds Clay (13.00sp)
 - 1 ounce Essence of Arcana (200.00sp)
 - 1 ounce Essence of Creation (500.00sp)
-	- > 20 pounds Alchemical Clay (1.0k sp) > (50.00sp / pound)
+	- 20 pounds Alchemical Clay (1.0k sp) > (50.00sp / pound)
 
 ### Liquids & Oils
 
@@ -154,7 +154,7 @@ A glittering, darker-than-black oil created via the introduction of Bitumen to C
 **Ingredients**;
 - 15 gallons Crude Oil (3.75sp)
 - 1 pound Bitumen dust (0.45sp)
-	- > 16 gallons Dark Oil (4.20sp) > (0.30sp / gallon)
+	- 16 gallons Dark Oil (4.20sp) > (0.30sp / gallon)
 
 #### Gasoline
 A thin yellow oil derived from crude oil.
@@ -188,7 +188,7 @@ A matte black material of advanced alchemical origin, Pressigen is hydrophobic, 
 **Ingredients**;
 - 4 gallons Dark Oil (1.20sp)
 - 1 sq. yard Linen (4.00sp)
-	- > 1 sq. yard Pressigen (6.00sp / sq. yard)
+	- 1 sq. yard Pressigen (6.00sp / sq. yard)
 
 #### Elvenfiber
 A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber is very resistant to the natural elements, incredibly beautiful, and alluringly mysterious in it's production.
@@ -528,7 +528,7 @@ Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving 
 - 1 ounce Fang of Basilisk (3.6k sp)
 - 20 pounds Granite (2.0sp)
 - 24 ounces Stinkhorn (48.0sp)
-	- 8 ounces Stone Blood Poison (5.0k sp) > (625.0sp / ounce)
+	- 8 ounces Stone Blood Poison (3.6k sp) > (525.0sp / ounce)
 
 #### Weakmind
 A bright pink liquid that, when introduced to the bloodstream by direct injection, travels to the spinal column and brain to disrupt neurological functions within the brain, including sight and touch senses, and general cognitive awareness.
@@ -547,6 +547,11 @@ A light brown liquid that, when introduced to the bloodstream by direct injectio
 Upon introduction, a creature must succeed on a DC (G + 17) Constitution Saving Throw or, for the next (G + 2) rounds, at the beginning of their turn they take (G * (2d6 + 3)) necrotic damage. At the end of that creature's turn, they make another save against this effect. If they fail a save against this effect by eight or more, they take (G * (2d6 + 3)) fire damage.
 
 **Ingredients**;
+- 32 ounces Solanberry Tar (35.2sp)
+- 64 ounces Tobacco (6.40sp)
+- 8 ounces Harrada (146.8sp)
+- 4 ounces Gland of Ankheg (1.5k sp)
+	- 8 ounces Torrin's Bane Poison (3.2k sp) > (500.0sp / ounce)
 
 #### King's Last Drink
 A colorless, odorless, and tasteless liquid that, when introduced to the bloodstream by either direct injection or ingestion, travels to the spinal column and brain where it begins to erode the brain, causing cognitive malfunction and irrationality.
@@ -554,6 +559,11 @@ A colorless, odorless, and tasteless liquid that, when introduced to the bloodst
 Upon introduction, a creature must succeed on a DC (G + 17) Constitution Saving Throw or, for the next (G + 5) rounds, they are Poisoned and Dazed, and at the beginning of their turn they take (G * 1d10) poison damage. At the end of that creature's turn, they make another save against this effect. If they fail a save against this effect by eight or more, they take (G * 2d8) poison damage.
 
 **Ingredients**;
+- 40 ounces Foxglove (640.0sp)
+- 8 ounces Lephora (112.0sp)
+- 16 ounces Eye of Frog (320.0sp)
+- 16 ounces Nightshade (1.3k)
+	- 4 ounces King's Last Drink (2.4k sp) > (750.0sp / ounce)
 
 #### Asphyxium
 A fine grey powder that is tasteless and odorless, and when ingested, causes the body's lungs to cease intaking or expelling air, and quickly experience asphyxiation.
@@ -561,6 +571,10 @@ A fine grey powder that is tasteless and odorless, and when ingested, causes the
 Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving Throw or, for the next (G + 10) rounds, they cannot breathe, and begin to suffocate.
 
 **Ingredients**;
+- 32 ounces Lavender (12.8sp)
+- 64 ounces Salt (3.20sp)
+- 4 pounds Silver (44.0sp)
+- 
 
 #### Petrifica
 A coarse brown powder that, when exposed to flesh or other organs, begins to spread and convert the substance it grows to cover into a stone-like substance. Without medical intervention, this reaction presents a threat of natural needs, as the body fails maneuver effectively, if at all, towards meeting those needs. 

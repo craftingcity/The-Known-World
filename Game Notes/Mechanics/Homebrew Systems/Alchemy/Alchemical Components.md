@@ -231,8 +231,8 @@ aliases:
 ### Alum
 ## Ores
 
-| Name (Source) | Motifs              | Cost @ Market   | Regions Producing                                                 |
-| ------------- | ------------------- | --------------- | ----------------------------------------------------------------- |
+| Name (Source) | Motifs                  | Cost @ Market   | Regions Producing                                                 |
+| ------------- | ----------------------- | --------------- | ----------------------------------------------------------------- |
 | Adamantine    | (3) ABJURE / DESIST     | 450.00 / pound  | Mnt. Hall, Actstow                                                |
 | Copper        | (2) FABRIM / DEGENERATE | 1.20 / pound    | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Holyl'nd, Actstow |
 | Tin           | (2) FABRIM / WEIGHT     | 1.20 / pound    | Prosper, Illburn, Combine, Mnt. Hall, Actstow                     |
@@ -262,17 +262,17 @@ aliases:
 | Name (Source) | Motifs                | Cost @ Market  | Regions Producing             |
 | ------------- | --------------------- | -------------- | ----------------------------- |
 | Agate         | (3) FABRIM / ILLUSION | 8.00 / carat   | Tetrimoc, Mnt. Hall, Holyl'nd |
-| Diamond       | (5) DIVINE / WEIGHT       | 1.0k / carat   | Tetrimoc, Mnt. Hall, Actstow  |
-| Ruby          | (4) FABRIM / FIRE         | 650.00 / carat | Tetrimoc, Mnt. Hall           |
-| Sapphire      | (4) FABRIM / WATER        | 500.00 / carat | Tetrimoc, Mnt. Hall, Actstow  |
-| Emerald       | (4) FABRIM / EARTH        | 550.00 / carat | Combine, Mnt. Hall            |
-| Amethyst      | (3) FABRIM / AIR          | 100.00 / carat | Combine, Tetrimoc, Mnt. Hall  |
-| Onyx          | (4) FABRIM / LIGHT        | 75.00 / carat  | Combine, Mnt. Hall, Actstow   |
-| Jade          | (3) DIVINE / HEALING      | 10.00 / carat  | Holyl'nd, Actstow             |
-| Pearl         | (3) MORTAL / WATER        | 250.00 / carat | Combine, Tetrimoc             |
-| Rose Quartz   | (3) EVOKE / FIRE          | 300.00 / carat | Mnt. Hall, Holyl'nd, Actstow  |
-| White Quartz  | (3) EVOKE / EARTH         | 275.00 / carat | Mnt. Hall, Holyl'nd, Actstow  |
-| Durandurm     | (5) FABRIM / DUNAM        | 475.00 / carat | Tetrimoc, Mnt. Hall, Actstow  |
+| Diamond       | (5) DIVINE / WEIGHT   | 1.0k / carat   | Tetrimoc, Mnt. Hall, Actstow  |
+| Ruby          | (4) FABRIM / FIRE     | 650.00 / carat | Tetrimoc, Mnt. Hall           |
+| Sapphire      | (4) FABRIM / WATER    | 500.00 / carat | Tetrimoc, Mnt. Hall, Actstow  |
+| Emerald       | (4) FABRIM / EARTH    | 550.00 / carat | Combine, Mnt. Hall            |
+| Amethyst      | (3) FABRIM / AIR      | 100.00 / carat | Combine, Tetrimoc, Mnt. Hall  |
+| Onyx          | (4) FABRIM / LIGHT    | 75.00 / carat  | Combine, Mnt. Hall, Actstow   |
+| Jade          | (3) DIVINE / HEALING  | 10.00 / carat  | Holyl'nd, Actstow             |
+| Pearl         | (3) MORTAL / WATER    | 250.00 / carat | Combine, Tetrimoc             |
+| Rose Quartz   | (3) EVOKE / FIRE      | 300.00 / carat | Mnt. Hall, Holyl'nd, Actstow  |
+| White Quartz  | (3) EVOKE / EARTH     | 275.00 / carat | Mnt. Hall, Holyl'nd, Actstow  |
+| Durandurm     | (5) FABRIM / DUNAM    | 475.00 / carat | Tetrimoc, Mnt. Hall, Actstow  |
 
 ### Agate
 ### Diamond
@@ -288,8 +288,8 @@ aliases:
 ### Durandurm
 ## Other
 
-| Name (Source) | Motifs             | Cost @ Market | Regions Producing            |
-| ------------- | ------------------ | ------------- | ---------------------------- |
+| Name (Source) | Motifs                 | Cost @ Market | Regions Producing            |
+| ------------- | ---------------------- | ------------- | ---------------------------- |
 | Amber         | (2) DUNAM / IMMUTE     | 15.00 / pound | all                          |
 | Glass         | (1) EVOKE / LIGHT      | 0.10 / pound  | all                          |
 | Pewter        | (1) BANE / EARTH       | 0.15 / pound  | all                          |
