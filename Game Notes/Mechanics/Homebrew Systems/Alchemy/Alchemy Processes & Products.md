@@ -571,10 +571,12 @@ A fine grey powder that is tasteless and odorless, and when ingested, causes the
 Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving Throw or, for the next (G + 10) rounds, they cannot breathe, and begin to suffocate.
 
 **Ingredients**;
+- 16 gallons Mercury (12.0sp)
 - 32 ounces Lavender (12.8sp)
 - 64 ounces Salt (3.20sp)
-- 4 pounds Silver (44.0sp)
-- 
+- 40 pounds Silver (440.0sp)
+- 32 carats Amethyst (3.2k sp)
+	- 4 ounces Asphyxium (3.6k sp) > (875.0sp / ounce)
 
 #### Petrifica
 A coarse brown powder that, when exposed to flesh or other organs, begins to spread and convert the substance it grows to cover into a stone-like substance. Without medical intervention, this reaction presents a threat of natural needs, as the body fails maneuver effectively, if at all, towards meeting those needs. 
