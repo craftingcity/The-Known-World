@@ -584,6 +584,11 @@ A coarse brown powder that, when exposed to flesh or other organs, begins to spr
 Upon introduction, a creature must succeed on a DC (G + 17) Constitution Saving Throw or, for the next (G + 5) rounds, become 'Dazed'. At the end of that creature's turn, they make another Save against this effect. While 'Dazed' this way, if they fail the Constitution Saving Throw against this effect, they become 'Stunned' for the next (G + 5) rounds. While 'Stunned' this way, if they fail the Constitution Saving Throw against this effect, they are 'Petrified'. 
 
 **Ingredients**;
+- 1 ounce Fang of Basalisk (3.6k sp)
+- 32 ounces Harrada (587.2sp)
+- 4 ounces Nightshade (320.0sp)
+- 12 pounds Copper (14.4sp)
+	- 4 ounces Petrifica (4.5k sp) > (1.25k sp / ounce)
 
 #### Sensorcompra
 A fine yellow powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, immediately halts sensory transmission to or from the point of exposure. While extremely disorienting, this reaction is temporary, and will resolve over a number of hours.
