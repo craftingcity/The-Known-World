@@ -465,25 +465,25 @@ After digestion, you are effected by the *lesser restoration* spell G times.
 
 ### Poisons
 
-| Name (Source)       | Mechanic                                                                        | Cost @ Market | Regions Producing |
-| ------------------- | ------------------------------------------------------------------------------- | ------------- | ----------------- |
-| Traditional Poison  | DC G+11 CON; (G * (1d4 + 1)) poison damage                                      |               |                   |
-| Debilitation Poison | DC G+11 CON; Dazed                                                              |               |                   |
-| Blight Venom        | DC G+13 CON; (G * (1d6 + 1)) necrotic damage                                    |               |                   |
-| Stone Blood Poison  | DC G+15 CON; Dazed -> Stunned -> Petrified                                      |               |                   |
-| Weakmind Poison     | DC G+13 INT; DIS on INT, WIS, Vulnerable to Psychic                             |               |                   |
-| Torrin's Bane       | DC G+17 CON; (G * (2d6 + 3)) necrotic / fire                                    |               |                   |
-| King's Last Drink   | DC G+17 CON; Poisoned, Dazed, (G * 1d10) poison damage, (G * 2d8) poison damage |               |                   |
-| Asphyxium           | DC G+15 CON; Suffocate                                                          |               |                   |
-| Petrifica           | DC G+17 CON; Dazed -> Stunned -> Petrified                                      |               |                   |
-| Sensorcompra        | DC G+15 CON; Blinded, Deafened                                                  |               |                   |
-| Ashmaker Dust       | DC G+15 CON; (G * (3d4 + 6)) fire damage                                        |               |                   |
-| Sleeping Stone Dust | DC G+13 CON; Dazed -> Incapacitated                                             |               |                   |
-| Yellow Gas          |                                                                                 |               |                   |
-| Brown Gas           |                                                                                 |               |                   |
-| Green Gas           |                                                                                 |               |                   |
-| Black Gass          |                                                                                 |               |                   |
-| Poisoner's Matrix   |                                                                                 |               |                   |
+| Name (Source)       | Mechanic                                                                        | Cost @ Market            | Regions Producing |
+| ------------------- | ------------------------------------------------------------------------------- | ------------------------ | ----------------- |
+| Traditional Poison  | DC G+11 CON; (G * (1d4 + 1)) poison damage                                      | 10sp * Grade / ounce     |                   |
+| Debilitation Poison | DC G+11 CON; Dazed                                                              | 75sp * Grade / ounce     |                   |
+| Blight Venom        | DC G+13 CON; (G * (1d6 + 1)) necrotic damage                                    | 45sp * Grade / ounce     |                   |
+| Stone Blood Poison  | DC G+15 CON; Dazed -> Stunned -> Petrified                                      | 525sp * Grade / ounce    |                   |
+| Weakmind Poison     | DC G+13 INT; DIS on INT, WIS, Vulnerable to Psychic                             | 125sp * Grade / ounce    |                   |
+| Torrin's Bane       | DC G+17 CON; (G * (2d6 + 3)) necrotic / fire                                    | 500sp * Grade / ounce    |                   |
+| King's Last Drink   | DC G+17 CON; Poisoned, Dazed, (G * 1d10) poison damage, (G * 2d8) poison damage | 750sp * Grade / ounce    |                   |
+| Asphyxium           | DC G+15 CON; Suffocate                                                          | 875sp * Grade / ounce    |                   |
+| Petrifica           | DC G+17 CON; Dazed -> Stunned -> Petrified                                      | 1.25k sp * Grade / ounce |                   |
+| Sensorcompra        | DC G+15 CON; Blinded, Deafened                                                  | 80sp * Grade / ounce     |                   |
+| Ashmaker Dust       | DC G+15 CON; (G * (3d4 + 6)) fire damage                                        |                          |                   |
+| Sleeping Stone Dust | DC G+13 CON; Dazed -> Incapacitated                                             |                          |                   |
+| Yellow Gas          |                                                                                 |                          |                   |
+| Brown Gas           |                                                                                 |                          |                   |
+| Green Gas           |                                                                                 |                          |                   |
+| Black Gass          |                                                                                 |                          |                   |
+| Poisoner's Matrix   |                                                                                 |                          |                   |
 
 #### Traditional
 A bright green liquid that, when introduced to the bloodstream by either direct injection or ingestion, causes irritation, inflammation, or outright failure in various organs throughout the body.
@@ -596,6 +596,11 @@ A fine yellow powder that, when exposed to contact with exposure points such as 
 Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving Throw or become 'Blinded' and 'Deafened' until they take a short rest.
 
 **Ingredients**;
+- 16 ounces Alkanet (136.0sp)
+- 64 ounces Eye of Frog (243.2sp)
+- 4 pounds Mica (2.00sp)
+- 16 pounds Copper (19.2sp)
+	- 4 ounces Sensorcompra (320.0sp) > (80.0sp / ounce)
 
 #### Ashmaker Dust
 A coarse red powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, immediately begins to burn the contact area.
