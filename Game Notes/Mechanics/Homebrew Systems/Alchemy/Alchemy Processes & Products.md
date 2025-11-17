@@ -608,6 +608,11 @@ A coarse red powder that, when exposed to contact with exposure points such as t
 Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving Throw or take (G * (3d4 + 6)) fire damage.
 
 **Ingredients**;
+- 80 ounces Tobacco (8.00sp)
+- 40 ounces Apple Seed (4.00sp)
+- 40 ounces Polypore, Yellow (140sp)
+- 120 ounces Polypore, Red (420sp)
+	- 12 ounces Ashmaker Powder (600sp) > (50.0sp / ounce)
 
 #### Sleeping Stone Dust
 A fine purple powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, dissolves into the bloodstream, and travels to the spinal column and brain. When it arrives, it begins over-population hormones related to sleep and dreaming, melatonin in particular, causing the body to quickly fall into unconsciousness.
