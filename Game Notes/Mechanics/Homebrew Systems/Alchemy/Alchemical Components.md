@@ -89,8 +89,8 @@ aliases:
 
 ## Trees
 
-| Name (Source)     | Motifs          | Cost @ Market | Regions Producing                            |
-| ----------------- | --------------- | ------------- | -------------------------------------------- |
+| Name (Source)     | Motifs          | Cost @ Market     | Regions Producing                            |
+| ----------------- | --------------- | ----------------- | -------------------------------------------- |
 | Ginko Leaf        | FABRIM / WEIGHT | (2) 2.30 / ounce  | Prosper, Combine, Actstow                    |
 | Ironwood Shavings | IMMUTE / ARCANA | (3) 18.50 / ounce | Tetrimoc                                     |
 | Oak Bark          | ABJURE / EVOKE  | (2) 3.25 / ounce  | Prosper, Illburn, Combine, Actstow           |

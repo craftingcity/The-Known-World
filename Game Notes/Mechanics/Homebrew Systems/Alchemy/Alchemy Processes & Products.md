@@ -477,8 +477,8 @@ After digestion, you are effected by the *lesser restoration* spell G times.
 | Asphyxium           | DC G+15 CON; Suffocate                                                          | 875sp * Grade / ounce    |                   |
 | Petrifica           | DC G+17 CON; Dazed -> Stunned -> Petrified                                      | 1.25k sp * Grade / ounce |                   |
 | Sensorcompra        | DC G+15 CON; Blinded, Deafened                                                  | 80sp * Grade / ounce     |                   |
-| Ashmaker Dust       | DC G+15 CON; (G * (3d4 + 6)) fire damage                                        |                          |                   |
-| Sleeping Stone Dust | DC G+13 CON; Dazed -> Incapacitated                                             |                          |                   |
+| Ashmaker Dust       | DC G+15 CON; (G * (3d4 + 6)) fire damage                                        | 50sp * Grade / ounce     |                   |
+| Sleeping Stone Dust | DC G+13 CON; Dazed -> Incapacitated                                             | 75sp * Grade / ounce     |                   |
 | Yellow Gas          |                                                                                 |                          |                   |
 | Brown Gas           |                                                                                 |                          |                   |
 | Green Gas           |                                                                                 |                          |                   |
@@ -653,7 +653,22 @@ Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving 
 | Elysian Petal         |          |               |                   |
 
 #### Druid's Dust
+A coarse brown powder reminiscent in smell of compost and rotting fruit that acts as a local anesthetic, and is typically applied as ache relief, or during combat as a temporary measure while proper medical care cannot be accessed.
+
+Upon introduction, for the next (G + 2) rounds, at the beginning of your turn you may expend a Hit Dice. When you do, you may set your Temporary Hit Points to the number rolled plus your Constitution Modifier. 
+
+**Ingredients**;
+- 8 ounces Lavender (3.20sp)
+- 4 pounds Silver (44.0sp)
+- 16 ounces Birch Bark (64.0sp)
+- 12 pounds Soil (1.20sp)
+	- 32 ounces Druid's Dust (125.0sp) > (4.5sp / ounce)
+
+
 #### Nalasculas
+A vivid lime 
+
+
 #### Generalized Antivenom
 #### Aerotide
 #### Ambebamol
