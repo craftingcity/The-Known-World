@@ -620,6 +620,10 @@ A fine purple powder that, when exposed to contact with exposure points such as 
 Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving Throw or become 'Dazed'. At the end of that creature's turn, they make another Save against this effect. While 'Dazed' this way, if they fail the Constitution Saving Throw against this effect, they become 'Incapacitated' until they take damage.
 
 **Ingredients**;
+- 24 ounces Eyes (192.0sp)
+- 36 ounces Smokebulb (270.0sp)
+- 80 ounces Tobacco (8.00sp)
+	- 6 ounces Sleeping Stone Dust (375.0sp) > (75.0sp / ounce)
 
 #### Yellow Gas
 #### Brown Gas
