@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aerotide",
+                "query": "northstone",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5091133117676,
-    "collapsed": true
+    "width": 269.5091133117676
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -305,7 +304,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39c187101d4d3207",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "GavinEmily Game.md",
     "Prenotes Nov 19 25.md",
