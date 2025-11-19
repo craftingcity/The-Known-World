@@ -232,7 +232,7 @@ We come to Outpost Draksharn where there is a fight - we come upon it and join i
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | o   | .   | .   | .   | .   | .    | .   |
 | o   | o   | x   | .   | .   | .   | .   |      |     |
-| o   | o   | x   | .   | .   |     |     | DC   | 16  |
+| o   | x   | x   | .   | .   |     |     | DC   | 16  |
 | o   |     |     |     |     |     |     | ATTK | +8  |
 
 #### Proficiencies
