@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d70734dc233da42",
+        "id": "e5015af36eacfaad",
         "type": "tabs",
         "children": [
           {
-            "id": "311d1cca371eaf6c",
+            "id": "39c187101d4d3207",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,82 +22,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
+                "file": "Prenotes Nov 19 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tiana Turing"
+              "title": "Prenotes Nov 19 25"
             }
           }
         ]
-      },
-      {
-        "id": "4fbbb6e3db973578",
-        "type": "split",
-        "children": [
-          {
-            "id": "7c5991f1abe1ceb5",
-            "type": "tabs",
-            "dimension": 38.83357041251778,
-            "children": [
-              {
-                "id": "6e0c0e0a7afe5045",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Junie's Characters/Tiana Turing.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tiana Turing"
-                }
-              }
-            ]
-          },
-          {
-            "id": "b980aa7bae0d83af",
-            "type": "tabs",
-            "dimension": 61.16642958748221,
-            "children": [
-              {
-                "id": "08f75c026b3eae15",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Junie's Characters/Tiana Turing.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tiana Turing"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -372,12 +305,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08f75c026b3eae15",
+  "active": "39c187101d4d3207",
   "lastOpenFiles": [
+    "GavinEmily Game.md",
+    "Prenotes Nov 19 25.md",
+    "Junie's Characters/Tiana Turing.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
-    "Junie's Characters/Tiana Turing.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md",
@@ -398,8 +333,6 @@
     "Game Notes/Prenotes/'25/Prenotes Aug 09 25.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Prenotes Oct 30 25.md",
-    "Junie's Characters/Junie's Characters.md",
-    "Notes on the Multiverse/Notes on the Multiverse.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
