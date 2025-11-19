@@ -653,7 +653,7 @@ Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving 
 | Elysian Petal         |          |               |                   |
 
 #### Druid's Dust
-A coarse brown powder reminiscent in smell of compost and rotting fruit that acts as a local anesthetic, and is typically applied as ache relief, or during combat as a temporary measure while proper medical care cannot be accessed.
+A coarse brown powder reminiscent in smell of compost and rotting fruit that acts as a local anesthetic. Typically, Druid's Dust is applied as minor ache or pain relief, but it sees use during combat as a temporary measure while proper medical care cannot be accessed.
 
 Upon introduction, for the next (G + 2) rounds, at the beginning of your turn you may expend a Hit Dice. When you do, you may set your Temporary Hit Points to the number rolled plus your Constitution Modifier. 
 
@@ -666,8 +666,16 @@ Upon introduction, for the next (G + 2) rounds, at the beginning of your turn yo
 
 
 #### Nalasculas
-A vivid lime 
+A viscous, bubbling, lime green oil. It radiates heat. Nalasculas is one of the few reliable remedies for petrification, being able to completely reverse the process and restore a victim and their equipment to their pre-petrified conditions.
 
+Upon introduction, for the next hour, at the beginning of your turn, make a DC (19 - G) Constitution Saving Throw. If you succeed, mark a Success. When you mark your third Success, you resolve the 'Petrified' Condition, and become 'Incapacitated' until the beginning of your next turn instead.
+
+**Ingredients**;
+- 8 ounces Fang of Wurm (96.0sp)
+- 32 ounces Oak Bark (104.0sp)
+- 1 pound Adamentine (450.0sp)
+- 12 pounds Soil (1.20sp)
+	- 4 ounces Nalasculas (650.0sp) > (175.0sp / ounce)
 
 #### Generalized Antivenom
 #### Aerotide
