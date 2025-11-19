@@ -678,6 +678,10 @@ Upon introduction, for the next hour, at the beginning of your turn, make a DC (
 	- 4 ounces Nalasculas (650.0sp) > (175.0sp / ounce)
 
 #### Generalized Antivenom
+A thin, brownish-green, decarbonized potion commonly across the world to treat natural poisons and toxins.
+
+Upon introduction, resolve the Poisoned Condition immediately, and once every minute for the next hour. You gain (Grade + 1) Poison Damage Resistance for the next hour.
+
 #### Aerotide
 #### Ambebamol
 #### Amorphia

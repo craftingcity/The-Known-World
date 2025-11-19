@@ -84,8 +84,7 @@
               "title": "Alchemical Components"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -359,7 +358,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d5adfb61c92eb1e",
+  "active": "357acdf063da0c68",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
