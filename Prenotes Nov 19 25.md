@@ -16,7 +16,7 @@ aliases:
 
 As we come to the table today, we come tell a story. A new story, in this place we have all once known before. Passing through the cloudlayers, we see the vibrant colors of the world, the clear regional borders, and the massive central city, and we look north.
 
-Today, is the 3rd day of Drying in the 106th year. The conflict between the Church of the W
+Today, is the 3rd day of Drying in the 106th year. The conflict between the Church of the White Flame and the Kingdom of Prosper has subjected the region to economic and political hardship, and the people must still be fed. 
 
 ### What does the World Know?
 
