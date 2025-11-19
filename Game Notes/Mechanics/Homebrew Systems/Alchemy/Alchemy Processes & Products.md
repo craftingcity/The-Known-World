@@ -682,7 +682,16 @@ A thin, brownish-green, decarbonized potion commonly across the world to treat n
 
 Upon introduction, resolve the Poisoned Condition immediately, and once every minute for the next hour. You gain (Grade + 1) Poison Damage Resistance for the next hour.
 
+**Ingredients**;
+- 8 ounces Fang of Wurm (96.0sp)
+- 16 ounces Birch Bark (64.0sp)
+- 32 ounces Oak Bark (104.0sp)
+- 16 ounces Cannabis (4.80sp)
+	- 32 ounces Generalized Antivenom (275.0sp) > (45.0sp / potion)
+
 #### Aerotide
+
+
 #### Ambebamol
 #### Amorphia
 #### Pretokarin
