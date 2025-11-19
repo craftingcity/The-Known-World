@@ -231,7 +231,7 @@ We come to Outpost Draksharn where there is a fight - we come upon it and join i
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | o   | .   | .   | .   | .   | .    | .   |
-| o   | o   | x   | .   | .   | .   | .   |      |     |
+| o   | x   | x   | .   | .   | .   | .   |      |     |
 | o   | x   | x   | .   | .   |     |     | DC   | 16  |
 | o   |     |     |     |     |     |     | ATTK | +8  |
 
@@ -360,7 +360,7 @@ Once you conjure the mind, you can't do so again until you finish a long rest, u
 		- A Painting of My Dad and Grom
 *Groin*:
 	Equipment Belt
-		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]] 1/1 flip)
+		- Spellbook Holster ([[#Tiana's Grimoire]], [[#Coin of Aurelian Silence]] 0/1 flip)
 		- [[#Ghostlight Lantern]] (*faerie fire* DC 13 1/1)
 		- Sheath (Dagger)
 		- Sending Stone (paired with Soju)
@@ -374,7 +374,7 @@ Once you conjure the mind, you can't do so again until you finish a long rest, u
 - *Attuned*
 - While you are Attuned, the Coin can be used as an Arcane Focus.
 - While you are Attuned, the Coin grants +1 to Arcana Skill Checks and +1 to Spell Attacks.
-- While you are Attuned, you may store a 2nd Level Wizard Spell in the Coin (currently *Silvery Barbs* 1/1).
+- While you are Attuned, you may store a 2nd Level Wizard Spell in the Coin (currently *Silvery Barbs* 0/1).
 - While you are Attuned, you may counter a *counterspell* or *dispel magic* targeting a spell you cast once per long rest.
 - While you are Attuned, once per long rest, before you cast a spell (10/25);
 	- *(Heads / Evens)* Gain Advantage on an Attack Roll made for the spell, or impose Disadvantage on a Saving Throw made for the spell.
