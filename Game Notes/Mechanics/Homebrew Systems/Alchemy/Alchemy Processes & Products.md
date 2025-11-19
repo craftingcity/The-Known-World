@@ -690,7 +690,7 @@ Upon introduction, resolve the Poisoned Condition immediately, and once every mi
 	- 32 ounces Generalized Antivenom (275.0sp) > (45.0sp / potion)
 
 #### Aerotide
-A odorless inhalant typically stored in a pressurized capsule and released directly into the nostrils as a ventilative supplement - forcing breathable air into the respatery system.
+A odorless inhalant typically stored in a pressurized capsule and released directly into the nostrils as a ventilative supplement - forcing breathable air into the respatorey system.
 
 #### Ambebamol
 #### Amorphia

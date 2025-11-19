@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "12bb9e4d86bb0f1d",
+        "id": "1d70734dc233da42",
         "type": "tabs",
-        "dimension": 40.90047393364929,
         "children": [
           {
-            "id": "6d5adfb61c92eb1e",
+            "id": "311d1cca371eaf6c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -23,92 +22,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+                "file": "Junie's Characters/Tiana Turing.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Alchemy Processes & Products"
-            }
-          },
-          {
-            "id": "3cdbdc5980023635",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Gear..."
+              "title": "Tiana Turing"
             }
           }
         ]
       },
       {
-        "id": "8a278ed658fbf39c",
-        "type": "tabs",
-        "dimension": 59.09952606635072,
+        "id": "4fbbb6e3db973578",
+        "type": "split",
         "children": [
           {
-            "id": "357acdf063da0c68",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "7c5991f1abe1ceb5",
+            "type": "tabs",
+            "dimension": 38.83357041251778,
+            "children": [
+              {
+                "id": "6e0c0e0a7afe5045",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Tiana Turing.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tiana Turing"
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Alchemy Processes & Products"
-            }
+              }
+            ]
           },
           {
-            "id": "2d5298fca4ec6185",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "b980aa7bae0d83af",
+            "type": "tabs",
+            "dimension": 61.16642958748222,
+            "children": [
+              {
+                "id": "08f75c026b3eae15",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Tiana Turing.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tiana Turing"
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Alchemical Components"
-            }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -212,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5091133117676
+    "width": 269.5091133117676,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -382,7 +372,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d5adfb61c92eb1e",
+  "active": "08f75c026b3eae15",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",

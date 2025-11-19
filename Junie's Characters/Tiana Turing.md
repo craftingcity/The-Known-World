@@ -212,6 +212,9 @@ Talking with Crorix, he revealed some more about the Vresk;
 We come to Outpost Draksharn where there is a fight - we come upon it and join in.
 
 #### Session 19: Outpost Draksharn
+...
+
+#### Session 20: Outpost Draksharn (cont.)
 
 
 ## Stats
@@ -320,6 +323,7 @@ As a bonus action, you can cause the Awakened Spellbook to hover up to 30 feet t
 Once you conjure the mind, you can't do so again until you finish a long rest, unless you expend a spell slot of any level to conjure it again.
 
 #### Equipment (2/3 Attuned)
+###### On My Body...
 (10gp, 25sp)
 
 - 2x *Pot of Healing*; 2d4+2
