@@ -31,6 +31,16 @@ The sounds of community fill your ears - the creaking of the carts, the neighs o
 
 There are 3 carts. Each cart has an outfit of 4 guards and a driver, meaning there are 15 friendlies plus the party.
 
+#### Red Cart
+The RED cart largely holds stable foodstuffs contributed by Prosper and Actstow, including over 150 pounds of Rye Flour, 100 pounds of Potatoes, and 80 pounds of Goat's Cheese.
+
+#### Yellow Cart
+The YELLOW cart holds stable foodstuffs and consumer goods, including over three dozen live chickens, sixty square yards of hemp fabrics, and a large array of working tools, such as hammers, pickaxes, and lumber axes.
+
+#### Orange Cart
+The ORANGE cart holds military supplies, including thirty sets of chainmail armor, swords, and shields made of Steel, and a cache of modern weapons, including 4 Durandurm Longblasters and 64 Fire Red Magazines.
+
+#### The Ambush
 The caravan is walking into an ambush set up by the HDF's 2nd Auxiliary Corps, where 8 soldiers lie in wait  with a 'Mobile Shielded Personnel Carrier' equipped with a Durandurm Rotary Repeater.
 
 15 - BLACK
