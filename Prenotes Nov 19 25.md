@@ -38,10 +38,10 @@ The RED cart largely holds stable foodstuffs contributed by Prosper and Actstow,
 The YELLOW cart holds stable foodstuffs and consumer goods, including over three dozen live chickens, sixty square yards of hemp fabrics, and a large array of working tools, such as hammers, pickaxes, and lumber axes.
 
 #### Orange Cart
-The ORANGE cart holds military supplies, including thirty sets of chainmail armor, swords, and shields made of Steel, and a cache of modern weapons, including 4 Durandurm Longblasters and 64 Fire Red Magazines.
+The ORANGE cart holds military supplies, including thirty sets of chainmail armor, swords, and shields made of Steel.
 
 #### The Ambush
-The caravan is walking into an ambush set up by the HDF's 2nd Auxiliary Corps, where 8 soldiers lie in wait  with a 'Mobile Shielded Personnel Carrier' equipped with a Durandurm Rotary Repeater.
+The caravan is walking into one of the ambushes set up by the HDF's 33rd Infantry Company along the road to and from [[Wychway]] and the Kingdom.
 
 15 - BLACK
 12 - RED
