@@ -53,8 +53,8 @@ The caravan is walking into one of the ambushes set up by the HDF's 33rd Infantr
 10 - Steve
 10 - WHITE
 	A
-	B
-	C
+	B (13)
+	C (11)
 	D
 9 - Wrench
 8 - YELLOW
