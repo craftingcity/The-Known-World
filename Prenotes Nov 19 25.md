@@ -45,17 +45,12 @@ The caravan is walking into one of the ambushes set up by the HDF's 33rd Infantr
 
 16 - Great Dragoon
 15 - BLACK (+4 to hit, 1d6+2, AC 13)
-	A
-	B
-	C
-	D
+	~~A~~
+	~~B (10, )~~
+	~~C (5, 15)~~
+	~~D (6, )~~
 12 - RED
 10 - Steve
-10 - WHITE
-	~~A (5, 12)~~
-	~~B (13, 18)~~
-	~~C (11)~~
-	~~D (7, 11)~~
 9 - Wrench
 8 - YELLOW
 5 - ORANGE
