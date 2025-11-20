@@ -29,9 +29,15 @@ The sounds of community fill your ears - the creaking of the carts, the neighs o
 
 ### What does the World Know?
 
-There are 4 carts. Each cart has an outfit of 4 guards and a driver, meaning there are 20 friendlies plus the party.
+There are 3 carts. Each cart has an outfit of 4 guards and a driver, meaning there are 15 friendlies plus the party.
 
-The caravan is walking into an ambush set up by the HDF's 2nd Auxiliary Corps, where 8 soldiers lie in wait with a Durandurm Rotary Repeater mounted on a metal shielded platform.
+The caravan is walking into an ambush set up by the HDF's 2nd Auxiliary Corps, where 8 soldiers lie in wait  with a 'Mobile Shielded Personnel Carrier' equipped with a Durandurm Rotary Repeater.
+
+15 - BLACK
+12 - RED
+10 - WHITE
+8 - YELLOW
+5 - ORANGE
 
 ### What happened?
 
