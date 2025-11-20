@@ -43,7 +43,7 @@ The ORANGE cart holds military supplies, including thirty sets of chainmail armo
 #### The Ambush
 The caravan is walking into one of the ambushes set up by the HDF's 33rd Infantry Company along the road to and from [[Wychway]] and the Kingdom.
 
-15 - BLACK
+15 - BLACK ()
 12 - RED
 10 - WHITE
 8 - YELLOW
