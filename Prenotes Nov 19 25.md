@@ -24,11 +24,14 @@ In a combined effort by the Kingdom of Prosper, Cenva Minyo, the Actstow Kingdom
 
 For reasons each your own, you all are present alongside the caravan. You have travelled for a number of days - much more slowly than each of you could move on your own - but today is special. Today, you stepped into [[The Holyl'nds]]. The grass, once a beautiful green, is a dull ashy grey, licked with a dark orange spine. The trees are burnt black - not dead, but not quite alive either. The clicking, clacking stones beneath your feet of the Coalition's Highways is the only reminder that you are less than a day away from the relative safety of the Kingdom of Prosper.
 
-
+The sounds of community fill your ears - the creaking of the carts, the neighs of horses, the shouts of commands, the cheers of conversations. Everyone make a Perception Check.
 
 
 ### What does the World Know?
 
+There are 4 carts. Each cart has an outfit of 4 guards and a driver, meaning there are 20 friendlies plus the party.
+
+The caravan is walking into an ambush set up by the HDF's 2nd Auxiliary Corps, where 8 soldiers lie in wait with a Durandurm Rotary Repeater mounted on a metal shielded platform.
 
 ### What happened?
 
