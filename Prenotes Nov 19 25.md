@@ -16,7 +16,13 @@ aliases:
 
 As we come to the table today, we come tell a story. A new story, in this place we have all once known before. Passing through the cloudlayers, we see the vibrant colors of the world, the clear regional borders, and the massive central city, and we look north.
 
-Today, is the 3rd day of Drying in the 106th year. The conflict between the Church of the White Flame and the Kingdom of Prosper has subjected the northern regions to economic and political hardship. In a combined effort by the Kingdom of Prosper, Cenva, a caravan of supplies
+Today, is the 3rd day of Drying in the 106th year. 
+
+For 422 days, the conflict between the Church of the White Flame and the Kingdom of Prosper has subjected the northern regions to economic and political hardship. Though no city has been spared, the city of [[Wychway]] has been the site of many battles, and can no longer rely on the government it betrayed for assistance in reconstruction and maintenance.
+
+In a combined effort by the Kingdom of Prosper, Cenva Minyo, the Actstow Kingdom, and a number of Blood Clans, a caravan of supplies has been collected and transported throughout Arthur's Prairie on it's way to [[Wychway]] in an attempt to relieve the pressure being placed on the city, and reaffirm it's alliance with the north-eastern powers, the Kingdom of Prosper in particular.
+
+For reasons each your own, you all are 
 
 
 ### What does the World Know?
