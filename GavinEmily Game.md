@@ -6,8 +6,8 @@ aliases:
 ## People
 #### Mip, the Alchemist
 #### Wrench, the Ranger
-#### xxx, the Wizard
-#### Ghost, the Paladin
+#### The Great Dragoon, the Wizard
+#### Steve, the Palalock
 ### Trusted Allies
 ### Mortal Adversaries
 ### Faction Reputation
