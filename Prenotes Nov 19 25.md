@@ -22,7 +22,9 @@ For 422 days, the conflict between the Church of the White Flame and the Kingdom
 
 In a combined effort by the Kingdom of Prosper, Cenva Minyo, the Actstow Kingdom, and a number of Blood Clans, a caravan of supplies has been collected and transported throughout Arthur's Prairie on it's way to [[Wychway]] in an attempt to relieve the pressure being placed on the city, and reaffirm it's alliance with the north-eastern powers, the Kingdom of Prosper in particular.
 
-For reasons each your own, you all are 
+For reasons each your own, you all are present alongside the caravan. You have travelled for a number of days - much more slowly than each of you could move on your own - but today is special. Today, you stepped into [[The Holyl'nds]]. The grass, once a beautiful green, is a dull ashy grey, licked with a dark orange spine. The trees are burnt black - not dead, but not quite alive either. The clicking, clacking stones beneath your feet of the Coalition's Highways is the only reminder that you are less than a day away from the relative safety of the Kingdom of Prosper.
+
+
 
 
 ### What does the World Know?
