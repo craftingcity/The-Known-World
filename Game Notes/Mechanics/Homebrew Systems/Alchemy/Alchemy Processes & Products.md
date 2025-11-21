@@ -678,9 +678,9 @@ Upon introduction, for the next hour, at the beginning of your turn, make a DC (
 	- 4 ounces Nalasculas (650.0sp) > (175.0sp / ounce)
 
 #### Generalized Antivenom
-A thin, brownish-green, decarbonized potion commonly across the world to treat natural poisons and toxins.
+A thin, brownish-green, decarbonized potion commonly brewed across the world to treat natural poisons and toxins.
 
-Upon introduction, resolve the Poisoned Condition immediately, and once every minute for the next hour. You gain (Grade + 1) Poison Damage Resistance for the next hour.
+Upon introduction, resolve the 'Poisoned' Condition immediately, and once every minute for the next hour. You gain (G + 1) Poison Damage Resistance for the next hour.
 
 **Ingredients**;
 - 8 ounces Fang of Wurm (96.0sp)
@@ -690,7 +690,9 @@ Upon introduction, resolve the Poisoned Condition immediately, and once every mi
 	- 32 ounces Generalized Antivenom (275.0sp) > (45.0sp / potion)
 
 #### Aerotide
-A odorless inhalant typically stored in a pressurized capsule and released directly into the nostrils as a ventilative supplement - forcing breathable air into the respatorey system.
+A odorless inhalant typically stored in a pressurized capsule and released directly into the nostrils as a ventilative supplement; described as 'a notably uncomfortable experience', Aerotide forces a mixture of gasses into the lungs that reacts with present carbon-dioxide to create "fresh air" that can again be used within the respiratory system. 
+
+Upon introduction, you are no longer Suffocating
 
 #### Ambebamol
 #### Amorphia

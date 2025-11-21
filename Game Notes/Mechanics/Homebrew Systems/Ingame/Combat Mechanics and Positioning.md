@@ -119,7 +119,12 @@ The item slots are as follows (total of 13 non-armor):
 		- Belt
 		- Shinguard / Pants
 		- Shoes
-		  
+
+## Drowning / Suffocating
+A character may hold their breath for a number of minutes equal to 1 + their Con Mod, with 30 seconds as a minimum. Convert this number into rounds of initiative (at 6 seconds per round). A character expends a round of held breath on the beginning of their turn.
+	- If a character takes a Move Action or a Standard Action, they must spend an additional round (6 seconds) of held breath to do so.
+	- *After a character runs out of breath, they begin drowning. A character may only be drowning for a number of rounds equal to their Con Mod, with 1 round as a minimum. If they are without air for this many rounds, they are reduced to 0 HP and are dying.*
+
 # The Fading Spirit
 ###### as inspired/ripped by/from Matthew Mercer and Critical Role
 If a character is dead, their spirit is beginning to separate from their material vessel, and begin drifting to their Final Plane. Once a spirit has moved into it's Final Plane, it becomes very difficult to recover.
