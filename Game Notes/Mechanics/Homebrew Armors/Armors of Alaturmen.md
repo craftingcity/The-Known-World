@@ -7,10 +7,20 @@ aliases:
 
 ## Generic Armors
 ### Light
-| Name            | AC     | Cost in sp. |
-| --------------- | ------ | ----------- |
-| Leather         | 11+DEX |             |
-| Studded Leather | 12+DEX |             |
+| Name    | AC     | Cost in sp. |
+| ------- | ------ | ----------- |
+| Leather | 11+DEX | 80.0        |
+| Studded | 12+DEX | 105.0       |
+
+#### Leather
+A suit of padded armor that covers the full body in thick and protective, yet flexing and comfortable leather.
+
+Created with 16 square yards of Textiles.
+
+#### Studded
+A suit of padded armor that covers the full body in thick and protective, yet flexing and comfortable leather that has been fitted with reinforcing metal studs.
+
+Created with 16 square yards of Textiles and 20 pounds of Metal.
 
 ### Medium
 | Name        | AC             | Cost in sp. |
@@ -20,6 +30,11 @@ aliases:
 | Scale Mail  | 14+DEX (max 2) |             |
 | Breastplate | 14+DEX (max 2) |             |
 | Halfplate   | 15+DEX (max 2) |             |
+
+#### Hide
+A suit of padded armor that covers the full body in heavy natural furs and hides.
+
+Created with 16 square yards of Leather.
 
 ### Heavy
 | Name           | AC  | STR | Cost in sp. |
