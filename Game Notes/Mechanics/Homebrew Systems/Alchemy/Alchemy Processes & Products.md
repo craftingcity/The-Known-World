@@ -722,7 +722,6 @@ After digestion, for the next hour, your body cannot be magically or naturally c
 - XXX
 
 #### Pretokarin
-`A bitter liquid used to induce vomiting in the treatment of digestive ailments (Use: Resolve Poisoned condition)`
 A thin, bitter orange liquid commonly used across the world as a forceful treatment of digestive ailments.
 
 Upon introduction, you immediately resolve the 'Poisoned' Condition.
@@ -746,7 +745,9 @@ Upon introduction, you regain 3 Hit Points. Then, choose a "Broken" or "Bruised"
 - XXX
 
 #### Heamox Balm
-A thick red balm used as an anesthetic, antibacterial, coagulant. 
+A thick red balm used as an anesthetic, antibacterial, and coagulant. A staple wound stabilizer in any proficient medic's kit.
+
+Upon introduction, 
 
 **Ingredients**;
 - XXX
