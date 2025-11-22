@@ -733,13 +733,15 @@ Upon introduction, you immediately resolve the 'Poisoned' Condition.
 #### Scar Balm
 A thick white balm used to reduce any pain or inflammation present in a healing or healed scar. Most commonly used by soldiers and adventurers to aid and quicken their recovery.
 
-Upon introduction, you regain a Hit Point. Then, choose a 'Superficial' Lingering Injury and resolve it.
+Upon introduction, you regain a Hit Point. Then, choose a "Scar" or "Blister" Lingering Injury. When you next gain the benefits of a Long Rest, you resolve that Lingering Injury.
 
 **Ingredients**;
 - XXX
 
 #### Bone Balm
 A thick blue balm used to set and repair broken or cracked bones.
+
+Upon introduction, you regain 3 Hit Points. Then, choose a "Broken" or "Bruised" Lingering Injury. When you next gain the benefits of a Long Rest, you resolve that Lingering Injury.
 **Ingredients**;
 - XXX
 
