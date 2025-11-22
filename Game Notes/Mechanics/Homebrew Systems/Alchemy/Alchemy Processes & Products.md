@@ -692,7 +692,14 @@ Upon introduction, resolve the 'Poisoned' Condition immediately, and once every 
 #### Aerotide
 A odorless inhalant typically stored in a pressurized capsule and released directly into the nostrils as a ventilative supplement; described as 'a notably uncomfortable experience', Aerotide forces a mixture of gasses into the lungs that reacts with present carbon-dioxide to create "fresh air" that can again be used within the respiratory system. 
 
-Upon introduction, you are no longer Suffocating
+Upon introduction, you are no longer Suffocating, and you have (CON * G) rounds of held breath.
+
+**Ingredients**;
+- 12 pounds Sulfur (12.0sp)
+- 30 pounds Nitrate (4.50sp)
+- 8 carats Amethyst (800.0sp)
+- 1 ounce Scale of Harpy (650.0sp)
+	- 32 ounces Aerotide (1.5k sp) > (50.0sp)
 
 #### Ambebamol
 #### Amorphia
