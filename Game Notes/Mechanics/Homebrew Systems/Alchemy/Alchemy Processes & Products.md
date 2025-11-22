@@ -725,7 +725,8 @@ After digestion, for the next hour, your body cannot be magically or naturally c
 `A bitter liquid used to induce vomiting in the treatment of digestive ailments (Use: Resolve Poisoned condition)`
 A thin, bitter orange liquid commonly used across the world as a forceful treatment of digestive ailments.
 
-Upon introduction, you immediately resolve the 'Poisoned', 
+Upon introduction, you immediately resolve the 'Poisoned' Condition.
+
 **Ingredients**;
 - XXX
 
