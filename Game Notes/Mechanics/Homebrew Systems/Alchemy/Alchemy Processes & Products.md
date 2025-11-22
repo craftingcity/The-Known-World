@@ -731,12 +731,15 @@ Upon introduction, you immediately resolve the 'Poisoned' Condition.
 - XXX
 
 #### Scar Balm
+A thick white balm used to reduce any pain or inflammation present in a healing or healed scar. Most commonly used by soldiers and adventurers to aid and quicken their recovery.
+
+Upon introduction, you regain a Hit Point. Then, choose a 'Superficial' Lingering Injury and resolve it.
 
 **Ingredients**;
 - XXX
 
 #### Bone Balm
-
+A thick blue balm used to set and repair broken or cracked bones.
 **Ingredients**;
 - XXX
 
