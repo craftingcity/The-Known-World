@@ -714,7 +714,7 @@ Upon introduction, for the next (G * 5) minutes, you gain +6 Radiation Resistanc
 	- 48 ounces Ambebamol (675.0sp) > (15.0sp / ounce)
 
 #### Amorphia
-A thick, deep purple, heavily carbonated potion brewed very rarely, and used in preparation against threats of morphism.
+A thick, deep purple, liquid used very rarely in preparation against threats of morphism.
 
 After digestion, for the next hour, your body cannot be magically or naturally changed wholly into, or into the shape of, any other body or animal, real or imagined.
 
@@ -723,7 +723,9 @@ After digestion, for the next hour, your body cannot be magically or naturally c
 
 #### Pretokarin
 `A bitter liquid used to induce vomiting in the treatment of digestive ailments (Use: Resolve Poisoned condition)`
-A 
+A thin, bitter orange liquid commonly used across the world as a forceful treatment of digestive ailments.
+
+Upon introduction, you immediately resolve the 'Poisoned', 
 **Ingredients**;
 - XXX
 
