@@ -291,7 +291,6 @@ To generate the contents of a given "random" PDA, roll 1d8 the following table a
 | Name             | Type | Desc. | Cost in AC | Cost in SP |
 | ---------------- | ---- | ----- | ---------- | ---------- |
 | Aerotide         | Gas  |       |            |            |
-| Crotosine Vepian |      |       |            |            |
 
 #### HEALING
 | Name                  | Type       | Desc.                                                                                                                                          | Cost in AC | Cost in SP |
@@ -304,9 +303,9 @@ To generate the contents of a given "random" PDA, roll 1d8 the following table a
 
 
 #### RADIATION
-| Name      | Type  | Desc.                                                                                                                                               | Cost in AC | Cost in SP |
-| --------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- |
-| Ambebamol | Solid | A yellow-green powder that when consumed orally or nasally, provides protection against the hidden threat known as Radiation (+6RadRed / 25 rounds) |            |            |
+| Name      | Type  | Desc.                                                                                                                                                                       | Cost in AC | Cost in SP |
+| --------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- |
+| Ambebamol | Solid | A yellow-green powder that when ingested, provides protection against the hidden threat known as 'Radiation' by preparing the body for it's attacks. (+6RadRed / 25 rounds) |            |            |
 
 ## Kits
 ### Tourist's Kit

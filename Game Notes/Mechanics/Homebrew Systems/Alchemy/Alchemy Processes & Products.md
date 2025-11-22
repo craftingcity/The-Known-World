@@ -699,20 +699,79 @@ Upon introduction, you are no longer Suffocating, and you have (CON * G) rounds 
 - 30 pounds Nitrate (4.50sp)
 - 8 carats Amethyst (800.0sp)
 - 1 ounce Scale of Harpy (650.0sp)
-	- 32 ounces Aerotide (1.5k sp) > (50.0sp)
+	- 32 ounces Aerotide (1.5k sp) > (50.0sp / ounce)
 
 #### Ambebamol
+A yellow-green powder that when ingested, provides protection against the hidden threat known as 'Radiation' by preparing the body for it's attacks.
+
+Upon introduction, for the next (G * 5) minutes, you gain +6 Radiation Resistance.
+
+**Ingredients**;
+- 8 ounces Fang of Wurm (96.0sp)
+- 40 ounces Salt (2.0sp)
+- 3 pounds Silver (33.0)
+- 1 pound Adamantine (450.0sp)
+	- 48 ounces Ambebamol (675.0sp) > (15.0sp / ounce)
+
 #### Amorphia
+A thick, deep purple, heavily carbonated potion brewed very rarely, and used in preparation against threats of morphism.
+
+After digestion, for the next hour, your body cannot be magically or naturally changed wholly into, or into the shape of, any other body or animal, real or imagined.
+
+**Ingredients**;
+- XXX
+
 #### Pretokarin
+`A bitter liquid used to induce vomiting in the treatment of digestive ailments (Use: Resolve Poisoned condition)`
+A 
+**Ingredients**;
+- XXX
+
 #### Scar Balm
+
+**Ingredients**;
+- XXX
+
 #### Bone Balm
+
+**Ingredients**;
+- XXX
+
 #### Heamox Balm
+
+**Ingredients**;
+- XXX
+
 #### Isiopara
+
+**Ingredients**;
+- XXX
+
 #### Secreclude Propaterol
+
+**Ingredients**;
+- XXX
+
 #### Seeker Symbiote
+
+**Ingredients**;
+- XXX
+
 #### Cognitive Driver
+
+**Ingredients**;
+- XXX
+
 #### Immuno-Secundus
+
+**Ingredients**;
+- XXX
+
 #### Elysian Petal
+
+**Ingredients**;
+- XXX
+
 
 ### Vices
 
