@@ -29,12 +29,12 @@ Created with 8 sq. yards of Textiles and 10 pounds of Metal.
 | Chain Shirt | 13+DEX (max 2) | 45.0+       |
 | Scale Mail  | 14+DEX (max 2) | 125.0       |
 | Breastplate | 14+DEX (max 2) | 60.0+       |
-| Halfplate   | 15+DEX (max 2) |             |
+| Halfplate   | 15+DEX (max 2) | 200.0       |
 
 #### Hide
 A suit of padded armor that covers the full body in heavy natural furs and hides.
 
-Created with 10 sq. yards of Textiles.
+Created with 8 sq. yards of Textiles.
 
 #### Chain Shirt
 A shirt of chainmail that protects the vital organs, but little else. Worn over a suit of simple Leather armor (sold separately).
@@ -59,40 +59,52 @@ Created with 6 sq. yards of Textiles and 40 pounds of Metal.
 ### Heavy
 | Name      | AC  | STR | Cost in sp. |
 | --------- | --- | --- | ----------- |
-| Ringmail  | 14  | 11  |             |
-| Chainmail | 16  | 13  |             |
-| Splint    | 17  | 15  |             |
+| Ringmail  | 14  | 11  | 175.0       |
+| Chainmail | 16  | 13  | 250.0       |
+| Splint    | 17  | 15  | 400.0       |
 | Plate     | 18  | 15  |             |
 
 #### Ringmail
-A suit of 
+A suit of leather armor reinforced by metal rings and bars placed across the most vulnerable points of contact.
+
+Created with 8 sq. yards of Textiles and 25 pounds of Metals.
 
 #### Chainmail
+A suit of full chainmail. Protects the whole body.
 
+Created with 35 pounds of Metals.
 
 #### Splintmail
+A suit of leather armor onto which strips of metal have been riveted. The joints are additionally protected by lengths of chainmail.
 
+Created with 8 sq. yards of Textiles and 50 pounds of Metals.
 
 #### Platemail
 
 
-#### Tank Plate
-
-
 ## Cultural Armors
 ### Light
-| Name              | AC     | AO                          | Cost in sp. |
-| ----------------- | ------ | --------------------------- | ----------- |
-| Chitin Studded    | 13+DEX | [[The Deserts of Tetrimoc]] |             |
-| Light Combat Suit | 17+DEX | [[The Old\|Minyostalma]]    |             |
+| Name                  | AC     | AO                          | Cost in sp. |
+| --------------------- | ------ | --------------------------- | ----------- |
+| Chitin Studded        | 13+DEX | [[The Deserts of Tetrimoc]] |             |
+| Pressigen Scout Armor | 17+DEX | [[The Old\|Minyostalma]]    |             |
+
+#### Chitin Studded Armor
+#### Combat Scout Suit
 
 ### Medium
-| Name                 | AC             | AO                          | Cost in sp. |
-| -------------------- | -------------- | --------------------------- | ----------- |
-| Chitin Mail          | 14+DEX (max 3) | [[The Deserts of Tetrimoc]] |             |
-| Combat Operator Suit | 18+DEX (max 3) | [[The Old\|Minyostalma]]    |             |
+| Name                   | AC             | AO                          | Cost in sp. |
+| ---------------------- | -------------- | --------------------------- | ----------- |
+| Chitin Mail            | 14+DEX (max 3) | [[The Deserts of Tetrimoc]] |             |
+| Pressigen Combat Armor | 18+DEX (max 3) | [[The Old\|Minyostalma]]    |             |
+
+#### Chitinmail
+#### Combat Operator Suit
 
 ### Heavy
-| Name       | AC  | STR | AO                             | Cost in sp. |
-| ---------- | --- | --- | ------------------------------ | ----------- |
-| Tank Plate | 20  | 18  | [[Dwarven Kingdom Suremantle]] |             |
+| Name         | AC             | STR | AO                             | Cost in sp. |
+| ------------ | -------------- | --- | ------------------------------ | ----------- |
+| Chitin Plate | 16+DEX (max 3) | 14  | [[The Deserts of Tetrimoc]]    |             |
+| Tank Plate   | 21, DR 2       | 18  | [[Dwarven Kingdom Suremantle]] |             |
+
+#### Tank Plate
