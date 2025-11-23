@@ -75,7 +75,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Goggles of Night-Vision    | Goggles | 300' darkvision                                                       | all       | 32         | 6400sp     |
 | Longshot Headgear          | Goggles | Spend 1 charge (of 4, reset at dawn) to gain ADV on next attack roll. | troopers  | 28         | 5600sp     |
 | Bayonet                    |         | Make a dagger attack (1d4+DEX).                                       | all       | 0.6        | 30sp       |
-| Bracing Shield             | Shield  | Use a shield and brace your firearm with one hand. (+2AC)             | all       | 3          | 600sp           |
+| Bracing Shield             | Shield  | Use a shield and brace your firearm with one hand. (+2AC)             | all       | 3          | 600sp      |
 
 ### Armors
 #### SCAVANGED / REFIT
@@ -86,7 +86,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Patched Scout Armor  | Light  | 15+DEX, +5 R. Protection    | 2x Arti | all       | 8          | 1600sp     |
 | Patched Combat Armor | Medium | 16+DEX, +10 R. Protection   | 2x Arti | all       | 12         | 2400sp     |
 | Plate                | Heavy  | 18                          | 1x Arti | all       | 4.5        | 900sp      |
-| Refit Tank-plate     | Heavy  | 20, DR 1, +30 R. Protection | 3x Arti | all       | 16         | 3200sp     |
+| Steel Tank-plate     | Heavy  | 20, DR 1, +30 R. Protection | 3x Arti | all       | 16         | 3200sp     |
 | Empty Power Plate    | Heavy  | 22, DR 2, +75 R. Protection | 5x Arti | all       | 26         | 5200sp     |
 
 #### IMPORTED / FORGED

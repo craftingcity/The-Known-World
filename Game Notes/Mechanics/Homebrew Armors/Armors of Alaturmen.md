@@ -62,7 +62,7 @@ Created with 6 sq. yards of Textiles and 40 pounds of Metal.
 | Ringmail  | 14  | 11  | 175.0       |
 | Chainmail | 16  | 13  | 250.0       |
 | Splint    | 17  | 15  | 400.0       |
-| Plate     | 18  | 15  |             |
+| Plate     | 18  | 15  | 675.0       |
 
 #### Ringmail
 A suit of leather armor reinforced by metal rings and bars placed across the most vulnerable points of contact.
@@ -80,31 +80,46 @@ A suit of leather armor onto which strips of metal have been riveted. The joints
 Created with 8 sq. yards of Textiles and 50 pounds of Metals.
 
 #### Platemail
+A suit of hearty platemail that protects the whole body in thick metal sheets.
+
+Created with 4 sq. yards of Textiles and 75 pounds of Metals.
 
 
 ## Cultural Armors
 ### Light
-| Name                  | AC     | AO                          | Cost in sp. |
-| --------------------- | ------ | --------------------------- | ----------- |
-| Chitin Studded        | 13+DEX | [[The Deserts of Tetrimoc]] |             |
-| Pressigen Scout Armor | 17+DEX | [[The Old\|Minyostalma]]    |             |
+| Name                                                    | AC                               | AO                          | Cost in sp. |
+| ------------------------------------------------------- | -------------------------------- | --------------------------- | ----------- |
+| Chitin Studded                                          | 13+DEX                           | [[The Deserts of Tetrimoc]] |             |
+| Pressigen Scout Armor                                   | 17+DEX, +15 Radiation Protection | [[The Old\|Minyostalma]]    |             |
+| Preventative Suit for Unknown Physical Influence, Gen 1 | 12+DEX, +20 Radiation Protection | [[The Old\|Minyostalma]]    |             |
+| Preventative Suit for Unknown Physical Influence, Gen 2 | 13+DEX, +35 Radiation Protection | [[The Old\|Minyostalma]]    |             |
 
 #### Chitin Studded Armor
 #### Combat Scout Suit
 
 ### Medium
-| Name                   | AC             | AO                          | Cost in sp. |
-| ---------------------- | -------------- | --------------------------- | ----------- |
-| Chitin Mail            | 14+DEX (max 3) | [[The Deserts of Tetrimoc]] |             |
-| Pressigen Combat Armor | 18+DEX (max 3) | [[The Old\|Minyostalma]]    |             |
+| Name                                                    | AC                                       | AO                          | Cost in sp. |
+| ------------------------------------------------------- | ---------------------------------------- | --------------------------- | ----------- |
+| Chitin Mail                                             | 14+DEX (max 3)                           | [[The Deserts of Tetrimoc]] |             |
+| Pressigen Combat Armor                                  | 18+DEX (max 3), +20 Radiation Protection | [[The Old\|Minyostalma]]    |             |
+| Durandurm Power Plate                                   | 23, DR 5, +150 Radiation Protection      | [[The Old\|Minyostalma]]    |             |
+| Preventative Suit for Unknown Physical Influence, Gen 3 | 15+DEX (max 2), +75 Radiation Protection | [[The Old\|Minyostalma]]                            |             |
 
 #### Chitinmail
 #### Combat Operator Suit
+#### Durandurm Power Plate
 
 ### Heavy
-| Name         | AC             | STR | AO                             | Cost in sp. |
-| ------------ | -------------- | --- | ------------------------------ | ----------- |
-| Chitin Plate | 16+DEX (max 3) | 14  | [[The Deserts of Tetrimoc]]    |             |
-| Tank Plate   | 21, DR 2       | 18  | [[Dwarven Kingdom Suremantle]] |             |
+| Name         | AC                                 | STR | AO                             | Cost in sp. |
+| ------------ | ---------------------------------- | --- | ------------------------------ | ----------- |
+| Chitin Plate | 16+DEX (max 3)                     | 14  | [[The Deserts of Tetrimoc]]    |             |
+| Tank Plate   | 20, DR 1, +30 Radiation Protection | 18  | [[Dwarven Kingdom Suremantle]] |             |
 
 #### Tank Plate
+
+### Masks
+| Name                                           | AC                       | AO                       | Cost in sp. |
+| ---------------------------------------------- | ------------------------ | ------------------------ | ----------- |
+| Hazardous Environment Facial Protector, Mark 1 | +5 Radiation Protection  | [[The Old\|Minyostalma]] |             |
+| Hazardous Environment Facial Protector, Mark 2 | +15 Radiation Protection | [[The Old\|Minyostalma]] |             |
+| Hazardous Environment Facial Protector, Mark 3 | +35 Radiation Protection | [[The Old\|Minyostalma]] |             |

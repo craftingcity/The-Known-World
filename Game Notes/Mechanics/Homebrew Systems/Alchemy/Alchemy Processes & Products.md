@@ -704,7 +704,7 @@ Upon introduction, you are no longer Suffocating, and you have (CON * G) rounds 
 #### Ambebamol
 A yellow-green powder that when ingested, provides protection against the hidden threat known as 'Radiation' by preparing the body for it's attacks.
 
-Upon introduction, for the next (G * 5) minutes, you gain +6 Radiation Resistance.
+Upon introduction, for the next (G * 5) minutes, you gain +6 Radiation Protection.
 
 **Ingredients**;
 - 8 ounces Fang of Wurm (96.0sp)
