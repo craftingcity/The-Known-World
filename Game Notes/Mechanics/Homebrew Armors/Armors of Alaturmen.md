@@ -60,9 +60,13 @@ Created with 30 pounds of Metal.
 | Chainmail  | 16  | 13  |             |
 | Splint     | 17  | 15  |             |
 | Plate      | 18  | 15  |             |
-| Tank Plate | 20  | 18  |             |
 
-#### R
+
+#### Ringmail
+#### Chainmail
+#### Splintmail
+#### Platemail
+#### Tank Plate
 
 ## Cultural Armors
 ### Light
@@ -78,5 +82,7 @@ Created with 30 pounds of Metal.
 | Combat Operator Suit | 18+DEX (max 3) | SE  |             |
 
 ### Heavy
-
+| Name       | AC  | STR | AO  | Cost in sp. |
+| ---------- | --- | --- | --- | ----------- |
+| Tank Plate | 20  | 18  |     |             |
 ## Specialized Armors
