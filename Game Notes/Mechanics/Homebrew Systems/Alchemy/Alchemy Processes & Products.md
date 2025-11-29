@@ -740,29 +740,38 @@ Upon introduction, you regain a Hit Point. Then, choose a "Scar" or "Blister" Li
 #### Bone Balm
 A thick blue balm used to set and repair broken or cracked bones. Most commonly used by soldiers and adventurers to aid and quicken their recovery.
 
-Upon introduction, you regain 3 Hit Points. Then, choose a "Broken" or "Bruised" Lingering Injury. When you next gain the benefits of a Long Rest, you resolve that Lingering Injury.
+Upon introduction, you regain 1d4 Hit Points. Then, choose a "Broken" or "Bruised" Lingering Injury. When you next gain the benefits of a Long Rest, you resolve that Lingering Injury.
 **Ingredients**;
 - XXX
 
 #### Heamox Balm
 A thick red balm used as an anesthetic, antibacterial, and coagulant. A staple wound stabilizer in any proficient medic's kit.
 
-Upon introduction, 
+Upon introduction, you regain 1d6 Hit Points and a Hit Die. Then, choose a "Superficial" or "Major" Lingering Injury. When you next gain the benefits of a Long Rest, you resolve that Lingering Injury.
 
 **Ingredients**;
 - XXX
 
 #### Isiopara
+A fine white powder typically used as an emergency hemostatic solution to major wounds. While an uncommon form of consumption, ingesting Isiopara activates adrenal producers and blocks the transmission of pain signals to the brain.
+
+Upon application, immediately and at the beginning of your turn for the next (G - 1) rounds, you regain (G * (1d4+1)) Hit Points.
+
+Upon ingestion, make a Constitution Saving Throw. If the result is 22 or higher, you gain +4 to your Strength and Dexterity Modifiers for the next minute. Otherwise, your Strength and Dexterity Modifiers are reduced by 8, and you are Dazed for the next minute.
 
 **Ingredients**;
 - XXX
 
 #### Secreclude Propaterol
+A thin yellow liquid solution typically stored in vials or injection devices and introduced into the muscular layer of the body to amplify the natural healing process twenty-fold.
+
+Upon introduction, immediately and at the beginning of your turn for the next (G + 1) rounds, you regain ((G * 5) + 15) Hit Points.
 
 **Ingredients**;
 - XXX
 
 #### Seeker Symbiote
+A tiny autonomous insect who 
 
 **Ingredients**;
 - XXX
