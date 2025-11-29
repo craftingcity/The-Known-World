@@ -757,7 +757,7 @@ Upon introduction, you regain 1d6 Hit Points and a Hit Die. Then, choose a "Supe
 
 Upon application, immediately and at the beginning of your turn for the next (G - 1) rounds, you regain (G * (1d4+1)) Hit Points.
 
-Upon ingestion, make a Constitution Saving Throw. If the result is 22 or higher, you gain +4 to your Strength and Dexterity Modifiers for the next minute. Otherwise, your Strength and Dexterity Modifiers are reduced by 8, and you are Dazed for the next minute.
+Upon inhalation, make a Constitution Saving Throw. If the result is (10 + (G * 3)) or higher, you gain +G to your Strength and Dexterity Modifiers for the next minute. Otherwise, your Strength and Dexterity Modifiers are reduced by (G * 2), and you are Dazed for the next minute.
 
 **Ingredients**;
 - XXX
@@ -820,10 +820,29 @@ Upon invocation, the Petal is consumed, and you and up to 11 other creatures of 
 | Liquid Potentia |          |               |                   |
 
 #### Glimmer
-> A beautiful iridescent powder euphoric.
+> A beautiful iridescent powder stimulant. Reserved for only the most wealthy consumers. Users describe seeing colors in the air, and feeling protected and comfortable wherever they are.
+
+Upon inhalation, make a Constitution Saving Throw. If the result is (10 + (G * 2)) or higher, for the next minute, when you are next targeted exclusively by a spell, you cast *counterspell* using your Constitution Modifier as your spellcasting ability. Otherwise, you are Stunned for the next minute.
+
+**Ingredients**;
+- XXX
 
 #### Dareanamon
+>
+
+Upon ...
+
+**Ingredients**;
+- XXX
+
 #### Bulbkiss
+>
+
+Upon ...
+
+**Ingredients**;
+- XXX
+
 #### Nova
 #### Liquid Joy
 #### Liquid Calm
