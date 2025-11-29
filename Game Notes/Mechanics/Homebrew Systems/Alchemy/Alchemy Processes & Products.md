@@ -773,7 +773,7 @@ Upon introduction, immediately and at the beginning of your turn for the next (G
 #### Seeker Symbiote
 > An engineered parasite that supports a host's immune system by travelling throughout the body to hunt and absorb hostile influences. The parasite dies after a number of years.
 
-Upon introduction, your Hit Point Maximum is reduced by (G * 5), and you gain G Acid, Poison, and Necrotic Damage Resistance. When the parasite dies, or is replaced, you lose the granted Damage Resistances and your Hit Point Maximum is returned.  
+Upon introduction, your Hit Point Maximum is reduced by (G * 5), and you gain G Acid, Poison, and Necrotic Damage Resistance. When the parasite dies, or is replaced, you lose the granted Damage Resistances and your Hit Point Maximum is returned to normal.
 
 **Ingredients**;
 - XXX
@@ -781,12 +781,15 @@ Upon introduction, your Hit Point Maximum is reduced by (G * 5), and you gain G 
 #### Cognitive Driver
 > A complex alchemical device that, when implemented correctly, supports a host's persona and routine by processing and storing data it collects along the spinal column, and editing abnormal signals and commands.
 
-Upon introduction, your Hit Point Maximum is reduced by (G * 5), and you cannot be Charmed, Frightened, or otherwise commanded to action against your will.
+Upon introduction, your Hit Point Maximum is reduced by (G * 5). Your Driver has (G * 3) charges. When you would become Frightened or Charmed, or otherwise made to act against your will, you may spend a charge to resist the condition or command instead. When your Driver is replaced, your Hit Point Maximum is returned to normal.
 
 **Ingredients**;
 - XXX
 
 #### Immuno-Secundus
+An alchemical solution that, when introduced to a viable host, mutates and morphs the internal organs of the host to grow a second copy of their immune system.
+
+Upon introduction, 
 
 **Ingredients**;
 - XXX
