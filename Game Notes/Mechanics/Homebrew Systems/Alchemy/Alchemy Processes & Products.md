@@ -781,20 +781,23 @@ Upon introduction, your Hit Point Maximum is reduced by (G * 5), and you gain G 
 #### Cognitive Driver
 > A complex alchemical device that, when implemented correctly, supports a host's persona and routine by processing and storing data it collects along the spinal column, and editing abnormal signals and commands.
 
-Upon introduction, your Hit Point Maximum is reduced by (G * 5). Your Driver has (G * 3) charges. When you would become Frightened or Charmed, or otherwise made to act against your will, you may spend a charge to resist the condition or command instead. When your Driver is replaced, your Hit Point Maximum is returned to normal.
+Upon introduction, your Hit Point Maximum is reduced by (G * 5). Your Driver holds (G * 2) charges. When you would become Frightened or Charmed, or otherwise made to act against your will, you may spend a charge to resist the condition or command instead. When you take a Long Rest, your Driver regains a charge.
 
 **Ingredients**;
 - XXX
 
 #### Immuno-Secundus
-An alchemical solution that, when introduced to a viable host, mutates and morphs the internal organs of the host to grow a second copy of their immune system.
+> An alchemical solution that, when introduced to a viable host, mutates and morphs the internal organs of the host to grow a second copy of their immune system.
 
-Upon introduction, 
+Upon introduction, your Hit Point Maximum is reduced by (G * 5). Your Secundus holds (G * 2) charges. When you would become Poisoned, Petrified, or otherwise diseased, you may spend a charge to resist the condition or disease instead. When you take a Long Rest, your Secundus regains a charge.
 
 **Ingredients**;
 - XXX
 
 #### Elysian Petal
+> An alchemical recreation of a divine blessing that takes the form of a golden leaf or flower petal.
+
+Upon invocation, the Petal is consumed, and you and up to 11 other creatures of your choice may gain Maximum Hit Points as if leveling up. Then, you each regain 10 Hit Points.
 
 **Ingredients**;
 - XXX
@@ -817,6 +820,8 @@ Upon introduction,
 | Liquid Potentia |          |               |                   |
 
 #### Glimmer
+> A beautiful iridescent powder euphoric.
+
 #### Dareanamon
 #### Bulbkiss
 #### Nova
@@ -831,18 +836,18 @@ Upon introduction,
 ## Equipment
 ### Adventuring
 
-| Name (Source)        | Mechanic | Cost @ Market | Regions Producing |
-| -------------------- | -------- | ------------- | ----------------- |
-| Liquid Light         |          |               |                   |
-| Suregrip             |          |               |                   |
-| Alchemical Explosive |          |               |                   |
-| Everlight Wax        |          |               |                   |
-| Spellsmoke Wax       |          |               |                   |
-| Violet Emitter       |          |               |                   |
-| Lightswitch          |          |               |                   |
-| Purity Lens          |          |               |                   |
-| Auspex Lens          |          |               |                   |
-| Precounter Charm     |          |               |                   |
+| Name (Source)                | Mechanic | Cost @ Market | Regions Producing |
+| ---------------------------- | -------- | ------------- | ----------------- |
+| Liquid Light / Flash Pellets |          |               |                   |
+| Suregrip                     |          |               |                   |
+| Alchemical Explosive         |          |               |                   |
+| Everlight Wax                |          |               |                   |
+| Spellsmoke Wax               |          |               |                   |
+| Violet Emitter               |          |               |                   |
+| Lightswitch                  |          |               |                   |
+| Purity Lens                  |          |               |                   |
+| Auspex Lens                  |          |               |                   |
+| Precounter Charm             |          |               |                   |
 
 #### Liquid Light
 #### Suregrip
