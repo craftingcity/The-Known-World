@@ -771,12 +771,17 @@ Upon introduction, immediately and at the beginning of your turn for the next (G
 - XXX
 
 #### Seeker Symbiote
-A tiny autonomous insect who 
+An engineered parasite that supports a host's immune system by travelling throughout the body to hunt and absorb hostile influences. The parasite dies after a number of years.
+
+Upon introduction, your Hit Point Maximum is reduced by (G * 5), and you gain G Acid, Poison, and Necrotic Damage Resistance. When the parasite dies, or is replaced, you lose the granted Damage Resistances and your Hit Point Maximum is returned.  
 
 **Ingredients**;
 - XXX
 
 #### Cognitive Driver
+A complex alchemical device that, when implemented correctly, supports a host's persona and routine by processing and storing data it collects along the spinal column, and editing abnormal signals and commands.
+
+Upon introduction, your Hit Point Maximum is reduced by (G * 5), and you cannot be Charmed, Frightened, or otherwis
 
 **Ingredients**;
 - XXX
