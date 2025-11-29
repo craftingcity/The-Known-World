@@ -60,9 +60,9 @@ Created with 6 sq. yards of Textiles and 40 pounds of Metal.
 | Name      | AC  | STR | Cost in sp. |
 | --------- | --- | --- | ----------- |
 | Ringmail  | 14  | 11  | 175.0       |
-| Chainmail | 16  | 13  | 250.0       |
-| Splint    | 17  | 15  | 400.0       |
-| Plate     | 18  | 15  | 675.0       |
+| Chainmail | 16  | 13  | 400.0       |
+| Splint    | 17  | 15  | 675.0       |
+| Plate     | 18  | 15  | 900.0       |
 
 #### Ringmail
 A suit of leather armor reinforced by metal rings and bars placed across the most vulnerable points of contact.
@@ -89,37 +89,53 @@ Created with 4 sq. yards of Textiles and 75 pounds of Metals.
 ### Light
 | Name                                                    | AC                               | AO                          | Cost in sp. |
 | ------------------------------------------------------- | -------------------------------- | --------------------------- | ----------- |
-| Chitin Studded                                          | 13+DEX                           | [[The Deserts of Tetrimoc]] |             |
-| Pressigen Scout Armor                                   | 17+DEX, +15 Radiation Protection | [[The Old\|Minyostalma]]    |             |
-| Preventative Suit for Unknown Physical Influence, Gen 1 | 12+DEX, +20 Radiation Protection | [[The Old\|Minyostalma]]    |             |
-| Preventative Suit for Unknown Physical Influence, Gen 2 | 13+DEX, +35 Radiation Protection | [[The Old\|Minyostalma]]    |             |
+| Chitin Studded                                          | 13+DEX                           | [[The Deserts of Tetrimoc]] | 120.0       |
+| Pressigen Scout Armor                                   | 17+DEX, +15 Radiation Protection | [[The Old\|Minyostalma]]    | 1.8k        |
+| Preventative Suit for Unknown Physical Influence, Gen 1 | 12+DEX, +20 Radiation Protection | [[The Old\|Minyostalma]]    | 1.6k        |
+| Preventative Suit for Unknown Physical Influence, Gen 2 | 13+DEX, +35 Radiation Protection | [[The Old\|Minyostalma]]    | 2.4k            |
 
 #### Chitin Studded Armor
+A suit of padded armor that covers the full body in thick and protective, yet flexing and comfortable leather that has been fitted with small reinforcing chitin plates.
+
+Created with 8 sq. yards of Textiles and 10 pounds of Chitin.
+
 #### Combat Scout Suit
+A suit of flexing skintight textile onto which metal plates have been riveted, and covered in a second layer of the textile.
+
+Created with 12 sq. yards of Textiles and 20 pounds of Metals.
+
+#### Preventative Suit for Unknown Physical Influence, Gen 1
+#### Preventative Suit for Unknown Physical Influence, Gen 2
 
 ### Medium
-| Name                                                    | AC                                       | AO                          | Cost in sp. |
-| ------------------------------------------------------- | ---------------------------------------- | --------------------------- | ----------- |
-| Chitin Mail                                             | 14+DEX (max 3)                           | [[The Deserts of Tetrimoc]] |             |
-| Pressigen Combat Armor                                  | 18+DEX (max 3), +20 Radiation Protection | [[The Old\|Minyostalma]]    |             |
-| Durandurm Power Plate                                   | 23, DR 5, +150 Radiation Protection      | [[The Old\|Minyostalma]]    |             |
-| Preventative Suit for Unknown Physical Influence, Gen 3 | 15+DEX (max 2), +75 Radiation Protection | [[The Old\|Minyostalma]]                            |             |
+| Name                                                    | AC                                       | AO                          | Cost in sp.    |
+| ------------------------------------------------------- | ---------------------------------------- | --------------------------- | -------------- |
+| Chitin Mail                                             | 14+DEX (max 3)                           | [[The Deserts of Tetrimoc]] | 350.0          |
+| Pressigen Combat Armor                                  | 18+DEX (max 3), +20 Radiation Protection | [[The Old\|Minyostalma]]    | 2.0k           |
+| Durandurm Power Plate                                   | 23, DR 5, +150 Radiation Protection      | [[The Old\|Minyostalma]]    | 6.4k (no sale) |
+| Preventative Suit for Unknown Physical Influence, Gen 3 | 15+DEX (max 2), +75 Radiation Protection | [[The Old\|Minyostalma]]    | 3.0k               |
 
-#### Chitinmail
+#### Chitin Mail
 #### Combat Operator Suit
 #### Durandurm Power Plate
+#### Preventative Suit for Unknown Physical Influence, Gen 3
 
 ### Heavy
 | Name         | AC                                 | STR | AO                             | Cost in sp. |
 | ------------ | ---------------------------------- | --- | ------------------------------ | ----------- |
-| Chitin Plate | 16+DEX (max 3)                     | 14  | [[The Deserts of Tetrimoc]]    |             |
-| Tank Plate   | 20, DR 1, +30 Radiation Protection | 18  | [[Dwarven Kingdom Suremantle]] |             |
+| Chitin Plate | 16+DEX (max 3)                     | 14  | [[The Deserts of Tetrimoc]]    | 1.2k        |
+| Tank Plate   | 20, DR 1, +30 Radiation Protection | 18  | [[Dwarven Kingdom Suremantle]] | 3.2k        |
 
+#### Chitin Platemail
 #### Tank Plate
 
 ### Masks
 | Name                                           | AC                       | AO                       | Cost in sp. |
 | ---------------------------------------------- | ------------------------ | ------------------------ | ----------- |
-| Hazardous Environment Facial Protector, Mark 1 | +5 Radiation Protection  | [[The Old\|Minyostalma]] |             |
-| Hazardous Environment Facial Protector, Mark 2 | +15 Radiation Protection | [[The Old\|Minyostalma]] |             |
-| Hazardous Environment Facial Protector, Mark 3 | +35 Radiation Protection | [[The Old\|Minyostalma]] |             |
+| Hazardous Environment Facial Protector, Mark 1 | +5 Radiation Protection  | [[The Old\|Minyostalma]] | 600.0       |
+| Hazardous Environment Facial Protector, Mark 2 | +15 Radiation Protection | [[The Old\|Minyostalma]] | 1.2k        |
+| Hazardous Environment Facial Protector, Mark 3 | +35 Radiation Protection | [[The Old\|Minyostalma]] | 1.8k        |
+
+#### Hazardous Environment Facial Protector, Mark 1
+#### Hazardous Environment Facial Protector, Mark 2
+#### Hazardous Environment Facial Protector, Mark 3

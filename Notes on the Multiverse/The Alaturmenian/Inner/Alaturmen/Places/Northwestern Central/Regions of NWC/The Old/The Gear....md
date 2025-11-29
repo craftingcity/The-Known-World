@@ -106,8 +106,8 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Name                                                             | Type   | Prot.                             | Importers | Cost in AC | Cost in SP |
 | ---------------------------------------------------------------- | ------ | --------------------------------- | --------- | ---------- | ---------- |
 | Hazardous Environment Facial Protector (HEFP), Mark 1            | Face   | +5 R. Protection                  | All       | 3          | 600sp      |
-| Hazardous Environment Facial Protector (HEFP), Mark 2            | Face   | +15 R. Protection                 | All       | 5          | 1000sp     |
-| Hazardous Environment Facial Protector (HEFP), Mark 3            | Face   | +35 R. Protection                 | All       | 8          | 1600sp     |
+| Hazardous Environment Facial Protector (HEFP), Mark 2            | Face   | +15 R. Protection                 | All       | 5          | 1200sp     |
+| Hazardous Environment Facial Protector (HEFP), Mark 3            | Face   | +35 R. Protection                 | All       | 8          | 1800sp     |
 | Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 1 | Light  | 12+DEX, +20 R. Protection         | All       | 8          | 1600sp     |
 | Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 2 | Light  | 13+DEX, +45 R. Protection         | All       | 12         | 2400sp     |
 | Preventative Suit for Unknown Physical Influence (PSUPI), Gen. 3 | Medium | 15+DEX (max 2), +75 R. Protection | All       | 15         | 3000sp     |
