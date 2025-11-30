@@ -859,7 +859,7 @@ Upon ingestion, make a DC (14 + (G * 4)) Constitution Saving Throw. If you succe
 #### Oldshine
 > A harsh clear alcohol comprised of a variety of vegetables that have been mushed, spiced, fermented, and aged.  
 
-Upon ingestion, make a DC (11 + (G * 2)) Constitution Saving Throw. If you succeed, for the next minute, you gain +G to your Strength Modifier, your Wisdom Modifier is reduced by G, and at the beginning of your turn you may set your Temporary Hit Points to (G * 2).
+After digestion, make a DC (11 + (G * 2)) Constitution Saving Throw. If you succeed, for the next minute, you gain +G to your Strength Modifier, your Wisdom Modifier is reduced by G, you gain (G * 2) Radiation Reduction, and at the beginning of your turn you may set your Temporary Hit Points to (G * 2). Otherwise, you are Poisoned for the next minute.
 
 **Ingredients**;
 - XXX
@@ -867,23 +867,23 @@ Upon ingestion, make a DC (11 + (G * 2)) Constitution Saving Throw. If you succe
 #### Good Liquor
 > A refined alcohol, worthy of the brand name it so honorably bears, likely made of a small group of well groomed ingredients.
 
-Upon ingestion, make a DC ()
+After digestion, make a DC (15 + (G * 2)) Constitution Saving Throw. If you succeed, for the next minute, you gain +(G + 3) to your Strength Modifier, your Wisdom Modifier is reduced by (G + 3), you gain (G * 5) Radiation Reduction, and at the beginning of your turn you may set your Temporary Hit Points to (G * 3). Otherwise, you are Poisoned and Dazed for the next minute.
 
 **Ingredients**;
 - XXX
 
 #### Liquid Joy
->
+> A rippling yellow liquid. It smells like a memory you hold dear.
 
-Upon ...
+Upon introduction, make a DC (17 + G) Charisma Saving Throw. If you succeed, you remember a nice moment, and feel happy for a moment. Otherwise, you are Stunned for the next G rounds.
 
 **Ingredients**;
 - XXX
 
 #### Liquid Calm
->
+> A seemingly unmoving grey liquid. It smells like a well kept hearth.
 
-Upon ...
+Upon introduction, make a DC (17 + G) Charisma Saving Throw. If you succeed, you 
 
 **Ingredients**;
 - XXX
