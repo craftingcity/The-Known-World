@@ -998,13 +998,13 @@ When toggled within relative darkness, you gain +8 to investigate bodily substan
 #### Lightswitch
 > A small black crystal that absorbs and ceases any light it can find. Typically stored in a toggleable metal cylinder.
 
-When toggled within bright or dim light emitted by a "non-natural" source, the object creating the light it is within ceases to create that light.
+When toggled within bright or dim light emitted by a "non-natural" source, that source is extinguished or otherwise disabled and ceases to create that light.
 
 **Ingredients**;
 - XXX
 
 #### Purity Lens
->
+> A thin tinted-white cut of crystal used by medical professionals to identify 
 
 ...
 
