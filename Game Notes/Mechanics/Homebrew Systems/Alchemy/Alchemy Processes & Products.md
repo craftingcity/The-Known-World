@@ -980,25 +980,25 @@ When lit, the wax begins to burn, and does not stop burning until extinguished.
 - XXX
 
 #### Spellsmoke Wax
-> A translucent purple wax that 
+> A translucent purple wax that burns into thick stinky smoke that glimmers and shines in the air.
 
-...
+When lit, for the next (G + 3) rounds, the wax produces a (G * 5') radius of smoke. While the smoke stays in the air, the area within the radius is an *antimagic field*. The smoke is dismissed by strong winds.
 
 **Ingredients**;
 - XXX
 
 #### Violet Emitter
->
+> A small purple crystal that emits a beam of deep purple light. Typically stored in a toggleable metal cylinder.
 
-...
+When used within relative darkness, you gain +8 to investigate bodily substances or diseases that are immediately in front of you.
 
 **Ingredients**;
 - XXX
 
 #### Lightswitch
->
+> A small black crystal that absorbs and ceases any light it can find. Typically stored in a toggleable metal cylinder.
 
-...
+When 
 
 **Ingredients**;
 - XXX
