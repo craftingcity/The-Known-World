@@ -990,7 +990,7 @@ When lit, for the next (G + 3) rounds, the wax produces a (G * 5') radius of smo
 #### Violet Emitter
 > A small purple crystal that emits a beam of deep purple light. Typically stored in a toggleable metal cylinder.
 
-When used within relative darkness, you gain +8 to investigate bodily substances or diseases that are immediately in front of you.
+When toggled within relative darkness, you gain +8 to investigate bodily substances or diseases that are immediately in front of you.
 
 **Ingredients**;
 - XXX
@@ -998,7 +998,7 @@ When used within relative darkness, you gain +8 to investigate bodily substances
 #### Lightswitch
 > A small black crystal that absorbs and ceases any light it can find. Typically stored in a toggleable metal cylinder.
 
-When 
+When toggled within bright or dim light emitted by a "non-natural" source, the object creating the light it is within ceases to create that light.
 
 **Ingredients**;
 - XXX
