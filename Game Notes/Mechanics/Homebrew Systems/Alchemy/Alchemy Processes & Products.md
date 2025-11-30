@@ -857,17 +857,17 @@ Upon inhalation, make a DC (13 + (G * 3)) Constitution Saving Throw. If you succ
 Upon ingestion, make a DC (14 + (G * 4)) Constitution Saving Throw. If you succeed, you gain +(G * 2) to your Spellcasting Ability Modifier for the next minute. Otherwise, you are Poisoned and Dazed for the next minute.
 
 #### Oldshine
->
+> A harsh clear alcohol comprised of a variety of vegetables that have been mushed, spiced, fermented, and aged.  
 
-Upon ...
+Upon ingestion, make a DC (11 + (G * 2)) Constitution Saving Throw. If you succeed, for the next minute, you gain +G to your Strength Modifier, your Wisdom Modifier is reduced by G, and at the beginning of your turn you may set your Temporary Hit Points to (G * 2).
 
 **Ingredients**;
 - XXX
 
 #### Good Liquor
->
+> A refined alcohol, worthy of the brand name it so honorably bears, likely made of a small group of well groomed ingredients.
 
-Upon ...
+Upon ingestion, make a DC ()
 
 **Ingredients**;
 - XXX
