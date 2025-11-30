@@ -184,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Radiation Reduction\"",
+                "query": "\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

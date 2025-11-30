@@ -946,39 +946,41 @@ Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, you g
 | Precounter Charm             |          |               |                   |
 
 #### Liquid Light / Flashpellets
-> A white brightly glowing liquid most commonly used and known as 'Flashpellets', hollow glass beads filled with Liquid Light and thrown or fired as a momentar
+> A white brightly glowing liquid most commonly used and known as 'Flashpellets', hollow glass beads filled with Liquid Light and thrown or fired as a momentary discombobulating flash of light.
 
-...
+While displayed, the liquid creates a radius of bright light for (G * 5)', and dim light for another (G * 5)'.
+
+When shattered, creatures within (G * 10)' make a DC (13 + G) Dexterity Saving Throw. If they fail, they are Blinded for the next G rounds.
 
 **Ingredients**;
 - XXX
 
 #### Suregrip
->
+> A coarse grey powder used by athletes and daredevils to maintain a 'sure grip' on whatever they hold.
 
-...
+When applied, for the next G rounds, you have Advantage on holding onto things.
 
 **Ingredients**;
 - XXX
 
 #### Alchemical Explosive
->
+> A creamy white dough-like solid that violently explodes when agitated, inflamed, or otherwise magically activated.
 
-...
+When activated, the substance explodes into a (G * 15') radius sphere that deals (G * (3d8 + 5)) force damage to each creature, object, and structure within the radius.
 
 **Ingredients**;
 - XXX
 
 #### Everlight Wax
->
+> A translucent brown wax that burns cleanly and continually.
 
-...
+When lit, the wax begins to burn, and does not stop burning until extinguished.
 
 **Ingredients**;
 - XXX
 
 #### Spellsmoke Wax
->
+> A translucent purple wax that 
 
 ...
 
