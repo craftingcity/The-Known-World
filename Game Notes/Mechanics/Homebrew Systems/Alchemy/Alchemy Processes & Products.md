@@ -1004,23 +1004,23 @@ When toggled within bright or dim light emitted by a "non-natural" source, that 
 - XXX
 
 #### Purity Lens
-> A thin tinted-white cut of crystal used by medical professionals to identify 
+> A thin tinted-white cut of crystal most commonly used by the Ranger's Guild to identify an entity's extraplanar connections, if they exist.
 
-...
+While viewing a creature through the Purity Lens, a series of colorful orbs can be seen surrounding the creature. These orbs represent the entities that have claimed part of the target's Faith. The orb grows in size alongside the size of the claim.
 
 **Ingredients**;
 - XXX
 
 #### Auspex Lens
->
+> A thin tinted-red cut of crystal most commonly used by arcane practitioners and alchemists to identify an object's connection or effect on the Weave.
 
-...
+While viewing an object through the Auspex Lens, a description of the object and it's magical effects, if any, appear upon the surface of the lens. The description is as truthful and informed as it can be.
 
 **Ingredients**;
 - XXX
 
 #### Precounter Charm
->
+> A small blue 
 
 ...
 
