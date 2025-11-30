@@ -633,24 +633,24 @@ Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving 
 
 ### Medicines
 
-| Name (Source)         | Mechanic                    | Cost @ Market | Regions Producing |
-| --------------------- | --------------------------- | ------------- | ----------------- |
-| Druid's Dust          | Expend Hit Dice as Temp. HP |               |                   |
-| Nalasculas            |                             |               |                   |
-| Generalized Antivenom |                             |               |                   |
-| Aerotide              |                             |               |                   |
-| Ambebamol             |                             |               |                   |
-| Amorphia              |                             |               |                   |
-| Pretokarin            |                             |               |                   |
-| Scar Balm             |                             |               |                   |
-| Bone Balm             |                             |               |                   |
-| Heamox Balm           |                             |               |                   |
-| Isiopara              |                             |               |                   |
-| Secreculde Propaterol |                             |               |                   |
-| Seeker Symbiote       |                             |               |                   |
-| Cognitive Driver      |                             |               |                   |
-| Immuno-Secundus       |                             |               |                   |
-| Elysian Petal         |                             |               |                   |
+| Name (Source)         | Mechanic                                    | Cost @ Market           | Regions Producing |
+| --------------------- | ------------------------------------------- | ----------------------- | ----------------- |
+| Druid's Dust          | Expend Hit Dice as Temp. HP                 | 4.5sp * Grade / ounce   |                   |
+| Nalasculas            | Prevent 'Petrified'                         | 175.0sp * Grade / ounce |                   |
+| Generalized Antivenom | Prevent 'Poisoned', gain Poison DR          | 45.0sp * Grade / potion |                   |
+| Aerotide              | Prevent Suffocation                         | 50.0sp * Grade / ounce  |                   |
+| Ambebamol             | Gain Rad. Protection                        | 15.0sp * Grade / ounce  |                   |
+| Amorphia              | Prevent polymorphing or animorphing         |                         |                   |
+| Pretokarin            | Resolve Poison                              |                         |                   |
+| Scar Balm             | Resolve Lingering Injury (Scar/Blister)     |                         |                   |
+| Bone Balm             | Resolve Lingering Injury (Broken/Bruised)   |                         |                   |
+| Heamox Balm           | Resolve Lingering Injury (Sup./Major)       |                         |                   |
+| Isiopara              | Regain HP / Gain STR/DEX                    |                         |                   |
+| Secreculde Propaterol | Regain HP                                   |                         |                   |
+| Seeker Symbiote       | -HP, gain Acid, Poison, Necrotic DR         |                         |                   |
+| Cognitive Driver      | -HP, charge vs Frightened, Charmed, Command |                         |                   |
+| Immuno-Secundus       | -HP, charge vs Poisoned, Petrified, Disease |                         |                   |
+| Elysian Petal         | Gain Max. HP, regain HP                     |                         |                   |
 
 #### Druid's Dust
 > A coarse brown powder reminiscent in smell of compost and rotting fruit that acts as a local anesthetic. Typically, Druid's Dust is applied as minor ache or pain relief, but it sees use during combat as a temporary measure while proper medical care cannot be accessed.
@@ -704,7 +704,7 @@ Upon introduction, you are no longer Suffocating, and you have (CON * G) rounds 
 #### Ambebamol
 > A yellow-green powder that when ingested, provides protection against the hidden threat known as 'Radiation' by preparing the body for it's attacks.
 
-Upon introduction, for the next (G * 5) minutes, you gain +6 Radiation Protection.
+Upon introduction, for the next (G * 5) minutes, you gain +(G * 3) Radiation Protection.
 
 **Ingredients**;
 - 8 ounces Fang of Wurm (96.0sp)
