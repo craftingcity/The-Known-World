@@ -173,7 +173,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Eye of Cancer       | eye   | A grotesque rippled eye harvested from one of the Old's Cancers.                   | 0.5        | 100sp      |
 | Hide of Cancer      | hide  | A large bulging strip of peachfuzzed hide harvested from one of the Old's Cancers. |            |            |
 | Claw of Demon       | leg   | A dagger-sharp claw harvested from one of the Old's Demons.                        |            |            |
-| Tooth of Demon      | tooth | A curved                                                                                    |            |            |
+| Tooth of Demon      | tooth | A curved                                                                           |            |            |
 | Hide of Demon       | hide  |                                                                                    |            |            |
 | Claw of Freak       | leg   |                                                                                    |            |            |
 | Head of Freak       | head  |                                                                                    |            |            |

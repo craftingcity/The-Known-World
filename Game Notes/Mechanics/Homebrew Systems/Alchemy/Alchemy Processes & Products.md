@@ -633,24 +633,24 @@ Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving 
 
 ### Medicines
 
-| Name (Source)         | Mechanic | Cost @ Market | Regions Producing |
-| --------------------- | -------- | ------------- | ----------------- |
-| Druid's Dust          |          |               |                   |
-| Nalasculas            |          |               |                   |
-| Generalized Antivenom |          |               |                   |
-| Aerotide              |          |               |                   |
-| Ambebamol             |          |               |                   |
-| Amorphia              |          |               |                   |
-| Pretokarin            |          |               |                   |
-| Scar Balm             |          |               |                   |
-| Bone Balm             |          |               |                   |
-| Heamox Balm           |          |               |                   |
-| Isiopara              |          |               |                   |
-| Secreculde Propaterol |          |               |                   |
-| Seeker Symbiote       |          |               |                   |
-| Cognitive Driver      |          |               |                   |
-| Immuno-Secundus       |          |               |                   |
-| Elysian Petal         |          |               |                   |
+| Name (Source)         | Mechanic                    | Cost @ Market | Regions Producing |
+| --------------------- | --------------------------- | ------------- | ----------------- |
+| Druid's Dust          | Expend Hit Dice as Temp. HP |               |                   |
+| Nalasculas            |                             |               |                   |
+| Generalized Antivenom |                             |               |                   |
+| Aerotide              |                             |               |                   |
+| Ambebamol             |                             |               |                   |
+| Amorphia              |                             |               |                   |
+| Pretokarin            |                             |               |                   |
+| Scar Balm             |                             |               |                   |
+| Bone Balm             |                             |               |                   |
+| Heamox Balm           |                             |               |                   |
+| Isiopara              |                             |               |                   |
+| Secreculde Propaterol |                             |               |                   |
+| Seeker Symbiote       |                             |               |                   |
+| Cognitive Driver      |                             |               |                   |
+| Immuno-Secundus       |                             |               |                   |
+| Elysian Petal         |                             |               |                   |
 
 #### Druid's Dust
 > A coarse brown powder reminiscent in smell of compost and rotting fruit that acts as a local anesthetic. Typically, Druid's Dust is applied as minor ache or pain relief, but it sees use during combat as a temporary measure while proper medical care cannot be accessed.
@@ -825,7 +825,7 @@ Upon invocation, the Petal is consumed, and you and up to 11 other creatures of 
 #### Dareanamon
 > A stinking grey crystal. Inhaled as a powder or injected as liquid, Dareanamon quickly distances it's user from their bodily experience. Very addictive, and overdosage most often results in cardiac arrest and death.
 
-Upon inhalation or injection, make a DC (10 + (G * 3)) Constitution Saving Throw. If you succeed, you gain +(G * 2) to your Strength and Dexterity Modifiers for the next minute. Otherwise, you are Poisoned and Paralyzed for the next minute.
+Upon inhalation or injection, make a DC (12 + (G * 3)) Constitution Saving Throw. If you succeed, you gain +(G * 2) to your Strength and Dexterity Modifiers for the next minute. Otherwise, you are Poisoned and Paralyzed for the next minute.
 
 **Ingredients**;
 - XXX
@@ -833,7 +833,7 @@ Upon inhalation or injection, make a DC (10 + (G * 3)) Constitution Saving Throw
 #### Nova
 > A fine light-pink powder derived from Dareanamon. When inhaled, Nova pushes the body to an extreme, pushing adrenaline throughout the body and destroying any sense of inhibition. Addiction and overdose is common and deadly.
 
-Upon inhalation, make a DC (10 + (G + 2)) Constitution Saving Throw. If you succeed, your speed increases by 5', your AC increases by (G - 2) or 1, whichever is greater, and you gain +G to hit on Ranged Attacks for the next minute. Otherwise, you are Poisoned and Paralyzed for the next minute.
+Upon inhalation, make a DC (14 + (G * 2)) Constitution Saving Throw. If you succeed, your speed increases by 5', your AC increases by (G - 2) or 1, whichever is greater, and you gain +G to hit on Ranged Attacks for the next minute. Otherwise, you are Poisoned and Paralyzed for the next minute.
 
 **Ingredients**;
 - XXX
@@ -841,30 +841,36 @@ Upon inhalation, make a DC (10 + (G + 2)) Constitution Saving Throw. If you succ
 #### Smokebulb
 > A brown mushroom spotted in pink growths. When inhaling the smoke produced by burning the mushroom, users report a near instant sense of calm, and within minutes, otherworldly visions. Addiction is common, and overdosage will likely lead to permanent mental damage. 
 
-Upon inhalation, make a DC (10 + (G * 2)) Constitution Saving Throw. If you succeed, you gain Truesight and Blindsight at ((G + 1) * 5) feet for the next 10 minutes. Otherwise, your Wisdom and Charisma Modifiers are reduced by G for the next 10 minutes.
+Upon inhalation, make a DC (14 + (G * 2)) Constitution Saving Throw. If you succeed, you gain Truesight and Blindsight at ((G + 1) * 5) feet for the next 10 minutes. Otherwise, your Wisdom and Charisma Modifiers are reduced by G for the next 10 minutes.
 
 #### Bulbkiss
-> A sickly brown powder derived from Smokebulb. When inhaled, users report instant euphoria, energy, and confidence in themselves. Addiction is common, and overdose can be deadly alone, but will likely always result in the user persuing some actions that result in their death.
+> A sickly brown powder derived from Smokebulb. When inhaled, users report instant euphoria, energy, and confidence in themselves. Addiction is common, and overdose can be deadly alone, but will likely always result in the user pursuing some actions that result in their death.
 
-Upon ...
+Upon inhalation, make a DC (13 + (G * 3)) Constitution Saving Throw. If you succeed, you gain +G to your Intelligence, Wisdom, and Charisma Modifiers for the next minute. Otherwise, you are Poisoned and under the effects of the *confusion* spell for the next minute.
 
 **Ingredients**;
 - XXX
 
 #### Lephora Essence
->
+> A light yellow liquid derived from Lephora Fruit. When ingested, users immediately display euphoria and intense dedication. Consistently, users claim to feel "connected to the whole world". Addiction is nearly unavoidable, although overdosage seems to have little to no ill-effects.
 
-Upon ...
+Upon ingestion, make a DC (14 + (G * 4)) Constitution Saving Throw. If you succeed, you gain +(G * 2) to your Spellcasting Ability Modifier for the next minute. Otherwise, you are Poisoned and Dazed for the next minute.
 
 #### Oldshine
 >
 
 Upon ...
 
+**Ingredients**;
+- XXX
+
 #### Good Liquor
 >
 
 Upon ...
+
+**Ingredients**;
+- XXX
 
 #### Liquid Joy
 >
@@ -1248,7 +1254,7 @@ An outer essence of timelessness.
 	- > 1 ounce Essence of Timelessness (6.0k sp / ounce)
 
 #### Essence of Dragon
-An outer essence of draconics.
+An outer essence of power, greed, and arcana.
 
 **Ingredients**;
 - 320 ounces Chitin of Wurm (1600.00sp)
