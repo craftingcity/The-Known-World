@@ -757,7 +757,7 @@ Upon introduction, you regain 1d6 Hit Points and a Hit Die. Then, choose a "Supe
 
 Upon application, immediately and at the beginning of your turn for the next (G - 1) rounds, you regain (G * (1d4+1)) Hit Points.
 
-Upon inhalation, make a Constitution Saving Throw. If the result is (10 + (G * 3)) or higher, you gain +G to your Strength and Dexterity Modifiers for the next minute. Otherwise, your Strength and Dexterity Modifiers are reduced by (G * 2), and you are Dazed for the next minute.
+Upon inhalation, make a DC (10 + (G * 3)) Constitution Saving Throw. If you succeed, you gain +G to your Strength and Dexterity Modifiers for the next minute. Otherwise, your Strength and Dexterity Modifiers are reduced by (G * 2), and you are Dazed for the next minute.
 
 **Ingredients**;
 - XXX
@@ -807,10 +807,13 @@ Upon invocation, the Petal is consumed, and you and up to 11 other creatures of 
 
 | Name (Source)   | Mechanic | Cost @ Market | Regions Producing |
 | --------------- | -------- | ------------- | ----------------- |
-| Glimmer         |          |               |                   |
 | Dareanamon      |          |               |                   |
-| Bulbkiss        |          |               |                   |
 | Nova            |          |               |                   |
+| Smokebulb       |          |               |                   |
+| Bulbkiss        |          |               |                   |
+| Lephora Essence |          |               |                   |
+| Oldshine        |          |               |                   |
+| Good Liquor     |          |               |                   |
 | Liquid Joy      |          |               |                   |
 | Liquid Calm     |          |               |                   |
 | Liquid Fear     |          |               |                   |
@@ -819,21 +822,26 @@ Upon invocation, the Petal is consumed, and you and up to 11 other creatures of 
 | Liquid Love     |          |               |                   |
 | Liquid Potentia |          |               |                   |
 
-#### Glimmer
-> A beautiful iridescent powder stimulant. Reserved for only the most wealthy consumers. Users describe seeing colors in the air, and feeling protected and comfortable wherever they are.
+#### Dareanamon
+> A stinking grey crystal. Inhaled as a powder or injected as liquid, Dareanamon quickly distances it's user from their bodily experience. Very addictive, and overdosage most often results in cardiac arrest and death.
 
-Upon inhalation, make a Constitution Saving Throw. If the result is (10 + (G * 2)) or higher, for the next minute, when you are next targeted exclusively by a spell, you cast *counterspell* using your Constitution Modifier as your spellcasting ability. Otherwise, you are Stunned for the next minute.
+Upon inhalation or injection, make a DC (10 + (G * 3)) Constitution Saving Throw. If you succeed, you gain +(G * 2) to your Strength and Dexterity Modifiers for the next minute. Otherwise, you are Poisoned and Paralyzed for the next minute.
 
 **Ingredients**;
 - XXX
 
-#### Dareanamon
+#### Nova
 >
 
 Upon ...
 
 **Ingredients**;
 - XXX
+
+#### Smokebulb
+>
+
+Upon ...
 
 #### Bulbkiss
 >
@@ -843,14 +851,77 @@ Upon ...
 **Ingredients**;
 - XXX
 
-#### Nova
+#### Lephora Essence
+>
+
+Upon ...
+
+#### Oldshine
+>
+
+Upon ...
+
+#### Good Liquor
+>
+
+Upon ...
+
 #### Liquid Joy
+>
+
+Upon ...
+
+**Ingredients**;
+- XXX
+
 #### Liquid Calm
+>
+
+Upon ...
+
+**Ingredients**;
+- XXX
+
 #### Liquid Fear
+>
+
+Upon ...
+
+**Ingredients**;
+- XXX
+
 #### Liquid Rage
+>
+
+Upon ...
+
+**Ingredients**;
+- XXX
+
 #### Liquid Greed
+>
+
+Upon ...
+
+**Ingredients**;
+- XXX
+
 #### Liquid Love
+>
+
+Upon ...
+
+**Ingredients**;
+- XXX
+
 #### Liquid Potentia
+>
+
+Upon ...
+
+**Ingredients**;
+- XXX
+
 
 ## Equipment
 ### Adventuring
