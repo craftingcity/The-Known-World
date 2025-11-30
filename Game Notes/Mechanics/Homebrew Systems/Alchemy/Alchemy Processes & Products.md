@@ -831,20 +831,20 @@ Upon inhalation or injection, make a DC (10 + (G * 3)) Constitution Saving Throw
 - XXX
 
 #### Nova
-> A fine light-pink powder derived from Dareanamon. When inhaled, Nova pushes the body to an extreme, pushing adrenaline throughout the body and destroying any sense of inhibition. Addiction and overdose is common.
+> A fine light-pink powder derived from Dareanamon. When inhaled, Nova pushes the body to an extreme, pushing adrenaline throughout the body and destroying any sense of inhibition. Addiction and overdose is common and deadly.
 
-Upon inhalation, make a DC (10 + (G + 2)) Constitution Saving Throw. If you succeed, your speed increases by 5', your AC increases by (G - 2) or 1, whichever is greater, and you gain +G to hit on Ranged Attacks for the next minute. Otherwise, you are Poisoned and Paral
+Upon inhalation, make a DC (10 + (G + 2)) Constitution Saving Throw. If you succeed, your speed increases by 5', your AC increases by (G - 2) or 1, whichever is greater, and you gain +G to hit on Ranged Attacks for the next minute. Otherwise, you are Poisoned and Paralyzed for the next minute.
 
 **Ingredients**;
 - XXX
 
 #### Smokebulb
->
+> A brown mushroom spotted in pink growths. When inhaling the smoke produced by burning the mushroom, users report a near instant sense of calm, and within minutes, otherworldly visions. Addiction is common, and overdosage will likely lead to permanent mental damage. 
 
-Upon ...
+Upon inhalation, make a DC (10 + (G * 2)) Constitution Saving Throw. If you succeed, you gain Truesight and Blindsight at ((G + 1) * 5) feet for the next 10 minutes. Otherwise, your Wisdom and Charisma Modifiers are reduced by G for the next 10 minutes.
 
 #### Bulbkiss
->
+> A sickly brown powder derived from Smokebulb. When inhaled, users report instant euphoria, energy, and confidence in themselves. Addiction is common, and overdose can be deadly alone, but will likely always result in the user persuing some actions that result in their death.
 
 Upon ...
 
