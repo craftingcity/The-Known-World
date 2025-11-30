@@ -1020,7 +1020,7 @@ While viewing an object through the Auspex Lens, a description of the object and
 - XXX
 
 #### Precounter Charm
-> A small blue 
+> A small blue pin or button
 
 ...
 
