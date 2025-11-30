@@ -883,39 +883,39 @@ Upon introduction, make a DC (17 + G) Charisma Saving Throw. If you succeed, you
 #### Liquid Calm
 > A seemingly unmoving grey liquid. It smells like a well kept hearth.
 
-Upon introduction, make a DC (17 + G) Charisma Saving Throw. If you succeed, you 
+Upon introduction, make a DC (17 + G) Charisma Saving Throw. If you succeed, you reasonably evaluate your situation, and feel peace and understanding. Otherwise, you are Dazed for the next G rounds.
 
 **Ingredients**;
 - XXX
 
 #### Liquid Fear
->
+> A horrifyingly dark liquid. It smells like the monster at the edge of the campfire.
 
-Upon ...
+Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, you acknowledge the danger of your situation, and continue to persevere. Otherwise, you are Frightened by hostiles you can see or hear for the next G rounds.
 
 **Ingredients**;
 - XXX
 
 #### Liquid Rage
->
+> A violently roiling red liquid. It smells like sweat, blood, and tears.
 
-Upon ...
+Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, that kinda sucked, but you shrug it off. Otherwise, you spend the next G rounds actively attempting to kill the nearest creature, even if they are your Ally.
 
 **Ingredients**;
 - XXX
 
 #### Liquid Greed
->
+> A slick blueish liquid. It smells like finally rising above.
 
-Upon ...
+Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, you know what you want right now, but you understand now might not be the time, and here might not be the place. Otherwise, you spend the next G rounds taking and keeping the shiniest things you see.
 
 **Ingredients**;
 - XXX
 
 #### Liquid Love
->
+> An enticing pinkish red liquid. It smells like your first time.
 
-Upon ...
+Upon introduction, make a DC (17 + G) Wisdom Saving 
 
 **Ingredients**;
 - XXX
