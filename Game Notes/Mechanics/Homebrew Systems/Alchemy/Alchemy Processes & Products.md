@@ -1006,7 +1006,7 @@ When toggled within bright or dim light emitted by a "non-natural" source, that 
 #### Purity Lens
 > A thin tinted-white cut of crystal most commonly used by the Ranger's Guild to identify an entity's extraplanar connections, if they exist.
 
-While viewing a creature through the Purity Lens, a series of colorful orbs can be seen surrounding the creature. These orbs represent the entities that have claimed part of the target's Faith. The orb grows in size alongside the size of the claim.
+While viewing a creature through the Purity Lens, a series of colorful orbs can be seen surrounding the creature. These orbs represent the entities that have claimed part of the target's Faith. The orb's size represents the size of the entity's claim.
 
 **Ingredients**;
 - XXX
@@ -1020,9 +1020,9 @@ While viewing an object through the Auspex Lens, a description of the object and
 - XXX
 
 #### Precounter Charm
-> A small blue pin or button
+> A small purple crystal pin or button that shatters and bursts into a thin mist when exposed to significant disturbance in the Weave. 
 
-...
+While you are wearing the Charm, when you are next exclusively targeted by a spell, the Charm shatters and casts *counterspell* using your Wisdom as it's Spellcasting Ability.
 
 **Ingredients**;
 - XXX
@@ -1041,7 +1041,7 @@ While viewing an object through the Auspex Lens, a description of the object and
 | Spell Gem        |          |               |                   |
 
 #### Soma Gel
->
+> A thick orange waxy gel used to prepare materials for Patch Inscription. A common supply of any tinker or enchanter.
 
 ...
 
