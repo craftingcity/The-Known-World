@@ -831,9 +831,9 @@ Upon inhalation or injection, make a DC (10 + (G * 3)) Constitution Saving Throw
 - XXX
 
 #### Nova
->
+> A fine light-pink powder derived from Dareanamon. When inhaled, Nova pushes the body to an extreme, pushing adrenaline throughout the body and destroying any sense of inhibition. Addiction and overdose is common.
 
-Upon ...
+Upon inhalation, make a DC (10 + (G + 2)) Constitution Saving Throw. If you succeed, your speed increases by 5', your AC increases by (G - 2) or 1, whichever is greater, and you gain +G to hit on Ranged Attacks for the next minute. Otherwise, you are Poisoned and Paral
 
 **Ingredients**;
 - XXX
