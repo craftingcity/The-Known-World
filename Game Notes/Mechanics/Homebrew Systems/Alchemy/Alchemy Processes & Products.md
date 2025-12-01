@@ -1059,13 +1059,15 @@ While applied to a creature or object, the next spell that exclusively targets t
 #### Animan's Tears
 > A transparent light-blue liquid composed of loose 'Weave Potentia'. Most commonly used as a volatile alternative to Durandurm for supplying energy to modern Arcanotech devices.
 
-...
+When a creature that can cast spells and has used a spell slot of 4th level or lower interacts with the liquid, they regain the lowest level slot they have expended.
+
+When used in the process of Inscribing a Patch onto an item or object to enchant it, the Patch Power is increased by 1.
 
 **Ingredients**;
 - XXX
 
 #### Enchanter's Ink
->
+> A thick iridescent ink used by arcanists to write scrolls and inscribe Patches.
 
 ...
 
