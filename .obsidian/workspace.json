@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e015841386c50fa",
+        "id": "7bbd06173ea1c74f",
         "type": "tabs",
         "children": [
           {
-            "id": "e150d5d074b39aa1",
+            "id": "52cab513193068d2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,74 +22,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+                "file": "Prenotes Nov 19 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Alchemy Processes & Products"
-            }
-          },
-          {
-            "id": "4233b40f2cbed85a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Weapons of Alaturmen"
-            }
-          },
-          {
-            "id": "c31e0d24ca35824b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "The Old",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Old\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Armors of Alaturmen"
+              "title": "Prenotes Nov 19 25"
             }
           }
         ]
       },
       {
-        "id": "d3b5bee978c18bf7",
+        "id": "5f9cdc784e0e2689",
         "type": "tabs",
         "children": [
           {
-            "id": "5c5c4fc0c9c7c655",
+            "id": "7f9f17443ded1591",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -103,35 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
+                "file": "Prenotes Dec 01 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Alchemical Components"
-            }
-          },
-          {
-            "id": "6613d8007394f74b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Major Agricultural Harvests"
+              "title": "Prenotes Dec 01 25"
             }
           }
         ]
@@ -408,13 +333,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17bba7903284a409",
+  "active": "7f9f17443ded1591",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
+    "Prenotes Nov 19 25.md",
+    "GavinEmily Game.md",
+    "Prenotes Dec 01 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
@@ -422,8 +350,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
-    "Prenotes Nov 19 25.md",
-    "GavinEmily Game.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/South Littemotto.md",
     "Junie's Characters/Tiana Turing.md",
@@ -436,7 +362,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Valim.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Nyrk.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Fen.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
