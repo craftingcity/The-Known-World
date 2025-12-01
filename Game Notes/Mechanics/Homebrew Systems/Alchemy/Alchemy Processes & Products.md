@@ -1041,23 +1041,23 @@ While you are wearing the Charm, when you are next exclusively targeted by a spe
 | Spell Gem        |          |               |                   |
 
 #### Soma Gel
-> A thick orange waxy gel used to prepare materials for Patch Inscription. A common supply of any tinker or enchanter.
+> A thick orange wax used to prepare materials for Patch Inscription. A common supply of any tinker or enchanter.
 
-...
+When used in the process of Inscribing a Patch onto an item or object to enchant it, the Patch's Power is increased by 1.
 
 **Ingredients**;
 - XXX
 
 #### Kylao Gel
->
+> A greenish blue wax used to amplify the effects of a spell on a creature or object.
 
-...
+While applied to a creature or object, the next spell that exclusively targets that creature or object is cast as if it's spell level was doubled.
 
 **Ingredients**;
 - XXX
 
 #### Animan's Tears
->
+> A transparent light-blue liquid comprised of . 
 
 ...
 
