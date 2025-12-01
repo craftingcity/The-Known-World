@@ -1057,7 +1057,7 @@ While applied to a creature or object, the next spell that exclusively targets t
 - XXX
 
 #### Animan's Tears
-> A transparent light-blue liquid comprised of . 
+> A transparent light-blue liquid composed of loose 'Weave Potentia'. Most commonly used as a volatile alternative to Durandurm for supplying energy to modern Arcanotech devices.
 
 ...
 
