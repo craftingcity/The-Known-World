@@ -29,7 +29,7 @@ Created with 8 sq. yards of Textiles and 10 pounds of Metal.
 | Chain Shirt | 13+DEX (max 2) | 45.0+       |
 | Scale Mail  | 14+DEX (max 2) | 125.0       |
 | Breastplate | 14+DEX (max 2) | 60.0+       |
-| Halfplate   | 15+DEX (max 2) | 200.0       |
+| Halfplate   | 15+DEX (max 2) | 500.0       |
 
 #### Hide
 A suit of padded armor that covers the full body in heavy natural furs and hides.

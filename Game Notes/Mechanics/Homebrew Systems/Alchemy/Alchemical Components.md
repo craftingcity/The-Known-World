@@ -69,8 +69,8 @@ aliases:
 
 ## Fungi
 
-| Name (Source)    | Motifs            | Cost @ Market | Regions Producing                     |
-| ---------------- | ----------------- | ------------- | ------------------------------------- |
+| Name (Source)    | Motifs            | Cost @ Market     | Regions Producing                     |
+| ---------------- | ----------------- | ----------------- | ------------------------------------- |
 | Polypore, Red    | ARCANA / FIRE     | (2) 3.60 / ounce  | Tetrimoc, Mnt. Hall, Holyl'nd         |
 | Polypore, Blue   | ARCANA / WATER    | (2) 3.50 / ounce  | Prosper, Illburn, Combine             |
 | Polypore, Yellow | ARCANA / EARTH    | (2) 3.55 / ounce  | Prosper, Illburn, Mnt. Hall, Holyl'nd |
