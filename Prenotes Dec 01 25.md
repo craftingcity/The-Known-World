@@ -24,9 +24,10 @@ You four, however, have kept your wits about you. You can make a choice here. Do
 #### To Wychway!
 The people of Wychway need any help they can get. They remain the frontline settlement of Arthurian forces in the Northern Conflicts, and they need people more than anything.
 
-They'll get paid a modest sum of silver (like 45sp each) when they deliver the cart
+They'll get paid a modest sum of silver (like 40sp each) when they deliver the cart, even though little of the goods have survived, and then be dismissed into the city, for the most part. 
 
 #### Retreat!
+Though they may feel guilt, the survivors accept that they have failed, and will return home. 
 
 ### What happened?
 
