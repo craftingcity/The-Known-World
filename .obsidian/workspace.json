@@ -6,6 +6,7 @@
       {
         "id": "7bbd06173ea1c74f",
         "type": "tabs",
+        "dimension": 89.3048128342246,
         "children": [
           {
             "id": "52cab513193068d2",
@@ -29,12 +30,60 @@
               "icon": "lucide-file",
               "title": "Prenotes Nov 19 25"
             }
+          },
+          {
+            "id": "b7cd1a03a62a84ba",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Wychway.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Wychway"
+            }
+          },
+          {
+            "id": "dc9c0c5cd172c991",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Custom Class - Alchemist"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "5f9cdc784e0e2689",
         "type": "tabs",
+        "dimension": 10.695187165775401,
         "children": [
           {
             "id": "7f9f17443ded1591",
@@ -333,11 +382,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f9f17443ded1591",
+  "active": "dc9c0c5cd172c991",
   "lastOpenFiles": [
     "Prenotes Nov 19 25.md",
-    "GavinEmily Game.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Greater Villages & Cities/Wychway.md",
     "Prenotes Dec 01 25.md",
+    "GavinEmily Game.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
@@ -361,7 +411,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Haruuc.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Valim.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Nyrk.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",

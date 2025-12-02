@@ -9,7 +9,7 @@ aliases:
 
 | Level | PB  | Features                                     |
 | ----- | --- | -------------------------------------------- |
-| 1st   | +2  | Expertise I, Reagent Points, Concoct: Elixir |
+| 1st   | +2  | Expertise I, Concoct: Elixir |
 | 2nd   |     | Infuse Trinket                               |
 | 3rd   |     | Mobile Laboratory I                          |
 | 4th   |     | Ability Score Improvement                    |
