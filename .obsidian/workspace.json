@@ -107,6 +107,29 @@
             }
           },
           {
+            "id": "5247ac5dd2ebce84",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Alchemy Processes & Products"
+            }
+          },
+          {
             "id": "b7cd1a03a62a84ba",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -281,8 +304,7 @@
               "title": "Arthur's Prairie"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -556,11 +578,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f49764dccad60353",
+  "active": "7f9f17443ded1591",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Dragons Blood Inn.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Coalition City.md",

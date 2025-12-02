@@ -31,5 +31,6 @@ Though they may feel guilt, the survivors accept that they have failed, and will
 
 ### What happened?
 
+They bought a bunch of stuff, and are heading into Kailkeep.
 
 We leave our heroes on the date of ... AF, as they ...
