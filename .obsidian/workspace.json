@@ -82,8 +82,7 @@
               "title": "Armors of Alaturmen"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "d3b5bee978c18bf7",
@@ -431,10 +430,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c31e0d24ca35824b",
+  "active": "e150d5d074b39aa1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+    "conflict-files-obsidian-git.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "Prenotes Dec 01 25.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
