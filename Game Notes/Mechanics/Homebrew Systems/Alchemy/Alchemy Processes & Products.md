@@ -719,7 +719,11 @@ Upon introduction, for the next (G * 5) minutes, you gain +(G * 3) Radiation Pro
 After digestion, for the next hour, your body cannot be magically or naturally changed wholly into, or into the shape of, any other body or animal, real or imagined.
 
 **Ingredients**;
-- XXX
+- 60 ounces Salt (3.00sp)
+- 40 ounces Lavender (16.00sp)
+- 32 ounces Fang of Wurm (384.0sp)
+- 1 pound Adamantine (450.0sp)
+	- 4 ounces Amorphia (850.0sp) > (275.0sp / ounce)
 
 #### Pretokarin
 > A thin, bitter orange liquid commonly used across the world as a forceful treatment of digestive ailments.
@@ -727,7 +731,11 @@ After digestion, for the next hour, your body cannot be magically or naturally c
 Upon introduction, you immediately resolve the 'Poisoned' Condition.
 
 **Ingredients**;
-- XXX
+- 12 ounces Dried Garlic (2.40sp)
+- 12 ounces Lavender (4.80sp)
+- 4 ounces Honey (0.60sp)
+- 4 ounces Aloe Vera (50.60sp)
+	- 8 ounces Pretokarin (65.0sp) > (10.0sp / ounce)
 
 #### Scar Balm
 > A thick white balm used to reduce any pain or inflammation present on a healing or healed scar. Most commonly used by soldiers and adventurers to aid and quicken their recovery.
@@ -735,14 +743,23 @@ Upon introduction, you immediately resolve the 'Poisoned' Condition.
 Upon introduction, you regain a Hit Point. Then, choose a "Scar" or "Blister" Lingering Injury. When you next gain the benefits of a Long Rest, you resolve that Lingering Injury.
 
 **Ingredients**;
-- XXX
+- 16 ounces Birch Bark (64.0sp)
+- 8 pounds Alum (3.60sp)
+- 32 ounces Honey (4.80sp)
+- 8 ounces Aloe Vera (101.2sp)
+	- 64 ounces Scar Balm (175.0sp) > (12.0sp / 4oz balm)
 
 #### Bone Balm
 > A thick blue balm used to set and repair broken or cracked bones. Most commonly used by soldiers and adventurers to aid and quicken their recovery.
 
 Upon introduction, you regain 1d4 Hit Points. Then, choose a "Broken" or "Bruised" Lingering Injury. When you next gain the benefits of a Long Rest, you resolve that Lingering Injury.
+
 **Ingredients**;
-- XXX
+- 32 ounces Birch Bark (128.0sp)
+- 8 pounds Alum (3.60sp)
+- 32 ounces Honey (4.80sp)
+- 16 ounces Aloe Vera (202.4sp)
+- 
 
 #### Heamox Balm
 > A thick red balm used as an anesthetic, antibacterial, and coagulant. A staple wound stabilizer in any proficient medic's kit.
