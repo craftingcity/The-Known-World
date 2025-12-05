@@ -759,7 +759,9 @@ Upon introduction, you regain 1d4 Hit Points. Then, choose a "Broken" or "Bruise
 - 8 pounds Alum (3.60sp)
 - 32 ounces Honey (4.80sp)
 - 16 ounces Aloe Vera (202.4sp)
-- 
+- 4 gallons Blood (4.00sp)
+- 8 pounds Bone (28.0sp)
+	- 80 ounces Bone Balm (375.0sp) > (20.0sp / 4oz balm)
 
 #### Heamox Balm
 > A thick red balm used as an anesthetic, antibacterial, and coagulant. A staple wound stabilizer in any proficient medic's kit.
@@ -767,7 +769,13 @@ Upon introduction, you regain 1d4 Hit Points. Then, choose a "Broken" or "Bruise
 Upon introduction, you regain 1d6 Hit Points and a Hit Die. Then, choose a "Superficial" or "Major" Lingering Injury. When you next gain the benefits of a Long Rest, you resolve that Lingering Injury.
 
 **Ingredients**;
-- XXX
+- 64 ounces Birch Bark (256.0sp)
+- 8 pounds Alum (3.60sp)
+- 64 ounces Honey (9.60sp)
+- 32 ounces Aloe Vera (404.8sp)
+- 24 gallons Blood (24.00sp)
+- 8 pounds Bone (28.0sp)
+	- 96 ounces Heamox Balm (750.0sp) > (32.0sp / 4oz balm)
 
 #### Isiopara
 > A fine white powder typically used as an emergency hemostatic solution to major wounds. While an uncommon form of consumption, ingesting Isiopara activates adrenal producers and blocks the transmission of pain signals to the brain.
@@ -777,7 +785,7 @@ Upon application, immediately and at the beginning of your turn for the next (G 
 Upon inhalation, make a DC (10 + (G * 3)) Constitution Saving Throw. If you succeed, you gain +G to your Strength and Dexterity Modifiers for the next minute. Otherwise, your Strength and Dexterity Modifiers are reduced by (G * 2), and you are Dazed for the next minute.
 
 **Ingredients**;
-- XXX
+- 1 ounce Darenamon
 
 #### Secreclude Propaterol
 > A thin yellow liquid solution typically stored in vials or injection devices and introduced into the muscular layer of the body to amplify the natural healing process twenty-fold.
@@ -822,22 +830,22 @@ Upon invocation, the Petal is consumed, and you and up to 11 other creatures of 
 
 ### Vices
 
-| Name (Source)   | Mechanic | Cost @ Market | Regions Producing |
-| --------------- | -------- | ------------- | ----------------- |
-| Dareanamon      |          |               |                   |
-| Nova            |          |               |                   |
-| Smokebulb       |          |               |                   |
-| Bulbkiss        |          |               |                   |
-| Lephora Essence |          |               |                   |
-| Oldshine        |          |               |                   |
-| Good Liquor     |          |               |                   |
-| Liquid Joy      |          |               |                   |
-| Liquid Calm     |          |               |                   |
-| Liquid Fear     |          |               |                   |
-| Liquid Rage     |          |               |                   |
-| Liquid Greed    |          |               |                   |
-| Liquid Love     |          |               |                   |
-| Liquid Potentia |          |               |                   |
+| Name (Source)   | Mechanic | Cost @ Market          | Regions Producing |
+| --------------- | -------- | ---------------------- | ----------------- |
+| Dareanamon      |          | 3.25sp * Grade / ounce |                   |
+| Nova            |          |                        |                   |
+| Smokebulb       |          |                        |                   |
+| Bulbkiss        |          |                        |                   |
+| Lephora Essence |          |                        |                   |
+| Oldshine        |          |                        |                   |
+| Good Liquor     |          |                        |                   |
+| Liquid Joy      |          |                        |                   |
+| Liquid Calm     |          |                        |                   |
+| Liquid Fear     |          |                        |                   |
+| Liquid Rage     |          |                        |                   |
+| Liquid Greed    |          |                        |                   |
+| Liquid Love     |          |                        |                   |
+| Liquid Potentia |          |                        |                   |
 
 #### Dareanamon
 > A stinking grey crystal. Inhaled as a powder or injected as liquid, Dareanamon quickly distances it's user from their bodily experience. Very addictive, and overdosage most often results in cardiac arrest and death.
@@ -845,7 +853,10 @@ Upon invocation, the Petal is consumed, and you and up to 11 other creatures of 
 Upon inhalation or injection, make a DC (12 + (G * 3)) Constitution Saving Throw. If you succeed, you gain +(G * 2) to your Strength and Dexterity Modifiers for the next minute. Otherwise, you are Poisoned and Paralyzed for the next minute.
 
 **Ingredients**;
-- XXX
+- 16 ounces Hair of Horse (200.0sp)
+- 8 ounces Hair of Humanoid (176.0sp)
+- 12 pounds Mica (6.00sp)
+	- 128 ounces Dareanamon (400.0sp) > (3.25sp / ounce)
 
 #### Nova
 > A fine light-pink powder derived from Dareanamon. When inhaled, Nova pushes the body to an extreme, pushing adrenaline throughout the body and destroying any sense of inhibition. Addiction and overdose is common and deadly.
