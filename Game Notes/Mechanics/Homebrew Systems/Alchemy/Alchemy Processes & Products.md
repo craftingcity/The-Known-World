@@ -804,12 +804,15 @@ Upon introduction, immediately and at the beginning of your turn for the next (G
 	- 16 ounces Secreclude Propaterol (1.4k sp) > (100.0sp / ounce)
 
 #### Seeker Symbiote
-> An engineered parasite that supports a host's immune system by travelling throughout the body to hunt and absorb hostile influences. The parasite dies after a number of years.
+> An engineered parasite that supports a host's immune system by travelling throughout the body to hunt and absorb hostile influences. While the active parasite can uncomfortable, lasting collateral damage to the host is rare. The parasite dies after a number of years.
 
 Upon introduction, your Hit Point Maximum is reduced by (G * 5), and you gain G Acid, Poison, and Necrotic Damage Resistance. When the parasite dies, or is replaced, you lose the granted Damage Resistances and your Hit Point Maximum is returned to normal.
 
 **Ingredients**;
-- XXX
+- 4 ounce Essence of Health (1.2k sp)
+- 1 ounce Essence of Prevention (4.5k sp)
+- 1 ounce Essence of Creation (0.5k sp)
+	- 1 Seeker Symbiote (8.5k sp)
 
 #### Cognitive Driver
 > A complex alchemical device that, when implemented correctly, supports a host's persona and routine by processing and storing data it collects along the spinal column, and editing abnormal signals and commands.
@@ -817,7 +820,11 @@ Upon introduction, your Hit Point Maximum is reduced by (G * 5), and you gain G 
 Upon introduction, your Hit Point Maximum is reduced by (G * 5). Your Driver holds (G * 2) charges. When you would become Frightened or Charmed, or otherwise made to act against your will, you may spend a charge to resist the condition or command instead. When you take a Long Rest, your Driver regains a charge.
 
 **Ingredients**;
-- XXX
+- 1 pound Platinum (1.1k sp)
+- 24 carat Durandurm (11.4k sp)
+- 1 ounce Essence of Creation (500.0sp)
+- 1 ounce Essence of Immutability (675.0sp)
+	- 1 Cognitive Driver (14.5k sp)
 
 #### Immuno-Secundus
 > An alchemical solution that, when introduced to a viable host, mutates and morphs the internal organs of the host to grow a second copy of their immune system.
@@ -825,7 +832,9 @@ Upon introduction, your Hit Point Maximum is reduced by (G * 5). Your Driver hol
 Upon introduction, your Hit Point Maximum is reduced by (G * 5). Your Secundus holds (G * 2) charges. When you would become Poisoned, Petrified, or otherwise diseased, you may spend a charge to resist the condition or disease instead. When you take a Long Rest, your Secundus regains a charge.
 
 **Ingredients**;
-- XXX
+- 1 ounce Essence of Mutation
+- 1 ounce Essence of Growth
+- 1 ounce Essence of Prevention ()
 
 #### Elysian Petal
 > An alchemical recreation of a divine blessing that takes the form of a golden leaf or flower petal.
