@@ -797,7 +797,7 @@ Upon inhalation, make a DC (10 + (G * 3)) Constitution Saving Throw. If you succ
 Upon introduction, immediately and at the beginning of your turn for the next (G + 1) rounds, you regain ((G * 5) + 15) Hit Points.
 
 **Ingredients**;
-- XXX
+- 64 ounces Aloe Vera (809.6)
 
 #### Seeker Symbiote
 > An engineered parasite that supports a host's immune system by travelling throughout the body to hunt and absorb hostile influences. The parasite dies after a number of years.
