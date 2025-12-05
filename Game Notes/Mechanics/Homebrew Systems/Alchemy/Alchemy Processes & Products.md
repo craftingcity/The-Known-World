@@ -785,7 +785,11 @@ Upon application, immediately and at the beginning of your turn for the next (G 
 Upon inhalation, make a DC (10 + (G * 3)) Constitution Saving Throw. If you succeed, you gain +G to your Strength and Dexterity Modifiers for the next minute. Otherwise, your Strength and Dexterity Modifiers are reduced by (G * 2), and you are Dazed for the next minute.
 
 **Ingredients**;
-- 1 ounce Darenamon
+- 4 ounces Darenamon (13.0sp)
+- 16 ounces Aloe Vera (202.4sp)
+- 2 ounce Nightshade (160.0sp)
+- 12 carat Jade (120.0sp)
+	- 8 ounces Isopara (500.0sp) > (75.0sp / ounce) > (12.5sp / 4oz dosage)
 
 #### Secreclude Propaterol
 > A thin yellow liquid solution typically stored in vials or injection devices and introduced into the muscular layer of the body to amplify the natural healing process twenty-fold.
