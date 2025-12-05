@@ -832,9 +832,10 @@ Upon introduction, your Hit Point Maximum is reduced by (G * 5). Your Driver hol
 Upon introduction, your Hit Point Maximum is reduced by (G * 5). Your Secundus holds (G * 2) charges. When you would become Poisoned, Petrified, or otherwise diseased, you may spend a charge to resist the condition or disease instead. When you take a Long Rest, your Secundus regains a charge.
 
 **Ingredients**;
-- 1 ounce Essence of Mutation
-- 1 ounce Essence of Growth
-- 1 ounce Essence of Prevention ()
+- 6 ounce Essence of Mutation (1.8k sp)
+- 5 ounce Essence of Growth (2.5k sp)
+- 1 ounce Essence of Prevention (4.5k sp)
+	- 1 Immuno-Secundus (10.0k)
 
 #### Elysian Petal
 > An alchemical recreation of a divine blessing that takes the form of a golden leaf or flower petal.
@@ -1158,23 +1159,29 @@ When used in the process of Inscribing a Patch onto an item or object to enchant
 | Simulacrum           |          |               |                   |
 
 #### Philosopher's Stone
->
+> A glowing red crystal about the size of a clenched fist. Jagged, spotted, and quite ugly, this gem-tool is highly valued for it's extreme alchemical properties - the base of every universal alchemical additive. Philosopher's are an alchemist's prized possession, likely the product of a lifetime of alchemical experience, if not a lineage of it, and thus are rarely, if ever, are sold.
 
-...
+When used during the process of creating an Alchemical Product, you gain +8 to the result of the Skill Check you make.
 
 **Ingredients**;
-- XXX
+- 64 ounces Essence of Creation (32.0k sp)
+- 64 ounces Essence of Mutation (19.2k sp)
+- 8 ounces Essence of Timelessness (48.0k sp)
+- 8 ounces Essence of Faith (44.0k sp)
+	- 1 Philosopher's Stone (175k sp)
 
 #### Red Water
->
+> A product of the rare and powerful Philosopher's Stone, the name 'Red Water' is quite literal - passing water through the Stone creates this deep red universal alchemical liquid additive.
 
-...
+When used during the process of creating an Alchemical Product, you gain +4 to the result of the Skill Check you make.
 
 **Ingredients**;
-- XXX
+- 1 Philosopher's Stone (175k sp)
+- 12 ounces Water (0 sp)
+	- 1 ounce Red Water (750.0sp)
 
 #### Yellow Powder
->
+> A universal alchemical additive derived from Red Water, 
 
 ...
 
