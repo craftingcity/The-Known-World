@@ -1181,12 +1181,13 @@ When used during the process of creating an Alchemical Product, you gain +4 to t
 	- 1 ounce Red Water (750.0sp)
 
 #### Yellow Powder
-> A universal alchemical additive derived from Red Water, 
+> A universal alchemical additive created during the process of evaporating Red Water.
 
-...
+When used during the process of creating an Alchemical Product, you gain +2 to the result of the Skill Check you make.
 
 **Ingredients**;
-- XXX
+- 1 ounce Red Water (750.0sp)
+	- 16 
 
 #### Kelvin's Wick
 >
