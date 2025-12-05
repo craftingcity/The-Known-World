@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Major Agricultural Harvests",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md"
-    },
-    {
       "basename": "Armors of Alaturmen",
       "path": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "Major Agricultural Harvests",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md"
     },
     {
       "basename": "GrainIntoGold",
@@ -195,10 +199,6 @@
     {
       "basename": "Abraham the Wise",
       "path": "Game Notes/NPCs/High Power/High Holyl'nder NPCs/Abraham the Wise.md"
-    },
-    {
-      "basename": "Loose Wizard NPCs",
-      "path": "Game Notes/NPCs/High Power/Loose Wizard NPCs/Loose Wizard NPCs.md"
     }
   ],
   "omittedPaths": [],

@@ -161,7 +161,7 @@ In addition, you have Advantage on Investigation or Insight checks in attempts t
 ## Tetrimocal Congregation
 You have spent your life before adventure in [[The Deserts of Tetrimoc]], paying tithe and fealty to He Who Makes the Sun Rise, the Planeborn, the Great Yellow Dragon [[Tetrimoc]]. Your life has been full of hardship and expectation, but your faith keeps you safe from the dangers of the desert.
 
->[[Kickoff]] is a large mining town, hosting the greatest Durandurm mines in all of Alaturmen, and it's artisans are credited with creating the foundation of Durandurm Archanotech.
+>[[Kickoff]] is a large mining town, hosting the greatest Durandurm mines in all of Alaturmen, and it's artisans are credited with creating the foundation of Durandurm Arcanotech.
 
 >[[Athenion]] is the defacto capital city of [[Tetrimoc's Blessings]], a lush area to the south of [[The Golden City]] that is heavily patrolled by the [[Golden Claws]]' Gleeming Wyvern Riders.
 
@@ -202,7 +202,7 @@ In addition, you gain Expertise in your choice of *Stealth* or *Survival*.
 ## Mountain Halls
 You have spent your life before adventure in the [[Dwarven Kingdom Suremantle]] - more commonly and improperly referred to in-whole as [[Mountain Hall]] - mining and defending the [[Deakred Range]] under one of four clans. Your culture values community first, but material wealth is a close second.
 
-> [[Mountain Hall]] proper is a major capital of world trade, second only to [[Coalition City]], and it is the capital city of the [[Dwarven Kingdom Suremantle]]. The artisans of Mountain Hall are credited with many advances in the field of archanotechnologies, most notably the synthesis of 'Dark Oil' used in the creation of Darksteel, Pressigen, and other alchemical materials.
+> [[Mountain Hall]] proper is a major capital of world trade, second only to [[Coalition City]], and it is the capital city of the [[Dwarven Kingdom Suremantle]]. The artisans of Mountain Hall are credited with many advances in the field of arcanotechnologies, most notably the synthesis of 'Dark Oil' used in the creation of Darksteel, Pressigen, and other alchemical materials.
 
 > [[Groundiki]] is the northern-most city ruled by the [[Dwarven Kingdom Suremantle]], and acts as a crucial trade center between the [[Dwarven Kingdom Suremantle]] and [[The Church of the White Flame]]. A small but significant portion of the citizenship of [[Groundiki]] follow the Church's theology.
 

@@ -73,7 +73,7 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 | Hardlight                                  | Portal Lightbridge | 1.3k sp / pound  | any                 |
 
 #### Darksteel
-A glittering black metal produced by an advanced chain of alchemical and metallurgic processes. One of the strongest metals processed by Alatermenians today.
+> A glittering black metal produced by an advanced chain of alchemical and metallurgic processes. One of the strongest metals processed by Alatermenians today.
 
 **Ingredients**;
 - 4 gallons Dark Oil (1.20sp)
@@ -81,7 +81,7 @@ A glittering black metal produced by an advanced chain of alchemical and metallu
 	- 1 pound Darksteel (2.75sp / pound)
 
 #### Chaotic Gold
-A gold that devolves into elemental force when overly agitated. Unable to fill the role of a traditional metal, Chaotic Gold has fills the niche of a reliable source of elemental chaos.
+> A gold that devolves into elemental force when overly agitated. Unable to fill the role of a traditional metal, Chaotic Gold has fills the niche of a reliable source of elemental chaos.
 
 **Ingredients**;
 - 8 pounds Gold (880.00sp)
@@ -89,7 +89,7 @@ A gold that devolves into elemental force when overly agitated. Unable to fill t
 	- 8 pounds Chaotic Gold (6380.00sp) > (1.0k sp / pound)
 
 #### Adjust Bronze
-A bronze that shrinks and spreads to the whims of its design. Traditionally, Adjust Bronze is used in mechanical contraptions, but it has found use in personal defense measures.
+> A bronze that shrinks and spreads to the whims of its design. Traditionally, Adjust Bronze is used in mechanical contraptions, but it has found use in personal defense measures.
 
 **Ingredients**;
 - 3 pounds Copper (3.60sp)
@@ -98,7 +98,7 @@ A bronze that shrinks and spreads to the whims of its design. Traditionally, Adj
 	- 4 pounds Adjust Bronze (305.0sp) > (85.00sp / pound)
 
 #### Pure Force
-A transparent material of outstanding strength and rigidity, Pure Force is made and manipulated of and with arcane implementation.
+> A transparent material of outstanding strength and rigidity, Pure Force is made and manipulated of and with arcane implementation.
 
 **Ingredients**;
 - 1 ounce Essence of Arcana (200sp)
@@ -107,7 +107,7 @@ A transparent material of outstanding strength and rigidity, Pure Force is made 
 	- 8 pounds Pure Force (1000sp) > (125.00sp / pound)
 
 #### Hardlight
-A translucent material of the strength of steel, Hardlight is made and manipulated of and with arcane implementation.
+> A translucent material of the strength of steel, Hardlight is made and manipulated of and with arcane implementation.
 
 **Ingredients**;
 - 1 ounce Essence of Light (500sp)
@@ -123,7 +123,7 @@ A translucent material of the strength of steel, Hardlight is made and manipulat
 | Alchemical Clay (*Clay*) | Arcane Reactive              | 50.0sp / pound | Prosper, Combine, Tetrimoc   |
 
 #### Firepowder
-A dark grey powder that explodes when agitated. 
+> A dark grey powder that explodes when agitated or enflamed. 
 
 **Ingredients**;
 - 1 pound Nitrate (0.15sp)
@@ -132,7 +132,7 @@ A dark grey powder that explodes when agitated.
 	- 5 pounds Firepowder (1.75sp) > (0.35sp / pound)
 
 #### Alchemical Clay
-A clay infused with arcane-active ingredients.
+> A clay infused with arcane-active ingredients.
 
 **Ingredients**;
 - 20 pounds Clay (13.00sp)
@@ -149,7 +149,7 @@ A clay infused with arcane-active ingredients.
 | Hummpo (*Crude Oil*)   | Fuel / Fire Damage            | 2.10sp / gallon | Tetrimoc, Mnt. Hall |
 
 #### Dark Oil
-A glittering, darker-than-black oil created via the introduction of Bitumen to Crude Oil as it is being refined, Dark Oil is used in the production of Darksteel, Pressigen, and other intermediate products.
+> A glittering, darker-than-black oil created via the introduction of Bitumen to Crude Oil as it is being refined, Dark Oil is used in the production of Darksteel, Pressigen, and other intermediate products.
 
 **Ingredients**;
 - 15 gallons Crude Oil (3.75sp)
@@ -157,7 +157,7 @@ A glittering, darker-than-black oil created via the introduction of Bitumen to C
 	- 16 gallons Dark Oil (4.20sp) > (0.30sp / gallon)
 
 #### Gasoline
-A thin yellow oil derived from crude oil.
+> A thin yellow oil derived from crude oil.
 
 **Ingredients**;
 - 21 gallons Crude Oil (5.25sp)
@@ -166,7 +166,7 @@ A thin yellow oil derived from crude oil.
 	- 9 gallons Gasoline (8.50sp) > (1.15sp / gallon)
 
 #### Hummpo
-A thick pink oil derived from crude oil.
+> A thick pink oil derived from crude oil.
 
 **Ingredients**;
 - 18 gallons Crude Oil (4.50sp)
@@ -183,7 +183,7 @@ A thick pink oil derived from crude oil.
 | Alchemical Fabric (*Linen*) | Arcane Reactive        | 175.0 / sq. yard | any                 |
 
 #### Pressigen
-A matte black material of advanced alchemical origin, Pressigen is hydrophobic, flexible, and incredibly tough.
+> A matte black material of advanced alchemical origin, Pressigen is hydrophobic, flexible, and incredibly tough.
 
 **Ingredients**;
 - 4 gallons Dark Oil (1.20sp)
@@ -191,7 +191,7 @@ A matte black material of advanced alchemical origin, Pressigen is hydrophobic, 
 	- 1 sq. yard Pressigen (6.00sp / sq. yard)
 
 #### Elvenfiber
-A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber is very resistant to the natural elements, incredibly beautiful, and alluringly mysterious in it's production.
+> A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber is very resistant to the natural elements, incredibly beautiful, and alluringly mysterious in it's production.
 
 **Ingredients**;
 - 16 pound Pine Needles (21.60sp)
@@ -199,7 +199,7 @@ A glimmering green fabric produced exclusively by the Actstow region, Elvenfiber
 	- 1 sq. yard Elvenfiber (30.00sp / sq. yard)
 
 #### Alchemical Fabric
-A fabric infused with arcane-active ingredients.
+> A fabric infused with arcane-active ingredients.
 
 **Ingredients**;
 - 1 ounce Essence of Arcana (500.0sp)
@@ -234,7 +234,7 @@ A fabric infused with arcane-active ingredients.
 | ... of Cure Disease         | After digestion, you are effected by the *lesser restoration* spell.                                                                 | 475sp * Grade / potion    |                   |
 
 #### of Healing
-A thin, deep red, decarbonated potion commonly used by adventurers or field medics to sustain a combatant over multiple battles.
+> A thin, deep red, decarbonated potion commonly used by adventurers or field medics to sustain a combatant over multiple battles.
 
 After digestion, once per minute, you regain (G * (1d4+1)) Hit Points.
 
@@ -245,7 +245,7 @@ After digestion, once per minute, you regain (G * (1d4+1)) Hit Points.
 	- 4 ounces Potion of Healing, *Apprentice* (250.00sp / potion)
 
 #### of Vitality
-A thin, light grey, decarbonated potion commonly used by adventurers or field medics as preventative medicine.
+> A thin, light grey, decarbonated potion commonly used by adventurers or field medics as preventative medicine.
 
 After digestion, once per minute, you may set your Temporary Hit Points to (G * (1d4+1)).
 
@@ -256,7 +256,7 @@ After digestion, once per minute, you may set your Temporary Hit Points to (G * 
 	- 4 ounces Potion of Vitality, *Apprentice* (75.00sp / potion)
 
 #### of Rejuvenation
-A thin, bright green, lightly carbonated potion typically reserved for long-term-care facilities, sometimes used by high-tier adventurers and militants.
+> A thin, bright green, lightly carbonated potion typically reserved for long-term-care facilities, sometimes used by high-tier adventurers and militants.
 
 After digestion, once per minute, you regain (G * 8) Hit Points.
 
@@ -266,7 +266,7 @@ After digestion, once per minute, you regain (G * 8) Hit Points.
 	- 4 ounces Potion of Rejuvenation, *Apprentice* (500.00sp / potion)
 
 #### of Physical Resistance
-A thick, dark grey, lightly carbonated potion used by adventurers or field medics as preventative medicine.
+> A thick, dark grey, lightly carbonated potion used by adventurers or field medics as preventative medicine.
 
 After digestion, you gain G Damage Resistance to Bludgeoning, Slashing, and Piercing damage.
 
@@ -277,7 +277,7 @@ After digestion, you gain G Damage Resistance to Bludgeoning, Slashing, and Pier
 	- 4 ounces Potion of Physical Resistance, *Apprentice* (750.00sp / potion)
 
 #### of Elemental Resistance
-A thick, iridescent, lightly carbonated potion used by adventurers or field medics as preventative medicine.
+> A thick, iridescent, lightly carbonated potion used by adventurers or field medics as preventative medicine.
 
 After digestion, you gain G Damage Resistance to one of Acid, Fire, Cold, Thunder, or Lightning damage.
 
@@ -288,7 +288,7 @@ After digestion, you gain G Damage Resistance to one of Acid, Fire, Cold, Thunde
 	- 4 ounces Potion of Elemental Resistance, *Apprentice* (375.00sp / potion)
 
 #### of Poison Resistance
-A thick, dark blue, decarbonated potion most commonly used by exterminators and other hazard workers, and sometimes used by adventurers as preventative medicine.
+> A thick, dark blue, decarbonated potion most commonly used by exterminators and other hazard workers, and sometimes used by adventurers as preventative medicine.
 
 After digestion, you gain G Damage Resistance to Poison damage.
 
@@ -299,7 +299,7 @@ After digestion, you gain G Damage Resistance to Poison damage.
 	- 4 ounces Potion of Poison Resistance, *Apprentice* (750.00sp / potion)
 
 #### of Strong Mind
-A thin, pink, lightly carbonated potion used by adventurers in the defense of their mind.
+> A thin, pink, lightly carbonated potion used by adventurers in the defense of their mind.
 
 After digestion, you gain G Damage Resistance to Psychic damage, and you have Advantage on Intelligence Saving Throws.
 
@@ -312,7 +312,7 @@ After digestion, you gain G Damage Resistance to Psychic damage, and you have Ad
 	- 4 ounces Potion of Strong Mind, *Apprentice* (1.5k sp / potion)
 
 #### of Mobility
-A thin, orange, lightly carbonated potion used by adventurers and illicit athletes to force their bodies beyond their natural limits.
+> A thin, orange, lightly carbonated potion used by adventurers and illicit athletes to force their bodies beyond their natural limits.
 
 After digestion, you gain a bonus to your speed equal to (G * 5ft), and you have Advantage on Dexterity Saving Throws.
 
@@ -324,7 +324,7 @@ After digestion, you gain a bonus to your speed equal to (G * 5ft), and you have
 	- 4 ounces Potion of Mobility, *Apprentice* (375.00sp / potion)
 
 #### of Haste
-A thick, yellow, decarbonated potion used by adventurers and arcanists to decrease the impact of time on their movements.
+> A thick, yellow, decarbonated potion used by adventurers and arcanists to decrease the impact of time on their movements.
 
 After digestion, you are effected by a modified *haste* spell. You experience the "lethargy" effect, as described in the spell, once every (G + 1) rounds instead of when the spell ends.
 
@@ -335,7 +335,7 @@ After digestion, you are effected by a modified *haste* spell. You experience th
 	- 4 ounces Potion of Haste, *Apprentice* (1.5k sp / potion)
 
 #### of Weightlessness
-A thin, dark blue, decarbonated potion used by adventurers and arcanists to decrease the impact of gravity on their movements.
+> A thin, dark blue, decarbonated potion used by adventurers and arcanists to decrease the impact of gravity on their movements.
 
 After digestion, you are effected by a modified *levitate* spell. The speed at which you may maneuver is (G * 5ft) instead of 20ft. You must still use your Full Action to move horizontally, as described in the spell.
 
@@ -346,7 +346,7 @@ After digestion, you are effected by a modified *levitate* spell. The speed at w
 	- 4 ounces Potion of Weightlessness, *Apprentice* (750.00sp / potion)
 
 #### of Flight
-A thin, light blue, decarbonated potion used by adventurers and arcanists to completely disregard the impact of gravity on their movements.
+> A thin, light blue, decarbonated potion used by adventurers and arcanists to completely disregard the impact of gravity on their movements.
 
 After digestion, you are effected by a modified *fly* spell. You gain a (G * 10ft) flying speed instead of 60ft.
 
@@ -358,7 +358,7 @@ After digestion, you are effected by a modified *fly* spell. You gain a (G * 10f
 	- 4 ounces Potion of Flight, *Apprentice* (1.5k sp / potion)
 
 #### of Water Breathing
-A viscus, deep green, heavily carbonated potion used by adventurers and hazard workers to survive in flooded or otherwise water-dense environments.
+> A viscus, deep green, heavily carbonated potion used by adventurers and hazard workers to survive in flooded or otherwise water-dense environments.
 
 After digestion, you can breathe in water as if it were air.
 
@@ -370,7 +370,7 @@ After digestion, you can breathe in water as if it were air.
 	- 4 ounces Potion of Water Breathing, *Apprentice* (1.25k sp / potion)
 
 #### of Gaseous Form
-A viscus, dark purple, decarbonated potion used primarily by assassins to bypass heavy surveillance or other defenses.
+> A viscus, dark purple, decarbonated potion used primarily by assassins to bypass heavy surveillance or other defenses.
 
 After digestion, you are effected by the *gaseous form* spell. 
 
@@ -381,7 +381,7 @@ After digestion, you are effected by the *gaseous form* spell.
 	- 4 ounces Potion of Gaseous Form, *Apprentice* (1.5k sp / potion)
 
 #### of Detect Extraplanar
-A thin, golden, lightly carbonated potion used primarily by rangers and adventurers to detect and identify extra-planar entities.
+> A thin, golden, lightly carbonated potion used primarily by rangers and adventurers to detect and identify extra-planar entities.
 
 After digestion, you are effected by a modified *detect evil and good* spell. The range at which you detect extraplanars is (G * 15ft) instead of 30ft.
 
@@ -393,7 +393,7 @@ After digestion, you are effected by a modified *detect evil and good* spell. Th
 	- 4 ounces Potion of Detect Extraplanar, *Apprentice* (1.75k sp / potion)
 
 #### of Dragon's Breath
-A thin, prismatic, swirling potion used exclusively by adventurers as an alternative weapon that cannot be taken.
+> A thin, prismatic, swirling potion used exclusively by adventurers as an alternative weapon that cannot be taken.
 
 After digestion, you are effected by a modified *dragon's breath* spell. When you "exhale energy", roll a d6 to determine the damage type, where 1-5 are the types as listed in the spell description, and 6 is force. Then, the damage you deal is (Gd6) instead of 3d6.
 
@@ -404,7 +404,7 @@ After digestion, you are effected by a modified *dragon's breath* spell. When yo
 	- 4 ounces Potion of Dragon's Breath, *Apprentice* (1.5k sp / potion)
 
 #### of Detect Mortal
-A thin, grey, lightly carbonated potion used primarily by rangers and adventurers to detect and identify mortal entities.
+> A thin, grey, lightly carbonated potion used primarily by rangers and adventurers to detect and identify mortal entities.
 
 After digestion, you are effected by a modified *detect evil and good* spell. Instead of the listed creature types, you detect Humanoids. The range at which you detect Humanoids is (G * 15ft) instead of 30ft.
 
@@ -415,7 +415,7 @@ After digestion, you are effected by a modified *detect evil and good* spell. In
 	- 4 ounces Potion of Detect Mortal, *Apprentice* (1.25k sp / potion)
 
 #### of True Sight
-A thin, white, lightly carbonated potion used primarily by rangers and adventurers to detect and identify illusions.
+> A thin, white, lightly carbonated potion used primarily by rangers and adventurers to detect and identify illusions.
 
 After digestion, you are effected by a modified *true seeing* spell. The range at which you "see things as they are" is (G * 15ft) instead of 120ft.
 
@@ -427,7 +427,7 @@ After digestion, you are effected by a modified *true seeing* spell. The range a
 	- 4 ounces Potion of True Sight, *Apprentice* (2.5k sp / potion)
 
 #### of False Life
-A thick, light green, heavily carbonated potion used by amortal entities to appear so.
+> A thick, light green, heavily carbonated potion used by amortal entities to appear so.
 
 After digestion, your creature type is Humanoid instead of any other creature types.
 
@@ -439,7 +439,7 @@ After digestion, your creature type is Humanoid instead of any other creature ty
 	- 4 ounces Potion of False Life, *Apprentice* (1.0k sp / potion)
 
 #### of False Death
-A thick, black, decarbonated potion used by spies, assassins, or other illicit figures to appear as dead despite in fact being alive.
+> A thick, black, decarbonated potion used by spies, assassins, or other illicit figures to appear as dead despite in fact being alive.
 
 After digestion, you are paralyzed and incapacitated. While you are incapacitated this way, you appear dead to all but the most thorough investigation (DC 16 + (G * 2)).
 
@@ -451,7 +451,7 @@ After digestion, you are paralyzed and incapacitated. While you are incapacitate
 	- 4 ounces Potion of False Death, *Apprentice* (1.0k sp / potion)
 
 #### of Cure Disease
-A thin, gold, decarbonated potion used by common folk to resolve infection or disease when it becomes apparent.
+> A thin, gold, decarbonated potion used by common folk to resolve infection or disease when it becomes apparent.
 
 After digestion, you are effected by the *lesser restoration* spell G times.
 
@@ -486,7 +486,7 @@ After digestion, you are effected by the *lesser restoration* spell G times.
 | Poisoner's Matrix   |                                                                                 |                          |                   |
 
 #### Traditional
-A bright green liquid that, when introduced to the bloodstream by either direct injection or ingestion, causes irritation, inflammation, or outright failure in various organs throughout the body.
+> A bright green liquid that, when introduced to the bloodstream by either direct injection or ingestion, causes irritation, inflammation, or outright failure in various organs throughout the body.
 
 Upon introduction, a creature must succeed on a DC (G + 11) Constitution Saving Throw or, for the next (G + 1) rounds or until save ends, take (G * (1d4 + 1)) poison damage at the end of their turn. When a creature takes damage this way, they make another Save against this effect.
 
@@ -497,7 +497,7 @@ Upon introduction, a creature must succeed on a DC (G + 11) Constitution Saving 
 	- 24 ounces Traditional Poison (240.0sp) > (10.0sp / ounce)
 
 #### Debilitation
-A dark yellow liquid that, when introduced to the bloodstream by either direct injection or ingestion, travels to the spinal column and brain to disrupt regular neurological signals to or from the body's limbs.
+> A dark yellow liquid that, when introduced to the bloodstream by either direct injection or ingestion, travels to the spinal column and brain to disrupt regular neurological signals to or from the body's limbs.
 
 Upon introduction, a creature must succeed on a DC (G + 11) Constitution Saving Throw or, for the next (G + 3) rounds or until save ends, become 'Dazed'. At the end of that creature's turn, they make another Save against this effect.
 
@@ -509,7 +509,7 @@ Upon introduction, a creature must succeed on a DC (G + 11) Constitution Saving 
 	- 24 ounces Debilitation Poison (1.5k sp) > (75.0sp / ounce)
 
 #### Blight Venom
-A dark green liquid that, when introduced to the bloodstream by direct injection, causes some white blood-cells to identify red blood-cells as threats to the bloodstream, and eventually causes the body to cease operation.
+> A dark green liquid that, when introduced to the bloodstream by direct injection, causes some white blood-cells to identify red blood-cells as threats to the bloodstream, and eventually causes the body to cease operation.
 
 Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving Throw or, for the next (G + 1) rounds or until save ends, take (G * (1d6 + 1)) necrotic damage at the end of their turn. When a creature takes damage this way, they make another Save against this effect.
 
@@ -520,7 +520,7 @@ Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving 
 	- 16 ounces Blight Venom (500.0sp) > (45.0sp / ounce)
 
 #### Stone Blood
-A dull grey liquid that, when introduced to the bloodstream by direct injection, causes severe clotting around the heart. Without medical intervention, this clotting presents an immediate threat to limb mobility, and will eventually cause the body to cease operation.
+> A dull grey liquid that, when introduced to the bloodstream by direct injection, causes severe clotting around the heart. Without medical intervention, this clotting presents an immediate threat to limb mobility, and will eventually cause the body to cease operation.
 
 Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving Throw or, for the next (G + 2) rounds, become 'Dazed'. At the end of that creature's turn, they make another Save against this effect. While 'Dazed' this way, if they fail the Constitution Saving Throw against this effect, they become 'Stunned' for the next (G + 2) rounds. While 'Stunned' this way, if they fail the Constitution Saving Throw against this effect, they are 'Petrified'. 
 
@@ -531,7 +531,7 @@ Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving 
 	- 8 ounces Stone Blood Poison (3.6k sp) > (525.0sp / ounce)
 
 #### Weakmind
-A bright pink liquid that, when introduced to the bloodstream by direct injection, travels to the spinal column and brain to disrupt neurological functions within the brain, including sight and touch senses, and general cognitive awareness.
+> A bright pink liquid that, when introduced to the bloodstream by direct injection, travels to the spinal column and brain to disrupt neurological functions within the brain, including sight and touch senses, and general cognitive awareness.
 
 Upon introduction, a creature must succeed on a DC (G + 13) Intelligence Saving Throw or, for the next (G + 4) rounds, they have Disadvantage on Intelligence and Wisdom Checks and Saving Throws, and they are Vulnerable to psychic damage. At the end of that creature's turn, they make another save against this effect.
 
@@ -542,7 +542,7 @@ Upon introduction, a creature must succeed on a DC (G + 13) Intelligence Saving 
 	- 4 ounces Weakmind Poison (500.0sp) > (125.0sp / ounce)
 
 #### Torrin's Bane
-A light brown liquid that, when introduced to the bloodstream by direct injection or contact with exposure points such as the skin, eyes, or mouth, causes the body to release unnaturally high levels of adrenaline, engaging and confusing the 'flight, flight, freeze' response and raising the body's heartrate to rise into dangerous levels. When the body becomes stressed while effected, cardiac malfunction is likely to occur.
+> A light brown liquid that, when introduced to the bloodstream by direct injection or contact with exposure points such as the skin, eyes, or mouth, causes the body to release unnaturally high levels of adrenaline, engaging and confusing the 'flight, flight, freeze' response and raising the body's heartrate to rise into dangerous levels. When the body becomes stressed while effected, cardiac malfunction is likely to occur.
 
 Upon introduction, a creature must succeed on a DC (G + 17) Constitution Saving Throw or, for the next (G + 2) rounds, at the beginning of their turn they take (G * (2d6 + 3)) necrotic damage. At the end of that creature's turn, they make another save against this effect. If they fail a save against this effect by eight or more, they take (G * (2d6 + 3)) fire damage.
 
@@ -554,7 +554,7 @@ Upon introduction, a creature must succeed on a DC (G + 17) Constitution Saving 
 	- 8 ounces Torrin's Bane Poison (3.2k sp) > (500.0sp / ounce)
 
 #### King's Last Drink
-A colorless, odorless, and tasteless liquid that, when introduced to the bloodstream by either direct injection or ingestion, travels to the spinal column and brain where it begins to erode the brain, causing cognitive malfunction and irrationality.
+> A colorless, odorless, and tasteless liquid that, when introduced to the bloodstream by either direct injection or ingestion, travels to the spinal column and brain where it begins to erode the brain, causing cognitive malfunction and irrationality.
 
 Upon introduction, a creature must succeed on a DC (G + 17) Constitution Saving Throw or, for the next (G + 5) rounds, they are Poisoned and Dazed, and at the beginning of their turn they take (G * 1d10) poison damage. At the end of that creature's turn, they make another save against this effect. If they fail a save against this effect by eight or more, they take (G * 2d8) poison damage.
 
@@ -566,7 +566,7 @@ Upon introduction, a creature must succeed on a DC (G + 17) Constitution Saving 
 	- 4 ounces King's Last Drink (2.4k sp) > (750.0sp / ounce)
 
 #### Asphyxium
-A fine grey powder that is tasteless and odorless, and when ingested, causes the body's lungs to cease intaking or expelling air, and quickly experience asphyxiation.
+> A fine grey powder that is tasteless and odorless, and when ingested, causes the body's lungs to cease intaking or expelling air, and quickly experience asphyxiation.
 
 Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving Throw or, for the next (G + 10) rounds, they cannot breathe, and begin to suffocate.
 
@@ -579,7 +579,7 @@ Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving 
 	- 4 ounces Asphyxium (3.6k sp) > (875.0sp / ounce)
 
 #### Petrifica
-A coarse brown powder that, when exposed to flesh or other organs, begins to spread and convert the substance it grows to cover into a stone-like substance. Without medical intervention, this reaction presents a threat of natural needs, as the body fails maneuver effectively, if at all, towards meeting those needs. 
+> A coarse brown powder that, when exposed to flesh or other organs, begins to spread and convert the substance it grows to cover into a stone-like substance. Without medical intervention, this reaction presents a threat of natural needs, as the body fails maneuver effectively, if at all, towards meeting those needs. 
 
 Upon introduction, a creature must succeed on a DC (G + 17) Constitution Saving Throw or, for the next (G + 5) rounds, become 'Dazed'. At the end of that creature's turn, they make another Save against this effect. While 'Dazed' this way, if they fail the Constitution Saving Throw against this effect, they become 'Stunned' for the next (G + 5) rounds. While 'Stunned' this way, if they fail the Constitution Saving Throw against this effect, they are 'Petrified'. 
 
@@ -591,7 +591,7 @@ Upon introduction, a creature must succeed on a DC (G + 17) Constitution Saving 
 	- 4 ounces Petrifica (4.5k sp) > (1.25k sp / ounce)
 
 #### Sensorcompra
-A fine yellow powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, immediately halts sensory transmission to or from the point of exposure. While extremely disorienting, this reaction is temporary, and will resolve over a number of hours.
+> A fine yellow powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, immediately halts sensory transmission to or from the point of exposure. While extremely disorienting, this reaction is temporary, and will resolve over a number of hours.
 
 Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving Throw or become 'Blinded' and 'Deafened' until they take a short rest.
 
@@ -603,7 +603,7 @@ Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving 
 	- 4 ounces Sensorcompra (320.0sp) > (80.0sp / ounce)
 
 #### Ashmaker Dust
-A coarse red powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, immediately begins to burn the contact area.
+> A coarse red powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, immediately begins to burn the contact area.
 
 Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving Throw or take (G * (3d4 + 6)) fire damage.
 
@@ -615,7 +615,7 @@ Upon introduction, a creature must succeed on a DC (G + 15) Constitution Saving 
 	- 12 ounces Ashmaker Powder (600sp) > (50.0sp / ounce)
 
 #### Sleeping Stone Dust
-A fine purple powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, dissolves into the bloodstream, and travels to the spinal column and brain. When it arrives, it begins over-population hormones related to sleep and dreaming, melatonin in particular, causing the body to quickly fall into unconsciousness.
+> A fine purple powder that, when exposed to contact with exposure points such as the skin, eyes, or mouth, dissolves into the bloodstream, and travels to the spinal column and brain. When it arrives, it begins over-population hormones related to sleep and dreaming, melatonin in particular, causing the body to quickly fall into unconsciousness.
 
 Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving Throw or become 'Dazed'. At the end of that creature's turn, they make another Save against this effect. While 'Dazed' this way, if they fail the Constitution Saving Throw against this effect, they become 'Incapacitated' until they take damage.
 
@@ -633,27 +633,27 @@ Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving 
 
 ### Medicines
 
-| Name (Source)         | Mechanic | Cost @ Market | Regions Producing |
-| --------------------- | -------- | ------------- | ----------------- |
-| Druid's Dust          |          |               |                   |
-| Nalasculas            |          |               |                   |
-| Generalized Antivenom |          |               |                   |
-| Aerotide              |          |               |                   |
-| Ambebamol             |          |               |                   |
-| Amorphia              |          |               |                   |
-| Pretokarin            |          |               |                   |
-| Scar Balm             |          |               |                   |
-| Bone Balm             |          |               |                   |
-| Heamox Balm           |          |               |                   |
-| Isiopara              |          |               |                   |
-| Secreculde Propaterol |          |               |                   |
-| Seeker Symbiote       |          |               |                   |
-| Cognitive Driver      |          |               |                   |
-| Immuno-Secundus       |          |               |                   |
-| Elysian Petal         |          |               |                   |
+| Name (Source)         | Mechanic                                    | Cost @ Market           | Regions Producing |
+| --------------------- | ------------------------------------------- | ----------------------- | ----------------- |
+| Druid's Dust          | Expend Hit Dice as Temp. HP                 | 4.5sp * Grade / ounce   |                   |
+| Nalasculas            | Prevent 'Petrified'                         | 175.0sp * Grade / ounce |                   |
+| Generalized Antivenom | Prevent 'Poisoned', gain Poison DR          | 45.0sp * Grade / potion |                   |
+| Aerotide              | Prevent Suffocation                         | 50.0sp * Grade / ounce  |                   |
+| Ambebamol             | Gain Rad. Protection                        | 15.0sp * Grade / ounce  |                   |
+| Amorphia              | Prevent polymorphing or animorphing         |                         |                   |
+| Pretokarin            | Resolve Poison                              |                         |                   |
+| Scar Balm             | Resolve Lingering Injury (Scar/Blister)     |                         |                   |
+| Bone Balm             | Resolve Lingering Injury (Broken/Bruised)   |                         |                   |
+| Heamox Balm           | Resolve Lingering Injury (Sup./Major)       |                         |                   |
+| Isiopara              | Regain HP / Gain STR/DEX                    |                         |                   |
+| Secreculde Propaterol | Regain HP                                   |                         |                   |
+| Seeker Symbiote       | -HP, gain Acid, Poison, Necrotic DR         |                         |                   |
+| Cognitive Driver      | -HP, charge vs Frightened, Charmed, Command |                         |                   |
+| Immuno-Secundus       | -HP, charge vs Poisoned, Petrified, Disease |                         |                   |
+| Elysian Petal         | Gain Max. HP, regain HP                     |                         |                   |
 
 #### Druid's Dust
-A coarse brown powder reminiscent in smell of compost and rotting fruit that acts as a local anesthetic. Typically, Druid's Dust is applied as minor ache or pain relief, but it sees use during combat as a temporary measure while proper medical care cannot be accessed.
+> A coarse brown powder reminiscent in smell of compost and rotting fruit that acts as a local anesthetic. Typically, Druid's Dust is applied as minor ache or pain relief, but it sees use during combat as a temporary measure while proper medical care cannot be accessed.
 
 Upon introduction, for the next (G + 2) rounds, at the beginning of your turn you may expend a Hit Dice. When you do, you may set your Temporary Hit Points to the number rolled plus your Constitution Modifier. 
 
@@ -666,7 +666,7 @@ Upon introduction, for the next (G + 2) rounds, at the beginning of your turn yo
 
 
 #### Nalasculas
-A viscous, bubbling, lime green oil. It radiates heat. Nalasculas is one of the few reliable remedies for petrification, being able to completely reverse the process and restore a victim and their equipment to their pre-petrified conditions.
+> A viscous, bubbling, lime green oil. It radiates heat. Nalasculas is one of the few reliable remedies for petrification, being able to completely reverse the process and restore a victim and their equipment to their pre-petrified conditions.
 
 Upon introduction, for the next hour, at the beginning of your turn, make a DC (19 - G) Constitution Saving Throw. If you succeed, mark a Success. When you mark your third Success, you resolve the 'Petrified' Condition, and become 'Incapacitated' until the beginning of your next turn instead.
 
@@ -678,7 +678,7 @@ Upon introduction, for the next hour, at the beginning of your turn, make a DC (
 	- 4 ounces Nalasculas (650.0sp) > (175.0sp / ounce)
 
 #### Generalized Antivenom
-A thin, brownish-green, decarbonized potion commonly brewed across the world to treat natural poisons and toxins.
+> A thin, brownish-green, decarbonized potion commonly brewed across the world to treat natural poisons and toxins.
 
 Upon introduction, resolve the 'Poisoned' Condition immediately, and once every minute for the next hour. You gain (G + 1) Poison Damage Resistance for the next hour.
 
@@ -690,7 +690,7 @@ Upon introduction, resolve the 'Poisoned' Condition immediately, and once every 
 	- 32 ounces Generalized Antivenom (275.0sp) > (45.0sp / potion)
 
 #### Aerotide
-A odorless inhalant typically stored in a pressurized capsule and released directly into the nostrils as a ventilative supplement; described as 'a notably uncomfortable experience', Aerotide forces a mixture of gasses into the lungs that reacts with present carbon-dioxide to create "fresh air" that can again be used within the respiratory system. 
+> A odorless inhalant typically stored in a pressurized capsule and released directly into the nostrils as a ventilative supplement; described as 'a notably uncomfortable experience', Aerotide forces a mixture of gasses into the lungs that reacts with present carbon-dioxide to create "fresh air" that can again be used within the respiratory system. 
 
 Upon introduction, you are no longer Suffocating, and you have (CON * G) rounds of held breath.
 
@@ -702,9 +702,9 @@ Upon introduction, you are no longer Suffocating, and you have (CON * G) rounds 
 	- 32 ounces Aerotide (1.5k sp) > (50.0sp / ounce)
 
 #### Ambebamol
-A yellow-green powder that when ingested, provides protection against the hidden threat known as 'Radiation' by preparing the body for it's attacks.
+> A yellow-green powder that when ingested, provides protection against the hidden threat known as 'Radiation' by preparing the body for it's attacks.
 
-Upon introduction, for the next (G * 5) minutes, you gain +6 Radiation Protection.
+Upon introduction, for the next (G * 5) minutes, you gain +(G * 3) Radiation Protection.
 
 **Ingredients**;
 - 8 ounces Fang of Wurm (96.0sp)
@@ -714,7 +714,7 @@ Upon introduction, for the next (G * 5) minutes, you gain +6 Radiation Protectio
 	- 48 ounces Ambebamol (675.0sp) > (15.0sp / ounce)
 
 #### Amorphia
-A thick, deep purple, liquid used very rarely in preparation against threats of morphism.
+> A thick, deep purple, liquid used very rarely in preparation against threats of morphism.
 
 After digestion, for the next hour, your body cannot be magically or naturally changed wholly into, or into the shape of, any other body or animal, real or imagined.
 
@@ -722,7 +722,7 @@ After digestion, for the next hour, your body cannot be magically or naturally c
 - XXX
 
 #### Pretokarin
-A thin, bitter orange liquid commonly used across the world as a forceful treatment of digestive ailments.
+> A thin, bitter orange liquid commonly used across the world as a forceful treatment of digestive ailments.
 
 Upon introduction, you immediately resolve the 'Poisoned' Condition.
 
@@ -730,7 +730,7 @@ Upon introduction, you immediately resolve the 'Poisoned' Condition.
 - XXX
 
 #### Scar Balm
-A thick white balm used to reduce any pain or inflammation present on a healing or healed scar. Most commonly used by soldiers and adventurers to aid and quicken their recovery.
+> A thick white balm used to reduce any pain or inflammation present on a healing or healed scar. Most commonly used by soldiers and adventurers to aid and quicken their recovery.
 
 Upon introduction, you regain a Hit Point. Then, choose a "Scar" or "Blister" Lingering Injury. When you next gain the benefits of a Long Rest, you resolve that Lingering Injury.
 
@@ -738,46 +738,66 @@ Upon introduction, you regain a Hit Point. Then, choose a "Scar" or "Blister" Li
 - XXX
 
 #### Bone Balm
-A thick blue balm used to set and repair broken or cracked bones. Most commonly used by soldiers and adventurers to aid and quicken their recovery.
+> A thick blue balm used to set and repair broken or cracked bones. Most commonly used by soldiers and adventurers to aid and quicken their recovery.
 
-Upon introduction, you regain 3 Hit Points. Then, choose a "Broken" or "Bruised" Lingering Injury. When you next gain the benefits of a Long Rest, you resolve that Lingering Injury.
+Upon introduction, you regain 1d4 Hit Points. Then, choose a "Broken" or "Bruised" Lingering Injury. When you next gain the benefits of a Long Rest, you resolve that Lingering Injury.
 **Ingredients**;
 - XXX
 
 #### Heamox Balm
-A thick red balm used as an anesthetic, antibacterial, and coagulant. A staple wound stabilizer in any proficient medic's kit.
+> A thick red balm used as an anesthetic, antibacterial, and coagulant. A staple wound stabilizer in any proficient medic's kit.
 
-Upon introduction, 
+Upon introduction, you regain 1d6 Hit Points and a Hit Die. Then, choose a "Superficial" or "Major" Lingering Injury. When you next gain the benefits of a Long Rest, you resolve that Lingering Injury.
 
 **Ingredients**;
 - XXX
 
 #### Isiopara
+> A fine white powder typically used as an emergency hemostatic solution to major wounds. While an uncommon form of consumption, ingesting Isiopara activates adrenal producers and blocks the transmission of pain signals to the brain.
+
+Upon application, immediately and at the beginning of your turn for the next (G - 1) rounds, you regain (G * (1d4+1)) Hit Points.
+
+Upon inhalation, make a DC (10 + (G * 3)) Constitution Saving Throw. If you succeed, you gain +G to your Strength and Dexterity Modifiers for the next minute. Otherwise, your Strength and Dexterity Modifiers are reduced by (G * 2), and you are Dazed for the next minute.
 
 **Ingredients**;
 - XXX
 
 #### Secreclude Propaterol
+> A thin yellow liquid solution typically stored in vials or injection devices and introduced into the muscular layer of the body to amplify the natural healing process twenty-fold.
+
+Upon introduction, immediately and at the beginning of your turn for the next (G + 1) rounds, you regain ((G * 5) + 15) Hit Points.
 
 **Ingredients**;
 - XXX
 
 #### Seeker Symbiote
+> An engineered parasite that supports a host's immune system by travelling throughout the body to hunt and absorb hostile influences. The parasite dies after a number of years.
+
+Upon introduction, your Hit Point Maximum is reduced by (G * 5), and you gain G Acid, Poison, and Necrotic Damage Resistance. When the parasite dies, or is replaced, you lose the granted Damage Resistances and your Hit Point Maximum is returned to normal.
 
 **Ingredients**;
 - XXX
 
 #### Cognitive Driver
+> A complex alchemical device that, when implemented correctly, supports a host's persona and routine by processing and storing data it collects along the spinal column, and editing abnormal signals and commands.
+
+Upon introduction, your Hit Point Maximum is reduced by (G * 5). Your Driver holds (G * 2) charges. When you would become Frightened or Charmed, or otherwise made to act against your will, you may spend a charge to resist the condition or command instead. When you take a Long Rest, your Driver regains a charge.
 
 **Ingredients**;
 - XXX
 
 #### Immuno-Secundus
+> An alchemical solution that, when introduced to a viable host, mutates and morphs the internal organs of the host to grow a second copy of their immune system.
+
+Upon introduction, your Hit Point Maximum is reduced by (G * 5). Your Secundus holds (G * 2) charges. When you would become Poisoned, Petrified, or otherwise diseased, you may spend a charge to resist the condition or disease instead. When you take a Long Rest, your Secundus regains a charge.
 
 **Ingredients**;
 - XXX
 
 #### Elysian Petal
+> An alchemical recreation of a divine blessing that takes the form of a golden leaf or flower petal.
+
+Upon invocation, the Petal is consumed, and you and up to 11 other creatures of your choice may gain Maximum Hit Points as if leveling up. Then, you each regain 10 Hit Points.
 
 **Ingredients**;
 - XXX
@@ -787,10 +807,13 @@ Upon introduction,
 
 | Name (Source)   | Mechanic | Cost @ Market | Regions Producing |
 | --------------- | -------- | ------------- | ----------------- |
-| Glimmer         |          |               |                   |
 | Dareanamon      |          |               |                   |
-| Bulbkiss        |          |               |                   |
 | Nova            |          |               |                   |
+| Smokebulb       |          |               |                   |
+| Bulbkiss        |          |               |                   |
+| Lephora Essence |          |               |                   |
+| Oldshine        |          |               |                   |
+| Good Liquor     |          |               |                   |
 | Liquid Joy      |          |               |                   |
 | Liquid Calm     |          |               |                   |
 | Liquid Fear     |          |               |                   |
@@ -799,44 +822,211 @@ Upon introduction,
 | Liquid Love     |          |               |                   |
 | Liquid Potentia |          |               |                   |
 
-#### Glimmer
 #### Dareanamon
-#### Bulbkiss
+> A stinking grey crystal. Inhaled as a powder or injected as liquid, Dareanamon quickly distances it's user from their bodily experience. Very addictive, and overdosage most often results in cardiac arrest and death.
+
+Upon inhalation or injection, make a DC (12 + (G * 3)) Constitution Saving Throw. If you succeed, you gain +(G * 2) to your Strength and Dexterity Modifiers for the next minute. Otherwise, you are Poisoned and Paralyzed for the next minute.
+
+**Ingredients**;
+- XXX
+
 #### Nova
+> A fine light-pink powder derived from Dareanamon. When inhaled, Nova pushes the body to an extreme, pushing adrenaline throughout the body and destroying any sense of inhibition. Addiction and overdose is common and deadly.
+
+Upon inhalation, make a DC (14 + (G * 2)) Constitution Saving Throw. If you succeed, your speed increases by 5', your AC increases by (G - 2) or 1, whichever is greater, and you gain +G to hit on Ranged Attacks for the next minute. Otherwise, you are Poisoned and Paralyzed for the next minute.
+
+**Ingredients**;
+- XXX
+
+#### Smokebulb
+> A brown mushroom spotted in pink growths. When inhaling the smoke produced by burning the mushroom, users report a near instant sense of calm, and within minutes, otherworldly visions. Addiction is common, and overdosage will likely lead to permanent mental damage. 
+
+Upon inhalation, make a DC (14 + (G * 2)) Constitution Saving Throw. If you succeed, you gain Truesight and Blindsight at ((G + 1) * 5) feet for the next 10 minutes. Otherwise, your Wisdom and Charisma Modifiers are reduced by G for the next 10 minutes.
+
+#### Bulbkiss
+> A sickly brown powder derived from Smokebulb. When inhaled, users report instant euphoria, energy, and confidence in themselves. Addiction is common, and overdose can be deadly alone, but will likely always result in the user pursuing some actions that result in their death.
+
+Upon inhalation, make a DC (13 + (G * 3)) Constitution Saving Throw. If you succeed, you gain +G to your Intelligence, Wisdom, and Charisma Modifiers for the next minute. Otherwise, you are Poisoned and under the effects of the *confusion* spell for the next minute.
+
+**Ingredients**;
+- XXX
+
+#### Lephora Essence
+> A light yellow liquid derived from Lephora Fruit. When ingested, users immediately display euphoria and intense dedication. Consistently, users claim to feel "connected to the whole world". Addiction is nearly unavoidable, although overdosage seems to have little to no ill-effects.
+
+Upon ingestion, make a DC (14 + (G * 4)) Constitution Saving Throw. If you succeed, you gain +(G * 2) to your Spellcasting Ability Modifier for the next minute. Otherwise, you are Poisoned and Dazed for the next minute.
+
+#### Oldshine
+> A harsh clear alcohol comprised of a variety of vegetables that have been mushed, spiced, fermented, and aged.  
+
+After digestion, make a DC (11 + (G * 2)) Constitution Saving Throw. If you succeed, for the next minute, you gain +G to your Strength Modifier, your Wisdom Modifier is reduced by G, you gain (G * 2) Radiation Reduction, and at the beginning of your turn you may set your Temporary Hit Points to (G * 2). Otherwise, you are Poisoned for the next minute.
+
+**Ingredients**;
+- XXX
+
+#### Good Liquor
+> A refined alcohol, worthy of the brand name it so honorably bears, likely made of a small group of well groomed ingredients.
+
+After digestion, make a DC (15 + (G * 2)) Constitution Saving Throw. If you succeed, for the next minute, you gain +(G + 3) to your Strength Modifier, your Wisdom Modifier is reduced by (G + 3), you gain (G * 5) Radiation Reduction, and at the beginning of your turn you may set your Temporary Hit Points to (G * 3). Otherwise, you are Poisoned and Dazed for the next minute.
+
+**Ingredients**;
+- XXX
+
 #### Liquid Joy
+> A rippling yellow liquid. It smells like a memory you hold dear.
+
+Upon introduction, make a DC (17 + G) Charisma Saving Throw. If you succeed, you remember a nice moment, and feel happy for a moment. Otherwise, you are Stunned for the next G rounds.
+
+**Ingredients**;
+- XXX
+
 #### Liquid Calm
+> A seemingly unmoving grey liquid. It smells like a well executed plan.
+
+Upon introduction, make a DC (17 + G) Charisma Saving Throw. If you succeed, you reasonably evaluate your situation, and feel peace and understanding. Otherwise, you are Dazed for the next G rounds.
+
+**Ingredients**;
+- XXX
+
 #### Liquid Fear
+> A horrifyingly dark liquid. It smells like the monster at the edge of the campfire.
+
+Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, you acknowledge the danger of your situation, and continue to persevere. Otherwise, you are Frightened by hostiles you can see or hear for the next G rounds.
+
+**Ingredients**;
+- XXX
+
 #### Liquid Rage
+> A violently roiling red liquid. It smells like sweat, blood, and tears.
+
+Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, that kinda sucked, but you shrug it off. Otherwise, you spend the next G rounds actively attempting to kill the nearest creature, even if they are your Ally.
+
+**Ingredients**;
+- XXX
+
 #### Liquid Greed
+> A slick blueish liquid. It smells like finally rising above.
+
+Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, you know what you want right now, but you understand now might not be the time, and here might not be the place. Otherwise, you spend the next G rounds taking and keeping the shiniest things you see.
+
+**Ingredients**;
+- XXX
+
 #### Liquid Love
+> An enticing pinkish red liquid. It smells like home.
+
+Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, you can see the small way you are loved by those closest to you and the world at large. Otherwise, for the next G rounds, you are Charmed by the nearest creature you can see, and you treat them as a special person in your life.
+
+**Ingredients**;
+- XXX
+
 #### Liquid Potentia
+> An iridescent shimmering liquid. It smells exactly like it should.
+
+Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, you gain G Inspiration, and you know everything is gonna go your way. Otherwise, you are Poisoned for the next G rounds.
+
+**Ingredients**;
+- XXX
+
 
 ## Equipment
 ### Adventuring
 
-| Name (Source)        | Mechanic | Cost @ Market | Regions Producing |
-| -------------------- | -------- | ------------- | ----------------- |
-| Liquid Light         |          |               |                   |
-| Suregrip             |          |               |                   |
-| Alchemical Explosive |          |               |                   |
-| Everlight Wax        |          |               |                   |
-| Spellsmoke Wax       |          |               |                   |
-| Violet Emitter       |          |               |                   |
-| Lightswitch          |          |               |                   |
-| Purity Lens          |          |               |                   |
-| Auspex Lens          |          |               |                   |
-| Precounter Charm     |          |               |                   |
+| Name (Source)                | Mechanic | Cost @ Market | Regions Producing |
+| ---------------------------- | -------- | ------------- | ----------------- |
+| Liquid Light / Flash Pellets |          |               |                   |
+| Suregrip                     |          |               |                   |
+| Alchemical Explosive         |          |               |                   |
+| Everlight Wax                |          |               |                   |
+| Spellsmoke Wax               |          |               |                   |
+| Violet Emitter               |          |               |                   |
+| Lightswitch                  |          |               |                   |
+| Purity Lens                  |          |               |                   |
+| Auspex Lens                  |          |               |                   |
+| Precounter Charm             |          |               |                   |
 
-#### Liquid Light
+#### Liquid Light / Flashpellets
+> A white brightly glowing liquid most commonly used and known as 'Flashpellets', hollow glass beads filled with Liquid Light and thrown or fired as a momentary discombobulating flash of light.
+
+While displayed, the liquid creates a radius of bright light for (G * 5)', and dim light for another (G * 5)'.
+
+When shattered, creatures within (G * 10)' make a DC (13 + G) Dexterity Saving Throw. If they fail, they are Blinded for the next G rounds.
+
+**Ingredients**;
+- XXX
+
 #### Suregrip
+> A coarse grey powder used by athletes and daredevils to maintain a 'sure grip' on whatever they hold.
+
+When applied, for the next G rounds, you have Advantage on holding onto things.
+
+**Ingredients**;
+- XXX
+
 #### Alchemical Explosive
+> A creamy white dough-like solid that violently explodes when agitated, inflamed, or otherwise magically activated.
+
+When activated, the substance explodes into a (G * 15') radius sphere that deals (G * (3d8 + 5)) force damage to each creature, object, and structure within the radius.
+
+**Ingredients**;
+- XXX
+
 #### Everlight Wax
+> A translucent brown wax that burns cleanly and continually.
+
+When lit, the wax begins to burn, and does not stop burning until extinguished.
+
+**Ingredients**;
+- XXX
+
 #### Spellsmoke Wax
+> A translucent purple wax that burns into thick stinky smoke that glimmers and shines in the air.
+
+When lit, for the next (G + 3) rounds, the wax produces a (G * 5') radius of smoke. While the smoke stays in the air, the area within the radius is an *antimagic field*. The smoke is dismissed by strong winds.
+
+**Ingredients**;
+- XXX
+
 #### Violet Emitter
+> A small purple crystal that emits a beam of deep purple light. Typically stored in a toggleable metal cylinder.
+
+When toggled within relative darkness, you gain +8 to investigate bodily substances or diseases that are immediately in front of you.
+
+**Ingredients**;
+- XXX
+
 #### Lightswitch
+> A small black crystal that absorbs and ceases any light it can find. Typically stored in a toggleable metal cylinder.
+
+When toggled within bright or dim light emitted by a "non-natural" source, that source is extinguished or otherwise disabled and ceases to create that light.
+
+**Ingredients**;
+- XXX
+
 #### Purity Lens
+> A thin tinted-white cut of crystal most commonly used by the Ranger's Guild to identify an entity's extraplanar connections, if they exist.
+
+While viewing a creature through the Purity Lens, a series of colorful orbs can be seen surrounding the creature. These orbs represent the entities that have claimed part of the target's Faith. The orb's size represents the size of the entity's claim.
+
+**Ingredients**;
+- XXX
+
 #### Auspex Lens
+> A thin tinted-red cut of crystal most commonly used by arcane practitioners and alchemists to identify an object's connection or effect on the Weave.
+
+While viewing an object through the Auspex Lens, a description of the object and it's magical effects, if any, appear upon the surface of the lens. The description is as truthful and informed as it can be.
+
+**Ingredients**;
+- XXX
+
 #### Precounter Charm
+> A small purple crystal pin or button that shatters and bursts into a thin mist when exposed to significant disturbance in the Weave. 
+
+While you are wearing the Charm, when you are next exclusively targeted by a spell, the Charm shatters and casts *counterspell* using your Wisdom as it's Spellcasting Ability.
+
+**Ingredients**;
+- XXX
+
 
 ### Enchanting
 
@@ -851,12 +1041,63 @@ Upon introduction,
 | Spell Gem        |          |               |                   |
 
 #### Soma Gel
+> A thick orange wax used to prepare materials for Patch Inscription. A common supply of any tinker or enchanter.
+
+When used in the process of Inscribing a Patch onto an item or object to enchant it, the Patch's Power is increased by 1.
+
+**Ingredients**;
+- XXX
+
 #### Kylao Gel
+> A greenish blue wax used to amplify the effects of a spell on a creature or object.
+
+While applied to a creature or object, the next spell that exclusively targets that creature or object is cast as if it's spell level was doubled.
+
+**Ingredients**;
+- XXX
+
 #### Animan's Tears
+> A transparent light-blue liquid composed of loose 'Weave Potentia'. Most commonly used as a volatile alternative to Durandurm for supplying energy to modern Arcanotech devices.
+
+When a creature that can cast spells and has used a spell slot of 4th level or lower interacts with the liquid, they regain the lowest level slot they have expended.
+
+When used in the process of Inscribing a Patch onto an item or object to enchant it, the Patch Power is increased by 1.
+
+**Ingredients**;
+- XXX
+
 #### Enchanter's Ink
+> A thick iridescent ink used by arcanists to write scrolls and inscribe Patches.
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Enchanter's Acid
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Alchemical Chalk
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Spell Gem
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 
 ### Production
 
@@ -872,13 +1113,69 @@ Upon introduction,
 | Simulacrum           |          |               |                   |
 
 #### Philosopher's Stone
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Red Water
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Yellow Powder
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Kelvin's Wick
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Bottled Thunderstorm
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Atmos Sphere
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Asphyx Sphere
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Simulacrum
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 
 ### Manipulation
 
@@ -901,20 +1198,125 @@ Upon introduction,
 | Four Point Emitter |          |               |                   |
 
 #### Miner's Savior
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Immobility Core
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Heatcore
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Minute Snare
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Heat Snare
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Bloody Vessel
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Fleshmould
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Polyphorma
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Spell Sieve
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Realism Ward
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Reality Spike
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Planar Anchor
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Aether Host
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Zero Point Emitter
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 #### Four Point Emitter
+>
+
+...
+
+**Ingredients**;
+- XXX
+
 
 ## Other
 ### Essences
@@ -955,28 +1357,28 @@ An elemental essence of natural growth and heart.
 
 **Ingredients**;
 - 40 ounce Polypore, Yellow (124.00sp)
-	- > 1 ounce Essence of Earth (150.00sp / ounce)
+	- 1 ounce Essence of Earth (150.00sp / ounce)
 
 #### Essence of Water
 An elemental essence of life and liquid.
 
 **Ingredients**;
 - 40 ounce Polypore, Blue (140.00sp)
-	- > 1 ounce Essence of Water (175.00sp / ounce)
+	- 1 ounce Essence of Water (175.00sp / ounce)
 
 #### Essence of Fire
 An elemental essence of heat and destruction.
 
 **Ingredients**;
 - 40 ounce Polypore, Red (144.00sp)
-	- > 1 ounce Essence of Fire (175.00sp / ounce)
+	- 1 ounce Essence of Fire (175.00sp / ounce)
 
 #### Essence of Air
 An elemental essence of gas and velocity.
 
 **Ingredients**;
 - 12 ounce Head of Lamb (144.00sp)
-	- > 1 ounce of Essence of Air (175.00sp / ounce)
+	- 1 ounce of Essence of Air (175.00sp / ounce)
 
 #### Essence of Health
 An inner essence of life and growth.
@@ -984,7 +1386,7 @@ An inner essence of life and growth.
 **Ingredients**;
 - 20 carat Jade (200.00sp)
 - 30 ounce Cannabis (9.00sp)
-	- > 1 ounce Essence of Health (300.00sp  / ounce)
+	- 1 ounce Essence of Health (300.00sp  / ounce)
 
 #### Essence of Pestilence
 An inner essence of death and rot.
@@ -1000,7 +1402,7 @@ An inner essence of lies and imagery.
 **Ingredients**;
 - 20 ounce Scale of Fish (40.00sp)
 - 12 ounce Eye of Frog (240.00sp)
-	- > 1 ounce of Essence of Deception (400.00sp / ounce)
+	- 1 ounce of Essence of Deception (400.00sp / ounce)
 
 #### Essence of Light
 An inner essence of light and joy.
@@ -1008,7 +1410,7 @@ An inner essence of light and joy.
 **Ingredients**;
 - 30 ounce Birch Bark (120.00sp)
 - 20 ounce Glowshroom (175.00sp)
-	- > 1 ounce Essence of Light (400.00sp / ounce)
+	- 1 ounce Essence of Light (400.00sp / ounce)
 
 #### Essence of Arcana
 An inner essence of instruction and law.
@@ -1017,14 +1419,14 @@ An inner essence of instruction and law.
 - 15 ounce Polypore, Red (54.00sp)
 - 15 ounce Polypore, Blue (52.50sp)
 - 15 ounce Polypore, Yellow (53.25sp)
-	- > 1 ounce Essence of Arcana (200.00sp / ounce)
+	- 1 ounce Essence of Arcana (200.00sp / ounce)
 
 #### Essence of Density
 An inner essence of gravity and mass.
 
 **Ingredients**;
 - 100 ounce Ginko Leaf (230.00sp)
-	- > 1 ounce Essence of Density (300.00sp / ounce)
+	- 1 ounce Essence of Density (300.00sp / ounce)
 
 #### Essence of Mutation
 An inner essence of change and difference.
@@ -1033,7 +1435,7 @@ An inner essence of change and difference.
 - 10 ounce Glowshroom (87.50sp)
 - 20 ounce Creature Eye (160.00sp)
 - 100 pounds Bitumen (45.00sp)
-	- > 1 ounce Essence of Mutation (400.00sp / ounce)
+	- 1 ounce Essence of Mutation (400.00sp / ounce)
 
 #### Essence of Acidity
 An inner essence of chemistry and reaction.
@@ -1041,7 +1443,7 @@ An inner essence of chemistry and reaction.
 **Ingredients**;
 - 100 ounce Tobacco (10.00sp) 
 - 4 ounce Nightshade (320.00sp)
-	- > 1 ounce Essence of Acidity (400.00sp / ounce)
+	- 1 ounce Essence of Acidity (400.00sp / ounce)
 
 #### Essence of Ending
 An outer essence of ending.
@@ -1050,7 +1452,7 @@ An outer essence of ending.
 - 10 ounce Foxglove (160.00sp)
 - 10 ounce Alknet (85.00sp)
 - 100 ounce Pine Needles (135.00sp)
-	- > 1 ounce Essence of Ending (500.00sp / ounce)
+	- 1 ounce Essence of Ending (500.00sp / ounce)
 
 #### Essence of Divinity
 An outer essence of divinity.
@@ -1058,7 +1460,7 @@ An outer essence of divinity.
 **Ingredients**;
 - 10 ounce Mandrake (80.00sp)
 - 35 carat Jade (350.00sp)
-	- > 1 ounce Essence of Divinity (500.00sp / ounce)
+	- 1 ounce Essence of Divinity (500.00sp / ounce)
 
 #### Essence of Growth
 An outer essence of growth.
@@ -1075,7 +1477,7 @@ An outer essence of rot.
 - 20 ounce Solanberry Tar (22.00sp)
 - 20 ounce Stinkhorn (40.00sp)
 - 20 ounce Smokebulb (150.00sp)
-	- > 1 ounce Essence of Rot (300.00sp / ounce)
+	- 1 ounce Essence of Rot (300.00sp / ounce)
 
 #### Essence of Undoing
 An outer essence of undoing.
@@ -1083,7 +1485,7 @@ An outer essence of undoing.
 **Ingredients**;
 - 4 ounce Nightshade (320.00sp)
 - 100 pounds Copper (120.00sp)
-	- > 1 ounce Essence of Undoing (500.00sp / ounce)
+	- 1 ounce Essence of Undoing (500.00sp / ounce)
 
 #### Essence of Creation
 An outer essence of creation.
@@ -1092,7 +1494,7 @@ An outer essence of creation.
 - 30 pounds Clay (19.5)
 - 60 ounces Honey (9.00sp)
 - 5 carat Onyx (375.00sp)
-	- > 1 ounce Essence of Creation (500.00sp / ounce)
+	- 1 ounce Essence of Creation (500.00sp / ounce)
 
 #### Essence of Conversation
 An outer essence of conversation.
@@ -1101,7 +1503,7 @@ An outer essence of conversation.
 - 15 ounce Foxglove (240.00sp)
 - 50 ounce Tobacco (5.00sp)
 - 20 ounce Smokebulb (150.00sp)
-	- > 1 ounce Essence of Conversation (500.00sp / ounce)
+	- 1 ounce Essence of Conversation (500.00sp / ounce)
 
 #### Essence of Action
 An outer essence of action.
@@ -1109,7 +1511,7 @@ An outer essence of action.
 **Ingredients**;
 - 30 ounce Alkanet (255.00sp)
 - 50 ounce Oak Bark (175.00sp)
-	- > 1 ounce Essence of Action (500.00sp / ounce)
+	- 1 ounce Essence of Action (500.00sp / ounce)
 
 #### Essence of Immutability
 An outer essence of immutability.
@@ -1117,7 +1519,7 @@ An outer essence of immutability.
 **Ingredients**;
 - 15 pounds Amber (225.00sp)
 - 15 ounces Ironwood Shavings (277.50sp)
-	- > 1 ounce Essence of Immutability (675.00sp / ounce)
+	- 1 ounce Essence of Immutability (675.00sp / ounce)
 
 #### Essence of Time
 An outer essence of time.
@@ -1133,15 +1535,15 @@ An outer essence of timelessness.
 **Ingredients**;
 - 1 pound Platinum (1100.00sp)
 - 15 pounds Mithril (3600.00sp)
-	- > 1 ounce Essence of Timelessness (6.0k sp / ounce)
+	- 1 ounce Essence of Timelessness (6.0k sp / ounce)
 
 #### Essence of Dragon
-An outer essence of draconics.
+An outer essence of power, greed, and arcana.
 
 **Ingredients**;
 - 320 ounces Chitin of Wurm (1600.00sp)
 - 320 ounces Dragon's Tongue (2928.00sp)
-	- > 1 ounce Essence of Dragon (5.5k sp / ounce)
+	- 1 ounce Essence of Dragon (5.5k sp / ounce)
 
 #### Essence of Mortality
 An outer essence of mortality.
@@ -1149,7 +1551,7 @@ An outer essence of mortality.
 **Ingredients**;
 - 160 ounces Mandrake (1280.00sp)
 - 16 carat Pearl (4000.00sp)
-	- > 1 ounce Essence of Mortality (6.0k sp / ounce)
+	- 1 ounce Essence of Mortality (6.0k sp / ounce)
 
 #### Essence of Prevention
 An outer essence of prevention.
@@ -1159,7 +1561,7 @@ An outer essence of prevention.
 - 20 pounds Silver (220.00sp)
 - 640 ounces Salt (32.00sp)
 - 320 ounces Oak Bark (1040.00sp)
-	- > 1 ounce Essence of Prevention (4.5k sp / ounce)
+	- 1 ounce Essence of Prevention (4.5k sp / ounce)
 
 #### Essence of Removal
 An outer essence of removal.
@@ -1169,7 +1571,7 @@ An outer essence of removal.
 - 80 ounce Foxglove (1280.00sp)
 - 160 ounce Chitin of Wurm (800.00sp)
 - 3 pounds Adamantine (1350.00sp)
-	- > 1 ounce Essence of Removal (5.5k sp / ounce)
+	- 1 ounce Essence of Removal (5.5k sp / ounce)
 
 #### Essence of Faith
 An outer essence of faith.
@@ -1177,7 +1579,7 @@ An outer essence of faith.
 **Ingredients**;
 - 1800 gallons Blood (1.8k sp)
 - 320 ounce Head of Lamb (3.9k sp)
-	- > 1 ounce Essence of Faith (5.5k sp / ounce)
+	- 1 ounce Essence of Faith (5.5k sp / ounce)
 
 ### Magical Inscriptions
 
