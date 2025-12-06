@@ -942,7 +942,10 @@ After digestion, make a DC (15 + (G * 2)) Constitution Saving Throw. If you succ
 Upon introduction, make a DC (17 + G) Charisma Saving Throw. If you succeed, you remember a nice moment, and feel happy for a moment. Otherwise, you are Stunned for the next G rounds.
 
 **Ingredients**;
-- XXX
+- 2 ounces Essence of Deception (800.0sp)
+- 1 ounce Essence of Conversation (500.0sp)
+- 1 ounce Essence of Arcana (200.0sp)
+	- 4 ounces Liquid Joy (1.5k sp) > (450.0sp / ounce)
 
 #### Liquid Calm
 > A seemingly unmoving grey liquid. It smells like a well executed plan.
