@@ -35,6 +35,27 @@
                 }
               },
               {
+                "id": "a76b313f3f7ee277",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.10.6"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.10.6"
+                }
+              },
+              {
                 "id": "4233b40f2cbed85a",
                 "type": "leaf",
                 "pane-relief:history-v1": {
@@ -86,7 +107,8 @@
                   "title": "Armors of Alaturmen"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "35e58886620c44c4",
@@ -494,7 +516,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e150d5d074b39aa1",
+  "active": "a76b313f3f7ee277",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
