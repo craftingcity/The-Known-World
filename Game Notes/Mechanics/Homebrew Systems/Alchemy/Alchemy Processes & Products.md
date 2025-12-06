@@ -633,24 +633,24 @@ Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving 
 
 ### Medicines
 
-| Name (Source)         | Mechanic                                    | Cost @ Market           | Regions Producing |
-| --------------------- | ------------------------------------------- | ----------------------- | ----------------- |
-| Druid's Dust          | Expend Hit Dice as Temp. HP                 | 4.5sp * Grade / ounce   |                   |
-| Nalasculas            | Prevent 'Petrified'                         | 175.0sp * Grade / ounce |                   |
-| Generalized Antivenom | Prevent 'Poisoned', gain Poison DR          | 45.0sp * Grade / potion |                   |
-| Aerotide              | Prevent Suffocation                         | 50.0sp * Grade / ounce  |                   |
-| Ambebamol             | Gain Rad. Protection                        | 15.0sp * Grade / ounce  |                   |
-| Amorphia              | Prevent polymorphing or animorphing         | 275.0sp * Grade / ounce |                   |
-| Pretokarin            | Resolve Poison                              | 10.0sp * Grade / ounce  |                   |
-| Scar Balm             | Resolve Lingering Injury (Scar/Blister)     | 12.0sp * Grade / balm   |                   |
-| Bone Balm             | Resolve Lingering Injury (Broken/Bruised)   | 20.0sp * Grade / balm                        |                   |
-| Heamox Balm           | Resolve Lingering Injury (Sup./Major)       |                         |                   |
-| Isiopara              | Regain HP / Gain STR/DEX                    |                         |                   |
-| Secreculde Propaterol | Regain HP                                   |                         |                   |
-| Seeker Symbiote       | -HP, gain Acid, Poison, Necrotic DR         |                         |                   |
-| Cognitive Driver      | -HP, charge vs Frightened, Charmed, Command |                         |                   |
-| Immuno-Secundus       | -HP, charge vs Poisoned, Petrified, Disease |                         |                   |
-| Elysian Petal         | Gain Max. HP, regain HP                     |                         |                   |
+| Name (Source)         | Mechanic                                    | Cost @ Market            | Regions Producing |
+| --------------------- | ------------------------------------------- | ------------------------ | ----------------- |
+| Druid's Dust          | Expend Hit Dice as Temp. HP                 | 4.5sp * Grade / ounce    |                   |
+| Nalasculas            | Prevent 'Petrified'                         | 175.0sp * Grade / ounce  |                   |
+| Generalized Antivenom | Prevent 'Poisoned', gain Poison DR          | 45.0sp * Grade / potion  |                   |
+| Aerotide              | Prevent Suffocation                         | 50.0sp * Grade / ounce   |                   |
+| Ambebamol             | Gain Rad. Protection                        | 15.0sp * Grade / ounce   |                   |
+| Amorphia              | Prevent polymorphing or animorphing         | 275.0sp * Grade / ounce  |                   |
+| Pretokarin            | Resolve Poison                              | 10.0sp * Grade / ounce   |                   |
+| Scar Balm             | Resolve Lingering Injury (Scar/Blister)     | 12.0sp * Grade / balm    |                   |
+| Bone Balm             | Resolve Lingering Injury (Broken/Bruised)   | 20.0sp * Grade / balm    |                   |
+| Heamox Balm           | Resolve Lingering Injury (Sup./Major)       | 32.0sp * Grade / balm    |                   |
+| Isiopara              | Regain HP / Gain STR/DEX                    | 12.5sp * Grade / 4g dose |                   |
+| Secreculde Propaterol | Regain HP                                   | 100.0sp * Grade / ounce  |                   |
+| Seeker Symbiote       | -HP, gain Acid, Poison, Necrotic DR         | 8.5k sp * Grade          |                   |
+| Cognitive Driver      | -HP, charge vs Frightened, Charmed, Command | 14.5k sp * Grade         |                   |
+| Immuno-Secundus       | -HP, charge vs Poisoned, Petrified, Disease | 10.0k sp * Grade         |                   |
+| Elysian Petal         | Gain Max. HP, regain HP                     | +30.0k sp * Grade        |                   |
 
 #### Druid's Dust
 > A coarse brown powder reminiscent in smell of compost and rotting fruit that acts as a local anesthetic. Typically, Druid's Dust is applied as minor ache or pain relief, but it sees use during combat as a temporary measure while proper medical care cannot be accessed.
@@ -789,7 +789,7 @@ Upon inhalation, make a DC (10 + (G * 3)) Constitution Saving Throw. If you succ
 - 16 ounces Aloe Vera (202.4sp)
 - 2 ounce Nightshade (160.0sp)
 - 12 carat Jade (120.0sp)
-	- 8 ounces Isopara (500.0sp) > (75.0sp / ounce) > (12.5sp / 4oz dosage)
+	- 8 ounces Isopara (500.0sp) > (75.0sp / ounce) > (12.5sp / 4g dosage)
 
 #### Secreclude Propaterol
 > A thin yellow liquid solution typically stored in vials or injection devices and introduced into the muscular layer of the body to amplify the natural healing process twenty-fold.
@@ -843,7 +843,10 @@ Upon introduction, your Hit Point Maximum is reduced by (G * 5). Your Secundus h
 Upon invocation, the Petal is consumed, and you and up to 11 other creatures of your choice may gain Maximum Hit Points as if leveling up. Then, you each regain 10 Hit Points.
 
 **Ingredients**;
-- XXX
+- 4 ounces Essence of Faith (22.0k sp)
+- 16 ounces of Health (4.8k sp)
+- 4 ounces Hair of Celestial (--)
+	- 1 Elysian Petal (+30k sp)
 
 
 ### Vices
@@ -882,7 +885,8 @@ Upon inhalation or injection, make a DC (12 + (G * 3)) Constitution Saving Throw
 Upon inhalation, make a DC (14 + (G * 2)) Constitution Saving Throw. If you succeed, your speed increases by 5', your AC increases by (G - 2) or 1, whichever is greater, and you gain +G to hit on Ranged Attacks for the next minute. Otherwise, you are Poisoned and Paralyzed for the next minute.
 
 **Ingredients**;
-- XXX
+- 32 ounces Dareanamon (104.0sp)
+- 
 
 #### Smokebulb
 > A brown mushroom spotted in pink growths. When inhaling the smoke produced by burning the mushroom, users report a near instant sense of calm, and within minutes, otherworldly visions. Addiction is common, and overdosage will likely lead to permanent mental damage. 
