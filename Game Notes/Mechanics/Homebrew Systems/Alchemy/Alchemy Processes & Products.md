@@ -924,7 +924,8 @@ Lephora Essence is harvested Naturally.
 After digestion, make a DC (11 + (G * 2)) Constitution Saving Throw. If you succeed, for the next minute, you gain +G to your Strength Modifier, your Wisdom Modifier is reduced by G, you gain (G * 2) Radiation Reduction, and at the beginning of your turn you may set your Temporary Hit Points to (G * 2). Otherwise, you are Poisoned for the next minute.
 
 **Ingredients**;
-- XXX
+- 5 pounds Fruit/Veggie (~1.5sp)
+	- 1 gallon Oldshine (~4.5sp) > (~0.5sp / pint)
 
 #### Good Liquor
 > A refined alcohol, worthy of the brand name it so honorably bears, likely made of a small group of well groomed ingredients.
@@ -932,7 +933,8 @@ After digestion, make a DC (11 + (G * 2)) Constitution Saving Throw. If you succ
 After digestion, make a DC (15 + (G * 2)) Constitution Saving Throw. If you succeed, for the next minute, you gain +(G + 3) to your Strength Modifier, your Wisdom Modifier is reduced by (G + 3), you gain (G * 5) Radiation Reduction, and at the beginning of your turn you may set your Temporary Hit Points to (G * 3). Otherwise, you are Poisoned and Dazed for the next minute.
 
 **Ingredients**;
-- XXX
+- 8 pounds Fruit/Veggie (~2.5sp)
+	- 1 gallon Good Liquor (~7.5sp) > (~0.8sp / pint)
 
 #### Liquid Joy
 > A rippling yellow liquid. It smells like a memory you hold dear.

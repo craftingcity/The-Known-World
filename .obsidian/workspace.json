@@ -198,9 +198,30 @@
               "icon": "lucide-file",
               "title": "Major Agricultural Harvests"
             }
+          },
+          {
+            "id": "2522e51b9ae79d4c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "GrainIntoGold"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -476,8 +497,8 @@
   },
   "active": "d1fe81449d1507f5",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
