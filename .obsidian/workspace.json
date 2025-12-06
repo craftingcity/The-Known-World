@@ -220,8 +220,7 @@
               "title": "GrainIntoGold"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -495,60 +494,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "7ad49c6e1788fabd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f2dae6073d926de0",
-        "type": "window",
-        "children": [
-          {
-            "id": "1de4223da8355f3b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "17772d2f72bd78b8",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "GavinEmily Game.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "GavinEmily Game"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 524,
-        "y": 0,
-        "width": 1511,
-        "height": 1400,
-        "maximize": true,
-        "zoom": -1.5
-      }
-    ]
-  },
-  "active": "17772d2f72bd78b8",
+  "active": "e150d5d074b39aa1",
   "lastOpenFiles": [
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+    "GavinEmily Game.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "conflict-files-obsidian-git.md",
@@ -558,7 +510,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Prenotes Nov 19 25.md",
-    "GavinEmily Game.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/South Littemotto.md",
     "Junie's Characters/Tiana Turing.md",

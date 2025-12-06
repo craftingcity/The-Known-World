@@ -640,10 +640,10 @@ Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving 
 | Generalized Antivenom | Prevent 'Poisoned', gain Poison DR          | 45.0sp * Grade / potion |                   |
 | Aerotide              | Prevent Suffocation                         | 50.0sp * Grade / ounce  |                   |
 | Ambebamol             | Gain Rad. Protection                        | 15.0sp * Grade / ounce  |                   |
-| Amorphia              | Prevent polymorphing or animorphing         |                         |                   |
-| Pretokarin            | Resolve Poison                              |                         |                   |
-| Scar Balm             | Resolve Lingering Injury (Scar/Blister)     |                         |                   |
-| Bone Balm             | Resolve Lingering Injury (Broken/Bruised)   |                         |                   |
+| Amorphia              | Prevent polymorphing or animorphing         | 275.0sp * Grade / ounce |                   |
+| Pretokarin            | Resolve Poison                              | 10.0sp * Grade / ounce  |                   |
+| Scar Balm             | Resolve Lingering Injury (Scar/Blister)     | 12.0sp * Grade / balm   |                   |
+| Bone Balm             | Resolve Lingering Injury (Broken/Bruised)   | 20.0sp * Grade / balm                        |                   |
 | Heamox Balm           | Resolve Lingering Injury (Sup./Major)       |                         |                   |
 | Isiopara              | Regain HP / Gain STR/DEX                    |                         |                   |
 | Secreculde Propaterol | Regain HP                                   |                         |                   |
