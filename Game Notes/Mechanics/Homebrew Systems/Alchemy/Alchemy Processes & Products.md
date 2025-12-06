@@ -851,22 +851,22 @@ Upon invocation, the Petal is consumed, and you and up to 11 other creatures of 
 
 ### Vices
 
-| Name (Source)   | Mechanic | Cost @ Market          | Regions Producing |
-| --------------- | -------- | ---------------------- | ----------------- |
-| Dareanamon      |          | 3.25sp * Grade / ounce |                   |
-| Nova            |          |                        |                   |
-| Smokebulb       |          |                        |                   |
-| Bulbkiss        |          |                        |                   |
-| Lephora Essence |          |                        |                   |
-| Oldshine        |          |                        |                   |
-| Good Liquor     |          |                        |                   |
-| Liquid Joy      |          |                        |                   |
-| Liquid Calm     |          |                        |                   |
-| Liquid Fear     |          |                        |                   |
-| Liquid Rage     |          |                        |                   |
-| Liquid Greed    |          |                        |                   |
-| Liquid Love     |          |                        |                   |
-| Liquid Potentia |          |                        |                   |
+| Name (Source)   | Mechanic                                                                          | Cost @ Market            | Regions Producing |
+| --------------- | --------------------------------------------------------------------------------- | ------------------------ | ----------------- |
+| Dareanamon      | DC 12+(G * 3) CON; +(G * 2) STR & DEX *OR* Poisoned, Paralyzed                    | 0.55sp * Grade / 4g dose |                   |
+| Nova            | DC 14+(G * 2) CON; +5 Speed, +(G-2) AC, +G to Hit Ranged *OR* Poisoned, Paralyzed | 3.75sp * Grade / 4g dose |                   |
+| Smokebulb       | DC 14+(G * 2) CON; gain (G + 1) * 5ft Truesight & Blindsight *OR* -G WIS & CHA    | 7.5sp / ounce            |                   |
+| Bulbkiss        | DC 13+(G * 3) CON; +G INT, WIS & CHA                                                                                    |                          |                   |
+| Lephora Essence |                                                                                   |                          |                   |
+| Oldshine        |                                                                                   |                          |                   |
+| Good Liquor     |                                                                                   |                          |                   |
+| Liquid Joy      |                                                                                   |                          |                   |
+| Liquid Calm     |                                                                                   |                          |                   |
+| Liquid Fear     |                                                                                   |                          |                   |
+| Liquid Rage     |                                                                                   |                          |                   |
+| Liquid Greed    |                                                                                   |                          |                   |
+| Liquid Love     |                                                                                   |                          |                   |
+| Liquid Potentia |                                                                                   |                          |                   |
 
 #### Dareanamon
 > A stinking grey crystal. Inhaled as a powder or injected as liquid, Dareanamon quickly distances it's user from their bodily experience. Very addictive, and overdosage most often results in cardiac arrest and death.
@@ -997,15 +997,23 @@ Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, you k
 Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, you can see the small way you are loved by those closest to you and the world at large. Otherwise, for the next G rounds, you are Charmed by the nearest creature you can see, and you treat them as a special person in your life.
 
 **Ingredients**;
-- XXX
+- 1 ounce Essence of Faith (5.5k sp)
+- 1 ounce Essence of Deception (400sp)
+- 2 ounces Essence of Fire (350sp)
+	- 4 ounces Liquid Love (6.5k sp) > (1625sp / ounce)
 
 #### Liquid Potentia
-> An iridescent shimmering liquid. It smells exactly like it should.
+> An iridescent shimmering liquid. It smells exactly like you thought it would.
 
 Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, you gain G Inspiration, and you know everything is gonna go your way. Otherwise, you are Poisoned for the next G rounds.
 
 **Ingredients**;
-- XXX
+- 3 ounce Essence of Divinity (1500sp)
+- 3 ounce Essence of Creation (1500sp)
+- 3 ounce Essence of Action (1500sp)
+- 1 ounce Essence of Time (5.5k sp)
+- 1 ounce Essence of Timelessness (6.0k sp)
+	- 4 ounces Liquid Potentia (16.0k sp) > (4.0k sp / ounce)
 
 
 ## Equipment
