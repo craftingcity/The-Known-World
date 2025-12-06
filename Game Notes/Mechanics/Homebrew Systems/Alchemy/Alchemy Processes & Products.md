@@ -886,7 +886,9 @@ Upon inhalation, make a DC (14 + (G * 2)) Constitution Saving Throw. If you succ
 
 **Ingredients**;
 - 32 ounces Dareanamon (104.0sp)
-- 
+- 1 carat Durandurm (475.0sp)
+- 8 pounds Mica (4.00sp)
+	- 48 ounces Nova (600.0)
 
 #### Smokebulb
 > A brown mushroom spotted in pink growths. When inhaling the smoke produced by burning the mushroom, users report a near instant sense of calm, and within minutes, otherworldly visions. Addiction is common, and overdosage will likely lead to permanent mental damage. 
