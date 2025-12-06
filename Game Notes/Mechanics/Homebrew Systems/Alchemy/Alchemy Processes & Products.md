@@ -950,34 +950,46 @@ Upon introduction, make a DC (17 + G) Charisma Saving Throw. If you succeed, you
 #### Liquid Calm
 > A seemingly unmoving grey liquid. It smells like a well executed plan.
 
-Upon introduction, make a DC (17 + G) Charisma Saving Throw. If you succeed, you reasonably evaluate your situation, and feel peace and understanding. Otherwise, you are Dazed for the next G rounds.
+Upon introduction, make a DC (17 + G) Charisma Saving Throw. If you succeed, you reasonably evaluate your situation, and feel peace and understanding. Otherwise, you are Dazed for the next (3 + G) rounds.
 
 **Ingredients**;
-- XXX
+- 1 ounce Essence of Deception (400.0sp)
+- 1 ounce Essence of Immutability (675.0sp)
+- 1 ounce Essence of Arcana (200.0sp)
+	- 3 ounces Liquid Calm (1.2k sp) > (450.0sp / ounce)
 
 #### Liquid Fear
-> A horrifyingly dark liquid. It smells like the monster at the edge of the campfire.
+> A horrifyingly dark liquid. It smells like the darkness at the edge of the campfire.
 
-Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, you acknowledge the danger of your situation, and continue to persevere. Otherwise, you are Frightened by hostiles you can see or hear for the next G rounds.
+Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, you acknowledge the danger of your situation, and continue to persevere. Otherwise, you are Frightened by non-Allies you can see or hear for the next (3 * G) rounds.
 
 **Ingredients**;
-- XXX
+- 1 ounce Essence of Prevention (4.5k sp)
+- 3 ounce Essence of Light (1.2k sp)
+- 1 ounce Essence of Faith (5.5k sp)
+	- 4 ounces Liquid Fear (12k sp) > (3.5k sp / ounce)
 
 #### Liquid Rage
 > A violently roiling red liquid. It smells like sweat, blood, and tears.
 
-Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, that kinda sucked, but you shrug it off. Otherwise, you spend the next G rounds actively attempting to kill the nearest creature, even if they are your Ally.
+Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, that kinda sucked, but you shrug it off. Otherwise, you spend the next (2 * G) rounds actively attempting to kill or destroy the nearest visible creature, even if they are your Ally.
 
 **Ingredients**;
-- XXX
+- 1 ounce Essence of Conversation (500sp)
+- 1 ounce Essence of Deception (400sp)
+- 3 ounce Essence of Action (1.5k sp)
+	- 4 ounces Liquid Rage (3.0k sp) > (750.0sp)
 
 #### Liquid Greed
-> A slick blueish liquid. It smells like finally rising above.
+> A slick blueish liquid. It smells like finally having what you so rightfully deserve.
 
-Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, you know what you want right now, but you understand now might not be the time, and here might not be the place. Otherwise, you spend the next G rounds taking and keeping the shiniest things you see.
+Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, you know what you want right now, but you understand now might not be the time, and here might not be the place. Otherwise, you spend the next G minutes taking and keeping the shiniest things you see.
 
 **Ingredients**;
-- XXX
+- 3 ounces Essence of Deception (1.2k sp)
+- 1 ounce Essence of Dragons (5.5k sp)
+- 1 ounce Essence of Density (300sp)
+	- 4 ounces Liquid Greed (7.0k sp) > (1750sp / ounce)
 
 #### Liquid Love
 > An enticing pinkish red liquid. It smells like home.
