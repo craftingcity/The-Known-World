@@ -860,13 +860,13 @@ Upon invocation, the Petal is consumed, and you and up to 11 other creatures of 
 | Lephora Essence | DC 14+(G * 4) CON; +(G * 2) Spellcasting *OR* Poisoned, Dazed                                                  | 45.0sp / 4g dose         |                   |
 | Oldshine        | DC 11+(G * 2) CON; +G STR, -G WIS, +(G * 2) Rad Reduction, set THP to (G * 2) *OR* Poisoned                    | 0.5sp / pint             |                   |
 | Good Liquor     | DC 15+(G * 2) CON; +(G + 3) STR, -(G + 3) WIS, +(G * 5) Rad Reduction, set THP to (G * 3) *OR* Poisoned, Dazed | 0.8sp / pint             |                   |
-| Liquid Joy      |                                                                                                                |                          |                   |
-| Liquid Calm     |                                                                                                                |                          |                   |
-| Liquid Fear     |                                                                                                                |                          |                   |
-| Liquid Rage     |                                                                                                                |                          |                   |
-| Liquid Greed    |                                                                                                                |                          |                   |
-| Liquid Love     |                                                                                                                |                          |                   |
-| Liquid Potentia |                                                                                                                |                          |                   |
+| Liquid Joy      | DC 17+G CHA; Stunned next G rounds                                                                             | 450sp * Grade / ounce    |                   |
+| Liquid Calm     | DC 17+G CHA; Dazed next (3 + G) rounds                                                                         | 450sp * Grade / ounce    |                   |
+| Liquid Fear     | DC 17+G WIS; Frightened of non-allies next (G * 3) rounds                                                      | 3.5k sp * Grade / ounce  |                   |
+| Liquid Rage     | DC 17+G WIS; Enraged next (2 * G) rounds                                                                       | 750sp * Grade / ounce    |                   |
+| Liquid Greed    | DC 17+G WIS; Enraptured next G minutes                                                                         | 1750sp * Grade / ounce   |                   |
+| Liquid Love     | DC 17+G WIS; Charmed next G rounds                                                                             | 1650sp * Grade / ounce   |                   |
+| Liquid Potentia | DC 17+G WIS; Gain G Inspiration *OR* Poisoned                                                                  | 4.0k sp * Grade / ounce  |                   |
 
 #### Dareanamon
 > A stinking grey crystal. Inhaled as a powder or injected as liquid, Dareanamon quickly distances it's user from their bodily experience. Very addictive, and overdosage often results in cardiac arrest and death.
@@ -1228,7 +1228,7 @@ When used during the process of creating an Alchemical Product, you gain +2 to t
 
 **Ingredients**;
 - 1 ounce Red Water (750.0sp)
-	- 16 
+	- 25g Yellow Powder (30sp / gram) 
 
 #### Kelvin's Wick
 >
