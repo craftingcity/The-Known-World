@@ -877,7 +877,7 @@ Upon inhalation or injection, make a DC (12 + (G * 3)) Constitution Saving Throw
 - 16 ounces Hair of Horse (200.0sp)
 - 8 ounces Hair of Humanoid (176.0sp)
 - 12 pounds Mica (6.00sp)
-	- 128 ounces Dareanamon (400.0sp) > (3.25sp / ounce)
+	- 128 ounces Dareanamon (400.0sp) > (3.25sp / ounce) > (0.55sp / 4oz dose)
 
 #### Nova
 > A fine light-pink powder derived from Dareanamon. When inhaled, Nova pushes the body to an extreme, pushing adrenaline throughout the body and destroying any sense of inhibition. Addiction and overdose is common and deadly.
@@ -886,14 +886,18 @@ Upon inhalation, make a DC (14 + (G * 2)) Constitution Saving Throw. If you succ
 
 **Ingredients**;
 - 32 ounces Dareanamon (104.0sp)
+- 16 ounces Eye of Frog (320.0sp)
 - 1 carat Durandurm (475.0sp)
 - 8 pounds Mica (4.00sp)
-	- 48 ounces Nova (600.0)
+	- 48 ounces Nova (1.0k sp) > (22.5sp / ounce) > (3.75sp / 4g dose)
 
 #### Smokebulb
 > A brown mushroom spotted in pink growths. When inhaling the smoke produced by burning the mushroom, users report a near instant sense of calm, and within minutes, otherworldly visions. Addiction is common, and overdosage will likely lead to permanent mental damage. 
 
 Upon inhalation, make a DC (14 + (G * 2)) Constitution Saving Throw. If you succeed, you gain Truesight and Blindsight at ((G + 1) * 5) feet for the next 10 minutes. Otherwise, your Wisdom and Charisma Modifiers are reduced by G for the next 10 minutes.
+
+Smokebulb is grown naturally.
+	- 1 ounce Smokebulb (7.50sp)
 
 #### Bulbkiss
 > A sickly brown powder derived from Smokebulb. When inhaled, users report instant euphoria, energy, and confidence in themselves. Addiction is common, and overdose can be deadly alone, but will likely always result in the user pursuing some actions that result in their death.
@@ -901,7 +905,9 @@ Upon inhalation, make a DC (14 + (G * 2)) Constitution Saving Throw. If you succ
 Upon inhalation, make a DC (13 + (G * 3)) Constitution Saving Throw. If you succeed, you gain +G to your Intelligence, Wisdom, and Charisma Modifiers for the next minute. Otherwise, you are Poisoned and under the effects of the *confusion* spell for the next minute.
 
 **Ingredients**;
-- XXX
+- 16 ounces Smokebulb (120.0sp)
+- 4 ounces Elf's Cup (74.6sp)
+- 
 
 #### Lephora Essence
 > A light yellow liquid derived from Lephora Fruit. When ingested, users immediately display euphoria and intense dedication. Consistently, users claim to feel "connected to the whole world". Addiction is nearly unavoidable, although overdosage seems to have little to no ill-effects.
