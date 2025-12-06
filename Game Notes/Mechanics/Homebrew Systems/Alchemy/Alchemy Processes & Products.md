@@ -851,25 +851,25 @@ Upon invocation, the Petal is consumed, and you and up to 11 other creatures of 
 
 ### Vices
 
-| Name (Source)   | Mechanic                                                                          | Cost @ Market            | Regions Producing |
-| --------------- | --------------------------------------------------------------------------------- | ------------------------ | ----------------- |
-| Dareanamon      | DC 12+(G * 3) CON; +(G * 2) STR & DEX *OR* Poisoned, Paralyzed                    | 0.55sp * Grade / 4g dose |                   |
-| Nova            | DC 14+(G * 2) CON; +5 Speed, +(G-2) AC, +G to Hit Ranged *OR* Poisoned, Paralyzed | 3.75sp * Grade / 4g dose |                   |
-| Smokebulb       | DC 14+(G * 2) CON; gain (G + 1) * 5ft Truesight & Blindsight *OR* -G WIS & CHA    | 7.5sp / ounce            |                   |
-| Bulbkiss        | DC 13+(G * 3) CON; +G INT, WIS & CHA                                                                                    |                          |                   |
-| Lephora Essence |                                                                                   |                          |                   |
-| Oldshine        |                                                                                   |                          |                   |
-| Good Liquor     |                                                                                   |                          |                   |
-| Liquid Joy      |                                                                                   |                          |                   |
-| Liquid Calm     |                                                                                   |                          |                   |
-| Liquid Fear     |                                                                                   |                          |                   |
-| Liquid Rage     |                                                                                   |                          |                   |
-| Liquid Greed    |                                                                                   |                          |                   |
-| Liquid Love     |                                                                                   |                          |                   |
-| Liquid Potentia |                                                                                   |                          |                   |
+| Name (Source)   | Mechanic                                                                                                       | Cost @ Market            | Regions Producing |
+| --------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- |
+| Dareanamon      | DC 12+(G * 3) CON; +(G * 2) STR & DEX *OR* Poisoned, Paralyzed                                                 | 0.55sp * Grade / 4g dose |                   |
+| Nova            | DC 14+(G * 2) CON; +5 Speed, +(G - 2) AC, +G to Hit Ranged *OR* Poisoned, Paralyzed                            | 3.75sp * Grade / 4g dose |                   |
+| Smokebulb       | DC 14+(G * 2) CON; gain (G + 1) * 5ft Truesight & Blindsight *OR* -G WIS & CHA                                 | 7.5sp / ounce            |                   |
+| Bulbkiss        | DC 13+(G * 3) CON; +G INT, WIS & CHA *OR* Poisoned, Confused                                                   | 4.50sp * Grade / 4g dose |                   |
+| Lephora Essence | DC 14+(G * 4) CON; +(G * 2) Spellcasting *OR* Poisoned, Dazed                                                  | 45.0sp / 4g dose         |                   |
+| Oldshine        | DC 11+(G * 2) CON; +G STR, -G WIS, +(G * 2) Rad Reduction, set THP to (G * 2) *OR* Poisoned                    | 0.5sp / pint             |                   |
+| Good Liquor     | DC 15+(G * 2) CON; +(G + 3) STR, -(G + 3) WIS, +(G * 5) Rad Reduction, set THP to (G * 3) *OR* Poisoned, Dazed | 0.8sp / pint             |                   |
+| Liquid Joy      |                                                                                                                |                          |                   |
+| Liquid Calm     |                                                                                                                |                          |                   |
+| Liquid Fear     |                                                                                                                |                          |                   |
+| Liquid Rage     |                                                                                                                |                          |                   |
+| Liquid Greed    |                                                                                                                |                          |                   |
+| Liquid Love     |                                                                                                                |                          |                   |
+| Liquid Potentia |                                                                                                                |                          |                   |
 
 #### Dareanamon
-> A stinking grey crystal. Inhaled as a powder or injected as liquid, Dareanamon quickly distances it's user from their bodily experience. Very addictive, and overdosage most often results in cardiac arrest and death.
+> A stinking grey crystal. Inhaled as a powder or injected as liquid, Dareanamon quickly distances it's user from their bodily experience. Very addictive, and overdosage often results in cardiac arrest and death.
 
 Upon inhalation or injection, make a DC (12 + (G * 3)) Constitution Saving Throw. If you succeed, you gain +(G * 2) to your Strength and Dexterity Modifiers for the next minute. Otherwise, you are Poisoned and Paralyzed for the next minute.
 
