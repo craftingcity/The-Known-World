@@ -148,6 +148,7 @@ aliases:
 | Smokebulb          | 7.50 / ounce  | Illburn, Mnt. Hall, Actstow                             |
 | Crystal Dareanamon | 25.00 / ounce | Prosper, Illburn, Combine, Tetrimoc, Mnt. Hall, Actstow |
 | Lephora Fruit      | 14.00 / ounce | Tetrimoc                                                |
+| Lephora Essence    | 256.0 / ounce | Tetrimoc                                                |
 
 # Textiles
 

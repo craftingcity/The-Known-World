@@ -896,7 +896,7 @@ Upon inhalation, make a DC (14 + (G * 2)) Constitution Saving Throw. If you succ
 
 Upon inhalation, make a DC (14 + (G * 2)) Constitution Saving Throw. If you succeed, you gain Truesight and Blindsight at ((G + 1) * 5) feet for the next 10 minutes. Otherwise, your Wisdom and Charisma Modifiers are reduced by G for the next 10 minutes.
 
-Smokebulb is grown naturally.
+Smokebulb is harvested Naturally.
 	- 1 ounce Smokebulb (7.50sp)
 
 #### Bulbkiss
@@ -907,12 +907,16 @@ Upon inhalation, make a DC (13 + (G * 3)) Constitution Saving Throw. If you succ
 **Ingredients**;
 - 16 ounces Smokebulb (120.0sp)
 - 4 ounces Elf's Cup (74.6sp)
-- 
+- 4 ounces Hair of Horse (50.0sp)
+	- 12 ounces Blubkiss (275.0sp) > (25.0sp / ounce) > (4.50sp / 4g dose)
 
 #### Lephora Essence
 > A light yellow liquid derived from Lephora Fruit. When ingested, users immediately display euphoria and intense dedication. Consistently, users claim to feel "connected to the whole world". Addiction is nearly unavoidable, although overdosage seems to have little to no ill-effects.
 
 Upon ingestion, make a DC (14 + (G * 4)) Constitution Saving Throw. If you succeed, you gain +(G * 2) to your Spellcasting Ability Modifier for the next minute. Otherwise, you are Poisoned and Dazed for the next minute.
+
+Lephora Essence is harvested Naturally.
+	- 1 ounce Lephora Essence (256.0sp / ounce) > (45.0sp / 4g dose)
 
 #### Oldshine
 > A harsh clear alcohol comprised of a variety of vegetables that have been mushed, spiced, fermented, and aged.  

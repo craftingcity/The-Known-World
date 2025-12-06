@@ -198,29 +198,9 @@
               "icon": "lucide-file",
               "title": "Major Agricultural Harvests"
             }
-          },
-          {
-            "id": "ca8bec6cf445a05f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/SUPP/DOCS/GrainIntoGold.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "GrainIntoGold"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -496,16 +476,16 @@
   },
   "active": "d1fe81449d1507f5",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
+    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "GavinEmily Game.md",
-    "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "Prenotes Dec 01 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
