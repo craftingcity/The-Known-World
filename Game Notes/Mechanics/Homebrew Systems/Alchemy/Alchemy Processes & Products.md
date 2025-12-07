@@ -1221,7 +1221,10 @@ When used in the process of Inscribing a Patch onto an item or object to enchant
 When used in the process of performing a ritual, the casting time of that ritual is reduced by 10 minutes.
 
 **Ingredients**;
-- XXX
+- 8 pounds Chalk (0.20sp)
+- 1 pound Gold (110.0sp)
+- 1 ounce Essence of Arcana (200.0sp)
+	- 8 pounds Alchemical Chalk (375.0sp) > (12.5sp / )
 
 #### Spell Gem
 > A small gem that has been filled with potential.
