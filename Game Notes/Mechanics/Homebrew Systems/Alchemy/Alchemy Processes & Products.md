@@ -1151,15 +1151,15 @@ While you are wearing the Charm, when you are next exclusively targeted by a spe
 
 ### Enchanting
 
-| Name (Source)    | Mechanic                           | Cost @ Market   | Regions Producing |
-| ---------------- | ---------------------------------- | --------------- | ----------------- |
-| Soma Gel         | +1 Patch Power                     | 4.0k sp / ounce |                   |
-| Kylao Gel        | Double spell level on target       | 600.0sp / ounce |                   |
-| Animan's Tears   | Regain spell slot / +1 Patch Power | 375.0sp / ounce |                   |
-| Enchanter's Ink  |                                    |                 |                   |
-| Enchanter's Acid |                                    |                 |                   |
-| Alchemical Chalk |                                    |                 |                   |
-| Spell Gem        |                                    |                 |                   |
+| Name (Source)    | Mechanic                           | Cost @ Market         | Regions Producing |
+| ---------------- | ---------------------------------- | --------------------- | ----------------- |
+| Soma Gel         | +1 Patch Power                     | 4.0k sp / ounce       |                   |
+| Kylao Gel        | Double spell level on target       | 600.0sp / ounce       |                   |
+| Animan's Tears   | Regain spell slot / +1 Patch Power | 375.0sp / ounce       |                   |
+| Enchanter's Ink  | +1 Patch Power                     | 15.5sp / ounce        |                   |
+| Enchanter's Acid | +1 Patch Power                     | 100.0sp / ounce       |                   |
+| Alchemical Chalk | -10 minutes for ritual             | 12.5sp / 4oz stick    |                   |
+| Spell Gem        | cast a spell                       | 1.8k sp * Grade / gem |                   |
 
 #### Soma Gel
 > A thick orange wax used to prepare materials for Patch Inscription. A common supply of any tinker or enchanter.
@@ -1224,7 +1224,7 @@ When used in the process of performing a ritual, the casting time of that ritual
 - 8 pounds Chalk (0.20sp)
 - 1 pound Gold (110.0sp)
 - 1 ounce Essence of Arcana (200.0sp)
-	- 8 pounds Alchemical Chalk (375.0sp) > (12.5sp / )
+	- 8 pounds Alchemical Chalk (375.0sp) > (12.5sp / 4oz stick)
 
 #### Spell Gem
 > A small gem that has been filled with potential.
@@ -1234,7 +1234,9 @@ When created, choose a spell you know that is at most a (G) Level spell. This Sp
 `For example, if G=4, a spell gem can hold one cast of a 3rd or 4th level spell, two casts of a 2nd level spell, or four casts of a 1st level spell`
 
 **Ingredients**;
-- XXX
+- 1 carat Diamond (1.0k sp)
+- 4 ounces Essence of Arcana (800.0sp)
+	- 1 Spell Gem (1.8k sp)
 
 
 ### Production
