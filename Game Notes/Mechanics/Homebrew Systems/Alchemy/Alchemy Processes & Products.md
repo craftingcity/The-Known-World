@@ -69,8 +69,8 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 | Darksteel (*Iron*, *Bitumen*, *Crude Oil*) | +2 Metallic        | 2.75sp / pound   | Tetrimoc, Mnt. Hall |
 | Chaotic Gold (*Gold*)                      | Chaotic Orb        | 1.0k sp / pound  | Tetrimoc            |
 | Adjust Bronze (*Copper, Tin*)              | +1 Metallic        | 85.00sp / pound  | Mnt. Hall           |
-| Pure Force                                 | Invisible Solid    | 125.00sp / pound | any                 |
-| Hardlight                                  | Portal Lightbridge | 1.3k sp / pound  | any                 |
+| Pure Force                                 | Invisible Solid    | 125.00sp / pound (no sale) | any                 |
+| Hardlight                                  | Portal Lightbridge | 1.3k sp / pound (no sale) | any                 |
 
 #### Darksteel
 > A glittering black metal produced by an advanced chain of alchemical and metallurgic processes. One of the strongest metals processed by Alatermenians today.
@@ -176,11 +176,11 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 
 ### Textiles
 
-| Name (Source)               | Mechanic               | Cost @ Market    | Regions Producing   |
-| --------------------------- | ---------------------- | ---------------- | ------------------- |
-| Pressigen (*Dark Oil*)      | Form Fitting / Stretch | 6.00 / sq. yard  | Mnt. Hall, Tetrimoc |
-| Elven Fiber (*Pine Needle*) | +1 Material            | 30.00 / sq. yard | Actstow             |
-| Alchemical Fabric (*Linen*) | Arcane Reactive        | 175.0 / sq. yard | any                 |
+| Name (Source)               | Mechanic        | Cost @ Market    | Regions Producing   |
+| --------------------------- | --------------- | ---------------- | ------------------- |
+| Pressigen (*Dark Oil*)      | +1 Material     | 6.00 / sq. yard  | Mnt. Hall, Tetrimoc |
+| Elven Fiber (*Pine Needle*) | +1 Material     | 30.00 / sq. yard | Actstow             |
+| Alchemical Fabric (*Linen*) | Arcane Reactive | 175.0 / sq. yard | any                 |
 
 #### Pressigen
 > A matte black material of advanced alchemical origin, Pressigen is hydrophobic, flexible, and incredibly tough.
@@ -647,10 +647,10 @@ Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving 
 | Heamox Balm           | Resolve Lingering Injury (Sup./Major)       | 32.0sp * Grade / balm    |                   |
 | Isiopara              | Regain HP / Gain STR/DEX                    | 12.5sp * Grade / 4g dose |                   |
 | Secreculde Propaterol | Regain HP                                   | 100.0sp * Grade / ounce  |                   |
-| Seeker Symbiote       | -HP, gain Acid, Poison, Necrotic DR         | 8.5k sp * Grade          |                   |
-| Cognitive Driver      | -HP, charge vs Frightened, Charmed, Command | 14.5k sp * Grade         |                   |
-| Immuno-Secundus       | -HP, charge vs Poisoned, Petrified, Disease | 10.0k sp * Grade         |                   |
-| Elysian Petal         | Gain Max. HP, regain HP                     | +30.0k sp * Grade        |                   |
+| Seeker Symbiote       | -HP, gain Acid, Poison, Necrotic DR         | 8.5k sp * Grade (no sale)         |                   |
+| Cognitive Driver      | -HP, charge vs Frightened, Charmed, Command | 14.5k sp * Grade (no sale)        |                   |
+| Immuno-Secundus       | -HP, charge vs Poisoned, Petrified, Disease | 10.0k sp * Grade (no sale)        |                   |
+| Elysian Petal         | Gain Max. HP, regain HP                     | +30.0k sp * Grade (no sale)       |                   |
 
 #### Druid's Dust
 > A coarse brown powder reminiscent in smell of compost and rotting fruit that acts as a local anesthetic. Typically, Druid's Dust is applied as minor ache or pain relief, but it sees use during combat as a temporary measure while proper medical care cannot be accessed.
@@ -1151,15 +1151,15 @@ While you are wearing the Charm, when you are next exclusively targeted by a spe
 
 ### Enchanting
 
-| Name (Source)    | Mechanic       | Cost @ Market | Regions Producing |
-| ---------------- | -------------- | ------------- | ----------------- |
-| Soma Gel         | +1 Patch Power |               |                   |
-| Kylao Gel        |                |               |                   |
-| Animan's Tears   |                |               |                   |
-| Enchanter's Ink  |                |               |                   |
-| Enchanter's Acid |                |               |                   |
-| Alchemical Chalk |                |               |                   |
-| Spell Gem        |                |               |                   |
+| Name (Source)    | Mechanic                     | Cost @ Market | Regions Producing |
+| ---------------- | ---------------------------- | ------------- | ----------------- |
+| Soma Gel         | +1 Patch Power               | +110.0sp / ounce              |                   |
+| Kylao Gel        | Double spell level on target |               |                   |
+| Animan's Tears   |                              |               |                   |
+| Enchanter's Ink  |                              |               |                   |
+| Enchanter's Acid |                              |               |                   |
+| Alchemical Chalk |                              |               |                   |
+| Spell Gem        |                              |               |                   |
 
 #### Soma Gel
 > A thick orange wax used to prepare materials for Patch Inscription. A common supply of any tinker or enchanter.
@@ -1167,8 +1167,9 @@ While you are wearing the Charm, when you are next exclusively targeted by a spe
 When used in the process of Inscribing a Patch onto an item or object to enchant it, the Patch's Power is increased by 1.
 
 **Ingredients**;
-- 1 pound Gold
-- 
+- 1 pound Gold (110.0sp)
+- 8 ounces Eye of Beholder ( -- sp)
+	- 8 ounces Soma Gel (+110.0sp)
 
 #### Kylao Gel
 > A greenish blue wax used to amplify the effects of a spell on a creature or object.
@@ -1176,7 +1177,10 @@ When used in the process of Inscribing a Patch onto an item or object to enchant
 While applied to a creature or object, the next spell that exclusively targets that creature or object is cast as if it's spell level was doubled.
 
 **Ingredients**;
-- XXX
+- 64 ounces Elf's Cup (1.2k sp)
+- 4 pounds Gold (440.0sp)
+- 32 ounces Horn of Boar (576.0sp)
+	- 24 ounces Kylao Gel (2.5k sp) > (150sp / ounce)
 
 #### Animan's Tears
 > A transparent light-blue liquid composed of loose 'Weave Potentia'. Most commonly used as a volatile alternative to Durandurm for supplying energy to modern Arcanotech devices.
@@ -1185,35 +1189,35 @@ When a creature that can cast spells and has used a spell slot of 4th level or l
 
 When used in the process of Inscribing a Patch onto an item or object to enchant it, the Patch Power is increased by 1.
 
-**Ingredients**;
-- XXX
+Animan's Tears are harvested Naturally.
+	- 1 ounce Animan's Tears (375.0sp)
 
 #### Enchanter's Ink
 > A thick iridescent ink used by arcanists to write scrolls and inscribe Patches.
 
-...
+When used in the process of Inscribing a Patch onto an item or object to enchant it, the Patch's Power is increased by 1.
 
 **Ingredients**;
 - XXX
 
 #### Enchanter's Acid
->
+> A bright lime green caustic liquid used by arcanists to inscribe Patches onto tough materials.
 
-...
+When used in the process of Inscribing a Patch onto an item or object to enchant it, the Patch's Power is increased by 1.
 
 **Ingredients**;
 - XXX
 
 #### Alchemical Chalk
->
+> A colored chalk that shimmers and glows in the candlelight.
 
-...
+When used in the process of performing a ritual, the casting time of that ritual is reduced by 10 minutes.
 
 **Ingredients**;
 - XXX
 
 #### Spell Gem
->
+> A small gem that has been filled with potential.
 
 ...
 
