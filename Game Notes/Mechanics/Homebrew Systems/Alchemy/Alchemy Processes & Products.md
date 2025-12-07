@@ -1019,18 +1019,18 @@ Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, you g
 ## Equipment
 ### Adventuring
 
-| Name (Source)                | Mechanic                                                    | Cost @ Market                         | Regions Producing |
-| ---------------------------- | ----------------------------------------------------------- | ------------------------------------- | ----------------- |
-| Liquid Light / Flash Pellets | Shed light & DC (13 + G) DEX; (G * 10ft) Blind for G rounds | (12.5sp / ounce) or (2.15sp / pellet) |                   |
-| Suregrip                     |                                                             |                                       |                   |
-| Alchemical Explosive         |                                                             |                                       |                   |
-| Everlight Wax                |                                                             |                                       |                   |
-| Spellsmoke Wax               |                                                             |                                       |                   |
-| Violet Emitter               |                                                             |                                       |                   |
-| Lightswitch                  |                                                             |                                       |                   |
-| Purity Lens                  |                                                             |                                       |                   |
-| Auspex Lens                  |                                                             |                                       |                   |
-| Precounter Charm             |                                                             |                                       |                   |
+| Name (Source)                | Mechanic                                                                           | Cost @ Market                         | Regions Producing |
+| ---------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------- | ----------------- |
+| Liquid Light / Flash Pellets | Shed light for (G * 5') & throw for DC (13 + G) DEX; (G * 10ft) Blind for G rounds | (12.5sp / ounce) or (2.15sp / pellet) |                   |
+| Suregrip                     | Advantage on grip for G rounds                                                     | 1.75 * Grade / ounce                  |                   |
+| Alchemical Explosive         | Explodes into (G * 15') sphere of (G * (3d8 + 5)) force damage                     | 375.0sp * Grade / pound               |                   |
+| Everlight Wax                | Burns for (G * 7) days                                                             | 750.0sp * Grade / ounce               |                   |
+| Spellsmoke Wax               | For (3 + G) rounds, (G * 5') sphere of *antimagic field*                           | 125.0sp * Grade / ounce               |                   |
+| Violet Emitter               | Advantage while investigating bodily substances or diseases                        | 3.0k sp                               |                   |
+| Lightswitch                  | Extinguish light                                                                   | 2.0k sp                               |                   |
+| Purity Lens                  | Examine Faith-claims                                                               | 5.0k sp (no sale)                     |                   |
+| Auspex Lens                  | Examine magical effects                                                            | 5.5k sp                               |                   |
+| Precounter Charm             | When next targeted exclusively, cast *counterspell* with WIS                       | 1.0k sp                               |                   |
 
 #### Liquid Light / Flashpellets
 > A white brightly glowing liquid most commonly used and known as 'Flashpellets', hollow glass beads filled with Liquid Light and thrown or fired as a momentary discombobulating flash of light.
@@ -1071,7 +1071,7 @@ When activated, the substance explodes into a (G * 15') radius sphere that deals
 #### Everlight Wax
 > A translucent brown wax that burns cleanly and continually.
 
-When lit, the wax begins to burn, and does not stop burning until extinguished.
+When lit, the wax begins to burn, and does not stop burning until extinguished or (G * 7) days have passed.
 
 **Ingredients**;
 - 32 ounces Polypore, Red (129.6sp)
@@ -1120,36 +1120,46 @@ When toggled within bright or dim light emitted by a "non-natural" source, that 
 While viewing a creature through the Purity Lens, a series of colorful orbs can be seen surrounding the creature. These orbs represent the entities that have claimed part of the target's Faith. The orb's size represents the size of the entity's claim.
 
 **Ingredients**;
-- 4 carat D
+- 4 carat Durandurm (1.9k sp)
+- 4 carat Pearl (1.0k sp)
+- 1 carat Diamond (1.0k sp)
+- 24 ounces Antler of Deer (38.4sp)
+	- 1 Purity Lens (5.0k sp)
 
 #### Auspex Lens
 > A thin tinted-red cut of crystal most commonly used by arcane practitioners and alchemists to identify an object's connection or effect on the Weave.
 
-While viewing an object through the Auspex Lens, a description of the object and it's magical effects, if any, appear upon the surface of the lens. The description is as truthful and informed as it can be.
+While viewing an object through the Auspex Lens, a description of the object and it's magical effects and triggers, if any, appear upon the surface of the lens. The description is as truthful and informed as it can be (see *identify*).
 
 **Ingredients**;
-- XXX
+- 4 carat Durandurm (1.9k sp)
+- 1 carat Diamond (1.0k sp)
+- 24 pounds Gold (2.64k sp)
+	- 1 Auspex Lens (5.5k sp)
 
 #### Precounter Charm
-> A small purple crystal pin or button that shatters and bursts into a thin mist when exposed to significant disturbance in the Weave. 
+> A small golden pin or button that shatters and bursts into a thin mist when exposed to significant disturbance in the Weave. 
 
 While you are wearing the Charm, when you are next exclusively targeted by a spell, the Charm shatters and casts *counterspell* using your Wisdom as it's Spellcasting Ability.
 
 **Ingredients**;
-- XXX
+- 4 pounds Gold (440.0sp)
+- 20 pounds Alabaster (4.00sp)
+- 24 ounces Ironwood Shavings (444.0sp)
+	- 1 Precounter Charm (1.0k sp)
 
 
 ### Enchanting
 
-| Name (Source)    | Mechanic | Cost @ Market | Regions Producing |
-| ---------------- | -------- | ------------- | ----------------- |
-| Soma Gel         |          |               |                   |
-| Kylao Gel        |          |               |                   |
-| Animan's Tears   |          |               |                   |
-| Enchanter's Ink  |          |               |                   |
-| Enchanter's Acid |          |               |                   |
-| Alchemical Chalk |          |               |                   |
-| Spell Gem        |          |               |                   |
+| Name (Source)    | Mechanic       | Cost @ Market | Regions Producing |
+| ---------------- | -------------- | ------------- | ----------------- |
+| Soma Gel         | +1 Patch Power |               |                   |
+| Kylao Gel        |                |               |                   |
+| Animan's Tears   |                |               |                   |
+| Enchanter's Ink  |                |               |                   |
+| Enchanter's Acid |                |               |                   |
+| Alchemical Chalk |                |               |                   |
+| Spell Gem        |                |               |                   |
 
 #### Soma Gel
 > A thick orange wax used to prepare materials for Patch Inscription. A common supply of any tinker or enchanter.
@@ -1157,7 +1167,8 @@ While you are wearing the Charm, when you are next exclusively targeted by a spe
 When used in the process of Inscribing a Patch onto an item or object to enchant it, the Patch's Power is increased by 1.
 
 **Ingredients**;
-- XXX
+- 1 pound Gold
+- 
 
 #### Kylao Gel
 > A greenish blue wax used to amplify the effects of a spell on a creature or object.
