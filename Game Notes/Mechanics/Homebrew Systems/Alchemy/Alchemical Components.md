@@ -167,7 +167,7 @@ aliases:
 | Blood of Fiend          | (4) DEGENERATE / ARCANA   | -                | Combine, Tetrimoc, Holyl'nds |
 | Brain of Illithid       | (4) ABJURE / ARCANA       | -                | Mnt. Hall                    |
 | Chitin of Ankheg        | (2) DESIST / POISON       | 60.00 / ounce    | Mnt. Hall                    |
-| Eye of Beholder         | (4) EVOKE / ARCANA        | -                | -                            |
+| Eye of Beholder         | (4) EVOKE / ARCANA        | 3.5k / ounce     | -                            |
 | Eye of Cockatrice       | (4) NECROT / FORM         | -                | Combine                      |
 | Eye of Dragon           | (4) DRACONIC / EVOKE      | -                | -                            |
 | Excrete of Fiend        | (5) CHARM / ARCANA        | -                | -                            |

@@ -222,8 +222,7 @@
               "title": "GrainIntoGold"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -498,7 +497,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02d5237c9ba7c433",
+  "active": "d1fe81449d1507f5",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",

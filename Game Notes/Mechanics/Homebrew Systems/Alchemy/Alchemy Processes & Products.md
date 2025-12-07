@@ -1151,15 +1151,15 @@ While you are wearing the Charm, when you are next exclusively targeted by a spe
 
 ### Enchanting
 
-| Name (Source)    | Mechanic                     | Cost @ Market | Regions Producing |
-| ---------------- | ---------------------------- | ------------- | ----------------- |
-| Soma Gel         | +1 Patch Power               | +110.0sp / ounce              |                   |
-| Kylao Gel        | Double spell level on target |               |                   |
-| Animan's Tears   |                              |               |                   |
-| Enchanter's Ink  |                              |               |                   |
-| Enchanter's Acid |                              |               |                   |
-| Alchemical Chalk |                              |               |                   |
-| Spell Gem        |                              |               |                   |
+| Name (Source)    | Mechanic                           | Cost @ Market   | Regions Producing |
+| ---------------- | ---------------------------------- | --------------- | ----------------- |
+| Soma Gel         | +1 Patch Power                     | 4.0k sp / ounce |                   |
+| Kylao Gel        | Double spell level on target       | 600.0sp / ounce |                   |
+| Animan's Tears   | Regain spell slot / +1 Patch Power | 375.0sp / ounce |                   |
+| Enchanter's Ink  |                                    |                 |                   |
+| Enchanter's Acid |                                    |                 |                   |
+| Alchemical Chalk |                                    |                 |                   |
+| Spell Gem        |                                    |                 |                   |
 
 #### Soma Gel
 > A thick orange wax used to prepare materials for Patch Inscription. A common supply of any tinker or enchanter.
@@ -1168,8 +1168,8 @@ When used in the process of Inscribing a Patch onto an item or object to enchant
 
 **Ingredients**;
 - 1 pound Gold (110.0sp)
-- 8 ounces Eye of Beholder ( -- sp)
-	- 8 ounces Soma Gel (+110.0sp)
+- 8 ounces Eye of Beholder (28.0k sp)
+	- 8 ounces Soma Gel (30.0k sp) > (4.0k sp / ounce)
 
 #### Kylao Gel
 > A greenish blue wax used to amplify the effects of a spell on a creature or object.
@@ -1180,7 +1180,7 @@ While applied to a creature or object, the next spell that exclusively targets t
 - 64 ounces Elf's Cup (1.2k sp)
 - 4 pounds Gold (440.0sp)
 - 32 ounces Horn of Boar (576.0sp)
-	- 24 ounces Kylao Gel (2.5k sp) > (150sp / ounce)
+	- 6 ounces Kylao Gel (2.5k sp) > (600sp / ounce)
 
 #### Animan's Tears
 > A transparent light-blue liquid composed of loose 'Weave Potentia'. Most commonly used as a volatile alternative to Durandurm for supplying energy to modern Arcanotech devices.
@@ -1198,7 +1198,10 @@ Animan's Tears are harvested Naturally.
 When used in the process of Inscribing a Patch onto an item or object to enchant it, the Patch's Power is increased by 1.
 
 **Ingredients**;
-- XXX
+- 1 pound Gold (110.0sp)
+- 4 pounds Chalk (0.20sp)
+- 48 ounces Alkanet (408.0sp)
+	- 36 ounces Enchanter's Ink (550.0sp) > (15.5sp / ounce)
 
 #### Enchanter's Acid
 > A bright lime green caustic liquid used by arcanists to inscribe Patches onto tough materials.
@@ -1219,7 +1222,9 @@ When used in the process of performing a ritual, the casting time of that ritual
 #### Spell Gem
 > A small gem that has been filled with potential.
 
-...
+When created, choose a spell you know that is at most a (G) Level spell. This Spell Gem holds up to G spell-slot-levels that can be used to cast the chosen spell.
+
+`For example, if G=4, a spell gem can hold one cast of a 3rd or 4th level spell, two casts of a 2nd level spell, or four casts of a 1st level spell`
 
 **Ingredients**;
 - XXX
@@ -1227,16 +1232,16 @@ When used in the process of performing a ritual, the casting time of that ritual
 
 ### Production
 
-| Name (Source)        | Mechanic | Cost @ Market | Regions Producing |
-| -------------------- | -------- | ------------- | ----------------- |
-| Philosopher's Stone  |          |               |                   |
-| Red Water            |          |               |                   |
-| Yellow Powder        |          |               |                   |
-| Kelvin's Wick        |          |               |                   |
-| Bottled Thunderstorm |          |               |                   |
-| Atmos Sphere         |          |               |                   |
-| Asphyx Sphere        |          |               |                   |
-| Simulacrum           |          |               |                   |
+| Name (Source)        | Mechanic   | Cost @ Market     | Regions Producing |
+| -------------------- | ---------- | ----------------- | ----------------- |
+| Philosopher's Stone  | +8 Alchemy | 175k sp (no sale) |                   |
+| Red Water            | +4 Alchemy | 750sp / ounce     |                   |
+| Yellow Powder        | +2 Alchemy | 30sp / gram       |                   |
+| Kelvin's Wick        |            |                   |                   |
+| Bottled Thunderstorm |            |                   |                   |
+| Atmos Sphere         |            |                   |                   |
+| Asphyx Sphere        |            |                   |                   |
+| Simulacrum           |            |                   |                   |
 
 #### Philosopher's Stone
 > A glowing red crystal about the size of a clenched fist. Jagged, spotted, and quite ugly, this gem-tool is highly valued for it's extreme alchemical properties - the base of every universal alchemical additive. Philosopher's are an alchemist's prized possession, likely the product of a lifetime of alchemical experience, if not a lineage of it, and thus are rarely, if ever, are sold.
