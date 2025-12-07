@@ -1062,7 +1062,11 @@ When applied, for the next G rounds, you have Advantage on holding onto things.
 When activated, the substance explodes into a (G * 15') radius sphere that deals (G * (3d8 + 5)) force damage to each creature, object, and structure within the radius.
 
 **Ingredients**;
-- XXX
+- 24 ounces Alkanet (204.0sp)
+- 4 carats Rose Quartz (1.2k sp)
+- 8 pounds Sulfur (8.0sp)
+- 64 pounds Coal (9.6sp)
+	- 4 pounds Alchemical Explosive (1.5k sp) > (375sp / pound)
 
 #### Everlight Wax
 > A translucent brown wax that burns cleanly and continually.
@@ -1070,7 +1074,10 @@ When activated, the substance explodes into a (G * 15') radius sphere that deals
 When lit, the wax begins to burn, and does not stop burning until extinguished.
 
 **Ingredients**;
-- XXX
+- 32 ounces Polypore, Red (129.6sp)
+- 2 carat Ruby (1.3k sp)
+- 8 pounds Coal (0.80sp)
+	- 2 ounces Everlight Wax (1.5k sp) > (750.0sp / ounce)
 
 #### Spellsmoke Wax
 > A translucent purple wax that burns into thick stinky smoke that glimmers and shines in the air.
@@ -1078,15 +1085,21 @@ When lit, the wax begins to burn, and does not stop burning until extinguished.
 When lit, for the next (G + 3) rounds, the wax produces a (G * 5') radius of smoke. While the smoke stays in the air, the area within the radius is an *antimagic field*. The smoke is dismissed by strong winds.
 
 **Ingredients**;
-- XXX
+- 24 ounces Witchweed (528.0sp)
+- 4 pounds Alabaster (0.80sp)
+- 1 pound Gold (110.0sp)
+	- 6 ounces Spellsmoke Wax (750.0sp) > (125.0sp / ounce)
 
 #### Violet Emitter
 > A small purple crystal that emits a beam of deep purple light. Typically stored in a toggleable metal cylinder.
 
-When toggled within relative darkness, you gain +8 to investigate bodily substances or diseases that are immediately in front of you.
+When toggled within relative darkness, you gain Advantage while investigating bodily substances or diseases that are immediately in front of you.
 
 **Ingredients**;
-- XXX
+- 1 carat Durandurm (475.0sp)
+- 4 carat Pearl (1.0k sp)
+- 8 ounces Lephora (112.0sp)
+	- 1 Violet Emmiter (2.0k sp)
 
 #### Lightswitch
 > A small black crystal that absorbs and ceases any light it can find. Typically stored in a toggleable metal cylinder.
