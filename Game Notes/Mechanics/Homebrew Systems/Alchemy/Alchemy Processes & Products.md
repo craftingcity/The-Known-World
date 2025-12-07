@@ -1120,7 +1120,7 @@ When toggled within bright or dim light emitted by a "non-natural" source, that 
 While viewing a creature through the Purity Lens, a series of colorful orbs can be seen surrounding the creature. These orbs represent the entities that have claimed part of the target's Faith. The orb's size represents the size of the entity's claim.
 
 **Ingredients**;
-- XXX
+- 4 carat D
 
 #### Auspex Lens
 > A thin tinted-red cut of crystal most commonly used by arcane practitioners and alchemists to identify an object's connection or effect on the Weave.
