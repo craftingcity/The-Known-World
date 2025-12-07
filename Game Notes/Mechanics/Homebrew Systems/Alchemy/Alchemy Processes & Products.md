@@ -1097,9 +1097,10 @@ When toggled within relative darkness, you gain Advantage while investigating bo
 
 **Ingredients**;
 - 1 carat Durandurm (475.0sp)
+- 1 carat Diamond (1.0k sp)
 - 4 carat Pearl (1.0k sp)
 - 8 ounces Lephora (112.0sp)
-	- 1 Violet Emmiter (2.0k sp)
+	- 1 Violet Emmiter (3.0k sp)
 
 #### Lightswitch
 > A small black crystal that absorbs and ceases any light it can find. Typically stored in a toggleable metal cylinder.
@@ -1107,7 +1108,11 @@ When toggled within relative darkness, you gain Advantage while investigating bo
 When toggled within bright or dim light emitted by a "non-natural" source, that source is extinguished or otherwise disabled and ceases to create that light.
 
 **Ingredients**;
-- XXX
+- 1 carat Durandurm (475.0sp)
+- 4 carat Pearl (1.0k sp)
+- 4 carat Onyx (300.0sp)
+- 4 pounds Mica (2.0sp)
+	- 1 Lightswitch (2.0k sp)
 
 #### Purity Lens
 > A thin tinted-white cut of crystal most commonly used by the Ranger's Guild to identify an entity's extraplanar connections, if they exist.
