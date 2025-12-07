@@ -6,6 +6,7 @@
       {
         "id": "4fde97b82c751691",
         "type": "split",
+        "dimension": 51.7943409247757,
         "children": [
           {
             "id": "2e015841386c50fa",
@@ -123,6 +124,7 @@
       {
         "id": "d3b5bee978c18bf7",
         "type": "tabs",
+        "dimension": 48.2056590752243,
         "children": [
           {
             "id": "5c5c4fc0c9c7c655",
@@ -220,8 +222,7 @@
               "title": "GrainIntoGold"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -320,12 +321,12 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055
+    "width": 297.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -495,7 +496,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02d5237c9ba7c433",
+  "active": "d1fe81449d1507f5",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",

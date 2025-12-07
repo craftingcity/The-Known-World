@@ -1019,18 +1019,18 @@ Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, you g
 ## Equipment
 ### Adventuring
 
-| Name (Source)                | Mechanic | Cost @ Market | Regions Producing |
-| ---------------------------- | -------- | ------------- | ----------------- |
-| Liquid Light / Flash Pellets |          |               |                   |
-| Suregrip                     |          |               |                   |
-| Alchemical Explosive         |          |               |                   |
-| Everlight Wax                |          |               |                   |
-| Spellsmoke Wax               |          |               |                   |
-| Violet Emitter               |          |               |                   |
-| Lightswitch                  |          |               |                   |
-| Purity Lens                  |          |               |                   |
-| Auspex Lens                  |          |               |                   |
-| Precounter Charm             |          |               |                   |
+| Name (Source)                | Mechanic                                                    | Cost @ Market                         | Regions Producing |
+| ---------------------------- | ----------------------------------------------------------- | ------------------------------------- | ----------------- |
+| Liquid Light / Flash Pellets | Shed light & DC (13 + G) DEX; (G * 10ft) Blind for G rounds | (12.5sp / ounce) or (2.15sp / pellet) |                   |
+| Suregrip                     |                                                             |                                       |                   |
+| Alchemical Explosive         |                                                             |                                       |                   |
+| Everlight Wax                |                                                             |                                       |                   |
+| Spellsmoke Wax               |                                                             |                                       |                   |
+| Violet Emitter               |                                                             |                                       |                   |
+| Lightswitch                  |                                                             |                                       |                   |
+| Purity Lens                  |                                                             |                                       |                   |
+| Auspex Lens                  |                                                             |                                       |                   |
+| Precounter Charm             |                                                             |                                       |                   |
 
 #### Liquid Light / Flashpellets
 > A white brightly glowing liquid most commonly used and known as 'Flashpellets', hollow glass beads filled with Liquid Light and thrown or fired as a momentary discombobulating flash of light.
@@ -1040,7 +1040,10 @@ While displayed, the liquid creates a radius of bright light for (G * 5)', and d
 When shattered, creatures within (G * 10)' make a DC (13 + G) Dexterity Saving Throw. If they fail, they are Blinded for the next G rounds.
 
 **Ingredients**;
-- XXX
+- 16 ounces Brightmoss (153.6sp)
+- 16 ounces Glowshroom (140sp)
+- 1 carat Onyx (75.0sp)
+	- 24 ounces Liquid Light (300.0sp) > (12.5sp / ounce) > (2.15sp / pellet)
 
 #### Suregrip
 > A coarse grey powder used by athletes and daredevils to maintain a 'sure grip' on whatever they hold.
@@ -1048,7 +1051,10 @@ When shattered, creatures within (G * 10)' make a DC (13 + G) Dexterity Saving T
 When applied, for the next G rounds, you have Advantage on holding onto things.
 
 **Ingredients**;
-- XXX
+- 1 pound Alum (0.45sp)
+- 1 pound Silver (11.0sp)
+- 8 ounces Ginko Leaf (18.4sp)
+	- 24 ounces Suregrip (35.0sp) > (1.75sp / ounce)
 
 #### Alchemical Explosive
 > A creamy white dough-like solid that violently explodes when agitated, inflamed, or otherwise magically activated.
