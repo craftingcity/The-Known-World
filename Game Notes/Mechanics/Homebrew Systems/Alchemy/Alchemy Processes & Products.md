@@ -633,24 +633,24 @@ Upon introduction, a creature must succeed on a DC (G + 13) Constitution Saving 
 
 ### Medicines
 
-| Name (Source)         | Mechanic                                    | Cost @ Market            | Regions Producing |
-| --------------------- | ------------------------------------------- | ------------------------ | ----------------- |
-| Druid's Dust          | Expend Hit Dice as Temp. HP                 | 4.5sp * Grade / ounce    |                   |
-| Nalasculas            | Prevent 'Petrified'                         | 175.0sp * Grade / ounce  |                   |
-| Generalized Antivenom | Prevent 'Poisoned', gain Poison DR          | 45.0sp * Grade / potion  |                   |
-| Aerotide              | Prevent Suffocation                         | 50.0sp * Grade / ounce   |                   |
-| Ambebamol             | Gain Rad. Protection                        | 15.0sp * Grade / ounce   |                   |
-| Amorphia              | Prevent polymorphing or animorphing         | 275.0sp * Grade / ounce  |                   |
-| Pretokarin            | Resolve Poison                              | 10.0sp * Grade / ounce   |                   |
-| Scar Balm             | Resolve Lingering Injury (Scar/Blister)     | 12.0sp * Grade / balm    |                   |
-| Bone Balm             | Resolve Lingering Injury (Broken/Bruised)   | 20.0sp * Grade / balm    |                   |
-| Heamox Balm           | Resolve Lingering Injury (Sup./Major)       | 32.0sp * Grade / balm    |                   |
-| Isiopara              | Regain HP / Gain STR/DEX                    | 12.5sp * Grade / 4g dose |                   |
-| Secreculde Propaterol | Regain HP                                   | 100.0sp * Grade / ounce  |                   |
-| Seeker Symbiote       | -HP, gain Acid, Poison, Necrotic DR         | 8.5k sp * Grade (no sale)         |                   |
-| Cognitive Driver      | -HP, charge vs Frightened, Charmed, Command | 14.5k sp * Grade (no sale)        |                   |
-| Immuno-Secundus       | -HP, charge vs Poisoned, Petrified, Disease | 10.0k sp * Grade (no sale)        |                   |
-| Elysian Petal         | Gain Max. HP, regain HP                     | +30.0k sp * Grade (no sale)       |                   |
+| Name (Source)         | Mechanic                                    | Cost @ Market               | Regions Producing |
+| --------------------- | ------------------------------------------- | --------------------------- | ----------------- |
+| Druid's Dust          | Expend Hit Dice as Temp. HP                 | 4.5sp * Grade / ounce       |                   |
+| Nalasculas            | Prevent 'Petrified'                         | 175.0sp * Grade / ounce     |                   |
+| Generalized Antivenom | Prevent 'Poisoned', gain Poison DR          | 45.0sp * Grade / potion     |                   |
+| Aerotide              | Prevent Suffocation                         | 50.0sp * Grade / ounce      |                   |
+| Ambebamol             | Gain Rad. Protection                        | 15.0sp * Grade / ounce      |                   |
+| Amorphia              | Prevent polymorphing or animorphing         | 275.0sp * Grade / ounce     |                   |
+| Pretokarin            | Resolve Poison                              | 10.0sp * Grade / ounce      |                   |
+| Scar Balm             | Resolve Lingering Injury (Scar/Blister)     | 12.0sp * Grade / balm       |                   |
+| Bone Balm             | Resolve Lingering Injury (Broken/Bruised)   | 20.0sp * Grade / balm       |                   |
+| Heamox Balm           | Resolve Lingering Injury (Sup./Major)       | 32.0sp * Grade / balm       |                   |
+| Isiopara              | Regain HP / Gain STR/DEX                    | 12.5sp * Grade / 4g dose    |                   |
+| Secreculde Propaterol | Regain HP                                   | 100.0sp * Grade / ounce     |                   |
+| Seeker Symbiote       | -HP, gain Acid, Poison, Necrotic DR         | 8.5k sp * Grade (no sale)   |                   |
+| Cognitive Driver      | -HP, charge vs Frightened, Charmed, Command | 14.5k sp * Grade (no sale)  |                   |
+| Immuno-Secundus       | -HP, charge vs Poisoned, Petrified, Disease | 10.0k sp * Grade (no sale)  |                   |
+| Elysian Petal         | Gain Max. HP, regain HP                     | +30.0k sp * Grade (no sale) |                   |
 
 #### Druid's Dust
 > A coarse brown powder reminiscent in smell of compost and rotting fruit that acts as a local anesthetic. Typically, Druid's Dust is applied as minor ache or pain relief, but it sees use during combat as a temporary measure while proper medical care cannot be accessed.
@@ -1209,7 +1209,11 @@ When used in the process of Inscribing a Patch onto an item or object to enchant
 When used in the process of Inscribing a Patch onto an item or object to enchant it, the Patch's Power is increased by 1.
 
 **Ingredients**;
-- XXX
+- 10 pounds Gold (1100.0sp)
+- 6 pounds Copper (7.20sp)
+- 12 ounces Nightshade (960.0sp)
+- 1 ounce Essence of Acidity (400.0sp)
+	- 28 ounces Enchanter's (2.8k sp) > (100sp / ounce)
 
 #### Alchemical Chalk
 > A colored chalk that shimmers and glows in the candlelight.

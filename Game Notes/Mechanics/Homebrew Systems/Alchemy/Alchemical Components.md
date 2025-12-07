@@ -164,7 +164,7 @@ aliases:
 | Blood of Celestial      | (5) MORTAL / IMMUTE       | -                | -                            |
 | Blood of Dragon         | (5) DRACONIC / ARCANA     | -                | Tetrimoc                     |
 | Blood of Fey            | (4) ILLUSION / ARCANA     | -                | -                            |
-| Blood of Fiend          | (4) DEGENERATE / ARCANA   | -                | Combine, Tetrimoc, Holyl'nds |
+| Blood of Fiend          | (4) DEGENERATE / ARCANA   | 750.0 / ounce    | Combine, Tetrimoc, Holyl'nds |
 | Brain of Illithid       | (4) ABJURE / ARCANA       | -                | Mnt. Hall                    |
 | Chitin of Ankheg        | (2) DESIST / POISON       | 60.00 / ounce    | Mnt. Hall                    |
 | Eye of Beholder         | (4) EVOKE / ARCANA        | 3.5k / ounce     | -                            |
