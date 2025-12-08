@@ -1286,15 +1286,15 @@ When used during the process of creating an Alchemical Product, you gain +2 to t
 #### Kelvin's Wick
 > A thin string of hemp that is beyond cold. Simple and effective, Kelvin's Wick quickly buries the heat of a hearth or freezes foods solid.
 
-Reduces the ambient temperature of the container or room it is stored in by (G * 15) degrees Fahrenheit.
+Reduces the ambient temperature of the area in which it is stored in by (G * 15) degrees Fahrenheit.
 
 **Ingredients**;
 - XXX
 
 #### Bottled Thunderstorm
->
+> A large glass bottle in which dark grey clouds swirl and flash bright with lightning.
 
-...
+Stores up to (G * 2) charges of lightning. When stored outside in a thunderstorm, the bottle regains 1d3 charges.
 
 **Ingredients**;
 - XXX
