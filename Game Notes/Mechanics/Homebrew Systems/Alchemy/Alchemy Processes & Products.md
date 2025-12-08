@@ -1286,7 +1286,7 @@ When used during the process of creating an Alchemical Product, you gain +2 to t
 #### Kelvin's Wick
 > A thin string of hemp that is beyond cold. Simple and effective, Kelvin's Wick quickly buries the heat of a hearth or freezes foods solid.
 
-Reduces the 
+Reduces the ambient temperature of the container or room it is stored in by (G * 15) degrees Fahrenheit.
 
 **Ingredients**;
 - XXX
