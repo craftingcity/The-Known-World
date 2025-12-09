@@ -386,7 +386,7 @@ Durandurm Longblasters are *mechanical*, *two-handed*, *ammunition (10)*, and *r
 | YI-B98 'Condor'       | 180/540 | 2x ammo | Yosimmite Industries, 098AF |      |
 
 #### Durandurm Carbine
-Durandurm Carbines are arm-length elemental firearm platforms designed for use as a primary weapon during short-to-long range firefights. The Carbine platforms are said to be the most 'well-rounded' platform of the Durandurm family.
+Durandurm Carbines are arm-length elemental firearm platforms designed for use as a primary weapon during short-to-medium range firefights. The Carbine platforms are said to be the most 'well-rounded' platform of the Durandurm family.
 
 Durandurm Carbines are *mechanical*, *two-handed*, *ammunition (10)*, and *ranged (90/360)*. Once per rest, you may use this weapon's special ability;
 
@@ -601,7 +601,7 @@ You may enable or disable this Patch as a bonus action. While enabled, the weapo
 #### Leeching (I - V)
 The weapon feeds on the blood of your enemies, and emboldens you to continue it's feeding.
 
-When you reduce a creature to 0 Hit Points using this weapon, you gain a number of Temporary Hit Points equal to your Proficiency Modifier plus the Patch's Power.
+When you reduce a creature to 0 Hit Points using this weapon, you may set your Temporary Hit Points to your Proficiency Modifier plus the Patch's Power.
 
 #### Walloping (I - V)
 This weapon packs one hell of a punch.

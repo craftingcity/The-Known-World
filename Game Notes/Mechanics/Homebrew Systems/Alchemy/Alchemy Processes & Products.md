@@ -1294,13 +1294,13 @@ Reduces the ambient temperature of the area in which it is stored in by (G * 15)
 #### Bottled Thunderstorm
 > A large glass bottle in which dark grey clouds swirl and flash bright with lightning. Topped with a pointed metal cap.
 
-Holds up to (G * 5) charges. As an action, you may spend up to 5 charges and target a creature you can see within 60'. When you do, 
+Holds up to (G * 5) charges. As an action, you may spend up to 5 charges. When you do, target a creature you can see within 60ft. That creature makes a DC (13 + G) Dexterity Saving Throw and takes 1d6 lightning damage for each charge spent if they fail, or half as much if they succeed.
 
 **Ingredients**;
 - XXX
 
 #### Atmos Sphere
->
+> 
 
 ...
 
