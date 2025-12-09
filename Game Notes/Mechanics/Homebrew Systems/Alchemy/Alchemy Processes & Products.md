@@ -1292,9 +1292,9 @@ Reduces the ambient temperature of the area in which it is stored in by (G * 15)
 - XXX
 
 #### Bottled Thunderstorm
-> A large glass bottle in which dark grey clouds swirl and flash bright with lightning.
+> A large glass bottle in which dark grey clouds swirl and flash bright with lightning. Topped with a pointed metal cap.
 
-Stores up to (G * 2) charges of lightning. When stored outside in a thunderstorm, the bottle regains 1d3 charges.
+Holds up to (G * 5) charges. As an action, you may spend up to 5 charges and target a creature you can see within 60'. When you do, 
 
 **Ingredients**;
 - XXX
