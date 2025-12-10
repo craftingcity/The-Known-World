@@ -228,9 +228,11 @@ Her eldest daughter was on this mission, and they travelled through Grung territ
 
 A gate opened in the Black Wall when the dead were dragged inside, where an army waited.
 
-The Heartcoal is a relic of great importance, it was stolen, and then returned to them by Cobblestar (who also knows the Queen's dead daughter). We need to get the deep-buried Veinstone. There is a place below the city known as the Sunken Depths, where we can find that Veinstone. The Queen beleives that the Evil Door leads into the caverns, and maybe the caverns lead below the Black Wall.
+The Heartcoal is a relic of great importance, it was stolen, and then returned to them by Cobblestar (who also knows the Queen's dead daughter). We need to get the deep-buried Veinstone. There is a place below the city known as the Sunken Depths, where we can find that Veinstone. The Queen believes that the Evil Door leads into the caverns, and maybe the caverns lead below the Black Wall.
 
-Many years before the Fog, Dimble Turing came through the swamp to Vresktal. They stayed with the Vresk and they gave the Vresk a gift; a scroll that opens a portal to his home.
+Many years before the Fog, Dimble Turing came through the swamp to Vresktal. They stayed with the Vresk and they gave the Vresk a gift; a scroll that opens a portal to his home. We get the Heartcoal or the Scroll Home. Not both.
+
+The Vresk are trying to make alliances with other factions.
 
 ## Stats
 
