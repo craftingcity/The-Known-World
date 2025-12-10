@@ -217,9 +217,12 @@ We come to Outpost Draksharn where there is a fight - we come upon it and join i
 #### Session 20: Outpost Draksharn (cont.)
 We fought guys, but the outpost fell. We're going into the city. 
 
+#### Session 21: Going into the City?
+We arrive outside Vresktal, the swamp-grown heart of the Vresk.
+
 ## Stats
 
-| L. 6 | XP: 16,225 | / 23.0k | (1) Inspiration |
+| L. 6 | XP: 20,275 | / 23.0k | (1) Inspiration |
 | ---- | ---------- | ------- | --------------- |
 | STR  | 8  (-1)    | PRF     | +3              |
 | CON  | 13 (+1)    | M. HP   | 32 Max HP       |
@@ -231,8 +234,8 @@ We fought guys, but the outpost fell. We're going into the city.
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | o   | .   | .   | .   | .   | .    | .   |
-| o   | x   | o   | .   | .   | .   | .   |      |     |
-| o   | x   | x   | .   | .   |     |     | DC   | 16  |
+| o   | o   | o   | .   | .   | .   | .   |      |     |
+| o   | o   | o   | .   | .   |     |     | DC   | 16  |
 | o   |     |     |     |     |     |     | ATTK | +8  |
 
 #### Proficiencies

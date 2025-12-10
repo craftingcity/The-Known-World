@@ -566,16 +566,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 194,
+        "x": 514,
         "y": 0,
-        "width": 1147,
+        "width": 1022,
         "height": 912,
-        "maximize": true,
-        "zoom": -2.5
+        "maximize": false,
+        "zoom": -1.5
       }
     ]
   },
-  "active": "6ea286c44c33d12d",
+  "active": "dfb951cb6a7227d6",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
