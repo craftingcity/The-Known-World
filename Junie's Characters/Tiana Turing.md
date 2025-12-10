@@ -220,6 +220,14 @@ We fought guys, but the outpost fell. We're going into the city.
 #### Session 21: Going into the City?
 We arrive outside Vresktal, the swamp-grown heart of the Vresk.
 
+Tiana kinda got put on trial, but because 'no Vresk blood was spilled' and 'they stood with our warriors at the Outpost' nothing happened.
+
+Queen Vresk tells us about a big mission from two weeks ago; an elite party of warriors left and tried to find a way to assassinate Torrin. Undead attacks were getting stronger in the villages, and it's getting worse as Vresk come back to fight for the other side.
+
+Her eldest daughter was on this mission, and they travelled through Grung territory into Bucaneer Break and then towards "where the garrison should be", where they encountered a dark black wall manned by undead warriors. As they made camp, they were set upon by a patrol, where the party would all die. 
+
+A gate opened in the wall when the dead were dragged inside, where an army waited.
+
 ## Stats
 
 | L. 6 | XP: 20,275 | / 23.0k | (1) Inspiration |
