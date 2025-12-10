@@ -223,7 +223,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -498,10 +498,87 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e150d5d074b39aa1",
+  "floating": {
+    "id": "7166a35f35d50354",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ad1f10ca4d192372",
+        "type": "window",
+        "children": [
+          {
+            "id": "7e10d273fd60b85d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dfb951cb6a7227d6",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Tiana Turing.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tiana Turing"
+                }
+              }
+            ]
+          },
+          {
+            "id": "18c4285f5902a6d5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6ea286c44c33d12d",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Tiana Turing.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tiana Turing"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 194,
+        "y": 0,
+        "width": 1147,
+        "height": 912,
+        "maximize": true,
+        "zoom": -2.5
+      }
+    ]
+  },
+  "active": "6ea286c44c33d12d",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
