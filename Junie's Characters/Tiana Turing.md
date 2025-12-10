@@ -234,6 +234,8 @@ Many years before the Fog, Dimble Turing came through the swamp to Vresktal. The
 
 The Vresk are trying to make alliances with other factions.
 
+Tiana and Issabella go to the Barracks.
+
 ## Stats
 
 | L. 6 | XP: 20,275 | / 23.0k | (0) Inspiration |
