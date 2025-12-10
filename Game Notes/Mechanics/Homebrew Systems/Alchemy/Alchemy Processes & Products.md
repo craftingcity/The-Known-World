@@ -1292,7 +1292,7 @@ Reduces the ambient temperature of the area in which it is stored in by (G * 15)
 - XXX
 
 #### Bottled Thunderstorm
-> A large glass bottle in which dark grey clouds swirl and flash bright with lightning. Topped with a pointed metal cap.
+> A large glass bottle in which dark grey clouds swirl and flash bright with lightning. Stopped with a pointed metal cap.
 
 Holds up to (G * 5) charges. As an action, you may spend up to 5 charges. When you do, target a creature you can see within 60ft. That creature makes a DC (13 + G) Dexterity Saving Throw and takes 1d6 lightning damage for each charge spent if they fail, or half as much if they succeed.
 
@@ -1300,17 +1300,17 @@ Holds up to (G * 5) charges. As an action, you may spend up to 5 charges. When y
 - XXX
 
 #### Atmos Sphere
-> 
+> A sphere made of some grey porous rocky material that creates and supports a small independent atmosphere.
 
-...
+Creates an independent atmosphere of breathable air for up to (G * 15) feet. Blocked by physical and magical barriers.
 
 **Ingredients**;
 - XXX
 
 #### Asphyx Sphere
->
+> A sphere made of some black porous rocky material that isolates and removes any gasses or liquids within it's radius.
 
-...
+Creates an independent atmosphere of vacuum for up to (G * 15) feet. Blocked by physical and magical barriers.
 
 **Ingredients**;
 - XXX
