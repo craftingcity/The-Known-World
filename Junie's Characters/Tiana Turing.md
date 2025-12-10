@@ -235,7 +235,7 @@ We arrive outside Vresktal, the swamp-grown heart of the Vresk.
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | o   | .   | .   | .   | .   | .    | .   |
 | o   | o   | o   | .   | .   | .   | .   |      |     |
-| o   | o   | o   | .   | .   |     |     | DC   | 16  |
+| o   | o   | x   | .   | .   |     |     | DC   | 16  |
 | o   |     |     |     |     |     |     | ATTK | +8  |
 
 #### Proficiencies
