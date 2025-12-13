@@ -1316,12 +1316,17 @@ Creates an independent atmosphere of vacuum for up to (G * 15) feet. Blocked by 
 - XXX
 
 #### Simulacrum
->
+> An alchemical construction designed to emulate the form and function of a humanoid for a significant period of time.
 
-...
+Creates an emulation of a creature present during the construction that acts under your command (as per *simulacrum*).
 
 **Ingredients**;
-- XXX
+- 100 carats Ruby (65.0k sp)
+- 50 carats Durandurm (24.0k sp)
+- 20 carats Pearl (5.0k sp)
+- 350 pounds Clay (227.5sp)
+- 350 pounds Mica (175.0sp)
+	- 1 Simulacrum (125k sp)
 
 
 ### Manipulation
@@ -1345,7 +1350,7 @@ Creates an independent atmosphere of vacuum for up to (G * 15) feet. Blocked by 
 | Four Point Emitter |          |               |                   |
 
 #### Miner's Savior
->
+> A stony grey liquid typically stored in clay or glass vials. When exposed to oxygen, the substance sprouts upward and quickly solidifies - when used within mineshafts, this 
 
 ...
 
