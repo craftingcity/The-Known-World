@@ -272,7 +272,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Auspex\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

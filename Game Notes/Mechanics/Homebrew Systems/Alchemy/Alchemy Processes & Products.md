@@ -1360,15 +1360,15 @@ When exposed, create a (G * 5) foot diameter pillar that is (G * 10) feet tall m
 #### Immobility Core
 > A tiny metallic bead that temporarily nullifies gravity and relative motion. 
 
-When activated, the core and any attatched items, objecbecomes fixed in place
+When activated, the core and any attached items, objects, or surfaces become fixed in place. The core and it's attachments cannot be moved by any means until the core is deactivated.
 
 **Ingredients**;
 - XXX
 
 #### Heatcore
->
+> A heavy ball of extremely hot metal and stone. 
 
-...
+Consistently maintains a surface temperature of (100 + (G * 50)) degrees farien
 
 **Ingredients**;
 - XXX
