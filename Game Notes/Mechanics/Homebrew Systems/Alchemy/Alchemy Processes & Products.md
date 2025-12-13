@@ -1350,15 +1350,15 @@ Creates an emulation of a creature present during the construction that acts und
 | Four Point Emitter |          |               |                   |
 
 #### Miner's Savior
-> A stony grey liquid typically stored in clay or glass vials. When exposed to oxygen, the substance sprouts upward and quickly solidifies - when used within mineshafts, this 
+> A stony grey liquid typically stored in clay or glass vials. When exposed to oxygen, the substance sprouts upward and quickly solidifies - when used within a mineshaft or tunnel, this results in a temporary support pillar that may prevent a deadly collapse.
 
-...
+When exposed, create a (G * 5) foot diameter pillar that is (G * 10) feet tall made of false stone.
 
 **Ingredients**;
 - XXX
 
 #### Immobility Core
->
+> 
 
 ...
 
