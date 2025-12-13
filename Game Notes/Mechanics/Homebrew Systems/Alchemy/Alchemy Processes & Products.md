@@ -1358,9 +1358,9 @@ When exposed, create a (G * 5) foot diameter pillar that is (G * 10) feet tall m
 - XXX
 
 #### Immobility Core
-> 
+> A tiny metallic bead that temporarily nullifies gravity and relative motion. 
 
-...
+When activated, the core and any attatched items, objecbecomes fixed in place
 
 **Ingredients**;
 - XXX
