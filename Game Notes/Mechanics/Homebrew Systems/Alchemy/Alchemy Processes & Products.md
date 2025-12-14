@@ -1368,7 +1368,7 @@ When activated, the core and any attached items, objects, or surfaces become fix
 #### Heatcore
 > A heavy ball of extremely hot metal and stone. 
 
-Consistently maintains a surface temperature of (100 + (G * 50)) degrees farien
+Consistently maintains a surface temperature of (100 + (G * 50)) degrees Fahrenheit. 
 
 **Ingredients**;
 - XXX
