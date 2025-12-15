@@ -1394,9 +1394,9 @@ After use, the Snare is disabled, and remains so for the next 7 days.
 - XXX
 
 #### Bloody Vessel
-> A sharp metal mouth feeding into a large jug. Attached at the heart, the Vessel will slowly fill with blood while otherwise maintaining the victim's health. 
+> A small glass vial. Stopped by a fearsome metal maw, teeth tipped in glittering red.
 
-...
+
 
 **Ingredients**;
 - XXX
