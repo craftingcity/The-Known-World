@@ -97,8 +97,14 @@
                 "id": "d1fe81449d1507f5",
                 "type": "leaf",
                 "pane-relief:history-v1": {
-                  "pos": 0,
+                  "pos": 1,
                   "stack": [
+                    {
+                      "title": "A Grand Notepad",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A Grand Notepad.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"A Grand Notepad\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":12},\"to\":{\"line\":45,\"ch\":12}},\"scroll\":40.72601509439842}"
+                    },
                     {
                       "state": "{}",
                       "eState": "{}"
@@ -272,7 +278,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"standard action\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -326,8 +332,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055,
-    "collapsed": true
+    "width": 297.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -499,8 +504,9 @@
   },
   "active": "d1fe81449d1507f5",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
+    "A Grand Notepad.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Junie's Characters/Tiana Turing.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",

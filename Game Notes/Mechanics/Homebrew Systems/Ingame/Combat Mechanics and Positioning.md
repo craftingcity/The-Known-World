@@ -121,7 +121,7 @@ The item slots are as follows (total of 13 non-armor):
 		- Shoes
 
 ## Drowning / Suffocating
-A character may hold their breath for a number of rounds equal to 1 + (CON * 5). A character expends a round of held breath on the beginning of their turn. When a character takes a Move Action or a Standard Action, they spend an additional round of held breath to do so.
+A character may hold their breath for a number of rounds equal to 1 + (CON * 5). A character expends a round of held breath on the beginning of their turn. When a character takes a Move Action or a Full Action, they spend an additional round of held breath to do so.
 
 As a character runs out of breath, they begin Suffocating. While a character is Suffocating, they take 20 points of damage at the beginning of their turn. This damage cannot be reduced in any way.
 

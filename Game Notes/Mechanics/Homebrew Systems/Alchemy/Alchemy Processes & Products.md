@@ -1374,9 +1374,9 @@ Consistently maintains a surface temperature of (150 + (G * 50)) degrees Fahrenh
 - XXX
 
 #### Minute Snare
-> A small visually incomprehensible machine
+> A small, visually incomprehensible machine composed of tubes and wires of copper and brass. A light blinks upon the surface.
 
-...
+While the Snare is ready, you may spend a Full Action to active it. When you do, the Snare creates a 15 foot radius sphere around itself. Creatures within the radius experience up to 10  
 
 **Ingredients**;
 - XXX

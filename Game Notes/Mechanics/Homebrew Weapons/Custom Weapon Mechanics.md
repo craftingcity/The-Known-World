@@ -158,7 +158,7 @@ When you hit with this weapon, you may attempt to disarm your opponent. Make an 
 In replacement of a weapon attack, you may swing your weapon in a large arc. Choose a number of creatures up to your proficiency bonus that in range of the attack. Then, make a weapon attack against each of them. For any hits made this way, the damage dealt is halved. 
 
 ### Assail
-As a standard action, you may make a series of small, superficial attacks in an attempt to disorient them. Make an attack roll. Your target makes a Dexterity saving throw versus the total value of the roll. If they fail, their AC is reduced by 4, and they have disadvantage on Strength and Dexterity Saving Throws.
+As a full action, you may make a series of small, superficial attacks in an attempt to disorient them. Make an attack roll. Your target makes a Dexterity saving throw versus the total value of the roll. If they fail, their AC is reduced by 4, and they have disadvantage on Strength and Dexterity Saving Throws.
 
 ### Cross-Lock Grab
 As a reaction, when you are attacked by a creature within 5 feet, you may perform an Athletics Skill Contest against your attacker. If you succeed, you take no damage from the triggering attack, and Grapple the attacker who triggered this reaction. While you maintain this Grapple, you cannot use this weapon to make attacks, and you gain an effective +4 to your Athletics for the purposes of maintaining the Grapple.
