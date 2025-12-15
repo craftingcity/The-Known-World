@@ -1396,13 +1396,13 @@ After use, the Snare is disabled, and remains so for the next 7 days.
 #### Bloody Vessel
 > A small glass vial. Stopped by a fearsome metal maw, teeth tipped in glittering red.
 
-
+While full of a creature's blood, that creature is Charmed by the creature holding the Vessel, and follows their commands to the best of their ability - exempting harm to themselves.
 
 **Ingredients**;
 - XXX
 
 #### Fleshmould
->
+> A pinkish tan pound of flesh and skin. It looks ready to become... something.
 
 ...
 
@@ -1410,7 +1410,7 @@ After use, the Snare is disabled, and remains so for the next 7 days.
 - XXX
 
 #### Polyphorma
->
+> A violently pink oil that shimmers and glows with potential. Images of all manner of creatures seem to form in the sparkles.
 
 ...
 
