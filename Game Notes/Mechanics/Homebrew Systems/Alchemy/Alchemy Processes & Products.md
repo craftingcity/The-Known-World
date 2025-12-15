@@ -1384,15 +1384,17 @@ After the extra time has passed, or once all creatures have exited the radius, t
 - XXX
 
 #### Heat Snare
-> A small, visually incomprehensible machine composed of dark metal dials and tubes. Lightly steaming, 
+> A small, visually incomprehensible machine composed of dark metal dials and tubes. You know you shouldn't touch this with your bare hands.
 
-...
+While the Snare is not disabled, you may spend a Full Action to active it. When you do, the Snare creates a 15 foot radius sphere around itself. For the next (G + 1) rounds, creatures within this radius take (G * 5) cold damage and (G * 5) fire damage at the beginning of their turn.
+
+After use, the Snare is disabled, and remains so for the next 7 days.
 
 **Ingredients**;
 - XXX
 
 #### Bloody Vessel
->
+> A sharp metal mouth feeding into a large jug. Attached at the heart, the Vessel will slowly fill with blood while otherwise maintaining the victim's health. 
 
 ...
 
