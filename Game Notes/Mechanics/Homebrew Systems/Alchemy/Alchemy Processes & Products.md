@@ -1376,13 +1376,15 @@ Consistently maintains a surface temperature of (150 + (G * 50)) degrees Fahrenh
 #### Minute Snare
 > A small, visually incomprehensible machine composed of tubes and wires of copper and brass. A light blinks upon the surface.
 
-While the Snare is ready, you may spend a Full Action to active it. When you do, the Snare creates a 15 foot radius sphere around itself. Creatures within the radius experience up to 10  
+While the Snare is not disabled, you may spend a Full Action to active it. When you do, the Snare creates a 15 foot radius sphere around itself. Creatures within the radius when it is created experience up to (G + 1) rounds of extra time while they stay within the radius. 
+
+After the extra time has passed, or once all creatures have exited the radius, the Snare is disabled, and remains so for the next 7 days.
 
 **Ingredients**;
 - XXX
 
 #### Heat Snare
->
+> A small, visually incomprehensible machine composed of dark metal dials and tubes. Lightly steaming, 
 
 ...
 
