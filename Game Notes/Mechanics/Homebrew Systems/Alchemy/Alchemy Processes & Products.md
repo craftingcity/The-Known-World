@@ -1418,15 +1418,15 @@ Upon ingestion, you cast *polymorph* on yourself.
 - XXX
 
 #### Spell Sieve
-> A 
+> A matrix of shimmering wires on a white-metal cube frame. It is connected to a large grey crystal.
 
-...
+Whenever a creature within 90 feet casts a spell, they make a DC (13 + G) Intelligence Saving Throw. If they succeed, they cast the spell as normal. Otherwise, the spell is countered, and the Spell Sieve gathers the energy into a charge, which it grants to the connected item, if it is compatible (at your DM's discretion).
 
 **Ingredients**;
 - XXX
 
 #### Realism Ward
->
+> An imperceivable and entirely unreal thing. Thinking about this hurts.
 
 ...
 
