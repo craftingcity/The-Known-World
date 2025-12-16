@@ -1404,21 +1404,21 @@ While full of a creature's blood, that creature is Charmed by the creature holdi
 #### Fleshmould
 > A pinkish tan pound of flesh and skin. It looks ready to become... something.
 
-...
+Once per day, for 8 hours, the Fleshmould mimics a living creature of your choice that you can see. The Fleshmould's mimicry will be discovered on a successful DC 12 Insight or Perception Check.
 
 **Ingredients**;
 - XXX
 
 #### Polyphorma
-> A violently pink oil that shimmers and glows with potential. Images of all manner of creatures seem to form in the sparkles.
+> A violently pink oil that shimmers and glows with potential. Images of dozens of creatures seem to form in the sparkles.
 
-...
+Upon ingestion, you cast *polymorph* on yourself.
 
 **Ingredients**;
 - XXX
 
 #### Spell Sieve
->
+> A 
 
 ...
 
