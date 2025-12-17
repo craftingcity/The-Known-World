@@ -87,7 +87,8 @@
                   "title": "Armors of Alaturmen"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "35e58886620c44c4",
@@ -332,8 +333,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055,
-    "collapsed": true
+    "width": 297.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -503,13 +503,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e150d5d074b39aa1",
+  "active": "c31e0d24ca35824b",
   "lastOpenFiles": [
-    "A Grand Notepad.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+    "A Grand Notepad.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Junie's Characters/Tiana Turing.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
