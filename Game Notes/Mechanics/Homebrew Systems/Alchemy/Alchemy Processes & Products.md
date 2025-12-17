@@ -1289,7 +1289,7 @@ When used during the process of creating an Alchemical Product, you gain +2 to t
 Reduces the ambient temperature of the area in which it is stored in by (G * 15) degrees Fahrenheit.
 
 **Ingredients**;
-- XXX
+- 36 ounces Witchweed (704.0sp)
 
 #### Bottled Thunderstorm
 > A large glass bottle in which dark grey clouds swirl and flash bright with lightning. Stopped with a pointed metal cap.
@@ -1344,10 +1344,6 @@ Creates an emulation of a creature present during the construction that acts und
 | Spell Sieve        |          |               |                   |
 | Realism Ward       |          |               |                   |
 | Reality Spike      |          |               |                   |
-| Planar Anchor      |          |               |                   |
-| Aether Host        |          |               |                   |
-| Zero Point Emitter |          |               |                   |
-| Four Point Emitter |          |               |                   |
 
 #### Miner's Savior
 > A stony grey liquid typically stored in clay or glass vials. When exposed to oxygen, the substance sprouts upward and quickly solidifies - when used within a mineshaft or tunnel, this results in a temporary support pillar that may prevent a deadly collapse.
@@ -1428,9 +1424,7 @@ Whenever a creature within 90 feet casts a spell, they make a DC (13 + G) Intell
 #### Realism Ward
 > An imperceivable and entirely unreal thing. Thinking about this hurts.
 
-A 'real' creature is a creature that was born within any Material Plane (explicitly Alaturmen, the Feywild, or the Underdark).
-
-Whenever a real creature observes the Ward, if they are within 300 feet, they make a DC (22 + G) Charisma Saving Throw. If they fail, they take (G * (4d8 + 20)) psychic damage and become Dazed until the end of their next turn.
+Whenever a humanoid observes the Ward, if they are within 300 feet, they make a DC (22 + G) Charisma Saving Throw. If they fail, they take (G * (4d8 + 20)) psychic damage and become Dazed until the end of their next turn.
 
 **Ingredients**;
 - XXX
@@ -1438,45 +1432,10 @@ Whenever a real creature observes the Ward, if they are within 300 feet, they ma
 #### Reality Spike
 > A simple, dull, iron rod. 
 
-A 'real' creature is a creature that was born within any Material Plane (explicitly Alaturmen, the Feywild, or the Underdark).
-
-Wh
+Whenever an Aberration, Celestial, Elemental, or Fiend is struck by the Spike, they make a DC (18 + G) Charisma Saving Throw. If they fail, they take (G * (4d8 + 20)) untyped damage and become Dazed until the end of their turn.
 
 **Ingredients**;
 - XXX
-
-#### Planar Anchor
->
-
-...
-
-**Ingredients**;
-- XXX
-
-#### Aether Host
->
-
-...
-
-**Ingredients**;
-- XXX
-
-#### Zero Point Emitter
->
-
-...
-
-**Ingredients**;
-- XXX
-
-#### Four Point Emitter
->
-
-...
-
-**Ingredients**;
-- XXX
-
 
 ## Other
 ### Essences
@@ -1741,13 +1700,15 @@ An outer essence of faith.
 - 320 ounce Head of Lamb (3.9k sp)
 	- 1 ounce Essence of Faith (5.5k sp / ounce)
 
-### Magical Inscriptions
+## Magical Inscriptions
 
 | Name (Source)           | Mechanic | Cost @ Market | Regions Producing |
 | ----------------------- | -------- | ------------- | ----------------- |
 | ... of Far Speech       |          |               |                   |
 | ... of Holding, Grade 4 |          |               |                   |
 | ... of Holding, Grade 3 |          |               |                   |
+| ... of Everlasting      |          |               |                   |
+|                         |          |               |                   |
 
 #### of Far Speech
 #### of Holding, Grade 4
