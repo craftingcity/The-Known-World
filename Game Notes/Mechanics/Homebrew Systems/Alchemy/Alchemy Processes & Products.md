@@ -1292,7 +1292,7 @@ Reduces the ambient temperature of the area in which it is stored in by (G * 15)
 - 36 ounces Witchweed (704.0sp)
 - 48 ounces Salt (2.80sp)
 - 24 ounces Polypore, Blue (84.0sp)
-	- 1 Kelvin's Wick (1.0ksp)
+	- 1 Kelvin's Wick (1.0k sp)
 
 #### Bottled Thunderstorm
 > A large glass bottle in which dark grey clouds swirl and flash bright with lightning. Stopped with a pointed metal cap.
@@ -1302,6 +1302,8 @@ Holds up to (G * 5) charges. As an action, you may spend up to 5 charges. When y
 **Ingredients**;
 - 60 pounds Glass (6.0sp)
 - 5 pounds Platinum (5500.0sp)
+- 5 carats White Quartz (1.4k sp)
+	- 1 Bottled Thunderstorm (7.5k sp)
 
 #### Atmos Sphere
 > A sphere made of some grey porous rocky material that creates and supports a small independent atmosphere.
@@ -1309,7 +1311,11 @@ Holds up to (G * 5) charges. As an action, you may spend up to 5 charges. When y
 Creates an independent atmosphere of breathable air for up to (G * 15) feet. Blocked by physical and magical barriers.
 
 **Ingredients**;
-- XXX
+- 24 ounces Essence of Air (4.2k sp)
+- 6 ounces Essence of Density (1.8k sp)
+- 6 ounces Essence of Creation (3.0k sp)
+- 6 ounces Essence of Action (3.0k sp)
+	- 1 Atmos Sphere (15.0k sp)
 
 #### Asphyx Sphere
 > A sphere made of some black porous rocky material that isolates and removes any gasses or liquids within it's radius.
@@ -1317,7 +1323,11 @@ Creates an independent atmosphere of breathable air for up to (G * 15) feet. Blo
 Creates an independent atmosphere of vacuum for up to (G * 15) feet. Blocked by physical and magical barriers.
 
 **Ingredients**;
-- XXX
+- 24 ounces Essence of Air (4.2k sp)
+- 6 ounces Essence of Density (1.8k sp)
+- 6 ounces Essence of Creation (3.0k sp)
+- 6 ounces Essence of Removal (27.0k sp)
+	- 1 Atmos Sphere (15.0k sp)
 
 #### Simulacrum
 > An alchemical construction designed to emulate the form and function of a humanoid for a significant period of time.
