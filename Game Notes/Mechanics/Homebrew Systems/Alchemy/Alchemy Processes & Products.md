@@ -1300,7 +1300,8 @@ Reduces the ambient temperature of the area in which it is stored in by (G * 15)
 Holds up to (G * 5) charges. As an action, you may spend up to 5 charges. When you do, target a creature you can see within 60ft. That creature makes a DC (13 + G) Dexterity Saving Throw and takes 1d6 lightning damage for each charge spent if they fail, or half as much if they succeed.
 
 **Ingredients**;
-- XXX
+- 60 pounds Glass (6.0sp)
+- 5 pounds Platinum (5500.0sp)
 
 #### Atmos Sphere
 > A sphere made of some grey porous rocky material that creates and supports a small independent atmosphere.
