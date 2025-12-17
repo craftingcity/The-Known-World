@@ -1290,6 +1290,9 @@ Reduces the ambient temperature of the area in which it is stored in by (G * 15)
 
 **Ingredients**;
 - 36 ounces Witchweed (704.0sp)
+- 48 ounces Salt (2.80sp)
+- 24 ounces Polypore, Blue (84.0sp)
+	- 1 Kelvin's Wick (1.0ksp)
 
 #### Bottled Thunderstorm
 > A large glass bottle in which dark grey clouds swirl and flash bright with lightning. Stopped with a pointed metal cap.
