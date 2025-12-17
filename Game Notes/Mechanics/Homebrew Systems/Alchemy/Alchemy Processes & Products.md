@@ -1327,7 +1327,7 @@ Creates an independent atmosphere of vacuum for up to (G * 15) feet. Blocked by 
 - 6 ounces Essence of Density (1.8k sp)
 - 6 ounces Essence of Creation (3.0k sp)
 - 6 ounces Essence of Removal (27.0k sp)
-	- 1 Atmos Sphere (15.0k sp)
+	- 1 Atmos Sphere (45.0k sp)
 
 #### Simulacrum
 > An alchemical construction designed to emulate the form and function of a humanoid for a significant period of time.
@@ -1365,7 +1365,9 @@ Creates an emulation of a creature present during the construction that acts und
 When exposed, create a (G * 5) foot diameter pillar that is (G * 10) feet tall made of false stone.
 
 **Ingredients**;
-- XXX
+- 10 pounds Charcoal (1.50sp)
+- 5 pounds Tin (6.0sp)
+	- 8 pounds Miner's Savior (7.50sp) > (1.50sp / pound)
 
 #### Immobility Core
 > A tiny metallic bead that temporarily nullifies gravity and relative motion. 
