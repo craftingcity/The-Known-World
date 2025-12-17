@@ -1396,7 +1396,7 @@ After use, the Snare is disabled, and remains so for the next 7 days.
 #### Bloody Vessel
 > A small glass vial. Stopped by a fearsome metal maw, teeth tipped in glittering red.
 
-While full of a creature's blood, that creature is Charmed by the creature holding the Vessel, and follows their commands to the best of their ability - exempting harm to themselves.
+While full of a creature's blood, that creature is Charmed by the creature holding the Vessel, and follows their commands to the best of their ability - exempting explicit harm to themselves.
 
 **Ingredients**;
 - XXX
@@ -1420,7 +1420,7 @@ Upon ingestion, you cast *polymorph* on yourself.
 #### Spell Sieve
 > A matrix of shimmering wires on a white-metal cube frame. It is connected to a large grey crystal.
 
-Whenever a creature within 90 feet casts a spell, they make a DC (13 + G) Intelligence Saving Throw. If they succeed, they cast the spell as normal. Otherwise, the spell is countered, and the Spell Sieve gathers the energy into a charge, which it grants to the connected item, if it is compatible (at your DM's discretion).
+Whenever a creature within 90 feet casts a spell, they make a DC (13 + G) Intelligence Saving Throw. If they succeed, they cast the spell as normal. Otherwise, the spell is countered, and the Spell Sieve gathers the energy into a charge, which it grants to the connected item, if it is compatible (at your DM's discretion) and is missing at least one charge.
 
 **Ingredients**;
 - XXX
@@ -1428,15 +1428,19 @@ Whenever a creature within 90 feet casts a spell, they make a DC (13 + G) Intell
 #### Realism Ward
 > An imperceivable and entirely unreal thing. Thinking about this hurts.
 
-...
+A 'real' creature is a creature that was born within any Material Plane (explicitly Alaturmen, the Feywild, or the Underdark).
+
+Whenever a real creature observes the Ward, if they are within 300 feet, they make a DC (22 + G) Charisma Saving Throw. If they fail, they take (G * (4d8 + 20)) psychic damage and become Dazed until the end of their next turn.
 
 **Ingredients**;
 - XXX
 
 #### Reality Spike
->
+> A simple, dull, iron rod. 
 
-...
+A 'real' creature is a creature that was born within any Material Plane (explicitly Alaturmen, the Feywild, or the Underdark).
+
+Wh
 
 **Ingredients**;
 - XXX

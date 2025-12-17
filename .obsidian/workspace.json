@@ -332,7 +332,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055
+    "width": 297.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -502,7 +503,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1fe81449d1507f5",
+  "active": "e150d5d074b39aa1",
   "lastOpenFiles": [
     "A Grand Notepad.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
