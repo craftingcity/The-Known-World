@@ -40,8 +40,8 @@ Going to the Ragerd Flegerd, we fight the guys inside;
 	~~D (28, 49)~~
 	~~E (28)~~
 	~~yellow A (14)~~
-	yellow B (14, 35)
-	black A (19, 23)
+	~~yellow B (14, 35, 47)~~
+	~~black A (19, 23, 35, 42)~~
 	~~black B (19)~~
 	~~CHEF (9, )~~
 
