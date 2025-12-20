@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b2eccda4d697de7",
+        "id": "fdaaea9c24c5d72b",
         "type": "tabs",
         "children": [
           {
-            "id": "c3135a980a2e880e",
+            "id": "ed8595550ce04b14",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -33,11 +33,11 @@
         ]
       },
       {
-        "id": "21f2801518872be6",
+        "id": "9e3168dc9ce68566",
         "type": "tabs",
         "children": [
           {
-            "id": "828549952190de9d",
+            "id": "7717537e268829f2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes Oct 30 25.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Mountain Hall.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Oct 30 25"
+              "title": "Mountain Hall"
             }
           }
         ]
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"mountain hall\"",
+                "query": "\"standard action\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055
+    "width": 297.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -333,27 +334,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17bba7903284a409",
+  "active": "ed8595550ce04b14",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Mountain Hall.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range/Deakred Range.md",
     "Prenotes Dec 19 25.md",
-    "Prenotes Oct 30 25.md",
-    "Game Notes/NPCs/Weak Power/Anita Rewch.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Game Notes/NPCs/High Power/True Villian NPCs/Arstovich.md",
+    "Prenotes Dec 01 25.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
+    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "A Grand Notepad.md",
     "Junie's Characters/Tiana Turing.md",
     "GavinEmily Game.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "conflict-files-obsidian-git.md",
-    "Prenotes Dec 01 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "Prenotes Nov 19 25.md",
@@ -362,6 +360,9 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md",
+    "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
+    "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Haruuc.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",

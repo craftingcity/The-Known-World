@@ -22,6 +22,10 @@ All of this will take time. Time that you so efficiently have decided to utilize
 #### Going to see Shepard
 [[Fulton Shepherd]] is living in [[Mountain Hall]] at the Temple of Flowers. He is a Paladin of Gish, and has experience in fighting against demons, which he extends to apply to devils. He doesn't know these folks, so he'll ask the party to do a gang clear in the area (vs the 'Loyalists') before he'll talk. His advice would include information about damages / weakness of fiends and on Planeswalking - advising that it is dangerous, but the most accessible method of reaching the outer planes, where the Arbiter is likely based. 
 
+#### Encountering the Fallen
+
+
+#### Introducing the Arstovichians
 
 ### What happened?
 
