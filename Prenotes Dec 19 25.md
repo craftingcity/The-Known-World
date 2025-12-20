@@ -22,11 +22,6 @@ All of this will take time. Time that you so efficiently have decided to utilize
 #### Going to see Shepard
 [[Fulton Shepherd]] is living in [[Mountain Hall]] at the Temple of Flowers. He is a Paladin of Gish, and has experience in fighting against demons, which he extends to apply to devils. He doesn't know these folks, so he'll ask the party to do a gang clear in the area (vs the 'Loyalists') before he'll talk. His advice would include information about damages / weakness of fiends and on Planeswalking - advising that it is dangerous, but the most accessible method of reaching the outer planes, where the Arbiter is likely based. 
 
-#### Encountering the Fallen
-
-
-#### Introducing the Arstovichians
-
 ### What happened?
 Going to the Ragerd Flegerd, we fight the guys inside;
 22 - Niko
@@ -45,5 +40,6 @@ Going to the Ragerd Flegerd, we fight the guys inside;
 	~~black B (19)~~
 	~~CHEF (9, )~~
 
+They talked to Fulton and he said "hey maybe find the incident report from the arbiter because you know the day and time and subject and stuff" and he would help them summon a lesser devil to help them get that report.
 
 We leave our heroes on the date of ... AF, as they ...
