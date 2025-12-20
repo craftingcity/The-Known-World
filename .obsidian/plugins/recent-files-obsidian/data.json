@@ -5,6 +5,18 @@
       "path": "Prenotes Dec 19 25.md"
     },
     {
+      "basename": "Dwarven Kingdom Suremantle",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md"
+    },
+    {
+      "basename": "Mountain Hall",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Mountain Hall.md"
+    },
+    {
+      "basename": "Deakred Range",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range/Deakred Range.md"
+    },
+    {
       "basename": "Prenotes Oct 30 25",
       "path": "Prenotes Oct 30 25.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Notes on the Multiverse",
       "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
-    },
-    {
-      "basename": "NPCs",
-      "path": "Game Notes/NPCs/NPCs.md"
-    },
-    {
-      "basename": "Mild Power",
-      "path": "Game Notes/NPCs/Mild Power/Mild Power.md"
     }
   ],
   "omittedPaths": [],
