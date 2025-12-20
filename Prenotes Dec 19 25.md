@@ -28,6 +28,21 @@ All of this will take time. Time that you so efficiently have decided to utilize
 #### Introducing the Arstovichians
 
 ### What happened?
+Going to the Ragerd Flegerd, we fight the guys inside;
+22 - Niko
+18 - Zipper
+12 - Monkeys
+8 - Sarsia
+5 - Baddies
+	A
+	~~B (28, 35)~~
+	C (28)
+	D (28)
+	E (28)
+	yellow A (14)
+	yellow B (14)
+	black A
+	black B
 
 
 We leave our heroes on the date of ... AF, as they ...
