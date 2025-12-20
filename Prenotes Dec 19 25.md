@@ -34,15 +34,16 @@ Going to the Ragerd Flegerd, we fight the guys inside;
 12 - Monkeys
 8 - Sarsia
 5 - Baddies
-	A
+	~~A (27)~~
 	~~B (28, 35)~~
-	C (28)
-	D (28)
-	E (28)
-	yellow A (14)
-	yellow B (14)
-	black A
-	black B
+	~~C (28)~~
+	D (28, 49)
+	~~E (28)~~
+	~~yellow A (14)~~
+	yellow B (14, 35)
+	black A (19)
+	black B (19)
+	~~CHEF (9, )~~
 
 
 We leave our heroes on the date of ... AF, as they ...
