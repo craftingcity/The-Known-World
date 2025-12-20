@@ -287,10 +287,10 @@ Boltshot Firepowder Handblasters are revolving, double action, firepowder firear
 
 Boltshot Firepowder Handblasters are *mechanical*, *ammunition (5)*, and *ranged (60/180)*.
 
-| Name / Classification | Range  | Damage | Original Producer                        | Note |
-| --------------------- | ------ | ------ | ---------------------------------------- | ---- |
-| Black Guard I         | 60/180 | 1d8 piercing   | Department of Warfare and Defense, 093AF |      |
-| Black Guard II        | 60/180 | 1d10 piercing  | Department of Warfare and Defense, 098AF |      |
+| Name / Classification | Range  | Damage        | Original Producer                        | Note |
+| --------------------- | ------ | ------------- | ---------------------------------------- | ---- |
+| Black Guard I         | 60/180 | 1d8 piercing  | Department of Warfare and Defense, 093AF |      |
+| Black Guard II        | 60/180 | 1d10 piercing | Department of Warfare and Defense, 098AF |      |
 
 #### Boltshot Firepowder Longblaster
 Boltshot Firepowder Blasters are arm-length, bolt-action, firepowder firearm platforms. Originally made of stone and bronze, decent manufactures have matured into a full-metal construction.
