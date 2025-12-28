@@ -26,7 +26,14 @@ What do you do?
 Firstly, we need to justify our party travelling here just a little better.
 	- Mip wants to look at the ecology of the region, so we can support that by filling the rooms with alchemical components and plant life.
 	- The Great Dragoon is probably cool just having fun here, but we can introduce magic items that he can fiddle with
-	- Wrench will find a goblin who participated in the raid that killed his Wife, they have regrets about it, and the life they have lived generally. I want to make them sympathetic to inspire internal conflict 
+	- Wrench will find a goblin who participated in the raid that killed his Wife, they have regrets about it, and the life they have lived generally. I want to make them sympathetic to inspire some internal conflict, and so that they would actually be able to give solid information.
+	- Steve would be motivated by the power imbalance present in the Hells, and by the messages left in his little dream journal. 
+
+	`Among the unreadable gibberish that most commonly appears in your journal as you sleep, a number of literate phrases have appeared since you began travelling with this group you find yourself in. 
+	'Join them, they need you.' (02/08/106af)
+	'Guide yourselves to the red blade.' (03/08/106af)
+	'Seek the city of Mercy.' (04/08/106af)
+	'The keep is dirtied by the giggles of the greedy.' (05/08/106af)`
 
 ### What happened?
 
