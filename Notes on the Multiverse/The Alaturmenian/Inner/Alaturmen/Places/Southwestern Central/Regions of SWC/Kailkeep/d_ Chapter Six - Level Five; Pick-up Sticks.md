@@ -37,10 +37,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 ### Detail
 #### Go Fish!
 - A large salt-water lake hosts a number of aquatic critters, one of which - a quick and small fish - has a **Token**. Other critters will not attack the keyholder, and even larger predators will defend a smaller keyholder.
-- The largest threat to a competent combatant is drowning / suffocating; 
-	- A character may hold their breath for a number of minutes equal to 1 + their Con Mod, with 30 seconds as a minimum. Convert this number into rounds of initiative (at 6 seconds per round). A character expends a round of held breath on the beginning of their turn.
-	- If a character takes a Move Action or a Full Action, they must spend an additional round (6 seconds) of held breath to do so.
-	- *After a character runs out of breath, they begin drowning. A character may only be drowning for a number of rounds equal to their Con Mod, with 1 round as a minimum. If they are without air for this many rounds, they are reduced to 0 HP and are dying.*
+- The largest threat to a competent combatant is drowning / suffocating. (See [[Combat Mechanics and Positioning#Drowning / Suffocating]])
 #### Bouncy House
 - This chamber contains a system of plate-based launchers that shoot characters high into the air.
 - A **Token** is hanging upon a small ledge near the top and center of the chamber.
@@ -48,7 +45,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 - This chamber contains a number of colored mosaic tiles and a large mannequin in a daunting stretched pose.
 - As the game begins, the Mannequin will change it's pose once per round. A character may attempt to replicate the pose by succeeding on an Dexterity (Acrobatics) or Charisma (Performance) check of successive DC.
 	- When a pose has been successfully replicated by any number of participants, that pose is completed. When three poses have been completed successively, the game ends, and a **Token** is revealed inside the Mannequin's chest.
-	- When a pose has been failed, the failing character makes a DC 18 Wisdom Saving Throw. If they fail the save, they are Charmed until the beginning of their next turn, and immediately move their speed towards and then attack the closest ally.
+	- When a pose has been failed, the failing character makes a DC 18 Wisdom Saving Throw. If they fail the save, they are Charmed until the beginning of their next turn. When they are Charmed this way, they immediately move their speed towards the nearest creature, and then make an Attack against it.
 #### Shooting Gallery
 - This long chamber is lined with ballista on one side (the end or sides of the hall is preferable) that are being controlled remotely by a number of Kobolds behind their protective stone.
 - A **Token** rests on a pedestal at the end of the chamber.

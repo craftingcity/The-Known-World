@@ -34,7 +34,7 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 - The "Home" team is collected by containing a wandering team on this level. The "Away" team is collected by containing an ascending team from the previous level.
 - The Goal of the game is to eliminate the opposing team's players and increase your Entertainment Rating. 
 	- A "Home" team victory is rewarded with a series of healing salves, recreational drugs, and rations.
-	- An "Away" team victory is not rewarded in any way other than an increase in Entertainment Rating.
+	- An "Away" team victory is not rewarded in any way other than their newly earned Entertainment Rating.
 #### Ways
 #### Scoreboard Rooms
 - A scoreboard room is a place to view one's score.
@@ -63,7 +63,7 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 - While crushing a limb, the Bonebuster deals 2d8 bludgeoning damage to the character, and they will have their choice of a *Broken Arm* or a *Broken Leg*. A character with a *Broken Arm* has Disadvantage on Attack Rolls, Strength Saving Throws, and Strength or Dexterity Checks. A character with a *Broken Leg* has Disadvantage on Dexterity Saving Throws, and Strength or Dexterity Checks, and their speed is halved.
 #### Beast Barracks
 - This chamber is one of many beast homes within the mountains of Kailkeep. Somehow, this creature is compensated by the Kobolds of Kailkeep.
-- The Barracks hold many lower power creatures that made their home here, and they are modestly housed, but are malnourished and conditioned to attack non-Kobolds on detection.
+- The Barracks hold many lower power creatures that made their home here. These creatures are modestly housed, but are malnourished and conditioned to attack non-Kobolds on detection.
 - Blind Dogs, Mindless Guand, Mountain Cats, and even some Madwalkers are common in the Fourth level of Kailkeep.
 #### False Oasis
 - A pool of water being fed by the walls of the mountain is the main feature of this room. A poor trap, this water is simply non-potable, and will inflict the Poisoned condition for 36 hours upon consumption if the consumer does not succeed on a DC 18 Con Save.
