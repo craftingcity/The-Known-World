@@ -29,7 +29,7 @@ Firstly, we need to justify our party travelling here just a little better.
 	- Wrench will find a goblin who participated in the raid that killed his Wife, they have regrets about it, and the life they have lived generally. I want to make them sympathetic to inspire some internal conflict, and so that they would actually be able to give solid information.
 	- Steve would be motivated by the power imbalance present in the Hells, and by the messages left in his little dream journal. 
 
-	`Among the unreadable gibberish that most commonly appears in your journal as you sleep, a number of literate phrases have appeared since you began travelling with this group you find yourself in. 
+	`Amongst the unreadable gibberish that most commonly appears in your journal as you sleep, a number of literate phrases have appeared since you began travelling with this group you find yourself in. 
 	'Join them, they need you.' (02/08/106af)
 	'Guide yourselves to the red blade.' (03/08/106af)
 	'Seek the city of Mercy.' (04/08/106af)

@@ -9,16 +9,16 @@ aliases:
 ### Let me tell you a story...
 In the Time before Time, for a moment and forever, the goblins thrived in the soup of Primordial nothing. Right after that, one single moment later, [[Tetrimoc]] split the heavens of Alaturmen and threw himself down unto it. There he was given his first wound by the lone mountain known now as Kailkeep. 
 
-From the blood sprayed across this mountain rose the Kobolds of Kailkeep. Long did they wait for their Master to claim them, but he slept for too long, his injury too large. The Kobolds claimed themselves, disavowed their creator god and swore to work only for themselves. Without the direction of Tetrimoc, they became wicked and cruel.
+From the blood sprayed across this mountain rose the Kobolds of Kailkeep. Long did they wait for their Master to claim them, but he slept for too long, for his injury was too large. The Kobolds claimed themselves, disavowed their creator god and swore to work only for themselves. Without the direction of Tetrimoc, they became wicked and cruel.
 
-Kailkeep is a massive complex dug by a fanatical group of Kobold for two main purposes; first, the safety of themselves, and second, the torment of others. They rule this massive complex, and even stronger monsters respect them as the true keepers of Kailkeep – except one, with whom the collective of kobold work as equal: Terra, the Idol of Earth. Why Terra began to work with them, I would dare not ask, but she has surely become as horrible as they are.
+Kailkeep is a massive complex dug this group of fanatical Kobold for two main purposes; first, the safety of themselves, and second, the torment of others. They rule this massive complex, and even stronger monsters respect them as the true keepers of Kailkeep – except one, with whom the collective of kobold work as equal: Terra, the Idol of Earth. Why Terra began to work with them, I would dare not ask, but she has surely become as horrible as they are.
 
 ## About rules stuff
 Above it's third level, Kailkeep presents a challenge constructed for three to five 'level five adventurers' working together as a team with the limited information presented about the natures of Kailkeep's Hells. As they progress, they should gain experience as you see fit, but know that the mechanical challenge presented will rise in difficulty further up the floors one goes.
 
 ## Hooks
 ### Druids of Terra
-For some time, the Druids of Terra were hidden, guarding the secrets of Arcane magic. Recently, the druid's connection to Terra has been severed – for reasons they would not share, even if they knew – and many of their texts have been stolen. Perhaps the adventurers were exploring and stumbled upon the hidden druids, or were sought out for their prowess. In either case, if the Druids can trust them, they would ask for their assistance in these affairs. And even if they can't be trusted, maybe they would anyways, but be prepared to ambush these assholes if they return with information.
+For some time, the Druids of Terra were hidden, guarding the secrets of Arcane magic. Recently, the druid's connection to Terra has been severed – for reasons they would not share, even if they knew – and many of their texts have been stolen. Perhaps the adventurers were exploring and stumbled upon the hidden druids, or were sought out for their prowess. In either case, if the Druids can trust them, they would ask for their assistance in these affairs. And even if they can't be trusted, maybe they would anyway, but be prepared to ambush these assholes if they return with information.
 
 ### Missing People
 For as long as there has been a mountain, there have been people bored enough to want to climb it. When those people travel to Kailkeep, either for fun or profit, they do not return. The explorer's husband is distraught, as is the Cartagrophers' Guild, and so too are the dwarfs failing to set up a remote operation without their Quartermaster, Explosives Expert, or Cooks.
@@ -43,10 +43,10 @@ But not your players. Again, this should be a dark, stormy night of **fun**.
 ## Running Kailkeep
 For the purposes of running this module "from the book"; No matter where the players ascend from, they enter somewhere on the next level presented here – some intervention by the fates, perhaps. 
 
-You should understand that the levels presented here only explore a small portion of this massive structure. When your players go off-script, feel free to build something you think is on theme, or rip something from further along (and then mark it – you'll have to replace it before anyone goes there). I've tried to include notes on my designs throughout, so you might better understand my intentions as I watch these Kobolds craft an adventure for their own entertainment.
+You should understand that the levels presented here only explore a small portion of this massive structure. When your players go off-script, feel free to build something you think is on theme, or rip something from further along. I've tried to include notes on my designs throughout, so you might better understand my intentions as I watch these Kobolds craft an adventure for their own entertainment.
 
 ### About the Kobolds
-The Kobolds of Kailkeep have gone half-mad with the perceived betrayal of their Blood-Master [[Tetrimoc]]. They are the rulers of Kailkeep, and the other inhabitants know it. They formed and maintain the Hells for their entertainment, and they coincidentally collect power in the form of equipment or recruits.
+The Kobolds of Kailkeep have gone half-mad with the perceived betrayal of their Blood-Master [[Tetrimoc]]. They are the rulers of Kailkeep, and the other inhabitants know it. They formed and maintain the Hells for their entertainment, but coincidentally collect power in the form of equipment, recruits, or fear.
 
 Groups of Kobold who commit a grievous crime are sentenced to Kailkeep's Hells. Some Kobold who feel they have no other prospects volunteer as to enter the Hells as a Champion of Kailkeep.
 
@@ -59,7 +59,7 @@ The many kobold "civilians" who work and keep Kailkeep, both it's Hells and Prop
 
 ## Kailkeep's Secrets
 ### Viewer's Favor
-Kailkeep's worst kept secret is what it's real purpose is; entertainment for a colony of Kobolds who harbor evils for fun and profit. When the viewers of this entertainment are very pleased with a particular performer, they may spend some of their personal wealth to leave a boon to them in a "scoreboard" room. This can range from basic survival equipment to magical weaponry or armoring. 
+Kailkeep's worst kept secret is what it's real purpose is; entertainment for a colony of Kobolds who harbor evils for fun and profit. When the viewers of this entertainment are very pleased with a particular performer, they may spend some of their personal wealth to leave a boon to them in a "scoreboard" room. This can range from basic survival equipment to magical weaponry or armoring to seemingly useless trash. 
 
 ### Proving Grounds
 While the Hells of Kailkeep are used as a method of collecting resources, punishing wrongdoers, and entertaining the masses, it also acts as a system of recruitment; "Hey, if you're good enough to do that once, we'll kit you out and pay you to do it again". Sometimes the winners say yes. The alternative is a life bound in a tomb of lies, as we all saw entering this place.
@@ -130,7 +130,7 @@ Hailing from the fifth level of Kailkeep, Dusk leads a well-equipped pack of obe
 Dusk's Pack has a tense relationship with Mercy and their Roamers; the Pack will corner Mercy's Roamers and force them into a trading locational information on the other inhabitants of the level and their supplies for the **Tokens** the Pack takes off their kills.
 
 ###### Reaper's Pack
-Hailing from the sixth level of Kailkeep, Reaper leads a brutal, hungry, hunt-and-kill pack. They will eat their kills on scene, or even during the fight.
+Hailing from the sixth level of Kailkeep, Reaper leads a brutal, hungry, hunt-and-kill pack. They will eat their kills on scene, or even during the fight,
 
 ###### Lynch's Pack
 Hails from the seventh level of Kailkeep, Lynch leads a drug fueled pack of 
