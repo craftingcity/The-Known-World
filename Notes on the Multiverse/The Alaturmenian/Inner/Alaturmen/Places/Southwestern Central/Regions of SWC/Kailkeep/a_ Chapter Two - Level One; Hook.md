@@ -80,6 +80,9 @@ One of many, the Servant Quarters are exclusively accessible via the [[#Servant 
 A pair of stone and hay twin-size beds flank a single wardrobe in the center of the room. A brass pot lies somewhere on the floor here.
 
 #### Servant Halls
-A one-folk wide hall connects each of the 
+A one-folk wide hall connects each of the [[#Servant Quarters]], [[#Workshops]], and [[#Kitchen]] of the section. At the ends of the hall, if the halls don't connect to another section, they enter the [[#Uncut Tunnels]].
 
 #### Uncut Tunnels
+The 'Uncut Tunnels' are as their name implies; cave tunnels that are naturally present throughout the lower floors of this place. They may rise, or fall, but they are not connected to any higher floor entrance. 
+
+Sometimes water pools in these places, leading to algae and lichen growths, as well as the presence of small insects and reptiles. The [[#Unusual Rodents]] will often make their nests here.
