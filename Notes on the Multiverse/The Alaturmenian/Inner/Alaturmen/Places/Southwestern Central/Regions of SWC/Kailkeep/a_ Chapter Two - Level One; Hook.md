@@ -57,7 +57,7 @@ A hallway connects from the [[#Grand Chamber]] to an opposing pair of single doo
 ##### Crude Metalworks
 The Crude Metalworks is a large workshop that smells of metal and soot. Four crucibles are manually fed raw metals collected from the secure drop-shoot on the wall opposing the door. In the center of the room, surrounded by the crucibles, a table carries dozens of simple casts, shaping tools, and metal products. By the drop-shoot, a single door leads into the [[#Servant Halls]]
 
-A stone cart is somewhere within this room, having been used by Loyalist Workers to transport materials from the shoot to the crucibles. 
+A stone cart is somewhere within this room, having been used by Loyalist Workers to transport materials from the shoot to the crucibles, and from the casts to the [[#Fine Metalworks]]. 
 
 ##### Fine Metalworks
 The Fine Metalworks is a small workshop that smells of chemical fire. A large stone forge occupies half of the room opposed to the entrance, paired alongside a large anvil and a grinding wheel.
@@ -70,8 +70,16 @@ The Textiles Mill is a large workshop equipped with two each of a combing system
 Opposed in placement, a drop-shoot in the wall and an altar (both described above) flank the main working space of this room.
 
 ##### Leatherworks
-The Leatherworks is a small workshop that reeks of blood and piss. The center of this bloodied place is a butcher's table. Above the table, dozens of rusty tools hang from hooks and chains. Flanking the table, a drop shoot lowers corpses into the room 
+The Leatherworks is a small workshop that reeks of gore and piss. The center of this place is a large table, on which several spools of twine-thread and dozens of needles rest, and below which a mess of jars filled with brains and urine lie ajar and unorganized. Above the table, cured hides are drying into leathers.
+
+Opposed in placement, a drop-shoot in the wall and an altar (both described above) flank the main working space of this room.
 
 #### Servant Quarters
+One of many, the Servant Quarters are exclusively accessible via the [[#Servant Halls]]. 
+
+A pair of stone and hay twin-size beds flank a single wardrobe in the center of the room. A brass pot lies somewhere on the floor here.
+
 #### Servant Halls
+A one-folk wide hall connects each of the 
+
 #### Uncut Tunnels
