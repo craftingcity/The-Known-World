@@ -242,14 +242,14 @@ We go down to the Sundered Depths, and we find a big heart-shaped rock in a room
 
 ## Stats
 
-| L. 6 | XP: 20,275 | / 23.0k | (0) Inspiration |
-| ---- | ---------- | ------- | --------------- |
-| STR  | 8  (-1)    | PRF     | +3              |
-| CON  | 13 (+1)    | M. HP   | 32 Max HP       |
-| DEX  | 16 (+3)    | AC      | (13)            |
-| INT  | 20 (+5) ^  | C. HP   | 32 HP           |
-| WIS  | 14 (+2) ^  | HD      | 6d6 (6/6)       |
-| CHA  | 12 (+1)    | SPD     | 25' (5s)        |
+| L. 6 | XP: 22.0k | / 23.0k | (0) Inspiration |
+| ---- | --------- | ------- | --------------- |
+| STR  | 8  (-1)   | PRF     | +3              |
+| CON  | 13 (+1)   | M. HP   | 32 Max HP       |
+| DEX  | 16 (+3)   | AC      | (13)            |
+| INT  | 20 (+5) ^ | C. HP   | 32 HP           |
+| WIS  | 14 (+2) ^ | HD      | 6d6 (6/6)       |
+| CHA  | 12 (+1)   | SPD     | 25' (5s)        |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
