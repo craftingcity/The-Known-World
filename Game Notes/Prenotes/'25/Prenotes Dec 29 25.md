@@ -37,5 +37,6 @@ Firstly, we need to justify our party travelling here just a little better.
 
 ### What happened?
 
+We continued into Kailkeep, exploring parts of the first floor and ascending into the Worker's Barracks on the second floor. It is still the 6th.
 
 We leave our heroes on the date of ... AF, as they ...
