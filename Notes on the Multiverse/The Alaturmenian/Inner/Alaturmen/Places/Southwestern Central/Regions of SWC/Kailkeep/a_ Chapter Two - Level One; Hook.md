@@ -22,7 +22,7 @@ A population of Unusual Rodents has escaped containment and survived the meager 
 For a few miles, at the bottom of this great hell, a series of chambers continually produce a varied combination of the following types of rooms.
 
 ### Navigation
-*Level One* is accessed through an [[#Entrance Hall]], which leads into a [[#Grand Chamber]]. While exploring the interior of *Level One*, an [[#Entrance Hall]] connects one [[#Grand Chamber]] to another.
+*Level One* is accessed through an [[#Entrance Hall]], which leads into a [[#Grand Chamber]].
 
 A [[#Grand Chamber]] leads into four of the other rooms, which connect via the [[#Servant Halls]]. The [[#Servant Halls]] themselves connect to additional adjacent rooms, which in turn, connects the entirety of *Level One*.
 
