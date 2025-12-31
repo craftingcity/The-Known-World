@@ -28,10 +28,16 @@ As the complex continues, a series of chambers connect above and below to contin
 
 ### Detail
 #### Simple Barracks
+The Simple Barracks is a long rectangular room filled with stone and hay bunk-beds where the population of the Allures rest. Small footlockers lie at each of the bunks, containing small personal items and a change of clothes.
+
+Each end of the room opens to another by a set of stone double-doors.
+
 #### Balconies
-The Balconies are an identical pair of simple veiwing areas
+The Balconies are an identical pair of simple viewing areas that overlook the *Grand Chamber* below. They are lined in ornate stone railings, and play host to a pair of stone benches. Of the two single-wide doors in the walls of the balconies, one goes to a descending staircase, while the other goes to an ascending staircase. 
 
 #### Guest Noble Chambers
+
+
 #### Speaking Throne
 #### Temple to Terra
 #### Armory
