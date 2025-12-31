@@ -255,8 +255,8 @@ We go down to the Sundered Depths, and we find a big heart-shaped rock in a room
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | o   | .   | .   | .   | .   | .    | .   |
 | o   | o   | o   | .   | .   | .   | .   |      |     |
-| o   | o   | o   | .   | .   |     |     | DC   | 16  |
-| o   |     |     |     |     |     |     | ATTK | +8  |
+| o   | o   | x   | .   | .   |     |     | DC   | 16  |
+| o   |     |     |     |     |     |     | ATTK | +9  |
 
 #### Proficiencies
 ##### Skills
@@ -400,7 +400,7 @@ Once you conjure the mind, you can't do so again until you finish a long rest, u
 - While you are Attuned, the Coin grants +1 to Arcana Skill Checks and +1 to Spell Attacks.
 - While you are Attuned, you may store a 2nd Level Wizard Spell in the Coin (currently *Silvery Barbs* 1/1).
 - While you are Attuned, you may counter a *counterspell* or *dispel magic* targeting a spell you cast once per long rest.
-- While you are Attuned, once per long rest, before you cast a spell (11/25);
+- While you are Attuned, once per long rest, before you cast a spell (12/25);
 	- *(Heads / Evens)* Gain Advantage on an Attack Roll made for the spell, or impose Disadvantage on a Saving Throw made for the spell.
 	- *(Tails / Odds)* Regain the lowest level spell slot expended to cast the spell.
 
