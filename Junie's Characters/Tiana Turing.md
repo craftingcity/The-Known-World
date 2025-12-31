@@ -238,7 +238,7 @@ Tiana and Issabella go to the Barracks.
 
 #### Session 22: In the City
 
-
+We go down to the Sundered Depths, and we find a big heart-shaped rock in a room that beats with a pulse around us. It's not right, bleeding sap and glowing from it's breaking crack. We try to make it better, but vines come up out of the ground to get us.
 
 ## Stats
 
