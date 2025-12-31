@@ -419,11 +419,88 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c9c7b0a0e912adb",
+  "floating": {
+    "id": "495b5d97a2aef673",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4a90faf4437f1735",
+        "type": "window",
+        "children": [
+          {
+            "id": "c90f50566ca5100f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8e2ad1d624f4e7fb",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Tiana Turing.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tiana Turing"
+                }
+              }
+            ]
+          },
+          {
+            "id": "695c0287ecf55cde",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f73db403d08f6cd4",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Tiana Turing.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tiana Turing"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 501,
+        "y": 0,
+        "width": 1035,
+        "height": 912,
+        "maximize": false,
+        "zoom": -2.5
+      }
+    ]
+  },
+  "active": "f73db403d08f6cd4",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/b_ Chapter Three - Level Two; Line.md",
     "Game Notes/Prenotes/'25/Prenotes Dec 29 25.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/b_ Chapter Three - Level Two; Line.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/c_ Chapter Four - Level Three; Sinker.md",

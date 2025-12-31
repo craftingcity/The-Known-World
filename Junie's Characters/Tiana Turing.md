@@ -222,19 +222,23 @@ We arrive outside Vresktal, the swamp-grown heart of the Vresk.
 
 Tiana kinda got put on trial, but because 'no Vresk blood was spilled' and 'they stood with our warriors at the Outpost' nothing happened.
 
-Queen Vresk tells us about a big mission from two weeks ago; an elite party of warriors left and tried to find a way to assassinate Torrin. Undead attacks were getting stronger in the villages, and it's getting worse as Vresk come back to fight for the other side.
+Not-A-Queen Vresk tells us about a big mission from two weeks ago; an elite party of warriors left and tried to find a way to assassinate Torrin. Undead attacks were getting stronger in the villages, and it's getting worse as Vresk come back to fight for the other side.
 
 Her eldest daughter was on this mission, and they travelled through Grung territory into Bucaneer Break and then towards "where the garrison should be", where they encountered a dark black wall manned by undead warriors. As they made camp, they were set upon by a patrol, where the party would all die. 
 
 A gate opened in the Black Wall when the dead were dragged inside, where an army waited.
 
-The Heartcoal is a relic of great importance, it was stolen, and then returned to them by Cobblestar (who also knows the Queen's dead daughter). We need to get the deep-buried Veinstone. There is a place below the city known as the Sunken Depths, where we can find that Veinstone. The Queen believes that the Evil Door leads into the caverns, and maybe the caverns lead below the Black Wall.
+The Heartcoal is a relic of great importance, it was stolen, and then returned to them by Cobblestar (who also knows the Queen's dead daughter). We need to get the deep-buried Veinstone. There is a place below the city known as the Sundered Depths, where we can find that Veinstone. The Queen believes that the Evil Door leads into the caverns, and maybe the caverns lead below the Black Wall.
 
 Many years before the Fog, Dimble Turing came through the swamp to Vresktal. They stayed with the Vresk and they gave the Vresk a gift; a scroll that opens a portal to his home. We get the Heartcoal or the Scroll Home. Not both.
 
 The Vresk are trying to make alliances with other factions.
 
 Tiana and Issabella go to the Barracks.
+
+#### Session 22: In the City
+
+
 
 ## Stats
 
@@ -251,7 +255,7 @@ Tiana and Issabella go to the Barracks.
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | o   | .   | .   | .   | .   | .    | .   |
 | o   | o   | o   | .   | .   | .   | .   |      |     |
-| o   | o   | x   | .   | .   |     |     | DC   | 16  |
+| o   | o   | o   | .   | .   |     |     | DC   | 16  |
 | o   |     |     |     |     |     |     | ATTK | +8  |
 
 #### Proficiencies
@@ -345,7 +349,8 @@ Once you conjure the mind, you can't do so again until you finish a long rest, u
 ###### On My Body...
 (10gp, 25sp)
 
-- 2x *Pot of Healing*; 2d4+2
+- 4x *Pot of Healing*; 2d4+2 hp
+- 1x *Pot of Healing, Greater;* 4d4+4 hp
 - Anatomical Notes of Creatures of the Island
 - Cold Iron Rat-Spiral Engraved Key
 - Wooden Idol of 'Jungle God'
@@ -395,7 +400,7 @@ Once you conjure the mind, you can't do so again until you finish a long rest, u
 - While you are Attuned, the Coin grants +1 to Arcana Skill Checks and +1 to Spell Attacks.
 - While you are Attuned, you may store a 2nd Level Wizard Spell in the Coin (currently *Silvery Barbs* 1/1).
 - While you are Attuned, you may counter a *counterspell* or *dispel magic* targeting a spell you cast once per long rest.
-- While you are Attuned, once per long rest, before you cast a spell (10/25);
+- While you are Attuned, once per long rest, before you cast a spell (11/25);
 	- *(Heads / Evens)* Gain Advantage on an Attack Roll made for the spell, or impose Disadvantage on a Saving Throw made for the spell.
 	- *(Tails / Odds)* Regain the lowest level spell slot expended to cast the spell.
 
