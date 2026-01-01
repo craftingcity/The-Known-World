@@ -8,7 +8,7 @@ aliases:
 - [[0_ notes]]
 - [[a_ Chapter One - Introduction]]
 - [[a_ Chapter Two - Level One; Hook]]
-- [[b_ Chapter Three - Level Two; Line]]
+- [[b_ Chapter Three  - Level Two; Line]]
 - [[c_ Chapter Four - Level Three; Sinker]]
 - [[d_ Chapter Five - Level Four; Four Corners]]
 - [[d_ Chapter Six - Level Five; Pick-up Sticks]]

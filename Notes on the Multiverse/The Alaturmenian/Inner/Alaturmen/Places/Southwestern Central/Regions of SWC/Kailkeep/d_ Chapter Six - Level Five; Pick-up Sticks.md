@@ -37,10 +37,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 ### Detail
 #### Go Fish!
 - A large salt-water lake hosts a number of aquatic critters, one of which - a quick and small fish - has a **Token**. Other critters will not attack the keyholder, and even larger predators will defend a smaller keyholder.
-- The largest threat to a competent combatant is drowning / suffocating; 
-	- A character may hold their breath for a number of minutes equal to 1 + their Con Mod, with 30 seconds as a minimum. Convert this number into rounds of initiative (at 6 seconds per round). A character expends a round of held breath on the beginning of their turn.
-	- If a character takes a Move Action or a Full Action, they must spend an additional round (6 seconds) of held breath to do so.
-	- *After a character runs out of breath, they begin drowning. A character may only be drowning for a number of rounds equal to their Con Mod, with 1 round as a minimum. If they are without air for this many rounds, they are reduced to 0 HP and are dying.*
+- The largest threat to a competent combatant is drowning / suffocating. (See [[Combat Mechanics and Positioning#Drowning / Suffocating]])
 #### Bouncy House
 - This chamber contains a system of plate-based launchers that shoot characters high into the air.
 - A **Token** is hanging upon a small ledge near the top and center of the chamber.
@@ -48,7 +45,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 - This chamber contains a number of colored mosaic tiles and a large mannequin in a daunting stretched pose.
 - As the game begins, the Mannequin will change it's pose once per round. A character may attempt to replicate the pose by succeeding on an Dexterity (Acrobatics) or Charisma (Performance) check of successive DC.
 	- When a pose has been successfully replicated by any number of participants, that pose is completed. When three poses have been completed successively, the game ends, and a **Token** is revealed inside the Mannequin's chest.
-	- When a pose has been failed, the failing character makes a DC 18 Wisdom Saving Throw. If they fail the save, they are Charmed until the beginning of their next turn, and immediately move their speed towards and then attack the closest ally.
+	- When a pose has been failed, the failing character makes a DC 18 Wisdom Saving Throw. If they fail the save, they are Charmed until the beginning of their next turn. When they are Charmed this way, they immediately move their speed towards the nearest creature, and then make an Attack against it.
 #### Shooting Gallery
 - This long chamber is lined with ballista on one side (the end or sides of the hall is preferable) that are being controlled remotely by a number of Kobolds behind their protective stone.
 - A **Token** rests on a pedestal at the end of the chamber.
@@ -59,14 +56,14 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 #### Burning Hallway
 - A long hallway reminiscent of the *Dart Halls* from lower floors. This hall is covered in tiles of pressure plates, and the walls are lined with thin ports.
 - When a pressure plate is activated, the entire hall is activated. For thirty seconds, each port in the wall fires a stream of flaming fluid.
-- A characteer may attempt to navigate the fire-streams, and to do so, must succeed on a DC 22 Dexterity Saving Throw per ten feet they move, or they will be scorched by the fire. If a character is scorched, they take 3d6 fire damage, and are 'Enflamed'.
+- A character may attempt to navigate the fire-streams, and to do so, must succeed on a DC 22 Dexterity Saving Throw per ten feet they move, or they will be scorched by the fire. If a character is scorched, they take 3d6 fire damage, and are 'Enflamed'.
 	- While a character is 'Enflamed', they take 1d8 fire damage at the beginning of their turn. A character may attempt to end this condition by making a DC 14 Dexterity Saving Throw while they are Prone, or otherwise dousing the flames.
 #### Blood for Coin
 - A smaller chamber that holds a number of visible tanks on the wall below accompanying **Tokens**. In the center of the chamber, there is a stone bowl with a small grate at the bottom stained a dark red.
 - As the stone bowl is filled with blood, it will travel to one of the tanks on the walls. When a tank is filled with 16 pints of blood (2-3 bodies), the tank's **Token** becomes available.
 #### Clean Ooze
 - A long, dark hallway that is immaculately clean - no dust or grime to be found.
-- A pipe, coming from somewhere else in Kailkeep, slowly drips chunks of sentient gelatinous acid into the hall, which eventually collects together and becomes a hall-width Gelatinous Ooze that will eventually make its way out of this particular hall in search of more detritus to consume.
+- A pipe, coming from somewhere else in Kailkeep, slowly drips chunks of sentient gelatinous acid into the hall, which collects together and becomes a hall-width Gelatinous Ooze that will slowly make its way out of this particular hall in search of more detritus to consume.
 #### Yellowback's Lair
 - A pair of small connected chambers serve as the Yellowback Gang's Lair, where they produce their alchemical equipment and rest after a combat.
 	- A number of 'smarter' gangsters stay within the Lair at all times to manage the alchemical productions.

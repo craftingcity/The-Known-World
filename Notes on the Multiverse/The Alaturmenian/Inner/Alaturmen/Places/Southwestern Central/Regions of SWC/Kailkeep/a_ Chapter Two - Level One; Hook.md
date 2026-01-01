@@ -5,7 +5,7 @@ aliases:
 ---
 
 # Level One: Hook
-The first level of Kailkeep is a series of halls and chambers seemingly built in a brutalist and well crafted - "dwarven" - style. Throughout this level, pockets of the weakest Loyalists dwell in relative safety, but doomed to boredom in an endless cycle of production and relocation.
+The first level of Kailkeep is a series of halls and chambers seemingly built in a brutalist and well crafted - "dwarven" - style. Throughout this level, pockets of the weakest Loyalists dwell in relative safety, doomed to boredom in an endless cycle of production and relocation.
 
 The purpose of this level is to begin to lull any entrants into a false sense of security. The furniture and decorations support the theory that this was once a [[Mountain Hall]] outpost that spread throughout this lone mountain, only for them to lose control of the outpost to a magically potent Kobold clan.
 
@@ -22,7 +22,7 @@ A population of Unusual Rodents has escaped containment and survived the meager 
 For a few miles, at the bottom of this great hell, a series of chambers continually produce a varied combination of the following types of rooms.
 
 ### Navigation
-*Level One* is accessed through an [[#Entrance Hall]], which leads into a [[#Grand Chamber]]. While exploring the interior of *Level One*, an [[#Entrance Hall]] connects one [[#Grand Chamber]] to another.
+*Level One* is accessed through an [[#Entrance Hall]], which leads into a [[#Grand Chamber]].
 
 A [[#Grand Chamber]] leads into four of the other rooms, which connect via the [[#Servant Halls]]. The [[#Servant Halls]] themselves connect to additional adjacent rooms, which in turn, connects the entirety of *Level One*.
 
@@ -55,23 +55,34 @@ The contents of the kitchen are meager, composed of an oven, an open cauldron, a
 A hallway connects from the [[#Grand Chamber]] to an opposing pair of single doors. Behind each is one of the four following Workshop layouts.
 
 ##### Crude Metalworks
-The Crude Metalworks is a large workshop. Four crucibles are manually fed raw metals collected from the secure drop-shoot on the wall opposing the door. In the center of the room, surrounded by the crucibles, a table carries dozens of simple casts, shaping tools, and metal products. By the drop-shoot, a single door leads into the [[#Servant Halls]]
+The Crude Metalworks is a large workshop that smells of metal and soot. Four crucibles are manually fed raw metals collected from the secure drop-shoot on the wall opposing the door. In the center of the room, surrounded by the crucibles, a table carries dozens of simple casts, shaping tools, and metal products. By the drop-shoot, a single door leads into the [[#Servant Halls]]
 
-A stone cart is somewhere within this room, having been used by Loyalist Workers to transport materials from the shoot to the crucibles. 
+A stone cart is somewhere within this room, having been used by Loyalist Workers to transport materials from the shoot to the crucibles, and from the casts to the [[#Fine Metalworks]]. 
 
 ##### Fine Metalworks
-The Fine Metalworks is a small workshop. A large stone forge occupies half of the room opposed to the entrance, paired alongside a large anvil and a grinding wheel.
+The Fine Metalworks is a small workshop that smells of chemical fire. A large stone forge occupies half of the room opposed to the entrance, paired alongside a large anvil and a grinding wheel.
 
 On one of the other walls, a distance from the forge, a dark black metallic altar adorned with a blue runner and a pair of chalices is used to inspect and export the finished products. As an acceptable item is placed on the altar and the command word is spoken, the chalices begin to bubble over in dark blue smog that moves to cover the item. When the smog dissipates, the item is gone, having been teleported into the armories of the Operators. By the altar, a single door leads into the [[#Servant Halls]]
 
 ##### Textiles Mill
-The Textiles Mill is a large workshop equipped with two each of a combing system, a spinning wheel, and a weaving rack, all of which are used in tandem to create all manner of textile products, including the clothing, beddings, curtains, and ropes that would appear in some rooms of the Hells above.
+The Textiles Mill is a large workshop equipped with two each of a combing system, a spinning wheel, and a weaving rack, all of which are used in tandem to create all manner of textile products, including the clothing, beddings, curtains, and ropes that would appear in some rooms of the Hells above. The room feels stuffy, as the particulate fibers fill the air.
 
 Opposed in placement, a drop-shoot in the wall and an altar (both described above) flank the main working space of this room.
 
 ##### Leatherworks
-The Leatherworks is a small workshop. 
+The Leatherworks is a small workshop that reeks of gore and piss. The center of this place is a large table, on which several spools of twine-thread and dozens of needles rest, and below which a mess of jars filled with brains and urine lie ajar and unorganized. Above the table, cured hides are drying into leathers.
+
+Opposed in placement, a drop-shoot in the wall and an altar (both described above) flank the main working space of this room.
 
 #### Servant Quarters
+One of many, the Servant Quarters are exclusively accessible via the [[#Servant Halls]]. 
+
+A pair of stone and hay twin-size beds flank a single wardrobe in the center of the room. A brass pot lies somewhere on the floor here.
+
 #### Servant Halls
+A one-folk wide hall connects each of the [[#Servant Quarters]], [[#Workshops]], and [[#Kitchen]] of the section. At the ends of the hall, if the halls don't connect to another section, they enter the [[#Uncut Tunnels]].
+
 #### Uncut Tunnels
+The 'Uncut Tunnels' are as their name implies; cave tunnels that are naturally present throughout the lower floors of this place. They may rise, or fall, but they are not connected to any higher floor entrance. 
+
+Sometimes water pools in these places, leading to algae and lichen growths, as well as the presence of small insects and reptiles. The [[#Unusual Rodents]] will often make their nests here.
