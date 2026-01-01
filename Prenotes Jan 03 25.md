@@ -14,7 +14,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, they had traveled to the Temple of Flowers in [[Mountain Hall]] to meet with the renown fiendologist [[Fulton Shepherd]]. Once arrived, he asked that you remove a group of 'Loyalists' from a local hangout - which you promptly burned to the ground.
+When last we left our heroes, they had traveled to the Temple of Flowers in [[Mountain Hall]] to meet with the renown fiendologist [[Fulton Shepherd]]. Once arrived, he asked that you remove a group of 'Loyalists' from a local hangout - which you promptly set ablaze.
 
 ### What does the World Know?
 
