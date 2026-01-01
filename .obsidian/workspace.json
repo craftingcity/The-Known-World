@@ -16,74 +16,28 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Dec 19 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Dec 19 25"
-            }
-          },
-          {
-            "id": "c043acd779bd2d1e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Magical Items of Note"
-            }
-          },
-          {
-            "id": "3e8f3b8755c63a28",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
                 },
                 {
-                  "title": "The Gear...",
+                  "title": "Prenotes Dec 19 25",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Gear...\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":11},\"to\":{\"line\":33,\"ch\":11}},\"scroll\":11.510794358178046}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Dec 19 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Dec 19 25\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Game Notes/Prenotes/Prenotes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Weapons of Alaturmen"
+              "title": "Prenotes"
             }
           },
           {
-            "id": "ed27f37a81baaa25",
+            "id": "4dccb53556d4c1f4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -91,56 +45,118 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Armors of Alaturmen",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Armors of Alaturmen\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":86,\"ch\":0},\"to\":{\"line\":86,\"ch\":0}},\"scroll\":76.41798461259076}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "file": "Prenotes Jan 03 25.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Gear..."
+              "title": "Prenotes Jan 03 25"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "9e3168dc9ce68566",
-        "type": "tabs",
+        "id": "2c8e03da82f7e8b2",
+        "type": "split",
         "children": [
           {
-            "id": "7717537e268829f2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Mountain Hall.md",
-                "mode": "source",
-                "source": true
+            "id": "5896f62dc37b61bb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2ca3fb695ae75726",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Secretkeepers"
+                },
+                "group": "44628a4c056f7cd7"
+              }
+            ]
+          },
+          {
+            "id": "55a7258f1a644fcd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c917d60d5eafc294",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for The Secretkeepers"
+                },
+                "group": "44628a4c056f7cd7"
               },
-              "icon": "lucide-file",
-              "title": "Mountain Hall"
-            }
+              {
+                "id": "ef3f5ca744fc6bff",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Prenotes Dec 19 25.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Prenotes Dec 19 25"
+                }
+              }
+            ],
+            "currentTab": 1
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -239,8 +255,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -414,13 +429,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed8595550ce04b14",
+  "active": "4dccb53556d4c1f4",
   "lastOpenFiles": [
+    "Prenotes Dec 19 25.md",
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "Prenotes Jan 03 25.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+    "Game Notes/Prenotes/'26/Prenotes Jan 04 26.md",
+    "Game Notes/Prenotes/Prenotes.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Mountain Hall.md",
+    "Game Notes/Prenotes/'26",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Mountain Hall.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-    "Prenotes Dec 19 25.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Game Notes/NPCs/High Power/True Villian NPCs/Arstovich.md",
     "Prenotes Dec 01 25.md",
@@ -439,10 +459,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/South Littemotto.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md",
-    "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md",
-    "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Haruuc.md",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
@@ -453,7 +469,6 @@
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
     "Game Notes/NPCs/High Power/Devils",
     "Game Notes/NPCs/High Power/Demons",
-    "MEDIA/SUPP/DOCS/AlchemistsLab.pdf",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
