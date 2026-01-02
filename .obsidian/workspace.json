@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fdaaea9c24c5d72b",
+        "id": "74ca148bb8b7928f",
         "type": "tabs",
         "children": [
           {
-            "id": "ed8595550ce04b14",
+            "id": "66fe434581bca9d4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,145 +18,25 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Prenotes Dec 19 25",
+                  "title": "Armors of Alaturmen",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Dec 19 25.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Dec 19 25\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Armors of Alaturmen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":86.40793167376881}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/Prenotes.md",
+                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes"
-            }
-          },
-          {
-            "id": "4dccb53556d4c1f4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Jan 03 25.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Jan 03 25"
+              "title": "Weapons of Alaturmen"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "2c8e03da82f7e8b2",
-        "type": "split",
-        "children": [
-          {
-            "id": "5896f62dc37b61bb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2ca3fb695ae75726",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "The Secretkeepers"
-                },
-                "group": "44628a4c056f7cd7"
-              }
-            ]
-          },
-          {
-            "id": "55a7258f1a644fcd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c917d60d5eafc294",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks for The Secretkeepers"
-                },
-                "group": "44628a4c056f7cd7"
-              },
-              {
-                "id": "a2cf4ae338851a14",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Prenotes/'25/Prenotes Dec 19 25.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prenotes Dec 19 25"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -429,10 +309,62 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4dccb53556d4c1f4",
+  "floating": {
+    "id": "6d3211b352c6cc27",
+    "type": "floating",
+    "children": [
+      {
+        "id": "87c68880ddb88e96",
+        "type": "window",
+        "children": [
+          {
+            "id": "1e537824f844c867",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54d8888eb255a321",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Alchemy Processes & Products"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 912,
+        "maximize": false,
+        "zoom": -2
+      }
+    ]
+  },
+  "active": "54d8888eb255a321",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Game Notes/Prenotes/'25/Prenotes Dec 19 25.md",
-    "Prenotes Jan 03 25.md",
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "Game Notes/Prenotes/Prenotes.md",
+    "Game Notes/Prenotes/'26/Prenotes Jan 03 26.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'25/Prenotes Oct 30 25.md",
     "Game Notes/Prenotes/'25/Prenotes Nov 19 25.md",
@@ -440,15 +372,11 @@
     "Game Notes/Prenotes/'25/Prenotes Dec 01 25.md",
     "Game Notes/Campaign Rosters/GavinEmily Game.md",
     "Prenotes Dec 19 25.md",
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Game Notes/Prenotes/'26/Prenotes Jan 04 26.md",
-    "Game Notes/Prenotes/Prenotes.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Mountain Hall.md",
     "Game Notes/Prenotes/'26",
-    "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Game Notes/NPCs/High Power/True Villian NPCs/Arstovich.md",
     "Prenotes Dec 01 25.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",

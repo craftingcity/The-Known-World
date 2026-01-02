@@ -1031,6 +1031,7 @@ Upon introduction, make a DC (17 + G) Wisdom Saving Throw. If you succeed, you g
 | Purity Lens                  | Examine Faith-claims                                                               | 5.0k sp (no sale)                     |                   |
 | Auspex Lens                  | Examine magical effects                                                            | 5.5k sp                               |                   |
 | Precounter Charm             | When next targeted exclusively, cast *counterspell* with WIS                       | 1.0k sp                               |                   |
+| Aqualator                    | Breathe air as if it was water                                                     |                                       |                   |
 
 #### Liquid Light / Flashpellets
 > A white brightly glowing liquid most commonly used and known as 'Flashpellets', hollow glass beads filled with Liquid Light and thrown or fired as a momentary discombobulating flash of light.
@@ -1148,6 +1149,7 @@ While you are wearing the Charm, when you are next exclusively targeted by a spe
 - 24 ounces Ironwood Shavings (444.0sp)
 	- 1 Precounter Charm (1.0k sp)
 
+#### Aqualator
 
 ### Enchanting
 
@@ -1718,17 +1720,19 @@ An outer essence of faith.
 
 ## Magical Inscriptions
 
-| Name (Source)           | Mechanic | Cost @ Market | Regions Producing |
-| ----------------------- | -------- | ------------- | ----------------- |
-| ... of Far Speech       |          |               |                   |
-| ... of Holding, Grade 4 |          |               |                   |
-| ... of Holding, Grade 3 |          |               |                   |
-| ... of Everlasting      |          |               |                   |
-|                         |          |               |                   |
+| Name (Source)               | Mechanic | Cost @ Market | Regions Producing |
+| --------------------------- | -------- | ------------- | ----------------- |
+| ... of Far Speech           |          |               |                   |
+| ... of Holding, Grade 4     |          |               |                   |
+| ... of Holding, Grade 3     |          |               |                   |
+| ... of Everlasting {Liquid} |          |               |                   |
+|                             |          |               |                   |
 
 #### of Far Speech
+#### of Messaging
 #### of Holding, Grade 4
 #### of Holding, Grade 3
+#### of Everlasting {Liquid}
 
 ---
 
