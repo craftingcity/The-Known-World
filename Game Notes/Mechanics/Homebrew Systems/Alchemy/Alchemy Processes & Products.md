@@ -1730,6 +1730,8 @@ An outer essence of faith.
 
 #### of Far Speech
 #### of Messaging
+#### of Nondetection
+#### of Mobility
 #### of Holding, Grade 4
 #### of Holding, Grade 3
 #### of Everlasting {Liquid}
