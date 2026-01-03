@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "74ca148bb8b7928f",
+        "id": "b8d6486f85699b99",
         "type": "tabs",
         "children": [
           {
-            "id": "66fe434581bca9d4",
+            "id": "b0eb81442ae03e7f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,24 +16,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Armors of Alaturmen",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Armors of Alaturmen\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":86.40793167376881}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+                "file": "Game Notes/Prenotes/'26/Prenotes Jan 03 26.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Weapons of Alaturmen"
+              "title": "Prenotes Jan 03 26"
             }
           }
         ]
@@ -309,62 +303,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "6d3211b352c6cc27",
-    "type": "floating",
-    "children": [
-      {
-        "id": "87c68880ddb88e96",
-        "type": "window",
-        "children": [
-          {
-            "id": "1e537824f844c867",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "54d8888eb255a321",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Alchemy Processes & Products"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 0,
-        "width": 768,
-        "height": 912,
-        "maximize": false,
-        "zoom": -2
-      }
-    ]
-  },
-  "active": "54d8888eb255a321",
+  "active": "b0eb81442ae03e7f",
   "lastOpenFiles": [
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "Game Notes/Prenotes/'26/Prenotes Jan 03 26.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Game Notes/Prenotes/'25/Prenotes Dec 19 25.md",
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Game Notes/Prenotes/Prenotes.md",
-    "Game Notes/Prenotes/'26/Prenotes Jan 03 26.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'25/Prenotes Oct 30 25.md",
     "Game Notes/Prenotes/'25/Prenotes Nov 19 25.md",
@@ -381,7 +328,6 @@
     "Prenotes Dec 01 25.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "A Grand Notepad.md",
     "Junie's Characters/Tiana Turing.md",

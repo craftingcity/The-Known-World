@@ -21,7 +21,9 @@ For as little as you know about the Hells of [[Baator]] and it's Devils, you hav
 You stand in the Temple of Flowers, in the city of [[Mountain Hall]], in the evening of the 6th day of Drying in the 106th year. What do you do?
 
 ### What does the World Know?
+The party talks about trading kills for their deal with the devil they summon, and maybe get it to guide them through.
 
+Lets summon a devil; 
 
 ### What happened?
 
