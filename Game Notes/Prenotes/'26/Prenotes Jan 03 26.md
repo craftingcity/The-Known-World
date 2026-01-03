@@ -25,6 +25,13 @@ The party talks about trading kills for their deal with the devil they summon, a
 
 Lets summon a devil; 
 
+#### INITIATIVE
+27 - Niko
+20 - Devlin (27, )
+17 - Zipper
+15 - Shep
+9 - Soarsia
+
 ### What happened?
 
 
