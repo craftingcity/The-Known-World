@@ -34,7 +34,9 @@ Lets summon a devil;
 9 - Soarsia
 5 - Imps
 
-They won. Wow, crazy. They return to Coalition City with Fulton and begin to sell out all their shit and consolidate money. 
+They won. Wow, crazy. They return to Coalition City with Fulton and begin to sell out all their shit and consolidate money. In total they're about 300k networth.
+
+
 
 ### What happened?
 
