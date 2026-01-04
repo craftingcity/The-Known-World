@@ -36,7 +36,7 @@ Lets summon a devil;
 
 They won. Wow, crazy. They return to Coalition City with Fulton and begin to sell out all their shit and consolidate money. In total they're about 300k networth.
 
-
+We followed some people that work in the Guild Mystic Division back into Vault 0, via an entrance in the Center of Arcane Education in [[Coalition City]]. 
 
 ### What happened?
 
