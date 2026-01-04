@@ -27,12 +27,14 @@ Lets summon a devil;
 
 #### INITIATIVE
 27 - Niko
-20 - Devlin (27, 43)
+~~20 - Devlin (27, 43, 64)~~
 17 - Zipper
 15 - Shep
 13 - Monkeys
 9 - Soarsia
 5 - Imps
+
+They won. Wow, crazy. 
 
 ### What happened?
 
