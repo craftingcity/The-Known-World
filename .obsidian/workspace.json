@@ -98,9 +98,32 @@
               "icon": "lucide-file",
               "title": "The Gear..."
             }
+          },
+          {
+            "id": "648b8a6d186a425e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Artifacts..."
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heatc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -374,11 +397,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b996388f4c56580",
+  "active": "648b8a6d186a425e",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Game Notes/Prenotes/'26/Prenotes Jan 03 26.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
@@ -394,7 +418,6 @@
     "Game Notes/Prenotes/'26/Prenotes Jan 04 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Mountain Hall.md",
     "Game Notes/Prenotes/'26",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/NPCs/High Power/True Villian NPCs/Arstovich.md",
     "Prenotes Dec 01 25.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",

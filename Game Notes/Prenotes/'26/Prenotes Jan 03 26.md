@@ -34,7 +34,7 @@ Lets summon a devil;
 9 - Soarsia
 5 - Imps
 
-They won. Wow, crazy. 
+They won. Wow, crazy. They return to Coalition City with Fulton and begin to sell out all their shit and consolidate money. 
 
 ### What happened?
 
