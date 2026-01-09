@@ -251,7 +251,7 @@ We go down to the Sundered Depths, and we find a big heart-shaped rock in a room
 | STR  | 8  (-1)   | PRF     | +3              |
 | CON  | 13 (+1)   | M. HP   | 32-7 Max HP     |
 | DEX  | 16 (+3)   | AC      | (13)            |
-| INT  | 20 (+5) ^ | C. HP   | 14 HP           |
+| INT  | 20 (+5) ^ | C. HP   | 13 HP           |
 | WIS  | 14 (+2) ^ | HD      | 6d6 (6/6)       |
 | CHA  | 12 (+1)   | SPD     | 25' (5s)        |
 
