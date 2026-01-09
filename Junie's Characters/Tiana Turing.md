@@ -259,7 +259,7 @@ We go down to the Sundered Depths, and we find a big heart-shaped rock in a room
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | o   | .   | .   | .   | .   | .    | .   |
 | o   | o   | o   | .   | .   | .   | .   |      |     |
-| o   | o   | x   | .   | .   |     |     | DC   | 16  |
+| o   | o   | o   | .   | .   |     |     | DC   | 16  |
 | o   |     |     |     |     |     |     | ATTK | +9  |
 
 #### Proficiencies
