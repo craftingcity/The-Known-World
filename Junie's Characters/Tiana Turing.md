@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 # Tiana Turing
-## Gnome Wizard, Auxiliarist (Wizard 5)
+## Gnome Wizard, Auxiliarist (Wizard 6)
 ### she/they
 
 > Standing at 3'9", Tiana wears a practical brown canvas cloak and a comparably large backpack.
@@ -236,9 +236,11 @@ The Vresk are trying to make alliances with other factions.
 
 Tiana and Issabella go to the Barracks.
 
-#### Session 22: In the City
+#### Session 22: Into the Sundered Depths
 
 We go down to the Sundered Depths, and we find a big heart-shaped rock in a room that beats with a pulse around us. It's not right, bleeding sap and glowing from it's breaking crack. We try to make it better, but vines come up out of the ground to get us.
+
+#### Session 23: 
 
 ## Stats
 
