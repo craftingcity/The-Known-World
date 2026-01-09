@@ -242,6 +242,8 @@ We go down to the Sundered Depths, and we find a big heart-shaped rock in a room
 
 #### Session 23: 
 
+
+
 ## Stats
 
 | L. 6 | XP: 22.0k | / 23.0k | (0) Inspiration |
