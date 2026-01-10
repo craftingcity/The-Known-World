@@ -1,5 +1,7 @@
 ---
-tags: npc
+tags: 
+- npc
+- devil
 aliases:
 ---
 # Istratige

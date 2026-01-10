@@ -68,8 +68,14 @@
             "id": "dad1c72f4858fe75",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Istratige",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Istratige.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Istratige\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -163,8 +169,7 @@
               "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#planes  ",
+                "query": "arbiter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -438,17 +443,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9a2de4c5cad3eaa",
+  "active": "dc192f3fe205c6cc",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
     "Game Notes/NPCs/High Power/Devils/Devils.md",
     "Istratige.md",
+    "Game Notes/NPCs/High Power/Demons/Demons.md",
     "MEDIA/SUPP/baatorMap.drawio",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Hallis Alamore.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Blood Wars of Fiends.md",
-    "Game Notes/NPCs/High Power/Demons/Demons.md",
     "DATABASE.base",
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
