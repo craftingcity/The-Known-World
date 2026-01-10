@@ -213,7 +213,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asmodeus",
+                "query": "tag:#planes  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
