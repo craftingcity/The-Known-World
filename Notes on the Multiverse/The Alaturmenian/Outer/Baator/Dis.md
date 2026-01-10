@@ -14,6 +14,9 @@ Surrounding the City of Dis, harsh mountains stretch out endlessly, peaking up, 
 ## Contents
 The City of Dis is the only attraction on this layer, hosting a massive population of Devil-kind, Lemure, and extraplanar adventurer. For as massive and bold as other cities claim to be, this place is a metropolis; we sell any and every thing, or service, you could comprehend, and quite a few you couldn't.
 
+Given the growingly inhospitable nature of the other layers of [[Baator]], many 'displaced' Devil-kind have moved into Dis.
+
+
 
 
 ### Flora

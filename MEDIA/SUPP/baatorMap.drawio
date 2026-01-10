@@ -43,7 +43,7 @@
         <mxCell id="B8vX7ck9gQqU6Wu75Hnt-14" value="Density District" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-12">
           <mxGeometry x="80" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-12">
+        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-15" value="Auction District" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-12">
           <mxGeometry x="160" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B8vX7ck9gQqU6Wu75Hnt-16" value="Militant District" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-12">
@@ -61,37 +61,37 @@
         <mxCell id="B8vX7ck9gQqU6Wu75Hnt-20" value="Commercial District" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-12">
           <mxGeometry x="80" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-21" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-12">
+        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-21" value="Apartment District" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-12">
           <mxGeometry x="160" y="180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B8vX7ck9gQqU6Wu75Hnt-22" value="Minauros" style="swimlane;whiteSpace=wrap;html=1;fillColor=#003300;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="600" y="40" width="240" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-23" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-22">
+        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-23" value="Keep on the Wall" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-22">
           <mxGeometry y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-22">
+        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-24" value="Lonely Island" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-22">
           <mxGeometry x="80" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-25" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-22">
+        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-25" value="Suckerton" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-22">
           <mxGeometry x="160" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-26" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-22">
+        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-26" value="Stone Garden" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-22">
           <mxGeometry y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-22">
+        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-27" value="Glowing Mire" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-22">
           <mxGeometry y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-28" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-22">
+        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-28" value="Broken City" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-22">
           <mxGeometry x="80" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-29" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-22">
+        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-29" value="Toxic Swamp" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-22">
           <mxGeometry x="160" y="100" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B8vX7ck9gQqU6Wu75Hnt-30" value="Bookkeeper Village" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-22">
           <mxGeometry x="80" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-31" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-22">
+        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-31" value="Sea of Dead" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-22">
           <mxGeometry x="160" y="180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B8vX7ck9gQqU6Wu75Hnt-32" value="Phlegethos" style="swimlane;whiteSpace=wrap;html=1;fillColor=#990000;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">

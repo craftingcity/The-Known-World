@@ -15,7 +15,7 @@ The first circle is Baator's largest beachhead, it has been ravaged by the [[Blo
 The second layer is composed of nearly all harshly chopped mountain, but it plays host to a large city of the same name. As far as most visitors are concerned, the city and the layer are one and the same.
 
 #### [[Minauros]], Third Layer of Hell
-The third layer is an endless toxic swamp consistently berated by harsh winds, hail, and acid rain, dotted with minor pockets of civilization built of stone.
+The third layer is an endless kingdom, filled more by toxic swamp and corpse piles than any living things. The buildings are consistently berated by harsh winds, hail, and acid rain, leaving only minor pockets of civilization within the worn stone.
 
 #### [[Phlegethos]], Fourth Layer of Hell
 A blazing desolation of fire and lava, the fourth layer is host to a place known as The Pit of Flame, a large pit of *hell-fire*, a flame of such strength it bypasses the strongest fire resistances - and one of the worst punishments available to those who break the Laws of Baator.
