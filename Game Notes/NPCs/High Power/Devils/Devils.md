@@ -12,7 +12,9 @@ In the Time Before Time, the [[All-Father Annam]] created the plane of [[Baator]
 Ruled by [[Asmodeus]], the Grand Arch-Devil of Nessus and All [[Baator]], all Devils seek upward progress in the direct hierarchy below him. He stands as the High Ruler of Hell, managing and mangling the peons below him to his whims.
 
 ### Arch Devils
-The Arch-Devils are the major management of Devil-kind. Each of the Arch-Devils rule one layer of [[Baator]] and it's inhabitants. Against each other, they scheme and manipulate for favor and folly - of the Grand Arch-Devil in particular - in an attempt to claim portions of the other layers, of the [[Abyss]], and of the Material Planes.
+The Arch-Devils are the major management of Devil-kind. Each of the Arch-Devils rule one layer of [[Baator]] and it's inhabitants. They hold a cabinet of trusted allies, and a list of enemies to destroy. Against each other, the Arch-Devils scheme and manipulate for favor and folly - of the Grand Arch-Devil in particular - in an attempt to claim portions of the other layers, of the [[Abyss]], and of the Material Planes.
+
+### 
 
 ## Culture
 Although each layer hosts it's own culture, and each species it's own subculture, devils generally are the incarnation of Evil, with a tinge of 'Law' - which they bend to their whims. While Devils will lie, cheat, and steal, the sacred honor of a "deal" goes unbroken.

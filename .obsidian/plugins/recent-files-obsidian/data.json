@@ -5,12 +5,16 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md"
     },
     {
-      "basename": "Baator",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
+      "basename": "Istratige",
+      "path": "Istratige.md"
     },
     {
       "basename": "Devils",
       "path": "Game Notes/NPCs/High Power/Devils/Devils.md"
+    },
+    {
+      "basename": "Baator",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
     },
     {
       "basename": "Timeline",
@@ -195,10 +199,6 @@
     {
       "basename": "Noble House a'Fen",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Fen.md"
-    },
-    {
-      "basename": "Grand Pantheon",
-      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
     }
   ],
   "omittedPaths": [],
