@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 # Tiana Turing
-## Gnome Wizard, Auxiliarist (Wizard 5)
+## Gnome Wizard, Auxiliarist (Wizard 6)
 ### she/they
 
 > Standing at 3'9", Tiana wears a practical brown canvas cloak and a comparably large backpack.
@@ -236,18 +236,22 @@ The Vresk are trying to make alliances with other factions.
 
 Tiana and Issabella go to the Barracks.
 
-#### Session 22: In the City
+#### Session 22: Into the Sundered Depths
 
 We go down to the Sundered Depths, and we find a big heart-shaped rock in a room that beats with a pulse around us. It's not right, bleeding sap and glowing from it's breaking crack. We try to make it better, but vines come up out of the ground to get us.
+
+#### Session 23: 
+
+
 
 ## Stats
 
 | L. 6 | XP: 22.0k | / 23.0k | (0) Inspiration |
 | ---- | --------- | ------- | --------------- |
 | STR  | 8  (-1)   | PRF     | +3              |
-| CON  | 13 (+1)   | M. HP   | 32 Max HP       |
+| CON  | 13 (+1)   | M. HP   | 32-7 Max HP     |
 | DEX  | 16 (+3)   | AC      | (13)            |
-| INT  | 20 (+5) ^ | C. HP   | 32 HP           |
+| INT  | 20 (+5) ^ | C. HP   | 13 HP           |
 | WIS  | 14 (+2) ^ | HD      | 6d6 (6/6)       |
 | CHA  | 12 (+1)   | SPD     | 25' (5s)        |
 
@@ -255,7 +259,7 @@ We go down to the Sundered Depths, and we find a big heart-shaped rock in a room
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | o   | .   | .   | .   | .   | .    | .   |
 | o   | o   | o   | .   | .   | .   | .   |      |     |
-| o   | o   | x   | .   | .   |     |     | DC   | 16  |
+| o   | o   | o   | .   | .   |     |     | DC   | 16  |
 | o   |     |     |     |     |     |     | ATTK | +9  |
 
 #### Proficiencies
@@ -398,7 +402,7 @@ Once you conjure the mind, you can't do so again until you finish a long rest, u
 - *Attuned*
 - While you are Attuned, the Coin can be used as an Arcane Focus.
 - While you are Attuned, the Coin grants +1 to Arcana Skill Checks and +1 to Spell Attacks.
-- While you are Attuned, you may store a 2nd Level Wizard Spell in the Coin (currently *Silvery Barbs* 1/1).
+- While you are Attuned, you may store a 2nd Level Wizard Spell in the Coin (currently *Silvery Barbs* 0/1).
 - While you are Attuned, you may counter a *counterspell* or *dispel magic* targeting a spell you cast once per long rest.
 - While you are Attuned, once per long rest, before you cast a spell (12/25);
 	- *(Heads / Evens)* Gain Advantage on an Attack Roll made for the spell, or impose Disadvantage on a Saving Throw made for the spell.
