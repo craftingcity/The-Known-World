@@ -14,7 +14,14 @@ Ruled by [[Asmodeus]], the Grand Arch-Devil of Nessus and All [[Baator]], all De
 ### Arch Devils
 The Arch-Devils are the major management of Devil-kind. Each of the Arch-Devils rule one layer of [[Baator]] and it's inhabitants. They hold a cabinet of trusted allies, and a list of enemies to destroy. Against each other, the Arch-Devils scheme and manipulate for favor and folly - of the Grand Arch-Devil in particular - in an attempt to claim portions of the other layers, of the [[Abyss]], and of the Material Planes.
 
-### 
+### Dukes
+The Dukes are the minor management of Devil-kind. The Dukes serve and plot against their Arch-Devils while commanding their lower-devil Vassals.
+
+### Vassals
+The Vassals make up the plurality of Devil-kind, being the "upper-working class" of the system. They work jobs with which they are content, and largely perform voluntarily, pushing the harder or less pleasing work to their lessers.
+
+### Lessers
+The majority of devil-kind are considered 'lessers'. They perform the work that must be done to fuel society on [[Baator]]. They rarely see opportunity for upward mobility, and most that they do see is by accident.
 
 ## Culture
 Although each layer hosts it's own culture, and each species it's own subculture, devils generally are the incarnation of Evil, with a tinge of 'Law' - which they bend to their whims. While Devils will lie, cheat, and steal, the sacred honor of a "deal" goes unbroken.
