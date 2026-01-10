@@ -790,7 +790,7 @@ aliases:
 ###### Alergra's Staff of Evocation
 ### Northern Conflicts c.105AF
 #### Relics of Wartime
-#### xxxxx
+#### Relics of the Secretkeepers
 ###### Zipper's Silver Medal
 
 # Crafted Items
