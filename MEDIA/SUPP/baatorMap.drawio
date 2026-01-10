@@ -19,11 +19,6 @@
         <mxCell id="B8vX7ck9gQqU6Wu75Hnt-6" value="Outpost Pesmenos" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-2">
           <mxGeometry y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classicThin;startFill=1;endArrow=none;" edge="1" parent="B8vX7ck9gQqU6Wu75Hnt-2" source="B8vX7ck9gQqU6Wu75Hnt-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-30" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="B8vX7ck9gQqU6Wu75Hnt-7" value="Beachhead Styx" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-2">
           <mxGeometry y="180" width="80" height="80" as="geometry" />
         </mxCell>
@@ -39,13 +34,13 @@
         <mxCell id="B8vX7ck9gQqU6Wu75Hnt-11" value="High Crags" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-2">
           <mxGeometry x="160" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-12" value="Dis" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-12" value="Dis / City of Dis" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="240" height="260" as="geometry" />
         </mxCell>
         <mxCell id="B8vX7ck9gQqU6Wu75Hnt-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-12">
           <mxGeometry y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-14" value="Mineral Fields" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-12">
+        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-12">
           <mxGeometry x="80" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B8vX7ck9gQqU6Wu75Hnt-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-12">
@@ -57,7 +52,7 @@
         <mxCell id="B8vX7ck9gQqU6Wu75Hnt-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-12">
           <mxGeometry y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-18" value="City of Dis" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-12">
+        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-18" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-12">
           <mxGeometry x="80" y="100" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B8vX7ck9gQqU6Wu75Hnt-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-12">
@@ -279,17 +274,35 @@
         <mxCell id="B8vX7ck9gQqU6Wu75Hnt-91" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="B8vX7ck9gQqU6Wu75Hnt-82">
           <mxGeometry x="160" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-97" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="B8vX7ck9gQqU6Wu75Hnt-7" target="B8vX7ck9gQqU6Wu75Hnt-43">
+        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-97" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeColor=#FFFFFF;jumpStyle=none;dashed=1;startArrow=ERmany;startFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="260" as="sourcePoint" />
+            <mxPoint x="590" y="650" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="80" y="260" />
               <mxPoint x="80" y="330" />
               <mxPoint x="300" y="330" />
               <mxPoint x="300" y="420" />
+              <mxPoint x="360" y="420" />
+              <mxPoint x="360" y="500" />
+              <mxPoint x="440" y="500" />
+              <mxPoint x="440" y="580" />
+              <mxPoint x="520" y="580" />
+              <mxPoint x="520" y="650" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vX7ck9gQqU6Wu75Hnt-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B8vX7ck9gQqU6Wu75Hnt-9" target="B8vX7ck9gQqU6Wu75Hnt-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B8vX7ck9gQqU6Wu75Hnt-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B8vX7ck9gQqU6Wu75Hnt-3" target="B8vX7ck9gQqU6Wu75Hnt-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="20" />
+              <mxPoint x="300" y="20" />
+              <mxPoint x="300" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -8,63 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f53bbcb519b4643c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Demons",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Demons/Demons.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Demons\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "DATABASE.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "DATABASE"
-            }
-          },
-          {
-            "id": "a4342275e1a4a712",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Demons/Demons.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Demons"
-            }
-          },
-          {
             "id": "dad1c72f4858fe75",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -92,9 +35,32 @@
               "icon": "lucide-file",
               "title": "Avernus"
             }
+          },
+          {
+            "id": "d4193121ab8e1b47",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Dis"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "fac1daf46c021aeb",
@@ -219,7 +185,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arbiter",
+                "query": "orcus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -273,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055
+    "width": 297.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -445,16 +412,17 @@
   },
   "active": "dc192f3fe205c6cc",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
+    "DATABASE.base",
+    "Game Notes/NPCs/High Power/Demons/Demons.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Game Notes/NPCs/High Power/Devils/Devils.md",
     "Istratige.md",
-    "Game Notes/NPCs/High Power/Demons/Demons.md",
     "MEDIA/SUPP/baatorMap.drawio",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Hallis Alamore.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Blood Wars of Fiends.md",
-    "DATABASE.base",
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
@@ -472,8 +440,6 @@
     "Game Notes/Prenotes/'25/Prenotes Dec 19 25.md",
     "Game Notes/Prenotes/Prenotes.md",
     "Game Notes/Prenotes/'25/Prenotes Oct 30 25.md",
-    "Game Notes/Prenotes/'25/Prenotes Nov 19 25.md",
-    "Game Notes/Prenotes/'25/Prenotes Dec 29 25.md",
     "Game Notes/Prenotes/'26",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",

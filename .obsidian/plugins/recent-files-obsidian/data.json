@@ -5,8 +5,20 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
     },
     {
+      "basename": "Dis",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md"
+    },
+    {
       "basename": "Avernus",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md"
+    },
+    {
+      "basename": "DATABASE",
+      "path": "DATABASE.base"
+    },
+    {
+      "basename": "Demons",
+      "path": "Game Notes/NPCs/High Power/Demons/Demons.md"
     },
     {
       "basename": "Devils",
@@ -15,10 +27,6 @@
     {
       "basename": "Istratige",
       "path": "Istratige.md"
-    },
-    {
-      "basename": "Demons",
-      "path": "Game Notes/NPCs/High Power/Demons/Demons.md"
     },
     {
       "basename": "Timeline",
@@ -31,10 +39,6 @@
     {
       "basename": "Blood Wars of Fiends",
       "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Blood Wars of Fiends.md"
-    },
-    {
-      "basename": "DATABASE",
-      "path": "DATABASE.base"
     },
     {
       "basename": "List of Names",
@@ -195,10 +199,6 @@
     {
       "basename": "The Church of the White Flame",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md"
-    },
-    {
-      "basename": "Noble House a'Fen",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Fen.md"
     }
   ],
   "omittedPaths": [],
