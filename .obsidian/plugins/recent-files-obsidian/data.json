@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Guild of Wizards",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
+      "basename": "List of Names",
+      "path": "Game Notes/NPCs/List of Names.md"
     },
     {
       "basename": "Magical Items of Note",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
+    },
+    {
+      "basename": "Guild of Wizards",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
+    },
+    {
+      "basename": "Hallis Alamore",
+      "path": "Hallis Alamore.md"
     },
     {
       "basename": "Guilded Mystic Entries",
@@ -191,10 +199,6 @@
     {
       "basename": "Houran Venclaw",
       "path": "Game Notes/NPCs/High Power/Council of Eight NPCs/Houran Venclaw.md"
-    },
-    {
-      "basename": "Baator",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
     }
   ],
   "omittedPaths": [],

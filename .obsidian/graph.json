@@ -13,6 +13,20 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "tag:#npc  ",
+      "color": {
+        "a": 1,
+        "rgb": 3749832
+      }
+    },
+    {
+      "query": "tag:#region tag:#holding  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": false,
@@ -22,9 +36,9 @@
   "lineSizeMultiplier": 0.683972602739726,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 20,
+  "repelStrength": 12.2537025112685,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.16893754722585191,
+  "scale": 0.1750161629554724,
   "close": false
 }
