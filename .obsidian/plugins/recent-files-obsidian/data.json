@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Avernus",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md"
+    },
+    {
+      "basename": "Baator",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
+    },
+    {
       "basename": "Devils",
       "path": "Game Notes/NPCs/High Power/Devils/Devils.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Grand Pantheon",
       "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
-    },
-    {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
-    },
-    {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     }
   ],
   "omittedPaths": [],

@@ -86,14 +86,60 @@
               "icon": "lucide-file",
               "title": "Devils"
             }
+          },
+          {
+            "id": "dad1c72f4858fe75",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Avernus"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "fac1daf46c021aeb",
         "type": "tabs",
         "children": [
+          {
+            "id": "dc192f3fe205c6cc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Baator"
+            }
+          },
           {
             "id": "915da6c1d2ea8cab",
             "type": "leaf",
@@ -391,10 +437,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9a2de4c5cad3eaa",
+  "active": "dad1c72f4858fe75",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
     "Game Notes/NPCs/High Power/Devils/Devils.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Hallis Alamore.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Blood Wars of Fiends.md",
     "Game Notes/NPCs/High Power/Demons/Demons.md",
@@ -419,8 +467,6 @@
     "Game Notes/Prenotes/'25/Prenotes Nov 19 25.md",
     "Game Notes/Prenotes/'25/Prenotes Dec 29 25.md",
     "Game Notes/Prenotes/'25/Prenotes Dec 01 25.md",
-    "Game Notes/Campaign Rosters/GavinEmily Game.md",
-    "Prenotes Dec 19 25.md",
     "Game Notes/Prenotes/'26",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
