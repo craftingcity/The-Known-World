@@ -13,6 +13,8 @@ views:
       - file.mtime
       - file.links
     sort:
+      - property: file.links
+        direction: ASC
       - property: file.tags
         direction: ASC
     columnSize:

@@ -11,6 +11,40 @@
             "id": "f53bbcb519b4643c",
             "type": "leaf",
             "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Demons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Demons/Demons.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Demons\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "DATABASE.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "DATABASE"
+            }
+          },
+          {
+            "id": "a4342275e1a4a712",
+            "type": "leaf",
+            "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
@@ -20,10 +54,67 @@
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Demons/Demons.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Demons"
+            }
+          },
+          {
+            "id": "e9a2de4c5cad3eaa",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Devils/Devils.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Devils"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "fac1daf46c021aeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "915da6c1d2ea8cab",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
             }
           }
         ]
@@ -76,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Alamore",
+                "query": "asmodeus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -300,12 +391,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f53bbcb519b4643c",
+  "active": "e9a2de4c5cad3eaa",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+    "Game Notes/NPCs/High Power/Devils/Devils.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Hallis Alamore.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Blood Wars of Fiends.md",
+    "Game Notes/NPCs/High Power/Demons/Demons.md",
+    "DATABASE.base",
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
-    "Hallis Alamore.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "MEDIA/SUPP/Vault0Map.drawio",
     "conflict-files-obsidian-git.md",
@@ -325,17 +421,12 @@
     "Game Notes/Prenotes/'25/Prenotes Dec 01 25.md",
     "Game Notes/Campaign Rosters/GavinEmily Game.md",
     "Prenotes Dec 19 25.md",
-    "Game Notes/Prenotes/'26/Prenotes Jan 04 26.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Mountain Hall.md",
     "Game Notes/Prenotes/'26",
-    "Game Notes/NPCs/High Power/True Villian NPCs/Arstovich.md",
-    "Prenotes Dec 01 25.md",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
     "MEDIA/SUPP/AlchemicalComponentMotifs.png",
     "MEDIA/SUPP/AlchemicalComponentsChart.png",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy",
-    "DATABASE.base",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Koshachiy Domik",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",

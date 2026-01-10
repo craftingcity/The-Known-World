@@ -47,6 +47,7 @@ for the graph: [[Here lie my suppliments...]]
 - **Weak Power**
 	- [[Anita Rewch]]
 	- **[[Combine Citizens]]**
+	- **Folk of No Means**
 	- **King's Tenants**
 		- [[Balthazar Wumfingle]]
 		- [[Barret Bodaim]]

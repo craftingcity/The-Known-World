@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Devils",
+      "path": "Game Notes/NPCs/High Power/Devils/Devils.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Hallis Alamore",
+      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Hallis Alamore.md"
+    },
+    {
+      "basename": "Blood Wars of Fiends",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Blood Wars of Fiends.md"
+    },
+    {
+      "basename": "Demons",
+      "path": "Game Notes/NPCs/High Power/Demons/Demons.md"
+    },
+    {
+      "basename": "DATABASE",
+      "path": "DATABASE.base"
+    },
+    {
       "basename": "List of Names",
       "path": "Game Notes/NPCs/List of Names.md"
     },
@@ -11,10 +35,6 @@
     {
       "basename": "Guild of Wizards",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
-    },
-    {
-      "basename": "Hallis Alamore",
-      "path": "Hallis Alamore.md"
     },
     {
       "basename": "Guilded Mystic Entries",
@@ -179,26 +199,6 @@
     {
       "basename": "Custom Cultures",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
-    },
-    {
-      "basename": "Custom Class - Alchemist",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md"
-    },
-    {
-      "basename": "Campaigns",
-      "path": "Game Notes/Campaigns.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
-    },
-    {
-      "basename": "Tetrimoc",
-      "path": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Tetrimoc.md"
-    },
-    {
-      "basename": "Houran Venclaw",
-      "path": "Game Notes/NPCs/High Power/Council of Eight NPCs/Houran Venclaw.md"
     }
   ],
   "omittedPaths": [],
