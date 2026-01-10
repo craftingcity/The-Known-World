@@ -147,9 +147,6 @@
         <mxCell id="Lz7bd4ffQx2bWDdAX5sl-56" value="GME-003; &quot;Atlas of Yamisch&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Lz7bd4ffQx2bWDdAX5sl-49">
           <mxGeometry y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lz7bd4ffQx2bWDdAX5sl-60" value="GME-049-C3; &quot;Bag of Holding&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="Lz7bd4ffQx2bWDdAX5sl-49">
-          <mxGeometry x="120" y="40" width="120" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

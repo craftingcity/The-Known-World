@@ -37,6 +37,29 @@
             }
           },
           {
+            "id": "6b435b8bdfce2ad8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Guild of Wizards"
+            }
+          },
+          {
             "id": "e5c880f19a5b1db0",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -59,7 +82,8 @@
               "title": "Guilded Mystic Entries"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"vault 0\"",
+                "query": "tower",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -333,12 +357,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0dc042118999efe0",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "MEDIA/SUPP/Vault0Map.drawio",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "conflict-files-obsidian-git.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Game Notes/Prenotes/'26/Prenotes Jan 03 26.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
@@ -372,7 +396,6 @@
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Jasper's Angels",
     "Game Notes/NPCs/High Power/Past Adventurers, Now NPCs/Hatdroppers",
     "Game Notes/NPCs/High Power/Devils",
-    "Game Notes/NPCs/High Power/Demons",
     "MEDIA/MAPS/20250624_184256.jpg",
     "MEDIA/MAPS/DUNG/MinyostalmaFeatures.png",
     "MEDIA/MAPS/WORLD/alaturmen-hexmap-105.png",
