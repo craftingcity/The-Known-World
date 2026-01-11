@@ -15,7 +15,8 @@ Ruled by [[Asmodeus]], the Grand Arch-Devil of Nessus and All [[Baator]], all De
 ### Arch Devils
 The Arch-Devils are the major management of Devil-kind. Each of the Arch-Devils rule one layer of [[Baator]] and it's inhabitants. They hold a cabinet of trusted allies, and a list of enemies to destroy. Against each other, the Arch-Devils scheme and manipulate for favor and folly - of the Grand Arch-Devil in particular - in an attempt to claim portions of the other layers, of the [[Abyss]], and of the Material Planes.
 
-- [[Istratige]], Commander General of [[Avernus]]
+- [[Istratige]], Commander General and Arch-Devil of [[Avernus]]
+- [[Tektonas]], Architect and Arch-Devil of [[Dis]]
 
 ### Dukes
 The Dukes are the minor management of Devil-kind. The Dukes serve and plot against their Arch-Devils while commanding their lower-devil Vassals.

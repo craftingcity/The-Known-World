@@ -12,12 +12,21 @@ aliases:
 Surrounding the City of Dis, harsh mountains stretch out endlessly, peaking up, and down, and up further again. Spotted across the distant mountains, industrial operations peak out from the thick stone.
 
 ## Contents
-The City of Dis is the only attraction on this layer, hosting a massive population of Devil-kind, Lemure, and extraplanar adventurer. For as massive and bold as other cities claim to be, this place is a metropolis; we sell any and every thing, or service, you could comprehend, and quite a few you couldn't.
+The City of Dis is the only attraction on this layer, hosting a massive population of Devil-kind, Lemure, and extraplanar adventurer. 
+
+For as massive and bold as other cities claim to be, this place is a thriving metropolis; we sell any and every thing, or service, you could comprehend, and quite a few you couldn't. The city breathes and grows under the scrutinous gaze of the Architect and Arch-Devil [[Tektonas]].
 
 Given the growingly inhospitable nature of the other layers of [[Baator]], many 'displaced' Devil-kind have moved into Dis.
 
-
-
+#### Industrial District
+#### Density District
+#### Auction District
+#### Militant District
+#### Spyre District
+#### Door District
+#### Highland District
+#### Commercial District
+#### Apartment District
 
 ### Flora
 ### Scenarios

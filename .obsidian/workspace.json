@@ -58,9 +58,32 @@
               "icon": "lucide-file",
               "title": "Dis"
             }
+          },
+          {
+            "id": "55e320bb15e41403",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Minauros"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "fac1daf46c021aeb",
@@ -185,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "orcus",
+                "query": "\"dis\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -410,14 +433,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4193121ab8e1b47",
+  "active": "55e320bb15e41403",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Elemental Planes/Plane of Fire/Plane of Fire.md",
+    "Game Notes/NPCs/High Power/Devils/Devils.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
     "DATABASE.base",
     "Game Notes/NPCs/High Power/Demons/Demons.md",
-    "Game Notes/NPCs/High Power/Devils/Devils.md",
     "Istratige.md",
     "MEDIA/SUPP/baatorMap.drawio",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
@@ -439,7 +464,6 @@
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Game Notes/Prenotes/'25/Prenotes Dec 19 25.md",
     "Game Notes/Prenotes/Prenotes.md",
-    "Game Notes/Prenotes/'25/Prenotes Oct 30 25.md",
     "Game Notes/Prenotes/'26",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
