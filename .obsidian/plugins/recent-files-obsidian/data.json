@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Stygia",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md"
-    },
-    {
       "basename": "Baator",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
     },
     {
+      "basename": "Stygia",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md"
+    },
+    {
       "basename": "Phlegethos",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md"
+    },
+    {
+      "basename": "Minauros",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md"
+    },
+    {
+      "basename": "Malbolge",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Malbolge.md"
+    },
+    {
+      "basename": "Maladomini",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md"
+    },
+    {
+      "basename": "Cania",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Cania.md"
+    },
+    {
+      "basename": "Nessus",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Nessus.md"
     },
     {
       "basename": "Devils",
@@ -19,10 +39,6 @@
     {
       "basename": "Timeline",
       "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
-    },
-    {
-      "basename": "Minauros",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md"
     },
     {
       "basename": "Dis",
@@ -183,22 +199,6 @@
     {
       "basename": "d_ Chapter Six - Level Five; Pick-up Sticks",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md"
-    },
-    {
-      "basename": "Northern Conflicts, c.105af",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Northern Conflicts, c.105af.md"
-    },
-    {
-      "basename": "South Littemotto",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/South Littemotto.md"
-    },
-    {
-      "basename": "Spells from Spike's Brain",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Spike's Brain.md"
-    },
-    {
-      "basename": "Spells from Collective",
-      "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md"
     }
   ],
   "omittedPaths": [],
