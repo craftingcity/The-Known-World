@@ -60,11 +60,17 @@
             }
           },
           {
-            "id": "55e320bb15e41403",
+            "id": "0f556c2c8e84d480",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Prinkipas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prinkipas.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prinkipas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":2},\"to\":{\"line\":6,\"ch\":6}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -83,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "fac1daf46c021aeb",
@@ -158,7 +164,8 @@
               "title": "Timeline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -433,14 +440,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55e320bb15e41403",
+  "active": "d4193121ab8e1b47",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Elemental Planes/Plane of Fire/Plane of Fire.md",
-    "Game Notes/NPCs/High Power/Devils/Devils.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
+    "Game Notes/NPCs/High Power/Devils/Devils.md",
+    "Prinkipas.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Elemental Planes/Plane of Fire/Plane of Fire.md",
     "DATABASE.base",
     "Game Notes/NPCs/High Power/Demons/Demons.md",
     "Istratige.md",
@@ -463,7 +471,6 @@
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Game Notes/Prenotes/'25/Prenotes Dec 19 25.md",
-    "Game Notes/Prenotes/Prenotes.md",
     "Game Notes/Prenotes/'26",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
