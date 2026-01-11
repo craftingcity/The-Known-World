@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Phlegethos",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md"
+    },
+    {
+      "basename": "Devils",
+      "path": "Game Notes/NPCs/High Power/Devils/Devils.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Minauros",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md"
+    },
+    {
+      "basename": "Baator",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
+    },
+    {
       "basename": "Dis",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md"
     },
@@ -9,20 +29,8 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md"
     },
     {
-      "basename": "Minauros",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md"
-    },
-    {
-      "basename": "Devils",
-      "path": "Game Notes/NPCs/High Power/Devils/Devils.md"
-    },
-    {
       "basename": "Prinkipas",
       "path": "Prinkipas.md"
-    },
-    {
-      "basename": "Baator",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
     },
     {
       "basename": "Plane of Fire",
@@ -39,10 +47,6 @@
     {
       "basename": "Istratige",
       "path": "Istratige.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
     },
     {
       "basename": "Hallis Alamore",
@@ -195,10 +199,6 @@
     {
       "basename": "Noble Houses of Prosper",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md"
-    },
-    {
-      "basename": "Noble House a'Haruuc",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Noble House a'Haruuc.md"
     }
   ],
   "omittedPaths": [],

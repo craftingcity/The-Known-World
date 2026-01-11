@@ -16,7 +16,7 @@ The City of Dis is the only major attraction on this layer, hosting a massive po
 
 For as massive and bold as other cities claim to be, this place is a thriving metropolis; we sell any and every thing, or service, you could comprehend, and quite a few you couldn't. The city breathes and grows under the scrutinous gaze of the Architect and Arch-Devil [[Tektonas]].
 
-Given the growingly inhospitable nature of the other layers of [[Baator]], many 'displaced' Devil-kind have moved into Dis.
+Given the growingly inhospitable nature of the other layers of [[Baator]], many 'displaced' Devil-kind have moved into Dis - particularly the refugee's of [[Minauros]]' change in leadership.
 
 #### Industrial District
 #### Density District

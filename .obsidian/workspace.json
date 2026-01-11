@@ -87,9 +87,32 @@
               "icon": "lucide-file",
               "title": "Minauros"
             }
+          },
+          {
+            "id": "18ad79d1a338df2d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Phlegethos"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "fac1daf46c021aeb",
@@ -440,20 +463,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4193121ab8e1b47",
+  "active": "18ad79d1a338df2d",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
     "Game Notes/NPCs/High Power/Devils/Devils.md",
-    "Prinkipas.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
+    "Prinkipas.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Elemental Planes/Plane of Fire/Plane of Fire.md",
     "DATABASE.base",
     "Game Notes/NPCs/High Power/Demons/Demons.md",
     "Istratige.md",
     "MEDIA/SUPP/baatorMap.drawio",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Hallis Alamore.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Blood Wars of Fiends.md",
     "Game Notes/NPCs/List of Names.md",
@@ -470,7 +494,6 @@
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
-    "Game Notes/Prenotes/'25/Prenotes Dec 19 25.md",
     "Game Notes/Prenotes/'26",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",

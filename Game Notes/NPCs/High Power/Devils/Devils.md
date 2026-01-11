@@ -20,7 +20,7 @@ The Arch-Devils are the major management of Devil-kind. Each of the Arch-Devils 
 - [[Prinkipas]], Maintainer and Arch-Devil of [[Minauros]]
 
 ### Dukes
-The Dukes are the minor management of Devil-kind. The Dukes serve and plot against their Arch-Devils while commanding their lower-devil Vassals.
+The Dukes are the minor management of Devil-kind. The Dukes ride a fine line of serving their Arch-Devils, and plotting against them. They are responsible for commanding their lower-devil Vassals.
 
 ### Vassals
 The Vassals make up the plurality of Devil-kind, being the "upper-working class" of the system. They work jobs with which they are content, and largely perform voluntarily, pushing the harder or less pleasing work to their lessers.
