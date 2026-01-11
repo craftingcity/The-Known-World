@@ -18,6 +18,7 @@ The Arch-Devils are the major management of Devil-kind. Each of the Arch-Devils 
 - [[Istratige]], Commander General and Arch-Devil of [[Avernus]]
 - [[Tektonas]], Architect and Arch-Devil of [[Dis]]
 - [[Prinkipas]], Maintainer and Arch-Devil of [[Minauros]]
+- [[Vasani]], Torturer General and Arch-Devil of [[Phlegethos]]
 
 ### Dukes
 The Dukes are the minor management of Devil-kind. The Dukes ride a fine line of serving their Arch-Devils, and plotting against them. They are responsible for commanding their lower-devil Vassals.

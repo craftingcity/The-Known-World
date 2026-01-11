@@ -10,19 +10,19 @@ aliases:
 
 ## Boundaries
 ## Contents
-More often than not, when a mortal is imagining "Hell", they are picturing Phelgethos; the land of fire, brimstone, and souls bound to eternal torture. Much of this place is a plane of spiked stone, spotted by roiling pits of molten lava. Hanging from titanic chains in the smoky sky, miles wide platforms play host to the homes and offices of the layer's working torturers. In the center of this place, a massive pool of *hellfire* boils Vassals into Dukes, and Dukes into Lessers.
+More often than not, when a mortal is imagining "Hell", they are picturing Phelgethos; the land of fire, brimstone, and souls bound to eternal torture. Ruled by the Arch-Devil [[Vasani]], this place is a plane of spiked stone, spotted by roiling pits of molten lava. 
 
+Hanging from titanic chains in the smoky sky, miles wide platforms play host to the homes and offices of the layer's working torturers. In the center of this place, a massive pool of *hellfire* boils Vassals into Dukes, and Dukes into Lessers.
 
-
-####
-####
-####
-####
-####
-####
-####
-####
-####
+#### Symphony
+#### Grand Iyos
+#### Dragon Cages
+#### The Maw
+#### The Pit of Flame
+#### Climax
+#### Pikt Uyresqe
+#### Chamber of Glory
+#### Shrapnel
 
 ### Flora
 ### Scenarios

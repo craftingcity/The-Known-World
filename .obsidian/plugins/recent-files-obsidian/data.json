@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Stygia",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md"
+    },
+    {
+      "basename": "Baator",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
+    },
+    {
       "basename": "Phlegethos",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Minauros",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md"
-    },
-    {
-      "basename": "Baator",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
     },
     {
       "basename": "Dis",
@@ -195,10 +199,6 @@
     {
       "basename": "Spells from Collective",
       "path": "Game Notes/Mechanics/Homebrew Spells/Spells from Collective.md"
-    },
-    {
-      "basename": "Noble Houses of Prosper",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md"
     }
   ],
   "omittedPaths": [],
