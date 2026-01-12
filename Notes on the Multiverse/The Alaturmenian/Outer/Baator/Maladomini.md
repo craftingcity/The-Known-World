@@ -18,11 +18,11 @@ If it was written in [[Baator]], it will be reviewed on Maladomini at least thri
 #### Redlight District
 #### Stone Mine
 #### Crushed Towers
-#### 
-#### 
-#### 
-#### 
-#### 
+#### Bureaucracy
+#### Eerie Empty
+#### Simulation Hill
+#### Icor Flows
+#### Droop
 
 ### Flora
 ### Scenarios
