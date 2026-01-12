@@ -10,7 +10,7 @@ aliases:
 
 ## Boundaries
 ## Contents
-Stygia is a place of deadly cold water and ice, crossed and curved by the [[River Styx]]. The frigid wasteland here is a proving ground of mental and physical prowess, a challenge often undertaken by headstrong up-and-comers.
+Stygia is a place of deadly cold water and ice, crossed and curved by the [[River Styx]]. The frigid wasteland here is a proving ground of mental and physical prowess, a challenge often undertaken by headstrong up-and-coming Vassals. Civilization on this plane is largely inhabited by the *Stygians*, a wide class of Devil native to the layer, who are resistant to it's deadly chill. The *Stygians* operate largely independent of the Duke-Vassal hierarchy, save for the "Ice King" [[Psycra]], the official Arch-Devil of the layer. 
 
 #### 
 #### 

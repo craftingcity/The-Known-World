@@ -1,12 +1,10 @@
 ---
-tags: 
-- npc
-- devil
+tags: npc
 aliases:
 ---
-# Istratige
-## Commander in Chief
-## Arch Devil of [[Avernus]]
+# Psycra
+## Ice King
+## Arch
 ### pronouns
 
 > Boxtext for an action, outfit, and a physical trait.

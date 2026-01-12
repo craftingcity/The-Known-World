@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Psycra",
+      "path": "Psycra.md"
+    },
+    {
+      "basename": "Devils",
+      "path": "Game Notes/NPCs/High Power/Devils/Devils.md"
+    },
+    {
+      "basename": "Prinkipas",
+      "path": "Prinkipas.md"
+    },
+    {
+      "basename": "Istratige",
+      "path": "Istratige.md"
+    },
+    {
+      "basename": "Baator",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
+    },
+    {
+      "basename": "Tektonas",
+      "path": "Tektonas.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Vasani",
+      "path": "Vasani.md"
+    },
+    {
       "basename": "Stygia",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md"
     },
     {
       "basename": "Phlegethos",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md"
-    },
-    {
-      "basename": "Baator",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
     },
     {
       "basename": "Minauros",
@@ -33,24 +61,12 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Nessus.md"
     },
     {
-      "basename": "Devils",
-      "path": "Game Notes/NPCs/High Power/Devils/Devils.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
-    },
-    {
       "basename": "Dis",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md"
     },
     {
       "basename": "Avernus",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md"
-    },
-    {
-      "basename": "Prinkipas",
-      "path": "Prinkipas.md"
     },
     {
       "basename": "Plane of Fire",
@@ -63,10 +79,6 @@
     {
       "basename": "Demons",
       "path": "Game Notes/NPCs/High Power/Demons/Demons.md"
-    },
-    {
-      "basename": "Istratige",
-      "path": "Istratige.md"
     },
     {
       "basename": "Hallis Alamore",
@@ -187,18 +199,6 @@
     {
       "basename": "The Old",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md"
-    },
-    {
-      "basename": "Lingering Injuries",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Lingering Injuries.md"
-    },
-    {
-      "basename": "Combat Mechanics and Positioning",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
-    },
-    {
-      "basename": "d_ Chapter Six - Level Five; Pick-up Sticks",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md"
     }
   ],
   "omittedPaths": [],

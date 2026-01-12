@@ -1,12 +1,10 @@
 ---
-tags: 
-- npc
-- devil
+tags: npc
 aliases:
 ---
-# Istratige
-## Commander in Chief
-## Arch Devil of [[Avernus]]
+# Tektonas
+## Grand Architect
+## Arch-Devil of [[Dis]]
 ### pronouns
 
 > Boxtext for an action, outfit, and a physical trait.

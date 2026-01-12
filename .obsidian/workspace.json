@@ -168,8 +168,14 @@
             "id": "e9a2de4c5cad3eaa",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Prinkipas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prinkipas.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prinkipas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":23},\"to\":{\"line\":7,\"ch\":23}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -188,7 +194,7 @@
             }
           },
           {
-            "id": "915da6c1d2ea8cab",
+            "id": "a368f20b70ab4ac8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -202,15 +208,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+                "file": "Psycra.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Timeline"
+              "title": "Psycra"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -485,25 +492,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "530872c0e75d5620",
+  "active": "a368f20b70ab4ac8",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md",
+    "Psycra.md",
+    "Game Notes/NPCs/High Power/Devils/Devils.md",
+    "Prinkipas.md",
+    "Istratige.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+    "Tektonas.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+    "Vasani.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Malbolge.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Cania.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Nessus.md",
-    "Game Notes/NPCs/High Power/Devils/Devils.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
-    "Prinkipas.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Elemental Planes/Plane of Fire/Plane of Fire.md",
     "DATABASE.base",
     "Game Notes/NPCs/High Power/Demons/Demons.md",
-    "Istratige.md",
     "MEDIA/SUPP/baatorMap.drawio",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Hallis Alamore.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Blood Wars of Fiends.md",
@@ -513,9 +523,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "MEDIA/SUPP/Vault0Map.drawio",
     "conflict-files-obsidian-git.md",
-    "Game Notes/Prenotes/'26/Prenotes Jan 03 26.md",
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Prenotes/'26",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",
