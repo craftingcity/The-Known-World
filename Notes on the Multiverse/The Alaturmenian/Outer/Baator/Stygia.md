@@ -10,6 +10,7 @@ aliases:
 
 ## Boundaries
 ## Contents
+Stygia is a place of deadly cold water and ice, crossed and curved by the [[River Styx]]. The frigid wasteland here is a proving ground of mental and physical prowess, a challenge often undertaken by headstrong up-and-comers.
 
 #### 
 #### 
