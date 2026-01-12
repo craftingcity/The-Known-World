@@ -10,16 +10,19 @@ aliases:
 
 ## Boundaries
 ## Contents
+For all its faults, Malbolge is a fine place for a Devil to find themselves working in. With a plethora of unique duties and tasks, and a consistent understanding of the natural threats, a settlement in Malbolge is thriving - though nothing much on the mountain survives the avalanches. 
 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
+Malbolge is loosely ruled by the Arch-Devil [[Syndeomai]], known for using extreme personal subterfuge, bordering on the psycho-sexual, with incredible efficacy. The y
+
+#### Lake of Bile
+#### The Knives
+#### Birthing Pits
+#### Fortress of Slag
+#### Ruins of Malaguar
+#### Gardens of Delight
+#### The Comb
+#### Forever Climb
+#### Ribcage Towers
 
 ### Flora
 ### Scenarios

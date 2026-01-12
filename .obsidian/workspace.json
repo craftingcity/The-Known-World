@@ -133,9 +133,32 @@
               "icon": "lucide-file",
               "title": "Stygia"
             }
+          },
+          {
+            "id": "be55a313683cf685",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Malbolge.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Malbolge"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "fac1daf46c021aeb",
@@ -192,32 +215,9 @@
               "icon": "lucide-file",
               "title": "Devils"
             }
-          },
-          {
-            "id": "a368f20b70ab4ac8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psycra.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Psycra"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -492,20 +492,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a368f20b70ab4ac8",
+  "active": "be55a313683cf685",
   "lastOpenFiles": [
-    "Psycra.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Malbolge.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
     "Game Notes/NPCs/High Power/Devils/Devils.md",
+    "Psycra.md",
     "Prinkipas.md",
     "Istratige.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Tektonas.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Vasani.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Malbolge.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Cania.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Nessus.md",
