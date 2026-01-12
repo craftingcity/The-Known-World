@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Maladomini",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md"
+    },
+    {
+      "basename": "Devils",
+      "path": "Game Notes/NPCs/High Power/Devils/Devils.md"
+    },
+    {
+      "basename": "Baator",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
+    },
+    {
       "basename": "Malbolge",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Malbolge.md"
+    },
+    {
+      "basename": "Syndeomai",
+      "path": "Syndeomai.md"
     },
     {
       "basename": "Phlegethos",
@@ -13,16 +29,8 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md"
     },
     {
-      "basename": "Baator",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
-    },
-    {
       "basename": "Minauros",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md"
-    },
-    {
-      "basename": "Devils",
-      "path": "Game Notes/NPCs/High Power/Devils/Devils.md"
     },
     {
       "basename": "Psycra",
@@ -47,10 +55,6 @@
     {
       "basename": "Vasani",
       "path": "Vasani.md"
-    },
-    {
-      "basename": "Maladomini",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md"
     },
     {
       "basename": "Cania",
@@ -195,10 +199,6 @@
     {
       "basename": "Things Aren't Right Here...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/Things Aren't Right Here....md"
-    },
-    {
-      "basename": "The Old",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md"
     }
   ],
   "omittedPaths": [],

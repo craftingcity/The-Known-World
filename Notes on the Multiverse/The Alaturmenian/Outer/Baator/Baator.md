@@ -24,7 +24,7 @@ A blazing desolation of fire and lava, the fourth layer is host to a place known
 A vast frozen sea of icebergs and floating sheets. It is named after the [[River Styx]], which flows throughout the layer. Some of the sheets host large cities, and navigation between these settlements was relatively easy because of the presence of the Styx.
 
 #### [[Malbolge]], Sixth Layer of Hell
-The landscape of the layer is a steep, craggy, infinite incline that often experiences avalanches. Large fortress of copper are teardrop shaped to repel avalanches. Throughout the plane, built along the slopes of the land, pillars of adamantine that can withstand the avalanches are built, atop which platforms support suspended cages that hold condemned devils that are constantly injured by the incessant rockfalls, but never killed.
+The landscape of the sixth layer is a steep, craggy, infinite incline that often experiences avalanches. Large fortress of copper are teardrop shaped to repel avalanches. Throughout the plane, built along the slopes of the land, pillars of adamantine that can withstand the avalanches are built, atop which platforms support suspended cages that hold condemned devils that are constantly injured by the incessant rockfalls, but never killed.
 
 #### [[Maladomini]], Seventh Layer of Hell
 Maladomini is the seventh layer of the Nine Hells of Baator. It is an endless field of ruined and decaying cities and the center for all the bureaucracy of the Nine Hells. These cities are constantly being rebuilt and redestroyed on a quest for perfection.

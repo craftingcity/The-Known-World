@@ -156,9 +156,32 @@
               "icon": "lucide-file",
               "title": "Malbolge"
             }
+          },
+          {
+            "id": "3a1f02e9fc3aea53",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Maladomini"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "fac1daf46c021aeb",
@@ -492,21 +515,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be55a313683cf685",
+  "active": "3a1f02e9fc3aea53",
   "lastOpenFiles": [
+    "Game Notes/NPCs/High Power/Devils/Devils.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Malbolge.md",
+    "Syndeomai.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Malbolge.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
-    "Game Notes/NPCs/High Power/Devils/Devils.md",
     "Psycra.md",
     "Prinkipas.md",
     "Istratige.md",
     "Tektonas.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Vasani.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Cania.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Nessus.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
@@ -522,7 +546,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "MEDIA/SUPP/Vault0Map.drawio",
-    "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'26",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
     "MEDIA/SUPP/DOCS/AMMS-WesternEuropeIII.pdf",

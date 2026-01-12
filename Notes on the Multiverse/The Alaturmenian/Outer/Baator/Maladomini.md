@@ -10,11 +10,14 @@ aliases:
 
 ## Boundaries
 ## Contents
+Each section of this place has been built to purpose, walking the fine line between form and function, and never are they enough for the obsessive civic scientist, bureaucrat, and ruler of this place; the Arch-Devil [[Emmonos]], a slow slobbering mess of rulings, denial, and proper forms. [[Emmonos]] was granted their title in exchange for this convoluted system of bureaucratic processes that has proliferated throughout Hell's layers.
 
-#### 
-#### 
-#### 
-#### 
+If it was written in [[Baator]], it will be reviewed on Maladomini at least thrice before it is processed further.
+
+#### Festering Scar
+#### Redlight District
+#### Stone Mine
+#### Crushed Towers
 #### 
 #### 
 #### 
