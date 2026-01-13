@@ -179,9 +179,32 @@
               "icon": "lucide-file",
               "title": "Maladomini"
             }
+          },
+          {
+            "id": "a16591f468ca6302",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Cania.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Cania"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "fac1daf46c021aeb",
@@ -515,11 +538,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9a2de4c5cad3eaa",
+  "active": "a16591f468ca6302",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md",
-    "Game Notes/NPCs/High Power/Devils/Devils.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+    "Game Notes/NPCs/High Power/Devils/Devils.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Malbolge.md",
     "Syndeomai.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",

@@ -10,6 +10,7 @@ aliases:
 
 ## Boundaries
 ## Contents
+Colder even than [[Stygia]], Cania is a frozen wasteland, wild and cold of heart. Although the [[River Styx]] does pass through the layer, no trade is done by the inhabitants of this place. Above even the *hellfire* of [[Phlegethos]], Cania is the worst punishment a Devil-kin could imagine. You are alone, without pain or pleasure, without power, victory, or defeat. You will freeze here, never dying, forgotten and left behind by the world you knew. You have been de
 
 #### 
 #### 
