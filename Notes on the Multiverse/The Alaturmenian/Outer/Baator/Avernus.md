@@ -17,7 +17,11 @@ Avernus is a place of war, ruled by the Arch-Devil [[Istratige]] and their cabin
 #### Spikelands
 The Spikelands are an area of many dozens of spiked outcroppings of rock. They pose little threat on their own, but are a common weapon of flying soldiers, who dash their prey upon the rocks, spearing their flesh in place.
 
+Some black liquid has stained the tips of the spikes and dripped downwards.
+
 #### Outpost Maedios
+Outpost Maedios is the second-in-line Forward Operating Base on Avernus. Duty here is patrols in the [[#Spikelands]] and [[#Free-Traitor Territory]]
+
 #### Free-Traitor Territory
 #### Outpost Pesmenos
 #### Crater Fields
