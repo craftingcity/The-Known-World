@@ -6,7 +6,7 @@ aliases:
 ---
 # Avernus, First Layer of Hell
 #### A sub-region of [[Baator]]
-> The first layer is Baator's largest beachhead, it has been ravaged by the [[Blood Wars of Fiends]]. Legions of [[Devils]] marched to repel the hordes of [[Demons]] from their home, and have been at an ever-roiling-stalemate since.
+> The first layer is Baator's largest beachhead, it has been ravaged by the [[Blood Wars of Fiends]]. Legions of [[Devils]] march to repel the hordes of [[Demons]] from their home, and have been at an ever-roiling-stalemate since.
 
 ## Boundaries
 ## Contents
@@ -21,6 +21,10 @@ Avernus is a place of war, ruled by the Arch-Devil [[Istratige]] and their cabin
 #### Crater Fields
 #### Outpost Afierono
 #### Beachhead Styx
+The Beachhead Styx is the primary landing destination for assaulting Demons, who cross the [[River Styx]] into Avernus from the [[Abyss]]. 
+
+
+
 #### Ruined Titan
 #### High Crags
 
