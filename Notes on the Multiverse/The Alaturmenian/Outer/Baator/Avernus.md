@@ -20,7 +20,7 @@ The Spikelands are an area of many dozens of spiked outcroppings of rock. They p
 Some black liquid has stained the tips of the spikes and dripped downwards.
 
 #### Outpost Maedios
-Outpost Maedios is the second-in-line Forward Operating Base on Avernus. Duty here is made of patrols in the [[#Spikelands]] and [[#Free-Traitor Territory]], or
+Outpost Maedios is the second-in-line Forward Operating Base on Avernus. Duty here is made of patrols in the [[#Spikelands]] and [[#Free-Traitor Territory]], or training your combat prowess, until you are called forward.
 
 #### Free-Traitor Territory
 #### Outpost Pesmenos
