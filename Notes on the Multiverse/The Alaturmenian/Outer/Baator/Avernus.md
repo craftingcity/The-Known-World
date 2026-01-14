@@ -15,6 +15,8 @@ Avernus is a cavernous plane of red rock and black metals. Jagged, and sharp, mu
 Avernus is a place of war, ruled by the Arch-Devil [[Istratige]] and their cabinet of generals. Here, they fight against the never-ending tide of Demons crossing into Avernus from the [[#Beachhead Styx]].
 
 #### Spikelands
+The Spikelands are an area of many dozens of spiked outcroppings of rock. They pose little threat on their own, but are a common weapon of flying soldiers, who dash their prey upon the rocks, spearing their flesh in place.
+
 #### Outpost Maedios
 #### Free-Traitor Territory
 #### Outpost Pesmenos
@@ -23,7 +25,7 @@ Avernus is a place of war, ruled by the Arch-Devil [[Istratige]] and their cabin
 #### Beachhead Styx
 The Beachhead Styx is the primary landing destination for assaulting Demons, who cross the [[River Styx]] into Avernus from the [[Abyss]]. 
 
-
+The legions of soldiers who fight here do so under their own banners, but, while at the Beachhead, follow the orders of their Theater Commander, the Duke [[Morik]] - a trusted vassal of [[Istratige]], and a fine soldier in it's own right.
 
 #### Ruined Titan
 #### High Crags
