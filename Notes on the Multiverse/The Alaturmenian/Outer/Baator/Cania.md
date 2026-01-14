@@ -16,15 +16,15 @@ Colder even than [[Stygia]], Cania is a frozen wasteland, wild and cold of heart
 
 While the claim may ring true for most, the Arch-Devil [[Epistimon]] finds the layer very suitable for their eccentric arcane research.
 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
+#### Glowing Mountain
+#### Hut Lands
+#### Hidden Caves
+#### Polikato
+#### Tower of Secrets
+#### The Pit
+#### Ice Sheets
+#### Grand Library
+#### Snowcaps
 
 ### Flora
 ### Scenarios
