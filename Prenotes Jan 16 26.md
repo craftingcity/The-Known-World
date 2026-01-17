@@ -36,11 +36,21 @@ We can *planeshift* using Soarsia's soul as the anchor, or we can Planeswalk the
 ### What happened?
 
 32 - Niko
-20 - Blue
+20 - Blue (+7 SAVE, 2x +8, 2d8+8)
+	A *Brokered 2x* (4, 10, )
+	B
+	C
+	D
 15 - Zipper
 14 - Soarsia
 8 - Monkey
-5 - Red
-0 - Mecha
+5 - Red (+7 SAVE, 2x +9 Ranged, 3d6+8)
+	A
+	B
+	C
+	D
+0 - Mecha (+11 SAVE, 2x +12 Melee, 3d10+8)
+	Q
+	V
 
 We leave our heroes on the date of ... AF, as they ...
