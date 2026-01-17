@@ -4,61 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "386d149745a443e8",
+        "id": "9c0f296d01a1837b",
         "type": "tabs",
         "children": [
           {
-            "id": "dad1c72f4858fe75",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Istratige",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Istratige.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Istratige\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Avernus"
-            }
-          },
-          {
-            "id": "1ea24c3d553d3cce",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
-          },
-          {
-            "id": "237d97b3ae36f4d0",
+            "id": "f2ddd867835ee706",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -72,242 +22,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "d4193121ab8e1b47",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Dis"
-            }
-          },
-          {
-            "id": "0f556c2c8e84d480",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Prinkipas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prinkipas.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prinkipas\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":2},\"to\":{\"line\":6,\"ch\":6}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Minauros"
-            }
-          },
-          {
-            "id": "162590c04fcfad3e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Phlegethos"
-            }
-          },
-          {
-            "id": "530872c0e75d5620",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Stygia"
-            }
-          },
-          {
-            "id": "be55a313683cf685",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Malbolge.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Malbolge"
-            }
-          },
-          {
-            "id": "3a1f02e9fc3aea53",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Maladomini"
-            }
-          },
-          {
-            "id": "a16591f468ca6302",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Cania.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Cania"
+              "title": "The Gear..."
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "fac1daf46c021aeb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dc192f3fe205c6cc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Baator"
-            }
-          },
-          {
-            "id": "e9a2de4c5cad3eaa",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Prinkipas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prinkipas.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prinkipas\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":23},\"to\":{\"line\":7,\"ch\":23}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Devils/Devils.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Devils"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -582,19 +305,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "237d97b3ae36f4d0",
+  "active": "f2ddd867835ee706",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Prenotes Jan 16 26.md",
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Cania.md",
-    "Game Notes/NPCs/High Power/Devils/Devils.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Malbolge.md",
-    "Syndeomai.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
+    "conflict-files-obsidian-git.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+    "Game Notes/NPCs/High Power/Devils/Devils.md",
+    "Syndeomai.md",
     "Psycra.md",
     "Prinkipas.md",
     "Istratige.md",
@@ -602,16 +330,11 @@
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Vasani.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Nessus.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Elemental Planes/Plane of Fire/Plane of Fire.md",
     "DATABASE.base",
     "Game Notes/NPCs/High Power/Demons/Demons.md",
     "MEDIA/SUPP/baatorMap.drawio",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Hallis Alamore.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Blood Wars of Fiends.md",
-    "Game Notes/NPCs/List of Names.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "MEDIA/SUPP/Vault0Map.drawio",
     "Game Notes/Prenotes/'26",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",

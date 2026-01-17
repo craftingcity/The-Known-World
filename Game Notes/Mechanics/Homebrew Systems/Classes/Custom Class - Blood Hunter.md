@@ -31,8 +31,6 @@ Your soul is your own again. You have completed your bargain.
 ##### Fate's Wonder
 You take this feature at 14th level.
 
-
-
 ##### Fate's Protection
 You take this feature at 18th level.
 

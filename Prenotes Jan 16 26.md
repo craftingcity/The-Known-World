@@ -26,7 +26,7 @@ Options lay before you. You can assault the Vault, hoping to gather some items o
 - [ ] Buy *Holy Water Blasters* (30' range, 2d6+WIS radiant)
 
 #### Into the Vault
-Well, okay - look at the map we made earlier, and run the baddies strong. This is GoA / GoW best of, so we can go full hog. 
+Well, okay - look at the map we made earlier, and run the baddies strong. This is GoA / GoW best of, so we can go full hog - . 
 
 #### Into Baator
 We can *planeshift* using Soarsia's soul as the anchor, or we can Planeswalk there. In either case, we're going to [[Avernus]] first.
