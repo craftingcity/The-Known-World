@@ -41,12 +41,12 @@ We can *planeshift* using Soarsia's soul as the anchor, or we can Planeswalk the
 14 - Soarsia
 8 - Monkey
 5 - Red (+7 SAVE, 2x +9 Ranged, 3d6+8)
-	A
-	B
+	A (37, 70)
+	B (37, 70)
 	~~C (36, 54, )~~
-	D (41)
+	~~D (41)~~
 0 - Mecha (+11 SAVE, 2x +12 Melee, 3d10+8)
-	Q (18, 57, 98, 78)
-	V
+	Q ~~(18, 57, 98, 78, 141)~~
+	V *Branded* ~~(66, 101, 140)~~
 
 We leave our heroes on the date of ... AF, as they ...
