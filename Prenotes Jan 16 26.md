@@ -49,4 +49,4 @@ We can *planeshift* using Soarsia's soul as the anchor, or we can Planeswalk the
 	Q ~~(18, 57, 98, 78, 141)~~
 	V *Branded* ~~(66, 101, 140)~~
 
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the date of 9th of Drying, 106AF, as they continue into Vault 0's Warm Sectors.
