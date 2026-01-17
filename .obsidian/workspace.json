@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Abyssal",
+                "query": "\"holy water\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -359,9 +359,10 @@
   },
   "active": "23066a94f09e97f3",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Time Before Time/Abyssal (language).md",
     "Game Notes/Prenotes/'26/Prenotes Jan 03 26.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Prenotes Jan 16 26.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Time Before Time/Abyssal (language).md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Cania.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md",
@@ -386,7 +387,6 @@
     "Game Notes/NPCs/High Power/Demons/Demons.md",
     "MEDIA/SUPP/baatorMap.drawio",
     "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Hallis Alamore.md",
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Blood Wars of Fiends.md",
     "MEDIA/SUPP/Vault0Map.drawio",
     "Game Notes/Prenotes/'26",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
