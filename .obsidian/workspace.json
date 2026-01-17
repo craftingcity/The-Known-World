@@ -16,18 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "The Gear...",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Gear...\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":130},\"to\":{\"line\":30,\"ch\":130}},\"scroll\":0.9058947234001786}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "file": "Prenotes Jan 16 26.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Gear..."
+              "title": "Prenotes Jan 16 26"
             }
           }
         ]
@@ -307,8 +313,8 @@
   },
   "active": "f2ddd867835ee706",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Prenotes Jan 16 26.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
