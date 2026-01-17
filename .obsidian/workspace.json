@@ -58,6 +58,29 @@
             }
           },
           {
+            "id": "237d97b3ae36f4d0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "d4193121ab8e1b47",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -225,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "fac1daf46c021aeb",
@@ -559,8 +582,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ea24c3d553d3cce",
+  "active": "237d97b3ae36f4d0",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Prenotes Jan 16 26.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Cania.md",
     "Game Notes/NPCs/High Power/Devils/Devils.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
@@ -587,8 +612,6 @@
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Blood Wars of Fiends.md",
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "MEDIA/SUPP/Vault0Map.drawio",
     "Game Notes/Prenotes/'26",
     "MEDIA/SUPP/DOCS/GrainIntoGold.pdf",
