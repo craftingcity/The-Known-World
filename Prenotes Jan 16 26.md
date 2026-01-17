@@ -35,5 +35,12 @@ We can *planeshift* using Soarsia's soul as the anchor, or we can Planeswalk the
 
 ### What happened?
 
+32 - Niko
+20 - Blue
+15 - Zipper
+14 - Soarsia
+8 - Monkey
+5 - Red
+0 - Mecha
 
 We leave our heroes on the date of ... AF, as they ...
