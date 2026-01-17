@@ -18,7 +18,7 @@ When last we left our heroes, they had returned to their home in [[Coalition Cit
 
 On their path to spending some of that money on their upcoming journey, they came to a Wizards Guild Information Center to identify their Bag of Holding, and discovered a underground magic-smuggling operation run by the Guilds. The party followed a pair from the Information Center to the Center of Arcane Education and then below, into what we have come to call 'the Vault'. 
 
-Options lay before you. You can assault the Vault, hoping to gather some items or equipment that may assist you in the future, or you could journey into [[Baator]] and seek vengeance against the 'Notadeer'. The choice is yours. What do you do?
+Options lay before you. You can assault the Vault, hoping to gather some items or equipment that may assist you in the future, or you could journey into [[Baator]] and seek vengeance against the 'Notadeer'. In the afternoon of the 9th day of Drying in the 106th year; the choice is yours. What do you do?
 
 ### What does the World Know?
 
@@ -26,7 +26,7 @@ Options lay before you. You can assault the Vault, hoping to gather some items o
 - [ ] Buy *Holy Water Blasters* (30' range, 2d6+WIS radiant)
 
 #### Into the Vault
-Well, okay - look at the map we made earlier, and run the 
+Well, okay - look at the map we made earlier, and run the baddies strong. This is GoA / GoW best of, so we can go full hog. 
 
 #### Into Baator
 We can *planeshift* using Soarsia's soul as the anchor, or we can Planeswalk there. In either case, we're going to [[Avernus]] first.
