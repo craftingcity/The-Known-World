@@ -37,6 +37,27 @@
             }
           },
           {
+            "id": "1ea24c3d553d3cce",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
+          },
+          {
             "id": "d4193121ab8e1b47",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -203,7 +224,8 @@
               "title": "Cania"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "fac1daf46c021aeb",
@@ -537,7 +559,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dad1c72f4858fe75",
+  "active": "1ea24c3d553d3cce",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Cania.md",
     "Game Notes/NPCs/High Power/Devils/Devils.md",
