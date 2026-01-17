@@ -28,6 +28,8 @@ Options lay before you. You can assault the Vault, hoping to gather some items o
 #### Into the Vault
 Well, okay - look at the map we made earlier, and run the baddies strong. This is GoA / GoW best of, so we can go full hog - . 
 
+They found a new bag in the Vault, there was a Secret Hunk of Metal, a Secret Shortsword, and a Secret Gold Ring.
+
 #### Into Baator
 We can *planeshift* using Soarsia's soul as the anchor, or we can Planeswalk there. In either case, we're going to [[Avernus]] first.
 
