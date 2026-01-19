@@ -35,68 +35,6 @@
               "icon": "lucide-file",
               "title": "Prenotes Jan 18 26"
             }
-          },
-          {
-            "id": "79f4767ab7ae9f34",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Guilded Mystic Entries",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Guilded Mystic Entries\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.06150641326271}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Magical Items of Note"
-            },
-            "group": "627f6f68f081d1cd"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "24ab58883988a317",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e4655147bf7bfe27",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Magical Items of Note"
-            },
-            "group": "627f6f68f081d1cd"
           }
         ]
       },
@@ -104,35 +42,6 @@
         "id": "9c0f296d01a1837b",
         "type": "tabs",
         "children": [
-          {
-            "id": "f2ddd867835ee706",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "The Gear...",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Gear...\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":130},\"to\":{\"line\":30,\"ch\":130}},\"scroll\":0.9058947234001786}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Jan 16 26.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Jan 16 26"
-            }
-          },
           {
             "id": "51a7788d4edd4f62",
             "type": "leaf",
@@ -160,6 +69,35 @@
               },
               "icon": "lucide-file",
               "title": "Guilded Mystic Entries"
+            }
+          },
+          {
+            "id": "f2ddd867835ee706",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Gear...",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Gear...\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":130},\"to\":{\"line\":30,\"ch\":130}},\"scroll\":0.9058947234001786}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes Jan 16 26.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes Jan 16 26"
             }
           }
         ],
@@ -437,12 +375,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4655147bf7bfe27",
+  "active": "b58880d600bed49f",
   "lastOpenFiles": [
-    "Prenotes Jan 18 26.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Prenotes Jan 16 26.md",
+    "Prenotes Jan 18 26.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
