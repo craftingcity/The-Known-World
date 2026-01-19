@@ -28,13 +28,13 @@ AC 21, DR 4, HP 125
 (+11 SAVE, 2x +12 Melee, 3d10+8)
 
 21 - Zipper
-19 - WIZ *INCAP* ()
+19 - WIZ *explode on upkeep* ()
 17 - Soarsia
-14 - VAMP (15)
+17 - Wolves
+14 - VAMP (15, 29, 37, )
 14 - Niko
 12 - QUEUE ()
-7 - Monkey
-5 - STEVE *BROKER2x* (33, 39, 68)
+5 - STEVE *BROKER2x* (33, 39, 68, 58, 96, )
 
 
 We leave our heroes on the date of ... AF, as they ...
