@@ -21,6 +21,6 @@ When last we left our heroes, they were fighting their way through the Vault bel
 
 ### What happened?
 
-22 covers a Short Rest; the Vault prepares. Saorsia casts Locate Object. They 
+22 covers a Short Rest; the Vault prepares. Saorsia casts Locate Object. They hack the Red Button and Computer, and completely fuck the Vault, breaking the Terminal.
 
 We leave our heroes on the date of ... AF, as they ...
