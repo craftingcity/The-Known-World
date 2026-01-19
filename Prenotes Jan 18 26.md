@@ -21,6 +21,6 @@ When last we left our heroes, they were fighting their way through the Vault bel
 
 ### What happened?
 
-22 covers a Short Rest; the Vault prepares. Saorsia casts Locate Object.
+22 covers a Short Rest; the Vault prepares. Saorsia casts Locate Object. They 
 
 We leave our heroes on the date of ... AF, as they ...
