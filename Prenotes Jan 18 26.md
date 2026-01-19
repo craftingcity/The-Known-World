@@ -24,11 +24,17 @@ When last we left our heroes, they were fighting their way through the Vault bel
 22 covers a Short Rest; the Vault prepares. Saorsia casts Locate Object. They hack the Red Button and Computer, and completely fuck the Vault, breaking the Terminal.
 
 #### Lets do A Fight!
+AC 21, DR 4, HP 125
+(+11 SAVE, 2x +12 Melee, 3d10+8)
 
 21 - Zipper
-19 - Soarsia
-14 - VAMP
-12 - Queue
+19 - WIZ *INCAP* ()
+17 - Soarsia
+14 - VAMP (15)
+14 - Niko
+12 - QUEUE ()
+7 - Monkey
+5 - STEVE *BROKER2x* (33, 39, 68)
 
 
 We leave our heroes on the date of ... AF, as they ...
