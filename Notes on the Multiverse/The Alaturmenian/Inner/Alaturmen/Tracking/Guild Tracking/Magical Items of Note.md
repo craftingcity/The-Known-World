@@ -34,7 +34,7 @@ aliases:
 
 		- GME-000-6 is an identical instance to the others, excepting it is attuned to 'Abyss', and when activated will emit a dark putrid fog, and display the sight of a huge stone-brick bridge. The fog is toxic, and will cause significant lasting organ damage when ingested. GME-000-6 was delivered to the Guild by 'the Hatdroppers' at Containment Conference 000.
 
-		- GME-000-7 is an identical instance to the others, excepting it is attuned to 'Baator', and when activated will have a series of effects, which are currently unknown. This instance is currently undiscovered.
+		- GME-000-7 is an identical instance to the others, excepting it is attuned to 'Baator', and when activated will have a series of effects, which are currently unknown. This instance is currently undiscovered. (claimed by )
 
 		- GME-000-8 is an identical instance to the others, excepting it is attuned to 'Elysium', and when activated will have a series of effects, which are currently unknown. This instance is currently undiscovered.
 
