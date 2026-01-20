@@ -35,8 +35,30 @@
               "icon": "lucide-file",
               "title": "Prenotes Jan 18 26"
             }
+          },
+          {
+            "id": "a5d436408247c89a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9c0f296d01a1837b",
@@ -375,7 +397,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b58880d600bed49f",
+  "active": "a5d436408247c89a",
   "lastOpenFiles": [
     "Prenotes Jan 16 26.md",
     "Prenotes Jan 18 26.md",
