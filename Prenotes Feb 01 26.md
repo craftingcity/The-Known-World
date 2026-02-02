@@ -19,7 +19,7 @@ When last we left our heroes, they had entered into [[Kailkeep]] and begun to ex
 Roll Initiative.
 
 ### What does the World Know?
-The room is like 100' x 45', there is like 4 bunks per 15', so 26 bunks. So we can go for like 16-20 combatants.
+The room is like 100' x 45', there is like 4 bunks per 15', so 26 bunks. So we can go for like of the 20 or so folks in the room, probably less than 10 would stand to fight while the others flee - and even then they'll try to save their own hide.
 
 ### What happened?
 

@@ -36,7 +36,7 @@ Each end of the room opens to another by a set of stone double-doors.
 The Balconies are an identical pair of simple viewing areas that overlook the *Grand Chamber* below. They are lined in ornate stone railings, and play host to a pair of stone benches. Of the two single-wide doors in the walls of the balconies, one goes to a descending staircase, while the other goes to an ascending staircase. 
 
 #### Guest Noble Chambers
-
+An ornate bedroom, fit for a few well-fed nobles - a fine set of beds, a couch, a table, and a wide wardrobe hug the edges of the room, letting the woven rug breathe on the floor.
 
 #### Speaking Throne
 #### Temple to Terra
