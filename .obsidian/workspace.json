@@ -41,6 +41,29 @@
                 }
               },
               {
+                "id": "dc720d964802560d",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Custom Class - Alchemist"
+                }
+              },
+              {
                 "id": "92ec4c899abba981",
                 "type": "leaf",
                 "pane-relief:history-v1": {
@@ -428,11 +451,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0114d695ca102813",
+  "active": "8f4b2db8aed82006",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "Prenotes Feb 01 26.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/c_ Chapter Four - Level Three; Sinker.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/b_ Chapter Three - Level Two; Line.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/c_ Chapter Four - Level Three; Sinker.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "b_ Chapter Three  - Level Two; Line.md",
@@ -455,7 +479,6 @@
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
