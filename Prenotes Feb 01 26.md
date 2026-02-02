@@ -31,5 +31,14 @@ The room is like 100' x 45', there is like 4 bunks per 15', so 26 bunks. So we c
 1 - BLUE
 1 - YELLOW
 
+They followed 'Goblin #1' into Level 4, and played *Red Rover*.
+
+#### Red Rover
+18 - Dragoon, the Great (+20 EP)
+15 - RED TEAM
+13 - Steve
+6 - Mip
+6 - Wrench
+2 - Goblin #1
 
 We leave our heroes on the date of ... AF, as they ...
