@@ -237,22 +237,25 @@ The Vresk are trying to make alliances with other factions.
 Tiana and Issabella go to the Barracks.
 
 #### Session 22: Into the Sundered Depths
-
 We go down to the Sundered Depths, and we find a big heart-shaped rock in a room that beats with a pulse around us. It's not right, bleeding sap and glowing from it's breaking crack. We try to make it better, but vines come up out of the ground to get us.
 
 #### Session 23: 
+...
+
+#### Session 24:
+
 
 
 
 ## Stats
 
-| L. 6 | XP: 22.0k | / 23.0k | (0) Inspiration |
+| L. 7 | XP: 23.0k | / 23.0k | (0) Inspiration |
 | ---- | --------- | ------- | --------------- |
 | STR  | 8  (-1)   | PRF     | +3              |
-| CON  | 13 (+1)   | M. HP   | 32-7 Max HP     |
+| CON  | 13 (+1)   | M. HP   | 37-7 Max HP     |
 | DEX  | 16 (+3)   | AC      | (13)            |
 | INT  | 20 (+5) ^ | C. HP   | 13 HP           |
-| WIS  | 14 (+2) ^ | HD      | 6d6 (6/6)       |
+| WIS  | 14 (+2) ^ | HD      | 7d6 (6/6)       |
 | CHA  | 12 (+1)   | SPD     | 25' (5s)        |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |

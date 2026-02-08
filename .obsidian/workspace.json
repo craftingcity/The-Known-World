@@ -4,229 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "9749473ee593bb89",
-        "type": "split",
+        "id": "4f882f4d33e0d3d4",
+        "type": "tabs",
         "children": [
           {
-            "id": "a4810e65e9915064",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8f4b2db8aed82006",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 1,
-                  "stack": [
-                    {
-                      "title": "Kailkeep",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kailkeep\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    },
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Prenotes Feb 01 26.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prenotes Feb 01 26"
+            "id": "fdd34dbc9d1d9d59",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
-              },
-              {
-                "id": "44a239af14963bc7",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Alchemy Processes & Products"
-                }
-              },
-              {
-                "id": "dc720d964802560d",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Custom Class - Alchemist"
-                }
-              },
-              {
-                "id": "92ec4c899abba981",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Prenotes/'25/Prenotes Dec 29 25.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prenotes Dec 29 25"
-                }
-              }
-            ],
-            "currentTab": 2
-          },
-          {
-            "id": "38c5cd12cb42b686",
-            "type": "split",
-            "children": [
-              {
-                "id": "95312bb12040f1a7",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "0114d695ca102813",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        },
-                        {
-                          "title": "Kailkeep",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kailkeep\"}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                        },
-                        {
-                          "title": "Southwestern Central",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Southwestern Central\"}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                        },
-                        {
-                          "title": "Kailkeep",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kailkeep\"}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":41},\"to\":{\"line\":10,\"ch\":41}},\"scroll\":0}"
-                        },
-                        {
-                          "title": "Prenotes Feb 01 26",
-                          "icon": "lucide-file",
-                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes Feb 01 26.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes Feb 01 26\",\"popstate\":true}",
-                          "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":58},\"to\":{\"line\":16,\"ch\":58}}}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/b_ Chapter Three - Level Two; Line.md",
-                        "mode": "source",
-                        "source": true
-                      },
-                      "icon": "lucide-file",
-                      "title": "b_ Chapter Three - Level Two; Line"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "98d67820c3d37e45",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "7a364cd327c9ec4e",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/c_ Chapter Four - Level Three; Sinker.md",
-                        "mode": "source",
-                        "source": true
-                      },
-                      "icon": "lucide-file",
-                      "title": "c_ Chapter Four - Level Three; Sinker"
-                    }
-                  },
-                  {
-                    "id": "b8f83d3c9aad4f3e",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
-                        "mode": "source",
-                        "source": true
-                      },
-                      "icon": "lucide-file",
-                      "title": "d_ Chapter Five - Level Four; Four Corners"
-                    }
-                  }
-                ],
-                "currentTab": 1
-              }
-            ],
-            "direction": "horizontal"
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
@@ -500,20 +300,98 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc720d964802560d",
+  "floating": {
+    "id": "a40ad08b1598ed45",
+    "type": "floating",
+    "children": [
+      {
+        "id": "820023a7e48d2d3f",
+        "type": "window",
+        "children": [
+          {
+            "id": "81950f975f890844",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f556b955443ba8d3",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Tiana Turing.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tiana Turing"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bc9a967038519965",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b92ba08ea3fb2d5a",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Tiana Turing.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tiana Turing"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 501,
+        "y": 0,
+        "width": 1035,
+        "height": 912,
+        "maximize": false,
+        "zoom": -2
+      }
+    ]
+  },
+  "active": "f556b955443ba8d3",
   "lastOpenFiles": [
+    "Junie's Characters/Tiana Turing.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/b_ Chapter Three - Level Two; Line.md",
     "Prenotes Feb 01 26.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/b_ Chapter Three - Level Two; Line.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/c_ Chapter Four - Level Three; Sinker.md",
+    "Game Notes/Prenotes/'25/Prenotes Dec 29 25.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/c_ Chapter Four - Level Three; Sinker.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "b_ Chapter Three  - Level Two; Line.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter Two - Level One; Hook.md",
     "Game Notes/Campaign Rosters/GavinEmily Game.md",
-    "Game Notes/Prenotes/'25/Prenotes Dec 29 25.md",
     "Game Notes/Prenotes/'26/Prenotes Jan 04 26.md",
     "Prenotes Jan 18 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
@@ -527,7 +405,6 @@
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Malbolge.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
