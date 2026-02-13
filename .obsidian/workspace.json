@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f882f4d33e0d3d4",
+        "id": "d6ad865097299433",
         "type": "tabs",
         "children": [
           {
-            "id": "fdd34dbc9d1d9d59",
+            "id": "edc74c079091e3be",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -300,84 +300,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "a40ad08b1598ed45",
-    "type": "floating",
-    "children": [
-      {
-        "id": "820023a7e48d2d3f",
-        "type": "window",
-        "children": [
-          {
-            "id": "81950f975f890844",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f556b955443ba8d3",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Junie's Characters/Tiana Turing.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tiana Turing"
-                }
-              }
-            ]
-          },
-          {
-            "id": "bc9a967038519965",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b92ba08ea3fb2d5a",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Junie's Characters/Tiana Turing.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tiana Turing"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 501,
-        "y": 0,
-        "width": 1035,
-        "height": 912,
-        "maximize": false,
-        "zoom": -2
-      }
-    ]
-  },
-  "active": "f556b955443ba8d3",
+  "active": "edc74c079091e3be",
   "lastOpenFiles": [
     "Junie's Characters/Tiana Turing.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/b_ Chapter Three - Level Two; Line.md",
