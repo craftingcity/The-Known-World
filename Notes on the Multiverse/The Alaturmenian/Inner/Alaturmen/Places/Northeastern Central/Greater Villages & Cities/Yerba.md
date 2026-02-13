@@ -21,9 +21,9 @@ Yerba is a large city in [[The Kingdom of Prosper]]. Paved in cobble and built o
 ## Important Places & Symbolism
 
 ## Economics
-Cost of Living; 00sp / day
-	- Food @ 00sp / day ()
-	- Lodging @ 00sp / day
+Cost of Living; ~3.5sp / day
+	- Food @ 1.5sp / day (Chicken & Bread)
+	- Lodging @ 2sp / day 
 
 | Resource | Export / Import |
 | -------- | --------------- |

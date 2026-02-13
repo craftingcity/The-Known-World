@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Moonlight",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Moonlight.md"
+    },
+    {
       "basename": "Yerba",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md"
     },
     {
       "basename": "Holdings",
       "path": "ORGANIZATION/TEMPLATES/Holdings.md"
+    },
+    {
+      "basename": "Currency of Alaturmen",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
     },
     {
       "basename": "Major Agricultural Harvests",
@@ -191,14 +199,6 @@
     {
       "basename": "Hallis Alamore",
       "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Hallis Alamore.md"
-    },
-    {
-      "basename": "Blood Wars of Fiends",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Blood Wars of Fiends.md"
-    },
-    {
-      "basename": "List of Names",
-      "path": "Game Notes/NPCs/List of Names.md"
     }
   ],
   "omittedPaths": [],
