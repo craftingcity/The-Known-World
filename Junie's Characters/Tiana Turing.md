@@ -243,7 +243,10 @@ We go down to the Sundered Depths, and we find a big heart-shaped rock in a room
 ...
 
 #### Session 24:
+...
 
+#### Session 25:
+Still in the hole.
 
 
 
@@ -252,10 +255,10 @@ We go down to the Sundered Depths, and we find a big heart-shaped rock in a room
 | L. 7 | XP: 23.0k | / 34.0k | (0) Inspiration |
 | ---- | --------- | ------- | --------------- |
 | STR  | 8  (-1)   | PRF     | +3              |
-| CON  | 13 (+1)   | M. HP   | 37-7 Max HP     |
+| CON  | 13 (+1)   | M. HP   | 37 Max HP       |
 | DEX  | 16 (+3)   | AC      | (13)            |
-| INT  | 20 (+5) ^ | C. HP   | 13 HP           |
-| WIS  | 14 (+2) ^ | HD      | 7d6 (6/6)       |
+| INT  | 20 (+5) ^ | C. HP   | 37 HP           |
+| WIS  | 14 (+2) ^ | HD      | 7d6 (7/7)       |
 | CHA  | 12 (+1)   | SPD     | 25' (5s)        |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
