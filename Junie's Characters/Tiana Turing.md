@@ -263,7 +263,7 @@ Still in the hole. Things are alive down here, the vines and stuff.
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| o   | o   | o   | o   | .   | .   | .   | .    | .   |
+| x   | o   | o   | o   | .   | .   | .   | .    | .   |
 | o   | o   | o   | .   | .   | .   | .   |      |     |
 | o   | o   | o   | .   | .   |     |     | DC   | 16  |
 | o   |     |     |     |     |     |     | ATTK | +9  |
