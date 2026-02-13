@@ -257,7 +257,7 @@ Still in the hole. Things are alive down here, the vines and stuff.
 | STR  | 8  (-1)   | PRF     | +3              |
 | CON  | 13 (+1)   | M. HP   | 37 Max HP       |
 | DEX  | 16 (+3)   | AC      | (13)            |
-| INT  | 20 (+5) ^ | C. HP   | 37 HP           |
+| INT  | 20 (+5) ^ | C. HP   | 34 HP           |
 | WIS  | 14 (+2) ^ | HD      | 7d6 (7/7)       |
 | CHA  | 12 (+1)   | SPD     | 25' (5s)        |
 
