@@ -322,6 +322,7 @@ x (C) [Haste](https://dnd5e.wikidot.com/spell:haste)
 x [Counterspell](https://dnd5e.wikidot.com/spell:counterspell)
 o (F) [Remove Curse](https://dnd5e.wikidot.com/spell:remove-curse)
 x [Tounges](https://dnd5e.wikidot.com/spell:tongues)
+o [Sending](https://dnd5e.wikidot.com/spell:sending)
 	- **4th Level Spells**;
 x [Dimension Door](https://dnd5e.wikidot.com/spell:dimension-door)
 
