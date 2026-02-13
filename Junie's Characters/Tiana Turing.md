@@ -4,10 +4,10 @@ tags:
 aliases:
 ---
 # Tiana Turing
-## Gnome Wizard, Auxiliarist (Wizard 6)
+## Gnome Wizard, Auxiliarist (Wizard 7)
 ### she/they
 
-> Standing at 3'9", Tiana wears a practical brown canvas cloak and a comparably large backpack.
+> Standing at 3'9", Tiana wears a practical brown canvas cloak and a comparably large backpack. She sports a green cap, and is always seen holding a mysterious coin.
 
 Tiana is a young gnome with practical experience in the field - under direct supervision, in a stable environment. She's brought along her familiar - a brown shepherd dog named Compu.
 
@@ -249,7 +249,7 @@ We go down to the Sundered Depths, and we find a big heart-shaped rock in a room
 
 ## Stats
 
-| L. 7 | XP: 23.0k | / 23.0k | (0) Inspiration |
+| L. 7 | XP: 23.0k | / 34.0k | (0) Inspiration |
 | ---- | --------- | ------- | --------------- |
 | STR  | 8  (-1)   | PRF     | +3              |
 | CON  | 13 (+1)   | M. HP   | 37-7 Max HP     |
@@ -260,7 +260,7 @@ We go down to the Sundered Depths, and we find a big heart-shaped rock in a room
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| o   | o   | o   | .   | .   | .   | .   | .    | .   |
+| o   | o   | o   | o   | .   | .   | .   | .    | .   |
 | o   | o   | o   | .   | .   | .   | .   |      |     |
 | o   | o   | o   | .   | .   |     |     | DC   | 16  |
 | o   |     |     |     |     |     |     | ATTK | +9  |
@@ -288,7 +288,7 @@ We go down to the Sundered Depths, and we find a big heart-shaped rock in a room
 	- **(R)** [Identify](https://dnd5e.wikidot.com/spell:identify), (100gp pearl)
 	- **(R)** [Find Familiar](https://dnd5e.wikidot.com/spell:find-familiar) (10gp charcoal, incense, and herbs) [Compu!]()
 
-##### Spellcasting (Prep 11)
+##### Spellcasting (Prep 12)
 - You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
 - Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook (T = 4 + (L * 2) + Found Spells).
 
@@ -322,6 +322,8 @@ x (C) [Haste](https://dnd5e.wikidot.com/spell:haste)
 x [Counterspell](https://dnd5e.wikidot.com/spell:counterspell)
 o (F) [Remove Curse](https://dnd5e.wikidot.com/spell:remove-curse)
 x [Tounges](https://dnd5e.wikidot.com/spell:tongues)
+	- **4th Level Spells**;
+x [Dimension Door](https://dnd5e.wikidot.com/spell:dimension-door)
 
 ##### Arcane Recovery (+3 Slot-Level / Rest)
 - Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
