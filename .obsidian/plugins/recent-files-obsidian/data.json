@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Yerba",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md"
+    },
+    {
+      "basename": "Holdings",
+      "path": "ORGANIZATION/TEMPLATES/Holdings.md"
+    },
+    {
+      "basename": "Major Agricultural Harvests",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md"
+    },
+    {
+      "basename": "Region",
+      "path": "ORGANIZATION/TEMPLATES/Region.md"
+    },
+    {
       "basename": "Tiana Turing",
       "path": "Junie's Characters/Tiana Turing.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "List of Names",
       "path": "Game Notes/NPCs/List of Names.md"
-    },
-    {
-      "basename": "Guild of Wizards",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
-    },
-    {
-      "basename": "The Artifacts...",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Artifacts....md"
-    },
-    {
-      "basename": "The Secretkeepers",
-      "path": "Game Notes/Campaign Rosters/The Secretkeepers.md"
-    },
-    {
-      "basename": "Weapons of Alaturmen",
-      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
     }
   ],
   "omittedPaths": [],

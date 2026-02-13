@@ -16,8 +16,19 @@ aliases:
 ## Important Places & Symbolism
 
 ## Economics
-|     | # of Traders |
-| --- | ------------ |
-|     |              |
+Cost of Living; 00sp / day
+	- Food @ 00sp / day
+	- Lodging @ 00sp / day
+
+| Resource | Export / Import |
+| -------- | --------------- |
+| Wood     |                 |
+| Stone    |                 |
+| Minerals |                 |
+| Fuel     |                 |
+| Food     |                 |
+| Textiles |                 |
+| Luxuries |                 |
+| Precious |                 |
 
 ## Governance
