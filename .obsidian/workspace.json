@@ -417,6 +417,35 @@
                 }
               }
             ]
+          },
+          {
+            "id": "3d5067d5ca70f4fc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1668146222d3f0d8",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Tiana Turing.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tiana Turing"
+                }
+              }
+            ]
           }
         ],
         "direction": "vertical",
@@ -429,7 +458,7 @@
       }
     ]
   },
-  "active": "0bd2d059e19cc090",
+  "active": "1668146222d3f0d8",
   "lastOpenFiles": [
     "Game Notes/Campaign Rosters/GavinEmily Game.md",
     "Junie's Characters/Tiana Turing.md",
