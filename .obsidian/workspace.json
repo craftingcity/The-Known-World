@@ -381,87 +381,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "872033c7830cb3a8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c431a481098ded05",
-        "type": "window",
-        "children": [
-          {
-            "id": "2e49343dd2e964ba",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0bd2d059e19cc090",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Junie's Characters/Tiana Turing.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tiana Turing"
-                }
-              }
-            ]
-          },
-          {
-            "id": "3d5067d5ca70f4fc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1668146222d3f0d8",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Junie's Characters/Tiana Turing.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tiana Turing"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 529,
-        "y": 0,
-        "width": 1007,
-        "height": 912,
-        "maximize": false,
-        "zoom": -2
-      }
-    ]
-  },
-  "active": "1668146222d3f0d8",
+  "active": "9cd256bc2a519354",
   "lastOpenFiles": [
-    "Game Notes/Campaign Rosters/GavinEmily Game.md",
     "Junie's Characters/Tiana Turing.md",
+    "Game Notes/Campaign Rosters/GavinEmily Game.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Moonlight.md",
     "ORGANIZATION/TEMPLATES/Holdings.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
