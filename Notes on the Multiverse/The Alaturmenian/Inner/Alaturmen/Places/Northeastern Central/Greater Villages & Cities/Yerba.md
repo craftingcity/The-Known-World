@@ -10,7 +10,7 @@ aliases:
 ### Quote
 "The world began in Yerba, and it continues to revolve around it."
 
-Yerba is a large city in [[The Kingdom of Prosper]]. Paved in cobble and built of wood & thatch, this city provides a classical feeling of wonder to those who wander through it.
+Yerba is a large city in [[The Kingdom of Prosper]] - if not for the monarchy, Yerba might be the capital city of the region. The roads are paved in cobble and the houses built of wood & thatch, promoting a classical feeling of wonder to those who wander through here.
 
 ### General Public Disposition
 
@@ -18,12 +18,8 @@ Yerba is a large city in [[The Kingdom of Prosper]]. Paved in cobble and built o
 ## Important Places & Symbolism
 
 
-## Important Places & Symbolism
-
 ## Economics
 Cost of Living; ~3.5sp / day
-	- Food @ 1.5sp / day (Chicken & Bread)
-	- Lodging @ 2sp / day 
 
 | Resource | Export / Import |
 | -------- | --------------- |

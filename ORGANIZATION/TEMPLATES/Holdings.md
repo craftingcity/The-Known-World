@@ -17,8 +17,6 @@ aliases:
 
 ## Economics
 Cost of Living; 00sp / day
-	- Food @ 00sp / day
-	- Lodging @ 00sp / day
 
 | Resource | Export / Import |
 | -------- | --------------- |

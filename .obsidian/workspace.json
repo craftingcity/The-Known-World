@@ -31,36 +31,6 @@
             }
           },
           {
-            "id": "9cd256bc2a519354",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Moonlight.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Moonlight"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d8cae5d693653519",
-        "type": "tabs",
-        "children": [
-          {
             "id": "bc0979cff476c711",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -82,9 +52,15 @@
               "icon": "lucide-file",
               "title": "Major Agricultural Harvests"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b946c04ac2f1b5de",
+        "type": "tabs",
+        "children": [
           {
-            "id": "b87429ca7f11a680",
+            "id": "9cd256bc2a519354",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -98,16 +74,91 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ORGANIZATION/TEMPLATES/Holdings.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Moonlight.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Holdings"
+              "title": "Moonlight"
+            }
+          },
+          {
+            "id": "1edced3dd4deac83",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Gambleum.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Gambleum"
+            }
+          },
+          {
+            "id": "f89a4193b60d6b97",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Castle Prosper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Castle Prosper\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":15},\"to\":{\"line\":41,\"ch\":15}},\"scroll\":18.331849569597704}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Magius.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magius"
+            }
+          },
+          {
+            "id": "bdff51c79536e8ab",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Janesland.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Janesland"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,7 +262,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055
+    "width": 297.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -381,14 +433,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cd256bc2a519354",
+  "active": "bdff51c79536e8ab",
   "lastOpenFiles": [
-    "Junie's Characters/Tiana Turing.md",
-    "Game Notes/Campaign Rosters/GavinEmily Game.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Magius.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Gambleum.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Moonlight.md",
     "ORGANIZATION/TEMPLATES/Holdings.md",
+    "Junie's Characters/Tiana Turing.md",
+    "Game Notes/Campaign Rosters/GavinEmily Game.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "ORGANIZATION/TEMPLATES/Region.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/b_ Chapter Three - Level Two; Line.md",
@@ -406,9 +461,6 @@
     "Prenotes Jan 18 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Prenotes Jan 16 26.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",

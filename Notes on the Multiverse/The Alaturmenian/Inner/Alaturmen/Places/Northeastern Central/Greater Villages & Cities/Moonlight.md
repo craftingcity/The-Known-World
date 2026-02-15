@@ -15,19 +15,17 @@ aliases:
 ## Important Places & Symbolism
 
 ## Economics
-Cost of Living; 00sp / day
-	- Food @ 00sp / day
-	- Lodging @ 00sp / day
+Cost of Living; ~3.0sp / day
 
 | Resource | Export / Import |
 | -------- | --------------- |
-| Wood     |                 |
-| Stone    |                 |
-| Minerals |                 |
-| Fuel     |                 |
-| Food     |                 |
-| Textiles |                 |
-| Luxuries |                 |
-| Precious |                 |
+| Wood     | +1              |
+| Stone    | -1              |
+| Minerals | -1              |
+| Fuel     | 0               |
+| Food     | +4              |
+| Textiles | +3              |
+| Luxuries | +2              |
+| Precious | -1              |
 
 ## Governance

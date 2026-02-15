@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Janesland",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Janesland.md"
+    },
+    {
+      "basename": "Magius",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Magius.md"
+    },
+    {
+      "basename": "Castle Prosper",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Castle Prosper.md"
+    },
+    {
+      "basename": "Yerba",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md"
+    },
+    {
+      "basename": "Gambleum",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Gambleum.md"
+    },
+    {
       "basename": "Moonlight",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Moonlight.md"
+    },
+    {
+      "basename": "Holdings",
+      "path": "ORGANIZATION/TEMPLATES/Holdings.md"
     },
     {
       "basename": "Tiana Turing",
@@ -13,16 +37,8 @@
       "path": "Game Notes/Campaign Rosters/GavinEmily Game.md"
     },
     {
-      "basename": "Holdings",
-      "path": "ORGANIZATION/TEMPLATES/Holdings.md"
-    },
-    {
       "basename": "Major Agricultural Harvests",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md"
-    },
-    {
-      "basename": "Yerba",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md"
     },
     {
       "basename": "Currency of Alaturmen",
@@ -183,22 +199,6 @@
     {
       "basename": "Nessus",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Nessus.md"
-    },
-    {
-      "basename": "Plane of Fire",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Elemental Planes/Plane of Fire/Plane of Fire.md"
-    },
-    {
-      "basename": "DATABASE",
-      "path": "DATABASE.base"
-    },
-    {
-      "basename": "Demons",
-      "path": "Game Notes/NPCs/High Power/Demons/Demons.md"
-    },
-    {
-      "basename": "Hallis Alamore",
-      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Hallis Alamore.md"
     }
   ],
   "omittedPaths": [],
