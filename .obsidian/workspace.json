@@ -4,134 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "06cdb4ec10a1693d",
-        "type": "split",
+        "id": "9522e65c278393f5",
+        "type": "tabs",
         "children": [
           {
-            "id": "ba14fcb9af8dceb2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b5dacf8a946cb3b0",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Prenotes Feb 15 26.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prenotes Feb 15 26"
+            "id": "aaca23e72b2e0f6f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
-              }
-            ]
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Arstoviches"
+            }
           },
           {
-            "id": "27074a9da86983c1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "66b3afd220c20c03",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Prenotes Jan 18 26.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prenotes Jan 18 26"
+            "id": "f794b0bdbd9e947a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/True Villian NPCs/Arstovich.md",
+                "mode": "source",
+                "source": true
               },
-              {
-                "id": "046a52f39ae619bd",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "GavinEmily Game",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/GavinEmily Game.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"GavinEmily Game\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "The Secretkeepers",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/The Secretkeepers.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Secretkeepers\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":9},\"to\":{\"line\":6,\"ch\":9}}}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Prenotes Feb 01 26.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prenotes Feb 01 26"
-                }
-              },
-              {
-                "id": "d8ede5eec0da32fd",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Kailkeep",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kailkeep\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":30},\"to\":{\"line\":12,\"ch\":30}}}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "d_ Chapter Five - Level Four; Four Corners"
-                }
-              }
-            ],
-            "currentTab": 2
+              "icon": "lucide-file",
+              "title": "Arstovich"
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
@@ -406,13 +328,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5dacf8a946cb3b0",
+  "active": "aaca23e72b2e0f6f",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
-    "Prenotes Feb 01 26.md",
-    "Prenotes Feb 15 26.md",
+    "Game Notes/NPCs/High Power/True Villian NPCs/Arstovich.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
     "Prenotes Jan 18 26.md",
+    "Prenotes Feb 01 26.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
+    "Prenotes Feb 15 26.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Game Notes/Campaign Rosters/GavinEmily Game.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
@@ -432,8 +356,6 @@
     "Game Notes/Prenotes/'25/Prenotes Dec 29 25.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/c_ Chapter Four - Level Three; Sinker.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
-    "b_ Chapter Three  - Level Two; Line.md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
