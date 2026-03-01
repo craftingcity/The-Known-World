@@ -13,11 +13,12 @@ views:
       - file.mtime
       - file.links
     sort:
-      - property: file.links
+      - property: file.mtime
         direction: ASC
-      - property: file.tags
+      - property: file.links
         direction: ASC
     columnSize:
       file.tags: 267
-      file.mtime: 104
+      file.ctime: 216
+      file.mtime: 230
       file.links: 907

@@ -18,7 +18,7 @@ Rumor speaks of this woman-beast surviving her curse, wounded, but safe. She has
 ## Governance
 ## Culture
 #### Heritage
-##### Raw
+##### 
 
 #### Language
 #### Values

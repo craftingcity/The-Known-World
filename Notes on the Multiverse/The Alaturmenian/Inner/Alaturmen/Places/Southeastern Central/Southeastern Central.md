@@ -65,7 +65,6 @@ aliases:
 	- **Near Red Throne**
 		- [[Bilemuck]]
 		- [[Falseguard]]
-		- [[Millnyr]]
 		- [[Neverwallow]]
 	- **Near Zalfari**
 		- [[Chishran]]
