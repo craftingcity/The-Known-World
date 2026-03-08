@@ -17,4 +17,9 @@ aliases:
 #### Ways
 #### Here Comes an Old Soldier / Red light, Green light (Exit Game)
 ### Detail
-#### Dance Fight
+#### Beast Barracks
+#### False Oasis
+#### Evil Spleef
+#### Gladiator's Chains
+#### Kasey's Headquarters
+#### Yeeqzu'g's Lair

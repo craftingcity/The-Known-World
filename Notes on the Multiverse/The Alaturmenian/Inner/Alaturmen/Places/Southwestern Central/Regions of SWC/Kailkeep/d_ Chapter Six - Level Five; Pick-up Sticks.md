@@ -47,7 +47,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 	- When a pose has been successfully replicated by any number of participants, that pose is completed. When three poses have been completed successively, the game ends, and a **Token** is revealed inside the Mannequin's chest.
 	- When a pose has been failed, the failing character makes a DC 18 Wisdom Saving Throw. If they fail the save, they are Charmed until the beginning of their next turn. When they are Charmed this way, they immediately move their speed towards the nearest creature, and then make an Attack against it.
 #### Shooting Gallery
-- This long chamber is lined with ballista on one side (the end or sides of the hall is preferable) that are being controlled remotely by a number of Kobolds behind their protective stone.
+- This long chamber is lined with ballista on one or two sides (the end or sides of the hall is preferable) that are being controlled remotely by a number of Kobolds behind their protective stone.
 - A **Token** rests on a pedestal at the end of the chamber.
 #### Beast Barracks 
 - This chamber is one of many beast homes within the mountains of Kailkeep. Somehow, this creature is compensated by the Kobolds of Kailkeep.

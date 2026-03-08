@@ -7,7 +7,7 @@ aliases:
 # Factions
 ## Kobold Loyalists
 ## Goblin Hit-teams
-## Red Gnoll
+## Black Gnoll
 ## Survivalists
 ## Entertainers
 ## Ancients of Mountain Hall

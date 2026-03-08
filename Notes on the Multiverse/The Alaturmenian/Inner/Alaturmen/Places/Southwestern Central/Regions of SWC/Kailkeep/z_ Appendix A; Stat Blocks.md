@@ -12,8 +12,11 @@ aliases:
 #### Guand Amputee
 
 ## L4
-#### Goblin Squaddie
-#### Goblin Sarge
+#### Golden Claws
+#### Honorable Theives
+#### Ancients of Mountainhall
+#### 'Vulture' Sarge
+#### 'Vulture' Squaddie
 #### Rammik
 #### Rammik's Lackies
 #### Bloodylip
@@ -23,7 +26,20 @@ aliases:
 #### Hasten
 #### Hasten's Comrades
 
+
 ## L5
+#### 'Mantis' Sarge
+#### 'Mantis' Squaddie
+#### Hannibal
+#### Hannibal's Lackies
+#### Yellowback
+#### Yellowback's Lackies
+#### Dusk
+#### Dusk's Packmates
+#### Mercy's Roamers
+#### Niurna
+#### Niurna's Comrades
+
 ## L6
 ## L7
 ## L8
