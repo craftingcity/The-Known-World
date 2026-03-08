@@ -224,7 +224,7 @@ Between the areas of viewing, there are tunnels sized for two small creatures to
 ##### Doors, Secret Doors, and Ko-Bolted Doors.
 Beyond the "false allure" of Kailkeep's Lower Hells, Normal Doors (including double doors) are made of two inch thick black marble, and are handled in one-half inch thick white marble rings. These doors have no hinges, swinging around an internal cylinder of stone that holds the door in place in the wall.
 
-The secret doors of Kailkeep are not uniform, but they are hidden at similar skill. Any and all secret doors marked on the maps are humbly suggested to require a DC 20 investigation check to notice, although surely some are easier or harder to spot then others. Please use your discretion.
+The secret doors of Kailkeep are not uniform, but they are hidden at similar skill. Any and all secret doors marked on the maps are humbly suggested to require a DC 20 investigation check to notice, although surely some are easier or harder to spot then others. Please use your discretion. 
 
 Some doors in Kailkeep are "Ko-Bolted", meaning they cannot (as enforced by an Operator's magic) be opened by any other than a living Kobold who has been Marked with the correct Access Bindings.
 

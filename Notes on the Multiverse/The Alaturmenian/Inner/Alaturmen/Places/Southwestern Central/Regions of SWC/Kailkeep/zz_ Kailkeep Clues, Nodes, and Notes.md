@@ -66,7 +66,9 @@ date: Unknown
 title: Wailing Complaints & Misunderstandings
 content:
 	- Five is a half dozen more than I will get in my lifetime. (Any)
-	- 
+	- The walls are not black. The walls are not black. The walls are not black. (Any)
+	- I'm sorry, my love. I won't be coming home. (Any)
+	- I will kill you. I know where you will sleep tonight. (Any)
 
 date: Unknown
 title: True Warnings
@@ -75,11 +77,15 @@ content:
 	- The Blood Bowls are stalking grounds. Beware. (Desertspeech)
 	- Find Mercy. (Any)
 	- The construct will crush you. (Arthurian, Golopak)
-	- 
+	- Why is that hallway so clean? I'm suspicious. (Montal)
 
 date: Unknown
 title: Harmful Falsehoods
 content:
+	- Yellowback is a good friend! (Montal)
+	- The Golem trades for metal. (Any)
+	- Never trust the words on the walls. We're trying to trick you. (Draconic, Montal)
+	- You're almost done! Just find the stairs! (Arthurian, Golopak)
 
 ```
 
