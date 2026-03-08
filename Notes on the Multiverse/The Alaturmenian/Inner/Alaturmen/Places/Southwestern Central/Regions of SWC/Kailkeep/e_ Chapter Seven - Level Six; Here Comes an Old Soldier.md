@@ -35,4 +35,4 @@ aliases:
 #### Evil Spleef
 #### Gladiator's Chains
 #### Kasey's Headquarters
-#### Yeeqzu'g's Lair
+#### Yeeqzu'g's Workshop

@@ -120,17 +120,17 @@
                 "id": "e139daabae606029",
                 "type": "leaf",
                 "pane-relief:history-v1": {
-                  "pos": 1,
+                  "pos": 0,
                   "stack": [
-                    {
-                      "title": "d_ Chapter Five - Level Four; Four Corners",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"d_ Chapter Five - Level Four; Four Corners\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":43.17377532331651}"
-                    },
                     {
                       "state": "{}",
                       "eState": "{}"
+                    },
+                    {
+                      "title": "Kailkeep",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kailkeep\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":23},\"to\":{\"line\":24,\"ch\":23}},\"scroll\":10.734319561123185}"
                     },
                     {
                       "title": "GavinEmily Game",
@@ -149,12 +149,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Kailkeep"
+                  "title": "zz_ Kailkeep Clues, Nodes, and Notes"
                 }
               }
             ]
@@ -300,7 +300,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -573,15 +573,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f02ef44ad455d361",
+  "active": "e139daabae606029",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/z_ Appendix D; Index of Messages.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/z_ Appendix B; Unique Items.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/g_ Chapter Nine - Level Eight; The Floor Is Ooze!.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/j_ Chapter Twelve - Faction Deep Dive.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/z_ Appendix A; Stat Blocks.md",
     "Prenotes Mar 08 26.md",
@@ -599,9 +602,6 @@
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Moonlight.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Gambleum.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Magius.md",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
     "Game Notes/Prenotes/'26",

@@ -74,6 +74,8 @@ content:
 	- Beware the puppet, his game costs more than it's worth. (Montal, Golopak, Arthurian)
 	- The Blood Bowls are stalking grounds. Beware. (Desertspeech)
 	- Find Mercy. (Any)
+	- The construct will crush you. (Arthurian, Golopak)
+	- 
 
 date: Unknown
 title: Harmful Falsehoods

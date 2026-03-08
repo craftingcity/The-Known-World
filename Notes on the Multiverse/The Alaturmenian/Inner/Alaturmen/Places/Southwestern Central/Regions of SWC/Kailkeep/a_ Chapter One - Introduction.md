@@ -230,7 +230,7 @@ Some doors in Kailkeep are "Ko-Bolted", meaning they cannot (as enforced by an O
 
 > ###### What the fuck is an Access Binding??
 > It's like a keycard in a video game, except its a magic tattoo. Only certain Kobolds get access to the tunnel doors on certain levels, because you don't need the dude who maintains the slime pits to get into the pristine puzzle rooms; what if he goops the place up?
-> No-one with an Access Binding is allowed to Entertain in the Hells, for the hopefully obvious reason of the massive advantage and security threat they present. They do maintenance work whenever an area is clear of Entertainers, and some Operators go so far as to temporarily enclose areas in stone to work in peace.
+> No-one with an Access Binding is allowed to Entertain in the Hells, for the hopefully obvious reason of the massive advantage and security threat they present. They do maintenance work whenever an area is clear of Entertainers, and some Operators go so far as to temporarily enclose areas in stone so that they may work in peace.
 
 ##### Illumination
 The Kobolds who view the Hells as entertainment typically have no need for light. In most cases, the light the entertainers provide for themselves is sufficient.
