@@ -7,6 +7,18 @@ aliases:
 # Level Six: Here Comes an Old Soldier
 ## What Dwells Here?
 ### Loyalists
+#### 'Gorilla Fists' Squad
+#### Serina's Gang
+#### Kasey Bullseye's Gang
+#### Yeeqzu'g, Mad Speeker
+#### Reaper's Pack
+
+### Dissenters
+#### Ancients of Mountianhall
+#### Golden Claw Guard
+#### Honorable Thieves
+#### Zack's Group
+
 ## Exploring this Place
 ### Navigation
 #### Duck, Duck, Choose (Entrance Game)
@@ -19,6 +31,7 @@ aliases:
 ### Detail
 #### Beast Barracks
 #### False Oasis
+#### Shooting Halls
 #### Evil Spleef
 #### Gladiator's Chains
 #### Kasey's Headquarters
