@@ -5,12 +5,24 @@ aliases:
 ---
 
 # Stat blocks by Level
-## L1 & L2
+## L1 - L3
 #### Goblin Coward
 #### Goblin Amputee
 #### Guand Coward
 #### Guand Amputee
+
 ## L4
+#### Goblin Squaddie
+#### Goblin Sarge
+#### Rammik
+#### Rammik's Lackies
+#### Bloodylip
+#### Bloodylip's Lackies
+#### Johnlock
+#### John's Lackies
+#### Hasten
+#### Hasten's Comrades
+
 ## L5
 ## L6
 ## L7

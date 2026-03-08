@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for February 15th
+# Prenotes for February 15th (noshow)
 
 ## Party of Interest: [[The Secretkeepers]]
 - [ ] DM Screen

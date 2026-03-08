@@ -1,52 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "DATABASE",
-      "path": "DATABASE.base"
-    },
-    {
-      "basename": "Millnyr",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Millnyr.md"
-    },
-    {
-      "basename": "Prenotes Jan 18 26",
-      "path": "Game Notes/Prenotes/'26/Prenotes Jan 18 26.md"
-    },
-    {
-      "basename": "Prenotes Jan 16 26",
-      "path": "Game Notes/Prenotes/'26/Prenotes Jan 16 26.md"
-    },
-    {
-      "basename": "Prenotes Feb 15 26",
-      "path": "Game Notes/Prenotes/'26/Prenotes Feb 15 26.md"
-    },
-    {
-      "basename": "Prenotes Feb 01 26",
-      "path": "Game Notes/Prenotes/'26/Prenotes Feb 01 26.md"
-    },
-    {
-      "basename": "The Arstoviches",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md"
-    },
-    {
-      "basename": "Arstovich",
-      "path": "Game Notes/NPCs/High Power/True Villian NPCs/Arstovich.md"
-    },
-    {
-      "basename": "d_ Chapter Five - Level Four; Four Corners",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md"
+      "basename": "z_ Appendix A; Stat Blocks",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/z_ Appendix A; Stat Blocks.md"
     },
     {
       "basename": "Kailkeep",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md"
     },
     {
-      "basename": "Guilded Mystic Entries",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md"
+      "basename": "d_ Chapter Five - Level Four; Four Corners",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md"
+    },
+    {
+      "basename": "Prenotes Mar 08 26",
+      "path": "Prenotes Mar 08 26.md"
     },
     {
       "basename": "GavinEmily Game",
       "path": "Game Notes/Campaign Rosters/GavinEmily Game.md"
+    },
+    {
+      "basename": "Prenotes Feb xx 26",
+      "path": "Game Notes/Prenotes/'26/Prenotes Feb xx 26.md"
+    },
+    {
+      "basename": "Prenotes Feb 01 26",
+      "path": "Game Notes/Prenotes/'26/Prenotes Feb 01 26.md"
+    },
+    {
+      "basename": "Prenotes Jan 16 26",
+      "path": "Game Notes/Prenotes/'26/Prenotes Jan 16 26.md"
+    },
+    {
+      "basename": "Prenotes Jan 18 26",
+      "path": "Game Notes/Prenotes/'26/Prenotes Jan 18 26.md"
+    },
+    {
+      "basename": "Arstovich",
+      "path": "Game Notes/NPCs/High Power/True Villian NPCs/Arstovich.md"
+    },
+    {
+      "basename": "Millnyr",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Millnyr.md"
+    },
+    {
+      "basename": "DATABASE",
+      "path": "DATABASE.base"
+    },
+    {
+      "basename": "The Arstoviches",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md"
+    },
+    {
+      "basename": "Guilded Mystic Entries",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md"
     },
     {
       "basename": "The Secretkeepers",
@@ -191,10 +199,6 @@
     {
       "basename": "Abyssal (language)",
       "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Time Before Time/Abyssal (language).md"
-    },
-    {
-      "basename": "Syndeomai",
-      "path": "Syndeomai.md"
     }
   ],
   "omittedPaths": [],
