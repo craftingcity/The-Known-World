@@ -53,6 +53,10 @@ Go in, take a good look, see who looks important, instill fear "they dont know w
 6 - Mip
 
 
+Boil Goop 2 oz DISEASE
+Nightshade 3 oz POISON
+Red Poly 1oz ARCANE
+Red Water 1oz ARCANE
+Iron Shavings 1oz FABRIM
 
-
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the date of ... AF, as they have left Goblin #1 to do his quest, and they are interested in the Bonecrusher they saw
