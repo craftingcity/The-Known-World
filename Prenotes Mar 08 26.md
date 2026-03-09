@@ -45,6 +45,13 @@ Went through Oasis into Dog House, fighting Dogs.
 
 Go in, take a good look, see who looks important, instill fear "they dont know who they're dealing with" - we'd like to battle, but we are no ordinary challanges, they will see in the next battle! Fear the Great Dragoon!
 
+#### Machine Fight
+20 - Dragoon
+19 - Steve
+15 - Baddies
+10 - Wrench
+6 - Mip
+
 
 
 
