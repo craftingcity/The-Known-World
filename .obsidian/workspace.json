@@ -128,7 +128,8 @@
               "title": "zz_ Kailkeep Clues, Nodes, and Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -401,12 +402,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0719eee1dbdc34c6",
+  "active": "645c9a8cbb4a8672",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
-    "Prenotes Mar 08 26.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+    "Prenotes Mar 08 26.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Code of Thieves.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
