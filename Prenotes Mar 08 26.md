@@ -30,10 +30,17 @@ From *Red Rover*, we'll lead into a *False Oasis*, which will split pathing forw
 Went through Oasis into Dog House, fighting Dogs.
 #### DOG FIGHT
 20 - Green
+	A (5, 11)
+	B (6, 12)
+	D
 19 - Steve
-15 - Wrench
+15 - Wrench (22, 30)
 10 - Mip
 10 - Red
+	A
+	B
+	C
 8 - Great Dragoon
+0 - Goblin #1 ()
 
 We leave our heroes on the date of ... AF, as they ...

@@ -5,6 +5,10 @@
       "path": "Prenotes Mar 08 26.md"
     },
     {
+      "basename": "Homebrew Alchemy System",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md"
+    },
+    {
       "basename": "d_ Chapter Five - Level Four; Four Corners",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cania",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Cania.md"
-    },
-    {
-      "basename": "Maladomini",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md"
     }
   ],
   "omittedPaths": [],
