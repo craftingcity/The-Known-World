@@ -14,7 +14,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, they continued through [[Kailkeep]], following a desperate minion of this place into the higher floors without issue; until the stone doors sealed behind them. The party is trapped now, performing on a dark stage of bloody entertainment, competing against others much like themselves. You are surrounded by Kobolds, relaxing safely behind some transparent magical material, cheering you on. You've won! And now you keep going.
+When last we left our heroes, they continued through the first few levels [[Kailkeep]], following a desperate minion of this place into the higher floors without issue; until the stone doors sealed behind them. The party is trapped now, performing on a dark stage of bloody entertainment, competing against others much like themselves. You are surrounded by Kobolds, relaxing safely behind some transparent magical material, cheering you on. You've won! And now you keep going.
 
 As the announcer finishes their script, the doors forward creak ajar, signaling your success in this challenge, and some of the viewers begin to file out of their chambers. A few stay behind, watching you now. 
 
