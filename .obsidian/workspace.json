@@ -43,6 +43,27 @@
             }
           },
           {
+            "id": "e1a31b5ef66d6e79",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
             "id": "14a971c3667c1ee0",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -111,7 +132,8 @@
               "title": "zz_ Kailkeep Clues, Nodes, and Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "daa207582ccb7d52",
@@ -472,7 +494,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28766efab79a23b5",
+  "active": "e1a31b5ef66d6e79",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Prenotes Mar 08 26.md",
