@@ -248,6 +248,8 @@ We go down to the Sundered Depths, and we find a big heart-shaped rock in a room
 #### Session 25:
 Still in the hole. Things are alive down here, the vines and stuff. 
 
+#### Session 26:
+Gotta fight Sledge. 
 
 
 ## Stats
