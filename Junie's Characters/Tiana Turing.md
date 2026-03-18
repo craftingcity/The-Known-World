@@ -254,7 +254,7 @@ Gotta fight Sledge.
 
 ## Stats
 
-| L. 7 | XP: 23.0k | / 34.0k | (0) Inspiration |
+| L. 7 | XP: 25.250k | / 34.0k | (0) Inspiration |
 | ---- | --------- | ------- | --------------- |
 | STR  | 8  (-1)   | PRF     | +3              |
 | CON  | 13 (+1)   | M. HP   | 37 Max HP       |
