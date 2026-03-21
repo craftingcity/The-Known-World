@@ -5,7 +5,6 @@ aliases:
 
 # World Wide Happenings
 %% Begin Waypoint %%
-- [[The Great Game]]
 - **Worldknown Groups**
 	- **Adventuring Groups**
 		- [[Delta 3 Mercenary Squad]]
