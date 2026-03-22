@@ -40,11 +40,10 @@
               },
               "icon": "lucide-file",
               "title": "The Secretkeepers"
-            },
-            "group": "fa5c081fd3297485"
+            }
           },
           {
-            "id": "5f624faf8016e2f3",
+            "id": "257eb492d9c9c26a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -58,14 +57,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Prenotes/'26/Prenotes Jan 18 26.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes Jan 18 26"
+              "title": "Guilded Mystic Entries"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "35b4237964e1a5ab",
+        "type": "tabs",
+        "children": [
           {
             "id": "9ec5c6ef57f064c2",
             "type": "leaf",
@@ -89,67 +95,7 @@
               "title": "Prenotes Mar 22 26"
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "c9f220bdb590023d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "afcf0c46ce1e5d6b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "byModifiedTime",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for The Secretkeepers"
-            },
-            "group": "fa5c081fd3297485"
-          },
-          {
-            "id": "b80b723d40189dcc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'26/Prenotes Feb xx 26.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Feb xx 26"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -424,10 +370,12 @@
   },
   "active": "9ec5c6ef57f064c2",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'26/Prenotes Feb xx 26.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Recordkeeping/On the Hum Arcani; Guild Position.md",
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Prenotes Mar 22 26.md",
     "Game Notes/Prenotes/'26/Prenotes Jan 18 26.md",
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "Game Notes/Prenotes/'26/Prenotes Feb xx 26.md",
     "Game Notes/Campaign Rosters/Campaign Rosters.md",
     "Game Notes/Campaigns.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
@@ -448,8 +396,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/z_ Appendix D; Index of Messages.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/z_ Appendix B; Unique Items.md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",

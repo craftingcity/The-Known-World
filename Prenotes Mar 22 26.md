@@ -14,7 +14,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, the party was systemically dismantling the security measures in the Vault below [[Coalition City]], going so far as to identify and disable any terminal that could trigger the detonation of the Vault, reset the alert level of the facility, and transfer the complete entry catalogue onto Corporal Lazarus' PDA. 
+When last we left our heroes, the party was delving into the Vault below [[Coalition City]], going so far as to systemically dismantling the security measures present throughout the complex, identify and disable any linked terminal that could trigger the detonation of the Vault, disable and reset the alert level of the facility, and finally, transfer the complete entry catalogue onto Corporal Lazarus' PDA. 
 
 After the party finished at the terminal, they continued into the Orange Storage Sector, hoping to extract some important tool for their quest into [[Baator]], but instead found a squad of mechanized guardians waiting for them - and the battle continues...
 
@@ -33,7 +33,7 @@ AC 21, DR 4, HP 125
 5 - STEVE *BROKER2x* (33, 39, 68, 58, 96, )
 
 #### Orange Storage Sector
-Please, somehow, get them into Baator; maybe a little devil spawns out of Saorsia or Zipper that goes for the Worldbindings. In any case, they don't get to keep the real important stuff from here.
+Please, somehow, get them into Baator; maybe a little devil spawns out of Saorsia or Zipper that goes for the Worldbindings, or Otto walks out as a goopis man. In any case, they don't get to keep the real important stuff from here, and I really want to push them into Hell.
 
 ### What happened?
 
