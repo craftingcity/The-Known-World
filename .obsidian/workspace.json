@@ -43,82 +43,6 @@
             }
           },
           {
-            "id": "257eb492d9c9c26a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Guilded Mystic Entries"
-            }
-          },
-          {
-            "id": "739537fc08e02d8e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Magical Items of Note"
-            }
-          },
-          {
-            "id": "7f8a12db0f63be51",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Devils/Devils.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Devils"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "35b4237964e1a5ab",
-        "type": "tabs",
-        "children": [
-          {
             "id": "9ec5c6ef57f064c2",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -142,7 +66,7 @@
             }
           },
           {
-            "id": "6364c5fc4adc12dd",
+            "id": "660daa7dbe731b52",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -156,12 +80,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Avernus"
+              "title": "Guilded Mystic Entries"
             }
           }
         ],
@@ -439,13 +363,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6364c5fc4adc12dd",
+  "active": "9ec5c6ef57f064c2",
   "lastOpenFiles": [
-    "Game Notes/NPCs/High Power/Devils/Devils.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
     "Prenotes Mar 22 26.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
+    "Game Notes/NPCs/High Power/Devils/Devils.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Recordkeeping/On the Hum Arcani; Guild Position.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Game Notes/Prenotes/'26/Prenotes Jan 18 26.md",

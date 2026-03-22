@@ -24,12 +24,12 @@ AC 21, DR 4, HP 125
 (+11 SAVE, 2x +12 Melee, 3d10+8)
 
 21 - Zipper
-19 - WIZ *explode on upkeep* ()
+~~19 - WIZ *explode on upkeep* ()~~
 17 - Soarsia
 17 - Wolves
 14 - VAMP (15, 29, 37, )
 14 - Niko
-12 - QUEUE ()
+12 - QUEUE (30, 65)
 5 - STEVE *BROKER2x* (33, 39, 68, 58, 96, )
 
 #### Orange Storage Sector
