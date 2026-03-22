@@ -26,11 +26,10 @@ AC 21, DR 4, HP 125
 21 - Zipper
 ~~19 - WIZ *explode on upkeep* ()~~
 17 - Soarsia
-17 - Wolves
 14 - VAMP (15, 29, 37, )
 14 - Niko
-12 - QUEUE (30, 65)
-5 - STEVE *BROKER2x* (33, 39, 68, 58, 96, )
+12 - QUEUE *BROKER2x* (30, 65, 70, 78, 86)
+5 - STEVE (33, 39, 68, 58, 96, 75, 98)
 
 #### Orange Storage Sector
 Please, somehow, get them into Baator; maybe a little devil spawns out of Saorsia or Zipper that goes for the Worldbindings, or Otto walks out as a goopis man. In any case, they don't get to keep the real important stuff from here, and I really want to push them into Hell.
