@@ -64,9 +64,55 @@
               "icon": "lucide-file",
               "title": "Guilded Mystic Entries"
             }
+          },
+          {
+            "id": "739537fc08e02d8e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magical Items of Note"
+            }
+          },
+          {
+            "id": "7f8a12db0f63be51",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Devils/Devils.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Devils"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "35b4237964e1a5ab",
@@ -94,8 +140,32 @@
               "icon": "lucide-file",
               "title": "Prenotes Mar 22 26"
             }
+          },
+          {
+            "id": "6364c5fc4adc12dd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Avernus"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +268,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055
+    "width": 297.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -368,12 +439,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ec5c6ef57f064c2",
+  "active": "6364c5fc4adc12dd",
   "lastOpenFiles": [
+    "Game Notes/NPCs/High Power/Devils/Devils.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
+    "Prenotes Mar 22 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Recordkeeping/On the Hum Arcani; Guild Position.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
-    "Prenotes Mar 22 26.md",
     "Game Notes/Prenotes/'26/Prenotes Jan 18 26.md",
     "Game Notes/Prenotes/'26/Prenotes Feb xx 26.md",
     "Game Notes/Campaign Rosters/Campaign Rosters.md",
@@ -393,9 +467,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/g_ Chapter Nine - Level Eight; The Floor Is Ooze!.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",

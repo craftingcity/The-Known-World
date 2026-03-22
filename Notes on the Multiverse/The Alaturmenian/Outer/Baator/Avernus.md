@@ -23,7 +23,11 @@ Some black liquid has stained the tips of the spikes and dripped downwards.
 Outpost Maedios is the second-in-line Forward Operating Base on Avernus. Duty here is made of patrols in the [[#Spikelands]] and [[#Free-Traitor Territory]], or training your combat prowess, until you are called forward.
 
 #### Free-Traitor Territory
+The Free-Traitor Territory is a defacto headquarters and killing field occupied by devilkin violently opposed to the [[Blood Wars of Fiends]]. These so-called 'Free Traitors' are loosely allied to [[Vuctoria]], a once proud Vassal of [[Istratige]] turned Traitor-Duke after the loss of their partner in the war.
+
 #### Outpost Pesmenos
+Outpost Pesmenos is the first-in-line Forward Operating Base on Avernus. Duty here is 
+
 #### Crater Fields
 #### Outpost Afierono
 #### Beachhead Styx
