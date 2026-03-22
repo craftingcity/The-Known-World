@@ -27,8 +27,13 @@ The Arch-Devils are the major management of Devil-kind. Each of the Arch-Devils 
 ### Dukes
 The Dukes are the minor management of Devil-kind. The Dukes ride a fine line of serving their Arch-Devils, and plotting against them. They are responsible for commanding their lower-devil Vassals.
 
+#### on Avernus
+- [[Cawarad]], Duke and Field Commander of *Outpost Maedios*
+- [[Vuctoria]], Traitor-Duke and General of the *Free-Traitors*
+- [[Ferochi]], Duke and Attack Dog of *Outpost Pesmenos*
+
 ### Vassals
-The Vassals make up the plurality of Devil-kind, being the "upper-working class" of the system. They work jobs with which they are content, and largely perform voluntarily, pushing the harder or less pleasing work to their lessers.
+The Vassals make up the "upper-working class" of the system of Devil-kind. They work jobs with which they are content, and largely perform voluntarily, pushing the harder or less pleasing work to their lessers.
 
 ### Lessers
 The majority of devil-kind are considered 'lessers'. They perform the work that must be done to fuel society on [[Baator]]. They rarely see opportunity for upward mobility, and most that they do see is by accident.
