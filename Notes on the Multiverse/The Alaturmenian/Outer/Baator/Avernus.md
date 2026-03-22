@@ -32,6 +32,8 @@ Outpost Pesmenos is the first-in-line Forward Operating Base on Avernus. Duty he
 The Crater Fields are a war-torn wasteland. What was once reasonably flat ground has warped into a lumpy, broken place. As the name implies, Craters of many sizes are present throughout the area, each of which has been created by some manner of war-machine. Pieces of these machines are still present in some places.
 
 #### Outpost Afierono
+Outpost Afierono is the final Forward Operating Base on Avernus. Duty here is 
+
 #### Beachhead Styx
 The Beachhead Styx is the primary landing destination for assaulting Demons, who cross the [[River Styx]] into Avernus from the [[Abyss]]. 
 
