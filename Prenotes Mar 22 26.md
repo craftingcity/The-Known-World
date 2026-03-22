@@ -26,9 +26,9 @@ AC 21, DR 4, HP 125
 21 - Zipper
 ~~19 - WIZ *explode on upkeep* ()~~
 17 - Soarsia
-14 - VAMP (15, 29, 37, )
-14 - Niko (/!)
-12 - QUEUE (30, 65, 70, 78, 86, 104)
+14 - VAMP (15, 29, 37, 63, 84)
+14 - Niko
+~~12 - QUEUE (30, 65, 70, 78, 86, 104, 116, 125)~~
 ~~5 - STEVE (33, 39, 68, 58, 96, 75, 98, 118)~~
 
 #### Orange Storage Sector
