@@ -36,6 +36,6 @@ Please, somehow, get them into Baator; maybe a little devil spawns out of Saorsi
 
 ### What happened?
 
-They beat the Mechs, and took a Long Rest.
+They beat the Mechs, and took a Long Rest. They have C3 bags, they have Alergra's Staff of Power.
 
 We leave our heroes on the date of ... AF, as they ...
