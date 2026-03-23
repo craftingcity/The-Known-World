@@ -36,5 +36,6 @@ Please, somehow, get them into Baator; maybe a little devil spawns out of Saorsi
 
 ### What happened?
 
+They beat the Mechs, and took a Long Rest.
 
 We leave our heroes on the date of ... AF, as they ...
