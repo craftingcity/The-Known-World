@@ -788,6 +788,11 @@ aliases:
 ###### Alergra's Cloak of Diversion
 ###### Alergra's Pinksand Hourglass
 ###### Alergra's Staff of Evocation
+	- Flame Blade
+	- Acid Arrow
+	- Scrosching Ray
+	- Fireball
+	- Wall of Fire
 ### Northern Conflicts c.105AF
 #### Relics of Wartime
 #### Relics of the Secretkeepers
