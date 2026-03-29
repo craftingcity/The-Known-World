@@ -35,16 +35,16 @@ Boulder, Dart Halls, and Stone Gas are the only rooms we haven't seen. We need t
 
 Fight in the Spear Hall
 
-16 - Mip
+16 - Mip (+10 EV)
 15 - The Great Dragoon (+5 EV)
 14 - Rammik CHARMED (15, 29, 47)
-10 - Wrench (3, 9, 20)
+10 - Wrench (3, 9, 20, 35)
 8 - Gang
-	A dazed (20)
+	~~A dazed (20, 25, 30)~~
 	B dazed (20)
 	~~C dazed (40)~~
 	D (20)
 	~~E (40)~~
-4 - Steve
+4 - Steve (+18 EV)
 
 We leave our heroes on the date of ... AF, as they ...

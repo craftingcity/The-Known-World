@@ -217,6 +217,29 @@
             }
           },
           {
+            "id": "864b2192c208fe65",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Custom Class - Alchemist"
+            }
+          },
+          {
             "id": "9f17a0aabf2f059f",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -290,7 +313,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dazed",
+                "query": "elix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -514,14 +537,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17bba7903284a409",
+  "active": "4505a9dacdff5cd8",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Prenotes Mar 29 26.md",
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Volley.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
@@ -541,7 +565,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Recordkeeping/On the Hum Arcani; Guild Position.md",
     "Game Notes/Prenotes/'26/Prenotes Jan 18 26.md",
     "Game Notes/Campaign Rosters/Campaign Rosters.md",
-    "Game Notes/Campaigns.md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
