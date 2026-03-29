@@ -33,5 +33,13 @@ Boulder, Dart Halls, and Stone Gas are the only rooms we haven't seen. We need t
 
 ### What happened?
 
+Fight in the Spear Hall
+
+16 - Mip
+15 - The Great Dragoon (+5 EV)
+14 - Rammik
+10 - Wrench
+8 - Gang
+4 - Steve
 
 We leave our heroes on the date of ... AF, as they ...
