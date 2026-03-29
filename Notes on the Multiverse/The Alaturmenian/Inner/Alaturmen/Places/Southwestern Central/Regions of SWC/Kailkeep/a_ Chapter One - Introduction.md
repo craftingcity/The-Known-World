@@ -147,7 +147,9 @@ People with little to no training have been taken to the Hells as long as the He
 #### Reformed Entertainers
 Whores of glory who have turned from morality in favor of ease and selfishness. They play towards the crowd *too well* to still be a well-adjusted person, they bathe in the ichor and blood they so greedily spill for their adoring captor-fans.
 
-###### Johnlock's Gang
+###### Johnlock's Cult
+Johnlock has found his place in the world, and it is at the command of his devotees. For as mundane as he is, Johnlock is a messiah of Death and Destruction, and his disciples are their delivers.
+
 ###### Hannibal's Gang
 ###### Serina's Gang
 ###### Kho-Kade's Gang
