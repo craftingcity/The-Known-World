@@ -2,7 +2,7 @@
 tags: roster
 aliases:
 ---
-# Adventures of the GavinEmily Group
+# Adventures of the Dragoon's Greats
 ## People
 #### Mip, the Alchemist
 	- I want to make it on my own as an Alchemist

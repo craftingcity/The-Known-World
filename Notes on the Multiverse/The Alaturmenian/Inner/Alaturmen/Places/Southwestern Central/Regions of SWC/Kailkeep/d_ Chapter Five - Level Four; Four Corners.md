@@ -21,12 +21,14 @@ Getting to the game is no small task however, but the introduction of the Scoreb
 > Hailing from the fourth level of Kailkeep, Bloodylip leads the desperate remnants of a leadership dispute with brutal efficiency and an iron fist. Those who remain with Bloodylip do so out of fear of retaliation more than any benefit they may receive.
 
 #### Johnlock's Gang
+> Johnlock has found his place in the world, and it is at the command of his devotees. For as mundane as he is, Johnlock is a messiah of Death and Destruction, and his disciples are their delivers.
 
 ### Dissenters
 #### Ancients of Mountianhall
 #### Golden Claw Guard
 #### Honorable Thieves
 #### Hasten's Group
+
 ## Exploring this Place
 ### Navigation
 #### Red Rover (Entrance Game)

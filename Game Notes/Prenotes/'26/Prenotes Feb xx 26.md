@@ -43,7 +43,7 @@ We leave our heroes on the date of ... AF, as they ...
 
 --- 
 
-## Party of Interest: [[GavinEmily Game]]
+## Party of Interest: [[Dragoon's Greats Game]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep

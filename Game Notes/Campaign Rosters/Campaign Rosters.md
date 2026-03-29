@@ -6,7 +6,7 @@ aliases:
 # Campaign Rosters
 %% Begin Waypoint %%
 - [[Cathouse Game]]
-- [[GavinEmily Game]]
+- [[Dragoon's Greats Game]]
 - [[Jasper's Angels]]
 - [[Milliehouse Game]]
 - [[RHoD Test 1]]

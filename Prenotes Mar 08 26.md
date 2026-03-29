@@ -4,7 +4,7 @@ aliases:
 ---
 
 # Prenotes for March 8th
-## Party of Interest: [[GavinEmily Game]]
+## Party of Interest: [[Dragoon's Greats Game]]
 - [ ] DM Screen
 - [ ] Notepaper
 - [ ] Prep
