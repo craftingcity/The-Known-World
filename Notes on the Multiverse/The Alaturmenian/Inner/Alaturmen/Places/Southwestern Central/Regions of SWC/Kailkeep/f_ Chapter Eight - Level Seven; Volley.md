@@ -23,8 +23,8 @@ aliases:
 ### Navigation
 #### Capture the Flag (Entrance Game)
 - Capture the Flag pits up to four teams against each other in a game of cunning. The teams are collected by their volunteering or their ascent to this level.
-- A large room is staged for a dynamic combat, featuring small buildings with windows and stairs to their rooves. There are four clear "home-bases" at the corners of the room. As the game begins, a small flag glows in the center of the "home-base". 
-- The game begins as all teams enter the room.
+- A large room is staged for a dynamic combat, featuring small buildings with windows and stairs to their rooves. There are four clear "home-bases" at the corners of the room.
+- The game begins as all teams enter the room. As the game begins, a small glowing flag reveals itself in the center of each team's "home-base". When a team's flag is taken from their base to that of an opposed team, the team whose flag was taken is eliminated.
 #### Ways
 #### Slowed Killer Volley (Exit Game)
 - Slowed Killer Volley pits two teams against each other in a game of strength
