@@ -215,6 +215,29 @@
               "icon": "lucide-file",
               "title": "Prenotes Mar 29 26"
             }
+          },
+          {
+            "id": "9f17a0aabf2f059f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Alchemy Processes & Products"
+            }
           }
         ],
         "currentTab": 1
@@ -267,7 +290,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sleep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -321,8 +344,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055,
-    "collapsed": true
+    "width": 297.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -494,12 +516,13 @@
   },
   "active": "6d8444b7f4a3ec94",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+    "Prenotes Mar 29 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Volley.md",
-    "Prenotes Mar 29 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
     "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
@@ -519,7 +542,6 @@
     "Game Notes/Prenotes/'26/Prenotes Jan 18 26.md",
     "Game Notes/Campaign Rosters/Campaign Rosters.md",
     "Game Notes/Campaigns.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
