@@ -11,29 +11,29 @@
             "id": "65a8035dc8319109",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "d_ Chapter Five - Level Four; Four Corners",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"d_ Chapter Five - Level Four; Four Corners\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Kailkeep",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kailkeep\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":27},\"to\":{\"line\":24,\"ch\":27}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Kailkeep"
+              "title": "zz_ Kailkeep Clues, Nodes, and Notes"
             }
           },
           {
@@ -59,8 +59,7 @@
               "title": "a_ Chapter One - Introduction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1cb3ee94cc29948a",
@@ -493,10 +492,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4505a9dacdff5cd8",
+  "active": "65a8035dc8319109",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Volley.md",
     "Prenotes Mar 29 26.md",
