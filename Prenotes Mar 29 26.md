@@ -37,14 +37,14 @@ Fight in the Spear Hall
 
 16 - Mip
 15 - The Great Dragoon (+5 EV)
-14 - Rammik (15)
-10 - Wrench (3, )
+14 - Rammik CHARMED (15, 29, 47)
+10 - Wrench (3, 9, 20)
 8 - Gang
-	A dazed ()
-	B dazed ()
-	C dazed ()
-	D ()
-	E ()
+	A dazed (20)
+	B dazed (20)
+	~~C dazed (40)~~
+	D (20)
+	~~E (40)~~
 4 - Steve
 
 We leave our heroes on the date of ... AF, as they ...
