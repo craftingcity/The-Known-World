@@ -41,6 +41,7 @@ aliases:
 		- [[Farisaria]]
 		- [[Tjebtekken]]
 		- [[Wabys]]
+	- **Near Groundiki**
 	- **Near Kickoff**
 		- [[Bordbalt]]
 		- [[Cagaou]]
@@ -49,6 +50,8 @@ aliases:
 	- **Near Lord's Folly**
 		- [[Cetaka]]
 		- [[Raezumar]]
+	- **Near Low Hornrock**
+	- **Near Mountain Hall**
 	- **Near Tetrimoc's Blessings**
 		- [[Athenion]]
 		- [[Kamarios]]

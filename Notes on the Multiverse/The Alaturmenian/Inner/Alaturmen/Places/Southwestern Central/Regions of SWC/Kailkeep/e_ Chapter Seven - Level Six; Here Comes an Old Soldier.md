@@ -29,7 +29,7 @@ aliases:
 #### Ways
 #### Here Comes an Old Soldier / Red light, Green light (Exit Game)
 - Here Comes an Old Soldier pits up to four teams against each other in a game of stop-go combat.
-- A large room is staged for a dynamic combat, featuring small buildings with windows and stairs to their roofs. Near the top of the chamber, symmetrically placed along the perimeter, small enchanted bolt-casters are poised to strike.
+- A large room is staged for a dynamic combat, featuring small buildings with windows and stairs to their rooves. Near the top of the chamber, symmetrically placed along the perimeter, small enchanted bolt-casters are poised to strike.
 - As the teams enter the room, the game begins, and a song plays over the speakers. The song lasts roughly 6 seconds before it ends at the phrase 'Stop!' or 'Go!', chosen randomly. 
 	- End the song at the top of the round. If the phrase is 'Stop!', the bolt-casters activate, and will fire (+8, 3d4 peircing) on anyone that fails a DC 12 Acrobatics Skill Check or voluntarily moves on their turn. If the phrase is 'Go!', the bolt-casters deactivate.
 ### Detail
