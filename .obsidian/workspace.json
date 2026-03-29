@@ -4,6 +4,35 @@
     "type": "split",
     "children": [
       {
+        "id": "a8928b3afb239304",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee07b4d00a7db733",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "f_ Chapter Eight - Level Seven; Kadabbi"
+            }
+          }
+        ]
+      },
+      {
         "id": "1cb3ee94cc29948a",
         "type": "tabs",
         "children": [
@@ -60,6 +89,52 @@
             }
           },
           {
+            "id": "a6a4355eb7c8c66f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "e_ Chapter Seven - Level Six; Here Comes an Old Soldier"
+            }
+          },
+          {
+            "id": "07221a296bfd8b88",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "d_ Chapter Six - Level Five; Pick-up Sticks"
+            }
+          },
+          {
             "id": "4505a9dacdff5cd8",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -88,7 +163,8 @@
               "title": "d_ Chapter Five - Level Four; Four Corners"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4ec0e5e77683e023",
@@ -416,12 +492,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d8444b7f4a3ec94",
+  "active": "ee07b4d00a7db733",
   "lastOpenFiles": [
-    "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
-    "Prenotes Mar 29 26.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/f_ Chapter Eight - Level Seven; Kadabbi.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
+    "Prenotes Mar 29 26.md",
+    "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
     "Game Notes/Prenotes/'26/Prenotes Feb xx 26.md",
     "Prenotes Mar 08 26.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
@@ -441,9 +520,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/The Great Game.md",
     "Junie's Characters/Tiana Turing.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",

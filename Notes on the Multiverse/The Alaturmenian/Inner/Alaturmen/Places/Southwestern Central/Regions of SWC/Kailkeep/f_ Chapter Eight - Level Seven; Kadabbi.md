@@ -24,6 +24,8 @@ aliases:
 #### X (Entrance Game)
 #### Ways
 #### Slowed Killer Kadabbi (Exit Game)
+- Slowed Killer Kadabbi pits two teams against each other in a game of strength
+- A large toom is staged for 
 ### Detail
 #### False Feast
 ##### Feast of Festering Fumes

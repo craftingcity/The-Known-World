@@ -35,7 +35,7 @@ aliases:
 ### Detail
 #### Beast Barracks
 #### False Oasis
-#### Shooting Halls
+#### Shooting Gallery
 #### Evil Spleef
 #### Gladiator's Chains
 #### Kasey's Headquarters
