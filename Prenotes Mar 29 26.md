@@ -47,4 +47,8 @@ Fight in the Spear Hall
 	~~E (40)~~
 4 - Steve (+18 EV)
 
+They took Rammik into the neighboring Scoreboard Room, where they bought some items and rested.
+
+They each have roughly 40-80 points left. Rammik still has 100+.
+
 We leave our heroes on the date of ... AF, as they ...
