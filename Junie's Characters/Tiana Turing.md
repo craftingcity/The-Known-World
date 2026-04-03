@@ -257,18 +257,18 @@ We did it?
 ## Stats
 
 | L. 7 | XP: 25.250k | / 34.0k | (0) Inspiration |
-| ---- | --------- | ------- | --------------- |
-| STR  | 8  (-1)   | PRF     | +3              |
-| CON  | 13 (+1)   | M. HP   | 37 Max HP       |
-| DEX  | 16 (+3)   | AC      | (13+2*)            |
-| INT  | 20 (+5) ^ | C. HP   | 37 HP           |
-| WIS  | 14 (+2) ^ | HD      | 7d6 (6/7)       |
-| CHA  | 12 (+1)   | SPD     | 25' (5s)        |
+| ---- | ----------- | ------- | --------------- |
+| STR  | 8  (-1)     | PRF     | +3              |
+| CON  | 13 (+1)     | M. HP   | 37 Max HP       |
+| DEX  | 16 (+3)     | AC      | (13+2*)         |
+| INT  | 20 (+5) ^   | C. HP   | 24 HP           |
+| WIS  | 14 (+2) ^   | HD      | 7d6 (6/7)       |
+| CHA  | 12 (+1)     | SPD     | 25' (5s)        |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | x   | o   | o   | o   | .   | .   | .   | .    | .   |
-| o   | o   | o   | .   | .   | .   | .   |      |     |
+| x   | o   | o   | .   | .   | .   | .   |      |     |
 | o   | o   | o   | .   | .   |     |     | DC   | 16  |
 | o   |     |     |     |     |     |     | ATTK | +9  |
 
@@ -322,7 +322,7 @@ x [Thunderwave](https://dnd5e.wikidot.com/spell:thunderwave)
 o (R) [Comprehend Languages](https://dnd5e.wikidot.com/spell:comprehend-languages)
 	- **2nd Level Spells**;
 x (C) [Earthen Grasp](https://dnd5e.wikidot.com/spell:maximillians-earthen-grasp)
-x (C) [Dragon's Breath](https://dnd5e.wikidot.com/spell:dragons-breath)
+o (C) [Dragon's Breath](https://dnd5e.wikidot.com/spell:dragons-breath)
 x [Snowball Swarm](https://dnd5e.wikidot.com/spell:snillocs-snowball-swarm)
 o (F, C) [Spider Climb](https://dnd5e.wikidot.com/spell:spider-climb)
 	- **3rd Level Spells**;
