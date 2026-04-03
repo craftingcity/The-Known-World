@@ -251,6 +251,8 @@ Still in the hole. Things are alive down here, the vines and stuff.
 #### Session 26:
 Gotta fight Sledge. 
 
+#### Session 27:
+We did it?
 
 ## Stats
 
