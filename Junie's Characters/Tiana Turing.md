@@ -260,14 +260,14 @@ We did it?
 | ---- | ----------- | ------- | --------------- |
 | STR  | 8  (-1)     | PRF     | +3              |
 | CON  | 13 (+1)     | M. HP   | 37 Max HP       |
-| DEX  | 16 (+3)     | AC      | (13+2*)         |
+| DEX  | 16 (+3)     | AC      | (13)            |
 | INT  | 20 (+5) ^   | C. HP   | 24 HP           |
 | WIS  | 14 (+2) ^   | HD      | 7d6 (6/7)       |
 | CHA  | 12 (+1)     | SPD     | 25' (5s)        |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| x   | o   | o   | o   | .   | .   | .   | .    | .   |
+| x   | o   | x   | o   | .   | .   | .   | .    | .   |
 | x   | o   | o   | .   | .   | .   | .   |      |     |
 | o   | o   | o   | .   | .   |     |     | DC   | 16  |
 | o   |     |     |     |     |     |     | ATTK | +9  |
@@ -328,7 +328,7 @@ o (F, C) [Spider Climb](https://dnd5e.wikidot.com/spell:spider-climb)
 	- **3rd Level Spells**;
 x (C) [Haste](https://dnd5e.wikidot.com/spell:haste)
 x [Counterspell](https://dnd5e.wikidot.com/spell:counterspell)
-o (F) [Remove Curse](https://dnd5e.wikidot.com/spell:remove-curse)
+x (F) [Remove Curse](https://dnd5e.wikidot.com/spell:remove-curse)
 x [Tounges](https://dnd5e.wikidot.com/spell:tongues)
 o [Sending](https://dnd5e.wikidot.com/spell:sending)
 	- **4th Level Spells**;
