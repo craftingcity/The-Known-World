@@ -260,7 +260,7 @@ We did it?
 | ---- | --------- | ------- | --------------- |
 | STR  | 8  (-1)   | PRF     | +3              |
 | CON  | 13 (+1)   | M. HP   | 37 Max HP       |
-| DEX  | 16 (+3)   | AC      | (13)            |
+| DEX  | 16 (+3)   | AC      | (13+2*)            |
 | INT  | 20 (+5) ^ | C. HP   | 37 HP           |
 | WIS  | 14 (+2) ^ | HD      | 7d6 (6/7)       |
 | CHA  | 12 (+1)   | SPD     | 25' (5s)        |
@@ -293,7 +293,8 @@ We did it?
 - *Darkvision*: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light.
 - *Feat: Ritual Caster*: You have learned two spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
 	- **(R)** [Identify](https://dnd5e.wikidot.com/spell:identify), (100gp pearl)
-	- **(R)** [Find Familiar](https://dnd5e.wikidot.com/spell:find-familiar) (10gp charcoal, incense, and herbs) [Compu!](https://www.aidedd.org/dnd/monstres.php?vo=mastiff)
+	- **(R)** [Find Familiar](https://dnd5e.wikidot.com/spell:find-familiar) (10gp charcoal, incense, and herbs) 
+		[Compu!](https://www.aidedd.org/dnd/monstres.php?vo=mastiff)
 
 ##### Spellcasting (Prep 12)
 - You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
