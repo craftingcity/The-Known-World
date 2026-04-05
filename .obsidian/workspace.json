@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e06c4f0d205d675f",
+        "id": "04016b40ebf0a59e",
         "type": "tabs",
         "children": [
           {
-            "id": "f36a76de6f99705a",
+            "id": "38a60e40e31d8b4c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,43 +20,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tiana Turing"
-            }
-          }
-        ]
-      },
-      {
-        "id": "064df0bd064d1bfe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9c74629cbfdb9444",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tiana Turing"
+              "title": "New tab"
             }
           }
         ]
@@ -334,8 +301,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c74629cbfdb9444",
+  "active": "38a60e40e31d8b4c",
   "lastOpenFiles": [
+    "Junie's Characters/Tiana Turing.md",
     "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
@@ -361,7 +329,6 @@
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
     "Game Notes/NPCs/High Power/Devils/Devils.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Recordkeeping/On the Hum Arcani; Guild Position.md",
-    "Game Notes/Prenotes/'26/Prenotes Jan 18 26.md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
