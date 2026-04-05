@@ -21,7 +21,7 @@ He has shown you the 'Scoreboard' room here, and "treated" you to a satisfying m
 ### What does the World Know?
 
 ENTERTAINMENT VALUE
-Mip; (93)
+Mip; (108)
 Dragoon; (129)
 Wrench; (40)
 Steve; (94)
@@ -44,11 +44,12 @@ We're doing Four Corners;
 	D
 15 - Dragoon
 10 - Johnlock's Gang (Green)
-	A 10, 24
-	B
-	C
-	D
+	~~A 10, 24, 37~~
+	B 27, 24, 28
+	C 27
+	~~D 27~~
 5 - Doggies
+ (1)
 0 - Rammik
 
 
