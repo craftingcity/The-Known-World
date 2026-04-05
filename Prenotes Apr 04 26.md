@@ -21,14 +21,35 @@ He has shown you the 'Scoreboard' room here, and "treated" you to a satisfying m
 ### What does the World Know?
 
 ENTERTAINMENT VALUE
-Mip; (80)
-Dragoon; (120)
+Mip; (93)
+Dragoon; (129)
 Wrench; (40)
-Steve; (80)
+Steve; (94)
 Rammik; (160)
 Gob #1; (20)
 
 ### What happened?
+
+We're doing Four Corners;
+
+24 - Steve
+20 - Hasten's Group (Yellow)
+	A
+	B
+16 - Mip
+15 - Bloodylip's Pack (Red, Temp-Ally)
+	A
+	B
+	C
+	D
+15 - Dragoon
+10 - Johnlock's Gang (Green)
+	A 10, 24
+	B
+	C
+	D
+5 - Doggies
+0 - Rammik
 
 
 We leave our heroes on the date of ... AF, as they ...

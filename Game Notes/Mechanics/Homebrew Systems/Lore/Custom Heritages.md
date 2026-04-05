@@ -80,7 +80,7 @@ People with a heavy Gnoll heritage find themselves in possession of a very canin
 
 - *Age* You may live up to 75 years.
 - *Weight* You may weigh anywhere from 140 to 240 pounds.
-- You may be anywhere from 5 to 7 feet tall. Your size is Medium.
+- You may be anywhere from 5 to 7 feet tall. Your size is Medium. Your creature type is *fiend*.
 - Your base walking speed is 35 feet per round.
 - When you hit with an unarmed melee attack, you may add an additional 1d4 slashing damage to the damage you would normally deal.
 - When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make an unarmed melee attack.
