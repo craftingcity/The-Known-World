@@ -34,17 +34,17 @@ Gob #1; (20)
 15 - Bloodylip's Pack (Red)
 	A (9, 19, 20, 23, 31)
 	B (13)
-	C (26)
-	D (13)
+	~~C (26, 40)~~
+	~~D (13, 17, 39)~~
 15 - Dragoon
 13 - Wrench
 10 - Johnlock's Gang (Green)
 	~~A 10, 24, 37~~
-	B 27, 24, 28, 35
+	B 27, 24, 28, 35, 30
 	C 27
 	~~D 27~~
 5 - Doggies
-0 - Rammik (18, 13)
+0 - Rammik PotOHeals I (18, 13, 23, 26)
 
 #### Escape Room
 
