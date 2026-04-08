@@ -21,10 +21,10 @@ Your fruitless tribulations continue as we return to battle...
 ### What does the World Know?
 
 #### ENTERTAINMENT VALUE
-Mip; (108)
-Dragoon; (140)
-Wrench; (40)
-Steve; (94)
+Mip; (119)
+Dragoon; (152)
+Wrench; (46)
+Steve; (107)
 Rammik; (160)
 Gob #1; (20)
 
@@ -32,16 +32,16 @@ Gob #1; (20)
 24 - Steve
 16 - Mip
 15 - Bloodylip's Pack (Red)
-	A (9, 19, 20, 23, 31)
-	B (13)
+	~~A (9, 19, 20, 23, 31, 49, 62)~~
+	~~B (13)~~
 	~~C (26, 40)~~
 	~~D (13, 17, 39)~~
 15 - Dragoon
 13 - Wrench
 10 - Johnlock's Gang (Green)
 	~~A 10, 24, 37~~
-	B 27, 24, 28, 35, 30
-	C 27
+	~~B 27, 24, 28, 35, 30~~
+	~~C 27, ~~
 	~~D 27~~
 5 - Doggies
 0 - Rammik PotOHeals I (18, 13, 23, 26)
