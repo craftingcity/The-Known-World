@@ -58,8 +58,32 @@
               "icon": "lucide-file",
               "title": "d_ Chapter Five - Level Four; Four Corners"
             }
+          },
+          {
+            "id": "e6f167931ad02503",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Alchemy Processes & Products"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "04016b40ebf0a59e",
@@ -138,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gnoll",
+                "query": "ashmaker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -362,10 +386,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17bba7903284a409",
+  "active": "e6f167931ad02503",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
     "Prenotes Apr 04 26.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Prenotes Mar 29 26.md",
     "Junie's Characters/Tiana Turing.md",
