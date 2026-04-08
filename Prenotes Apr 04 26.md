@@ -20,7 +20,7 @@ He has shown you the 'Scoreboard' room here, and "treated" you to a satisfying m
 
 ### What does the World Know?
 
-ENTERTAINMENT VALUE
+#### ENTERTAINMENT VALUE
 Mip; (108)
 Dragoon; (129)
 Wrench; (40)
