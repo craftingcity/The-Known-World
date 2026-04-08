@@ -59,7 +59,9 @@ Gob #1; (20)
 	- The Blue card is hidden among a large collection of books within a library. There is not an indication in which book it is hidden, and the destruction of the library is the intended solution for a "quick" solve. 
 	- When all three cards are collected and returned to the entrance, the timer stops, opens the way into the rest of the level, and produces a **Token**.
 
-####
+#### Into Pick-Up Sticks
+
+Escape Room -> Beast Barracks -> Clean Ooze, Blood For Coin, Burning Hallway, -> Yellowback's Lair, Bouncy House, Puppet's Game -> Mercy, Bernet's Lair, Go Fish! -> Exit to L6
 
 ### What happened?
 
