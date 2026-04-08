@@ -31,8 +31,8 @@ Gob #1; (20)
 #### Four Corners Battle
 24 - Steve
 20 - Hasten's Group (Yellow)
-	A
-	B
+	A (7)
+	B (13, 26)
 16 - Mip
 15 - Bloodylip's Pack (Red, Temp-Ally)
 	A
@@ -42,7 +42,7 @@ Gob #1; (20)
 15 - Dragoon
 10 - Johnlock's Gang (Green)
 	~~A 10, 24, 37~~
-	B 27, 24, 28
+	B 27, 24, 28, 35
 	C 27
 	~~D 27~~
 5 - Doggies
