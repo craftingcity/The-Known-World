@@ -1,20 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "All-Father Annam",
+      "path": "Game Notes/NPCs/Absolute Power/All-Father Annam.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "DATABASE",
+      "path": "DATABASE.base"
+    },
+    {
+      "basename": "Economy",
+      "path": "ORGANIZATION/TEMPLATES/Economy.md"
+    },
+    {
+      "basename": "Prenotes Mar 29 26",
+      "path": "Game Notes/Prenotes/'26/Prenotes Mar 29 26.md"
+    },
+    {
+      "basename": "Prenotes Mar 22 26",
+      "path": "Game Notes/Prenotes/'26/Prenotes Mar 22 26.md"
+    },
+    {
+      "basename": "Prenotes Mar 08 26",
+      "path": "Game Notes/Prenotes/'26/Prenotes Mar 08 26.md"
+    },
+    {
+      "basename": "Prenotes April 07 26",
+      "path": "Game Notes/Prenotes/'26/Prenotes April 07 26.md"
+    },
+    {
+      "basename": "Prenotes Apr 04 26",
+      "path": "Game Notes/Prenotes/'26/Prenotes Apr 04 26.md"
+    },
+    {
+      "basename": "Istratige",
+      "path": "Game Notes/NPCs/Absolute Power/Archdevil NPCs/Istratige.md"
+    },
+    {
+      "basename": "Prinkipas",
+      "path": "Game Notes/NPCs/Absolute Power/Archdevil NPCs/Prinkipas.md"
+    },
+    {
+      "basename": "Psycra",
+      "path": "Game Notes/NPCs/Absolute Power/Archdevil NPCs/Psycra.md"
+    },
+    {
+      "basename": "Syndeomai",
+      "path": "Game Notes/NPCs/Absolute Power/Archdevil NPCs/Syndeomai.md"
+    },
+    {
+      "basename": "Tektonas",
+      "path": "Game Notes/NPCs/Absolute Power/Archdevil NPCs/Tektonas.md"
+    },
+    {
+      "basename": "Vasani",
+      "path": "Game Notes/NPCs/Absolute Power/Archdevil NPCs/Vasani.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "Game Notes/NPCs/NPCs.md"
+    },
+    {
+      "basename": "Game Notes",
+      "path": "Game Notes/Game Notes.md"
+    },
+    {
       "basename": "d_ Chapter Six - Level Five; Pick-up Sticks",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md"
     },
     {
-      "basename": "Prenotes April 07 26",
-      "path": "Prenotes April 07 26.md"
-    },
-    {
       "basename": "d_ Chapter Five - Level Four; Four Corners",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md"
-    },
-    {
-      "basename": "Prenotes Apr 04 26",
-      "path": "Prenotes Apr 04 26.md"
     },
     {
       "basename": "Alchemy Processes & Products",
@@ -23,10 +83,6 @@
     {
       "basename": "Kailkeep",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md"
-    },
-    {
-      "basename": "Prenotes Mar 29 26",
-      "path": "Prenotes Mar 29 26.md"
     },
     {
       "basename": "Tiana Turing",
@@ -57,10 +113,6 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md"
     },
     {
-      "basename": "Prenotes Mar 08 26",
-      "path": "Prenotes Mar 08 26.md"
-    },
-    {
       "basename": "Dragoon's Greats Game",
       "path": "Game Notes/Campaign Rosters/Dragoon's Greats Game.md"
     },
@@ -79,10 +131,6 @@
     {
       "basename": "Custom Features",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
-    },
-    {
-      "basename": "Prenotes Mar 22 26",
-      "path": "Prenotes Mar 22 26.md"
     },
     {
       "basename": "Magical Items of Note",
@@ -151,54 +199,6 @@
     {
       "basename": "z_ Appendix B; Unique Items",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/z_ Appendix B; Unique Items.md"
-    },
-    {
-      "basename": "Prenotes Feb 01 26",
-      "path": "Game Notes/Prenotes/'26/Prenotes Feb 01 26.md"
-    },
-    {
-      "basename": "Prenotes Jan 16 26",
-      "path": "Game Notes/Prenotes/'26/Prenotes Jan 16 26.md"
-    },
-    {
-      "basename": "Arstovich",
-      "path": "Game Notes/NPCs/High Power/True Villian NPCs/Arstovich.md"
-    },
-    {
-      "basename": "Millnyr",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Millnyr.md"
-    },
-    {
-      "basename": "DATABASE",
-      "path": "DATABASE.base"
-    },
-    {
-      "basename": "The Arstoviches",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md"
-    },
-    {
-      "basename": "Major Agricultural Harvests",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md"
-    },
-    {
-      "basename": "Yerba",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md"
-    },
-    {
-      "basename": "Moonlight",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Moonlight.md"
-    },
-    {
-      "basename": "Gambleum",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Gambleum.md"
-    },
-    {
-      "basename": "Magius",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Magius.md"
-    },
-    {
-      "basename": "Janesland",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Janesland.md"
     }
   ],
   "omittedPaths": [],

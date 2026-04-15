@@ -17,7 +17,7 @@ content:
 
 Three beings beyond undestanding create the Weave, the fabric of reality. 
 
-To begin the tapestry of time, these beings created Titans; they crafted the [[Jabbawok]], molded the [[All-Father Annam]], and forged [[Asmodeus]] - and the remants cobbled themselves together into the [[Demogorgon]].
+To begin the tapestry of time, these beings created Titans; they molded the [[All-Father Annam]], crafted the [[Jabbawok]], and forged [[Asmodeus]] - while the remant scraps cobbled themselves together into the [[Demogorgon]].
 
 date: 85xxxTBT
 title: Annam rips, tears, sews - creates.

@@ -11,9 +11,15 @@ for the graph: [[Here lie my suppliments...]]
 	- **[[Alaturmian God NPCs]]**
 	- [[All-Father Annam]]
 	- [[Annaraura]]
-	- **[[Demon Lord NPCs]]**
-	- **Devil Prince NPCs**
+	- **Archdevil NPCs**
 		- [[Asmodeus]]
+		- [[Istratige]]
+		- [[Prinkipas]]
+		- [[Psycra]]
+		- [[Syndeomai]]
+		- [[Tektonas]]
+		- [[Vasani]]
+	- **[[Demon Lord NPCs]]**
 	- [[Grand Pantheon]]
 	- [[Karenos, River's Keeper]]
 	- [[Kor-ket]]

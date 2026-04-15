@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - '!file.tags.containsAny("folderfile", "notes")'
+        - '!file.tags.containsAny("folderfile", "notes", "template")'
         - '!file.ext.containsAny("png", "pdf", "jpg", "webm", "odt", "drawio", "py", "ods", "pdn", "json", "odp", "base", "yml")'
     order:
       - file.name

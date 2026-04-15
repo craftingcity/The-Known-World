@@ -1,5 +1,7 @@
 ---
-tags: economy
+tags: 
+- economy
+- template
 aliases:
 ---
 
