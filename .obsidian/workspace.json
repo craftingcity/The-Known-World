@@ -6,7 +6,6 @@
       {
         "id": "a4e6d4f685f58a59",
         "type": "tabs",
-        "dimension": 65.93915343915344,
         "children": [
           {
             "id": "996e1e44a844b766",
@@ -29,16 +28,9 @@
               "icon": "lucide-table",
               "title": "DATABASE"
             }
-          }
-        ]
-      },
-      {
-        "id": "ff1c34decc8b97f7",
-        "type": "tabs",
-        "dimension": 34.06084656084656,
-        "children": [
+          },
           {
-            "id": "664a9f5ed30c1c92",
+            "id": "31808b63de2fc474",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -52,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Timeline"
+              "title": "Guild of Wizards"
             }
           }
         ]
@@ -336,9 +328,11 @@
   },
   "active": "996e1e44a844b766",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+    "DATABASE.base",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Speaker Vanavar.md",
     "Game Notes/NPCs/Absolute Power/All-Father Annam.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
-    "DATABASE.base",
     "ORGANIZATION/TEMPLATES/Economy.md",
     "Game Notes/Prenotes/'26/Prenotes Mar 29 26.md",
     "Game Notes/Prenotes/'26/Prenotes Mar 22 26.md",
@@ -361,8 +355,6 @@
     "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/zz_ Kailkeep Clues, Nodes, and Notes.md",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
     "Game Notes/Prenotes/'26",
