@@ -14,7 +14,7 @@ The region of Littetavarse is hilly and covered in ashen forest. The region is g
 ### Flora
 ### Scenarios
 #### A2. Touchstone
-	- An earthen spike erupts from the ground in this place, standing at 7' tall, it hides among the surrounding tree husks. Many hundreds of names are inscribed into the stone in elven - both ancient and modern.
+	- An earthen spike erupts from the ground in this place, standing at 7' tall, it hides among the surrounding tree husks. Many hundreds of names are inscribed into the stone in [[Sylvan (language)]].
 #### A3. Watch Cave
 	- A natural cave has been outfitted to host a shrine to [[Its Greatness]] and host a refuge for those in need. Some poor sleeping and cooking accommodations are present here, as well as a fine stone brazier that holds a [[Its Greatness|White Flame]] and dwindling fuel supplies.
 #### A4. Iron Cave
@@ -23,7 +23,7 @@ The region of Littetavarse is hilly and covered in ashen forest. The region is g
 	- The terrain here is muddy and rough, rolling even. A large pit has been contained by a rusting iron framework of beams and short walls. Atop the framework, a cylinder bearing the symbol of the Church of White Flame.
 	- The area around the pit will occasionally shift and rumble to reveal portions of 'bog iron'.
 #### A6. Necro-garden
-	- In the transition from forest to plains, a mound of grey flora hides an enscripted circle of infernal intent. Low-level creatures who are dead or die here are resurrected as Fallen of Minyostalma after 6 hours.
+	- In the transition from forest to plains, a mound of grey flora hides an enscripted circle of malintent. Low-level creatures who are dead or die here are resurrected as Fallen of Minyostalma after 6 hours.
 #### B1. Rock Flower
 	- A small formation of overgrown rocks on the ground make the shape of a sunflower. The center of the flower can be reached through into the ground, where a small pocket of warm yellow sand rests.
 #### B2. Ancient Sentinel
