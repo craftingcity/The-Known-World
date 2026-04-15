@@ -63,14 +63,14 @@ Down the chain of command in the [[Ceilie Courts]], the opportunity came forth t
 Many Eladrin jumped upon the opportunity, and formed a new kind, the Elves. For ten years they raised them, and promised them a new land.
 
 date: 00000TBT~AF
-title: [[All-Father Annam]] and [[Tetrimoc]] battle to the death.
+title: [[All-Father Annam]] and the [[Immortal Dragons]] battle to the death.
 content:
 
 The contention between the All-Father and the Immortal Dragons became too much. War broke, and throughout the Planes, the Immortal Dragons flocked to [[The Tower of Limbo]], above which, they challanged [[All-Father Annam]] to a seiries of duels. 
 
 After years of battle, as immovable objects met unstoppable force, all the Immortal Dragons but [[Tetrimoc]] fell to the [[All-Father Annam]]. As the final Immortal Dragon took his battle stance, the greatest Titan of the multiverse stumbled. 
 
-Tetrimoc ripped open Annam's chest, breaking his ribcage to it's marrow, rendering his flesh and organs disconnected from his form. In a brilliant death, the [[All-Father Annam]] grasped [[Tetrimoc]] and shoved him into his now-destroyed torso, and expelled all his effort and energy, and died.
+Tetrimoc ripped open Annam's chest, breaking his ribcage to it's marrow, rendering his flesh and organs disconnected from his form. In a death-throe, the [[All-Father Annam]] grasped [[Tetrimoc]] and shoved him into his now-destroyed torso, expelled all his effort and energy, and died.
 
 At the center of the multiverse, [[Alaturmen]] formed.
 ```

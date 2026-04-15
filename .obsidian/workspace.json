@@ -29,32 +29,8 @@
               "icon": "lucide-table",
               "title": "DATABASE"
             }
-          },
-          {
-            "id": "cd5f29746f475bf8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/Absolute Power/All-Father Annam.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "All-Father Annam"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ff1c34decc8b97f7",
@@ -358,10 +334,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd5f29746f475bf8",
+  "active": "996e1e44a844b766",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Game Notes/NPCs/Absolute Power/All-Father Annam.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "DATABASE.base",
     "ORGANIZATION/TEMPLATES/Economy.md",
     "Game Notes/Prenotes/'26/Prenotes Mar 29 26.md",
