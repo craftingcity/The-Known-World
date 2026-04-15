@@ -14,7 +14,7 @@ aliases:
 - **[['25]]**
 - **'26**
 	- [[Prenotes Apr 04 26]]
-	- [[Prenotes April 07 26]]
+	- [[Prenotes Apr 07 26]]
 	- [[Prenotes Feb 01 26]]
 	- [[Prenotes Feb xx 26]]
 	- [[Prenotes Jan 03 26]]
