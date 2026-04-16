@@ -52,7 +52,7 @@ aliases:
 #### F13.
 #### G5. Korrin's Boulder
 	- Beneath a four-foot diameter boulder, the skeleton of a goblin is pinned by its right leg. A group of [[Macht's Orcs]] keep a camp here. They are well equipped with magical equipment.
-#### G6. 
+#### G6. Halam's Crypt
 #### G9.
 #### G10.
 #### G11.
