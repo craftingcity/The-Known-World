@@ -43,8 +43,8 @@ aliases:
 #### F4. North Faithroad Checkpoint
 #### F5. [[Andonath]]
 #### F6. [[Odaya]]
-#### F7.
-#### F8.
+#### F7. Odayan Lumber Mills
+#### F8. Massive Clearing
 #### F9. Druid's Wight
 #### F10.
 #### F11.
