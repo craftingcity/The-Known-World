@@ -36,9 +36,9 @@ aliases:
 #### E8. [[Warzus]] 
 #### E9. Ruins of Sisharif
 #### E10. Sisharif's Dark Oil Wells
-#### E11.
-#### E12.
-#### E13.
+#### E11. Spirit's Grove
+#### E12. Dovanis, Ruined
+#### E13. 
 #### F3. Broken Hills
 #### F4. North Faithroad Checkpoint
 #### F5. [[Andonath]]
@@ -47,7 +47,7 @@ aliases:
 #### F8. Massive Clearing
 #### F9. Druid's Wight
 #### F10. Coven House
-#### F11.
+#### F11. 
 #### F12.
 #### F13.
 #### G5. Korrin's Boulder
