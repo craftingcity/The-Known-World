@@ -35,7 +35,7 @@ aliases:
 #### E7. [[Odaya]]'s Pathlands
 #### E8. [[Warzus]] 
 #### E9. Ruins of Sisharif
-#### E10. 
+#### E10. Sisharif's Dark Oil Wells
 #### E11.
 #### E12.
 #### E13.
@@ -46,7 +46,7 @@ aliases:
 #### F7. Odayan Lumber Mills
 #### F8. Massive Clearing
 #### F9. Druid's Wight
-#### F10.
+#### F10. Coven House
 #### F11.
 #### F12.
 #### F13.
