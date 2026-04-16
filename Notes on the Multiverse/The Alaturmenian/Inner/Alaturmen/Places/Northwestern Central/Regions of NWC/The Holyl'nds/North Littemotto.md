@@ -19,21 +19,21 @@ aliases:
 #### C7. Temple of Winter
 #### C8. Cursed Cave
 #### C9. Burned Pit
-#### C10. Surabous' Growing Scar
+#### C10. [[Surabous]]' Growing Scar
 #### C11. Seaside Temple
-#### D5. 
-#### D6.
-#### D7.
-#### D8.
+#### D5. Allora's Cabin
+#### D6. [[Omnid]] Pastures
+#### D7. Brindle's Inn and Gardens
+#### D8. 
 #### D9.
-#### D10.
+#### D10. [[Yagil]]
 #### D11.
 #### D12.
 #### E4. Wanton Graveyard
 #### E5.
 #### E6.
 #### E7.
-#### E8.
+#### E8. [[Warzus]] 
 #### E9.
 #### E10.
 #### E11.
@@ -41,8 +41,8 @@ aliases:
 #### E13.
 #### F3. Broken Hills
 #### F4. North Faithroad Checkpoint
-#### F5.
-#### F6.
+#### F5. [[Andonath]]
+#### F6. [[Odaya]]
 #### F7.
 #### F8.
 #### F9. Druid's Wight
