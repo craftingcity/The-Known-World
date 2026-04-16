@@ -25,7 +25,7 @@ aliases:
 #### D6. [[Omnid]] Pastures
 #### D7. Brindle's Inn and Gardens
 #### D8. Fielatue's Grave
-#### D9. Roadside Pastures
+#### D9. Yagil's Roadside Pastures
 #### D10. [[Yagil]]
 #### D11. [[Neih Aqaue]]
 #### D12. Hawklynn Forest
@@ -34,8 +34,8 @@ aliases:
 #### E6. Andee Trail
 #### E7. [[Odaya]]'s Pathlands
 #### E8. [[Warzus]] 
-#### E9.
-#### E10.
+#### E9. Ruins of Sisharif
+#### E10. 
 #### E11.
 #### E12.
 #### E13.
