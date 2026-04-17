@@ -415,7 +415,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "katz",
+                "query": "pilgrimage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -469,8 +469,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055,
-    "collapsed": true
+    "width": 297.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -660,7 +659,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e44f8c7bf0c9867",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",

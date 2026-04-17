@@ -47,16 +47,16 @@ aliases:
 #### F8. Massive Clearing
 #### F9. Druid's Wight
 #### F10. Coven House
-#### F11. 
-#### F12.
-#### F13.
+#### F11. Pointed Scar
+#### F12. "Halfway-to-Dead" Camp
+#### F13. Stinking Foothills
 #### G5. Korrin's Boulder
 	- Beneath a four-foot diameter boulder, the skeleton of a goblin is pinned by its right leg. A group of [[Macht's Orcs]] keep a camp here. They are well equipped with magical equipment.
 #### G6. Halam's Crypt
-#### G9. Isolated Village
-#### G10.
-#### G11.
-#### G12.
+#### G9. Abandoned Homestead
+#### G10. Pilgrim's Rest
+#### G11. Standing Stones
+#### G12. 
 #### G13.
 #### G14.
 #### G15.
