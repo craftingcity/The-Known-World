@@ -9,19 +9,19 @@ The Central Holyl'nd is comfortably squeezed between the [[North Littemotto]] an
 ## Contents
 ### Flora
 ### Scenarios
-#### G7.
+#### G7. [[Halastir]] Pastures
 #### G8.
 #### G17.
 #### H5. Hot Gate
-#### H6. 
-#### H7.
-#### H8.
+#### H6. Avishalom Homestead
+#### H7. Cold Field
+#### H8. Scout Tower
 #### H9.
 #### H10.
 #### H11.
 #### H15. [[The Old]] (visible)
 	- Great buildings and statues of fine stone have been ruined with age and damage. This was once a great elven city, but has since fallen beyond disrepair into ruin, for none have dwelled in this place for many dozens of years.
-#### I6. 
+#### I6. Icon of Baskin
 #### I9.
 #### I10.
 #### I11.
