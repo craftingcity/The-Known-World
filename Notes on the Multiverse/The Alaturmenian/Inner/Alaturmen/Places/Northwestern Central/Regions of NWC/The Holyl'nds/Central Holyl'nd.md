@@ -12,7 +12,7 @@ The Central Holyl'nd is comfortably squeezed between the [[North Littemotto]] an
 #### G7.
 #### G8.
 #### G17.
-#### H5.
+#### H5. Hot Gate
 #### H6.
 #### H7.
 #### H8.
