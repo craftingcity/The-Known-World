@@ -254,6 +254,9 @@ Gotta fight Sledge.
 #### Session 27:
 We did it?
 
+#### Session 28:
+Maybe we didn't, we're doing the part two of the Boss fight.
+
 ## Stats
 
 | L. 7 | XP: 25.250k | / 34.0k | (0) Inspiration |
@@ -267,7 +270,7 @@ We did it?
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| x   | o   | x   | o   | .   | .   | .   | .    | .   |
+| x   | x   | x   | o   | .   | .   | .   | .    | .   |
 | x   | o   | o   | .   | .   | .   | .   |      |     |
 | o   | o   | o   | .   | .   |     |     | DC   | 16  |
 | o   |     |     |     |     |     |     | ATTK | +9  |
@@ -354,7 +357,7 @@ At 4th level, Tiana takes the [[#Telekinetic]] Feat;
 - You can cast *mage hand* without verbal or somatic components, and you can make the spectral hand invisible.
 - As a bonus action, you can try to *telekinetically shove* one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward or away from you. A creature can willingly fail this save.
 
-##### Manifest Mind (BA, 1/1+ summon, 3/3 spells)
+##### Manifest Mind (BA, 1/1+ summon, 2/3 spells)
 At 6th level, as a bonus action, while you are holding the Awakened Spellbook, you can cause it to manifest as a Tiny spectral object, hovering in an unoccupied space of your choice within 60 feet of you. The Awakened Spellbook is *intangible* and *doesn't occupy its space*, and it *sheds dim light in a 10-foot radius*.
 
 While manifested, the Awakened Spellbook *can hear and see*, and it has darkvision with a range of 60 feet. The Awakened Spellbook can telepathically share with you what it sees and hears (no action required). You can cast spells on your turn as if you were in the Awakened Spellbook's space a number of times equal to your proficiency bonus per long rest.
