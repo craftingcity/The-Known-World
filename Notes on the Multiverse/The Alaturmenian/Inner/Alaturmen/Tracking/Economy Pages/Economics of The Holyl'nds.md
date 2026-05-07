@@ -6,7 +6,7 @@ aliases:
 # Holyl'nd's Economy
 ## As suggested by Grains into Gold
 ### Prelim
-The Holyl'nds were once part of a [[Great Northern Forests|large forest]] that has since [[Great Fires|burnt down]]. Now, a wasteland prospers in the shadow of [[Its Greatness|It's]] glorious [[The Church of the White Flame|Church of Flame]]. The Holyl'nds experience cold, wet weather patterns.
+The Holyl'nds were once part of a [[Great Northern Forests|large forest]] that has since [[Great Fires|burnt down]]. Now, a wasteland prospers in the shadow of [[Its Greatness|It's]] glorious [[The Church of the White Flame|Church of Flame]]. The Holyl'nds experience cold, wet weather patterns. The grass here is typically a dull grey, centered and tipped in a bright orange.
 
 ### "White" Corn
 The fine silty soil of this land does not grow any grain other than a type of white maize. This is typically formed into a bread.
