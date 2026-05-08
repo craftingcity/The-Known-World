@@ -4,7 +4,8 @@ aliases:
 ---
 # Name
 ## Lycanthropic Human
-## Paladin of (a god?)
+## Paladin of Crowns
+## Follower of Avandra
 ### she/they/it
 
 > Boxtext for an action, outfit, and a physical trait.
