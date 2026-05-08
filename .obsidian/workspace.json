@@ -620,87 +620,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "ce7f0381e28fa761",
-    "type": "floating",
-    "children": [
-      {
-        "id": "16ec178615337fae",
-        "type": "window",
-        "children": [
-          {
-            "id": "6b89acf667e6739b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "783fb6c4dfb1b477",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Junie's Characters/Tiana Turing.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tiana Turing"
-                }
-              }
-            ]
-          },
-          {
-            "id": "d3473cb06c4398eb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "65bbb803eb7c3782",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Unnamed Shifter Paladin Character.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Unnamed Shifter Paladin Character"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 524,
-        "y": 0,
-        "width": 1511,
-        "height": 1400,
-        "maximize": true,
-        "zoom": -1.5
-      }
-    ]
-  },
-  "active": "65bbb803eb7c3782",
+  "active": "c704642f2c87459c",
   "lastOpenFiles": [
-    "Junie's Characters/Tiana Turing.md",
     "Unnamed Shifter Paladin Character.md",
+    "Junie's Characters/Tiana Turing.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
     "Game Notes/NPCs/High Power/True Villian NPCs/Arstovich.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/South Littemotto.md",
