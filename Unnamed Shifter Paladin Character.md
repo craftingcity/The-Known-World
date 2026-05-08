@@ -27,7 +27,7 @@ A description of their function in the world.
 
 | L. 0 | XP: 0 | / 300 | (0) Inspiration |
 | ---- | ----- | ----- | --------------- |
-| STR  | x  () | PRF   | +2              |
+| STR  | x ()  | PRF   | +2              |
 | CON  | x ()  | M. HP | X Max HP        |
 | DEX  | x ()  | AC    | (X)             |
 | INT  | x ()  | C. HP | X HP            |
