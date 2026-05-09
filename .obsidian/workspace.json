@@ -619,58 +619,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "718f40bbe707dcb8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "eea6f809937286b2",
-        "type": "window",
-        "children": [
-          {
-            "id": "4d45f2e9ccfb50cf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a28938acf6e19cab",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Unnamed Shifter Paladin Character.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Unnamed Shifter Paladin Character"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -8,
-        "y": -8,
-        "width": 1296,
-        "height": 1416,
-        "maximize": false,
-        "zoom": -1.5
-      }
-    ]
-  },
-  "active": "a28938acf6e19cab",
+  "active": "954ad52fec6cbbb4",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range/Deakred Range.md",
     "Unnamed Shifter Paladin Character.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range/Deakred Range.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
     "Junie's Characters/Tiana Turing.md",
     "Game Notes/NPCs/High Power/True Villian NPCs/Arstovich.md",
