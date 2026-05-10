@@ -2,7 +2,7 @@
 tags: npc
 aliases:
 ---
-# Name
+# Luna
 ## Lycanthropic Human, Ruined
 ## Paladin of Crowns
 ## Follower of Avandra
@@ -49,6 +49,7 @@ A description of their function in the world.
 - Stealth
 - Survival
 - Perception
+- Lycanthropy
 
 ##### Languages
 - Common
@@ -63,11 +64,8 @@ A description of their function in the world.
 ##### Darkvision
 - You have 60 feet of darkvision.
 
-##### Shifting, Eberron Beasthide
-- As a bonus action, you transform for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. 
-- When you shift, you gain temporary hit points equal to 1d6 + your level + your Constitution modifier (minimum of 1 temporary hit point).
-- While shifted, your AC increases by 1.
-- Once you shift, you can’t do so again until you finish a short or long rest.
+##### Lycanthropy
+- You will turn under the light of the full moon or greater stressors. If you would resist the turning, make a Lycanthropy check.
 
 ##### Divine Sense
 - As an action, until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. 
