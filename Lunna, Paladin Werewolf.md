@@ -2,7 +2,7 @@
 tags: npc
 aliases:
 ---
-# Luna
+# Lunna // Annul
 ## Lycanthropic Human, Ruined
 ## Paladin of Crowns
 ## Follower of Avandra
@@ -25,14 +25,14 @@ A description of their function in the world.
 
 ## Stats
 
-| L. 0 | XP: 0 | / 300 | (0) Inspiration |
-| ---- | ----- | ----- | --------------- |
-| STR  | x ()  | PRF   | +2              |
-| CON  | x+2 ()  | M. HP | 10+CON Max HP        |
-| DEX  | x ()  | AC    | (X)             |
-| INT  | x ()  | C. HP | 10+CON HP            |
+| L. 0 | XP: 0  | / 300 | (0) Inspiration |
+| ---- | ------ | ----- | --------------- |
+| STR  | x+1 () | PRF   | +2              |
+| CON  | x+1 () | M. HP | 10+CON Max HP   |
+| DEX  | x ()   | AC    | (11 // 12 & )             |
+| INT  | x ()   | C. HP | 10+CON HP       |
 | WIS  | x () ^ | HD    | 1d10 (1/1)      |
-| CHA  | x () ^ | SPD   | 30' (6s)        |
+| CHA  | x () ^ | SPD   | 30' // 40'        |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
@@ -44,12 +44,12 @@ A description of their function in the world.
 #### Proficiencies
 ##### Skills
 - Athletics
-- Insight
-- Intimidation
 - Stealth
-- Survival
 - Perception
+- Survival
 - Lycanthropy
+- Intimidation
+
 
 ##### Languages
 - Common
@@ -65,7 +65,9 @@ A description of their function in the world.
 - You have 60 feet of darkvision.
 
 ##### Lycanthropy
-- You will turn under the light of the full moon or greater stressors. If you would resist the turning, make a Lycanthropy check.
+- You will turn under the light of the full moon or in reaction to surging emotions, or otherwise to your DM's discretion.
+- While turned, you are compelled to take the Attack Action on your turn, you gain immunity to non-magical and/or non-silvered piercing, slashing and bludgeoning damage, you gain advantage on Perception Checks.
+	- If you would resist your turning or taking the Attack Action, make a Lycanthropy Check.
 
 ##### Divine Sense
 - As an action, until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. 
