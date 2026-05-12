@@ -10,10 +10,12 @@ aliases:
 
 > Boxtext for an action, outfit, and a physical trait.
 
-A description of their function in the world.
+Lunna was a dreadfully boring girl. She liked dolls, and dogs, and cute things. She liked her family, she liked the place they lived, and she even liked the church sometimes. She was becoming an adult. Weeks away from celebrating her 17th year of life, she was attacked in the woods that surround her home. Some beast thing, covered in fur and blood and danger, she remembers - but why it did not kill her she doesnt know. She doesn't quite understand. She wishes it had, and perhaps her story could have been short and sweet. But it did not, so instead, the ink of her story is written in blood, sweat, teeth, and claws. She is not cute. She is not sweet. She is a beast. But she is no monster.
 
 ## Roleplaying
-### Quote
+###### "I am ***not*** a monster!"
+Lunna is...
+	- STEADFAST
 
 ### Mannerism & Disposition
 
