@@ -66,8 +66,9 @@ A description of their function in the world.
 
 ##### Lycanthropy
 - You will turn under the light of the full moon or in reaction to surging emotions, or otherwise to your DM's discretion.
-- While turned, you are compelled to take the Attack Action on your turn, you gain immunity to non-magical and/or non-silvered piercing, slashing and bludgeoning damage, you gain advantage on Perception Checks.
-	- If you would resist your turning or taking the Attack Action, make a Lycanthropy Check.
+- While turned, you are compelled to take the Attack Action on your turn, you gain immunity to non-magical and/or non-silvered piercing, slashing and bludgeoning damage, you gain advantage on Perception Checks based on Sound or Smell, and you cannot speak.
+- While turned, you may make a Multiattack of one *Bite* (STR+PROF, 1d8+STR) and one *Claw* (STR+PROF, 2d4+STR) Attack.
+	- If you would resist your turning or taking the Attack Action, make a Lycanthropy Check. If you fail, you continue anyways (and experience some consequence?).
 
 ##### Divine Sense
 - As an action, until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. 
