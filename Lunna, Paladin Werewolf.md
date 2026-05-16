@@ -10,9 +10,9 @@ aliases:
 
 > Boxtext for an action, outfit, and a physical trait.
 
-Lunna was a dreadfully boring girl. She liked dolls, and dogs, and cute things. She liked her family, she liked the place they lived, and she even liked the church sometimes. She was becoming an adult. Weeks away from celebrating her 17th year of life, she was attacked in the woods that surround her home. Some beast thing, covered in fur and blood and danger, she remembers - but why it did not kill her she doesnt know. She doesn't quite understand. She wishes it had, and perhaps her story could have been short and sweet. 
+Lunna was a dreadfully boring girl. She liked dolls, dogs, and other cute things. She liked her family, she liked the place they lived, and she even liked the church. She was becoming an adult, weeks away from celebrating her 17th year of life, when she was attacked in the woods that surround her home. Some beast-thing, covered in fur and blood and danger, she remembers - but why it did not kill her she doesn't know. She doesn't quite understand. She wishes it had, in truth, and perhaps her story could have been short and sweet. 
 
-But it didn't. So, instead, the ink of her story is written in her own blood, sweat, teeth, and claws. She is not cute. She is not sweet. She is a beast. But she is no monster.
+But it didn't. So, instead, the ink of her story is written in own blood and sweat, her quill of tooth and claw. She is not cute. She is not sweet. She is a beast. But she refuses to be a Monster.
 
 ## Roleplaying
 ###### "I am ***not*** a monster!"
@@ -23,8 +23,12 @@ Lunna is...
 
 ### Mannerism & Disposition
 
+- Lunna is 
+
 ### Background
 #### Early Life
+Lunna was born in a small town to a family of cattle ranchers. She had three brothers, two older and one younger, 
+
 
 ## Important Knowledge
 
@@ -55,7 +59,6 @@ Lunna is...
 - Survival
 - Lycanthropy
 - Intimidation
-
 
 ##### Languages
 - Common
