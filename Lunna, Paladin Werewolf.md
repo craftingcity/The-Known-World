@@ -27,7 +27,11 @@ Lunna is...
 
 ### Background
 #### Early Life
-Lunna was born in a small town to a family of cattle ranchers. She had three brothers, two older and one younger, and a pair of parents that loved her. In her earliest years, Lunna lived a boring life in relative luxury. When she wasn't working at home with her mother, working the garden or the weaver, she was wandering the forests or the city hunting for pretty flowers and lost dogs. She found flowers more often then dogs, but she was very proud of herself when she strolled into her home with a mud-covered hound at her side. Its owner reclaimed it the day after
+Lunna was born in a small town to a family of cattle ranchers. She had three brothers, two older and one younger, and a pair of parents that loved her. In her earliest years, Lunna lived a boring life in relative luxury. When she wasn't working at home with her mother, working the garden or the weaver, she was wandering the forests or the city hunting for pretty flowers and lost dogs. She found flowers more often then dogs, but she was very proud of herself when she strolled into her home with a mud-covered hound at her side. Its owner reclaimed it the day after. No dogs allowed.
+
+As she got older, she picked the flowers she saw less and less, finding herself lost in her thoughts more and more. Who she was and was not. Who she could be. If she was in control, she would be kind. She would be just. Everyone would eat, and draw, and be as happy as she could make them. These were the thoughts in her head when she wandered too far into the forest, in the moment she was thrown to the floor, her vision went black, and her life changed forever.
+
+She awoke, to her own surprise. She was hurt. So, she went home. She needed her parents to help. With the full moon, bright overhead, she entered her parents home 
 
 
 ## Important Knowledge
