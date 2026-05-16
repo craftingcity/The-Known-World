@@ -27,7 +27,7 @@ Lunna is...
 
 ### Background
 #### Early Life
-Lunna was born in a small town to a family of cattle ranchers. She had three brothers, two older and one younger, 
+Lunna was born in a small town to a family of cattle ranchers. She had three brothers, two older and one younger, and a pair of parents that loved her. In her earliest years, Lunna lived a boring life in relative luxury. When she wasn't working at home with her mother, working the garden or the weaver, she was wandering the forests or the city hunting for pretty flowers and lost dogs. She found flowers more often then dogs, but she was very proud of herself when she strolled into her home with a mud-covered hound at her side. Its owner reclaimed it the day after
 
 
 ## Important Knowledge
@@ -35,14 +35,14 @@ Lunna was born in a small town to a family of cattle ranchers. She had three bro
 
 ## Stats
 
-| L. 0 | XP: 0  | / 300 | (0) Inspiration |
-| ---- | ------ | ----- | --------------- |
-| STR  | x+1 () | PRF   | +2              |
-| CON  | x+1 () | M. HP | 10+CON Max HP   |
-| DEX  | x ()   | AC    | (11 // 12 & )             |
-| INT  | x ()   | C. HP | 10+CON HP       |
-| WIS  | x () ^ | HD    | 1d10 (1/1)      |
-| CHA  | x () ^ | SPD   | 30' // 40'        |
+| L. 0 | XP: 0  | / 300 | (0) Inspiration           |
+| ---- | ------ | ----- | ------------------------- |
+| STR  | x+1 () | PRF   | +2                        |
+| CON  | x+1 () | M. HP | 10+CON Max HP             |
+| DEX  | x ()   | AC    | (11 // 12 & resist B/P/S) |
+| INT  | x ()   | C. HP | 10+CON HP                 |
+| WIS  | x () ^ | HD    | 1d10 (1/1)                |
+| CHA  | x () ^ | SPD   | 30' // 40'                |
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
