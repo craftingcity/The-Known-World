@@ -33,7 +33,7 @@ As she got older, she picked the flowers she saw less and less, finding herself 
 
 She awoke, to her own surprise. She was hurt. So, she went home. She needed her parents to help. With the full moon, bright overhead, she entered her parents home and was welcomed with fearful screams. She tried to explain, to speak - but she couldn't. And then Dad. The sword. Blood. Crying. The sword. Thomas? Blood. Anger. Shouting. Blood. Bron running. Fear. Blood. Fear. Anger. The sword. The FUcking SWORD. THE FUCKING SWORD. Why is Mom crying? Fear. Anger. Fear. Anger. Fangs. Bite. Why is Mom crying? Bite. Anger. Blood. Is Mom crying? Tired.
 
-And then she woke up. What a fucking *horrible* dream. She wasn't home. Was it real? No? The memory is faint, and fluid, more feeling than sense - like every other dream she's had - so she went home. Expecting to find her family worried for her, she was stunned to find it was real. It was all real. Dad and Thomas are ripped halfway apart on the floor. The table is smashed in two. The sword is stuck into the wall, some eight inches deep. And Mom. She's missing a chunk of her torso. Her ribs are broken, spilling her innards onto the floor. And her hands are bloody. 
+And then she woke up. What a fucking *horrible* dream. She wasn't home. Was it real? No? The memory is faint, and fluid, more feeling than sense - like every other dream she's had - so she went home. Expecting to find her family worried for her, she was stunned to find it was real. It was all real. She ran. It was too horrible, but she knows that she did this to her own family. She can't do this. She can't be a monster. 
 
 ## Important Knowledge
 
