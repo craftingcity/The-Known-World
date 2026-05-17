@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d710ce4d3704683",
+        "id": "0b4f63b180077ce1",
         "type": "tabs",
         "children": [
           {
-            "id": "802ae29e89e525f9",
+            "id": "453942c6d71b0f8e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,22 +22,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Tiana Turing.md",
+                "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tiana Turing"
+              "title": "The Secretkeepers"
             }
-          }
-        ]
-      },
-      {
-        "id": "044aba70128f2aac",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "71f3f1319e34f6ac",
+            "id": "3d3173f99dcc12ab",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -51,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lunna, Paladin Werewolf.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
+              "title": "Baator"
             }
           }
         ]
@@ -352,8 +346,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71f3f1319e34f6ac",
+  "active": "453942c6d71b0f8e",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Junie's Characters/Tiana Turing.md",
     "Lunna, Paladin Werewolf.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
@@ -378,8 +374,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Tracking.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
