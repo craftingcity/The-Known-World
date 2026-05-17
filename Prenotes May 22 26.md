@@ -18,9 +18,14 @@ When last we left our heroes, the party was infiltrating the Vault deep under [[
 
 Your attempts to resist it's call were futile. Your minds would scream at your body to stop, to not walk into the cabinet, but as much as you tried, your body continued. Dreadfully slowly, you each climbed into the portal made by the crossing in the Worldbinding, burning your hands on the cabinet, and stepping forward into the air above a sweltering wasteland.
 
-In the moments you come to control yourself again a number of things become painfully clear. First, you have fallen - you hit something on your way down - and you have rolled some distance along the ground. You don't hurt as much as you might have expected. Second, it is hot here; you've been here for only a number of seconds at this point and you've already developed a thick layer of sweat across your brow. Third, that something you h
+In the moments you come to control yourself again a number of things become painfully clear. First, you have fallen - you hit something on your way down - and you have rolled some distance along the ground. You don't hurt as much as you might have expected, but your ears are ringing. Second, it is *hot* here. You've been here for only a number of seconds at this point, and you've already developed a thick layer of sweat across your brow. Third, you are lying in a crater. This stone is a deep bloody red that streaks even darker in places. This crater is some 50' across, and largely spherical. It stinks of sulphur and gunpowder.
+
+Fourth, and finally, that *something* you all hit on your way down is definitely falling too.
+
+What do you do?
 
 ### What does the World Know?
+
 
 
 ### What happened?

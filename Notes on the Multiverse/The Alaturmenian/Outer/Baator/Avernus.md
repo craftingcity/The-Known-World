@@ -20,19 +20,19 @@ The Spikelands are an area of many dozens of spiked outcroppings of rock. They p
 Some black liquid has stained the tips of the spikes and dripped downwards.
 
 #### Outpost Maedios
-Outpost Maedios is the second-in-line Forward Operating Base on Avernus. Duty here is made of patrols in the [[#Spikelands]] and [[#Free-Traitor Territory]], or training your combat prowess, until you are called forward. This area is under the control of the Duke [[Cawarad]], an honorable if underperforming field commander.
+Outpost Maedios is the second-in-line Forward Operating Base on Avernus. Duty here is made of patrols in the [[#Spikelands]] and [[#Free-Traitor Territory]], or training your combat prowess, until you are called forward. This area is under the control of the Duke [[Cawarad]], an honorable if underperforming field commander. [[Cawarad]] plots against [[Morik]] for it's position as Theater Commander.
 
 #### Free-Traitor Territory
-The Free-Traitor Territory is a defacto headquarters of those devilkin who violently oppose the [[Blood Wars of Fiends]]. These so-called 'Free Traitors' are loosely allied to [[Vuctoria]], a once proud Vassal of [[Istratige]] turned Traitor-Duke after the loss of their partner in the war at the direct command of the Arch-Devil.
+The Free-Traitor Territory is a defacto headquarters of those devilkin who violently oppose the [[Blood Wars of Fiends]]. These so-called 'Free Traitors' are loosely allied to [[Vuctoria]], a once proud Vassal of [[Istratige]] turned Traitor-Duke after the loss of it's partner in the war at the direct command of the Arch-Devil.
 
 #### Outpost Pesmenos
-Outpost Pesmenos is the first-in-line Forward Operating Base on Avernus. Duty here is near-constant frontline fighting on the [[#Beachhead Styx]] under the command of [[Ferochi]], a headstrong commander, and loyal Duke of [[Istratige]].
+Outpost Pesmenos is the first-in-line Forward Operating Base on Avernus. Duty here is near-constant frontline fighting on the [[#Beachhead Styx]] under the command of [[Ferochi]], a headstrong commander, and loyal Duke of [[Istratige]]. [[Ferochi]] largely aspires to maintain it's position, and nothing more.
 
 #### Crater Fields
 The Crater Fields are a war-torn wasteland. What was once reasonably flat ground has warped into a lumpy, broken place. As the name implies, Craters of many sizes are present throughout the area, each of which has been created by some manner of war-machine. Pieces of these machines are still present in some places.
 
 #### Outpost Afierono
-Outpost Afierono is the final Forward Operating Base on Avernus. Duty here is 
+Outpost Afierono is the final Forward Operating Base on Avernus. Duty here is largely training, but some portion of the force that comes through here is siphoned into the area's private "Military Police", controlled by [[Serkeree]], a quietly disloyal duke who aims to take the Free-Traitors for it's own. 
 
 #### Beachhead Styx
 The Beachhead Styx is the primary landing destination for assaulting Demons, who cross the [[River Styx]] into Avernus from the [[Abyss]]. 

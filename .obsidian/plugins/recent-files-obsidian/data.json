@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "Avernus",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md"
+    },
+    {
+      "basename": "Devils",
+      "path": "Game Notes/NPCs/High Power/Devils/Devils.md"
+    },
+    {
+      "basename": "Istratige",
+      "path": "Game Notes/NPCs/Absolute Power/Archdevil NPCs/Istratige.md"
+    },
+    {
+      "basename": "Baator",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
+    },
+    {
+      "basename": "Prenotes May 22 26",
+      "path": "Prenotes May 22 26.md"
     },
     {
       "basename": "Prenotes Mar 22 26",
@@ -11,10 +27,6 @@
     {
       "basename": "The Secretkeepers",
       "path": "Game Notes/Campaign Rosters/The Secretkeepers.md"
-    },
-    {
-      "basename": "Baator",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
     },
     {
       "basename": "Tiana Turing",
@@ -173,10 +185,6 @@
       "path": "Game Notes/Prenotes/'26/Prenotes Apr 04 26.md"
     },
     {
-      "basename": "Istratige",
-      "path": "Game Notes/NPCs/Absolute Power/Archdevil NPCs/Istratige.md"
-    },
-    {
       "basename": "Prinkipas",
       "path": "Game Notes/NPCs/Absolute Power/Archdevil NPCs/Prinkipas.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Tektonas",
       "path": "Game Notes/NPCs/Absolute Power/Archdevil NPCs/Tektonas.md"
-    },
-    {
-      "basename": "Vasani",
-      "path": "Game Notes/NPCs/Absolute Power/Archdevil NPCs/Vasani.md"
-    },
-    {
-      "basename": "NPCs",
-      "path": "Game Notes/NPCs/NPCs.md"
     }
   ],
   "omittedPaths": [],
