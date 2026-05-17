@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Prenotes Mar 22 26",
+      "path": "Game Notes/Prenotes/'26/Prenotes Mar 22 26.md"
+    },
+    {
       "basename": "The Secretkeepers",
       "path": "Game Notes/Campaign Rosters/The Secretkeepers.md"
     },
@@ -137,10 +145,6 @@
       "path": "Game Notes/Prenotes/'26/Prenotes Mar 08 26.md"
     },
     {
-      "basename": "Prenotes Mar 22 26",
-      "path": "Game Notes/Prenotes/'26/Prenotes Mar 22 26.md"
-    },
-    {
       "basename": "Prenotes Mar 29 26",
       "path": "Game Notes/Prenotes/'26/Prenotes Mar 29 26.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "NPCs",
       "path": "Game Notes/NPCs/NPCs.md"
-    },
-    {
-      "basename": "Game Notes",
-      "path": "Game Notes/Game Notes.md"
     }
   ],
   "omittedPaths": [],
