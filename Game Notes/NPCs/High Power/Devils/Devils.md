@@ -31,7 +31,7 @@ The Dukes are the minor management of Devil-kind. The Dukes ride a fine line of 
 - [[Cawarad]], Duke and Field Commander of *Outpost Maedios*
 - [[Vuctoria]], Traitor-Duke and General of the *Free-Traitors*
 - [[Ferochi]], Duke and Attack Dog of *Outpost Pesmenos*
-- *Outpost Afierono*
+- [[Serkeree]], Duke and Commander of *Outpost Afierono*
 - [[Morik]], Duke and Theater Commander of *Beachhead Styx*
 - *High Crags*
 

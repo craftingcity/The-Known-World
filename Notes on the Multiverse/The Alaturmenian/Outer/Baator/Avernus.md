@@ -34,6 +34,8 @@ The Crater Fields are a war-torn wasteland. What was once reasonably flat ground
 #### Outpost Afierono
 Outpost Afierono is the final Forward Operating Base on Avernus. Duty here is largely training, but some portion of the force that comes through here is siphoned into the area's private "Military Police", controlled by [[Serkeree]], a quietly disloyal duke who aims to take the Free-Traitors for it's own. 
 
+Travelling 'eastward' for long enough, one will find themselves in [[Dis#Militant District]].
+
 #### Beachhead Styx
 The Beachhead Styx is the primary landing destination for assaulting Demons, who cross the [[River Styx]] into Avernus from the [[Abyss]]. 
 
