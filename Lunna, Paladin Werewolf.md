@@ -62,7 +62,6 @@ And then she woke up. What a fucking *horrible* dream. She wasn't home. Was it r
 - Stealth
 - Perception
 - Survival
-- Lycanthropy
 - Intimidation
 
 ##### Languages

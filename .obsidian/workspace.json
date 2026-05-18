@@ -98,8 +98,32 @@
                       "icon": "lucide-file",
                       "title": "Devils"
                     }
+                  },
+                  {
+                    "id": "aac9c815847e9f66",
+                    "type": "leaf",
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "state": "{}",
+                          "eState": "{}"
+                        }
+                      ]
+                    },
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Lunna, Paladin Werewolf.md",
+                        "mode": "source",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "Lunna, Paladin Werewolf"
+                    }
                   }
-                ]
+                ],
+                "currentTab": 1
               }
             ],
             "direction": "vertical"
@@ -481,10 +505,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d53cb5ab5a5acb9e",
+  "active": "aac9c815847e9f66",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
     "Game Notes/NPCs/High Power/Devils/Devils.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
     "Game Notes/NPCs/Absolute Power/Archdevil NPCs/Istratige.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Prenotes May 22 26.md",
