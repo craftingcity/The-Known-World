@@ -25,7 +25,9 @@ Fourth, and finally, that *something* you all hit on your way down is definitely
 What do you do?
 
 ### What does the World Know?
-The Worldbinding deposits the party in the [[Avernus#Crater Fields]]. The contraption built into the container back in the Vault  
+The Worldbinding deposits the party in the [[Avernus#Crater Fields]]. The contraption built into the container back in the Vault will disable the Worldbinding in ~60 seconds, closing the portal (meaning they have 10 rounds off rip to get back). 
+
+The *something* they hit was once the raised arm of one of the titanic war-machines that, having been disrupted by the falling party, has broken off, and is now falling into the crater the party has landed in. (DEX or damage)
 
 
 ### What happened?
