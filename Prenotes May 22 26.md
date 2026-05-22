@@ -27,7 +27,9 @@ What do you do?
 ### What does the World Know?
 The Worldbinding deposits the party in the [[Avernus#Crater Fields]]. The contraption built into the container back in the Vault will disable the Worldbinding in ~60 seconds, closing the portal (meaning they have 10 rounds off rip to get back). 
 
-The *something* they hit was once the raised arm of one of the titanic war-machines that, having been disrupted by the falling party, has broken off, and is now falling into the crater the party has landed in. (DEX or damage)
+The *something* they hit was once the raised arm of one of the titanic war-machines that, having been disrupted by the falling party, has broken off, and is now falling into the crater the party has landed in. In addition to potentially damaging the party, the arm crashing alerts a passing squad of soldiers moving to rejoin their company on the way to the front-line.
+
+After we deal with all that, we're probably going to look for where to go next - which could be back home, if the portal is still open, but - is likely going to be [[Avernus#Outpost Afierono]], where they can continue into Dis (where they should be enticed into buying a way home), and then track down the Notadeer in Minauros.
 
 
 ### What happened?
