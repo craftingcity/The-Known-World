@@ -98,32 +98,8 @@
                       "icon": "lucide-file",
                       "title": "Devils"
                     }
-                  },
-                  {
-                    "id": "aac9c815847e9f66",
-                    "type": "leaf",
-                    "pane-relief:history-v1": {
-                      "pos": 0,
-                      "stack": [
-                        {
-                          "state": "{}",
-                          "eState": "{}"
-                        }
-                      ]
-                    },
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Lunna, Paladin Werewolf.md",
-                        "mode": "source",
-                        "source": true
-                      },
-                      "icon": "lucide-file",
-                      "title": "Lunna, Paladin Werewolf"
-                    }
                   }
-                ],
-                "currentTab": 1
+                ]
               }
             ],
             "direction": "vertical"
@@ -505,8 +481,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aac9c815847e9f66",
+  "active": "f3f89727453f5fe7",
   "lastOpenFiles": [
+    "Lunna, Paladin Werewolf.md",
     "Game Notes/NPCs/High Power/Devils/Devils.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
     "Game Notes/NPCs/Absolute Power/Archdevil NPCs/Istratige.md",
@@ -515,7 +492,6 @@
     "Game Notes/Prenotes/'26/Prenotes Mar 22 26.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Junie's Characters/Tiana Turing.md",
-    "Lunna, Paladin Werewolf.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
