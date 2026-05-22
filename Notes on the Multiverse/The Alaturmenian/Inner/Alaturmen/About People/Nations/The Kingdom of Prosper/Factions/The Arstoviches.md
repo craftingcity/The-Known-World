@@ -19,8 +19,10 @@ It is only because she has been harmed that we are safe today.
 ## Culture
 #### Heritage
 ##### Firstborne
-The fated few turned in the first years 
-##### 
+The fated few turned by the Arstovich in the first decades of her recovery. They experience the powers she bears firsthand, in exchange for experiencing the horrors too.
+
+##### Preytors
+##### Childer
 
 #### Language
 #### Values
