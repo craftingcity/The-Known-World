@@ -44,7 +44,7 @@ After we deal with all that, we're probably going to look for where to go next -
 13 - Zipper
 6 - Saiorsia
 2 - Squad Devils
-	A BROKER 12, 64, 
+	A BROKERx2 12, 64, 72
 	B 12
 	C
 	D
