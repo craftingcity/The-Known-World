@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Chrysos",
+                "query": "artyom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -359,7 +359,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3f89727453f5fe7",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",

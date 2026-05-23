@@ -36,5 +36,13 @@ After we deal with all that, we're probably going to look for where to go next -
 
 ### What happened?
 
+6
+
+##### Init
+20 - Mech-Spirit
+18 - Niko
+13 - Zipper
+6 - Saiorsia
+2 - Squad Devils
 
 We leave our heroes on the date of ... AF, as they ...
