@@ -186,7 +186,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sending stone",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -430,7 +430,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1708f27eb10d2354",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
