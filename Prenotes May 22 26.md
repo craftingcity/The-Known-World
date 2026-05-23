@@ -50,4 +50,8 @@ After we deal with all that, we're probably going to look for where to go next -
 	D
 	E
 
+They picked the Cabinet containing the Worldbinding
+
+They asphyxiated their cross-street neighbor, and stole the key to their house. The Slimknives have built a wine cellar in their house. We're spending some time putting together a mercenary "team" named Fireable Offense - we're gonna total up to 20 additional mercs. Sidequest, make a devil-boyband.
+
 We leave our heroes on the date of ... AF, as they ...

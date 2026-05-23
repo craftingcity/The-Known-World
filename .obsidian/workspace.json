@@ -4,65 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "2d090e9ea760ed42",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cf3ba3397cbb8fb3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Baator",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Baator\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":11},\"to\":{\"line\":10,\"ch\":11}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Avernus"
-            }
-          },
-          {
-            "id": "1708f27eb10d2354",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Secretkeepers"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "ed033ebd8b54c378",
         "type": "tabs",
         "children": [
@@ -88,55 +29,8 @@
               "icon": "lucide-file",
               "title": "Prenotes May 22 26"
             }
-          },
-          {
-            "id": "01e3f336465f6495",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Guilded Mystic Entries"
-            }
-          },
-          {
-            "id": "e44aa03f90aa439b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Magical Items of Note"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sending stone",
+                "query": "\"holy water",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -432,9 +326,10 @@
   },
   "active": "17bba7903284a409",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Guilded Mystic Entries.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Prenotes May 22 26.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Game Notes/NPCs/High Power/Devils/Devils.md",
@@ -442,7 +337,6 @@
     "Lunna, Paladin Werewolf.md",
     "Game Notes/NPCs/Absolute Power/Archdevil NPCs/Istratige.md",
     "Game Notes/Prenotes/'26/Prenotes Mar 22 26.md",
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Junie's Characters/Tiana Turing.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
