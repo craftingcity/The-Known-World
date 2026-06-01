@@ -29,7 +29,8 @@ Lunna is...
 > **_Courage._** You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don't act, then who will?
 > **_Responsibility._** You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
 
-- Lunna is 
+- Lunna is a little stoic, but is more than willing to speak up for herself and others.
+- Lunna is nihilistic in regards to her own life if not outright suicidal
 
 ### Background
 #### Early Life
@@ -46,14 +47,14 @@ And then she woke up. What a fucking *horrible* dream. She wasn't home. Was it r
 
 ## Stats
 
-| L. 0 | XP: 0  | / 300 | (0) Inspiration           |
-| ---- | ------ | ----- | ------------------------- |
-| STR  | x+1 () | PRF   | +2                        |
-| CON  | x+1 () | M. HP | 10+CON+2(6+CON) Max HP             |
-| DEX  | x ()   | AC    | (18 // 12 & resist B/P/S) |
-| INT  | x ()   | C. HP | 10+CON+2(6+CON) HP                 |
-| WIS  | x () ^ | HD    | 1d10 (1/1)                |
-| CHA  | x () ^ | SPD   | 30' // 40'                |
+| L. 3 | XP: 900 | / 2.7k | (0) Inspiration           |
+| ---- | ------- | ------ | ------------------------- |
+| STR  | x+1 ()  | PRF    | +2                        |
+| CON  | x+1 ()  | M. HP  | 10+CON+2(6+CON) Max HP    |
+| DEX  | x ()    | AC     | (18 // 12 & resist B/P/S) |
+| INT  | x ()    | C. HP  | 10+CON+2(6+CON) HP        |
+| WIS  | x () ^  | HD     | 1d10 (1/1)                |
+| CHA  | x () ^  | SPD    | 30' // 40'                |
 
 #### Spells
 You prepare the list of paladin spells that are available for you to cast, choosing from the [paladin spell list](http://dnd5e.wikidot.com/spells:paladin). When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots. You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
@@ -93,10 +94,11 @@ You prepare the list of paladin spells that are available for you to cast, choos
 
 ##### Lycanthropy
 - You are a Lycanthrope. Under the light of the full moon, or in reaction to surging emotions, (and otherwise to your DM's discretion) you will be compelled to Transform.
-	- If you would resist any Lycanthropic compulsions, make a Bloodlust Skill Check. If you fail, you follow your compulsion and take 1d10 psychic damage.
+	- If you would resist any Lycanthropic compulsions, make a Bloodlust Skill Check. If you fail, you follow your compulsion and take 1d8 psychic damage.
 	- You may choose to Transform as an Action, but you will be compelled by your Bloodlust as usual.
 - While Transformed, you are compelled to take the Attack Action on your turn, you gain immunity to non-magical and/or non-silvered piercing, slashing and bludgeoning damage, you gain advantage on Perception Checks based on Sound or Smell, and you cannot speak.
 - While Transformed, you may make a Multiattack of one *Bite* (STR+PROF, 1d8+STR) Attack and one *Claw* (STR+PROF, 2d4+STR) Attack as an Action.
+- When you would attempt to return to your true form, make a Bloodlust Skill Check.
 
 ##### Divine Sense
 - As an action, until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. 
@@ -119,26 +121,35 @@ You prepare the list of paladin spells that are available for you to cast, choos
 ##### Divine Health
 - You are immune to (most) disease.
 
+##### Channel Divinity
+- **_Champion Challenge._** As a bonus action, you issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can't willingly move more than 30 feet away from you. This effect ends on the creature if you are incapacitated or die or if the creature is more than 30 feet away from you.
+- **_Turn the Tide._** As a bonus action, you can bolster injured creatures with your Channel Divinity. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 + your Charisma modifier (minimum of 1) if it has no more than half of its hit points.
+
 #### Equipment
-
-- Longsword (1d8 / 1d10 + STR slashing)
-- Shield (+2 AC)
-- Crossbow, Light (1d8 + DEX piercing)
-- Backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, a crowbar, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
-- Chain mail (16 AC) 
-- Holy symbol of Avandra
-
 *Hands*: 
-
+	- Longsword (1d8 / 1d10 + STR slashing)
+	- Shield (+2 AC)
 *Arms*: 
-
+	-
 *Head*:
-
+	-
 *Torso*:
-	
+	- Chain mail (16 AC) 
+	- Holy symbol of Avandra
+	- Backpack; 
+		- a bedroll 
+		- a mess kit
+		- a tinderbox
+		- 10 torches
+		- 10 days of rations
+		- a crowbar
+		- a waterskin (1/1L)
+		- 50 feet of hempen rope
+		- Crossbow, Light (1d8 + DEX piercing)
+		- 20 steel bolts
 *Groin*:
-	
+	-
 *Legs*:
-	
+	-
 *Feet*:
-	
+	-
