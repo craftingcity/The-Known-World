@@ -23,6 +23,12 @@ Lunna is...
 
 ### Mannerism & Disposition
 
+> The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.
+> 
+> **_Loyalty._** Your word is your bond. Without loyalty, oaths and laws are meaningless.
+> **_Courage._** You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don't act, then who will?
+> **_Responsibility._** You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
+
 - Lunna is 
 
 ### Background
@@ -43,18 +49,25 @@ And then she woke up. What a fucking *horrible* dream. She wasn't home. Was it r
 | L. 0 | XP: 0  | / 300 | (0) Inspiration           |
 | ---- | ------ | ----- | ------------------------- |
 | STR  | x+1 () | PRF   | +2                        |
-| CON  | x+1 () | M. HP | 10+CON Max HP             |
-| DEX  | x ()   | AC    | (11 // 12 & resist B/P/S) |
-| INT  | x ()   | C. HP | 10+CON HP                 |
+| CON  | x+1 () | M. HP | 10+CON+2(6+CON) Max HP             |
+| DEX  | x ()   | AC    | (18 // 12 & resist B/P/S) |
+| INT  | x ()   | C. HP | 10+CON+2(6+CON) HP                 |
 | WIS  | x () ^ | HD    | 1d10 (1/1)                |
 | CHA  | x () ^ | SPD   | 30' // 40'                |
+
+#### Spells
+You prepare the list of paladin spells that are available for you to cast, choosing from the [paladin spell list](http://dnd5e.wikidot.com/spells:paladin). When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots. You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | .   | .   | .   | .   | .   | .   | .    | .   |
 | o   | .   | .   | .   | .   | .   | .   |      |     |
-| .   | .   | .   | .   | .   |     |     | DC   | x   |
+| o   | .   | .   | .   | .   |     |     | DC   | x   |
 | .   |     |     |     |     |     |     | ATTK | +   |
+
+##### Prepared Spells (Prep X)
+- (1*) [Command](https://dnd5e.wikidot.com/spell:command)
+- (1*) [Compelled Duel](https://dnd5e.wikidot.com/spell:compelled-duel)
 
 #### Proficiencies
 ##### Skills
@@ -97,13 +110,22 @@ And then she woke up. What a fucking *horrible* dream. She wasn't home. Was it r
 	- You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
 - This feature has no effect on undead and constructs.
 
+##### FS: Interception
+- When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
+
+##### Divine Smite
+- When you hit a creature with a melee weapon attack, you may expend a spell slot to deal additional d8s of radiant damage to the target, the number of which is equal to the spell slot level plus one. The number of dice increases by an additional one if the target is undead or fiendish.
+
+##### Divine Health
+- You are immune to (most) disease.
+
 #### Equipment
 
-- Longsword (1d8 / 1d10)
-- Shield
-- Crossbow, Light (1d8)
+- Longsword (1d8 / 1d10 + STR slashing)
+- Shield (+2 AC)
+- Crossbow, Light (1d8 + DEX piercing)
 - Backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, a crowbar, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
-- Chain mail 
+- Chain mail (16 AC) 
 - Holy symbol of Avandra
 
 *Hands*: 
