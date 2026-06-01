@@ -16,14 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "conflict-files-obsidian-git",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"conflict-files-obsidian-git\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lunna, Paladin Werewolf.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lunna, Paladin Werewolf"
             }
           }
         ]
@@ -321,6 +331,7 @@
   },
   "active": "05c05fea786d2db8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'26/Prenotes Mar 22 26.md",
     "Prenotes May 22 26.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
@@ -346,7 +357,6 @@
     "Game Notes/NPCs/High Power/True Villian NPCs/Arstovich.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Lower Villages/Baskin.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Litteortosta.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Redl'nds.md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",

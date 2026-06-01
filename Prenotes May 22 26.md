@@ -30,9 +30,28 @@ The Worldbinding deposits the party in the [[Avernus#Crater Fields]]. The contra
 The *something* they hit was once the raised arm of one of the titanic war-machines that, having been disrupted by the falling party, has broken off, and is now falling into the crater the party has landed in. In addition to potentially damaging the party, the arm crashing alerts a passing squad of soldiers moving to rejoin their company on the way to the front-line.
 
 After we deal with all that, we're probably going to look for where to go next - which could be back home, if the portal is still open, but - is likely going to be [[Avernus#Outpost Afierono]], where they can continue into Dis (where they should be enticed into buying a way home), and then track down the Notadeer in Minauros.
+	- Notadeer is not a well known name, let alone on [[Avernus]], but we know Arbiters worked on [[Minauros]] and now [[Maladomini]]
+	- Minauros has fallen, and is still in ruin. [[Chrysos]] was an insult to his title.
 
 
 ### What happened?
 
+6
+
+##### Init
+20 - Mech-Spirit
+18 - Niko
+13 - Zipper
+6 - Saiorsia
+2 - Squad Devils
+	A BROKERx2 12, 64, 72
+	B 12
+	C
+	D
+	E
+
+They picked the Cabinet containing the Worldbinding
+
+They asphyxiated their cross-street neighbor, and stole the key to their house. The Slimknives have built a wine cellar in their house. We're spending some time putting together a mercenary "team" named Fireable Offense - we're gonna total up to 20 additional mercs. Sidequest, make a devil-boyband.
 
 We leave our heroes on the date of ... AF, as they ...

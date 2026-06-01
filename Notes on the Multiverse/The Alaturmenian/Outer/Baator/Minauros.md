@@ -12,7 +12,7 @@ aliases:
 ## Contents
 Once, this place was a grand kingdom, rivaling [[Dis]] in size and strength, an economic powerhouse in it's prime. It is a disgrace now. The walls no longer stand, the buildings lay sinking into the ground below them, and corpses, maggots, bile, and waste cover what little solid land remains.
 
-This place was once ruled by the Arch-Devil *Chrysos*, who built his Kingdom to it's peak, and drove it into the muck with his greed. In his failure, he was demoted and exiled to Dukedom of the [[#Lonely Island]], becoming Vassal to his appointed successor, the Arch-Devil [[Prinkipas]], who rules what now remains of Minauros. *Chrysos'* failure changed the duties of the layer at large, too. Minauros was once responsible for a large percentage of the recordkeeping and arbitration done within [[Baator]], but has since been relieved of that responsibility for as long as it is under repair.
+This place was once ruled by the Arch-Devil [[Chrysos]], who built his Kingdom to it's peak, and drove it into the muck with his greed. In his failure, he was demoted and exiled to Dukedom of the [[#Lonely Island]], becoming Vassal to his appointed successor, the Arch-Devil [[Prinkipas]], who rules what now remains of Minauros. [[Chrysos]]' failure changed the duties of the layer at large, too. Minauros was once responsible for a large percentage of the recordkeeping and arbitration done within [[Baator]], but has since been relieved of that responsibility for as long as it is under repair.
 
 #### Keep on the Wall
 #### Lonely Island
