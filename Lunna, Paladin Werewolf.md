@@ -55,7 +55,7 @@ It was too horrible, but she knows that she did this to her own family.
 She can't be this. She can't be a monster. 
 
 ## Important Knowledge
-
+My oldest brother wasn't home at the time of the incident. His name is Matthew.
 
 ## Stats
 
@@ -115,6 +115,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 	- you cannot speak
 	- you may make a Multiattack of one *Bite* (STR+PROF, 1d8+STR) Attack and one *Claw* (STR+PROF, 2d4+STR) Attack as an Action.
 - When you would attempt to return to your true form, use your Action and make a Bloodlust Skill Check.
+- When you return to your true form, you gain a level of Exhaustion.
 
 ##### Divine Sense
 - As an action, until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. 
