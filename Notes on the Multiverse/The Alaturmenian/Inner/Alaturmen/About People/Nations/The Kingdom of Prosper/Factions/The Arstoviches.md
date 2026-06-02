@@ -5,7 +5,9 @@ aliases:
 
 # The Arstoviches
 ## History
-In the era of the [[Bandit Lords]], the Arstoviches were a family of ruthless gangster-thieves that ruled the young and growing [[Yerba]]. The patriarch of the clan, desiring a fuller control over the region, made a deal with the [[Witch of Ardor]].
+In the era of the [[Bandit Lords]], the Arstoviches were a family of ruthless gangster-thieves that ruled the young and growing [[Yerba]]. They were considered a home-grown menace, sprouting their exploitative businesses from within the region.
+
+In the early years of their growth, sometime in the second or third decades, the patriarch of the clan would make a deal with the [[Witch of Ardor]], desiring a fuller control over the region.
 
 On the turn of the half-century - after the deaths of the patriarch, his Son, his Son's son, and the Witch had passed this plane's borders - the Witch's twisted half of her deal took effect; The last surviving member of the Arstovich family, this Son's son's wife, was cursed with Vamparism. 
 
@@ -18,7 +20,7 @@ It is only because she has been harmed that we are safe today.
 ## Governance
 ## Culture
 #### Heritage
-As time 
+As time has continued, the Arstovich has rested and healed. While this rest was sometimes interrupted, 
 
 #### Language
 #### Values
