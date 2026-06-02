@@ -70,9 +70,32 @@
               "icon": "lucide-file",
               "title": "Custom Heritages"
             }
+          },
+          {
+            "id": "19a3893bbc799eea",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Arstoviches"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "93f1f48aef263296",
@@ -205,7 +228,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mechanis",
+                "query": "disease",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -449,8 +472,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78334b6d15a20a25",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
     "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md",
@@ -476,7 +500,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Central Holyl'nd.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/North Littemotto.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Deakred Range/Deakred Range.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
