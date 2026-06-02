@@ -9,7 +9,7 @@ aliases:
 
 The Immortal Dragons are a prehistoric conclave of each color of dragon; the five metallic, five chromatic, and [[Tetrimoc]].
 
-Each and every Draconic being in the multiverse can trace their ancestry to one of the 11 Immortal Dragons if they could look search enough.
+Each and every Draconic being in the multiverse can trace their ancestry to one of the 11 Immortal Dragons if they could search far enough.
 
 ## Governance
 ### Five Metallic

@@ -59,17 +59,19 @@ The "outer" planes are the distant most 'structures' in the multiverse with any 
 
 The faith-souls of those who pass beyond their material planes will become drawn to one of these planes by [[Karenos, River's Keeper]], where they would spend the rest of their eternity.
 
-#### [[Mechanis]], the Land of Law
+#### [[Mechanis]], the Ideoplane of Law
 Task: maintain the structure of reality.
 
-#### [[Abyss]], the Land of Chaos
+This is the home plane of the Mecha, the enforcers of the physical reality of the multiverse.
+
+#### [[Abyss]], the Ideoplane of Chaos
 Task: maintain the novelty of reality.
 
-#### [[Elysium]], the Land of Good
+#### [[Elysium]], the Ideoplane of Good
 Task: maintain moral good and promote eternal happiness.
 
-#### [[Baator]], the Land of Evil
+#### [[Baator]], the Ideoplane of Evil
 Task: maintain moral evil and promote eternal hatred.
 
-#### [[Limbo]], the Land of Neutrality
+#### [[Limbo]], the Ideoplane of Neutrality
 Task: maintain neutrality throughout reality.

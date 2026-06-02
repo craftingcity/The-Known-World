@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Mechanis",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md"
+    },
+    {
       "basename": "The Planes of Existence",
       "path": "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md"
+    },
+    {
+      "basename": "APGtAv1",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md"
     },
     {
       "basename": "Lunna, Paladin Werewolf",
@@ -191,14 +199,6 @@
     {
       "basename": "Prenotes Apr 04 26",
       "path": "Game Notes/Prenotes/'26/Prenotes Apr 04 26.md"
-    },
-    {
-      "basename": "Prinkipas",
-      "path": "Game Notes/NPCs/Absolute Power/Archdevil NPCs/Prinkipas.md"
-    },
-    {
-      "basename": "Psycra",
-      "path": "Game Notes/NPCs/Absolute Power/Archdevil NPCs/Psycra.md"
     }
   ],
   "omittedPaths": [],
