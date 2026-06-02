@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Untitled.md"
+    },
+    {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
+    },
+    {
       "basename": "The Arstoviches",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Mechanis",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md"
-    },
-    {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
     },
     {
       "basename": "The Planes of Existence",
@@ -195,10 +199,6 @@
     {
       "basename": "All-Father Annam",
       "path": "Game Notes/NPCs/Absolute Power/All-Father Annam.md"
-    },
-    {
-      "basename": "Economy",
-      "path": "ORGANIZATION/TEMPLATES/Economy.md"
     }
   ],
   "omittedPaths": [],

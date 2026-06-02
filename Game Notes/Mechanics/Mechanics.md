@@ -31,6 +31,7 @@ aliases:
 		- [[Strength As Carrying Capacity]]
 	- **Lore**
 		- [[Custom Cultures]]
+		- [[Custom Diseases]]
 		- [[Custom Features]]
 		- [[Custom Heritages]]
 		- [[Custom Languages]]
