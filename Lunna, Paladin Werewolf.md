@@ -38,9 +38,21 @@ Lunna was born in a small town to a family of cattle ranchers. She had three bro
 
 As she got older, she picked the flowers she saw less and less, finding herself lost in her thoughts more and more. Who she was and was not. Who she could be. If she was in control, she would be kind. She would be just. Everyone would eat, and draw, and be as happy as she could make them. These were the thoughts in her head when she wandered too far into the forest, in the moment she was thrown to the floor, her vision went black, and her life changed forever.
 
-She awoke, to her own surprise. She was hurt. So, she went home. She needed her parents to help. With the full moon bright overhead, she entered her parents home and was welcomed with fearful screams. She tried to explain, to speak - but she couldn't. Everyone was yelling. And then Dad... The sword. Blood. Crying. The sword. Thomas? Blood. Anger. Shouting. Blood. Bron running. Fear. Blood. Fear. Anger. The sword. The FUcking SWORD. THE FUCKING SWORD. Why is Mom crying? Fear. Anger. Fear. Anger. Fangs. Bite. Why is Mom crying? Bite. Anger. Blood. Is Mom crying? Tired.
+She awoke, to her own surprise. She was hurt. So, she went home. She needed her parents to help. With the full moon bright overhead, she entered her parents home and was welcomed with fearful screams. She tried to explain, to speak - but she couldn't. 
 
-And then she woke up. What a fucking *horrible* dream. She wasn't home. Was it real? No? The memory is faint, and fluid, more feeling than sense - like every other dream she's had - so she went home. Expecting to find her family worried for her, she was stunned to find it was real. It was all real. She ran. It was too horrible, but she knows that she did this to her own family. She can't do this. She can't be a monster. 
+Everyone was yelling. And then Dad... The sword. Blood. Crying. 
+The sword. Thomas? Blood. Anger. Shouting. 
+Blood. Bron running. Fear. Blood. Fear. Anger. The sword. 
+The FUcking SWORD. 
+THE FUCKING SWORD. 
+Why is Mom crying? Fear. Anger. Fear. Anger. Fangs. Bite. 
+Why is Mom crying? Bite. Anger. Blood. Is Mom crying? Tired.
+
+And then she woke up. What a fucking *horrible* dream. She wasn't home... So was it real? Could it be? The memory is faint, and fluid, more feeling than sense - like every other dream she's had - so she went home. Expecting to find her family worried for her, she was stunned to find it was real. It was all fucking real. She ran. 
+
+It was too horrible, but she knows that she did this to her own family. 
+
+She can't be this. She can't be a monster. 
 
 ## Important Knowledge
 
@@ -94,11 +106,15 @@ You prepare the list of paladin spells that are available for you to cast, choos
 
 ##### Lycanthropy
 - You are a Lycanthrope. Under the light of the full moon, or in reaction to surging emotions, (and otherwise to your DM's discretion) you will be compelled to Transform.
-	- If you would resist any Lycanthropic compulsions, make a Bloodlust Skill Check. If you fail, you follow your compulsion and take 1d8 psychic damage.
+	- If you would resist any Lycanthropic compulsions, make a Bloodlust Skill Check. If you fail, you follow your compulsion anyway.
 	- You may choose to Transform as an Action, but you will be compelled by your Bloodlust as usual.
-- While Transformed, you are compelled to take the Attack Action on your turn, you gain immunity to non-magical and/or non-silvered piercing, slashing and bludgeoning damage, you gain advantage on Perception Checks based on Sound or Smell, and you cannot speak.
-- While Transformed, you may make a Multiattack of one *Bite* (STR+PROF, 1d8+STR) Attack and one *Claw* (STR+PROF, 2d4+STR) Attack as an Action.
-- When you would attempt to return to your true form, make a Bloodlust Skill Check.
+- While Transformed...
+	- you are compelled to take the Attack Action on your turn against a creature of the DM's choice
+	- you gain immunity to non-magical and/or non-silvered piercing, slashing and bludgeoning damage
+	- you gain advantage on Perception Checks based on Sound or Smell
+	- you cannot speak
+	- you may make a Multiattack of one *Bite* (STR+PROF, 1d8+STR) Attack and one *Claw* (STR+PROF, 2d4+STR) Attack as an Action.
+- When you would attempt to return to your true form, use your Action and make a Bloodlust Skill Check.
 
 ##### Divine Sense
 - As an action, until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. 
@@ -112,8 +128,8 @@ You prepare the list of paladin spells that are available for you to cast, choos
 	- You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
 - This feature has no effect on undead and constructs.
 
-##### FS: Interception
-- When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
+##### FS: Blindfighting
+- You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
 
 ##### Divine Smite
 - When you hit a creature with a melee weapon attack, you may expend a spell slot to deal additional d8s of radiant damage to the target, the number of which is equal to the spell slot level plus one. The number of dice increases by an additional one if the target is undead or fiendish.
