@@ -29,7 +29,7 @@ Lunna is...
 > **_Courage._** You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don't act, then who will?
 > **_Responsibility._** You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
 
-- Lunna is a little stoic, but is more than willing to speak up for herself and others.
+- Lunna is a little distant, but is more than willing to speak up for others.
 - Lunna is nihilistic in regards to her own life if not outright suicidal
 
 ### Background
@@ -53,7 +53,7 @@ And then she woke up. What a fucking *horrible* dream. She wasn't home. Was it r
 | CON  | x+1 ()  | M. HP  | 10+CON+2(6+CON) Max HP    |
 | DEX  | x ()    | AC     | (18 // 12 & resist B/P/S) |
 | INT  | x ()    | C. HP  | 10+CON+2(6+CON) HP        |
-| WIS  | x () ^  | HD     | 1d10 (1/1)                |
+| WIS  | x () ^  | HD     | d10 (3/3)                |
 | CHA  | x () ^  | SPD    | 30' // 40'                |
 
 #### Spells

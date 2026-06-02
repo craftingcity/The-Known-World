@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Lunna, Paladin Werewolf",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lunna, Paladin Werewolf.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lunna, Paladin Werewolf\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":424},\"to\":{\"line\":42,\"ch\":424}},\"scroll\":42.284199360163605}"
+                },
+                {
                   "title": "conflict-files-obsidian-git",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"conflict-files-obsidian-git\"}",
@@ -28,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lunna, Paladin Werewolf.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
+              "title": "The Planes of Existence"
             }
           }
         ]
@@ -331,13 +337,13 @@
   },
   "active": "05c05fea786d2db8",
   "lastOpenFiles": [
+    "Lunna, Paladin Werewolf.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'26/Prenotes Mar 22 26.md",
     "Prenotes May 22 26.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
     "Game Notes/NPCs/High Power/Devils/Devils.md",
-    "Lunna, Paladin Werewolf.md",
     "Game Notes/NPCs/Absolute Power/Archdevil NPCs/Istratige.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Junie's Characters/Tiana Turing.md",
