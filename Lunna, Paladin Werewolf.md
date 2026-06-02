@@ -59,14 +59,14 @@ My oldest brother wasn't home at the time of the incident. His name is Matthew.
 
 ## Stats
 
-| L. 3 | XP: 900 | / 2.7k | (0) Inspiration           |
-| ---- | ------- | ------ | ------------------------- |
-| STR  | x+1 ()  | PRF    | +2                        |
-| CON  | x+1 ()  | M. HP  | 10+CON+2(6+CON) Max HP    |
-| DEX  | x ()    | AC     | (18 // 12 & resist B/P/S) |
-| INT  | x ()    | C. HP  | 10+CON+2(6+CON) HP        |
-| WIS  | x () ^  | HD     | d10 (3/3)                |
-| CHA  | x () ^  | SPD    | 30' // 40'                |
+| L. 3 | XP: 900      | / 2.7k | (0) Inspiration           |
+| ---- | ------------ | ------ | ------------------------- |
+| STR  | x+1 // 15 () | PRF    | +2                        |
+| CON  | x+1 ()       | M. HP  | 10+CON+2(6+CON) Max HP    |
+| DEX  | x ()         | AC     | (18 // 12 & resist B/P/S) |
+| INT  | x ()         | C. HP  | 10+CON+2(6+CON) HP        |
+| WIS  | x () ^       | HD     | d10 (3/3)                 |
+| CHA  | x () ^       | SPD    | 30' // 40'                |
 
 #### Spells
 You prepare the list of paladin spells that are available for you to cast, choosing from the [paladin spell list](http://dnd5e.wikidot.com/spells:paladin). When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots. You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
@@ -123,7 +123,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [Hallow](http://dnd5e.wikidot.com/spell:hallow) spell.
 - You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
-##### Lay on Hands (5/5)
+##### Lay on Hands (15/15)
 - As an action, you can touch a creature and restore a number of hit points, up to the maximum amount remaining in your pool.
 - Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. 
 	- You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
@@ -133,7 +133,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
 
 ##### Divine Smite
-- When you hit a creature with a melee weapon attack, you may expend a spell slot to deal additional d8s of radiant damage to the target, the number of which is equal to the spell slot level plus one. The number of dice increases by an additional one if the target is undead or fiendish.
+- When you hit a creature with a melee weapon attack (including natural weapons, and if that attack was not compelled by Lycanthropy), you may expend a spell slot to deal additional d8s of radiant damage to the target, the number of which is equal to the spell slot level plus one. The number of dice increases by an additional one if the target is undead or fiendish.
 
 ##### Divine Health
 - You are immune to (most) disease.
