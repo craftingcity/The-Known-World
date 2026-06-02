@@ -4,11 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "60216a2b6a025e76",
+        "id": "58a4c62de699ff55",
         "type": "tabs",
         "children": [
           {
-            "id": "cc97afc801d17290",
+            "id": "f1834f6790b0b85e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Mechanis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Mechanis\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Lunna, Paladin Werewolf",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lunna, Paladin Werewolf.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lunna, Paladin Werewolf\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":424},\"to\":{\"line\":42,\"ch\":424}},\"scroll\":42.284199360163605}"
+                },
+                {
+                  "title": "conflict-files-obsidian-git",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"conflict-files-obsidian-git\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Planes of Existence"
+            }
+          },
+          {
+            "id": "78334b6d15a20a25",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,15 +63,99 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lunna, Paladin Werewolf.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
+              "title": "Custom Heritages"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "93f1f48aef263296",
+        "type": "split",
+        "children": [
+          {
+            "id": "baca1d168c3ec1af",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "05c05fea786d2db8",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "The Planes of Existence",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Planes of Existence\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":11},\"to\":{\"line\":61,\"ch\":11}},\"scroll\":27.595818560609736}"
+                    },
+                    {
+                      "title": "Lunna, Paladin Werewolf",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lunna, Paladin Werewolf.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lunna, Paladin Werewolf\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":424},\"to\":{\"line\":42,\"ch\":424}},\"scroll\":42.284199360163605}"
+                    },
+                    {
+                      "title": "conflict-files-obsidian-git",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"conflict-files-obsidian-git\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Mechanis"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d743613433b81473",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8a45512c284eb6aa",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "APGtAv1"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -324,11 +449,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc97afc801d17290",
+  "active": "78334b6d15a20a25",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md",
     "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md",
     "Lunna, Paladin Werewolf.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'26/Prenotes Mar 22 26.md",
