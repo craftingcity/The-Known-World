@@ -55,9 +55,9 @@ This is the home plane of the Aarakocra, who use their wings to traverse the lar
 In many places, the Elemental planes touch and overlap, combining and changing in these places.
 
 ## The Outer Planes
-The "outer" planes are the distant most 'structures' - the last stop before oblivion.
+The "outer" planes are the distant most 'structures' in the multiverse with any cohesion - they are the last stops that we can understand as existence.
 
-Souls who pass beyond their material planes find themselves drawn to one of these planes, where they would spend the rest of their eternity.
+The faith-souls of those who pass beyond their material planes will become drawn to one of these planes by [[Karenos, River's Keeper]], where they would spend the rest of their eternity.
 
 #### [[Mechanis]], the Land of Law
 Task: maintain the structure of reality.
