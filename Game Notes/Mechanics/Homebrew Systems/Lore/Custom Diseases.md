@@ -60,7 +60,7 @@ A creature experiencing the initial symptoms of Vampirism will become pale or di
 #### Stage One
 At Stage One, the diseased creature - colloquially known as a Fledgling - experiences a compulsive desire to consume blood. The Fledgeling does not require food or water to maintain their form, they gain resistance to bludgeoning, slashing, and piercing damage from non-magical attacks, and their creature type changes to *undead*. If the Fledgling is exposed to blood, they make a DC 20 Wisdom Save. If they fail, they are compelled to consume the blood by any means necessary. The Fledgling gains a Strength-based Bite Attack. They are proficient with this Attack, and it deals 2d6+STR piercing damage. When they make an Attack this way, they expose their target to Vampirism if their creature type is humanoid or fey.
 
-When the Fledgeling takes a Long Rest, if they have not consumed blood since their last Long Rest, their Strength, Dexterity, Wisdom, and Charisma Scores decrease by 1, and they do not regain Hit Points or Hit Dice as normal. If they have, the mentioned Ability Scores instead increase by 1 if they have been reduced by Vampirism. Then, if this is the third Long Rest they have consumed blood for, their symptoms progress to Stage Two.
+When the Fledgeling takes a Long Rest, if they have not consumed blood since their last Long Rest, their Strength, Dexterity, Wisdom, and Charisma Scores decrease by 1, and they do not regain Hit Points or Hit Dice as normal. If they have, the mentioned Ability Scores instead increase by 1 if they have been reduced by Vampirism, and they gain a Vampiric Progression. Then, if they have three or more Vampiric Progression, their symptoms progress to Stage Two, and their Vampiric Progression is reduced to 0.
 
 #### Stage Two
 At Stage Two, the diseased creature - colloquially known as a Childer - experiences their compulsion as a need, rather than a desire. The Childer gains vulnerability to fire and radiant damage. If the Childer is exposed to blood, they make a DC 25 Wisdom Save. If they fail, they are compelled to consume the blood by any means necessary. When the Childer consumes blood, they gain a Blood Token. A Childer can have at most a number of Blood Tokens equal to the value of their Proficiency Bonus. The Childer cannot gain Hit Points by any means except by spending Blood Tokens.
@@ -72,5 +72,6 @@ A Childer can spend Blood Tokens in the following manners.
 When the Childer takes a Long Rest, if they have a number of Blood Tokens equal to the value of their Proficiency Bonus, they gain a Vampiric Progression. Then, if they have five or more Vampiric Progression, their symptoms progress to Stage Three and their Vampiric Progression is reduced to 0.
 
 #### Stage Three
+At Stage Three, the diseased creature - colloquially known as a Drainier - experiences little to no connection to the 
 
 ### Curse of the Beast* (Therianthropy)
