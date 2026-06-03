@@ -53,4 +53,6 @@ At Stage Two, the diseased creature's mania worsens, and their mucus develops in
 At Stage Three, the diseased creature has lost control of themselves to their affliction. The diseased creature's type changes to *fiend*, and their alignment becomes *chaotic evil* if it is not already. The diseased creature seeks violence and destruction at every opportunity, using any and all means possible. The diseased creature does not die if their Wisdom or Charisma scores become less than 0.
 
 ### Curse of the Witch of Ardor (Vampirism/Arstovichism)
+The Curse of the Witch of Ardor (further referred to as 'Vampirism') is a fey pathogen that 
+
 ### Curse of the Beast* (Therianthropy)
