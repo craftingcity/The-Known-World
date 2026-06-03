@@ -5,6 +5,10 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md"
     },
     {
+      "basename": "Alchemical Components",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md"
+    },
+    {
       "basename": "The Arstoviches",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Speaker Vanavar",
       "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Admin/Speaker Vanavar.md"
-    },
-    {
-      "basename": "All-Father Annam",
-      "path": "Game Notes/NPCs/Absolute Power/All-Father Annam.md"
     }
   ],
   "omittedPaths": [],

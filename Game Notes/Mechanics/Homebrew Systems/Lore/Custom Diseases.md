@@ -10,6 +10,8 @@ aliases:
 Diseases are medical afflictions of your body and mind that you gathered from a specific source and possibly could spread.
 
 ## Natural Diseases
+Natural Diseases can become deadly if left untreated, but can often be remedied or outright cured by simple herbal-alchemical or magical means.
+
 ### Plague
 Plague is most commonly spread in sewage, refuse, gore, rodents, and other people afflicted by Plague. After failing a DC 13 Con Save upon exposure, initial symptoms will occur within a day. 
 
