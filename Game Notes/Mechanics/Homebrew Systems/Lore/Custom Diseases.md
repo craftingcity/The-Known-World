@@ -31,7 +31,7 @@ A creature experiencing the initial symptoms of Blinding Sickness will develop b
 ### Boil Pox
 Boil Pox is commonly spread by rodents, infected meats, and other people afflicted by Boil Pox. After failing a DC 16 Con Save upon exposure, initial symptoms occur within 2-5 days. 
 
-A creature experiencing the initial symptoms of Boil Pox will develop small sores over their body
+A creature experiencing the initial symptoms of Boil Pox will develop a mild fever and small sores over their body.
 
 ## Preternatural Diseases
 ### Curse of the Black Blood
