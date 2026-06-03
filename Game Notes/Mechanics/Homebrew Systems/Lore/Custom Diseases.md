@@ -46,7 +46,7 @@ The Curse of the Black Blood is a fiendish pathogen that degenerates much of the
 A creature experiencing the initial symptoms of the Black Blood Curse will largely appear and act normally, excepting a slight drift of personality into some degree of sadism or narcissism. When a creature experiencing initial symptoms takes a Long Rest, they make a DC 14 Wis Save. If they fail, their symptoms progress to Stage One.
 
 #### Stage One
-At Stage One, ((compulsion to kill humanoid))
+At Stage One, the diseased creature experiences bouts of manic, uncontrolled violence((compulsion to kill humanoid))
 
 #### Stage Two
 At Stage Two, ((compulsion to consume humanoid))
