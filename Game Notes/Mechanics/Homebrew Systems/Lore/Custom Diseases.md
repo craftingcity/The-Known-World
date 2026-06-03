@@ -24,7 +24,7 @@ At Stage Two, the diseased creature is outright dying. When the diseased creatur
 ### Blinding Sickness
 Blinding Sickness is commonly spread by rodents or insects. After failing a DC 14 Con Save upon exposure, initial symptoms appear immediately.
 
-A creature experiencing the initial symptoms of Blinding Sickness will develop blurred vision. The diseased creature has Disadvantage on Perception and Investigation Checks.
+A creature experiencing the initial symptoms of Blinding Sickness will develop blurred vision. The diseased creature has Disadvantage on Perception and Investigation Checks. When they take a Long Rest or Short Rest, they make a DC 14 Con Save. If they fail, their symptoms develop into Blindness. Otherwise, if the result is 17 or higher, they are cured of this disease.
 
 ### Boil Pox
 
