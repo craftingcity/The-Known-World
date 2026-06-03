@@ -37,9 +37,10 @@ A creature experiencing the initial symptoms of Boil Pox will develop a mild fev
 At Stage One, the diseased creature's fever rises, their skin takes on a reddish-orange hue relative to their natural tone, and their sores develop into painful abscesses. The diseased creature has Disadvantage on Strength and Constitution Checks and Saves, and is Vulnerable to bludgeoning, slashing, and piercing damage. When they take a Long Rest, they make a DC 16 Con Save. If they fail, their symptoms progress to Stage Two. Otherwise, if the result is 20 or higher, they are cured of this disease.
 
 #### Stage Two
-At Stage Two, the diseased creature's fever rises even further, and their abscesses become larger and more painful. The diseased creature can no longer regain Hit Points, 
+At Stage Two, the diseased creature's fever rises even further, and their abscesses become larger and more painful. The diseased creature can no longer regain Hit Points. When they take a Long Rest, they are dealt an amount of poison damage equal to twice their level, and then they make a DC 16 Con Save. If they fail, they are dealt that amount of poison damage again.
 
 ## Preternatural Diseases
 ### Curse of the Black Blood
+The Curse of the Black Blood is a fiendish pathogen that degenerates much of the "higher-level" cognitive function in it's hosts, eventually reducing them into slavering 
 ### Curse of the Witch of Ardor (Vampirism/Arstovichism)
 ### Curse of the Beast* (Therianthropy)
