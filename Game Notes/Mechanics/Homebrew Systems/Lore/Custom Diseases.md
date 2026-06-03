@@ -58,6 +58,11 @@ The Curse of the Witch of Ardor (further referred to as 'Vampirism') is a fey pa
 A creature experiencing the initial symptoms of Vampirism will become pale or discolored, and experience Sunlight Sensitivity (*You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight*). When the diseased creature takes a Long Rest, they make a DC 20 Wis Save. If they fail, their symptoms progress to Stage One.
 
 #### Stage One
-At Stage One, the diseased creature - colloquially known as a Fledgling - experiences a compulsive desire to consume blood. When the Fledgeling takes a Long Rest, if they have not consumed blood since their last Long Rest, their Strength, Dexterity, Wisdom, and Charisma Scores decrease by 1. If they have, the mentioned Ability Scores increase by 1 if they are less than 
+At Stage One, the diseased creature - colloquially known as a Fledgling - experiences a compulsive desire to consume blood. The Fledgeling does not require food or water to maintain their form, they gain resistance to bludgeoning, slashing, and piercing damage from non-magical attacks, and their creature type changes to *undead*. If the Fledgling is exposed to blood, they make a DC 20 Wisdom Save. If they fail, they are compelled to consume the blood by any means necessary. The Fledgeling can make a Bite Attack. This Attack uses their Strength Ability Score, and deals 2d6+STR
+
+When the Fledgeling takes a Long Rest, if they have not consumed blood since their last Long Rest, their Strength, Dexterity, Wisdom, and Charisma Scores decrease by 1. If they have, the mentioned Ability Scores instead increase by 1 if they have been reduced by Vampirism. Then, if this is the third Long Rest they have consumed blood for, their symptoms progress to Stage Two.
+
+#### Stage Two
+At Stage Two, the diseased creature - colloquially known as a Childer - experiences their compulsion as a need, rather than a desire. The Childer gains vulnerability to fire and radiant damage. 
 
 ### Curse of the Beast* (Therianthropy)
