@@ -18,7 +18,7 @@ Plague is most commonly spread in sewage, refuse, gore, rodents, and other peopl
 A creature experiencing the initial symptoms of Plague will become pale or discolored, violently cough phlegm, and feel nauseous. When a creature experiencing initial symptoms takes a Long Rest, they make a DC 13 Con Save. If they fail, their symptoms progress to Stage One. Otherwise, if the result is 16 or higher, they are cured of this disease.
 
 #### Stage One
-At Stage One, the diseased creature becomes transmissive, and their symptoms worsen. Instead of coughing phlegm, they cough blood, and the nausea has progressed to genuine vomiting. The diseased creature gains a level of Exhaustion that they cannot lose until the disease is cured, and their Maximum Hit Points are halved. When they take a Long Rest, they make a DC 13 Con Save. If they fail, their symptoms progress to Stage Two.
+At Stage One, the diseased creature becomes transmissive, and their symptoms worsen. Instead of coughing phlegm, they cough blood, and the nausea has progressed to genuine vomiting. The diseased creature gains a level of Exhaustion that they cannot lose until the disease is cured, and their Maximum Hit Points are halved. When the diseased creature takes a Long Rest, they make a DC 13 Con Save. If they fail, their symptoms progress to Stage Two.
 
 #### Stage Two
 At Stage Two, the diseased creature is outright dying. When the diseased creature takes a Long Rest, they make a DC 13 Con Save. If they fail, they gain a level of Exhaustion that they cannot lose until the disease is cured, and their Maximum Hit Points are halved.
@@ -34,10 +34,10 @@ Boil Pox is commonly spread by rodents, infected meats, and other people afflict
 A creature experiencing the initial symptoms of Boil Pox will develop a mild fever, sore eyes, and small sores over their body. When a creature experiencing initial symptoms takes a Long Rest, they make a DC 16 Con Save. If they fail, their symptoms progress to Stage One. Otherwise, if the result is 20 or higher, they are cured of this disease.
 
 #### Stage One
-At Stage One, the diseased creature's fever rises, their skin takes on a reddish-orange hue relative to their natural tone, and their sores develop into painful abscesses. The diseased creature has Disadvantage on Strength and Constitution Checks and Saves, and is Vulnerable to bludgeoning, slashing, and piercing damage. When they take a Long Rest, they make a DC 16 Con Save. If they fail, their symptoms progress to Stage Two. Otherwise, if the result is 20 or higher, they are cured of this disease.
+At Stage One, the diseased creature's fever rises, their skin takes on a reddish-orange hue relative to their natural tone, and their sores develop into painful abscesses. The diseased creature has Disadvantage on Strength and Constitution Checks and Saves, and is Vulnerable to bludgeoning, slashing, and piercing damage. When the diseased creature takes a Long Rest, they make a DC 16 Con Save. If they fail, their symptoms progress to Stage Two. Otherwise, if the result is 20 or higher, they are cured of this disease.
 
 #### Stage Two
-At Stage Two, the diseased creature's fever rises even further, and their abscesses become larger and more painful. The diseased creature can no longer regain Hit Points. When they take a Long Rest, they are dealt an amount of poison damage equal to twice their level, and then they make a DC 16 Con Save. If they fail, they are dealt that amount of poison damage again.
+At Stage Two, the diseased creature's fever rises even further, and their abscesses become larger and more painful. The diseased creature can no longer regain Hit Points. When the diseased creature takes a Long Rest, they are dealt an amount of poison damage equal to twice their level, and then they make a DC 16 Con Save. If they fail, they are dealt that amount of poison damage again.
 
 ## Preternatural Diseases
 ### Curse of the Black Blood
@@ -46,7 +46,7 @@ The Curse of the Black Blood is a fiendish pathogen that degenerates much of the
 A creature experiencing the initial symptoms of the Black Blood Curse will largely appear and act normally, excepting a slight drift of personality into some degree of sadism or narcissism. When a creature experiencing initial symptoms takes a Long Rest, they make a DC 14 Wis Save. If they fail, their symptoms progress to Stage One.
 
 #### Stage One
-At Stage One, the diseased creature experiences bouts of manic, uncontrolled violence((compulsion to kill humanoid))
+At Stage One, the diseased creature experiences bouts of manic, uncontrolled violence without reason, and will develop a dark mucus they excrete in place of their other bodily fluids. Whenever the diseased creature makes an Attack against a creature that is not afflicted with the Black Blood Curse, they gain +3 to hit on that Attack. Whenever the diseased creature makes an Ability Check or Saving Throw, they roll a d8. If the result is 3 or less, they are compelled to spend their next turn attacking the nearest humanoid creature that is not afflicted with the Black Blood Curse. When the diseased creature takes a Long Rest, their  
 
 #### Stage Two
 At Stage Two, ((compulsion to consume humanoid))
