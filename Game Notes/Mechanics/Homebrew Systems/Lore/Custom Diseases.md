@@ -72,6 +72,6 @@ A Childer can spend Blood Tokens in the following manners.
 When the Childer takes a Long Rest, if they have a number of Blood Tokens equal to the value of their Proficiency Bonus, they gain a Vampiric Progression. Then, if they have five or more Vampiric Progression, their symptoms progress to Stage Three and their Vampiric Progression is reduced to 0.
 
 #### Stage Three
-At Stage Three, the diseased creature - colloquially known as a Drainier - experiences little to no connection to the person they once were. 
+At Stage Three, the diseased creature - colloquially known as a Dhampir - experiences little to no connection to the person they once were as their power and desires grow beyond humane. The Dhampir is immune to bludgeoning, slashing, and piercing damage from non-magical attacks. 
 
 ### Curse of the Beast* (Therianthropy)
