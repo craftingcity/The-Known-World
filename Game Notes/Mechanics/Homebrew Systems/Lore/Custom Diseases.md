@@ -41,6 +41,18 @@ At Stage Two, the diseased creature's fever rises even further, and their absces
 
 ## Preternatural Diseases
 ### Curse of the Black Blood
-The Curse of the Black Blood is a fiendish pathogen that degenerates much of the "higher-level" cognitive function in it's hosts, eventually reducing them into slavering 
+The Curse of the Black Blood is a fiendish pathogen that degenerates much of the "higher-level" cognitive function in it's hosts, eventually reducing them into dangerous, sociopathic, "Murder-Hobos" that are easily influenced and manipulated. The Black Blood Curse is spread by fiendish interactions, worship, or exposure to infected people or their secretions. After failing a DC 14 Wis Save upon exposure, initial symptoms occur immediately.
+
+A creature experiencing the initial symptoms of the Black Blood Curse will largely appear and act normally, excepting a slight drift of personality into some degree of sadism or narcissism. When a creature experiencing initial symptoms takes a Long Rest, they make a DC 14 Wis Save. If they fail, their symptoms progress to Stage One.
+
+#### Stage One
+At Stage One, ((compulsion to kill humanoid))
+
+#### Stage Two
+At Stage Two, ((compulsion to consume humanoid))
+
+#### Stage Three
+At Stage Three, ((complete loss of personality))
+
 ### Curse of the Witch of Ardor (Vampirism/Arstovichism)
 ### Curse of the Beast* (Therianthropy)
