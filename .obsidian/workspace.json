@@ -282,7 +282,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "feyfo",
+                "query": "\"Sunlight Sensitivity\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -526,7 +526,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78334b6d15a20a25",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",

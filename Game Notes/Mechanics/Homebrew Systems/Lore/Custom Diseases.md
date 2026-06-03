@@ -55,6 +55,9 @@ At Stage Three, the diseased creature has lost control of themselves to their af
 ### Curse of the Witch of Ardor (Vampirism/Arstovichism)
 The Curse of the Witch of Ardor (further referred to as 'Vampirism') is a fey pathogen that restructures it's host such that much of the traditional functions of the host's organs is disabled or so distantly redefined that they could only be medically considered either dead or wholly different. The disease is spread exclusively via the bite of an infected person. After failing a DC 18 Con Save upon exposure, or if exposure occurs to an unconscious or dying creature, initial symptoms occur immediately.
 
-A creature experiencing the initial symptoms of Vampirism
+A creature experiencing the initial symptoms of Vampirism will become pale or discolored, and experience Sunlight Sensitivity (*You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight*). When the diseased creature takes a Long Rest, they make a DC 20 Wis Save. If they fail, their symptoms progress to Stage One.
+
+#### Stage One
+At Stage One, the diseased creature - colloquially known as a Fledgling - experiences a compulsive desire to consume blood. When the Fledgeling takes a Long Rest, if they have not consumed blood since their last Long Rest, their Strength, Dexterity, Wisdom, and Charisma Scores decrease by 1. If they have, the mentioned Ability Scores increase by 1 if they are less than 
 
 ### Curse of the Beast* (Therianthropy)
