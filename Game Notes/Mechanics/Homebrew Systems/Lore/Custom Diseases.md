@@ -11,7 +11,7 @@ Diseases are medical afflictions of your body and mind that you gathered from a 
 
 ## Natural Diseases
 ### Plague
-Plague is most commonly spread in sewage, refuse, gore, rodents, and other people afflicted by Plague. After failing a DC 13 Con Save upon exposure, initial symptoms will occur within a day.
+Plague is most commonly spread in sewage, refuse, gore, rodents, and other people afflicted by Plague. After failing a DC 13 Con Save upon exposure, initial symptoms will occur within a day. 
 
 A creature experiencing the initial symptoms of Plague will become pale or discolored, violently cough phlegm, and feel nauseous. When a creature experiencing initial symptoms takes a Long Rest, they make a DC 13 Con Save. If they fail, their symptoms progress to Stage One. Otherwise, if the result is 16 or higher, they are cured of this disease.
 
@@ -28,6 +28,8 @@ A creature experiencing the initial symptoms of Blinding Sickness will develop b
 
 ### Boil Pox
 Boil Pox is commonly spread by rodents, infected meats, and other people afflicted by Boil Pox. After failing a DC 16 Con Save upon exposure, initial symptoms occur within 2-5 days. 
+
+A creature experiencing the initial symptoms of Boil Pox will develop small sores over their body
 
 ## Preternatural Diseases
 ### Curse of the Black Blood
