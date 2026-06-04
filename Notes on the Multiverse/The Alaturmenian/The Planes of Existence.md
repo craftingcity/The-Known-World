@@ -77,7 +77,9 @@ This is the home plane of the Archon, bastions of moral good, health, and all th
 #### [[Baator]], the Ideoplane of Evil
 Task: maintain moral evil and promote eternal hatred.
 
-This is the home plane of 
+This is the home plane of [[Devils]], the manifestations of true sin.
 
 #### [[Limbo]], the Ideoplane of Neutrality
 Task: maintain neutrality throughout reality.
+
+Limbo is home to none, excepting the [[Queen of Swords]] and her minions.

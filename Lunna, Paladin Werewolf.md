@@ -28,9 +28,15 @@ Lunna is...
 > **_Loyalty._** Your word is your bond. Without loyalty, oaths and laws are meaningless.
 > **_Courage._** You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don't act, then who will?
 > **_Responsibility._** You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
+> 
+> Avandra's commandments are few:
+> 
+> **_Luck._** Luck favors the bold. Take your fate into your own hands, and Avandra smiles upon you.
+> **_Liberty._** Strike back against those who would rob you of your freedom and urge others to fight for their own liberty.
+> **_Faith._** Change is inevitable, but it takes the work of the faithful to ensure that change is for the better.
 
 - Lunna is a little distant, but is more than willing to speak up for others.
-- Lunna is nihilistic in regards to her own life if not outright suicidal
+- Lunna is nihilistic in regards to her own life if not outright suicidal.
 
 ### Background
 #### Early Life
@@ -54,7 +60,10 @@ It was too horrible, but she knows that she did this to her own family.
 
 She can't be this. She can't be a monster. 
 
+####
+
 ## Important Knowledge
+#### The Incident...
 My oldest brother wasn't home at the time of the incident. His name is Matthew.
 
 ## Stats

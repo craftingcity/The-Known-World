@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "The Planes of Existence",
-      "path": "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md"
+      "basename": "Lunna, Paladin Werewolf",
+      "path": "Lunna, Paladin Werewolf.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
     },
     {
       "basename": "APGtAv1",
@@ -11,6 +15,14 @@
     {
       "basename": "Mechanis",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md"
+    },
+    {
+      "basename": "The Planes of Existence",
+      "path": "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md"
+    },
+    {
+      "basename": "Paulo San Tymiq",
+      "path": "Game Notes/NPCs/High Power/Lorekeeper NPCs/Paulo San Tymiq.md"
     },
     {
       "basename": "Alchemical Components",
@@ -23,10 +35,6 @@
     {
       "basename": "Custom Diseases",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
     },
     {
       "basename": "Prenotes June 04 26",
@@ -55,10 +63,6 @@
     {
       "basename": "Custom Heritages",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
-    },
-    {
-      "basename": "Lunna, Paladin Werewolf",
-      "path": "Lunna, Paladin Werewolf.md"
     },
     {
       "basename": "conflict-files-obsidian-git",
@@ -195,10 +199,6 @@
     {
       "basename": "Notes on the Multiverse",
       "path": "Notes on the Multiverse/Notes on the Multiverse.md"
-    },
-    {
-      "basename": "DATABASE",
-      "path": "DATABASE.base"
     }
   ],
   "omittedPaths": [],
