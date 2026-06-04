@@ -63,11 +63,11 @@ At Stage One, the diseased creature - colloquially known as a Fledgling - experi
 When the Fledgeling takes a Long Rest, if they have not consumed blood since their last Long Rest, their Strength, Dexterity, Wisdom, and Charisma Scores decrease by 1, and they do not regain Hit Points or Hit Dice as normal. If they have, the mentioned Ability Scores instead increase by 1 if they have been reduced by Vampirism, and they gain a Vampiric Progression. Then, if they have three or more Vampiric Progression, their symptoms progress to Stage Two, and their Vampiric Progression is reduced to 0.
 
 #### Stage Two
-At Stage Two, the diseased creature - colloquially known as a Childer - experiences their compulsion as a need, rather than a desire. The Childer gains vulnerability to fire and radiant damage. If the Childer is exposed to blood, they make a DC 25 Wisdom Save. If they fail, they are compelled to consume the blood by any means necessary. If the Childer is exposed to sunlight, they take 3d10 radiant damage each round they are exposed. When the Childer consumes blood, they gain a Blood Token. A Childer can have at most a number of Blood Tokens equal to the value of their Proficiency Bonus. The Childer cannot gain Hit Points by any means except by spending Blood Tokens.
+At Stage Two, the diseased creature - colloquially known as a Childer - experiences their compulsion as a need, rather than a desire. The Childer gains vulnerability to fire and radiant damage, and cannot enter a residence without permission from an occupant. If the Childer is exposed to blood, they make a DC 25 Wisdom Save. If they fail, they are compelled to consume the blood by any means necessary. If the Childer is exposed to sunlight, they take 3d10 radiant damage each round they are exposed. When the Childer consumes blood, they gain a Blood Token. A Childer can have at most a number of Blood Tokens equal to the value of their Proficiency Bonus. The Childer cannot gain Hit Points by any means except by spending Blood Tokens.
 
 A Childer can spend Blood Tokens in the following manners.
 	- As an Action, spend any number of Blood Tokens. When you do, you roll and expend a hit die to regain a number of hit points equal to the result plus your Con a number of times equal to the number of Tokens you spent.
-	- As a Bonus Action, spend a Blood Token to cast *charm person*. Your Charisma is your spellcasting Ability for this spell.
+	- As a Bonus Action, spend a Blood Token to cast *charm person* or *charm monster*. Your Charisma is your spellcasting Ability for this spell.
 
 When the Childer takes a Long Rest, if they have a number of Blood Tokens equal to the value of their Proficiency Bonus, they gain a Vampiric Progression. Then, if they have five or more Vampiric Progression, their symptoms progress to Stage Three and their Vampiric Progression is reduced to 0.
 
@@ -77,13 +77,17 @@ At Stage Three, the diseased creature - colloquially known as a Dhampir - experi
 A Dhampir can spend Blood Tokens in the following manners.
 	- As an Action, spend any number of Blood Tokens. When you do, you roll and expend a hit die to regain a number of hit points equal to twice the result plus twice your Con a number of times equal to the number of Tokens you spent.
 	- As a Movement, spend three Blood Tokens. When you do, you fly up to 60', during which your size is Tiny, you do not provoke Opportunity Attacks, and you can move through spaces occupied by other creatures.
-	- As a Bonus Action, spend a Blood Token to cast *charm person* or *dominate person*. Your Charisma is your spellcasting Ability for this spell.
+	- As a Bonus Action, spend a Blood Token to cast *charm person*, *charm monster*, or *dominate person*. Your Charisma is your spellcasting Ability for this spell.
+	- As a Reaction, spend a Blood Token to re-roll an Ability Check or Saving Throw you failed.
 
 When a Dhampir is reduced to 0 or fewer Hit Points, if they have any Blood Tokens and the damage that reduced them to 0 or fewer was not fire or radiant damage, they are consumed and the Dhampir becomes incapacitated. Otherwise, they die and are reduced to ash. When a Dhampir is incapacitated this way, they can be killed by piecing their heart with silver or mithril, or exposing the Dhampir to direct sunlight such that they are reduced to ash. When a Dhampir is incapacitated this way, they can regain a Hit Point by being laid in their lair for 28 uninterrupted days.
 
 When the Dhampir takes a Long Rest, if they have a number of Blood Tokens equal to thrice the value of their Proficiency Bonus, they gain a Vampiric Progression.
 
 A Dhampir can spend Vampiric Progression in the following manners.
-	- During a Long Rest, spend five Vampiric Progression. When you do, choose an Ability Score to increase by 1 to a maximum of 30. Then, you are incapacitated 
+	- At any time, you may spend any number of Vampiric Progression to gain that number of Blood Tokens.
+	- As an Action, spend a Vampiric Progression. When you do, any creature that is Charmed or Dominated by you makes a Charisma Save against your Charisma Score. If they fail, they 
+	- During a Long Rest, spend five Vampiric Progression. When you do, choose an Ability Score to increase by 1 to a maximum of 30. Then, you are incapacitated for 24 hours.
+	- During a Long Rest, spend twenty Vampiric Progression. When you do, your Proficiency Score increases by 1. Then, you are incapacitated for 72 hours.
 
 ### Curse of the Beast* (Therianthropy)

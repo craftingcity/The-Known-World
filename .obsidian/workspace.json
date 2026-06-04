@@ -78,52 +78,6 @@
             }
           },
           {
-            "id": "25f32d6bc7f8312f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes May 22 26.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes May 22 26"
-            }
-          },
-          {
-            "id": "3cc2a59d5e1c0642",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Prenotes/'26/Prenotes Apr 07 26.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Apr 07 26"
-            }
-          },
-          {
             "id": "19a3893bbc799eea",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -147,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "93f1f48aef263296",
@@ -220,32 +174,9 @@
                   "icon": "lucide-file",
                   "title": "Alchemical Components"
                 }
-              },
-              {
-                "id": "cc5154ce1a15b6e0",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Prenotes June 04 26.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prenotes June 04 26"
-                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "d743613433b81473",
@@ -595,16 +526,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc5154ce1a15b6e0",
+  "active": "78334b6d15a20a25",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Prenotes June 04 26.md",
-    "Game Notes/Prenotes/'26/Prenotes Apr 07 26.md",
-    "Prenotes May 22 26.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
+    "Prenotes May 22 26.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
+    "Game Notes/Prenotes/'26/Prenotes Apr 07 26.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
@@ -622,7 +554,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
