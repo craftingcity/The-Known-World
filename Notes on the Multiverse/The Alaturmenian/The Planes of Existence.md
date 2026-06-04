@@ -67,11 +67,17 @@ This is the home plane of the Mecha, the enforcers of the physical reality of th
 #### [[Abyss]], the Ideoplane of Chaos
 Task: maintain the novelty of reality.
 
+This is the home plane of [[Demons]], a fractured and vile force of chaos.
+
 #### [[Elysium]], the Ideoplane of Good
 Task: maintain moral good and promote eternal happiness.
 
+This is the home plane of the Archon, bastions of moral good, health, and all things joyful.
+
 #### [[Baator]], the Ideoplane of Evil
 Task: maintain moral evil and promote eternal hatred.
+
+This is the home plane of 
 
 #### [[Limbo]], the Ideoplane of Neutrality
 Task: maintain neutrality throughout reality.

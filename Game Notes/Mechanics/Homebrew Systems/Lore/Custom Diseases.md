@@ -86,7 +86,7 @@ When the Dhampir takes a Long Rest, if they have a number of Blood Tokens equal 
 
 A Dhampir can spend Vampiric Progression in the following manners.
 	- At any time, you may spend any number of Vampiric Progression to gain that number of Blood Tokens.
-	- As an Action, touch a creature that is Charmed by you and spend a Vampiric Progression. When you do, they make a Charisma Saving Throw against your Charisma Score. If they fail, they become bonded to you, considering you as an important ally and friend. This bond lasts until you dismiss it, 
+	- As an Action, touch a creature that is Charmed by you and spend a Vampiric Progression. When you do, they make a Charisma Saving Throw against your Charisma Score. If they fail, they become bonded to you, considering you as an important ally and friend. This bond lasts until you dismiss it, or you die.
 	- During a Long Rest, spend five Vampiric Progression. When you do, choose an Ability Score to increase by 1 to a maximum of 30. Then, you are incapacitated for 24 hours.
 	- During a Long Rest, spend twenty Vampiric Progression. When you do, your Proficiency Score increases by 1. Then, you are incapacitated for 72 hours.
 
