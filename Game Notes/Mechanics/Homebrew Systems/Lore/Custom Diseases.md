@@ -79,8 +79,11 @@ A Dhampir can spend Blood Tokens in the following manners.
 	- As a Movement, spend three Blood Tokens. When you do, you fly up to 60', during which your size is Tiny, you do not provoke Opportunity Attacks, and you can move through spaces occupied by other creatures.
 	- As a Bonus Action, spend a Blood Token to cast *charm person* or *dominate person*. Your Charisma is your spellcasting Ability for this spell.
 
-When a Dhampir is reduced to 0 or fewer Hit Points, if they have any Blood Tokens and the damage that reduced them to 0 or fewer was not fire or radiant damage, they are consumed and the Dhampir becomes incapacitated. Otherwise, they die and are reduced to ash. When a Dhampir is incapacitated this way, they can be killed by piecing their heart with silver or mithril, or exposing the Dhampir to direct sunlight such that they are reduced to ash.
+When a Dhampir is reduced to 0 or fewer Hit Points, if they have any Blood Tokens and the damage that reduced them to 0 or fewer was not fire or radiant damage, they are consumed and the Dhampir becomes incapacitated. Otherwise, they die and are reduced to ash. When a Dhampir is incapacitated this way, they can be killed by piecing their heart with silver or mithril, or exposing the Dhampir to direct sunlight such that they are reduced to ash. When a Dhampir is incapacitated this way, they can regain a Hit Point by being laid in their lair for 28 uninterrupted days.
 
-When the Dhampir takes a Long Rest, if they have a number of Blood Tokens equal to thrice the value of their Proficiency Bonus
+When the Dhampir takes a Long Rest, if they have a number of Blood Tokens equal to thrice the value of their Proficiency Bonus, they gain a Vampiric Progression.
+
+A Dhampir can spend Vampiric Progression in the following manners.
+	- During a Long Rest, spend five Vampiric Progression. When you do, choose an Ability Score to increase by 1 to a maximum of 30. Then, you are incapacitated 
 
 ### Curse of the Beast* (Therianthropy)

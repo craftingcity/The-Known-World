@@ -78,6 +78,52 @@
             }
           },
           {
+            "id": "25f32d6bc7f8312f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes May 22 26.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes May 22 26"
+            }
+          },
+          {
+            "id": "3cc2a59d5e1c0642",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Prenotes/'26/Prenotes Apr 07 26.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes Apr 07 26"
+            }
+          },
+          {
             "id": "19a3893bbc799eea",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -101,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "93f1f48aef263296",
@@ -174,9 +220,32 @@
                   "icon": "lucide-file",
                   "title": "Alchemical Components"
                 }
+              },
+              {
+                "id": "cc5154ce1a15b6e0",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Prenotes June 04 26.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Prenotes June 04 26"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "d743613433b81473",
@@ -282,7 +351,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vitality",
+                "query": "dragoon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -526,12 +595,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17bba7903284a409",
+  "active": "cc5154ce1a15b6e0",
   "lastOpenFiles": [
+    "Prenotes June 04 26.md",
+    "Game Notes/Prenotes/'26/Prenotes Apr 07 26.md",
+    "Prenotes May 22 26.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
@@ -541,7 +613,6 @@
     "Lunna, Paladin Werewolf.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'26/Prenotes Mar 22 26.md",
-    "Prenotes May 22 26.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
     "Game Notes/NPCs/High Power/Devils/Devils.md",
@@ -552,8 +623,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Northeastern Central.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Northwestern Central.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Sinazel Ambonas.md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
