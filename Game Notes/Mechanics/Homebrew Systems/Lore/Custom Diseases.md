@@ -11,7 +11,7 @@ Diseases are medical afflictions of your body and mind that you gathered from a 
 
 ## Natural Diseases
 ### Substance Dependency Disorder
-Substance Dependency Disorder, sometimes called Addiction, is the psycho-physical need to consume the substance you are dependent on.
+Substance Dependency Disorder, sometimes called Addiction, is the psycho-physical need to consume the substance you are dependent on. When you form your Dependance by failing the Con Save for an addictive substance by 10 or more, you gain an Addiction Die, which begins as a d4, for this substance. When you are triggered (as defined by you and your DM), roll your Addiction Die. If it is a 1, you relapse, and must consume the substance of your addiction as soon as possible, ignoring any and all other needs and wants. Otherwise, if it is the highest value on the Addiction Die, the size of the Die increases.
 
 ### Plague
 Plague is most commonly spread in sewage, refuse, gore, rodents, and other people afflicted by Plague. After failing a DC 13 Con Save upon exposure, initial symptoms will occur within a day. 

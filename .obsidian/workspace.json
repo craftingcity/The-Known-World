@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "brillian",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -389,11 +389,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17bba7903284a409",
+  "active": "17a5becb6c37d717",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'26/Prenotes Apr 07 26.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
+    "Game Notes/Prenotes/'26/Prenotes Apr 07 26.md",
     "Game Notes/Prenotes/'26/Prenotes Mar 29 26.md",
     "Game Notes/Prenotes/'26/Prenotes Mar 22 26.md",
     "Prenotes June 05 26.md",
