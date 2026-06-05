@@ -4,11 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "965402f24a31bd7a",
+        "id": "1bc8e9bba9942bb4",
         "type": "tabs",
         "children": [
           {
-            "id": "e3babc0ced7aa858",
+            "id": "4785fb67bad5681c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Planes of Existence",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Planes of Existence\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":43.71926377644862}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes June 05 26.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes June 05 26"
+            }
+          },
+          {
+            "id": "68872399c02481c4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,17 +49,14 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lunna, Paladin Werewolf.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -324,24 +350,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3babc0ced7aa858",
+  "active": "68872399c02481c4",
   "lastOpenFiles": [
+    "Prenotes June 05 26.md",
+    "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
+    "Lunna, Paladin Werewolf.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
-    "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
     "Game Notes/NPCs/High Power/Lorekeeper NPCs/Paulo San Tymiq.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
-    "Prenotes June 04 26.md",
     "Prenotes May 22 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
     "Game Notes/Prenotes/'26/Prenotes Apr 07 26.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-    "Lunna, Paladin Werewolf.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'26/Prenotes Mar 22 26.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",

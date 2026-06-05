@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for June 4th
+# Prenotes for June 5th
 ## Party of Interest: [[Dragoon's Greats Game]]
 - [ ] DM Screen
 - [ ] Notepaper
