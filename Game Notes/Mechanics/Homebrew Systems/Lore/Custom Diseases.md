@@ -68,7 +68,7 @@ At Stage Two, the diseased creature - colloquially known as a Childer - experien
 A Childer can spend Blood Tokens in the following manners.
 	- As an Action, spend any number of Blood Tokens. When you do, you roll and expend a hit die to regain a number of hit points equal to the result plus your Con a number of times equal to the number of Tokens you spent.
 	- As a Bonus Action, spend a Blood Token to cast *charm person* or *charm monster*. Your Charisma is your spellcasting Ability for this spell.
-	- As a Bonus Action, spend a Blood Token. When you do, you gain +3 to your Strength and Dexterity 
+	- As a Bonus Action or a Reaction, spend a Blood Token. When you do, you gain +3 to Ability Checks, Saving Throws, and Attack Rolls made with your Strength, Dexterity, or Constitution Modifiers until the beginning of your next turn.
 
 When the Childer takes a Long Rest, if they have a number of Blood Tokens equal to the value of their Proficiency Bonus, they gain a Vampiric Progression. Then, if they have five or more Vampiric Progression, their symptoms progress to Stage Three and their Vampiric Progression is reduced to 0.
 
@@ -79,9 +79,8 @@ A Dhampir can spend Blood Tokens in the following manners.
 	- As an Action, spend any number of Blood Tokens. When you do, you roll and expend a hit die to regain a number of hit points equal to twice the result plus twice your Con a number of times equal to the number of Tokens you spent.
 	- As a Movement, spend three Blood Tokens. When you do, you fly up to 60', during which your size is Tiny, you do not provoke Opportunity Attacks, and you can move through spaces occupied by other creatures.
 	- As a Bonus Action, spend a Blood Token to cast *charm person*, *charm monster*, or *dominate person*. Your Charisma is your spellcasting Ability for this spell.
+	- As a Bonus Action or a Reaction, spend a Blood Token. When you do, you gain +5 to Ability Checks, Saving Throws, and Attack Rolls made with your Strength, Dexterity, or Constitution Modifiers until the beginning of your next turn.
 	- As a Reaction, spend a Blood Token to re-roll an Ability Check or Saving Throw you failed.
-
-When a Dhampir is reduced to 0 or fewer Hit Points, if they have any Blood Tokens and the damage that reduced them to 0 or fewer was not fire or radiant damage, they are consumed and the Dhampir becomes incapacitated. Otherwise, they die and are reduced to ash. When a Dhampir is incapacitated this way, they can be killed by piecing their heart with silver or mithril, or exposing the Dhampir to direct sunlight such that they are reduced to ash. When a Dhampir is incapacitated this way, they can regain a Hit Point by being laid in their lair for 28 uninterrupted days.
 
 When the Dhampir takes a Long Rest, if they have a number of Blood Tokens equal to thrice the value of their Proficiency Bonus, they gain a Vampiric Progression.
 
@@ -90,5 +89,7 @@ A Dhampir can spend Vampiric Progression in the following manners.
 	- As an Action, touch a creature that is Charmed by you and spend a Vampiric Progression. When you do, they make a Charisma Saving Throw against your Charisma Score. If they fail, they become bonded to you, considering you as an important ally and friend. This bond lasts until you dismiss it, or you die.
 	- During a Long Rest, spend five Vampiric Progression. When you do, choose an Ability Score to increase by 1 to a maximum of 30. Then, you are incapacitated for 24 hours.
 	- During a Long Rest, spend twenty Vampiric Progression. When you do, your Proficiency Score increases by 1. Then, you are incapacitated for 72 hours.
+
+When a Dhampir is reduced to 0 or fewer Hit Points, if they have any Blood Tokens and the damage that reduced them to 0 or fewer was not fire or radiant damage, they are consumed and the Dhampir becomes incapacitated. Otherwise, they die and are reduced to ash. When a Dhampir is incapacitated this way, they can be killed by piecing their heart with wood or mithril, or exposing the Dhampir to direct sunlight such that they are reduced to ash. When a Dhampir is incapacitated this way, they can regain a Hit Point by being laid in their lair for 28 uninterrupted days.
 
 ### Curse of the Beast* (Therianthropy)
