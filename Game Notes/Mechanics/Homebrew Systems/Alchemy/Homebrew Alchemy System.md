@@ -74,7 +74,9 @@ A permanent lab can grow and shrink to the needs of an alchemist, but anything m
 
 ### Mechanics
 #### Production
-The act of creating an alchemical product by a player is both an in-game performance that include collecting ingredients, equipment, knowledge, and creativity, as well as a roll of Intelligence (Arcana / Alchemist's Tools) for mechanical effect. 
+The act of creating an Alchemical Product by a player is both an in-game performance that include collecting ingredients, equipment, knowledge, and creativity, as well as a roll of Intelligence (Arcana / Alchemist's Tools) or Wisdom (Survival) for mechanical effect.
+
+The process of actually performing Alchemy is timely, usually taking an hour or more for each Product.
 
 When this check is performed during downtime, or by an NPC, one would "take ten", and calculate as though they had rolled a ten on the die.
 

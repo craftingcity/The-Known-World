@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "ac25ef0acadfc951",
+            "id": "01106dfb696601b0",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -376,8 +376,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dafe8404df17708b",
+  "active": "b8979b65e4437563",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "Prenotes June 05 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
@@ -403,7 +404,6 @@
     "Game Notes/NPCs/Absolute Power/Archdevil NPCs/Istratige.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Junie's Characters/Tiana Turing.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",

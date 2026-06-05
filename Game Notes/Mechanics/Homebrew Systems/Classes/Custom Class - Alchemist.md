@@ -91,6 +91,7 @@ At 3rd level, your Mobile Laboratory grants you the following effects;
 	- During the Grading of a product, your Mobile Laboratory uses your Intelligence or Wisdom Score (whichever is higher) as the result of its die roll, plus your choice of your Arcana or Survival Skills.
 	- You may still use your Laboratory as normal while it is performing an assignment.
 - While your Laboratory is accessible, when you finish a long rest, you may choose up to three Alchemical Components that you own. You gain another unit of each Component.
+- While you Laboratory is accessible, and you use it in the creation of an Alchemical Product, you can create any number of Products that you can pay for of the same Recipe in the same amount of time it would take you to make one Product of that recipe.
 
 At 9th level, your Mobile Laboratory grants you the following additional effects;
 
