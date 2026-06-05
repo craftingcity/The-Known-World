@@ -90,13 +90,13 @@ At 3rd level, your Mobile Laboratory grants you the following effects;
 - While your Laboratory is accessible, when you finish a short rest, you may assign your Mobile Laboratory an Alchemical Recipe that you know. When you do, you spend the Alchemical Components required for that recipe, and your Laboratory begins performing the processes of that Recipe. When you next finish a short rest while your Laboratory is accessible, you gather the Alchemical Product of that Recipe, and may re-assign your Laboratory.
 	- During the Grading of a product, your Mobile Laboratory uses your Intelligence or Wisdom Score (whichever is higher) as the result of its die roll, plus your choice of your Arcana or Survival Skills.
 	- You may still use your Laboratory as normal while it is performing an assignment.
-- While your Laboratory is accessible, when you finish a long rest, you may choose up to three Alchemical Components that you own. You gain another unit of each Component.
+- While your Laboratory is accessible, when you finish a long rest, you may choose an Alchemical Component that you own. You gain another unit of that Component.
 - While you Laboratory is accessible, and you use it in the creation of an Alchemical Product, you can create any number of Products that you can pay for of the same Recipe in the same amount of time it would take you to make one Product of that recipe.
 
 At 9th level, your Mobile Laboratory grants you the following additional effects;
 
 - When you would gather an Alchemical Product from your Mobile Laboratory, you gather twice as many units of Product.
-- When you would gather an Alchemical Component from your Mobile Laboratory, you gather twice as many units of Component.
+- When you would gather an Alchemical Component from your Mobile Laboratory, you gather thrice as many units of Component.
 - While your Laboratory is accessible, when you finish a long rest, you may assign your Mobile Laboratory an Alchemical Product that you own. When you do, you destroy the Alchemical Product and your Laboratory begins scribing the Alchemical Recipe used to create that Product. When you next finish a long rest while your Laboratory is accessible, you gather the Alchemical Recipe of that Product, and may re-assign your Laboratory.
 
 ### Extra Attack
