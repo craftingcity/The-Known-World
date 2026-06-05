@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homebrew Alchemy System",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md"
+    },
+    {
       "basename": "Custom Class - Alchemist",
       "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "World Features",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md"
-    },
-    {
-      "basename": "Places",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Places.md"
     }
   ],
   "omittedPaths": [],

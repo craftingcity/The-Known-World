@@ -81,22 +81,22 @@ At 2nd level, as a Bonus Action, you may expend a number of Alchemical Component
 | 6    | *Operative* - When you next make an Initiative Roll, you expend the Infusion and gain +2 to the result.                                                              |
 | 9    | *Competitive* - When you next Hit on an Attack, you expend the Infusion and roll twice for the Damage you deal, taking the higher total result.                      |
 
-At 14th level, the effects granted by expending your Infusions are more powerful. *Offensive*, *Reflexive*, and *Operative* Infusions grant +4, *Protective* Infusions grant +2, *Concussive* Infusions roll 4d6, and *Competitive* Infusions read '... and deal the maximum damage for the attack instead of rolling.'
+At 14th level, the effects granted by expending your Infusions are more powerful. *Offensive*, *Reflexive*, and *Operative* Infusions grant +4, *Protective* Infusions grant +2, *Concussive* Infusions roll 4d6, and *Competitive* Infusions instead read '... you expend the Infusion and deal the maximum damage for the attack instead of rolling.'
 
 ### Mobile Laboratory
 At 3rd level, during a long rest, you may modify a mobile space you occupy or own (such as a cart or a room on a ship) with secured alchemical facilities to create your Mobile Laboratory. 
 
 At 3rd level, your Mobile Laboratory grants you the following effects;
-- While your Laboratory is accessible, when you finish a long rest, you may assign your Mobile Laboratory an Alchemical Recipe that you know. When you do, you spend the Alchemical Components required for that recipe, and your Laboratory begins performing the processes of that Recipe. When you next finish a long rest while your Laboratory is accessible, you gather one unit of the Alchemical Product of that Recipe, and may re-assign your Laboratory.
-	- During the Grading of a product, your Mobile Laboratory will use your number of Alchemist levels as the result of its die roll, and your choice of your Arcana or Survival Skills.
+- While your Laboratory is accessible, when you finish a short rest, you may assign your Mobile Laboratory an Alchemical Recipe that you know. When you do, you spend the Alchemical Components required for that recipe, and your Laboratory begins performing the processes of that Recipe. When you next finish a short rest while your Laboratory is accessible, you gather the Alchemical Product of that Recipe, and may re-assign your Laboratory.
+	- During the Grading of a product, your Mobile Laboratory uses your Intelligence or Wisdom Score (whichever is higher) as the result of its die roll, plus your choice of your Arcana or Survival Skills.
 	- You may still use your Laboratory as normal while it is performing an assignment.
-- While your Laboratory is accessible, when you finish a long rest, you may choose one Alchemical Components that you own. You gain another unit of that Component.
+- While your Laboratory is accessible, when you finish a long rest, you may choose up to three Alchemical Components that you own. You gain another unit of each Component.
 
 At 9th level, your Mobile Laboratory grants you the following additional effects;
 
-- When you would gather an Alchemical Product from your Mobile Laboratory, you gather two units instead of one.
+- When you would gather an Alchemical Product from your Mobile Laboratory, you gather twice as many units of Product.
+- When you would gather an Alchemical Component from your Mobile Laboratory, you gather twice as many units of Component.
 - While your Laboratory is accessible, when you finish a long rest, you may assign your Mobile Laboratory an Alchemical Product that you own. When you do, you destroy the Alchemical Product and your Laboratory begins scribing the Alchemical Recipe used to create that Product. When you next finish a long rest while your Laboratory is accessible, you gather the Alchemical Recipe of that Product, and may re-assign your Laboratory.
-- While your Laboratory is accessible, when you finish a long rest, you may choose up to three Alchemical Components that you own. You gain another unit of each of those Components.
 
 ### Extra Attack
 At 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
