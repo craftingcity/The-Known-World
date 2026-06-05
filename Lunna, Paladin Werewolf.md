@@ -60,7 +60,14 @@ It was too horrible, but she knows that she did this to her own family.
 
 She can't be this. She can't be a monster. 
 
-####
+#### Prayers to Avandra
+
+- "May you grant us the wisdom to accept the things we cannot change, and the strength to change that which we cannot accept."
+- "May you bless us this day with the chance to free the thread of fate from the knottings of those that oppose it."
+- "May you bless us this day with the bravery to see the path you lay before us"
+- "May you play well this game of fate that we are free to fight for ourselves again tomorrow"
+- "And may luck be in all our favors."
+
 
 ## Important Knowledge
 #### The Incident...
