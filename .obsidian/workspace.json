@@ -37,7 +37,7 @@
             }
           },
           {
-            "id": "68872399c02481c4",
+            "id": "8618910a463a67bb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -49,10 +49,14 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Custom Diseases"
             }
           }
         ],
@@ -350,9 +354,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68872399c02481c4",
+  "active": "8618910a463a67bb",
   "lastOpenFiles": [
     "Prenotes June 05 26.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
     "Lunna, Paladin Werewolf.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
@@ -377,7 +382,6 @@
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Junie's Characters/Tiana Turing.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Southeastern Central.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Southwestern Central.md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
