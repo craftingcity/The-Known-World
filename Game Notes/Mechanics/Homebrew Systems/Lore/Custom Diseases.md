@@ -10,6 +10,9 @@ aliases:
 Diseases are medical afflictions of your body and mind that you gathered from a specific source and possibly could spread. Most diseases are Natural, having formed over time to attack the shared organic systems present throughout humanoids, and can be simply resolved with the right resources. Other diseases are more intentionally designed, magically so even, known as Preternatural diseases, and require significant effort and involvement to live with, let alone completely quell.
 
 ## Natural Diseases
+### Substance Dependency Disorder
+Substance Dependency Disorder, sometimes called Addiction, is the psycho-physical need to consume the substance you are dependent on.
+
 ### Plague
 Plague is most commonly spread in sewage, refuse, gore, rodents, and other people afflicted by Plague. After failing a DC 13 Con Save upon exposure, initial symptoms will occur within a day. 
 
