@@ -38,7 +38,7 @@ Dragoon; (173)
 Wrench; (51)
 Steve; (121)
 Rammik; (165)
-Gob #1; (25)
+Gob #1; (40)
 
 ### What happened?
 

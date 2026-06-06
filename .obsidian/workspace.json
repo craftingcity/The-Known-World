@@ -37,6 +37,35 @@
             }
           },
           {
+            "id": "a589c9bf0c52de3d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Kailkeep",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kailkeep\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":37},\"to\":{\"line\":13,\"ch\":37}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "d_ Chapter Six - Level Five; Pick-up Sticks"
+            }
+          },
+          {
             "id": "3ba139fb5535f553",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -389,9 +418,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ba139fb5535f553",
+  "active": "a589c9bf0c52de3d",
   "lastOpenFiles": [
     "Prenotes June 05 26.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Prenotes/'26/Prenotes Apr 07 26.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
@@ -401,7 +432,6 @@
     "Game Notes/Prenotes/'26/Prenotes Mar 22 26.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
     "Lunna, Paladin Werewolf.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
@@ -409,7 +439,6 @@
     "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
     "Game Notes/NPCs/High Power/Lorekeeper NPCs/Paulo San Tymiq.md",
     "Prenotes May 22 26.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
