@@ -33,14 +33,19 @@ When last we left our heroes, they had continued their struggle in glory and hor
 Escape Room -> Beast Barracks -> Clean Ooze, Blood For Coin, Burning Hallway, -> Yellowback's Lair, Bouncy House, Puppet's Game -> Mercy, Bernet's Lair, Go Fish! -> Exit to L6
 
 #### ENTERTAINMENT VALUE
-Mip; (132)
-Dragoon; (173)
+Mip; (139)
+Dragoon; (200)
 Wrench; (51)
-Steve; (121)
+Steve; (146)
 Rammik; (165)
 Gob #1; (40)
 
 ### What happened?
+
+They won Escape Room, theyre moved into Blood For Coin and fighting Gnoll.
+
+##### The Fight, BfC
+
 
 
 We leave our heroes on the date of ... AF, as they ...
