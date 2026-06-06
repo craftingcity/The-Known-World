@@ -32,6 +32,14 @@ When last we left our heroes, they had continued their struggle in glory and hor
 
 Escape Room -> Beast Barracks -> Clean Ooze, Blood For Coin, Burning Hallway, -> Yellowback's Lair, Bouncy House, Puppet's Game -> Mercy, Bernet's Lair, Go Fish! -> Exit to L6
 
+#### ENTERTAINMENT VALUE
+Mip; (119)
+Dragoon; (152)
+Wrench; (46)
+Steve; (107)
+Rammik; (160)
+Gob #1; (20)
+
 ### What happened?
 
 
