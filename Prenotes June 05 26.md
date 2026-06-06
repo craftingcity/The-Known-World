@@ -48,11 +48,11 @@ They won Escape Room, theyre moved into Blood For Coin and fighting Gnoll.
 21 - Steve
 17 - Rammik
 16 - Dragoon
-15 - Dusks Pack (AC 19)
-	A (HEX, 31, 45, )
+15 - Dusks Pack (AC 19, +8, 2d6+4)
+	~~A (HEX, BLIGHTED (3/4), 31, 45, 60, 72)~~
 	B
 	C
-	D
+	D (HEX, FRIGHT Steve, 15)
 9 - Gob #1
 8 - Mip
 1 - Wrench
