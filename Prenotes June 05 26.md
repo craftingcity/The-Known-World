@@ -36,7 +36,7 @@ Escape Room -> Beast Barracks -> Clean Ooze, Blood For Coin, Burning Hallway, ->
 Mip; (139)
 Dragoon; (200)
 Wrench; (51)
-Steve; (146)
+Steve; (160)
 Rammik; (165)
 Gob #1; (40)
 
@@ -45,7 +45,17 @@ Gob #1; (40)
 They won Escape Room, theyre moved into Blood For Coin and fighting Gnoll.
 
 ##### The Fight, BfC
-
+21 - Steve
+17 - Rammik
+16 - Dragoon
+15 - Dusks Pack (AC 19)
+	A (HEX, 31, 45, )
+	B
+	C
+	D
+9 - Gob #1
+8 - Mip
+1 - Wrench
 
 
 We leave our heroes on the date of ... AF, as they ...

@@ -173,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Dusk's Pack\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
