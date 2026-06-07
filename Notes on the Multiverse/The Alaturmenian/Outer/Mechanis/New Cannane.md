@@ -5,7 +5,7 @@ aliases:
   - The Plane of Cities
 ---
 # New Cannane
-## The Plane of Cities
+## The Metropoplane
 #### A sub-region of [[Mechanis]]
 ## Boundaries
 ## Contents

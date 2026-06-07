@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Kor-ket",
+      "path": "Game Notes/NPCs/Absolute Power/Kor-ket.md"
+    },
+    {
+      "basename": "Mechanis",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md"
+    },
+    {
       "basename": "Prenotes June 05 26",
       "path": "Prenotes June 05 26.md"
+    },
+    {
+      "basename": "New Cannane",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/New Cannane.md"
+    },
+    {
+      "basename": "Mechanics",
+      "path": "Game Notes/Mechanics/Mechanics.md"
+    },
+    {
+      "basename": "Prenotes June 14 26",
+      "path": "Prenotes June 14 26.md"
     },
     {
       "basename": "Homebrew Alchemy System",
@@ -67,10 +87,6 @@
     {
       "basename": "APGtAv1",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md"
-    },
-    {
-      "basename": "Mechanis",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md"
     },
     {
       "basename": "Paulo San Tymiq",
@@ -183,22 +199,6 @@
     {
       "basename": "About People",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/About People.md"
-    },
-    {
-      "basename": "Nations",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Nations.md"
-    },
-    {
-      "basename": "Inner",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Inner.md"
-    },
-    {
-      "basename": "Tracking",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Tracking.md"
-    },
-    {
-      "basename": "Alaturmen",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md"
     }
   ],
   "omittedPaths": [],

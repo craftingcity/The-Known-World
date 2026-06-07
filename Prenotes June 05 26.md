@@ -42,9 +42,9 @@ Gob #1; (40)
 
 ### What happened?
 
-They won Escape Room, theyre moved into Blood For Coin and fighting Gnoll. They beat off the Gnolls, fought Rammik bc he tried to run away and insulted Great Dragoon, and got 2x tokens from B4C
+They won Escape Room, theyre moved into Blood For Coin and fighting Gnoll. They beat off the Gnolls, fought Rammik bc he tried to run away and insulted Great Dragoon, and got 2x tokens from B4C.
 
-##### The Fight, BfC
+##### The Fight, B4C
 21 - Steve
 ~~17 - Rammik (21, )~~
 16 - Dragoon
