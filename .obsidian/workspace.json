@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"ancient elven",
+                "query": "\"of names",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -323,7 +324,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f33a17e9bc1dd23",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Prenotes June 05 26.md",
     "Game Notes/NPCs/Absolute Power/Kor-ket.md",
