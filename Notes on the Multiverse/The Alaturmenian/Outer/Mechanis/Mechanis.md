@@ -36,7 +36,7 @@ Collectivity Regulators are tasked with the cohesion of all Mecha, especially th
 ### New Cannane
 Surrounding the Regulatory is New Cannane, a city-like structure of purposeful sections that shift within and around one another to connect the sections and their inhabitants while they would require it. The sections of New Cannane are where most Mecha will spend their existences, performing their duties with everlasting purpose. 
 
-
+Each section of 
 
 
 ### Cauistic Law
