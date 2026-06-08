@@ -34,9 +34,9 @@ Divinity Regulators are tasked with the maintenance and defense of the planar st
 Collectivity Regulators are tasked with the cohesion of all Mecha, especially the other Regulators. The Collectivity Regulators act as the final response Mechanis can give to any problem it identifies, being dispatched to support or capture Regulators who would or have failed in their assignments.
 
 ### New Cannane
-Surrounding the Regulatory is New Cannane, a city-like structure of purposeful sections that shift within and around one another to connect the sections and their inhabitants while they would require it. The sections of New Cannane are where most Mecha will spend their existences, performing their duties with everlasting purpose. 
+Surrounding the Regulatory is New Cannane, a city-like structure of purposeful Sections that shift within and around one another to connect the Sections and their inhabitants while they would require it. The sections of New Cannane are where most Mecha will spend their existences, performing their duties with everlasting purpose. 
 
-Each section of 
+The Sections of New Cannane
 
 
 ### Cauistic Law
