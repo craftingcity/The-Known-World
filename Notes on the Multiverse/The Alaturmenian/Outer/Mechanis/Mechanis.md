@@ -19,10 +19,14 @@ Each major task the Regulatory pursues is done so by a particular brand of the R
 
 ##### Regulators and their Duties
 ###### Reality
+Reality Regulators are tasked with the defense of existence, in the most broad sense of the word. The Reality Regulators maintain any and every "reality engine" powering functional existence, such as the [[Book of Names]] or the [[Wheel of Time]].
+
 ###### Continuity
+Continuity Regulators are tasked with the maintenance and defense of space-time. 
+
 ###### Inevitability
 ###### Divinity
-Divinity Regulators are tasked with the 
+Divinity Regulators are tasked with the maintenance and defense of the planar structure. 
 
 ###### Collectivity
 Collectivity Regulators are tasked with the cohesion of all Mecha, especially the other Regulators. The Collectivity Regulators act as the final response Mechanis can give to any problem it identifies, being dispatched to support or capture Regulators who would or have failed in their assignments.

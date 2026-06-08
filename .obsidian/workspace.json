@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"of names",
+                "query": "\"Axioms\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
