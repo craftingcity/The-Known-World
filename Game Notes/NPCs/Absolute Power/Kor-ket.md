@@ -20,7 +20,7 @@ A description of their function in the world.
 #### Early Life
 
 ## Important Knowledge
-
+- Because of the texts in [[The Places...#The Damaged Chapel (2/rr)|Minyostalma]], we know Kor-ket was worshipped by people in the area before the [[Great Fires]] 
 
 ## Stats
 . | . 
