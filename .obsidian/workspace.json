@@ -16,18 +16,30 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Custom Diseases",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Custom Diseases\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":78,\"ch\":738},\"to\":{\"line\":78,\"ch\":738}},\"scroll\":52.94513387796496}"
+                },
+                {
+                  "title": "Mechanis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Mechanis\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":365},\"to\":{\"line\":28,\"ch\":365}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mechanis"
+              "title": "The Arstoviches"
             }
           }
         ]
@@ -326,16 +338,16 @@
   },
   "active": "8f33a17e9bc1dd23",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
     "Prenotes June 05 26.md",
     "Game Notes/NPCs/Absolute Power/Kor-ket.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/New Cannane.md",
     "Game Notes/Mechanics/Mechanics.md",
     "Prenotes June 14 26.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md",
     "Lunna, Paladin Werewolf.md",
