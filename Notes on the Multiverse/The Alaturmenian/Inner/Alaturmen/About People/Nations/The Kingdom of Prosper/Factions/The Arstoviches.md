@@ -18,8 +18,13 @@ She once had a name, but it has been lost to time. She is now known only by the 
 It is only because she has been harmed that we are safe today.
 
 ## Governance
-As a united faction, they serve the will of their progenitor and master, the [[Arstovich]], but as individuals will vie for power as any other community would.
+##### Arstoviches
+The Arstoviches are a secretive fraternity of Vampires led by their progenitor in the westernmost reaches of the [[Deakred Range]].
 
+##### Eastlight 
+The Eastlight are a loose alliance of Vampires living in [[The Democratic Combine of Peoples]]
+
+##### Freefolk Communes
 ## Culture
 #### Heritage
 As time has continued, the Arstovich has rested and healed. While this rest was sometimes interrupted, it remained effective - fifty-odd years have since passed bestowing the Arstovich with it's curse. Those brave and stupid enough to search and find the Arstovich in this time now serve it in many ways - although in truth, the majority serve as a rotating cast of bloodbags.
@@ -27,10 +32,6 @@ As time has continued, the Arstovich has rested and healed. While this rest was 
 In more recent history however, with the passing of the 'Age of Beginning' into the 'Age of Warkind', a few have been chosen to serve in a more expansive capacity; as independent agents of her will, vessels of her curse, and harbingers of her rage (see [[Custom Diseases#Curse of the Witch of Ardor (Vampirism/Arstovichism)]]).
 
 As the family grew, so did the rumors of revolt; as young as they are, some of the more recently turned amongst the Arstoviches' clan have failed to return from their hunts, and the rumors tell us that they did not fail, but defect. Some half-dozen banners have been raised and of them, two now remain, excepting our own...
-
-##### Arstoviches
-##### 
-##### (Smoothpost Colony)
 
 #### Language
 Arstoviches speak many languages, but predominantly speak to each other in [[Arthurian (language)]].
