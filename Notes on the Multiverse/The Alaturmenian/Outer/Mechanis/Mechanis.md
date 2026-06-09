@@ -26,7 +26,7 @@ Each major task the Regulatory pursues is done so by a particular brand of the R
 ### New Cannane
 Surrounding the Regulatory is New Cannane, a city-like structure of purposeful Sections that shift within and around one another to connect the Sections and their inhabitants while they would require it. The sections of New Cannane are where most Mecha will spend their existences, performing their duties with everlasting purpose. 
 
-The Sections of New Cannane are
+The Sections of New Cannane are each 
 
 
 ### Cauistic Law
