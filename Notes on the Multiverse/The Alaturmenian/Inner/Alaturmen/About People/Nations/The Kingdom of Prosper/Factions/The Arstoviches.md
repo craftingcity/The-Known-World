@@ -19,10 +19,10 @@ It is only because she has been harmed that we are safe today.
 
 ## Governance
 ##### Arstoviches
-The Arstoviches are a secretive fraternity of Vampires led by their progenitor in the westernmost reaches of the [[Deakred Range]].
+The Arstoviches are a secretive fraternity of Vampires led by their progenitor in the westernmost reaches of the [[Deakred Range]]. They value secrecy, the rules that keep them safe, and decorum.
 
 ##### Eastlight 
-The Eastlight are a loose alliance of Vampires living in [[The Democratic Combine of Peoples]]
+The Eastlight are a loose alliance of Vampires living in [[The Democratic Combine of Peoples]] 
 
 ##### Freefolk Communes
 ## Culture
