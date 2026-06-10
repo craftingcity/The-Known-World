@@ -21,10 +21,12 @@ It is only because she has been harmed that we are safe today.
 ##### Arstoviches
 The Arstoviches are a secretive fraternity of Vampires led by their progenitor in the westernmost reaches of the [[Deakred Range]]. They value secrecy, the rules that keep them safe, and decorum.
 
-##### Eastlight 
-The Eastlight are a loose alliance of Vampires living in [[The Democratic Combine of Peoples]] 
+##### Patrons of Vitae
+The Patrons of Vitae are a loose alliance of Vampires living in [[The Democratic Combine of Peoples]]. They value  
 
 ##### Freefolk Communes
+The Freefolk Communes are a series of independent 
+
 ## Culture
 #### Heritage
 As time has continued, the Arstovich has rested and healed. While this rest was sometimes interrupted, it remained effective - fifty-odd years have since passed bestowing the Arstovich with it's curse. Those brave and stupid enough to search and find the Arstovich in this time now serve it in many ways - although in truth, the majority serve as a rotating cast of bloodbags.
