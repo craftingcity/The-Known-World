@@ -114,7 +114,6 @@ aliases:
 	- [[Brandle Wrench]]
 	- [[Dragons Blood Inn]]
 	- [[Earlwynn's Fine Dining]]
-	- [[Sally's Alley]]
 	- [[Yawning Pillow]]
 
 %% End Waypoint %%

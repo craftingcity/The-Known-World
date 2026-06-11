@@ -79,7 +79,6 @@ for the graph: [[Here lie my suppliments...]]
 		- [[Blackacid]]
 		- [[Detraminx]]
 		- [[Kakurak]]
-		- [[Quosetteng]]
 		- [[Tetrimoc]]
 		- [[Zauk-Iyr]]
 	- **[[Giant NPCs]]**

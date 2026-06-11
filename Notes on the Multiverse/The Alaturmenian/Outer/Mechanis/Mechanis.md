@@ -28,12 +28,6 @@ Surrounding the Regulatory is New Cannane, a city-like structure of purposeful S
 
 The purpose of each section in New Cannane is incomprehensible to any individual, including the Mecha who do their work in that section. It is only as a whole that New Cannane could be understood as some singular thing, perhaps acting as an inter-planar reality auditing system, an observation network, or simply an unending bureaucracy that results in little-to-no progress or change.
 
-
-### Cauistic Law
-### Constitutional Law
-### Martial Law
-### Contract Law
-
 ###### Table of Contents
 %% Begin Waypoint %%
 - [[New Cannane]]

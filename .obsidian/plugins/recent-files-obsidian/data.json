@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Mechanis",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md"
+    },
+    {
       "basename": "DATABASE",
       "path": "DATABASE.base"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Custom Diseases",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md"
-    },
-    {
-      "basename": "Mechanis",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md"
     },
     {
       "basename": "Kor-ket",
@@ -195,10 +195,6 @@
     {
       "basename": "Baskin",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Lower Villages/Baskin.md"
-    },
-    {
-      "basename": "Litteortosta",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Holyl'nds/Litteortosta.md"
     }
   ],
   "omittedPaths": [],
