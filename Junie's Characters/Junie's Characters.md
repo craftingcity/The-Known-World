@@ -11,6 +11,7 @@ aliases:
 - [[Eliza 'Elliot' O'Brien]]
 - [[Erin 'Fox' Bathal]]
 - [[Grekk]]
+- [[Lunna, Paladin Werewolf]]
 - [[Tiana Turing]]
 - [[Zari Franx]]
 

@@ -12,6 +12,7 @@ views:
       - file.ctime
       - file.mtime
       - file.links
+      - file.backlinks
     sort:
       - property: file.mtime
         direction: ASC

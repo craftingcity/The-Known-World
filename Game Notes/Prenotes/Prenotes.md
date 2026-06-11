@@ -20,9 +20,12 @@ aliases:
 	- [[Prenotes Jan 03 26]]
 	- [[Prenotes Jan 16 26]]
 	- [[Prenotes Jan 18 26]]
+	- [[Prenotes June 05 26]]
+	- [[Prenotes June 14 26]]
 	- [[Prenotes Mar 08 26]]
 	- [[Prenotes Mar 22 26]]
 	- [[Prenotes Mar 29 26]]
+	- [[Prenotes May 22 26]]
 
 %% End Waypoint %%
 
