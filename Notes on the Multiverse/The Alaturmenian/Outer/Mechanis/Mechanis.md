@@ -24,9 +24,11 @@ Each major task the Regulatory pursues is done so by a particular brand of the R
 > *Collectivity* Regulators are tasked with the cohesion of all Mecha, especially the other Regulators. The Collectivity Regulators act as the final response Mechanis can give to any problem it identifies, being dispatched to support or capture Regulators who would or have failed in their assignments.
 
 ### New Cannane
-Surrounding the Regulatory is New Cannane, a city-like structure of purposeful Sections that shift within and around one another to connect the Sections and their inhabitants while they would require it. The sections of New Cannane are where most Mecha will spend their existences, performing their duties with everlasting purpose. 
+Surrounding the Regulatory is [[New Cannane]], a city-like structure of purposeful Sections that shift within and around one another to connect the Sections and their inhabitants while they would require it. The sections of New Cannane are where most Mecha will spend their existences, performing their duties with everlasting purpose. 
 
-The purpose of each section in New Cannane is incomprehensible to any individual, including the Mecha who do their work in that section. It is only as a whole that New Cannane could be understood as some singular thing, perhaps acting as an inter-planar reality auditing system, an observation network, or simply an unending bureaucracy that results in little-to-no progress or change.
+The purpose of each section in New Cannane is incomprehensible to any individual, including the Mecha who do their work in that section. It is only as a whole that New Cannane could be understood as some singular thing, perhaps acting as an inter-planar reality auditing system, an observation network, or simply an unending bureaucracy maintaining the status quo of the multiverse.
+
+### 
 
 ###### Table of Contents
 %% Begin Waypoint %%
