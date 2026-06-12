@@ -28,7 +28,8 @@ Surrounding the Regulatory is [[New Cannane]], a city-like structure of purposef
 
 The purpose of each section in New Cannane is incomprehensible to any individual, including the Mecha who do their work in that section. It is only as a whole that New Cannane could be understood as some singular thing, perhaps acting as an inter-planar reality auditing system, an observation network, or simply an unending bureaucracy maintaining the status quo of the multiverse.
 
-### 
+### Tilelands
+Beyond the Sections of New Cannane, Mechanis expands outward into an infinite grid of interconnected tiles. 
 
 ###### Table of Contents
 %% Begin Waypoint %%
