@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cd32f4a2f51b8336",
+        "id": "abab8cad59c1de81",
         "type": "tabs",
         "children": [
           {
-            "id": "84ceeb9eab431e38",
+            "id": "1a64103e8f3237ff",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,14 +20,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Mechanis"
+              "title": "New tab"
             }
           }
         ]
@@ -323,8 +319,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84ceeb9eab431e38",
+  "active": "1a64103e8f3237ff",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
     "DATABASE.base",
     "Game Notes/NPCs/High Power/Loose Wizard NPCs/Sally Seashell.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Sally's Alley.md",
@@ -337,7 +335,6 @@
     "Prenotes June 11 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
     "Game Notes/NPCs/Absolute Power/Kor-ket.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/New Cannane.md",
     "Game Notes/Mechanics/Mechanics.md",
