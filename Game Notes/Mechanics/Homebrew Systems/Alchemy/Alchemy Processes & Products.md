@@ -1719,6 +1719,9 @@ An outer essence of faith.
 	- 1 ounce Essence of Faith (5.5k sp / ounce)
 
 ## Magical Inscriptions
+### Weapons
+### Armors
+### Others
 
 | Name (Source)               | Mechanic | Cost @ Market | Regions Producing |
 | --------------------------- | -------- | ------------- | ----------------- |

@@ -139,3 +139,15 @@ Created with 12 sq. yards of Textiles and 20 pounds of Metals.
 #### Hazardous Environment Facial Protector, Mark 1
 #### Hazardous Environment Facial Protector, Mark 2
 #### Hazardous Environment Facial Protector, Mark 3
+
+## Common Armor Patches
+### Uniform Armor Patches
+#### Absorbing (I - V)
+This armor is magically shielding you from any external damage.
+
+The armor provides Damage Resistance of a value equal to the Patch's Power.
+
+#### Brilliant (I - X)
+This armor glows with arcane radiance.
+
+You may enable or disable this Patch as a bonus action. While enabled, the armor sheds a radius of bright light and then dim light equal to the Patch's Power multiplied by 5'.
