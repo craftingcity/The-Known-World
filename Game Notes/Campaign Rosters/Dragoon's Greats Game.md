@@ -16,6 +16,19 @@ aliases:
 	- I am the Black Ghost, Steve is my public persona. Justice is who I am.
 	- When I have dreams, they sometimes appear written in my book.
 ### Trusted Allies
+#### Goblin #1
+| L. 1 | XP: -     | / 0   | (0) Inspiration |
+| ---- | --------- | ----- | --------------- |
+| STR  | 15 (+2) ^ | PRF   | +2              |
+| CON  | 18 (+4) ^ | M. HP | 14 Max HP       |
+| DEX  | 17 (+3)   | AC    | (14)            |
+| INT  | 14 (+2)   | C. HP | 14 HP           |
+| WIS  | 6 (-2)    | HD    | 1d10            |
+| CHA  | 13 (+1)   | SPD   | 25' (5s)        |
+
+- FS: Dueling
+- Second Wind (1/1)
+
 ### Mortal Adversaries
 ### Faction Reputation
 ## Places
