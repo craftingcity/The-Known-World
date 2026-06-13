@@ -25,7 +25,7 @@ There are many doors you have seen and left unopened here. With what little dire
 What do you do?
 
 ### What does the World Know?
-In the myriad of options, we would like to introduce them to some of Mercy's Roamers, and/or take them to Bernet's Lair. They have quite a few Tokens at this point, so running them into more games would become annoying in the end, knowing that 
+In the myriad of options, we first need to show them the aim of the game;  would like to introduce them to some of Mercy's Roamers then into Mercy, and/or take them to Bernet's Lair. They have quite a few Tokens at this point, so running them into more games would become annoying in the end, knowing that they need five at most.
 
 ### What happened?
 
