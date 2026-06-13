@@ -29,12 +29,19 @@ In the myriad of options, we first need to show them the aim of the game; the sc
 
 #### ENTERTAINMENT VALUE
 Mip; (139)
-	- 
+	- 5oz Eye (10 ep)
+	- Seeker Symbiote (15 ep) "long worm? great job keep up the gr"
 	- 32oz Feather of Birds (24 ep)
-	- Chitin Studded Leather, 13+Dex (45 ep)
-	- Auspex Lens (80 ep)
+	- Chitin Studded Leather, 13+Dex (45 ep) "fitted armor"
+	- 8 carats Ruby (80 ep) "look gems :)"
 Dragoon; (200)
+	- King's Last Drink (12 ep) "enjoy responsibly"
+	- 6x 16oz Oldshine (30 ep) "booze :)"
+	- Ring of Protection, +1 (56 ep)
+	- Hand of the Mage (120 ep) "not that you need it, sir"
+		5x/ever +4 spell attack/save
 Wrench; (51)
+	- 
 Steve; (176)
 Gob #1; (80)
 
