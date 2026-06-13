@@ -78,7 +78,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 		- 2x Aloe Vera Nectar
 		- 6x Cactus Fruit
 #### Bernet's Lair
-- A large chamber serves as Bernet's Lair, where it lies in wait to collect trophies and **Tokens** from those it defeats.
+- A large chamber serves as Bernet's Lair, where it lies in wait to collect trophies and **Tokens** from those it defeats. It currently has 2d4 **Tokens** in it's possesion.
 - Eight magnets in the walls of the Lair are used by Bernet during combat to quickly move around the chamber and smush it's opponents against the magnet and themselves.
 #### 'Mercy'
 ##### Pop: 108
