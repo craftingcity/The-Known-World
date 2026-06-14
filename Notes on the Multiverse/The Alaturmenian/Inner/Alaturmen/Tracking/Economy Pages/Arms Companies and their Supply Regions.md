@@ -63,9 +63,9 @@ Credited with the introduction of the classical physical firepowder-cartridge fi
 ### [[Yosimmite Industries]]
 Credited with the introduction of the modern magical elemental firearms platform, [[Yosimmite Industries]] is based in the Durandurm capital of the world - [[Kickoff]] - and is responsible for the production of most commercial elemental firearms before the 'Era of War' (c, 100AF).
 
-| Classification / Project Name | Platform     | Description                                                               |
-| ----------------------------- | ------------ | ------------------------------------------------------------------------- |
-| YI-A88 'Sandstone'            | hand blaster | A prototype production, less than 40 Sandstone were ever finished.        |
-| YI-A90 'Basalt'               | hand blaster | The dominant sidearm in the Durandurm Arsenal before the Age of Warefare. |
-| YI-A102 'Granite'             | handblaster  | The slimmer, sleeker version of the YI-A090.                                                                          |
+| Classification / Project Name | Platform     | Description                                                              |
+| ----------------------------- | ------------ | ------------------------------------------------------------------------ |
+| YI-A88 'Sandstone'            | hand blaster | A prototype production, less than 40 Sandstone were ever finished.       |
+| YI-A90 'Basalt'               | hand blaster | The dominant sidearm in the Durandurm Arsenal before the Age of Warfare. |
+| YI-A102 'Granite'             | handblaster  | The slimmer, sleeker version of the YI-A090.                             |
 
