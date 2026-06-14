@@ -1767,7 +1767,11 @@ This armor seems to pull you from danger.
 When you make a Strength or Dexterity Saving Throw to take half damage, if you succeed, you take no damage instead of half damage, and if you fail, you take half damage instead of full damage.
 
 #### Legionary (0)
-This armor 
+This armor seems to pull you toward danger.
+
+This armor provides a bonus AC equal to the Patch's Power plus the number of allies within 5' of you.
+
+While you are wearing this Armor, when an ally within 5' takes damage from an Attack, you may use your Reaction to take that damage instead of your ally. When you do, the damage type changes to force.
 
 #### Protection (I - V)
 This armor is extraordinarily protective.
