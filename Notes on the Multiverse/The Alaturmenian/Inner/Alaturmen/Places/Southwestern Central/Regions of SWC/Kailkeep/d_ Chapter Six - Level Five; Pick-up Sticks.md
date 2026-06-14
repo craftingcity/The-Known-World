@@ -35,7 +35,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 #### Ways
 #### Pick-up Sticks (Exit Game)
 - Pick-up Sticks is a level wide game that pits all teams of the level against one another, in theory. 
-- The goal of the game is to collect stone **Tokens** dispensed by games throughout the level. When a total of thee **Tokens** are collected by a player and inserted into a scoreboard on this level, a personal exit door is opened, and closes upon use, transporting the player that entered up to the next level. As the first **Token** is inserted into the scoreboard, the room seals for 12 hours.
+- The goal of the game is to collect stone **Tokens** dispensed by games throughout the level. **Tokens** can be exchanged in a scoreboard room for Safety, Advancement, or Freedom.
 ### Detail
 #### Go Fish!
 - A large salt-water lake hosts a number of aquatic critters, one of which - a quick and small fish - has a **Token**. Other critters will not attack the keyholder, and even larger predators will defend a smaller keyholder.
