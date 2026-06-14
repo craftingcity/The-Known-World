@@ -32,8 +32,10 @@ Mip; (139)
 	- 5oz Eye (10 ep)
 	- Seeker Symbiote (15 ep) "long worm? great job keep up the gr"
 	- 32oz Feather of Birds (24 ep)
+	- 2x Potion of Physical Resistance (40 ep)
 	- Chitin Studded Leather, 13+Dex (45 ep) "fitted armor"
 	- 8 carats Ruby (80 ep) "look gems :)"
+	- Auspex Lense (125 ep) "look gem"
 Dragoon; (200)
 	- King's Last Drink (12 ep) "enjoy responsibly"
 	- 6x 16oz Oldshine (30 ep) "booze :)"
@@ -41,9 +43,17 @@ Dragoon; (200)
 	- Hand of the Mage (120 ep) "not that you need it, sir"
 		5x/ever +4 spell attack/save
 Wrench; (51)
-	- 
+	- 2x 16oz Oldshine (10 ep) "booze :)"
+	- Darksteel Dagger, +2 (30 ep) "knife fight! knife fight!"
 Steve; (176)
+	- 12x Flash Pellets (18 ep) "blinding lights :)"
+	- Steel Greatsword, +1 (55 ep)
+	- Spool of Darksteel Wire, 80' (90 ep) "wear gloves or have the short"
+	- Pure Force Longsword, +1 (140 ep) "careful, it bites"
 Gob #1; (80)
+	- Adjust Bronze Vest "stay safe :)"
+	- Bronze Shortsword of Leeching (23 ep) "may it serve you as well as it has"
+	- Silver Eye (65 ep) "honor! you have returned!"
 
 ### What happened?
 
