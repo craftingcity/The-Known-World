@@ -1751,15 +1751,23 @@ This weapon packs one hell of a punch.
 A creature hit by this weapon must succeed on a Strength Saving Throw, the DC of which is equal to twice the Patch's Power plus 8, or be knocked prone.
 
 ### Armors
-#### Absorbing (I - V)
-This armor is magically shielding you from any external damage.
+#### {Typed / All} Absorbing (I - V)
+This armor is magically shielding you from external damage.
 
-The armor provides Damage Resistance of a value equal to the Patch's Power.
+The armor provides {Typed / All} Damage Resistance of a value equal to the Patch's Power.
 
 #### Brilliant (I - X)
 This armor glows with arcane radiance.
 
 You may enable or disable this Patch as a bonus action. While enabled, the armor sheds a radius of bright light and then dim light equal to the Patch's Power multiplied by 5'.
+
+#### Dodging (0)
+This armor seems to pull you from danger.
+
+When you make a Strength or Dexterity Saving Throw to take half damage, if you succeed, you take no damage instead of half damage, and if you fail, you take half damage instead of full damage.
+
+#### Legionary (0)
+This armor 
 
 #### Protection (I - V)
 This armor is extraordinarily protective.
@@ -1771,8 +1779,10 @@ This armor reeks of death and mold.
 
 As a bonus action, the armor emits a sphere of a size equal to the Patch's Power multiplied by 5'. Each other creature in this area makes a Constitution Saving Throw or is Poisoned until the beginning of your next turn, the DC of which is equal to 10 plus the Patch's Power.
 
-#### Readiness
-This armor 
+#### Readiness (I - V)
+This armor radiates confidence in action.
+
+This armor provides an Initiative bonus equal to the Patch's Power.
 
 #### Safe Seas (I - V)
 This armor smells of seaweeds and smelly fish.
