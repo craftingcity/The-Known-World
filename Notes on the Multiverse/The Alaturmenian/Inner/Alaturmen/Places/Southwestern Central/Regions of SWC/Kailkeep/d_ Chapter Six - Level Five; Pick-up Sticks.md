@@ -35,7 +35,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 #### Ways
 #### Pick-up Sticks (Exit Game)
 - Pick-up Sticks is a level wide game that pits all teams of the level against one another, in theory. 
-- The goal of the game is to collect stone **Tokens** dispensed by games throughout the level. **Tokens** can be exchanged in a scoreboard room for Safety, Advancement, or Freedom. Safety costs one **Token**, and will close off the scoreboard from the rest of the level for 12 hours, counted down by a display present on any now-sealed doors. Advancement costs three **Tokens** per player, and will teleport that player into an empty or ally-occupied ready-room for 'Duck Duck Choose'. Freedom costs fifteen **Tokens** per player, and will teleport that player into a random location within the "False Allure".
+- The goal of the game is to collect stone **Tokens** dispensed by games throughout the level. **Tokens** can be exchanged in a scoreboard room for Safety, Advancement, or Freedom. Safety costs one **Token**, and will close off the scoreboard from the rest of the level for 12 hours, counted down by a display present on any now-sealed doors. Advancement costs three **Tokens** per player, and will teleport that player into an empty or ally-occupied ready-room for 'Duck, Duck, Choose'. Freedom costs ten **Tokens** per player, and will teleport that player into a random location within the "False Allure".
 ### Detail
 #### Go Fish!
 - A large salt-water lake hosts a number of aquatic critters, one of which - a quick and small fish - has a **Token**. Other critters will not attack the keyholder, and even larger predators will defend a smaller keyholder.
@@ -54,7 +54,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 #### Beast Barracks 
 - This chamber is one of many beast homes within the mountains of Kailkeep. Somehow, this creature is compensated by the Kobolds of Kailkeep.
 - The Barracks hold many lower power creatures that made their home here, and they are modestly housed, but are malnourished and conditioned to attack non-Kobolds on detection.
-- Blind Dogs, Mindless Guand, Mountain Cats, and even some Madwalkers are common in the Fourth level of Kailkeep.
+- Blind Dogs, Ankheg, Mountain Cats, and even some Madwalkers are common in the Fifth level of Kailkeep.
 #### Burning Hallway
 - A long hallway reminiscent of the *Dart Halls* from lower floors. This hall is covered in tiles of pressure plates, and the walls are lined with thin ports.
 - When a pressure plate is activated, the entire hall is activated. For thirty seconds, each port in the wall fires a stream of flaming fluid.

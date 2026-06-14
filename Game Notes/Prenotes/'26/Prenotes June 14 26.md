@@ -48,7 +48,7 @@ Wrench; (51)
 Steve; (176)
 	- 12x Flash Pellets (18 ep) "blinding lights :)"
 	- Steel Greatsword, +1 (55 ep)
-	- Spool of Darksteel Wire, 80' (90 ep) "wear gloves or have the short"
+	- Spool of Darksteel Wire, 80' (90 ep) "wear gloves or have mip work it"
 	- Pure Force Longsword, +1 (140 ep) "careful, it bites"
 Gob #1; (80)
 	- Adjust Bronze Vest "stay safe :)"
