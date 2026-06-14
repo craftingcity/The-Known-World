@@ -580,7 +580,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26c41c93f58e0617",
+  "floating": {
+    "id": "98c39ac3495b8934",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cfd4f1e5035aa875",
+        "type": "window",
+        "children": [
+          {
+            "id": "f6d8602475586a4f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "361201f25418e3c9",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Alchemy Processes & Products"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1280,
+        "y": 0,
+        "width": 1280,
+        "height": 1400,
+        "maximize": false,
+        "zoom": -1.5
+      }
+    ]
+  },
+  "active": "361201f25418e3c9",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",

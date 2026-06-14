@@ -1761,6 +1761,24 @@ This armor glows with arcane radiance.
 
 You may enable or disable this Patch as a bonus action. While enabled, the armor sheds a radius of bright light and then dim light equal to the Patch's Power multiplied by 5'.
 
+#### Protection (I - V)
+This armor is extraordinarily protective.
+
+This armor provides bonus AC of a value equal to the Patch's Power.
+
+#### Pestilence (I - V)
+This armor reeks of death and mold.
+
+As a bonus action, the armor emits a sphere of a size equal to the Patch's Power multiplied by 5'. Each other creature in this area makes a Constitution Saving Throw or is Poisoned until the beginning of your next turn, the DC of which is equal to 10 plus the Patch's Power.
+
+#### Readiness
+This armor 
+
+#### Safe Seas (I - V)
+This armor smells of seaweeds and smelly fish.
+
+While you are wearing this Armor, you have a swimming speed equal to your walking speed, and whenever you start your turn with 0 or fewer Hit Points and you are underwater, you float towards the surface a number of feet equal to the Patch's Power multiplied by 15'.
+
 ### Others
 
 | Name (Source)               | Mechanic | Cost @ Market | Regions Producing |
