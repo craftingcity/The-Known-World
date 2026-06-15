@@ -29,17 +29,17 @@ In the myriad of options, we first need to show them the aim of the game; the sc
 
 #### ENTERTAINMENT VALUE
 Mip; (139)
-	- 5oz Eye (10 ep)
+	- 5oz Eye (10 ep) "jar of eyes"
 	- Seeker Symbiote (15 ep) "long worm? great job keep up the gr"
-	- 32oz Feather of Birds (24 ep)
-	- 2x Potion of Physical Resistance (40 ep)
+	- 32oz Feather of Birds (24 ep) "feathers"
+	- 3x Potion of Physical Resistance (40 ep) "you like?"
 	- Chitin Studded Leather, 13+Dex (45 ep) "fitted armor"
 	- 8 carats Ruby (80 ep) "look gems :)"
 	- Auspex Lense (125 ep) "look gem"
 Dragoon; (200)
 	- King's Last Drink (12 ep) "enjoy responsibly"
 	- 6x 16oz Oldshine (30 ep) "booze :)"
-	- Ring of Protection, +1 (56 ep)
+	- Ring of Protection, +1 (56 ep) "ring good"
 	- Hand of the Mage (120 ep) "not that you need it, sir"
 		5x/ever +4 spell attack/save
 Wrench; (51)
@@ -47,7 +47,7 @@ Wrench; (51)
 	- Darksteel Dagger, +2 (30 ep) "knife fight! knife fight!"
 Steve; (176)
 	- 12x Flash Pellets (18 ep) "blinding lights :)"
-	- Steel Greatsword, +1 (55 ep)
+	- Steel Greatsword, +1 (55 ep) "big fuck sword"
 	- Spool of Darksteel Wire, 80' (90 ep) "wear gloves or have mip work it"
 	- Pure Force Longsword, +1 (140 ep) "careful, it bites"
 Gob #1; (80)
