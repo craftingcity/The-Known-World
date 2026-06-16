@@ -95,8 +95,10 @@ You prepare the list of paladin spells that are available for you to cast, choos
 | .   |     |     |     |     |     |     | ATTK | +   |
 
 ##### Prepared Spells (Prep X)
-- (1*) [Command](https://dnd5e.wikidot.com/spell:command)
-- (1*) [Compelled Duel](https://dnd5e.wikidot.com/spell:compelled-duel)
+- (1c*) [Command](https://dnd5e.wikidot.com/spell:command)
+- (1bc*) [Compelled Duel](https://dnd5e.wikidot.com/spell:compelled-duel)
+- (1c) [Heroism](https://dnd5e.wikidot.com/spell:heroism)
+- (1bc) [Shield of Faith](https://dnd5e.wikidot.com/spell:shield-of-faith)
 
 #### Proficiencies
 ##### Skills
