@@ -84,8 +84,8 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 | STR  | 14 (+2) // 15 (+2) | PRF    | +2                        |
 | CON  | 18 (+4)            | M. HP  | 34 Max HP                 |
 | DEX  | 13 (+1)            | AC     | (18 // 12 & resist B/P/S) |
-| INT  | 13 (+1)            | C. HP  | 34 HP                     | 
-| WIS  | 9  (-1) ^          | HD     | d10 (3/3)                 |
+| INT  | 9  (-1)            | C. HP  | 34 HP                     |
+| WIS  | 13 (+1) ^          | HD     | d10 (3/3)                 |
 | CHA  | 14 (+2) ^          | SPD    | 30' // 40'                |
 
 #### Spells
