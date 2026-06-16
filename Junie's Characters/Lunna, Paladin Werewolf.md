@@ -67,6 +67,7 @@ She can't be this. She can't be a monster.
 - "May you bless us this day with the bravery to see the path you lay before us"
 - "May you play well this game of fate that we are free to fight for ourselves again tomorrow"
 - "And may luck be in all our favors."
+- 
 
 
 ## Important Knowledge
@@ -77,7 +78,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ## Stats
 
-| L. 3 | XP: 900            | / 2.7k | (0) Inspiration           |
+| L. 3 | XP: 1.15k          | / 2.7k | (0) Inspiration           |
 | ---- | ------------------ | ------ | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF    | +2                        |
 | CON  | 18 (+4)            | M. HP  | 34 Max HP                 |
@@ -164,6 +165,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - **_Turn the Tide._** As a bonus action, you can bolster injured creatures with your Channel Divinity. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 + your Charisma modifier (minimum of 1) if it has no more than half of its hit points.
 
 #### Equipment
+20gp
 
 *Hands*: 
 	- Longsword (1d8 / 1d10 + STR slashing)
@@ -198,4 +200,4 @@ You prepare the list of paladin spells that are available for you to cast, choos
 
 A man named *Antonov* is our patron for our mission from Yerba to Prosper.
 
-We are comrades with Caspin, the Golden Dragonborn Sorcerer, Brilynn the Dark-Elf Bard
+We are comrades with Caspin, the Golden Dragonborn Sorcerer, Brilynn the Dark-Elf Bard, and Klarl the Human Barbarian.
