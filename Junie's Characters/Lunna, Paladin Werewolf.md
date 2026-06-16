@@ -164,6 +164,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - **_Turn the Tide._** As a bonus action, you can bolster injured creatures with your Channel Divinity. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 + your Charisma modifier (minimum of 1) if it has no more than half of its hit points.
 
 #### Equipment
+
 *Hands*: 
 	- Longsword (1d8 / 1d10 + STR slashing)
 	- Shield (+2 AC)
@@ -193,6 +194,8 @@ You prepare the list of paladin spells that are available for you to cast, choos
 	-
 
 ## Session Log
-### Session 0 - ""
+### Session 0 - "You walk through a Dark Forest"
 
 A man named *Antonov* is our patron for our mission from Yerba to Prosper.
+
+We are comrades with Caspin, the Golden Dragonborn Sorcerer, Brilynn the Dark-Elf Bard
