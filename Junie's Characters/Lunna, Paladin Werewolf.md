@@ -171,7 +171,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 	- Longsword (1d8 / 1d10 + STR slashing)
 	- Shield (+2 AC)
 *Arms*: 
-	-
+	- Oil Lantern, Bullseyes
 *Head*:
 	-
 *Torso*:
@@ -203,3 +203,6 @@ A man named *Antonov* is our patron for our mission from Yerba to Prosper.
 We are comrades with Caspin, the Golden Dragonborn Sorcerer, Brilynn the Dark-Elf Bard, and Klarl the Human Barbarian.
 
 The Fog has come, and it follows us until we are somewhere we weren't before. We step through the Iron Gates, and the Fog allows us before the Gate closes it out.
+
+We're led to what seems like an abandoned town, where a pair of children tell us that there is a monster in their house with their baby brother.
+
