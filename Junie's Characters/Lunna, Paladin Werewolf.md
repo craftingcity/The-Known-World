@@ -73,7 +73,9 @@ She can't be this. She can't be a monster.
 #### The Incident...
 My oldest brother wasn't home at the time of the incident. His name is Matthew.
 
-I left my family sword behind, I couldn't take it from the bloodbath I had left it in.
+I left my Father's sword behind, I couldn't take it from the bloodbath I had left it in.
+
+#### Session 0 - The Invitation
 
 ## Stats
 
