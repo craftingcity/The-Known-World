@@ -73,16 +73,18 @@ She can't be this. She can't be a monster.
 #### The Incident...
 My oldest brother wasn't home at the time of the incident. His name is Matthew.
 
+I left my family sword behind, I couldn't take it from the bloodbath I had left it in.
+
 ## Stats
 
-| L. 3 | XP: 900      | / 2.7k | (0) Inspiration           |
-| ---- | ------------ | ------ | ------------------------- |
-| STR  | x+1 // 15 () | PRF    | +2                        |
-| CON  | x+1 ()       | M. HP  | 10+CON+2(6+CON) Max HP    |
-| DEX  | x ()         | AC     | (18 // 12 & resist B/P/S) |
-| INT  | x ()         | C. HP  | 10+CON+2(6+CON) HP        |
-| WIS  | x () ^       | HD     | d10 (3/3)                 |
-| CHA  | x () ^       | SPD    | 30' // 40'                |
+| L. 3 | XP: 900            | / 2.7k | (0) Inspiration           |
+| ---- | ------------------ | ------ | ------------------------- |
+| STR  | 14 (+2) // 15 (+2) | PRF    | +2                        |
+| CON  | 18 (+4)            | M. HP  | 34 Max HP                 |
+| DEX  | 13 (+1)            | AC     | (18 // 12 & resist B/P/S) |
+| INT  | 13 (+1)            | C. HP  | 34 HP                     | 
+| WIS  | 9  (-1) ^          | HD     | d10 (3/3)                 |
+| CHA  | 14 (+2) ^          | SPD    | 30' // 40'                |
 
 #### Spells
 You prepare the list of paladin spells that are available for you to cast, choosing from the [paladin spell list](http://dnd5e.wikidot.com/spells:paladin). When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots. You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
@@ -91,14 +93,15 @@ You prepare the list of paladin spells that are available for you to cast, choos
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | .   | .   | .   | .   | .   | .   | .    | .   |
 | o   | .   | .   | .   | .   | .   | .   |      |     |
-| o   | .   | .   | .   | .   |     |     | DC   | x   |
-| .   |     |     |     |     |     |     | ATTK | +   |
+| o   | .   | .   | .   | .   |     |     | DC   | 12  |
+| .   |     |     |     |     |     |     | ATTK | +4  |
 
 ##### Prepared Spells (Prep X)
 - (1c*) [Command](https://dnd5e.wikidot.com/spell:command)
 - (1bc*) [Compelled Duel](https://dnd5e.wikidot.com/spell:compelled-duel)
 - (1c) [Heroism](https://dnd5e.wikidot.com/spell:heroism)
 - (1bc) [Shield of Faith](https://dnd5e.wikidot.com/spell:shield-of-faith)
+- (1c) [Detect Evil & Good](https://dnd5e.wikidot.com/spell:detect-evil-and-good)
 
 #### Proficiencies
 ##### Skills
