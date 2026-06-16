@@ -75,8 +75,6 @@ My oldest brother wasn't home at the time of the incident. His name is Matthew.
 
 I left my Father's sword behind, I couldn't take it from the bloodbath I had left it in.
 
-#### Session 0 - The Invitation
-
 ## Stats
 
 | L. 3 | XP: 900            | / 2.7k | (0) Inspiration           |
@@ -98,7 +96,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 | o   | .   | .   | .   | .   |     |     | DC   | 12  |
 | .   |     |     |     |     |     |     | ATTK | +4  |
 
-##### Prepared Spells (Prep X)
+##### Prepared Spells (Prep 3)
 - (1c*) [Command](https://dnd5e.wikidot.com/spell:command)
 - (1bc*) [Compelled Duel](https://dnd5e.wikidot.com/spell:compelled-duel)
 - (1c) [Heroism](https://dnd5e.wikidot.com/spell:heroism)
@@ -193,3 +191,8 @@ You prepare the list of paladin spells that are available for you to cast, choos
 	-
 *Feet*:
 	-
+
+## Session Log
+### Session 0 - ""
+
+A man named *Antonov* is our patron for our mission from Yerba to Prosper.
