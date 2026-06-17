@@ -78,7 +78,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ## Stats
 
-| L. 3 | XP: 1.15k          | / 2.7k | (0) Inspiration           |
+| L. 3 | XP: 1.35k          | / 2.7k | (0) Inspiration           |
 | ---- | ------------------ | ------ | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF    | +2                        |
 | CON  | 18 (+4)            | M. HP  | 34 Max HP                 |
@@ -217,4 +217,6 @@ We're led to what seems like an abandoned town, where a pair of children tell us
 
 As we explore the house, we find a letter in a hidden room addressed to the house, from Count Straud. In addition, we find the deed to this house, a deed to a windmill, and the will of Gustav & Elisabeth Durst. 
 
-Heading up to the Top floor, we encounter an apparition of a woman humming a lullaby that turns to attack us. I turned immediately as we got spooked by her. 
+Heading up to the Top floor, we encounter an apparition of a woman humming a lullaby that turns to attack us. I turned immediately as we got spooked by her, but turned back under my own will, and we continue to investigate the house.
+
+We solve the death of the kids, and the nurse and parents and such - and head into the basement to defeat the monster there for the kids, as a final act of salvation or such.
