@@ -206,3 +206,6 @@ The Fog has come, and it follows us until we are somewhere we weren't before. We
 
 We're led to what seems like an abandoned town, where a pair of children tell us that there is a monster in their house with their baby brother.
 
+As we explore the house, we find a letter in a hidden room addressed to the house, from Count Straud. In addition, we find the deed to this house, a deed to a windmill, and the will of Gustav & Elisabeth Durst. 
+
+
