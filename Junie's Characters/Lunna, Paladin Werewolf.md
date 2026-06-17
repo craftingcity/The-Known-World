@@ -82,7 +82,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 | ---- | ------------------ | ------ | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF    | +2                        |
 | CON  | 18 (+4)            | M. HP  | 34 Max HP                 |
-| DEX  | 13 (+1)            | AC     | (18 // 12 & resist B/P/S) |
+| DEX  | 13 (+1)            | AC     | (20 // 12 & resist B/P/S) |
 | INT  | 9  (-1)            | C. HP  | 34 HP                     |
 | WIS  | 13 (+1) ^          | HD     | d10 (3/3)                 |
 | CHA  | 14 (+2) ^          | SPD    | 30' // 40'                |
@@ -139,6 +139,15 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - When you would attempt to return to your true form, use your Action and make a Bloodlust Skill Check.
 - When you return to your true form, you gain a level of Exhaustion.
 
+| Level | Effect                 |
+| ----- | ---------------------- |
+| 1     | Dis. on Ability Checks |
+| 2     | Halved Speed           |
+| 3     | Dis. on Attk & Save    |
+| 4     | Halved M.HP            |
+| 5     | Speed = 0              |
+| 6     | Death                  |
+
 ##### Divine Sense
 - As an action, until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. 
 - You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). 
@@ -175,8 +184,8 @@ You prepare the list of paladin spells that are available for you to cast, choos
 *Head*:
 	-
 *Torso*:
-	- Chain mail (16 AC) 
-	- Holy symbol of Avandra
+	- Black Platemail (18 AC) 
+	- Brass Holy Symbol of Avandra on a Platinum Chain
 	- Backpack; 
 		- a bedroll 
 		- a mess kit
@@ -208,4 +217,4 @@ We're led to what seems like an abandoned town, where a pair of children tell us
 
 As we explore the house, we find a letter in a hidden room addressed to the house, from Count Straud. In addition, we find the deed to this house, a deed to a windmill, and the will of Gustav & Elisabeth Durst. 
 
-Heading up to the Top floor, we encounter an apparition of a woman humming a lullaby that turns to attack us. I turned once.
+Heading up to the Top floor, we encounter an apparition of a woman humming a lullaby that turns to attack us. I turned immediately as we got spooked by her. 
