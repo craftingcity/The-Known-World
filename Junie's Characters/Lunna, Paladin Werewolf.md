@@ -208,4 +208,4 @@ We're led to what seems like an abandoned town, where a pair of children tell us
 
 As we explore the house, we find a letter in a hidden room addressed to the house, from Count Straud. In addition, we find the deed to this house, a deed to a windmill, and the will of Gustav & Elisabeth Durst. 
 
-
+Heading up to the Top floor, we encounter an apparition of a woman humming a lullaby that turns to attack us. I turned once.
