@@ -14,7 +14,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes, their journey through Kailkeep continued. After your swift victory in 'Escape the Room', you were reunited with your missing companion, Goblin #1, who fought valiantly through tricks and terrors to find you again - losing some things along the way only to gain others. After this moment of joy, you returned to your exploration of this brutality to find a room containing a bowl. Upon discovering that this bowl desires blood, you called out to the audience and the surrounding rooms, and the fight you were looking for quickly found you. 
+When last we left our heroes, their journey through [[Kailkeep]] continued. After your swift victory in 'Escape the Room', you were reunited with your missing companion, Goblin #1, who fought valiantly through tricks and terrors to find you again - losing some things along the way only to gain others. After this moment of joy, you returned to your exploration of this brutality to find a room containing a bowl. Upon discovering that this bowl desires blood, you called out to the audience and the surrounding rooms, and the fight you were looking for quickly found you. 
 
 In this moment of vulnerability, your captive-comrade Rammik would choose to betray you, throwing insults as he attempted to make his escape. Despite Rammik's betrayal, you found yourselves victorious, at least in that you had survived, and you would come to exchange the blood inside your enemies, damned be their souls, for a pair of shining iridescent **Tokens**, bringing your total to three. 
 
@@ -51,7 +51,7 @@ Steve; (176)
 	- Spool of Darksteel Wire, 80' (90 ep) "wear gloves or have mip work it"
 	- Pure Force Longsword, +1 (140 ep) "careful, it bites"
 Gob #1; (80)
-	- Adjust Bronze Vest "stay safe :)"
+	- Adjust Bronze Vest (15 ep) "stay safe :)"
 	- Bronze Shortsword of Leeching (23 ep) "may it serve you as well as it has"
 	- Silver Eye (65 ep) "honor! you have returned!"
 
