@@ -81,7 +81,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 - A large chamber serves as Bernet's Lair, where it lies in wait to collect trophies and **Tokens** from those it defeats. It currently has 2d4 **Tokens** in it's possession.
 - Eight magnets in the walls of the Lair are used by Bernet during combat to quickly move around the chamber and smash it's opponents between the magnet and themselves.
 #### 'Mercy'
-##### Pop: 108
+##### Pop: 142
 - This series of chambers is the one Holding within Kailkeep's Hells. There is a population of some hundred survivors who have permanently made their home here.
 - A majority of these people are farmers and crafters. Between residents, barter is generally the preferred method of commerce, trading necessities between each other. They trade any surplus for the things that only trips out of town can provide, relying on the few local & trusted Roamers or Merchants.
 	- The following resources are "available to the public";
@@ -101,6 +101,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 	- If some major act or acts of kindness to the population are made by visitors, they may be awarded with a **Token**.
 ##### Notable Locations...
 - The Gate / The Killbox
+- The Scoreboard & Market
 - The Foundry (& Transmutation Chambers)
 - The Bar (& Hospital)
 - The Arena

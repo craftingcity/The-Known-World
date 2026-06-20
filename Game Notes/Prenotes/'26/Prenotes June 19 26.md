@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for June 14
+# Prenotes for June 19
 ## Party of Interest: [[Dragoon's Greats Game]]
 - [ ] DM Screen
 - [ ] Notepaper
@@ -25,7 +25,7 @@ There are many doors you have seen and left unopened here. With what little dire
 What do you do?
 
 ### What does the World Know?
-In the myriad of options, we first need to show them the aim of the game; the scoreboard room. Then, we would like to introduce them to some of Mercy's Roamers then into Mercy, and/or take them to Bernet's Lair. We can keep playing games after that if we need to.
+In the myriad of options, we first need to show them the aim of the game; *the scoreboard room*. Then, we would like to introduce them to some of Mercy's Roamers then into Mercy, and/or take them to Bernet's Lair. We can keep playing games after that if we need to.
 
 #### ENTERTAINMENT VALUE
 Mip; (139)
