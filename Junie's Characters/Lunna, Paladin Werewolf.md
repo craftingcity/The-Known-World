@@ -37,6 +37,7 @@ Lunna is...
 
 - Lunna is a little distant, but is more than willing to speak up for others.
 - Lunna is nihilistic in regards to her own life if not outright suicidal.
+- Lunna is very headstrong in her own beliefs, and will attempt to show others the Way. 
 
 ### Background
 #### Early Life
@@ -208,7 +209,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 	-
 
 ## Session Log
-### Session 0 - "You walk through a Dark Forest"
+### Session 1 - "You walk through a Dark Forest"
 
 A man named *Antonov* is our patron for our mission from Yerba to Prosper.
 
