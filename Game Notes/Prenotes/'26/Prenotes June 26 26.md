@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for June 19
+# Prenotes for June 26
 ## Party of Interest: [[Dragoon's Greats Game]]
 - [ ] DM Screen
 - [ ] Notepaper
@@ -32,7 +32,6 @@ Mip; (139)
 	- 5oz Eye (10 ep) "jar of eyes"
 	- Seeker Symbiote (15 ep) "long worm? great job keep up the gr"
 	- 32oz Feather of Birds (24 ep) "feathers"
-	- 3x Potion of Physical Resistance (40 ep) "you like?"
 	- Chitin Studded Leather, 13+Dex (45 ep) "fitted armor"
 	- 8 carats Ruby (80 ep) "look gems :)"
 	- Auspex Lense (125 ep) "look gem"
