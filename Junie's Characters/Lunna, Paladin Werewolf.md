@@ -81,9 +81,9 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 | L. 3 | XP: 1.35k          | / 2.7k | (0) Inspiration           |
 | ---- | ------------------ | ------ | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF    | +2                        |
-| CON  | 18 (+4)            | M. HP  | 34 Max HP (1/5 Exhaust)   |
+| CON  | 18 (+4)            | M. HP  | 40 Max HP (1/5 Exhaust)   |
 | DEX  | 13 (+1)            | AC     | (20 // 12 & resist B/P/S) |
-| INT  | 9  (-1)            | C. HP  | 34 HP                     |
+| INT  | 9  (-1)            | C. HP  | 40 HP                     |
 | WIS  | 13 (+1) ^          | HD     | d10 (3/3)                 |
 | CHA  | 14 (+2) ^          | SPD    | 30' // 40'                |
 
@@ -125,6 +125,9 @@ You prepare the list of paladin spells that are available for you to cast, choos
 #### Features
 ##### Darkvision
 - You have 60 feet of darkvision.
+
+##### Tough
+- When you gain a level, your Max HP increases by 2.
 
 ##### Lycanthropy
 - You are a Lycanthrope. Under the light of the full moon, or in reaction to surging emotions, (and otherwise to your DM's discretion) you will be compelled to Transform.
@@ -180,7 +183,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 	- Longsword (1d8 / 1d10 + STR slashing)
 	- Shield (+2 AC)
 *Arms*: 
-	- Oil Lantern, Bullseyes
+	- Oil Lantern, Bullseye
 *Head*:
 	-
 *Torso*:
@@ -209,7 +212,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 
 A man named *Antonov* is our patron for our mission from Yerba to Prosper.
 
-We are comrades with Caspin, the Golden Dragonborn Sorcerer, Brilynn the Dark-Elf Bard, and Klarl the Human Barbarian.
+We are comrades with Caspin the Golden Dragonborn Sorcerer, Brilynn the Dark-Elf Bard, and Klarl the Human Barbarian.
 
 The Fog has come, and it follows us until we are somewhere we weren't before. We step through the Iron Gates, and the Fog allows us before the Gate closes it out.
 
