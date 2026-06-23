@@ -100,7 +100,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | .   | .   | .   | .   | .   | .   | .    | .   |
 | o   | .   | .   | .   | .   | .   | .   |      |     |
-| o   | .   | .   | .   | .   |     |     | DC   | 12  |
+| x   | .   | .   | .   | .   |     |     | DC   | 12  |
 | .   |     |     |     |     |     |     | ATTK | +4  |
 
 ##### Prepared Spells (Prep 3)
@@ -232,3 +232,5 @@ We solve the death of the kids, and the nurse and parents - some sort of infidel
 ### Session 2 - "Into the Dungeon"
 
 We begin to search the Dungeon, and first encounter an empty crypt-space with Walter's name on it, the miscarried child. Additionally, there are spaces for people to live in squalor down here, for whatever reason.
+
+We find a room full of bones, at least sixty years old.
