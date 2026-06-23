@@ -223,4 +223,4 @@ As we explore the house, we find a letter in a hidden room addressed to the hous
 
 Heading up to the Top floor, we encounter an apparition of a woman humming a lullaby that turns to attack us. I turned immediately as we got spooked by her, but turned back under my own will, and we continue to investigate the house.
 
-We solve the death of the kids, and the nurse and parents and such - and head into the basement to defeat the monster there for the kids, as a final act of salvation or such.
+We solve the death of the kids, and the nurse and parents - and then we head into the basement to defeat the monster there for the kids. I think it will help them
