@@ -231,6 +231,6 @@ We solve the death of the kids, and the nurse and parents - some sort of infidel
 
 ### Session 2 - "Into the Dungeon"
 
-We begin to search the Dungeon, and first encounter an empty crypt-space with Walter's name on it, the miscarried child. Additionally, there are spaces for people to live in squalor down here, for whatever reason.
+We begin to search the Dungeon, and first encounter an empty crypt-space with Walter's name on it, the miscarried child. There are four other crypts that are filled here, labeled Gustav, Elizabeth, Throne, and Rose Durst. Additionally, there are spaces for people to live in squalor down here, for whatever reason.
 
 We find a room full of bones, at least sixty years old.
