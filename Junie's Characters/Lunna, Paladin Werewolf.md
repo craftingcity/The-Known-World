@@ -184,6 +184,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 	- Longsword (1d8 / 1d10 + STR slashing)
 	- Shield (+2 AC)
 *Arms*: 
+	- Black Platemail (18 AC)
 	- Oil Lantern, Bullseye
 *Head*:
 	-
@@ -202,11 +203,11 @@ You prepare the list of paladin spells that are available for you to cast, choos
 		- Crossbow, Light (1d8 + DEX piercing)
 		- 20 steel bolts
 *Groin*:
-	-
+	- Black Platemail (18 AC)
 *Legs*:
-	-
+	- Black Platemail (18 AC)
 *Feet*:
-	-
+	- Black Platemail (18 AC)
 
 ## Session Log
 ### Session 1 - "You walk through a Dark Forest"
@@ -223,4 +224,6 @@ As we explore the house, we find a letter in a hidden room addressed to the hous
 
 Heading up to the Top floor, we encounter an apparition of a woman humming a lullaby that turns to attack us. I turned immediately as we got spooked by her, but turned back under my own will, and we continue to investigate the house.
 
-We solve the death of the kids, and the nurse and parents - and then we head into the basement to defeat the monster there for the kids. I think it will help them
+We solve the death of the kids, and the nurse and parents - and then we head into the basement to defeat the monster there for the kids. I think it will help them become free from this place.
+
+### Session 2 - ""
