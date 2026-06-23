@@ -84,7 +84,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ## Stats
 
-| L. 3 | XP: 1.8k           | / 2.7k | (0) Inspiration           |
+| L. 3 | XP: 1.9k           | / 2.7k | (0) Inspiration           |
 | ---- | ------------------ | ------ | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF    | +2                        |
 | CON  | 18 (+4)            | M. HP  | 40 Max HP (1/5 Exhaust)   |
@@ -164,7 +164,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
 ##### Lay on Hands (15/15)
-- As an action, you can touch a creature and restore a number of hit points, up to the maximum amount remaining in your pool.
+- As an action, you can touch a creature and restore a number of hit points, up to the maximum amount remaining in your pool. You regain any spent points on a long rest.
 - Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. 
 	- You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
 - This feature has no effect on undead and constructs.
