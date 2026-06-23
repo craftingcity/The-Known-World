@@ -146,7 +146,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 	- you cannot speak
 	- you may make a Multiattack of one *Bite* (STR+PROF, 1d8+STR) Attack and one *Claw* (STR+PROF, 2d4+STR) Attack as an Action.
 - When you would attempt to return to your true form, use your Action and make a Bloodlust Skill Check.
-- When you return to your true form, you gain a level of Exhaustion.
+- When you return to your true form, you gain a level of Exhaustion. Exhaustion does not affect you while you are Transformed.
 
 | Level | Effect                 |
 | ----- | ---------------------- |
@@ -215,7 +215,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 ## Session Log
 ### Session 1 - "You walk through a Dark Forest"
 
-A man named *Antonov* is our patron for our mission from Yerba to Prosper.
+A man named *Antonov* is our patron for our mission from Yerba to Prosper. He has a scar on his ear.
 
 We are comrades with Caspin the Golden Dragonborn Sorcerer, Brilynn the Dark-Elf Bard, and Klarl the Human Barbarian.
 
@@ -227,6 +227,6 @@ As we explore the house, we find a letter in a hidden room addressed to the hous
 
 Heading up to the Top floor, we encounter an apparition of a woman humming a lullaby that turns to attack us. I turned immediately as we got spooked by her, but turned back under my own will, and we continue to investigate the house.
 
-We solve the death of the kids, and the nurse and parents - and then we head into the basement to defeat the monster there for the kids. I think it will help them become free from this place.
+We solve the death of the kids, and the nurse and parents - some sort of infidelity or cult stuff - and then we head into the basement to defeat the monster there for the kids. I think it will help them become free from this place.
 
-### Session 2 - ""
+### Session 2 - "Into the Dungeon"
