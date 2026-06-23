@@ -61,6 +61,11 @@ It was too horrible, but she knows that she did this to her own family.
 
 She can't be this. She can't be a monster. 
 
+#### After the Incident
+After the Incident, Lunna travelled. She started a new life with nothing but what she had, and would turn to petty crime or hunting and gathering as means of survival, although she had little success in both. In futility, she turned to the churches, and would find the life of a wandering paladin very appealing - she could leave when she needed to, and people would ask few questions about where she came from. During this time, she would bring herself before the Changebringer, the Maker of Ways, Attendant of the Fates, Avandra, and would follow the Way to change herself away from what she did, and into who she is.
+
+She now is a Paladin of her own Order, of being worth the damage she causes, of surviving herself, and above all things, of being anything but the Monster.
+
 #### Prayers to Avandra
 
 - "May you grant us the wisdom to accept the things we cannot change, and the strength to change that which we cannot accept."
@@ -128,7 +133,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - You have 60 feet of darkvision.
 
 ##### Tough
-- When you gain a level, your Max HP increases by 2.
+- When you gain a level, your Max HP increases by an additional 2.
 
 ##### Lycanthropy
 - You are a Lycanthrope. Under the light of the full moon, or in reaction to surging emotions, (and otherwise to your DM's discretion) you will be compelled to Transform.
@@ -200,8 +205,6 @@ You prepare the list of paladin spells that are available for you to cast, choos
 		- a crowbar
 		- a waterskin (1/1L)
 		- 50 feet of hempen rope
-		- Crossbow, Light (1d8 + DEX piercing)
-		- 20 steel bolts
 *Groin*:
 	- Black Platemail (18 AC)
 *Legs*:
