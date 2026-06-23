@@ -230,3 +230,5 @@ Heading up to the Top floor, we encounter an apparition of a woman humming a lul
 We solve the death of the kids, and the nurse and parents - some sort of infidelity or cult stuff - and then we head into the basement to defeat the monster there for the kids. I think it will help them become free from this place.
 
 ### Session 2 - "Into the Dungeon"
+
+We begin to search the Dungeon, and first encounter an empty crypt-space with Walter's name on it, the miscarried child. Additionally, there are spaces for people to live in squalor down here, for whatever reason.
