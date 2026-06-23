@@ -84,7 +84,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ## Stats
 
-| L. 3 | XP: 1.9k           | / 2.7k | (0) Inspiration           |
+| L. 3 | XP: 2.4k           | / 2.7k | (0) Inspiration           |
 | ---- | ------------------ | ------ | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF    | +2                        |
 | CON  | 18 (+4)            | M. HP  | 40 Max HP (1/5 Exhaust)   |
