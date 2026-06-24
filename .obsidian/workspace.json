@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "73198e24dd953ac1",
+        "id": "9dba539630203d90",
         "type": "tabs",
         "children": [
           {
-            "id": "b5202454120fa7b6",
+            "id": "110afea483979a78",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,69 +18,22 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "d_ Chapter Six - Level Five; Pick-up Sticks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"d_ Chapter Six - Level Five; Pick-up Sticks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Kailkeep",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kailkeep\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":41},\"to\":{\"line\":13,\"ch\":41}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d83bb5627e104218",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8ae43c1d69c53f44",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
                   "eState": "{}"
-                },
-                {
-                  "title": "d_ Chapter Six - Level Five; Pick-up Sticks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"d_ Chapter Six - Level Five; Pick-up Sticks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Kailkeep",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kailkeep\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":41},\"to\":{\"line\":13,\"ch\":41}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
+              "title": "The Kingdom of Prosper"
             }
           }
         ]
@@ -378,12 +331,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ae43c1d69c53f44",
+  "active": "110afea483979a78",
   "lastOpenFiles": [
+    "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
     "Game Notes/Prenotes/'26/Prenotes June 26 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
-    "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Game Notes/Prenotes/'26/Prenotes June 05 26.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",

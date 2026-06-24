@@ -5,6 +5,7 @@ tags:
 aliases: Prosper
 ---
 # The Kingdom of Prosper
+### "Prosper in Freedom and Loyalty"
 ![[KingdomOfProsper-105AF.png]]
 *a map of the Kingdom, as of 105AF*
 
@@ -13,7 +14,7 @@ Not but 45 years have passed since the [[Arthur Simonson|Great Adverturer King]]
 ## History
 For much of the first century, "The Kingdom of Prosper" was an idea in a young hobgoblin's head. 
 
-In the very beginning, people made homes and farms here, and quickly the [[Bandit Lords]] came. They ruled with force, and took over the small settlements that existed. They fought against the [[Blood-Hobgoblin Clan Pact]] and took land from the hobgoblins to make their own holdings larger. 
+In the very beginning, people made homes and farms in the fertile lands that we would come to know as [[Arthur's Prairie]], and quickly the [[Bandit Lords]] would come. They ruled with fear and force, taking over the small settlements that existed and bending their developments to their whims. These 'Lords' fought against the communities in the [[Illburn Forest]] - who would come to form the [[Blood-Hobgoblin Clan Pact]] in response - and took land and wealth from their neighbors to make their own holdings larger. 
 
 In [[Timeline|56AF]], [[Arthur Simonson]] united these lands in a civil war that many call the [[Unification]]. It was a war against the [[Bandit Lords]] that had ruled this area. In the end, it was a great success for the people of Prosper. As each holding swore fealty to their new king, they were adorned a [[Noble Houses of Prosper|Noble House]] name.
 
