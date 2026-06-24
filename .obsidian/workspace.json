@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "The Church of the White Flame",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Church of the White Flame\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":82,\"ch\":43},\"to\":{\"line\":82,\"ch\":43}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Kingdom of Prosper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Kingdom of Prosper\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":183},\"to\":{\"line\":43,\"ch\":183}},\"scroll\":8.838465026999451}"
+                },
+                {
                   "title": "Graph view",
                   "icon": "lucide-git-fork",
                   "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
@@ -28,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Kingdom of Prosper"
+              "title": "Golden Claws"
             }
           },
           {
@@ -355,8 +367,9 @@
   },
   "active": "110afea483979a78",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Order of Arthurian Saints.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
@@ -381,7 +394,6 @@
     "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
     "DATABASE.base",
-    "Game Notes/NPCs/High Power/Loose Wizard NPCs/Sally Seashell.md",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
     "Game Notes/Prenotes/'26",

@@ -9,7 +9,7 @@ aliases: Prosper
 ![[KingdomOfProsper-105AF.png]]
 *a map of the Kingdom, as of 105AF*
 
-Not but 45 years have passed since the [[Arthur Simonson|Great Adverturer King]] united the lands. The city of [[Yerba]] is the largest city in the Kingdom, second only to the [[Castle Prosper]] and its surrounding municipality. Many other small collectives blot the land (such as the farming community of [[Moonlight]]), connected by kempt cobbled roads. Much of the geography of Prosper is forested. 
+Not but 45 years have passed since the [[Arthur Simonson|Great Adverturer King]] united the lands. The city of [[Yerba]] is the largest city in the Kingdom, second only to the [[Castle Prosper]] and its surrounding municipality. Many other small collectives blot the land, connected by kempt cobbled roads. Much of the geography of Prosper is forested. 
 
 ## History
 For much of the first century, "The Kingdom of Prosper" was an idea in a young hobgoblin's head. 
@@ -25,8 +25,9 @@ The population pay taxes to maintain the cities and kingdom operations, but much
 
 ### Important People
 - [[Arthur Simonson]]
-- [[Mateus Fyrren]]
-- [[Janice Austra]]
+- [[Mateus Fyrren]], deceased
+- [[Janice Austra]], deceased
+- [[Alergra Barrowinch]], deceased
 
 ## Culture
 #### Heritage
@@ -42,19 +43,18 @@ Most people are educated, and understand why they pay taxes and are protected by
 
 This subtle use of magical force provides the community a sense of honesty and compassion, generally leading the people of the Kingdom to love their neighbors and accepting strangers.
 
-People attend temples of the Gods of Emotion when they wish to gain their favor, or if they believe in the ideals of that church, temple, or deity, but most people in Prosper are - to some degree - patrons of the [[Order of Arthurian Saints]], the imperial cult inspired by the real and legendary actions of [[Simonson's Adventuring Party]], and those who serve his will even now.
+People attend temples of the Gods of Emotion when they wish to gain their favor, or if they believe in the ideals of that church, temple, or deity, but most people in Prosper are - to some degree - patrons of the [[Order of Arthurian Saints]], the imperial cult inspired by the real and legendary actions of [[Simonson's Adventuring Party]], and those who serve his will today.
 
 #### Economics
 Citizens of Prosper persist on stretched foods by cultural choice. Hearty grain and vegetables grow well in this area, though fruit does not. Wood and meat is abundant in this area. Much of the more expensive items are imported spices and metals.
 
-Merchants are dishonorable crooks in the eye of the common people, but through the support of the people of means in the area, merchants import and export products of the Kingdom outward.
+Merchants are dishonorable crooks in the eye of the common people, but through the support of the people of means in the area, merchants import necessities and export products of the Kingdom.
 
 See also [[Economics of Prosper]].
 
 ### Symbolism
 - The [[Noble Houses of Prosper]]'s house crests
 - The [[Seal of Kingdom Prosper]]
-- The [[Simonson Seal]]
 - The [[Novum Caput Dei]]
 
 ## Technology
