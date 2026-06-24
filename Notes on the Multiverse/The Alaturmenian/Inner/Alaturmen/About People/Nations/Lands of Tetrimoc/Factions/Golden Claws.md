@@ -43,12 +43,14 @@ The Department of Ecology is responsible for the production of food and drink fo
 The Department of Labor is responsible for the importation, exportation, or production of any non-food, non-water commodities, and the management and expansion of the physical structures of [[The Golden City]].
 
 #### Department of Warfare
-The Department of Warfare is responsible for gaining and maintaining a technological advantage over their citizens and any other factions they are surrounded by.
+The Department of Warfare is responsible for gaining and maintaining a technological advantage over their citizens and any other factions they are surrounded by, and managing the many standing military forces under the Golden Claws.
 
 ##### The Golden Claw Guard
 The guards of the city are the cultural superiors of all people of [[The Deserts of Tetrimoc]] and act as their physical and lawful protectors and enforcers. Typically, guards are recruited among the City Dwellers, who already have a distain for their kindred above-ground, and trained by members who have seen active duty.
 
 ##### Gleeming Wyvern Riders
+Rarely seen, but legendarily glorious, the Gleeming Wyvern Riders are an elite group of soldiers and druids that breed Wyvern within the depths of the Golden City, and train them as mounts, developing a unique advantage in aerial superiority.
+
 ##### Breakers in Tooth and Claw
 ##### The Black Hand Killteams
 In the bowels of the Golden City, there are many rough, tough, young, and unmissed children who have been indoctrinated into a military cult that operates outside the Deserts with extreme secrecy.
