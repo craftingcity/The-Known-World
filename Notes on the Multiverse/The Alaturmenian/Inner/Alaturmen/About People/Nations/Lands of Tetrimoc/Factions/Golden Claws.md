@@ -66,7 +66,7 @@ In the bowels of the Golden City, there are many rough, tough, young, and unmiss
 ##### Golden Merchant's Company
 ### Symbolism
 #### The Golden Claw
-A 5 fingered golden claw flattenned into a fist with long black nails extending.
+A 5 fingered golden claw clenched into a fist with long black nails extending down to the 'wrist' area.
 ## Technology
 ### Food & Water
 ### Shelter
