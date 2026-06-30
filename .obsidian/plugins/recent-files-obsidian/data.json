@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DATABASE",
+      "path": "DATABASE.base"
+    },
+    {
       "basename": "Simonson's Adventuring Party",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "Yerba",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md"
-    },
-    {
-      "basename": "DATABASE",
-      "path": "DATABASE.base"
     },
     {
       "basename": "Witch of Ardor",

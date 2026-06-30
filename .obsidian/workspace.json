@@ -20,10 +20,13 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "DATABASE.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "DATABASE"
             }
           }
         ]
@@ -125,8 +128,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
