@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Guild of Wizards",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
+    },
+    {
+      "basename": "Politics of Coalition c. 093AF - XXXAF",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Politics of Coalition c. 093AF - XXXAF.md"
+    },
+    {
       "basename": "Illburn Forest",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "conflict-files-obsidian-git",
       "path": "conflict-files-obsidian-git.md"
-    },
-    {
-      "basename": "The Secretkeepers",
-      "path": "Game Notes/Campaign Rosters/The Secretkeepers.md"
-    },
-    {
-      "basename": "Avernus",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md"
     }
   ],
   "omittedPaths": [],

@@ -37,7 +37,8 @@ The Illburn Forest is all the living remains of the [[Great Northern Forests]] s
 		- Hot Spa (personal - NOT commercial)
 		- One Old Dog (childhood pet, only like 20 years younger than me) is my pet, but im friends with all the other animals out here
 		- I love my dog, but i'm struggling with the fact that im keeping him alive so long
-	- enjoys 
+	- enjoys bird watching, mat to meditate on - which i do kinda a lot now adays
+		- maybe him meditating so much is a sign that he is refusing the Call?
 #### B31. 
 #### B32.  
 #### C24. Wolverine Den
