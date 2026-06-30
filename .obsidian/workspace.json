@@ -74,9 +74,32 @@
               "icon": "lucide-file",
               "title": "The Arstoviches"
             }
+          },
+          {
+            "id": "d0df0ec1c8e9dbc0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Illburn Forest"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +149,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "whittiker",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,7 +198,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -369,8 +393,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "683adbc19d75ed26",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
     "DATABASE.base",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md",
@@ -397,7 +422,6 @@
     "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Lingering Injuries.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
     "Game Notes/Prenotes/'26",
