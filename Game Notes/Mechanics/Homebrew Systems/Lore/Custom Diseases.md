@@ -96,3 +96,4 @@ A Dhampir can spend Vampiric Progression in the following manners.
 When a Dhampir is reduced to 0 or fewer Hit Points, if they have any Blood Tokens and the damage that reduced them to 0 or fewer was not fire or radiant damage, they are consumed and the Dhampir becomes incapacitated. Otherwise, they die and are reduced to ash. When a Dhampir is incapacitated this way, they can be killed by piecing their heart with wood or mithril, or exposing the Dhampir to direct sunlight such that they are reduced to ash. When a Dhampir is incapacitated this way, they can regain a Hit Point by being laid in their lair for 28 uninterrupted days.
 
 ### Curse of the Beast* (Therianthropy)
+The Curse of the Beast is a 
