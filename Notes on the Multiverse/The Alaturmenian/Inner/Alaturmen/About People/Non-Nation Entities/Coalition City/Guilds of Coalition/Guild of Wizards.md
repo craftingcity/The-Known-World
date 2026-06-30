@@ -35,6 +35,7 @@ The Council of Mages are the few people responsible for the use of Weave Arcane 
 The elvish word in the title of the Guild's courier service translates roughly to "a magical horse with magics and wisdom". It is the task of the Luh'turingole to transport information and objects throughout Alaturmen as authorized by the [[Guilds of Coalition]] at their discretion and necessity.
 
 ### Magical Crimes Division
+- supported by Blue Mage's imports?
 
 ## Culture
 #### Heritage

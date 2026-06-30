@@ -61,22 +61,40 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Guild of Wizards",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Guild of Wizards\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":35},\"to\":{\"line\":37,\"ch\":35}}}"
+                },
+                {
+                  "title": "Guilded Wizard NPCs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Guilded Wizard NPCs.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Guilded Wizard NPCs\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Arstoviches",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Arstoviches\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Arstoviches"
+              "title": "Custom Heritages"
             }
           },
           {
-            "id": "d0df0ec1c8e9dbc0",
+            "id": "b531a444ec40e40e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -84,28 +102,45 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Illburn Forest",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Illburn Forest\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":72},\"to\":{\"line\":40,\"ch\":72}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Guild of Wizards"
+              "title": "Custom Cultures"
+            }
+          },
+          {
+            "id": "381711172859e0ff",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Cult of Reborn Glory.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Cult of Reborn Glory"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "whittiker",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -399,12 +434,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0df0ec1c8e9dbc0",
+  "active": "381711172859e0ff",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Politics of Coalition c. 093AF - XXXAF.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Guilded Wizard NPCs.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Politics of Coalition c. 093AF - XXXAF.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
     "DATABASE.base",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md",
@@ -424,10 +463,6 @@
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Arms Companies and their Supply Regions.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Merchant Companies/Yosimmite Industries.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Kickoff.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
     "Game Notes/Prenotes/'26",

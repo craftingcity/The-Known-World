@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Cult of Reborn Glory",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Cult of Reborn Glory.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
+    },
+    {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
+    },
+    {
       "basename": "Guild of Wizards",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md"
+    },
+    {
+      "basename": "Guilded Wizard NPCs",
+      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Guilded Wizard NPCs.md"
+    },
+    {
+      "basename": "The Arstoviches",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md"
+    },
+    {
+      "basename": "The Wizard In Blue",
+      "path": "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md"
     },
     {
       "basename": "Politics of Coalition c. 093AF - XXXAF",
@@ -11,10 +35,6 @@
     {
       "basename": "Illburn Forest",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md"
-    },
-    {
-      "basename": "The Arstoviches",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md"
     },
     {
       "basename": "Custom Diseases",
@@ -169,10 +189,6 @@
       "path": "Game Notes/Prenotes/'26/Prenotes Apr 07 26.md"
     },
     {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
-    },
-    {
       "basename": "Prenotes Mar 29 26",
       "path": "Game Notes/Prenotes/'26/Prenotes Mar 29 26.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "The Planes of Existence",
       "path": "Notes on the Multiverse/The Alaturmenian/The Planes of Existence.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
-    },
-    {
-      "basename": "APGtAv1",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md"
-    },
-    {
-      "basename": "Paulo San Tymiq",
-      "path": "Game Notes/NPCs/High Power/Lorekeeper NPCs/Paulo San Tymiq.md"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
     }
   ],
   "omittedPaths": [],
