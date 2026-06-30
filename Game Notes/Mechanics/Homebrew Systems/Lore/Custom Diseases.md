@@ -98,4 +98,6 @@ When a Dhampir is reduced to 0 or fewer Hit Points, if they have any Blood Token
 ### Curse of the Beast* (Lycanthropy)
 The Curse of the Beast (further refered to as 'Lycanthropy') is a fey pathogen that lies latent in the 'dormant' host until it activates, and exerts a violent metamorphic influence over the host, transforming them into a monstrous hybrid of humanoid and beast. The disease is spread by ritual or via the bite of an infected person. After failing a DC 17 Con Save upon exposure, initial symptoms occur in conjunction with the rise of the next full moon.
 
-A creature experiencing the initial symptoms of Lycanthropy experience their first transformation; as their bones crack, break, and grow, their skin becomes taught against their muscles, they grow a thick layer of fur across their body, and their face breaks forward and out to form a canine snout and jaw
+A creature experiencing the initial symptoms of Lycanthropy experience their first transformation; as their bones crack, break, and grow, their skin becomes taut against their muscles, they grow a thick layer of fur across their body, and their face breaks forward and out to form a canine snout and jaw. When this happens, the creature makes a DC 18 Con Save. If they fail, they die. Otherwise, their symptoms progress to Stage One, and they are Transformed.
+
+#### Stage One
