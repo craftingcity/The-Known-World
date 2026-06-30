@@ -54,6 +54,35 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "1505ab7025e60dce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa229daab02feeec",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Custom Diseases"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -347,7 +376,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "441db20de0263622",
+  "active": "aa229daab02feeec",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",

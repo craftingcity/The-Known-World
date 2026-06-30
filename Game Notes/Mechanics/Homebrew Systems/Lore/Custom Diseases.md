@@ -95,5 +95,7 @@ A Dhampir can spend Vampiric Progression in the following manners.
 
 When a Dhampir is reduced to 0 or fewer Hit Points, if they have any Blood Tokens and the damage that reduced them to 0 or fewer was not fire or radiant damage, they are consumed and the Dhampir becomes incapacitated. Otherwise, they die and are reduced to ash. When a Dhampir is incapacitated this way, they can be killed by piecing their heart with wood or mithril, or exposing the Dhampir to direct sunlight such that they are reduced to ash. When a Dhampir is incapacitated this way, they can regain a Hit Point by being laid in their lair for 28 uninterrupted days.
 
-### Curse of the Beast* (Therianthropy)
-The Curse of the Beast is a 
+### Curse of the Beast* (Lycanthropy)
+The Curse of the Beast (further refered to as 'Lycanthropy') is a fey pathogen that lies latent in the 'dormant' host until it activates, and exerts a violent metamorphic influence over the host, transforming them into a monstrous hybrid of humanoid and beast. The disease is spread by ritual or via the bite of an infected person. After failing a DC 17 Con Save upon exposure, initial symptoms occur in conjunction with the rise of the next full moon.
+
+A creature experiencing the initial symptoms of Lycanthropy experience their first transformation; as their bones crack, break, and grow, their skin becomes taught against their muscles, they grow a thick layer of fur across their body, and their face breaks forward and out to form a canine snout and jaw
