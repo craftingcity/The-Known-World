@@ -35,7 +35,7 @@ The Council of Mages are the few people responsible for the use of Weave Arcane 
 The elvish word in the title of the Guild's courier service translates roughly to "a magical horse with magics and wisdom". It is the task of the Luh'turingole to transport information and objects throughout Alaturmen as authorized by the [[Guilds of Coalition]] at their discretion and necessity.
 
 ### Magical Crimes Division
-- supported by Blue Mage's imports?
+- supported by Blue Mage's imports from his extraplanar adventures?
 
 ## Culture
 #### Heritage
@@ -50,4 +50,4 @@ Waywalket Turing provided the Guild of Wizards with a large section of research 
 
 The Guild of Wizards has constructed Luh'turiñgolë Towers in many areas of the world to expand the range of these protected divination-communications.
 
-Eventually, the Guild hopes to disseminate information by providing receive-only Sending Stones
+Eventually, the Guild hopes to disseminate information by providing receive-only Sending Stones to the loyalist populations, and-or the world.
