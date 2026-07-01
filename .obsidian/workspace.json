@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "73198e24dd953ac1",
+        "id": "34f428de2b32345d",
         "type": "tabs",
         "children": [
           {
-            "id": "b5202454120fa7b6",
+            "id": "fcc6ab8f0770f114",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,40 +16,51 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
+                }
+              ]
+            },
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "DATABASE.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "DATABASE"
+            }
+          },
+          {
+            "id": "441db20de0263622",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
-                  "title": "d_ Chapter Six - Level Five; Pick-up Sticks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"d_ Chapter Six - Level Five; Pick-up Sticks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Kailkeep",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kailkeep\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":41},\"to\":{\"line\":13,\"ch\":41}}}"
+                  "state": "{}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
+              "title": "Custom Diseases"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "d83bb5627e104218",
+        "id": "1505ab7025e60dce",
         "type": "tabs",
         "children": [
           {
-            "id": "8ae43c1d69c53f44",
+            "id": "aa229daab02feeec",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -57,30 +68,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "d_ Chapter Six - Level Five; Pick-up Sticks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"d_ Chapter Six - Level Five; Pick-up Sticks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Kailkeep",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kailkeep\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":41},\"to\":{\"line\":13,\"ch\":41}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
+              "title": "Custom Diseases"
             }
           }
         ]
@@ -133,8 +132,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "durandurm",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -187,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055,
-    "collapsed": true
+    "width": 297.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -378,35 +376,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ae43c1d69c53f44",
+  "active": "aa229daab02feeec",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Cult of Reborn Glory.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/Guilded Wizard NPCs.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
+    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Politics of Coalition c. 093AF - XXXAF.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Illburn Forest.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
+    "DATABASE.base",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Simonson's Adventuring Party.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Democratic Combine of Peoples/The Democratic Combine of Peoples.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Church of the White Flame/The Church of the White Flame.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Order of Arthurian Saints.md",
+    "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
     "Game Notes/Prenotes/'26/Prenotes June 26 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
-    "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Game Notes/Prenotes/'26/Prenotes June 05 26.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Arms Companies and their Supply Regions.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/World Wide Happenings/Worldknown Groups/Merchant Companies/Yosimmite Industries.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Kickoff.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Five - Level Four; Four Corners.md",
-    "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Lingering Injuries.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
-    "Junie's Characters/Tiana Turing.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Mechanis/Mechanis.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
-    "DATABASE.base",
-    "Game Notes/NPCs/High Power/Loose Wizard NPCs/Sally Seashell.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Specific Places/Sally's Alley.md",
-    "Game Notes/NPCs/High Power/True Villian NPCs/Witch of Ardor.md",
-    "Game Notes/NPCs/High Power/Guild Employee NPCs/Guild Leaders.md",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
     "Game Notes/Prenotes/'26",

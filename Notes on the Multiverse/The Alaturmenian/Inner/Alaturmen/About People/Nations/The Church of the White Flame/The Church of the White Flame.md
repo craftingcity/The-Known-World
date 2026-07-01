@@ -12,7 +12,7 @@ tags:
 *the area of [[The Holyl'nds]]*
 
 ## History
-The [[#The Church of the White Flame]] is the main body of government in the [[The Holyl'nds]], as a caste theocracy. They worship [[Its Greatness]] as a great force to be revered for its allowance of containment. 
+The [[#The Church of the White Flame]] is the main body of government in the [[The Holyl'nds]], and acts as a caste based theocracy. They worship [[Its Greatness]] as a great force to be revered for its allowance of containment and benevolent manipulation of the New Empire.
 
 ## Governance
 ### Castes
@@ -80,7 +80,7 @@ Since this development, over the course of hundreds of rituals - experiments hav
 Its Greatness judges you as you judge it. 
 Its Greatness bestows unto you as you worship it.
 Its Greatness is holy, right, and a gift to us.
-We will share our gifts with the world.
+And we will share our gifts with the world.
 
 ### The Formal Journey
 The Tendered are a priest class in the society of [[The Holyl'nds]]. Traditionally, they are taken at a young age to [[The Holy City of Kanielkiln]] and raised by the Firstchurch. When they are "ready" or their training is otherwise complete, they begin their formal journey; They are ordained in filigree by their *Guardian* and ascend the 100 steps into the White Church. They are to be greeted by the Spoken of the church and given their flame. They then depart from the city in parade and glory. They will carry with them their flame where they go and tend it. Many start churches of their own and grow the flock of Patrons from the Unseen. Some settle otherwise, starting businesses, charities, or other organizations.
