@@ -98,8 +98,9 @@ When a Dhampir is reduced to 0 or fewer Hit Points, if they have any Blood Token
 ### Curse of the Beast* (Lycanthropy)
 The Curse of the Beast (further refered to as 'Lycanthropy') is a fey pathogen that lies latent in the 'dormant' host until it activates, and exerts a violent metamorphic influence over the host, transforming them into a monstrous hybrid of humanoid and beast and flooding their senses with an intense hunger. The disease is spread by ritual or via the bite of an infected person. After failing a DC 17 Con Save upon exposure, initial symptoms occur immediately.
 
-A creature experiencing the initial symptoms of Lycanthropy are notably more irritable and gluttonous than they were before their exposure. Additionally, the diseased creature develops an increased tolerance for pain, and naturally recovers from minor injuries more quickly than they should. On the rise of the next full moon
-
- first transformation; as their bones crack, break, and grow, their skin becomes taut against their muscles, they grow a thick layer of fur across their body, and their face breaks forward and out to form a canine snout and jaw. When this happens, the creature makes a DC 18 Con Save. If they fail, they die. Otherwise, they are Transformed.
+A creature experiencing the initial symptoms of Lycanthropy are notably more irritable and gluttonous than they were before their exposure. Additionally, the diseased creature develops an increased tolerance for pain, and naturally recovers from minor injuries more quickly than they should. On the rise of the next full moon, the diseased creature makes a DC 20 Con Save. If they succeed, they are incapacitated and unconscious until the moon sets the next day. If they fail, they are Transformed and their symptoms progress to Stage One.
 
 #### Stage One
+At Stage One, the Lycanthrope is experiencing or has experienced their first Transformation.
+
+first transformation; as their bones crack, break, and grow, their skin becomes taut against their muscles, they grow a thick layer of fur across their body, and their face breaks forward and out to form a canine snout and jaw. When this happens, the creature makes a DC 18 Con Save. If they fail, they die. Otherwise, they are Transformed.
