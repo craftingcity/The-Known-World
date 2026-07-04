@@ -184,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Glot",
+                "query": "head gear",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -428,7 +428,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83c4cb8805f9c9d2",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "A Grand Notepad.md",
     "Game Notes/Prenotes/'26/Prenotes July 03 26.md",

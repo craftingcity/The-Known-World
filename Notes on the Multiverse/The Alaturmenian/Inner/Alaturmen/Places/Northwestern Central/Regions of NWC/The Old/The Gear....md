@@ -73,7 +73,7 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | TacLight! Pouch of Holding | Belt    | Dimensional Bag for Small or Smaller items                            | mercs     | 12         | 2400sp     |
 | Flexing Combat Vest        | Vest    | +1 AC                                                                 | mercs     | 16         | 3200sp     |
 | Goggles of Night-Vision    | Goggles | 300' darkvision                                                       | all       | 32         | 6400sp     |
-| Longshot Headgear          | Goggles | Spend 1 charge (of 4, reset at dawn) to gain ADV on next attack roll. | troopers  | 28         | 5600sp     |
+| Longshot Headgear          | Goggles | Spend 1 charge (of 4, regain 1 at dawn) to gain ADV on next attack roll. | troopers  | 28         | 5600sp     |
 | Bayonet                    |         | Make a dagger attack (1d4+DEX).                                       | all       | 0.6        | 30sp       |
 | Bracing Shield             | Shield  | Use a shield and brace your firearm with one hand. (+2AC)             | all       | 3          | 600sp      |
 
