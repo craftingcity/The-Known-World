@@ -61,7 +61,7 @@ Chadius, Commander of the Eighth Legion of Free Traitors
 	B
 	C (26)
 	D ()
-9 - Chadius (28, 57, 87, 109, 158, 189, 240 / 300 SP:8/16)
+~~9 - Chadius (28, 57, 87, 109, 158, 189, 240 / 300 SP:8/16)~~
 8 - Roan & Mercs ()
 6 - Soarsia
 1 - Zipper
