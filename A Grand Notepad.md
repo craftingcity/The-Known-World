@@ -377,6 +377,103 @@ Goose's Carbine (295 DRM, FR); +6, 3d6+2 fire
 - Medical Kit (10/10) - 1 Charge, Roll Hit Dice + CON, add to HP
 - Pineapple Grenade (x1) - 5d6+20 @ 15' sphere
 
+#### Silver's Mercs - Epsilon-2
+##### "Silver" - Team Lead
+> Winter Elf, **CLASS LVL**
+
+| STAT | #    | STAT    | #                |
+| ---- | ---- | ------- | ---------------- |
+| STR  | x () | PRF     | +3               |
+| CON  | x () | MAX HP  |                  |
+| DEX  | x () | AC      | (P. Scout Armor) |
+| INT  | x () | Cur. HP |                  |
+| WIS  | x () | Hit Die |                  |
+| CHA  | x () | Speed   | 30'              |
+
+###### Skills & Proficiencies
+###### Actions & Features
+###### Inventory
+
+##### "Brittney" - Team Specialist
+> Human, **CLASS LVL**
+
+| STAT | #    | STAT    | #                |
+| ---- | ---- | ------- | ---------------- |
+| STR  | x () | PRF     | +3               |
+| CON  | x () | MAX HP  |                  |
+| DEX  | x () | AC      | (P. Scout Armor) |
+| INT  | x () | Cur. HP |                  |
+| WIS  | x () | Hit Die |                  |
+| CHA  | x () | Speed   | 30'              |
+
+###### Skills & Proficiencies
+###### Actions & Features
+###### Inventory
+
+##### "Crow" - Team Specialist
+> Kenku, **CLASS LVL**
+
+| STAT | #    | STAT    | #                |
+| ---- | ---- | ------- | ---------------- |
+| STR  | x () | PRF     | +3               |
+| CON  | x () | MAX HP  |                  |
+| DEX  | x () | AC      | (P. Scout Armor) |
+| INT  | x () | Cur. HP |                  |
+| WIS  | x () | Hit Die |                  |
+| CHA  | x () | Speed   | 30'              |
+
+###### Skills & Proficiencies
+###### Actions & Features
+###### Inventory
+
+##### "Roan" - Team Specialist
+> Human? Gnom,e?, **CLASS LVL**
+
+| STAT | #    | STAT    | #                |
+| ---- | ---- | ------- | ---------------- |
+| STR  | x () | PRF     | +3               |
+| CON  | x () | MAX HP  |                  |
+| DEX  | x () | AC      | (P. Scout Armor) |
+| INT  | x () | Cur. HP |                  |
+| WIS  | x () | Hit Die |                  |
+| CHA  | x () | Speed   | 30'              |
+
+###### Skills & Proficiencies
+###### Actions & Features
+###### Inventory
+
+##### "Tommy" - Team Member
+> Satyr, **CLASS LVL**
+
+| STAT | #    | STAT    | #                |
+| ---- | ---- | ------- | ---------------- |
+| STR  | x () | PRF     | +3               |
+| CON  | x () | MAX HP  |                  |
+| DEX  | x () | AC      | (P. Scout Armor) |
+| INT  | x () | Cur. HP |                  |
+| WIS  | x () | Hit Die |                  |
+| CHA  | x () | Speed   | 30'              |
+
+###### Skills & Proficiencies
+###### Actions & Features
+###### Inventory
+
+##### "Gourd" - Team Member
+> Goblin, **CLASS LVL**
+
+| STAT | #    | STAT    | #                |
+| ---- | ---- | ------- | ---------------- |
+| STR  | x () | PRF     | +3               |
+| CON  | x () | MAX HP  |                  |
+| DEX  | x () | AC      | (P. Scout Armor) |
+| INT  | x () | Cur. HP |                  |
+| WIS  | x () | Hit Die |                  |
+| CHA  | x () | Speed   | 30'              |
+
+###### Skills & Proficiencies
+###### Actions & Features
+###### Inventory
+
 ## RHOD (depreciated)
 ##### To-Do
 - rewrite Powerful Form and Powerful Build; ignore two-handed restrictions
