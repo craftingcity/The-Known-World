@@ -37,6 +37,29 @@
             }
           },
           {
+            "id": "2610db5d235693e0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/List of Names.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "List of Names"
+            }
+          },
+          {
             "id": "cb3b4339d67fa8d4",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -58,8 +81,61 @@
               "icon": "lucide-file",
               "title": "The Secretkeepers"
             }
+          },
+          {
+            "id": "a0ba009ceaa06c1c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Gear..."
+            }
+          },
+          {
+            "id": "08cae0c96172fad9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Grand Central",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Moonlight/Grand Central.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Grand Central\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Grand Notepad.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "A Grand Notepad"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +185,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dragon fang",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -353,12 +429,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83c4cb8805f9c9d2",
+  "active": "cb3b4339d67fa8d4",
   "lastOpenFiles": [
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "conflict-files-obsidian-git.md",
+    "Game Notes/NPCs/List of Names.md",
     "Game Notes/Prenotes/'26/Prenotes July 03 26.md",
-    "Game Notes/Prenotes/'26/Prenotes June 26 26.md",
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "A Grand Notepad.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Moonlight/Grand Central.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+    "Game Notes/Prenotes/'26/Prenotes June 26 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Simonson Clan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Emorin Clan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Scrivin Clan.md",
@@ -377,11 +458,6 @@
     "Game Notes/Prenotes/'26/Prenotes May 22 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
-    "Game Notes/NPCs/Mild Power/Knights & Nobles/Erika a'Valim.md",
-    "Game Notes/NPCs/Mild Power/Knights & Nobles/Gorebladder a'Nyrk.md",
-    "Game Notes/NPCs/High Power/Heads of Arthurian Houses/Heads of Arthurian Houses.md",
-    "Game Notes/NPCs/High Power/Council of Eight NPCs/Sakharov Yosimmite.md",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
     "Game Notes/Prenotes/'26",
