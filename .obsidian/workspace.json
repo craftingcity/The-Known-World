@@ -88,16 +88,9 @@
               "icon": "lucide-file",
               "title": "Blood Clans"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7a923d820aea1c54",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "f084c428fb3604fe",
+            "id": "adca3979c23e35bf",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -111,15 +104,104 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Simonson Clan.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Wakquk Twins.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Simonson Clan"
+              "title": "Wakquk Twins"
             }
           }
-        ]
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f84e513cfb9c2a77",
+        "type": "split",
+        "children": [
+          {
+            "id": "7a923d820aea1c54",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dc16ab5f9904821c",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Lily-Mae Garqwak.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lily-Mae Garqwak"
+                }
+              },
+              {
+                "id": "f084c428fb3604fe",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Simonson Clan.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Simonson Clan"
+                }
+              }
+            ]
+          },
+          {
+            "id": "55c7378748ac0a81",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0130ce8cefe7ec3e",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/NPCs/Mild Power/Midboss/Marley Hurraquk.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Marley Hurraquk"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -413,10 +495,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd766a097184ad32",
+  "active": "dc16ab5f9904821c",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Simonson Clan.md",
+    "Game Notes/NPCs/Mild Power/Midboss/Marley Hurraquk.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Wakquk Twins.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
+    "Lily-Mae Garqwak.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Simonson Clan.md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Pact.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
@@ -439,9 +524,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guild of Wizards.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Cult of Reborn Glory.md",
-    "Game Notes/NPCs/Mild Power/Guild Employee NPCs/Guilded Wizard NPCs/Guilded Wizard NPCs.md",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
     "Game Notes/Prenotes/'26",
