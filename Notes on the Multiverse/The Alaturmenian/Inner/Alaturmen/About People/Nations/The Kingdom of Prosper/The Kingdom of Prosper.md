@@ -7,7 +7,7 @@ aliases: Prosper
 # The Kingdom of Prosper
 ### "Prosper in Freedom and Loyalty"
 ![[KingdomOfProsper-105AF.png]]
-*a map of the Kingdom, as of 105AF*
+*a map of the Kingdom, as of 105AF* ^1ae619
 
 Not but 45 years have passed since the [[Arthur Simonson|Great Adverturer King]] united the lands. The city of [[Yerba]] is the largest city in the Kingdom, second only to the [[Castle Prosper]] and its surrounding municipality. Many other small collectives blot the land, connected by kempt cobbled roads. Much of the geography of Prosper is forested. 
 
