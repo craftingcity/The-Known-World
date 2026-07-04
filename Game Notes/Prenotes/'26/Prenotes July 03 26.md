@@ -33,5 +33,19 @@ You will never be ready, but you will always have to choose. What do you do?
 
 ### What happened?
 
+We're choosing to prepare just a little more.
+	- We've willed everything legal to [[Anita Rewch]]
+	- Hired SEASec Mercs - (100k, of which 20 is upfront, 80 is 16 days of pay with the promise of backpay)
+		- *EPSILON-2;*
+		- Silver, Winter Elf, Lead
+		- Crow, Kenku, Specialist
+		- Brittney, Human, Specialist
+		- Tommy, Satyr, Member
+		- Gourd, Goblin, Member
+	- We crafted the Dawnblade-Shield for Niko
+	- We bought 100 gallons of Holy Water
+
+They are robbing the guy who sold the Jet Guns, his name was Trexian Glot the Artisan.
+
 
 We leave our heroes on the date of ... AF, as they ...
