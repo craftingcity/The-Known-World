@@ -12,6 +12,8 @@ Having split the Waquk Clan in twain following the death of her mother, [[Marley
 ## Governance
 ## Culture
 #### Heritage
+Formed from those most fortunate during the rule of [[Gail Wakquk]], the Garqwak clan wishes to hold strong to what they have while they plot against the western degenerates. We consider ourselves an honorable people who have been slighted and indebted. The people of Hurraquk will pay.
+
 #### Language
 #### Values
 #### Theology

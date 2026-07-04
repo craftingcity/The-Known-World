@@ -12,7 +12,7 @@ Having split the Wakquk Clan in twain following the death of her mother, [[Lily-
 ## Governance
 ## Culture
 #### Heritage
-Being the neglected vassals of [[Gail Wakquk]] have pushed the people to a hardy self-reliance, and since her death, a 
+Being the neglected vassals of [[Gail Wakquk]] have pushed the people to a hardy self-reliance, and since her death, an inspired and uniting leader. Although there is peace now, we await the time we can retake the whole of the Wakquk for Lily-Mae and the Garqwak name.
 
 #### Language
 #### Values
