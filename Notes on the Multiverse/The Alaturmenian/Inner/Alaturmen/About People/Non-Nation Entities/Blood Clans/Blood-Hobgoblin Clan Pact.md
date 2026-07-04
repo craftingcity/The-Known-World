@@ -3,7 +3,7 @@ tags: text
 aliases:
 ---
 # Blood-Hobgoblin Clan Pact
-The Blood Hobgoblin Clan Pact is a #text that was written by the ancient Hobgoblins that describes the Lawful contract on which the [[Blood Clans]] functions. It was signed by over a dozen members of each[[The Kingdom of Prosper]] is a lawful member of the [[Blood Clans]], being an entity headed by [[Simonson Clan]], and as such the rules and regulations described herein are afforded to the Arthurians, too. 
+The Blood Hobgoblin Clan Pact is a #text that was written by the ancient Hobgoblins that describes the Lawful contract on which the [[Blood Clans]] functions. It was signed by over a dozen members of each of the six clans in 032AF. Although they have established themselves as independant houses, the [[Wakquk Twins]] are afforded membership by blood. After significant skirmishing and litigation, [[The Kingdom of Prosper]] is qualified as a lawful member of the [[Blood Clans]], being an entity headed by [[Simonson Clan]], and as such the rules and regulations described herein are afforded to the Arthurians, too. 
 
 > My knowledge is in my blade and my elder; where is yours when that precious library is burning? Does your journal truly contain the history of this world? No. Perhaps your blood knows something worthwhile
 

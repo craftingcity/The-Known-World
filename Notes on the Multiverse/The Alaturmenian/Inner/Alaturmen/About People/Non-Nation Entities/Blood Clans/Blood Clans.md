@@ -24,16 +24,16 @@ Six family names reside on the [[Blood-Hobgoblin Clan Pact]];
 A elder-matriarchy of fierce militants. The [[Arthur Simonson|son]] of the [[Amelia Simonson|last matron]] rules [[The Kingdom of Prosper]], and this clan has become all but defunct in the politics of the "true" Blood-Clans.
 
 #### Wakquk Clan
-The [[Wakquk Twins]] have split their mother's claim into two; the [[Hurraquk Clan]] and the [[Garqwak Clan]]. Many consider this to be a petty disagreement between siblings gone too far - though those without their rule are happy to see disruption in their structures of power. 
+The [[Wakquk Twins]] have split their mother's claim into two; the [[Hurraquk Clan]] and the [[Garqwak Clan]]. Many consider this to be a petty disagreement between siblings gone too far - though those without their rule are happy to see disruption in their power. 
 
 #### [[Emorin Clan]]
 A bureaucracy based community of permanent communities that feed large merchant bands. Many consider the Emorin to be the wisest of the Blood-Clans, as well as the most sharp-tongued.
 
 #### [[Scrivin Clan]]
-A elder-patriarchy of fierce militants. Many bands of the [[Scrivin Clan]] make Soul-contracts for magical powers with powerful entities. Other Blood-Clans unite against the Clan Scrivin often, as it is in everyone's best interest that they stay in a position of low power.
+A elder-patriarchy of ravenous mages. Many bands of the [[Scrivin Clan]] make Soul-contracts for magical powers with powerful entities. Other Blood-Clans unite against the Clan Scrivin often, as it is in everyone's best interest that they stay in a position of low power.
 
 #### [[Bulgpim Clan]]
-A caste clan of permanent farming communities. Few people find communication with members of the Bulgpim clan fruitful, as they speak a powerfully distant dialect of Goblin to eachother. Few high-caste members of this clan speak a common language (usually [[Arthurian (language)]]) for the purposes of facilitating trade and festivity.
+A caste clan of permanent farming communities. Few people find communication with members of the Bulgpim clan fruitful, as they speak a powerfully distant dialect of [[Astral Goblin (language)]]. Few high-caste members of this clan speak a common language (usually [[Arthurian (language)]]) for the purposes of facilitating trade and festivity.
 
 #### [[Wheernat Clan]]
 A socialist clan of pseudo-nomadic hunter-gatherers. The people of the Wheernat clan are taught to move with swiftness and grace, as well as to maintain a focus on your immediate community before the community of the others. It is a rarity to meet with a member of the clan who would be caught speaking with you. 
@@ -42,9 +42,9 @@ A socialist clan of pseudo-nomadic hunter-gatherers. The people of the Wheernat 
 #### Heritage
 The Blood-clans are composed mostly of goblins and humans. There were many Hobgoblin families who were dissatisfied with the coming of the new peoples of Alaturmen and formed the [[Blood-Hobgoblin Clan Pact]] as an escape from the rule of the [[Bandit Lords]].
 
-After their immediate opposition fell, they turned toward the freshborn [[The Kingdom of Prosper]]. The Clans were not organized enough nor well-equipped enough to push Arthur's forces beyond the borders of the [[Illburn Forest]]. With individual Sikgugu betraying one another on the field of battle in the name of their Clan and themselves or otherwise facing the overwhelming technological advantages of the King's mages and artificers, there was little hope for even as unified a front as the *other* Clans could muster.
+After their immediate opposition fell, they turned toward the fresh-born nation of [[The Kingdom of Prosper]]. With individual Sikgugu betraying one another on the field of battle in the name of their Clan and themselves or otherwise facing the overwhelming technological advantages of the King's mages and artificers, there was little hope for even as unified a front as the *other* Clans could muster - their efforts could push Arthur's forces only just beyond the borders of the [[Illburn Forest]].
 
-And so, as [[Arthur Simonson|Artie]]'s kingdom failed to fall low to the Clans, they turned on one another as they have done so many times before. 
+And so, as [[Arthur Simonson|Artie]]'s kingdom failed to fall low to the Clans, and came to ally with the only other adjacent nation, the Blood Clans turned on one another as they have done so many times before.
 
 #### Language
 Most people in these territories speak both [[Astral Goblin (language)]] and [[Arthurian (language)]].
