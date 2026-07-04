@@ -38,8 +38,8 @@ We're choosing to prepare just a little more.
 	- Hired SEASec Mercs - (100k, of which 20 is upfront, 80 is 16 days of pay with the promise of backpay)
 		- *EPSILON-2;*
 		- Silver, Winter Elf, Lead
-		- Crow, Kenku, Specialist
 		- Brittney, Human, Specialist
+		- Crow, Kenku, Specialist
 		- Tommy, Satyr, Member
 		- Gourd, Goblin, Member
 	- We crafted the Dawnblade-Shield for Niko
@@ -53,8 +53,12 @@ We open the portal, Roan and the Mercs are all with us. And finally jump in.
 
 Chadius, Commander of the Eighth Legion of Free Traitors
 
-
-5 - Chadius (28)
-1 - 
+12 - Niko
+11 - Monkeys
+10 - Eight Legion (22 AC, 125HP, +12, 2d8+8)
+8 - Roan & Mercs
+6 - Soarsia
+5 - Chadius (28, 57, 87)
+1 - Zipper
 
 We leave our heroes on the date of ... AF, as they ...
