@@ -3,8 +3,8 @@ tags: npc
 aliases:
 ---
 # Lily-Mae Garqwak
-## Mengugu of [[]]
-### pronouns
+## Mengugu of [[Garqwak Clan]]
+### she/her
 
 > Boxtext for an action, outfit, and a physical trait.
 
