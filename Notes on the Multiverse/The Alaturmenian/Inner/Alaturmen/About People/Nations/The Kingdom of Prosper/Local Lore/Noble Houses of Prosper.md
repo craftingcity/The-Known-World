@@ -13,16 +13,24 @@ Not only do the Houses take care of their lands, they also do business with the 
 ## [[Noble House a'Fen]]
 It is the task of the a'Fen House to maintain the roadways of the kingdom. They hold [[Janesland]] and its surroundings. Their crest is a picked hammer slamming into broken ground, hammer head first.
 
-[[Gurrak a'Fen]] is the head of the Noble House a'Fen, and rules 
+[[Gurrak a'Fen]] is the head of the Noble House a'Fen, and rules from [[Janesland]].
 
 ## [[Noble House a'Nyrk]]
 It is the task of the a'Nyrk House to communicate quickly throughout the kingdom. They hold [[Gambleum]] and its surroundings. Their crest is a horse with jewels for eyes.
 
+[[Gorebladder a'Nyrk]] is the head of the Noble House a'Nyrk, and rules from [[Woahbee]].
+
 ## [[Noble House a'Valim]]
 It is the task of the a'Valim House to improve the conditions of life. They hold [[Magius]] and its surroundings. Their crest is a young sprout growing from the rotting corpse of a bear.
+
+[[Erika a'Valim]] is the head of the Noble House a'Valim, and rules from [[Tegri]].
 
 ## [[Noble House a'Haruuc]]
 It is the task of the a'Haruuc House to make the kingdom ready for war at a moment's notice. They hold minimal property considering their station, and rather are groomed to position in [[Arthur's Knights]]. Their crest is a round disk floating above a humanoid figure, casting it in shadow.
 
+[[Cisero a'Haruuc]] is the head of the Noble House a'Haruuc, and is stationed in [[Castle Prosper]]'s Chapter House Prosprius
+
 ## [[Noble House a'LeQuinn]]
 It is the task of the a'LeQuinn House to manage the cattle and grain of the kingdom. They hold [[Yerba]] and its surroundings. Their crest is a bull's head over a forest.
+
+[[Carrie a'LeQuinn]] is the head of the Noble House a'LeQuinn, and rules from [[Oezand]].

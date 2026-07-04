@@ -15,7 +15,7 @@ aliases:
 ## Important Places & Symbolism
 ### Chapter-House Rectio
 ```
-Lord-Commander: Lucas a'Haruuc
+Lord-Commander: [[Lucas a'Haruuc]]
 High-Quartermaster: Jonah a'Haruuc
 1st Field Commander: Freya Harris
 2nd Field Commander: Dorian Rogers

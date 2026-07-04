@@ -10,7 +10,7 @@ aliases:
 > Boxtext for an action, outfit, and a physical trait.
 
 A description of their function in the world.
-Gorebladder is the Count of [[Woahbee]] and a member of [[Noble House a'Nyrk]].
+Gorebladder is the Count of [[Woahbee]] and Head of House of [[Noble House a'Nyrk]].
 
 ## Roleplaying
 ### Quote

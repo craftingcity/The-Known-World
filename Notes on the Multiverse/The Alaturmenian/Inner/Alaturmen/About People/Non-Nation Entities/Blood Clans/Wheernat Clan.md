@@ -13,7 +13,7 @@ The Wheernat Clan would come to develop a very xenophobic culture as a result of
 
 In 032AF, Mengugu [[Grokank Wheernat]] signed the [[Blood-Hobgoblin Clan Pact]], declaring the Wheernat Clan as a national entity that is directly allied with the other Blood Clans against the [[Bandit Lords]].
 
-Over the next thirty years, the Wheernat Clan was instrumental in the downfall of the [[Bandit Lords]]
+Over the next thirty years, the Wheernat Clan was instrumental in the downfall of the [[Bandit Lords]], working from the shadows with great proficiency.
 
 ## Governance
 ## Culture

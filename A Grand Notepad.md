@@ -450,10 +450,10 @@ magical items
 	- [[Arms and Armor - North East]]
 ## Factions
 ### Big Four
-- [[The Church of the White Flame]] (`good, move next econ`)
-- [[Golden Claws]] (`solidify classes & organization, commit government bodies`)
-- [[The Kingdom of Prosper]] (`solidify classes & organization, commit government bodies`)
-- [[The Democratic Combine of Peoples]] (`everyone needs more detail`)
+- [[The Church of the White Flame]] (`minyostalma and the great fires`)
+- [[Golden Claws]] (`tetrimoc's missing, Tymirek moved in`)
+- [[The Kingdom of Prosper]] (`the northern conflicts`)
+- [[The Democratic Combine of Peoples]] (`seasec is taking over`)
 ### Smaller Communities
 - [[Blood Clans]] (`everyone needs more detail`)
 - [[Cenva Minyo]] & [[Dwarven Kingdom Actstow]] (`everyone needs more detail`)

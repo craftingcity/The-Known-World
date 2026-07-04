@@ -3,7 +3,7 @@ tags: text
 aliases:
 ---
 # Blood-Hobgoblin Clan Pact
-The Blood Hobgoblin Clan Pact is a #text that was written by the ancient Hobgoblins that describes the Lawful contract on which the [[Blood Clans]] functions. [[The Kingdom of Prosper]] is a lawful [[Blood Clans]], headed by [[Simonson Clan]], and as such, the rules and regulations described herein are followed. 
+The Blood Hobgoblin Clan Pact is a #text that was written by the ancient Hobgoblins that describes the Lawful contract on which the [[Blood Clans]] functions. It was signed by over a dozen members of each[[The Kingdom of Prosper]] is a lawful member of the [[Blood Clans]], being an entity headed by [[Simonson Clan]], and as such the rules and regulations described herein are afforded to the Arthurians, too. 
 
 > My knowledge is in my blade and my elder; where is yours when that precious library is burning? Does your journal truly contain the history of this world? No. Perhaps your blood knows something worthwhile
 
@@ -20,8 +20,6 @@ This is the "Imperialism" clause. It has been cited in many official war declara
 
 "...in your heart of hearts you know that your enemies could just as soon be your brothers ... afford them the mercy you would show your brother; attack not when warriors are pregnant, sick, young, or elderly."
 
-This is often taken literally; don't attack when these conditions are offered. Most Clans will do a pre-war ritual in line of sight of their enemies with this clause mind, and those that share this culture further this by sending their eldest, youngest, or otherwise weakest warrior to inspect their opponents. 
+This is often taken literally; don't attack when these conditions are offered. Most Clans will do a pre-war ritual in line of sight of their enemies with this clause mind, and those that share this culture further this ritual by sending their eldest, youngest, or otherwise weakest warrior to inspect their opponents. 
 
-Many times have parties been interrupted by a pregnant warrior entering, declaring Pact War, and leaving unharmed with many delicacies in hand. This is typically used as a tactic to avoid the negative notoriety that comes with instigating *for conquer* wars, and would rather their enemies seem the aggressor to other Clans.
-
-This is a cultural violation of the intention of Honorable Combat, and even though that is not exactly the word, the Clans despise false tactics during Pact War.
+Many times have parties been interrupted by a pregnant warrior entering, declaring Pact War, and leaving unharmed with many delicacies in hand. This is typically used as a tactic to avoid the negative notoriety that comes with instigating *for conquer* wars, and would rather their enemies seem the aggressor to other Clans, though this has come to be a cultural violation of the *intention* of Honorable Combat, and the Clans should despise any and all use of false tactics during Pact War.

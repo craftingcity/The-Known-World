@@ -10,7 +10,7 @@ aliases:
 > Boxtext for an action, outfit, and a physical trait.
 
 A description of their function in the world.
-Erika is the count of [[Tegri]] and a member of the [[Noble House a'Valim]].
+Erika is the count of [[Tegri]] and Head of House of the [[Noble House a'Valim]].
 
 ## Roleplaying
 ### Quote

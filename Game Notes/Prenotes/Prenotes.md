@@ -20,6 +20,7 @@ aliases:
 	- [[Prenotes Jan 03 26]]
 	- [[Prenotes Jan 16 26]]
 	- [[Prenotes Jan 18 26]]
+	- [[Prenotes July 03 26]]
 	- [[Prenotes June 05 26]]
 	- [[Prenotes June 26 26]]
 	- [[Prenotes Mar 08 26]]
