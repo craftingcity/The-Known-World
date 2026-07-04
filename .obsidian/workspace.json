@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "095cab77336d8369",
+        "id": "8b135162ee1914aa",
         "type": "tabs",
         "children": [
           {
-            "id": "1827e98a7debc4d6",
+            "id": "e599d9441f8bc725",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,58 +16,22 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "DATABASE",
-                  "icon": "lucide-table",
-                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"DATABASE.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"DATABASE\"}",
-                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null}}}"
-                },
-                {
-                  "title": "README",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"README\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Prenotes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/Prenotes.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Game Notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Game Notes.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Game Notes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Prenotes July 03 26",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'26/Prenotes July 03 26.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes July 03 26\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":10},\"to\":{\"line\":9,\"ch\":10}}}"
-                },
-                {
-                  "title": "Prenotes May 22 26",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'26/Prenotes May 22 26.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes May 22 26\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Game Notes/Prenotes/'26/Prenotes July 03 26.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "A Grand Notepad"
+              "title": "Prenotes July 03 26"
             }
           },
           {
-            "id": "f084c428fb3604fe",
+            "id": "0e41ffd63d767d22",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -75,97 +39,34 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Simonson Clan.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Simonson Clan"
-            }
-          },
-          {
-            "id": "b36b4c0d62cbf540",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Emorin Clan.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Emorin Clan"
-            }
-          },
-          {
-            "id": "e0bd12958526916a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                  "title": "Prenotes June 05 26",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'26/Prenotes June 05 26.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes June 05 26\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "Prenotes June 26 26",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'26/Prenotes June 26 26.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes June 26 26\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Scrivin Clan.md",
+                "file": "Game Notes/Prenotes/'26/Prenotes May 22 26.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Scrivin Clan"
+              "title": "Prenotes May 22 26"
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "7a923d820aea1c54",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dd766a097184ad32",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Blood Clans"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -459,25 +360,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0bd12958526916a",
+  "active": "0e41ffd63d767d22",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Emorin Clan.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Simonson Clan.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Scrivin Clan.md",
+    "Game Notes/Prenotes/'26/Prenotes June 05 26.md",
+    "Game Notes/Prenotes/'26/Prenotes June 26 26.md",
+    "Game Notes/Prenotes/'26/Prenotes July 03 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood Clans.md",
+    "A Grand Notepad.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Simonson Clan.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Emorin Clan.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Scrivin Clan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Garqwak Clan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Hurraquk Clan.md",
     "Lily-Mae Garqwak.md",
     "Game Notes/NPCs/Mild Power/Midboss/Marley Hurraquk.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Wakquk Twins.md",
-    "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Blood Clans/Blood-Hobgoblin Clan Pact.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Non-Nation Entities.md",
     "DATABASE.base",
     "README.md",
     "Game Notes/Prenotes/Prenotes.md",
     "Game Notes/Game Notes.md",
-    "Game Notes/Prenotes/'26/Prenotes July 03 26.md",
     "Game Notes/Prenotes/'26/Prenotes May 22 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md",
@@ -486,8 +389,6 @@
     "Game Notes/NPCs/Mild Power/Knights & Nobles/Gorebladder a'Nyrk.md",
     "Game Notes/NPCs/High Power/Heads of Arthurian Houses/Heads of Arthurian Houses.md",
     "Game Notes/NPCs/High Power/Council of Eight NPCs/Sakharov Yosimmite.md",
-    "Game Notes/NPCs/High Power/Demons/Dis Pater, Orcus Avatar.md",
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
     "Game Notes/Prenotes/'26",
