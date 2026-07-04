@@ -16,7 +16,7 @@ Not long after this peace, they turned onto each other and they still fight in t
 ## Governance
 The Clans are all independent, and govern themselves as they wish for the most part, but they all follow the [[Blood-Hobgoblin Clan Pact]], including structure and the like.
 
-Each of the Clans is ruled by one Hobgoblin, the Mangugu, who answers to up to twelve Gurr'ix-Yuggwulp (advisor-concubines), and must be near three Alman (~bodyguards), at all times. The Clans will refer to their repected commanders as Sikgugu, though this is a social position more than a formal role within most 
+Each of the Clans is ruled by one Hobgoblin, the Mangugu, who answers to up to twelve Gurr'ix-Yuggwulp (advisor-concubines), and must be near three Alman (~bodyguards), at all times. The Clans will refer to their repected commanders as Sikgugu, though this is a social position more than a formal role within most clans.
 
 Six family names reside on the [[Blood-Hobgoblin Clan Pact]];
 
