@@ -38,15 +38,11 @@ We're choosing to prepare just a little more.
 	- Hired SEASec Mercs - (100k, of which 20 is upfront, 80 is 16 days of pay with the promise of backpay)
 		- *EPSILON-2;*
 		- Silver, Winter Elf, Lead
-			- 47
 		- Brittney, Human, Specialist
-			- 23
 		- Crow, Kenku, Specialist
-			- 23
 		- Tommy, Satyr, Member
-			- 47
 		- Gourd, Goblin, Member
-			- 47
+		- Roan, Human
 	- We crafted the Dawnblade-Shield for Niko
 	- We bought 100 gallons of Holy Water
 
@@ -61,7 +57,11 @@ Chadius, Commander of the Eighth Legion of Free Traitors
 12 - Niko
 11 - Monkeys
 10 - Eight Legion (22 AC, 125HP, +12, 2d8+8)
-9 - Chadius (28, 57, 87, 109)
+	A
+	B
+	C (26)
+	D ()
+9 - Chadius (28, 57, 87, 109, 158, 189, 240 / 300 SP:8/16)
 8 - Roan & Mercs ()
 6 - Soarsia
 1 - Zipper
