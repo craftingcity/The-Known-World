@@ -45,7 +45,16 @@ We're choosing to prepare just a little more.
 	- We crafted the Dawnblade-Shield for Niko
 	- We bought 100 gallons of Holy Water
 
-They are robbing the guy who sold the Jet Guns, his name was Trexian Glot the Artisan.
+They are robbing the guy who sold the Jet Guns, his name was Trexian Glot the Artisan, and they made it to Goldfield.
 
+We open the portal, Roan and the Mercs are all with us. And finally jump in.
+
+#### Fighting Devils in the Free Traitors Territory
+
+Chadius, Commander of the Eighth Legion of Free Traitors
+
+
+5 - Chadius (28)
+1 - 
 
 We leave our heroes on the date of ... AF, as they ...
