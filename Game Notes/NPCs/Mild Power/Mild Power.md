@@ -8,7 +8,15 @@ aliases:
 - [[Blackrock Yosimmite]]
 - [[Blurfurmgur]]
 - [[Colin Talaveem]]
+- **Employees of Golden Claw**
 - **[[Folk of Business]]**
+- **Guild Employee NPCs**
+	- **[[Guild Admin]]**
+	- [[Guild Leaders]]
+	- **[[Guilded Adventurer NPCs]]**
+	- **[[Guilded Crafter NPCs]]**
+	- **[[Guilded Merchant NPCs]]**
+	- **[[Guilded Wizard NPCs]]**
 - **Knights & Nobles**
 	- [[Borhain a'Huruuc]]
 	- [[Bullryk a'Dregsamony]]

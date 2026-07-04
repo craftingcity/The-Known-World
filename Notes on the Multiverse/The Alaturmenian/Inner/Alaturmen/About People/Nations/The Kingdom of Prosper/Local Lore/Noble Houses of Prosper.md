@@ -13,6 +13,8 @@ Not only do the Houses take care of their lands, they also do business with the 
 ## [[Noble House a'Fen]]
 It is the task of the a'Fen House to maintain the roadways of the kingdom. They hold [[Janesland]] and its surroundings. Their crest is a picked hammer slamming into broken ground, hammer head first.
 
+[[Gurrak a'Fen]] is the head of the Noble House a'Fen, and rules 
+
 ## [[Noble House a'Nyrk]]
 It is the task of the a'Nyrk House to communicate quickly throughout the kingdom. They hold [[Gambleum]] and its surroundings. Their crest is a horse with jewels for eyes.
 

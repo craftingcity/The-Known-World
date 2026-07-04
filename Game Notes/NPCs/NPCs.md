@@ -29,23 +29,16 @@ for the graph: [[Here lie my suppliments...]]
 	- **Council of Eight NPCs**
 		- [[Ginger Ak-kizi]]
 		- [[Houran Venclaw]]
+		- [[Sakharov Yosimmite]]
 		- [[Sivir Bagwell]]
 	- **[[Demons]]**
+		- [[Dis Pater, Orcus Avatar]]
 	- **[[Devils]]**
-	- [[Dis Pater, Orcus Avatar]]
-	- **Guild Employee NPCs**
-		- **[[Guild Admin]]**
-		- [[Guild Leaders]]
-		- **[[Guilded Adventurer NPCs]]**
-		- **[[Guilded Crafter NPCs]]**
-		- **[[Guilded Merchant NPCs]]**
-		- **[[Guilded Wizard NPCs]]**
+	- **[[Heads of Arthurian Houses]]**
 	- **[[High Holyl'nder NPCs]]**
 	- **[[Loose Wizard NPCs]]**
 	- **[[Lorekeeper NPCs]]**
-	- **[[Nobles of Prosper NPCs]]**
 	- **[[Past Adventurers, Now NPCs]]**
-	- [[Sakharov Yosimmite]]
 	- **[[True Villian NPCs]]**
 - [[Hoggak Cander-Wheernat]]
 - [[List of Names]]
