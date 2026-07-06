@@ -46,7 +46,7 @@ Steve; (66)
 	- 12x Flash Pellets (18 ep) "blinding lights :)"
 	- Steel Greatsword, +1 (55 ep) "big fuck sword"
 	- Spool of Darksteel Wire, 80' (90 ep) "wear gloves or have mip work it"
-	- Pure Force Longsword, +1 (140 ep) "careful, it bites"
+	- Pure Force Longsword, +2 (140 ep) "careful, it bites"
 Gob #1; (12)
 	- Adjust Bronze Vest (15 ep) "stay safe :)"
 	- Bronze Shortsword of Leeching (23 ep) "may it serve you as well as it has"

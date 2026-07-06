@@ -64,13 +64,13 @@ The Auspex Scope is a magical lab-grade identification equipment, usually a set 
 ## Material
 ### Solids
 
-| Name (Source)                              | Mechanic           | Cost @ Market    | Regions Producing   |
-| ------------------------------------------ | ------------------ | ---------------- | ------------------- |
-| Darksteel (*Iron*, *Bitumen*, *Crude Oil*) | +2 Metallic        | 2.75sp / pound   | Tetrimoc, Mnt. Hall |
-| Chaotic Gold (*Gold*)                      | Chaotic Orb        | 1.0k sp / pound  | Tetrimoc            |
-| Adjust Bronze (*Copper, Tin*)              | +1 Metallic        | 85.00sp / pound  | Mnt. Hall           |
-| Pure Force                                 | Invisible Solid    | 125.00sp / pound (no sale) | any                 |
-| Hardlight                                  | Portal Lightbridge | 1.3k sp / pound (no sale) | any                 |
+| Name (Source)                              | Mechanic            | Cost @ Market              | Regions Producing   |
+| ------------------------------------------ | ------------------- | -------------------------- | ------------------- |
+| Darksteel (*Iron*, *Bitumen*, *Crude Oil*) | +2 Metallic         | 2.75sp / pound             | Tetrimoc, Mnt. Hall |
+| Chaotic Gold (*Gold*)                      | Chaotic Orb         | 1.0k sp / pound            | Tetrimoc            |
+| Adjust Bronze (*Copper, Tin*)              | +1 Metallic         | 85.00sp / pound            | Mnt. Hall           |
+| Pure Force                                 | Invisible Solid, +2 | 125.00sp / pound (no sale) | any                 |
+| Hardlight                                  | Portal Lightbridge  | 1.3k sp / pound (no sale)  | any                 |
 
 #### Darksteel
 > A glittering black metal produced by an advanced chain of alchemical and metallurgic processes. One of the strongest metals processed by Alatermenians today.
