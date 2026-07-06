@@ -35,38 +35,8 @@
               "icon": "lucide-file",
               "title": "Prenotes July 05 26"
             }
-          },
-          {
-            "id": "c3eaf7e470a457ad",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Prenotes July 05 26",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'26/Prenotes July 05 26.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes July 05 26\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":302},\"to\":{\"line\":20,\"ch\":302}},\"scroll\":2.2220822710247674}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Custom Class - Alchemist"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "44fb674c80525c4e",
@@ -413,18 +383,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3eaf7e470a457ad",
+  "active": "f2d0f8a71bc7001e",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'26/Prenotes July 05 26.md",
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Mountain Hall.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of The Holyl'nds.md",
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "Game Notes/NPCs/Weak Power/Orcish Shamans/Katz Brood.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Actstow.md",
-    "Game Notes/Prenotes/'26/Prenotes July 05 26.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
     "Prenotes July 05 26.md",

@@ -67,7 +67,7 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 - A long, dark hallway that is immaculately clean - no dust or grime to be found.
 - A pipe, coming from somewhere else in Kailkeep, slowly drips chunks of sentient gelatinous acid into the hall, which collects together and becomes a hall-width Gelatinous Ooze that will slowly make its way out of this particular hall in search of more detritus to consume.
 #### Yellowback's Lair
-- A pair of small connected chambers serve as the Yellowback Gang's Lair, where they produce their alchemical equipment and rest after a combat.
+- A pair of small connected chambers serve as the Yellowback Gang's Lair, where they produce their alchemical equipment and rest after a combat. The entrances and exits are marked by some yellow chalk or paint
 	- A number of 'smarter' gangsters stay within the Lair at all times to manage the alchemical productions.
 	- The gang has collected a small reserve of components, and a smaller supply of readied equipment;
 		- 3x Potions of Vitality, Novice Grade (4d4 + 8 temp HP)
