@@ -57,10 +57,12 @@ Gob #1; (80)
 Gelatenous Cube - 6, 18, 33, 43
 
 #### Bernet's Lair
+6 Tokens
+
 20 - MAGNETS
 17 - Goblin #1
 12 - Great Dragoon
-11 - Bernet (HEX 5, 8, )
+11 - Bernet (HEX 5, 8, 16)
 10 - Wrench
 9 - Steve
 3 - Mip
