@@ -32,6 +32,7 @@ aliases:
 
 ##### Injuries
 *Severed Arm (Right)* - You have lost a significant portion of one of your arms. You have Disadvantage on Strength Checks and Saving Throws, you can no longer hold anything in two hands, and you can only hold one object or item at a time.
+*Severed Arm (Left)* - You have lost a significant portion of one of your arms. You have Disadvantage on Strength Checks and Saving Throws, you can no longer hold anything in two hands, and you can only hold one object or item at a time.
 *Damaged Eye* - You have sustained damage to one of your eyes. You have -2 on Ranged Attacks, and Perception or Investigation Checks that rely on sight.
 
 ### Mortal Adversaries
