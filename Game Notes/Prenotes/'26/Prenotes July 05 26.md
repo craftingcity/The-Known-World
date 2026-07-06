@@ -26,28 +26,28 @@ There are many doors you have seen and left unopened here. With what little dire
 In the myriad of options, we first need to show them the aim of the game; *the scoreboard room*. Then, we would like to introduce them to some of Mercy's Roamers then into Mercy, and/or take them to Bernet's Lair. We can keep playing games after that if we need to.
 
 #### ENTERTAINMENT VALUE
-Mip; (139)
+Mip; (45)
 	- 5oz Eye (10 ep) "jar of eyes"
 	- Seeker Symbiote (15 ep) "long worm? great job keep up the gr"
 	- 32oz Feather of Birds (24 ep) "feathers"
 	- Chitin Studded Leather, 13+Dex (45 ep) "fitted armor"
 	- 8 carats Ruby (80 ep) "look gems :)"
 	- Auspex Lense (125 ep) "look gem"
-Dragoon; (201)
-	- King's Last Drink (12 ep) "enjoy responsibly"
+Dragoon; (45)
+	- ~~King's Last Drink (12 ep) "enjoy responsibly"~~
 	- 6x 16oz Oldshine (30 ep) "booze :)"
-	- Ring of Protection, +1 (56 ep) "ring good"
-	- Hand of the Magi (120 ep) "not that you need it, sir"
+	- ~~Ring of Protection, +1 (56 ep) "ring good"~~
+	- ~~Hand of the Magi (120 ep) "not that you need it, sir"~~
 		5x/ever +4 spell attack/save
-Wrench; (51)
+Wrench; (41)
 	- 2x 16oz Oldshine (10 ep) "booze :)"
-	- Darksteel Dagger, +2 (30 ep) "knife fight! knife fight!"
-Steve; (176)
+	- ~~Darksteel Dagger, +2 (30 ep) "knife fight! knife fight!"~~
+Steve; (196)
 	- 12x Flash Pellets (18 ep) "blinding lights :)"
 	- Steel Greatsword, +1 (55 ep) "big fuck sword"
 	- Spool of Darksteel Wire, 80' (90 ep) "wear gloves or have mip work it"
 	- Pure Force Longsword, +1 (140 ep) "careful, it bites"
-Gob #1; (80)
+Gob #1; (100)
 	- Adjust Bronze Vest (15 ep) "stay safe :)"
 	- Bronze Shortsword of Leeching (23 ep) "may it serve you as well as it has"
 	- Silver Eye (65 ep) "honor! you have returned!"
@@ -60,8 +60,8 @@ Gelatenous Cube - 6, 18, 33, 43
 20 - MAGNETS
 17 - Goblin #1
 12 - Great Dragoon
-11 - Bernet (HEX 5, 8, 16, 20, 49, 62, 66)
-10 - Wrench (/o)
+11 - Bernet (HEX 5, 8, 16, 20, 49, 62, 66, 85)
+10 - Wrench
 9 - Steve
 3 - Mip
 
