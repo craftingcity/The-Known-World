@@ -33,7 +33,7 @@ Mip; (139)
 	- Chitin Studded Leather, 13+Dex (45 ep) "fitted armor"
 	- 8 carats Ruby (80 ep) "look gems :)"
 	- Auspex Lense (125 ep) "look gem"
-Dragoon; (200)
+Dragoon; (201)
 	- King's Last Drink (12 ep) "enjoy responsibly"
 	- 6x 16oz Oldshine (30 ep) "booze :)"
 	- Ring of Protection, +1 (56 ep) "ring good"
