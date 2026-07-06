@@ -54,5 +54,6 @@ Gob #1; (80)
 
 ### What happened?
 
+Gelatenous Cube - 6, 18, 33, 43
 
 We leave our heroes on the date of ... AF, as they ...
