@@ -7,28 +7,28 @@ aliases:
 *You must have an Intelligence score of 13 or higher in order to multiclass in or out of this class.*
 > ...
 
-| Level | PB  | Features                                     |
-| ----- | --- | -------------------------------------------- |
-| 1st   | +2  | Expertise I, Concoct: Elixir |
-| 2nd   |     | Infuse Trinket                               |
-| 3rd   |     | Mobile Laboratory I                          |
-| 4th   |     | Ability Score Improvement                    |
-| 5th   | +3  | Extra Attack                                 |
-| 6th   |     | Concoct: Powderblast                         |
-| 7th   |     | Student of The Art                           |
-| 8th   |     | Ability Score Improvement                    |
-| 9th   | +4  | Mobile Laboratory II                         |
-| 10th  |     | Expertise II, Emergency Prevention and Care  |
-| 11th  |     | Concoct: Pharmaceutical                      |
-| 12th  |     | Ability Score Improvement                    |
-| 13th  | +5  | Graduate                                     |
-| 14th  |     | Infuse Trinket II                            |
-| 15th  |     |                                              |
-| 16th  |     | Ability Score Improvement                    |
-| 17th  | +6  | Extra Attack II                              |
-| 18th  |     |                                              |
-| 19th  |     | Ability Score Improvement                    |
-| 20th  |     | Master Alchemist                             |
+| Level | PB  | Features                                    |
+| ----- | --- | ------------------------------------------- |
+| 1st   | +2  | Expertise I, Concoct: Elixir                |
+| 2nd   |     | Infuse Trinket                              |
+| 3rd   |     | Mobile Laboratory I                         |
+| 4th   |     | Ability Score Improvement                   |
+| 5th   | +3  | Extra Attack                                |
+| 6th   |     | Concoct: Powderblast                        |
+| 7th   |     | Student of The Art                          |
+| 8th   |     | Ability Score Improvement                   |
+| 9th   | +4  | Mobile Laboratory II                        |
+| 10th  |     | Expertise II, Emergency Prevention and Care |
+| 11th  |     | Concoct: Pharmaceutical                     |
+| 12th  |     | Ability Score Improvement                   |
+| 13th  | +5  | Graduate                                    |
+| 14th  |     | Infuse Trinket II                           |
+| 15th  |     |                                             |
+| 16th  |     | Ability Score Improvement                   |
+| 17th  | +6  | Extra Attack II                             |
+| 18th  |     |                                             |
+| 19th  |     | Ability Score Improvement                   |
+| 20th  |     | Master Alchemist                            |
 
 
 ### Hit Points

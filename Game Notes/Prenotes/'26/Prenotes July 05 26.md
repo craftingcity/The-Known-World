@@ -3,7 +3,7 @@ tags: notes
 aliases:
 ---
 
-# Prenotes for June 26
+# Prenotes for July 5th
 ## Party of Interest: [[Dragoon's Greats Game]]
 - [ ] DM Screen
 - [ ] Notepaper
@@ -16,7 +16,7 @@ aliases:
 
 When last we left our heroes, their journey through [[Kailkeep]] continued. After your swift victory in 'Escape the Room', you were reunited with your missing companion, Goblin #1, who fought valiantly through tricks and terrors to find you again - losing some things along the way only to gain others. After this moment of joy, you returned to your exploration of this brutality to find a room containing a bowl. Upon discovering that this bowl desires blood, you called out to the audience and the surrounding rooms, and the fight you were looking for quickly found you. 
 
-In this moment of vulnerability, your captive-comrade Rammik would choose to betray you, throwing insults as he attempted to make his escape. Despite Rammik's betrayal, you found yourselves victorious, at least in that you had survived, and you would come to exchange the blood inside your enemies, damned be their souls, for a pair of shining iridescent **Tokens**, bringing your total to three. 
+In this moment of vulnerability, your captive-comrade Rammik would choose to betray you, throwing insults wildly as he attempted to make his escape. Despite Rammik's betrayal, you found yourselves victorious, at least in that you had survived, and you would come to exchange the blood inside your enemies, damned be their souls, for a pair of shining iridescent **Tokens**, bringing you now to a total of three - though their purpose remains in question. 
 
 We return to this moment. As the drained corpse is pulled to the floor, one among you pulls your Third Token from the pedestal. The audience watching you here cheers for a moment, before they fall into attempting to point you in the direction of their choice, arguing amongst themselves to direct you. 
 
@@ -39,7 +39,7 @@ Dragoon; (200)
 	- King's Last Drink (12 ep) "enjoy responsibly"
 	- 6x 16oz Oldshine (30 ep) "booze :)"
 	- Ring of Protection, +1 (56 ep) "ring good"
-	- Hand of the Mage (120 ep) "not that you need it, sir"
+	- Hand of the Magi (120 ep) "not that you need it, sir"
 		5x/ever +4 spell attack/save
 Wrench; (51)
 	- 2x 16oz Oldshine (10 ep) "booze :)"
