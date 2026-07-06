@@ -42,12 +42,12 @@ Dragoon; (45)
 Wrench; (41)
 	- 2x 16oz Oldshine (10 ep) "booze :)"
 	- ~~Darksteel Dagger, +2 (30 ep) "knife fight! knife fight!"~~
-Steve; (196)
+Steve; (66)
 	- 12x Flash Pellets (18 ep) "blinding lights :)"
 	- Steel Greatsword, +1 (55 ep) "big fuck sword"
 	- Spool of Darksteel Wire, 80' (90 ep) "wear gloves or have mip work it"
 	- Pure Force Longsword, +1 (140 ep) "careful, it bites"
-Gob #1; (100)
+Gob #1; (12)
 	- Adjust Bronze Vest (15 ep) "stay safe :)"
 	- Bronze Shortsword of Leeching (23 ep) "may it serve you as well as it has"
 	- Silver Eye (65 ep) "honor! you have returned!"
@@ -65,5 +65,13 @@ Gelatenous Cube - 6, 18, 33, 43
 9 - Steve
 3 - Mip
 
+4oz Iron Fabrim
+1oz Red Water
+1oz Harrada immute
+1oz Blood spirit
+2oz Feather weight
+1oz Eyes form
+
+They put the Force Longsword on Goblin #1, and now he's in a coma.
 
 We leave our heroes on the date of ... AF, as they ...
