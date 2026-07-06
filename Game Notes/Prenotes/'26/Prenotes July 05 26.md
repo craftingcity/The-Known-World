@@ -56,4 +56,15 @@ Gob #1; (80)
 
 Gelatenous Cube - 6, 18, 33, 43
 
+#### Bernet's Lair
+20 - MAGNETS
+17 - Goblin #1
+12 - Great Dragoon
+11 - Bernet (HEX 5, 8, )
+10 - Wrench
+9 - Steve
+3 - Mip
+0 - Demons
+
+
 We leave our heroes on the date of ... AF, as they ...
