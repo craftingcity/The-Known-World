@@ -84,13 +84,13 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ## Stats
 
-| L. 3 | XP: 2.4k           | / 2.7k | (0) Inspiration           |
+| L. 3 | XP: 3.3k           | / 2.7k | (0) Inspiration           |
 | ---- | ------------------ | ------ | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF    | +2                        |
 | CON  | 18 (+4)            | M. HP  | 40 Max HP (0/5 Exhaust)   |
-| DEX  | 13 (+1)            | AC     | (20 // 12 & resist B/P/S) |
+| DEX  | 14 (+2)            | AC     | (20 // 12 & resist B/P/S) |
 | INT  | 9  (-1)            | C. HP  | 40 HP                     |
-| WIS  | 13 (+1) ^          | HD     | d10 (3/3)                 |
+| WIS  | 14 (+2) ^          | HD     | d10 (4/)                 |
 | CHA  | 14 (+2) ^          | SPD    | 30' // 40'                |
 
 #### Spells
@@ -163,7 +163,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [Hallow](http://dnd5e.wikidot.com/spell:hallow) spell.
 - You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
-##### Lay on Hands (15/15)
+##### Lay on Hands (11/15)
 - As an action, you can touch a creature and restore a number of hit points, up to the maximum amount remaining in your pool. You regain any spent points on a long rest.
 - Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. 
 	- You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
@@ -241,3 +241,5 @@ We find a room full of bones, at least sixty years old. And some prisoners' skel
 The fighting has taken effort, and my Turning leaves me tired. We should rest soon.
 
 We've returned to the empty crypts to rest. Brilynn saw a bat on her watch, which looked at her before flying away. Ominous.
+
+We found the corpses of the Father and the Mother, bloated and stuffed into the walls down here.
