@@ -84,13 +84,13 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ## Stats
 
-| L. 3 | XP: 3.3k           | / 2.7k | (0) Inspiration           |
+| L. 4 | XP: 3.3k           | / 6.5k | (0) Inspiration           |
 | ---- | ------------------ | ------ | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF    | +2                        |
-| CON  | 18 (+4)            | M. HP  | 40 Max HP (0/5 Exhaust)   |
+| CON  | 18 (+4)            | M. HP  | 50 Max HP (0/5 Exhaust)   |
 | DEX  | 14 (+2)            | AC     | (20 // 12 & resist B/P/S) |
-| INT  | 9  (-1)            | C. HP  | 40 HP                     |
-| WIS  | 14 (+2) ^          | HD     | d10 (4/)                 |
+| INT  | 9  (-1)            | C. HP  | 50 HP                     |
+| WIS  | 14 (+2) ^          | HD     | 4d10 (4/4)                |
 | CHA  | 14 (+2) ^          | SPD    | 30' // 40'                |
 
 #### Spells
@@ -98,7 +98,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| x   | .   | .   | .   | .   | .   | .   | .    | .   |
+| o   | .   | .   | .   | .   | .   | .   | .    | .   |
 | o   | .   | .   | .   | .   | .   | .   |      |     |
 | o   | .   | .   | .   | .   |     |     | DC   | 12  |
 | .   |     |     |     |     |     |     | ATTK | +4  |
@@ -109,6 +109,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - (1c) [Heroism](https://dnd5e.wikidot.com/spell:heroism)
 - (1bc) [Shield of Faith](https://dnd5e.wikidot.com/spell:shield-of-faith)
 - (1c) [Detect Evil & Good](https://dnd5e.wikidot.com/spell:detect-evil-and-good)
+- (1c) [Bless](https://dnd5e.wikidot.com/spell:bless)
 
 #### Proficiencies
 ##### Skills
@@ -242,4 +243,6 @@ The fighting has taken effort, and my Turning leaves me tired. We should rest so
 
 We've returned to the empty crypts to rest. Brilynn saw a bat on her watch, which looked at her before flying away. Ominous.
 
-We found the corpses of the Father and the Mother, bloated and stuffed into the walls down here.
+We found the corpses of the Father and the Mother, bloated and stuffed into the walls down here. We also found some other things, like a spell-book, and some potions.
+
+As we continue downstairs, we hear chanting.
