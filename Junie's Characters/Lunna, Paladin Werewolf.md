@@ -98,7 +98,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| o   | .   | .   | .   | .   | .   | .   | .    | .   |
+| x   | .   | .   | .   | .   | .   | .   | .    | .   |
 | o   | .   | .   | .   | .   | .   | .   |      |     |
 | o   | .   | .   | .   | .   |     |     | DC   | 12  |
 | .   |     |     |     |     |     |     | ATTK | +4  |
@@ -109,7 +109,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - (1c) [Heroism](https://dnd5e.wikidot.com/spell:heroism)
 - (1bc) [Shield of Faith](https://dnd5e.wikidot.com/spell:shield-of-faith)
 - (1c) [Detect Evil & Good](https://dnd5e.wikidot.com/spell:detect-evil-and-good)
-- (1c) [Bless](https://dnd5e.wikidot.com/spell:bless)
+==- (1c) [Bless](https://dnd5e.wikidot.com/spell:bless)==
 
 #### Proficiencies
 ##### Skills
