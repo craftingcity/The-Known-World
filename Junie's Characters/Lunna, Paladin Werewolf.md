@@ -87,7 +87,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 | L. 3 | XP: 2.4k           | / 2.7k | (0) Inspiration           |
 | ---- | ------------------ | ------ | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF    | +2                        |
-| CON  | 18 (+4)            | M. HP  | 40 Max HP (1/5 Exhaust)   |
+| CON  | 18 (+4)            | M. HP  | 40 Max HP (0/5 Exhaust)   |
 | DEX  | 13 (+1)            | AC     | (20 // 12 & resist B/P/S) |
 | INT  | 9  (-1)            | C. HP  | 40 HP                     |
 | WIS  | 13 (+1) ^          | HD     | d10 (3/3)                 |
@@ -98,9 +98,9 @@ You prepare the list of paladin spells that are available for you to cast, choos
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| x   | .   | .   | .   | .   | .   | .   | .    | .   |
-| x   | .   | .   | .   | .   | .   | .   |      |     |
-| x   | .   | .   | .   | .   |     |     | DC   | 12  |
+| o   | .   | .   | .   | .   | .   | .   | .    | .   |
+| o   | .   | .   | .   | .   | .   | .   |      |     |
+| o   | .   | .   | .   | .   |     |     | DC   | 12  |
 | .   |     |     |     |     |     |     | ATTK | +4  |
 
 ##### Prepared Spells (Prep 3)
@@ -239,3 +239,5 @@ We find a room full of bones, at least sixty years old. And some prisoners' skel
 ### Session 3 - "This Evil Place"
 
 The fighting has taken effort, and my Turning leaves me tired. We should rest soon.
+
+We've returned to the empty crypts to rest. Brilynn saw a bat on her watch, which looked at her before flying away. Ominous.
