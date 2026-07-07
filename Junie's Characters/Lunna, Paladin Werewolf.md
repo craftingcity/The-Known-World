@@ -37,7 +37,7 @@ Lunna is...
 
 - Lunna is a little distant, but is more than willing to speak up for others.
 - Lunna is nihilistic in regards to her own life if not outright suicidal.
-- Lunna is very headstrong in her own beliefs, and will attempt to show others the Way. 
+- Lunna is very headstrong in her own beliefs, and will largely always attempt to show others the Way. 
 
 ### Background
 #### Early Life
