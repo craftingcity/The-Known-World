@@ -5,6 +5,10 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md"
     },
     {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
+    },
+    {
       "basename": "Lunna, Paladin Werewolf",
       "path": "Junie's Characters/Lunna, Paladin Werewolf.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Gorebladder a'Nyrk",
       "path": "Game Notes/NPCs/Mild Power/Knights & Nobles/Gorebladder a'Nyrk.md"
-    },
-    {
-      "basename": "Heads of Arthurian Houses",
-      "path": "Game Notes/NPCs/High Power/Heads of Arthurian Houses/Heads of Arthurian Houses.md"
     }
   ],
   "omittedPaths": [],
