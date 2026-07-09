@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Morris",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055,
-    "collapsed": true
+    "width": 297.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -325,7 +324,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c078402b7a5ccede",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
