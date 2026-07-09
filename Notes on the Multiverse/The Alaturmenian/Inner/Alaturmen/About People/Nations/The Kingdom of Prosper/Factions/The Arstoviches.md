@@ -31,9 +31,19 @@ The Freefolk Communes are a series of independent familial units that live withi
 #### Heritage
 As time has continued, the Arstovich has rested and healed. While this rest was sometimes interrupted, it remained effective - fifty-odd years have since passed bestowing the Arstovich with it's curse. Those brave and stupid enough to search and find the Arstovich in this time now serve it in many ways - although in truth, the majority serve as a rotating cast of bloodbags.
 
-In more recent history however, with the passing of the 'Age of Beginning' into the 'Age of Warkind', a few have been chosen to serve in a more expansive capacity; as independent agents of her will, vessels of her curse, and harbingers of her rage (see [[Custom Diseases#Curse of the Witch of Ardor (Vampirism/Arstovichism)]]).
+In more recent history however, with the passing of the 'Age of Beginning' into the 'Age of Warkind', some have been chosen to serve in a more expansive capacity; as independent agents of her will, vessels of her curse, and harbingers of her rage (see [[Custom Diseases#Curse of the Witch of Ardor (Vampirism/Arstovichism)]]).
 
-As the family grew, so did the rumors of revolt; as young as they are, some of the more recently turned amongst the Arstoviches' clan have failed to return from their hunts, and the rumors tell us that they did not fail, but defect. Some half-dozen banners have been raised and of them, two now remain, excepting our own - the Freefolk in the north, and the Patrons in the south.
+The first eight to be chosen have a legacy that has been carried by each of their Childer, and their Childer's Childer, and so on through the bloodlines. These eight are as follows:
+ - [[Sulkar, the Grateful]]
+ - [[Praetora, the Calm]]
+ - [[Brechan, of Sound Mind]]
+ - [[Yona, the Fool]]
+ - [[Richet, the Noble Pauper]]
+ - [[Vollia, the Perfect]]
+ - [[Morris, the Hysteric]]
+ - [[Talling, the Apath]]
+
+As the family grew, so did the rumors of revolt; as young as they are, some of the more recently turned amongst the Arstoviches' clan have failed to return from their hunts, and the rumors tell us that they did not fail, but defect. Some half-dozen banners have been raised and of them, two now remain, excepting our own - the Freefolk in the north, and the Patrons in the south. Betraying their Mother, they are damned in the eyes of the Arstovich Clan, but the method of retaliation remains up for debate.
 
 #### Language
 Arstoviches speak many languages, but predominantly speak to each other in [[Arthurian (language)]].

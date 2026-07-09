@@ -4,11 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "bad61b00d39260dd",
+        "id": "e51878c27b957929",
+        "type": "split",
+        "children": [
+          {
+            "id": "bad61b00d39260dd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c078402b7a5ccede",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Custom Diseases"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d8c9fea03a4609cb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ae2864c09cdd47b1",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/NPCs/List of Names.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "List of Names"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "32be4dbe30f7580c",
         "type": "tabs",
         "children": [
           {
-            "id": "c078402b7a5ccede",
+            "id": "44a7d39635ea7bdb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,12 +87,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Custom Diseases"
+              "title": "The Arstoviches"
             }
           }
         ]
@@ -80,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Morris",
+                "query": "tag:#holding  ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -324,10 +389,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c078402b7a5ccede",
+  "active": "44a7d39635ea7bdb",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
@@ -350,9 +417,7 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Game Notes/Prenotes/'26/Prenotes July 03 26.md",
-    "Game Notes/NPCs/List of Names.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",
