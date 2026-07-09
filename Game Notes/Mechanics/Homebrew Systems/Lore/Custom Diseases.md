@@ -68,6 +68,9 @@ When the Fledgeling takes a Long Rest, if they have not consumed fresh blood (co
 #### Stage Two
 At Stage Two, the diseased creature - colloquially known as a Childer - experiences their compulsion as a need, rather than a desire. The Childer gains vulnerability to fire and radiant damage, and cannot enter a residence without permission from an occupant. If the Childer is exposed to blood, they make a DC 25 Wisdom Save. If they fail, they are compelled to consume the blood by any means necessary. If the Childer is exposed to sunlight, they take 3d10 radiant damage each round they are exposed. When the Childer consumes fresh blood (collected within 48 hours) of a humanoid or fey, they gain a Blood Token and expose their target to Vampirism in the process. When the Childer consumes the blood of an animal or beast and kills the creature in the process, they gain a fourth of a Blood Token for each size category the creature is above Tiny. A Childer cannot gain more than two Blood Tokens per Long Rest. A Childer can have at most a number of Blood Tokens equal to the value of their Proficiency Bonus. The Childer cannot gain Hit Points by any means except by spending Blood Tokens.
 
+When a Fledgling becomes a Childer, they gain their *Vampiric Legacy*. Their *Vampiric Legacy* is the same as their Sire's, if they have one. If they don't, they gain one of the following at random.
+	- **
+
 A Childer can spend Blood Tokens in the following manners. You may only spend a whole number of Blood Tokens this way.
 	- As an Action, spend any number of Blood Tokens. When you do, you roll and expend a hit die to regain a number of hit points equal to the result plus your Con a number of times equal to the number of Tokens you spent.
 	- As a Bonus Action, spend a Blood Token to cast *charm person* or *charm monster*. Your Charisma is your spellcasting Ability for this spell.

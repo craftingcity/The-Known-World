@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Diseases",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md"
+    },
+    {
       "basename": "Lunna, Paladin Werewolf",
       "path": "Junie's Characters/Lunna, Paladin Werewolf.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Heads of Arthurian Houses",
       "path": "Game Notes/NPCs/High Power/Heads of Arthurian Houses/Heads of Arthurian Houses.md"
-    },
-    {
-      "basename": "Sakharov Yosimmite",
-      "path": "Game Notes/NPCs/High Power/Council of Eight NPCs/Sakharov Yosimmite.md"
     }
   ],
   "omittedPaths": [],
