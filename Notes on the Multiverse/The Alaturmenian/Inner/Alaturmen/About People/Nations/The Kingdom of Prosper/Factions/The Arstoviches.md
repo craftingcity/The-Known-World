@@ -33,7 +33,7 @@ As time has continued, the Arstovich has rested and healed. While this rest was 
 
 In more recent history however, with the passing of the 'Age of Beginning' into the 'Age of Warkind', some have been chosen to serve in a more expansive capacity; as independent agents of her will, vessels of her curse, and harbingers of her rage (see [[Custom Diseases#Curse of the Witch of Ardor (Vampirism/Arstovichism)]]).
 
-The first eight to be chosen have a legacy that has been carried by each of their Childer, and their Childer's Childer, and so on through the bloodlines. These eight are as follows:
+The first eight to be chosen have a legacy that has been carried by each of their Childer, and their Childer's Childer, and so on through the bloodlines. These eight, known as the Progenitors, are as follows:
  - [[Sulkar, the Grateful]]
  - [[Praetora, the Calm]]
  - [[Brechan, of Sound Mind]]
@@ -43,7 +43,7 @@ The first eight to be chosen have a legacy that has been carried by each of thei
  - [[Morris, the Hysteric]]
  - [[Talling, the Apath]]
 
-As the family grew, so did the rumors of revolt; as young as they are, some of the more recently turned amongst the Arstoviches' clan have failed to return from their hunts, and the rumors tell us that they did not fail, but defect. Some half-dozen banners have been raised and of them, two now remain, excepting our own - the Freefolk in the north, and the Patrons in the south. Betraying their Mother, they are damned in the eyes of the Arstovich Clan, but the method of retaliation remains up for debate.
+As the family grew, so did the rumors of revolt; as young as they are, some of the more recently turned amongst the Arstoviches' clan have failed to return from their hunts, and the rumors tell us that they did not fail, but defect. Some half-dozen banners have been raised and of them, two now remain, excepting our own - the Freefolk in the north, and the Patrons in the south. Betraying their Mother, they are damned in the eyes of the Arstovich Clan, but the speed and method of retaliation remains up for debate.
 
 #### Language
 Arstoviches speak many languages, but predominantly speak to each other in [[Arthurian (language)]].
