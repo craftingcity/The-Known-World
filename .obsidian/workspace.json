@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bad61b00d39260dd",
+        "id": "94380a97f613dfdf",
         "type": "tabs",
         "children": [
           {
-            "id": "c078402b7a5ccede",
+            "id": "bce2c3dcb53e43e6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,41 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
+                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Custom Diseases"
-            }
-          }
-        ]
-      },
-      {
-        "id": "32be4dbe30f7580c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "44a7d39635ea7bdb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Arstoviches"
+              "title": "Lunna, Paladin Werewolf"
             }
           }
         ]
@@ -354,10 +325,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44a7d39635ea7bdb",
+  "active": "bce2c3dcb53e43e6",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
     "Game Notes/NPCs/List of Names.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
