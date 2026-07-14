@@ -246,3 +246,9 @@ We've returned to the empty crypts to rest. Brilynn saw a bat on her watch, whic
 We found the corpses of the Father and the Mother, bloated and stuffed into the walls down here. We also found some other things, like a spell-book, and some potions.
 
 As we continue downstairs, we hear chanting.
+
+### Session 4 - "And they Had No Faces"
+
+We found these cultists, mere aspects of people at this point, shadow for a form. They hold flames of Darkness, and chant about "One Must Die to Appease the Dark Lord".
+
+As we start getting rid of some of them, they chant about Lorgath, the Betrayer
