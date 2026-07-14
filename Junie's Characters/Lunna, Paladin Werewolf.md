@@ -84,13 +84,13 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ## Stats
 
-| L. 4 | XP: 3.3k           | / 6.5k | (0) Inspiration           |
+| L. 4 | XP: 5.1k           | / 6.5k | (0) Inspiration           |
 | ---- | ------------------ | ------ | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF    | +2                        |
 | CON  | 18 (+4)            | M. HP  | 50 Max HP (0/5 Exhaust)   |
 | DEX  | 14 (+2)            | AC     | (20 // 12 & resist B/P/S) |
 | INT  | 9  (-1)            | C. HP  | 50 HP                     |
-| WIS  | 14 (+2) ^          | HD     | 4d10 (3/4)                |
+| WIS  | 14 (+2) ^          | HD     | 4d10 (4/4)                |
 | CHA  | 14 (+2) ^          | SPD    | 30' // 40'                |
 
 #### Spells
@@ -98,7 +98,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| x   | .   | .   | .   | .   | .   | .   | .    | .   |
+| o   | .   | .   | .   | .   | .   | .   | .    | .   |
 | o   | .   | .   | .   | .   | .   | .   |      |     |
 | o   | .   | .   | .   | .   |     |     | DC   | 12  |
 | .   |     |     |     |     |     |     | ATTK | +4  |
@@ -164,7 +164,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [Hallow](http://dnd5e.wikidot.com/spell:hallow) spell.
 - You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
-##### Lay on Hands (11/15)
+##### Lay on Hands (15/15)
 - As an action, you can touch a creature and restore a number of hit points, up to the maximum amount remaining in your pool. You regain any spent points on a long rest.
 - Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. 
 	- You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
@@ -251,4 +251,6 @@ As we continue downstairs, we hear chanting.
 
 We found these cultists, mere aspects of people at this point, shadow for a form. They hold flames of Darkness, and chant about "One Must Die to Appease the Dark Lord".
 
-As we start getting rid of some of them, they chant about Lorgath, the Betrayer and a big guy comes with the bones. "Lorgath, Bring Death so that we May Be Worthy"
+As we start getting rid of some of them, they chant about Lorgath, the Betrayer and a big guy comes with the bones. "Lorgath, Bring Death so that we May Be Worthy". 
+
+That thing 
