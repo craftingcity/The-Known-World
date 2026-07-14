@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Combat Mechanics and Positioning",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
+    },
+    {
+      "basename": "Mechanics",
+      "path": "Game Notes/Mechanics/Mechanics.md"
+    },
+    {
       "basename": "Lunna, Paladin Werewolf",
       "path": "Junie's Characters/Lunna, Paladin Werewolf.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Noble Houses of Prosper",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Local Lore/Noble Houses of Prosper.md"
-    },
-    {
-      "basename": "Arthur's Knights",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
-    },
-    {
-      "basename": "Erika a'Valim",
-      "path": "Game Notes/NPCs/Mild Power/Knights & Nobles/Erika a'Valim.md"
     }
   ],
   "omittedPaths": [],

@@ -58,8 +58,38 @@
               "icon": "lucide-file",
               "title": "Lunna, Paladin Werewolf"
             }
+          },
+          {
+            "id": "74431c01aeb49bba",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Mechanics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Mechanics.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Mechanics\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":14},\"to\":{\"line\":26,\"ch\":14}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Combat Mechanics and Positioning"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "suff",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055,
-    "collapsed": true
+    "width": 297.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -354,13 +383,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c79af19a61d10215",
+  "active": "74431c01aeb49bba",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Mechanics.md",
+    "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/The Arstoviches.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
     "Game Notes/NPCs/List of Names.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-    "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "Game Notes/Prenotes/'26/Prenotes July 05 26.md",
@@ -382,7 +412,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/The Kingdom of Prosper.md",
     "Game Notes/Prenotes/'26/Prenotes July 03 26.md",
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
     "MEDIA/SUPP/Vault0Map.drawio",

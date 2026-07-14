@@ -89,7 +89,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 | STR  | 14 (+2) // 15 (+2) | PRF    | +2                        |
 | CON  | 18 (+4)            | M. HP  | 50 Max HP (0/5 Exhaust)   |
 | DEX  | 14 (+2)            | AC     | (20 // 12 & resist B/P/S) |
-| INT  | 9  (-1)            | C. HP  | 50 HP                     |
+| INT  | 9  (-1)            | C. HP  | 44 HP                     |
 | WIS  | 14 (+2) ^          | HD     | 4d10 (4/4)                |
 | CHA  | 14 (+2) ^          | SPD    | 30' // 40'                |
 
@@ -109,7 +109,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - (1c) [Heroism](https://dnd5e.wikidot.com/spell:heroism)
 - (1bc) [Shield of Faith](https://dnd5e.wikidot.com/spell:shield-of-faith)
 - (1c) [Detect Evil & Good](https://dnd5e.wikidot.com/spell:detect-evil-and-good)
-==- (1c) [Bless](https://dnd5e.wikidot.com/spell:bless)==
+- (1c) [Bless](https://dnd5e.wikidot.com/spell:bless)
 
 #### Proficiencies
 ##### Skills
@@ -251,4 +251,4 @@ As we continue downstairs, we hear chanting.
 
 We found these cultists, mere aspects of people at this point, shadow for a form. They hold flames of Darkness, and chant about "One Must Die to Appease the Dark Lord".
 
-As we start getting rid of some of them, they chant about Lorgath, the Betrayer
+As we start getting rid of some of them, they chant about Lorgath, the Betrayer and a big guy comes with the bones. "Lorgath, Bring Death so that we May Be Worthy"
