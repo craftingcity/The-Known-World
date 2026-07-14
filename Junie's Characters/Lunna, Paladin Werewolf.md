@@ -253,4 +253,6 @@ We found these cultists, mere aspects of people at this point, shadow for a form
 
 As we start getting rid of some of them, they chant about Lorgath, the Betrayer and a big guy comes with the bones. "Lorgath, Bring Death so that we May Be Worthy". 
 
-That thing 
+That Monster in the basement took me underwater, but we fought valiantly and defeated the thing. We put the children to rest, and are talking about how we can travel while Annul is still maybe a problem, such as a cage, and silvered weapons.
+
+All is well in death-house.
