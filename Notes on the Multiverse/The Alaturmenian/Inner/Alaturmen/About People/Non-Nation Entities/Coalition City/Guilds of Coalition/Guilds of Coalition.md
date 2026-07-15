@@ -8,7 +8,7 @@ aliases:
 
 # The Guilds of Coalition
 
-The Guilds of Coalition in Alaturmen are considered by most of the "civilized" people of Alaturmen to be the greater governance - something that collects your leader and your ally's leader and your enemy's leader.
+The Guilds of Coalition in Alaturmen are considered by most of the "civilized" people of Alaturmen to be the grand governance of the world,  that collects your leader and your ally's leader and your enemy's leader.
 
 The Guilds are collected together at the twice annual Communicae, alongside representatives of the greater national states of Coalition.
 
@@ -16,10 +16,10 @@ The Guilds are collected together at the twice annual Communicae, alongside repr
 The Guild of Wizards is responsible for the responsible use of Weave Arcane by the citizens of Alaturmen, as well as recording the history of our world and (in)validating legends or other creative works. 
 
 ## [[Guild of Crafters]]
-The Guild of Crafters is responsible for keeping the knowledge of processes and crafts and ensuring their profitability
+The Guild of Crafters is responsible for keeping the knowledge of processes and crafts, and ensuring their profitability by maintaining the minimum price of a given item or service.
 
 ## [[Guild of Merchants]]
-The Guild of Merchants is responsible for managing inventory for the City of Coalition, and monitoring intra-national trades, resolving value disputes, and the like.
+The Guild of Merchants is responsible for managing inventory for [[Coalition City]], monitoring the inventories of the Member States of the Coalition, and monitoring intra-national trades, resolving value disputes, and other economic beuracracy.
 
 ## [[Ranger's Guild|Guild of Rangers]]
 The Ranger's Guild is responsible for keeping the citizenry of all Alaturmen (not just members of nations agreed to Coalition) safe from the dangers of the Wildland and the places beyond.

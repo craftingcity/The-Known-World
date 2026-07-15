@@ -86,7 +86,7 @@ content:
 date: 003AF
 title: Druids invoke Weave Arcane.
 content:
-The [[Druids of Animan]] in revrance to the Physical Idol of Weave, Animan, enscribed the first scrolls. From them, and the further teachings of her magnificence, Animan, they came to understand workings of the Idol's domains, as well as her sister's. 
+The [[Druids of Animan]] in revrance to the Physical Idol of Weave, Animan, enscribed the first scrolls. From them, and the further teachings of her magnificence, they came to understand workings of the Idol's domains, as well as her sisters'. 
 
 See [[The Texts Druidic]].
 
@@ -154,7 +154,7 @@ date: 067AF
 title: Darwine births new forms.
 content:
 
-[[Darwine Evon]] of the [[Beasts Righteous]] creates humanoid-sentient life from the fauna of the [[Great Quillbuck Jungle]] - most notably the Tabaxi and Kenku - in an attempt to raise a defensive army.
+[[Darwine Evon]] of the [[Beasts Righteous]] creates humanoid-sentient life from the fauna of the [[Great Quillbuck Jungle]] - most notably the Tabaxi and Kenku - in an attempt to raise a defensive army for the Quillbuck Jungle.
 
 date: 072AF
 title: Simonson make Peace.

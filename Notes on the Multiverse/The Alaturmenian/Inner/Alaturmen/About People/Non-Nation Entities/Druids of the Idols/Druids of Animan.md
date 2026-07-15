@@ -8,15 +8,11 @@ aliases:
 
 # Druids of Animan
 ## History
-The Druids of Animan are considered the "fifth" group of Idol Druids, worshipping the Idol of the Weave, Animan. These druids were the first to learn arcane magic from their Idol, and would go in to teach it to a select few before eventually publishing a copy of [[The Texts Druidic]].
+The Druids of Animan are considered the "fifth" circle of Idol Druids, worshipping the Idol of the Weave, Animan. These druids were the first to learn arcane magic from their Idol, and would go in to teach it to a select few before eventually publishing a copy of [[The Texts Druidic]] - much to the chagrin of the other Circles and their Idols, loosening their control of the world at large and considering the Druids of Animan dangerous, heretical, anarchists for the theft of their knowledge and the spreading of arcane secrets.
 
-The Druids of Animan began to learn Arcane magic near the beginning of known Time on Alaturmen by working alongside and for the Idol Animan, who taught these mortals the poorly kept secrets of their siblings.
+In the 078AF, coinciding with the Guild of Wizard's formation, the Druids of Animan would formally betray of the other Idols in pursuit of the greater secrets of arcane magic in conjunction with their new partners in the Guild of Wizards.
 
-After these Druids had Mastered their crafts, they split, and formed additional Circles in revrance to the other Idols, who, when asked, gladly shared their tricks and tips. 
-
-In exchange the Idols asked that this Weave Arcane never be abused, but they were *really* unclear about how they defined that. The Druids of Animan took it to mean that those they taught would need to learn a healthy respect for the magic.
-
-At the time of the Guild of Wizard's formation, the Druids of Animan began to plan their betrayal of the Idols in pursuit of the greater secrets of arcane magic in conjunction with the "newest circle of druids", the Guild of Wizards.
+In the time since, the Druids of Animan have largely dissolved into the [[Guilds of Coalition]]
 
 ## Governance
 ## Culture

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Guilds of Coalition",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md"
+    },
+    {
       "basename": "Druids of Animan",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Animan.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
     },
     {
       "basename": "The Texts Druidic",
@@ -191,14 +199,6 @@
     {
       "basename": "Omnid",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Lower Villages/Near Odaya/Omnid.md"
-    },
-    {
-      "basename": "New Quillbuck",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Greater Villages & Cities/New Quillbuck.md"
-    },
-    {
-      "basename": "Nor Butcher",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Lower Villages/Near Wychway/Nor Butcher.md"
     }
   ],
   "omittedPaths": [],
