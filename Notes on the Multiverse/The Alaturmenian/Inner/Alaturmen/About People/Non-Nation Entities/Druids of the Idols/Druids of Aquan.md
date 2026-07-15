@@ -17,7 +17,7 @@ Although they were quite proactive in the destruction of the treacherous glutton
 ## Governance
 The Druids of Aquan typically gather in groups of 5-20 to form a Den, and are led by the eldest among them. Each Den acts independently, but their connection to the Idol of Water pushes them all in the same direction, even when they take different paths.
 
-Many Dens will come to an agreement with the Barons that claim the area they live within, gaining access to the bounties of the cities in exchange for information - political, magical, or otherwise. These agreements are always one-and-done, as the Aquans refuse to deal over any length of time greater than 784 days.
+Many Dens will come to an agreement with the Barons that claim the area they live within, gaining access to the bounties of the cities in exchange for information - political, magical, or otherwise. These agreements are typically one-and-done exchanges, as the Aquans prefer it. No Aquan will deal over any length of time greater than 784 days.
 
 ## Culture
 #### Heritage
