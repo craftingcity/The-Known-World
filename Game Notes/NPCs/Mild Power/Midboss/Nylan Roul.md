@@ -9,7 +9,7 @@ aliases:
 
 > Short tabaxi man with grey fur and black spots. Cloak and Dagger, High and Mighty.
 
-A description of their function in the world.
+Proprietor of 'The Armory' in [[Coalition City]]'s Golden Ward.
 
 ## Roleplaying
 ### Quote

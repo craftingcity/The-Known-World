@@ -8,7 +8,7 @@ aliases:
 
 # Druids of Animan
 ## History
-The Druids of Animan are a group of ancient ass druids who learned magic from the Idol Animan and taught it to a select few.
+The Druids of Animan are considered the "fifth" group of Idol Druids, worshipping the Idol of the Weave, Animan. These druids were the first to learn arcane magic from their Idol, and would go in to teach it to a select few before eventually publishing a copy of [[The Texts Druidic]].
 
 The Druids of Animan began to learn Arcane magic near the beginning of known Time on Alaturmen by working alongside and for the Idol Animan, who taught these mortals the poorly kept secrets of their siblings.
 
@@ -20,6 +20,14 @@ At the time of the Guild of Wizard's formation, the Druids of Animan began to pl
 
 ## Governance
 ## Culture
+#### Heritage
+#### Language
+#### Values
+#### Theology
+#### Economics
 ### Symbolism
 ## Technology
+### Food & Water
+### Shelter
+### Arms & Armor
 ### Magic

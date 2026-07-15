@@ -14,10 +14,10 @@ aliases:
 
 ### Background
 ## Important Places & Symbolism
-##### The Arms Dealer
-In Coalition City, there are a few smaller shops and centers that deal in firearms, but 'The Arms Dealer' is the best in both volume and quality of firearms and ammunition, in firepowder, durandurm, and other experimental variants.
+##### The Armory
+In Coalition City, there are a few smaller shops and centers that deal in firearms, but 'The Armory' is the best in both volume and quality of firearms and ammunition - in firepowder, durandurm, and other experimental variants.
 
-Recently, the original owners of 'The Arms Dealer' have been bought out by a representative of [[SEASEC]], and is being managed and operated by one [[Nylan Roul]].
+Recently, the original owners of 'The Arms Dealer' have been bought out by a representative of [[SEASEC]], and the business is now being managed and operated by one [[Nylan Roul]].
 
 ## Economics
 |     | # of Traders |
