@@ -1,20 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Guilds of Coalition",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md"
-    },
-    {
-      "basename": "Druids of Animan",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Animan.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
-    },
-    {
-      "basename": "The Texts Druidic",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Texts Druidic.md"
+      "basename": "TEMPLATES",
+      "path": "ORGANIZATION/TEMPLATES/TEMPLATES.md"
     },
     {
       "basename": "Group",
@@ -35,6 +23,22 @@
     {
       "basename": "Druids of Aquan",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Aquan.md"
+    },
+    {
+      "basename": "Druids of Animan",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Animan.md"
+    },
+    {
+      "basename": "Guilds of Coalition",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "The Texts Druidic",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Texts Druidic.md"
     },
     {
       "basename": "Nylan Roul",
@@ -195,10 +199,6 @@
     {
       "basename": "Ootool",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Ootool.md"
-    },
-    {
-      "basename": "Omnid",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Lower Villages/Near Odaya/Omnid.md"
     }
   ],
   "omittedPaths": [],

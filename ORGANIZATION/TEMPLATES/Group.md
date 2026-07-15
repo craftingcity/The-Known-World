@@ -1,5 +1,6 @@
 ---
-tags: groups, 
+tags: 
+- groups 
 aliases:
 ---
 
