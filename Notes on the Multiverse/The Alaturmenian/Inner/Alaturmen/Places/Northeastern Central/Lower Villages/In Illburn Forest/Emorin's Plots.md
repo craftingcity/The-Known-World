@@ -1,5 +1,6 @@
 ---
-tags: holding,
+tags: 
+- holding
 aliases:
 ---
 # Emorin's Plots

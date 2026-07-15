@@ -1,6 +1,8 @@
 ---
-tags: holding,
-aliases: New Ammyrain
+tags: 
+- holding
+aliases:
+- New Ammyrain
 ---
 
 # Holding Tags
