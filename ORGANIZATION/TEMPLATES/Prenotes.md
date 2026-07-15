@@ -1,5 +1,6 @@
 ---
-tags: notes
+tags: 
+- notes
 aliases:
 ---
 

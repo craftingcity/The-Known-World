@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "TEMPLATES",
-      "path": "ORGANIZATION/TEMPLATES/TEMPLATES.md"
+      "basename": "Druids of Aquan",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Aquan.md"
     },
     {
-      "basename": "Group",
-      "path": "ORGANIZATION/TEMPLATES/Group.md"
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
     {
       "basename": "Druids of Ventan",
@@ -21,12 +21,16 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ignan.md"
     },
     {
-      "basename": "Druids of Aquan",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Aquan.md"
-    },
-    {
       "basename": "Druids of Animan",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Animan.md"
+    },
+    {
+      "basename": "TEMPLATES",
+      "path": "ORGANIZATION/TEMPLATES/TEMPLATES.md"
+    },
+    {
+      "basename": "Group",
+      "path": "ORGANIZATION/TEMPLATES/Group.md"
     },
     {
       "basename": "Guilds of Coalition",
@@ -195,10 +199,6 @@
     {
       "basename": "Oezand",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Oezand.md"
-    },
-    {
-      "basename": "Ootool",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Ootool.md"
     }
   ],
   "omittedPaths": [],

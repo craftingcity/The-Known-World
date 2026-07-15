@@ -6,7 +6,7 @@ tags:
 aliases:
 ---
 
-# Group Name
+# Druids of Terran
 ## History
 ## Governance
 ## Culture

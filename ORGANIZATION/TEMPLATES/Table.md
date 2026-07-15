@@ -1,5 +1,6 @@
 ---
-tags: table
+tags: 
+- table
 aliases:
 ---
 # (Preamble)

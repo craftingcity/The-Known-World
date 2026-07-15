@@ -6,7 +6,7 @@ tags:
 aliases:
 ---
 
-# Group Name
+# Druids of Ignan
 ## History
 ## Governance
 ## Culture
