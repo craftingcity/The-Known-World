@@ -2,24 +2,9 @@
 tags:
   - groups
   - military
+  - stub
 aliases:
 ---
+*This page is a #stub. You can help by expanding it!*
 
-# Deep-Guardian Tactical Security Company (DGTSC)
-##### EST. 0xxAF by [[Alexyan Buiolor]] (in the name of [[Baron Shimmer]])
-
-# Group Name
-## History
-## Governance
-## Culture
-#### Heritage
-#### Language
-#### Values
-#### Theology
-#### Economics
-### Symbolism
-## Technology
-### Food & Water
-### Shelter
-### Arms & Armor
-### Magic
+The Deep-Guardian Tactical Security Company (DGTSC) was established in 094AF by [[Alexyan Buiolor]] in the name of [[Baron Shimmer]]. They act as "private" military contractors, and were officially integrated into [[SEASEC]] alongside the other members at the moment of it's inception.
