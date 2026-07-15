@@ -1,6 +1,11 @@
 ---
-tags: holding,
-aliases: The Holy City of Kanielkiln, Kanielkiln, The Holy City, Holy City of Kanielkiln
+tags: 
+- holding
+aliases: 
+- The Holy City of Kanielkiln
+- Kanielkiln 
+- The Holy City 
+- Holy City of Kanielkiln
 ---
 
 # Holding Tags
