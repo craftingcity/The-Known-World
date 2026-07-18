@@ -17,7 +17,7 @@ As the region fractured in need of food and water, and the Noble Thieves began t
 ## Governance
 The Druids of Ignan typically do not gather, and rather act together by independently consulting the Flames of a campfire, stove, candle, or other inconspicuous source of fire for the information necessary to act upon the will of their Circle and their Idol.
 
-The Druids of Ignan await *something*, an obvious and unignorable change coming to the face of Alaturmen, and while they have together prepared for whatever this change may be, they hold dearly the acceptance that they may not live to see their plan come to fruition - everything is impermanent, after all.
+The Druids of Ignan await *something*, an obvious and irreversible change coming to the face of Alaturmen, and while they have together prepared for whatever this change may be, they hold dearly the acceptance that they may not live to see their plan come to fruition - everything is impermanent, after all.
 
 ## Culture
 #### Heritage
