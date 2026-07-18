@@ -5,6 +5,10 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ignan.md"
     },
     {
+      "basename": "Tetrimoc",
+      "path": "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Tetrimoc.md"
+    },
+    {
       "basename": "Druids of Aquan",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Aquan.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Osa Allangar",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Osa Allangar.md"
-    },
-    {
-      "basename": "Oezand",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Oezand.md"
     }
   ],
   "omittedPaths": [],
