@@ -26,6 +26,8 @@ aliases:
 | WIS  | 6 (-2)    | HD    | 1d10            |
 | CHA  | 13 (+1)   | SPD   | 25' (5s)        |
 
+- Pure Force Longsword (+2)
+
 ##### Features
 - FS: Dueling
 - Second Wind (1/1)
