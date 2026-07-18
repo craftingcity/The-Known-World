@@ -43,6 +43,7 @@ aliases:
 #### Shooting Gallery
 - This long chamber is lined with ballista on one or two sides (the end or sides of the hall is preferable) that are being controlled remotely by a number of Kobolds behind their protective stone.
 #### Evil Spleef
+#### Greenhouse
 #### Gladiator's Chains
 #### Bonebuster
 - In this chamber there is a stone obelisk with a small hollow cylinder on each side. When a limb is inserted into one of these apertures, it is crushed, and a hatch opens on that side of the obelisk with a prize inside. Typically, this prize is genuine; small enchanted objects, ammunitions, or potions that have little to no downside.
