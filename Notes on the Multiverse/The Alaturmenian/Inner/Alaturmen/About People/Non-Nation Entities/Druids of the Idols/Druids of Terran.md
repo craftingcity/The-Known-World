@@ -19,6 +19,8 @@ The Druids of Terran now spend their days fighting [[The Church of the White Fla
 ## Governance
 The Druids of Terran gather into Dens of 15-40, and will attach themselves to a local settlement or faction, participating in their politics and culture as their own. In this way, they act more as a bloc than a true faction, and are typically led by their most charismatic speaker.
 
+The Druids of Terran are singularly focused on the reacquisition of their Idol, by any means necessary. The survival of the group is important too, but other forces are acting upon the Church, leaving the Druids to focus on their more important tasks.
+
 ## Culture
 #### Heritage
 #### Language
