@@ -45,8 +45,9 @@ aliases:
 #### Evil Spleef
 - This large round chamber is floored in false tiles that, once damaged (15hp, 0AC), fall away to a smaller, second layer, and then beyond the second lies a pit of poisoned water.
 #### Greenhouse
-- This chamber is bursting with life - dense with flora and the fauna that calls it home. 
+- This chamber is bursting with life - dense with flora and the fauna that calls it home. Any number of different plants could live in these green-houses, and they are kept healthy by their caretakers - the Guand - and the ravaging insects that pollenate these plants.
 #### Gladiator's Chains
+- A square chamber holds a circular divot some 30' in radius. In the center of the circle, an enchanted Manacle holds the current victor captive, awaiting their final defeat. When the victor is killed, the creature that killed it becomes the victor, and will be charmed by the Manacle to wear it (DC 18 CHA). Once the Manacle is worn, it cannot be removed by mundane means.
 #### Bonebuster
 - In this chamber there is a stone obelisk with a small hollow cylinder on each side. When a limb is inserted into one of these apertures, it is crushed, and a hatch opens on that side of the obelisk with a prize inside. Typically, this prize is genuine; small enchanted objects, ammunitions, or potions that have little to no downside.
 - While crushing a limb, the Bonebuster deals 2d8 bludgeoning damage to the character, and they will have their choice of a *Broken Arm* or a *Broken Leg*. A character with a *Broken Arm* has Disadvantage on Attack Rolls, Strength Saving Throws, and Strength or Dexterity Checks. A character with a *Broken Leg* has Disadvantage on Dexterity Saving Throws, and Strength or Dexterity Checks, and their speed is halved.
