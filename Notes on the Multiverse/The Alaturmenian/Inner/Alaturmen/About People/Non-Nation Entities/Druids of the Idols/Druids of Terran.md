@@ -14,9 +14,11 @@ The Terrans would come to work hand-in-hand with the first Elves of the region t
 
 In the time after, the Terrans would make attempts to regroup - most majorly in the east, joining what would become [[Cenva Minyo]], and in the north, occupying the [[Littetavarse]] alongside other "bandits and heretics" of the region. After their recollection, the Druids of Terran found themselves unable to connect with their Idol, not for lack of trying, but because Terran had gone missing in the Flames.
 
-The Druids of Terran now spend their days fighting [[The Church of the White Flame]] alongside it's many detractors, and searching the lands and the sky for any sign of their missing Idol.
+The Druids of Terran now spend their days fighting [[The Church of the White Flame]] alongside it's many detractors, and searching the lands for any sign of their missing Idol.
 
 ## Governance
+The Druids of Terran gather into Dens of 15-40, and will attach themselves to a local settlement or faction, participating in their politics and culture as their own. In this way, they act more as a bloc than a true faction, and are typically led by their most charismatic speaker.
+
 ## Culture
 #### Heritage
 #### Language
