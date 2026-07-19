@@ -5,7 +5,7 @@ aliases:
 ---
 
 ### The People...
-Many people who come and go from this place are peaceful folk who need money, and try their luck in the prosperous ruins of the old empire. The most unprepared are those that believe anyone they encounter is not willing to kill them for their findings.
+Many people who come and go from this place are peaceful folk who need money, and try their luck in the prosperous ruins of [[The Old|Minyostalma]]. The most unprepared are those that believe anyone they encounter is not willing to kill them for their findings.
 
 ##### Scavengers
 A collective name for the individuals and groups without a greater affiliation to a faction without or within the Old. Most of these people came to find their fortune, and were miserably mistaken. They have likely tried and failed to escape this place, and have instead reluctantly gathered with others to survive in this place.

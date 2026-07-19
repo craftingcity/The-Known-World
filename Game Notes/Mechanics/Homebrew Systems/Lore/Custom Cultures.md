@@ -121,7 +121,7 @@ You have spent your life before adventure with [[The Church of the White Flame]]
 
 > [[Yagil]] is the eastern-most city in [[The Holyl'nds]], and acts as the major center of supply in the ongoing conflicts with [[Cenva Minyo]] and the [[Dwarven Kingdom Actstow]].
 
-> [[The Holy City of Kanielkiln]] is the capital city of [[The Church of the White Flame]]. Those who are born here are the few capable of becoming Firstchurch, a high honor in [[The Holyl'nds]]. Kanielkin is the center of the [[The Church of the White Flame|Church of Flame]]'s empire, wherein the White Church itself hosts the Blackened Brazier and [[Its Greatness|The Great White Flame]] itself.
+> [[The Holy City of Kanielkiln]] is the capital city of [[The Church of the White Flame]]. Those who are born here are the few capable of becoming Firstchurch, a high honor in [[The Holyl'nds]]. Kanielkin is the center of the [[The Church of the White Flame|Church of Flame]]'s empire, wherein the White Church itself hosts the Blackened Brazier and the eldest motes of [[Its Greatness|The Great White Flame]].
 
 > [[Wychway]] is the southern-most city in [[The Holyl'nds]], and is most notable for their social tolerance and their unusual leadership - [[Jorrin Bearscarred]] rules the city as the one leader within the [[The Church of the White Flame|White Church]] that is not Firstchurch or greater, and supports the desegregation & disillusion of the Church's strict caste system.
 

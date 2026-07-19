@@ -1,7 +1,7 @@
 ---
 tags:
   - holding
-  - elven
+  - fey
   - region
 aliases:
   - Minyostalma's Ruins
@@ -25,9 +25,9 @@ Minyostalma is a collective name for the villages and townships that surround th
 The Ruins to the west and north of the central city are the most picked over, as scavengers have frequented the area for dozens of years at this point. As you come closer and closer to the central Temple structure in the walled city-proper, the more dangerous the scavenging becomes, and even the most prepared scavengers do not spend long inside The Old.
 
 ### Background
-The common name for The Old - Minyostalma - translates into 'the first city' or 'the important place', as it was to be both the most important and the first of many cities in the sweeping elven empire. This would never come to pass. 
+The common name for The Old - Minyostalma - translates into 'the first city' or 'the important place', as it was to be both the most important and the first of many cities in [[The Empire that Never Was|The First Empire]]. This would never come to pass. 
 
-When the first elves came to Alaturmen, those who came to make Minyostalma an honorable attempt at an empire came with informed plans on agriculture, engineering, and the spectrum of sciences - but the particular area of interest that caused the troubles here is applied nuclear physics. Curious sorcerers do not mix well with radioactive technologies. A thrice stated rule willfully ignored, an unknown person cast an overachieving *identify* and caused a sweeping dissolution of the active nuclear technologies running the civil engine of the Ancient Empire.
+When the first elves came to Alaturmen, those who came to make an honorable attempt at an empire came with informed plans on agriculture, engineering, and the spectrum of sciences - but the particular area of interest that caused the troubles here is applied nuclear physics. Curious sorcerers do not mix well with radioactive technologies. A thrice stated rule willfully ignored, an unknown person cast an overachieving *identify* and caused a sweeping dissolution of the active nuclear technologies running the civil engine of [[The Empire that Never Was|The Ancient Empire]].
 
 The results of this were, as stated, cataclysmic - but the [[Great Fires]] and the [[Its Greatness|White Flame]] began in obsessive curiosity, and too shall they be ended. Radioactivity is where focused magic becomes drastically unpredictable, and the effects present in Minyostalma today are the results of attempting to brute force knowledge. The secrets of the Ancient Empire come slowly to the explorers of today.
 

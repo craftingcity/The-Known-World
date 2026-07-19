@@ -207,7 +207,7 @@ The Fey Folk share many features absent in Alaturmenian peoples;
 
 ![[elf.png]]
 
-People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the [[Feywild]]. The origins of Elven people on Alaturmen are common information - they are the childer of the Eladrin, a rank of noble of the [[Ceilie Courts]], purposefully born to take Alaturmen for the Ceilie. This plan was derailed in the [[Great Fires]], and the beginnings of a grand elven empire lay now bare in the Holyl'nd, along with the bones of many of kin and kind. Elven people are present throughout Alaturmen in all manner of positions and lifestyles.
+People with a heavy Elven heritage find themselves in possession of preternatural abilities heavily related to the [[Feywild]]. The origins of Elven people on Alaturmen are common information - they are the childer of the Eladrin, a rank of noble of the [[Ceilie Courts]], purposefully born to take Alaturmen for the Ceilie. This plan was derailed in the [[Great Fires]], and the beginnings of [[The Empire that Never Was]] lay now bare in the Holyl'nd, along with the bones of many of kin and kind. Elven people are present throughout Alaturmen in all manner of positions and lifestyles.
 
 - *Weight* You may weigh anywhere from 80 to 180 pounds.
 - You may be anywhere from 5 to 7 feet tall. Your size is Medium.

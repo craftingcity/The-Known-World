@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "The Empire that Never Was",
+      "path": "The Empire that Never Was.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
+    },
+    {
+      "basename": "Druids of Ventan",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ventan.md"
+    },
+    {
+      "basename": "The Old",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md"
+    },
+    {
       "basename": "Druids of Terran",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Terran.md"
+    },
+    {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
     },
     {
       "basename": "Druids of Ignan",
@@ -41,20 +61,12 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Animan.md"
     },
     {
-      "basename": "Druids of Ventan",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ventan.md"
-    },
-    {
       "basename": "The Texts Druidic",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Texts Druidic.md"
     },
     {
       "basename": "Custom Cultures",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
-    },
-    {
-      "basename": "Timeline",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md"
     },
     {
       "basename": "Grand Pantheon",
@@ -187,18 +199,6 @@
     {
       "basename": "Slyfront",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Zalfari/Slyfront.md"
-    },
-    {
-      "basename": "Selataesi",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Janesland/Selataesi.md"
-    },
-    {
-      "basename": "Seat of the Dead",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Abyss/Thanatos/Seat of the Dead.md"
-    },
-    {
-      "basename": "Saker Narnclae",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Darnt Hillkeep/Saker Narnclae.md"
     }
   ],
   "omittedPaths": [],
