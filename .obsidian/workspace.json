@@ -79,32 +79,9 @@
                   "icon": "lucide-file",
                   "title": "Druids of Ventan"
                 }
-              },
-              {
-                "id": "627c247d57113bde",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "The Empire that Never Was.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "The Empire that Never Was"
-                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           },
           {
             "id": "09ccdc8b36a04258",
@@ -588,11 +565,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "627c247d57113bde",
+  "active": "bc9a0de290e45023",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
-    "The Empire that Never Was.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ventan.md",
+    "The Empire that Never Was.md",
+    "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Terran.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
