@@ -27,6 +27,11 @@ What do you do?
 
 ### What does the World Know?
 
+19 - Steve
+15 - BLACK
+12 - Dragoon
+8 - Mip
+0 - BOLTERS
 
 ### What happened?
 
