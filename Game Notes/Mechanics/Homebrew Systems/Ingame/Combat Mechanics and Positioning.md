@@ -15,6 +15,7 @@ The *polymorph* spell is 5th Level (increased from 4th).
 The *lucky* feat grants 1 Luck Point (reduced from 3)
 #### Recoverable Stuns
 The *stunned* condition additionally reads: 'As you resolve this condition, you gain Advantage on the next Saving Throw you make against being Stunned.'
+#### BA 5' Move
 
 
 # Positioning

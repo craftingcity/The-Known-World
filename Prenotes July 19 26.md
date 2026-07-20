@@ -28,10 +28,14 @@ What do you do?
 ### What does the World Know?
 
 19 - Steve
-15 - BLACK
+15 - BLACK (AC 17, 70HP)
+	A (33)
+	B (16)
 12 - Dragoon
 8 - Mip
 0 - BOLTERS
+	C (33)
+	D (16)
 
 ### What happened?
 
