@@ -8,6 +8,35 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b141517aca3adbf0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Alchemy Processes & Products",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Alchemy Processes & Products\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":856,\"ch\":153},\"to\":{\"line\":856,\"ch\":153}},\"scroll\":751.6412624262832}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Custom Diseases"
+            }
+          },
+          {
             "id": "4b44b2563e0c123e",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -29,65 +58,14 @@
               "icon": "lucide-file",
               "title": "Prenotes July 19 26"
             }
-          },
-          {
-            "id": "b141517aca3adbf0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Alchemy Processes & Products"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5194c15461b0eac4",
         "type": "tabs",
         "children": [
-          {
-            "id": "a0c376bc0119f779",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Kailkeep",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kailkeep\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":36},\"to\":{\"line\":13,\"ch\":36}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "d_ Chapter Six - Level Five; Pick-up Sticks"
-            }
-          },
           {
             "id": "d33d0f17ef5a5b20",
             "type": "leaf",
@@ -110,8 +88,38 @@
               "icon": "lucide-file",
               "title": "Combat Mechanics and Positioning"
             }
+          },
+          {
+            "id": "a0c376bc0119f779",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Kailkeep",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kailkeep\",\"popstate\":true}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":36},\"to\":{\"line\":13,\"ch\":36}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "d_ Chapter Six - Level Five; Pick-up Sticks"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -408,9 +416,10 @@
   "active": "4b44b2563e0c123e",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
-    "Prenotes July 19 26.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+    "Prenotes July 19 26.md",
     "mechan.md",
     "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
@@ -432,7 +441,6 @@
     "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Tetrimoc.md",
     "ORGANIZATION/TEMPLATES/TEMPLATES.md",
     "ORGANIZATION/TEMPLATES/Group.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Coalition City/Guilds of Coalition/Guilds of Coalition.md",
     "Untitled.canvas",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",

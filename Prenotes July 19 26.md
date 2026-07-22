@@ -29,7 +29,7 @@ What do you do?
 
 19 - Steve
 15 - BLACK (AC 17, 70HP)
-	A (33)
+	A (33, 23)
 	B (16)
 12 - Dragoon
 8 - Mip
@@ -39,5 +39,6 @@ What do you do?
 
 ### What happened?
 
+They made it into Mercy, but Dragoon was fucking with the guards, and cast fireball. Steve and Mip got in for real, Dragoon, Wrench, and Goblin magic-ed their way in.
 
 We leave our heroes on the date of ... AF, as they ...
