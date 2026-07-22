@@ -258,4 +258,4 @@ That Monster in the basement took me underwater, but we fought valiantly and def
 All is well in Rose's house.
 
 ### Session 5 - "Meeting Ektor"
-We meet *Ektor* in town, and he talks with us for a while. In addition to many things about this place, he tells us the Mayor of the **Village of Barovia** has b een killed, his house assaulted for days and nights. His son, *Ismar the Lesser* claims the title, and is supposed to be "in charge" at the Tavern. The date today is July 21st.
+We meet *Ekdor* in town, and he talks with us for a while. In addition to many things about this place, he tells us the Mayor of the **Village of Barovia** has b een killed, his house assaulted for days and nights. His son, *Ismark the Lesser* claims the title, and is supposed to be "in charge" at the Tavern. The date today is July 21st - the next full Moon is on the 29th. We finish talking and having tea in the late Morning. We like *Ekdor*. 
