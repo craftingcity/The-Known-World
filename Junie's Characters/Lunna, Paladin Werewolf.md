@@ -251,7 +251,7 @@ As we continue downstairs, we hear chanting.
 
 We found these cultists, mere aspects of people at this point, shadow for a form. They hold flames of Darkness, and chant about "One Must Die to Appease the Dark Lord".
 
-As we start getting rid of some of them, they chant about Lorgath, the Betrayer and a big guy comes with the bones. "Lorgath, Bring Death so that we May Be Worthy". 
+As we start getting rid of some of them, they chant about *Lorgath, the Betrayer* and a big guy comes with the bones. "Lorgath, Bring Death so that we May Be Worthy". 
 
 That Monster in the basement took me underwater, but we fought valiantly and defeated the thing. We put the children to rest, and are talking about how we can travel while Annul is still maybe a problem, such as a cage, and silvered weapons.
 
@@ -260,4 +260,4 @@ All is well in Rose's house.
 ### Session 5 - "Meeting Ektor"
 We meet *Ekdor* in town, and he talks with us for a while. In addition to many things about this place, he tells us the Mayor of the **Village of Barovia** has b een killed, his house assaulted for days and nights. His son, *Ismark the Lesser* claims the title, and is supposed to be "in charge" at the Tavern. The date today is July 21st - the next full Moon is on the 29th. We finish talking and having tea in the late Morning. We like *Ekdor*. 
 
-We've entered the bar, and I kinda flirted with one of the Vistani Women there. The Oldest of the three was trying to shut it down. Caspin started talking with *Ismark*. We eventually buy him a bottle of Red Dragon Crush Wine, bottled at the *Wizard of Wines*.
+We've entered the bar, and I kinda flirted with *Alenka* of the Vistani Women there (*Alenka*, *Mirabeel*, and *Sorvia*). Apparently, they own this place. *Sorvia*, the Oldest of the three, was trying to shut the flirting down, but it seemed to be working. Caspin started talking with *Ismark*. We eventually buy him a bottle of Red Dragon Crush Wine, bottled at the **Wizard of Wines**. Ismark's sister, *Ireena*, has drawn the attention of *Straud*, and her rejection led to the attacks at the house. Ismark wants us to take her somewhere "safer than here". *Arik* is the bartender here at the *Blood on the Vine*. Alenka talked about finding *Madam Eva* near the **Tser Pool** - she said I might find her there.
