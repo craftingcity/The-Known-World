@@ -100,6 +100,13 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 			- Bone
 	- If some major act or acts of kindness to the population are made by visitors, they may be awarded with a **Token**.
 ##### Notable Locations...
+
+| x            | x                 | x        |
+| ------------ | ----------------- | -------- |
+|              | Gate              |          |
+| Bar/Hospital | Market/Scoreboard | Barracks |
+| Farms        | Arena             | Foundry  |
+
 - The Gate / The Killbox
 - The Scoreboard & Market
 - The Foundry (& Transmutation Chambers)
