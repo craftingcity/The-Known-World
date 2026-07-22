@@ -260,4 +260,4 @@ All is well in Rose's house.
 ### Session 5 - "Meeting Ektor"
 We meet *Ekdor* in town, and he talks with us for a while. In addition to many things about this place, he tells us the Mayor of the **Village of Barovia** has b een killed, his house assaulted for days and nights. His son, *Ismark the Lesser* claims the title, and is supposed to be "in charge" at the Tavern. The date today is July 21st - the next full Moon is on the 29th. We finish talking and having tea in the late Morning. We like *Ekdor*. 
 
-We've entered the bar, and I kinda flirted with one of the Vistani Women there.
+We've entered the bar, and I kinda flirted with one of the Vistani Women there. The Oldest of the three was trying to shut it down. Caspin started talking with *Ismark*. We eventually buy him a bottle of Red Dragon Crush Wine, bottled at the *Wizard of Wines*.
