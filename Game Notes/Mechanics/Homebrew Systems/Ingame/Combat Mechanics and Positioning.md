@@ -9,6 +9,7 @@ aliases:
 The following 'Unearthed Arcana' spells are approved;
 	- *Virtue (UA)*
 	- *Sudden Awakening (UA)*
+	- *Puppet (UA)*
 #### Polymorph
 The *polymorph* spell is 5th Level (increased from 4th).
 #### Lucky Feat
@@ -16,7 +17,7 @@ The *lucky* feat grants 1 Luck Point (reduced from 3)
 #### Recoverable Stuns
 The *stunned* condition additionally reads: 'As you resolve this condition, you gain Advantage on the next Saving Throw you make against being Stunned.'
 #### BA 5' Move
-
+On your turn, you may spend your Bonus Action to move 5' if your speed is greater than 0.
 
 # Positioning
 ## Opportunity Attack
@@ -37,15 +38,16 @@ When a creature is **Attacked**, they attempt to take *Cover*, and gain a bonus 
 ## Prone
 When a creature is *Prone*, they are lying on the floor. Standing from *Prone* costs 15' of **Movement**.
 
-While *Prone*, a creature has **Disadvantage** on **Attack Rolls** if they are not making that **Attack** with a *Firearm*. Additionally, they grant **Disadvantage** to ranged attacks against them, but **Advantage** to **Attacks** within 5'.
+While *Prone*, a creature has **Disadvantage** on **Attack Rolls** if they are not making that **Attack** with a *Firearm*. Additionally, they grant **Disadvantage** to ranged attacks against them, but **Advantage** to melee attacks against them.
 
 ## Flanking
 When two creatures surround an opponent, if they are not adjacent, the allies are *Flanking* their opponent, who is considered *Flanked*.
 
-A creature who is *Flanked* cannot be *Flanking* with their allies, and attacks against it have **Advantage**.
+A creature who is *Flanked* cannot be *Flanking* with their allies, and attacks against it from creatures *Flanking* it have **Advantage**.
 
 ##### Examples
-In the following examples, 'A' and 'B' are allies, fighting 'P', 'Q', and 'R'. 'B' can occupy any of it's labeled spaces in the following examples.
+In the following examples, 'A' and 'B' are allies, fighting their opponents 'P', 'Q', and 'R'. 
+'B' can occupy any of it's labeled spaces in the following examples..
 
 EXAMPLE 1: Valid
 | x  | A  | x  |
