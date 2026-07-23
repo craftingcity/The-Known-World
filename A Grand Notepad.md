@@ -34,7 +34,7 @@ Water Blue Durandurm Magazine (10sp x 5 = 50sp)
 
 = 2112sp
 
-#### Bubble's Mercs - Delta 3
+#### Bubble's Mercs - Delta-3
 ##### "Bubble" - Team Lead
 > Triton, Rogue Swashbuckler (8), Fighter Battlemaster (5)
 
@@ -175,7 +175,7 @@ Artifacts:
 	- Fire Heart-Ruby (3/10)
 
 
-#### Jewel's Troopers - Ruby 7
+#### Jewel's Troopers - Ruby-7
 ##### Cpl. Spitfire
 > Mountain Hall Dwarf, Soulbound Blood Hunter (5)
 
@@ -545,6 +545,7 @@ magical items
 	- [[Arms and Armor - South East]]
 	- [[Arms and Armor - North West]]
 	- [[Arms and Armor - North East]]
+- Entertainment (fairs, festivals, and travelling bands of entertainers - "a circus")
 ## Factions
 ### Big Four
 - [[The Church of the White Flame]] (`minyostalma and the great fires`)
@@ -556,7 +557,7 @@ magical items
 - [[Cenva Minyo]] & [[Dwarven Kingdom Actstow]] (`everyone needs more detail`)
 - [[Guilds of Coalition]]  (`solidify classes & organization, commit government bodies`) 
 - [[Dwarven Kingdom Suremantle]] / [[Mountain Hall]] (`solidify classes & organization, commit government bodies`) 
-- The Druids (`massive information network, like IT for the world kinda vibe`)
+- [[Circles of Idols]] / The Druids (`massive information network, like IT for the world kinda vibe`)
 ### Bandit Gangs
 - [[Bodaim's Bandits]]
 - [[Cult of Reborn Glory]]
