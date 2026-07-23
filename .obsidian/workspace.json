@@ -29,8 +29,32 @@
               "icon": "lucide-file",
               "title": "A Grand Notepad"
             }
+          },
+          {
+            "id": "21fb71496aa4a09a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Custom Class - Alchemist"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -325,11 +349,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5998c4a71d6c4ab",
+  "active": "21fb71496aa4a09a",
   "lastOpenFiles": [
+    "A Grand Notepad.md",
     "Circles of Idols.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Texts Druidic.md",
-    "A Grand Notepad.md",
     "Game Notes/Prenotes/'26/Prenotes July 19 26.md",
     "Prenotes July 23 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
