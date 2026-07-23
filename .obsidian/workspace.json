@@ -4,124 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "4bdea30fb2038fb6",
-        "type": "split",
+        "id": "f4a45c6e686374a7",
+        "type": "tabs",
         "children": [
           {
-            "id": "f4a45c6e686374a7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c5998c4a71d6c4ab",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "A Grand Notepad.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "A Grand Notepad"
+            "id": "c5998c4a71d6c4ab",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Grand Notepad.md",
+                "mode": "source",
+                "source": true
               },
-              {
-                "id": "b3ad8c914cc6f52e",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Circles of Idols.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Circles of Idols"
-                },
-                "group": "25dad497de14a17b"
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "d3b37af360f2741b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "417b2023e6c3091a",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Circles of Idols.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks for Circles of Idols"
-                },
-                "group": "25dad497de14a17b"
-              },
-              {
-                "id": "c739e0c9c0f9169c",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Texts Druidic.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "The Texts Druidic"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-file",
+              "title": "A Grand Notepad"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -416,10 +325,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3ad8c914cc6f52e",
+  "active": "c5998c4a71d6c4ab",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Texts Druidic.md",
     "Circles of Idols.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Texts Druidic.md",
     "A Grand Notepad.md",
     "Game Notes/Prenotes/'26/Prenotes July 19 26.md",
     "Prenotes July 23 26.md",
