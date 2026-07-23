@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Custom Class - Alchemist",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md"
-    },
-    {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
+    },
+    {
+      "basename": "The Gear...",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
+    },
+    {
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
+    },
+    {
+      "basename": "Custom Class - Alchemist",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md"
     },
     {
       "basename": "Circles of Idols",
@@ -79,10 +87,6 @@
     {
       "basename": "Custom Cultures",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
-    },
-    {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
     },
     {
       "basename": "Grand Pantheon",
@@ -195,10 +199,6 @@
     {
       "basename": "Thingrass",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Goldfield/Thingrass.md"
-    },
-    {
-      "basename": "The Golden City",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/The Golden City.md"
     }
   ],
   "omittedPaths": [],
