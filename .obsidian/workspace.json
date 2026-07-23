@@ -4,69 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "e7bbc4461cd9f52d",
-        "type": "split",
+        "id": "18f221743c6d6e84",
+        "type": "tabs",
         "children": [
           {
-            "id": "f4a45c6e686374a7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c5998c4a71d6c4ab",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "A Grand Notepad.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "A Grand Notepad"
+            "id": "d1d6cf8e09a94aea",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
-              }
-            ]
-          },
-          {
-            "id": "3462de63c3e2673d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a3d109dc7c1cf4ea",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Custom Heritages"
-                }
-              }
-            ]
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes July 23 26.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes July 23 26"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -361,7 +325,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5998c4a71d6c4ab",
+  "active": "d1d6cf8e09a94aea",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
     "A Grand Notepad.md",

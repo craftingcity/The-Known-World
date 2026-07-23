@@ -66,7 +66,7 @@ Artifacts:
 
 ##### "Screw" Team Specialist
 > Gnoll, Fighter Banneret (3), Barbarian Berserker (5)
-AC: 20 (Press. Combat Armor (18+2))
+AC: 21 (Press. Combat Armor (18+3))
 HP: 74 (8d10 hit die) / Speed: 45
 
 STR: 14 (+2)
@@ -93,12 +93,12 @@ Screw's Carbine (31 Fire Rounds, 18 Refit Rounds / `Dual-pop, Ex-Mag (20)` ); +1
 Screw's Combat Knife; +8 to hit, 2d4+2 slash
 
 Consumables:
-	- Isiopara, 6x (3d4+10 +2 rounds)
+	- Isiopara, 5x (3d4+10 +2 rounds)
 	- Secreclude Propaterol x1 (+25hp +2 rounds)
 	- Pineapple Grenade, 3x (15ft sphere, 5d6+20)
 	- Fire Grenade, 1x (10ft, 3d8+16, IGNITE)
 
-Artifacts:
+Artifacts (0/3):
 	- None
 
 ##### "Astro" Team Specialist
