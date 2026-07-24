@@ -28,7 +28,7 @@ And with that, he turns to his squad and begins to walk off towards a square gre
 ### What does the World Know?
 The party has all arrived in the City of Mercy, although they are slightly fractured in their leadership and goals.
 
-The missing person that Steve is searching for, "Kasey", is alive and well working in the bluecap farms.
+The missing person that Steve is searching for, "Casey", is alive and well working in the bluecap farms.
 
 | x            | x                 | x        |
 | ------------ | ----------------- | -------- |
