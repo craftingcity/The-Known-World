@@ -34,7 +34,7 @@ Water Blue Durandurm Magazine (10sp x 5 = 50sp)
 
 = 2112sp
 
-#### Bubble's Mercs - Delta 3
+#### Bubble's Mercs - Delta-3
 ##### "Bubble" - Team Lead
 > Triton, Rogue Swashbuckler (8), Fighter Battlemaster (5)
 
@@ -65,31 +65,40 @@ Artifacts:
 	- Vault Key
 
 ##### "Screw" Team Specialist
-> Gnoll, Fighter Banneret (3), Barbarian Berserker (8)
-AC: 20 (Press. Combat Armor (18+2))
-HP: 81 (6d10 hit die) / Speed: 35
+> Gnoll, Fighter Banneret (3), Barbarian Berserker (5)
+AC: 21 (Press. Combat Armor (18+3))
+HP: 74 (8d10 hit die) / Speed: 45
 
-STR: 13 (+1)
+STR: 14 (+2)
 CON: 14 (+2)
-DEX: 15 (+2)
+DEX: 16 (+3)
 INT: 12 (+1)
 WIS: 14 (+2)
 CHA: 14 (+2)
 
 *Extra Attack* - You attack twice when you take the attack action on your turn.
+*Reckless Attack* - When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on Melee Weapon Attack Rolls using Strength during this turn, but Attack rolls against you have Advantage until your next turn.
 *Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 *Gnoll Heritage* - When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make an unarmed melee attack.
+*Rage, Frenzy (3/3)* - On your turn, you can enter a Rage as a bonus action. You can go into a Frenzy when you Rage. If you do so, while you are Frenzied, you may make a Melee Weapon Attack as a Bonus Action. When your Frenzy ends, you suffer one level of exhaustion. While Raging, you gain the following benefits if you aren't wearing heavy armor:
+- You have advantage on Strength checks and Strength saving throws.
+- When you make a melee weapon attack using Strength, you gain a bonus to the damage roll (+2) that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
+- You have resistance to bludgeoning, piercing, and slashing damage.
+*FS: Archery* - You gain a +2 bonus to Attack Rolls made with Ranged Weapons.
+*Second Wind: Banneret (1/1)* - As a Bonus Action, regain 1d10 plus your Fighter Level in Hit Points, then choose up to three creatures within 60 feet of you that are allied with you. Each one regains hit points equal to your Fighter Level, provided they can see or hear you. Once you use this feature, you must finish a short rest before you can use it again.
+*Action Surge (1/1)* - Once per short rest, you may take another Action on your turn.
 
-Screw's Carbine (40 Fire Rounds / `Dual-pop, Ex-Mag (20)` ); +8 to hit; 4d6+4
-Screw's Combat Knife; +8 to hit, 1d4+2 slash
+
+Screw's Carbine (31 Fire Rounds, 18 Refit Rounds / `Dual-pop, Ex-Mag (20)` ); +10 to hit; 4d6+4
+Screw's Combat Knife; +8 to hit, 2d4+2 slash
 
 Consumables:
-	- Isiopara, 6x (3d4+10 +2 rounds)
+	- Isiopara, 5x (3d4+10 +2 rounds)
 	- Secreclude Propaterol x1 (+25hp +2 rounds)
 	- Pineapple Grenade, 3x (15ft sphere, 5d6+20)
 	- Fire Grenade, 1x (10ft, 3d8+16, IGNITE)
 
-Artifacts:
+Artifacts (0/3):
 	- None
 
 ##### "Astro" Team Specialist
@@ -175,7 +184,7 @@ Artifacts:
 	- Fire Heart-Ruby (3/10)
 
 
-#### Jewel's Troopers - Ruby 7
+#### Jewel's Troopers - Ruby-7
 ##### Cpl. Spitfire
 > Mountain Hall Dwarf, Soulbound Blood Hunter (5)
 
@@ -545,6 +554,7 @@ magical items
 	- [[Arms and Armor - South East]]
 	- [[Arms and Armor - North West]]
 	- [[Arms and Armor - North East]]
+- Entertainment (fairs, festivals, and travelling bands of entertainers - "a circus")
 ## Factions
 ### Big Four
 - [[The Church of the White Flame]] (`minyostalma and the great fires`)
@@ -556,7 +566,7 @@ magical items
 - [[Cenva Minyo]] & [[Dwarven Kingdom Actstow]] (`everyone needs more detail`)
 - [[Guilds of Coalition]]  (`solidify classes & organization, commit government bodies`) 
 - [[Dwarven Kingdom Suremantle]] / [[Mountain Hall]] (`solidify classes & organization, commit government bodies`) 
-- The Druids (`massive information network, like IT for the world kinda vibe`)
+- [[Circles of Idols]] / The Druids (`massive information network, like IT for the world kinda vibe`)
 ### Bandit Gangs
 - [[Bodaim's Bandits]]
 - [[Cult of Reborn Glory]]

@@ -35,7 +35,8 @@ Given this, Traders within the Old will often quote prices in Ancient Coin rathe
 | Pineapple Grenade           | 0-20    | slash & force | 15ft sphere, 5d6+20  | n/a       | all       | 0.3        | 60sp       |
 | Fire Grenade                | 0-20    | fire          | 10ft sphere, 3d8+16  | n/a       | all       | 0.25       | 50sp       |
 | Shoebox Anti-Personnel Mine | -       | slash & force | 15ft sphere, 4d10+30 | n/a       | all       | 1.2        | 240sp      |
-| Hillsight Shaped Mine       | -       | slash & force | 10ft cone, 4d10+25   | n/a       | all       | 2.4        | 480sp      | 
+| Hillsight Shaped Mine       | -       | slash & force | 10ft cone, 4d10+25   | n/a       | all       | 2.4        | 480sp      |
+| Combat Knife                | -       | slash         | 2d4+STR              | n/a       | mercs     | 1          | 200sp      |
 
 ###### Durandurm Upgrades
 | Name                            | Range   | Type | Use                                        | Ammo? | Imprters             | Cost in AC | Cost in SP |

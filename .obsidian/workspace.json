@@ -20,10 +20,14 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -323,6 +327,10 @@
   },
   "active": "02fdd9e5c503de0a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Prenotes July 23 26.md",
+    "Game Notes/Prenotes/'26/Prenotes July 19 26.md",
+    "Circles of Idols.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
     "Prenotes July 19 26.md",
@@ -345,10 +353,6 @@
     "Notes on the Multiverse/The Alaturmenian/Big Lore/Timeline.md",
     "The Empire that Never Was.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Old.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/e_ Chapter Seven - Level Six; Here Comes an Old Soldier.md",
-    "Game Notes/Prenotes/'26/Prenotes July 05 26.md",
-    "Game Notes/NPCs/zNon-Humanoid NPCs/Draconic NPCs/Tetrimoc.md",
-    "ORGANIZATION/TEMPLATES/TEMPLATES.md",
     "Untitled.canvas",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
