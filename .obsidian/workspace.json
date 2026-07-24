@@ -87,6 +87,29 @@
               "icon": "lucide-file",
               "title": "d_ Chapter Six - Level Five; Pick-up Sticks"
             }
+          },
+          {
+            "id": "1321aa41c26db881",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Kailkeep"
+            }
           }
         ],
         "currentTab": 1
@@ -384,12 +407,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5071c8c86b2f2670",
+  "active": "66a3bbe6a3a98e5b",
   "lastOpenFiles": [
-    "Prenotes July 23 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Game Notes/NPCs/List of Names.md",
+    "Prenotes July 23 26.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'26/Prenotes July 19 26.md",
     "Circles of Idols.md",

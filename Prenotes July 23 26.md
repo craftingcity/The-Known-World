@@ -32,6 +32,7 @@ The missing person that Steve is searching for, "Casey", is alive and well worki
 
 Guard A is named Tynan
 
+
 | x            | x                 | x        |
 | ------------ | ----------------- | -------- |
 |              | Gate              |          |
