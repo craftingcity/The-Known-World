@@ -30,6 +30,8 @@ The party has all arrived in the City of Mercy, although they are slightly fract
 
 The missing person that Steve is searching for, "Casey", is alive and well working in the bluecap farms.
 
+Guard A is named Tynan
+
 | x            | x                 | x        |
 | ------------ | ----------------- | -------- |
 |              | Gate              |          |
