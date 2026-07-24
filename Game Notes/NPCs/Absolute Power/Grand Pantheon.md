@@ -21,8 +21,9 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 	- There is no greater sin than the disruption of the natural paths of life and death
 	- Death begins a new path through life in every instance
 
-*Day of Remembrances*, 14th of Rebirth
-*Day of the Warm Fast*
+*Day of Remembrances*, 14th of Resowing (3/14)
+*Day of the Warm Fast*, 16th of Harvest (7/16)
+*Day of the Cold Fast*, 12th of Slumber (12/12)
 
 #### Sune
 - Icon: A six pointed star with wavy rays
@@ -31,6 +32,9 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 - Tenants:
 	- There is no greater gift than kindness in the face of hate
 	- Nothing is beyond the reach of true love
+
+*Day of Proclivity*, 6th of Plowing (2/6)
+*Day of *, (6/11)
 
 #### Tauruin
 - Icon: A clenched fist around a large mace
