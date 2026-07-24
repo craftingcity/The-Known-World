@@ -41,5 +41,6 @@ Guard A is named Tynan
 
 ### What happened?
 
+They talked with some of the people in Mercy, and convinced Seirra to join them after their speech in trying to leave maybe by the 10 tokens.
 
 We leave our heroes on the date of ... AF, as they ...
