@@ -99,6 +99,9 @@ Level Five is the first and last level of Kailkeep to offer any sort of ecosyste
 			- Wooden Scrap
 			- Bone
 	- If some major act or acts of kindness to the population are made by visitors, they may be awarded with a **Token**.
+Marcus, Quartermaster
+Sierra, Head of Roaming
+Alabaster, Mayor/Borgamasaer
 ##### Notable Locations...
 
 | x            | x                 | x        |
