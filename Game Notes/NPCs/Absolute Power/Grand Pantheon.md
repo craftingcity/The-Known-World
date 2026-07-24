@@ -21,6 +21,9 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 	- There is no greater sin than the disruption of the natural paths of life and death
 	- Death begins a new path through life in every instance
 
+*Day of Remembrances*, 14th of Rebirth
+*Day of the Warm Fast*
+
 #### Sune
 - Icon: A six pointed star with wavy rays
 - Domain: Ecstasy, Love
