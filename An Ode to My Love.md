@@ -1,19 +1,11 @@
-It is a beautiful thing, to be a Star in the night sky. To see the world from above, and to shine upon it.
+Once upon a time, some years ago, there was a very lonely girl.
 
-It is a lonely thing too. To see but never touch, to feel but never hold. 
+She had spent much of her time alone, recently, and was quite happy to be doing so, but she had received an invitation. 
+An outreach and an obligation. A choice to be made, and choices like this one would always sit heavy in her stomach.
 
-Sometimes, things come to orbit.
+She chose to accept, and she is very glad that she did.
 
-Sometimes, these chunks of matter will land in an unstable place, rotating around us to come and go and come again, before finally they are released beyond our reach.
-
-But sometimes, they come to stay. They land in the right place, circling in the right balance, finding that being where you are is exactly what each of you need. 
-
+A common occurrence in her circle, there would be an assembly, at night, with provisions, libations, and entertainment. A party, one might say. 
 
 
-It is a lonely thing, to be a Star in the night sky. To see the light in the darkness, and never feel bright enough.
 
-It is a beautiful thing too. To burn, to boil, to react, to exchange, to absorb and change, to know you are made of plasma and power.
-
-Sometimes, you can change things.
-
-Some
