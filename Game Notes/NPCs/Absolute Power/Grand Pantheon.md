@@ -34,7 +34,8 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 	- Nothing is beyond the reach of true love
 
 *Day of Proclivity*, 6th of Plowing (2/6)
-*Day of *, (6/11)
+*Day of Exception*, 11th of Producing (6/11)
+*Day of Warmth*, 19th of Slick (10/19)
 
 #### Tauruin
 - Icon: A clenched fist around a large mace
@@ -43,7 +44,7 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 - Tenants:
 	- Those who can eat those who cannot
 	- Prove that you are worthy of what you have or you will lose it
-- "Prove." "Or lose."
+- "Prove. Or lose."
 
 #### Gromosh
 - Icon: A screaming bloody face
