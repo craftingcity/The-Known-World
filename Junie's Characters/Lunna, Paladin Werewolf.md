@@ -225,7 +225,7 @@ The Fog has come, and it follows us until we are somewhere we weren't before. We
 
 We're led to what seems like an abandoned town, where a pair of children tell us that there is a monster in their house with their baby brother.
 
-As we explore the house, we find a letter in a hidden room addressed to the house, from Count Straud. In addition, we find the deed to this house, a deed to a windmill, and the will of Gustav & Elisabeth Durst. 
+As we explore the house, we find a letter in a hidden room addressed to the house, from *Count Straud*. In addition, we find the deed to this house, a deed to a windmill, and the will of Gustav & Elisabeth Durst. 
 
 Heading up to the Top floor, we encounter an apparition of a woman humming a lullaby that turns to attack us. I turned immediately as we got spooked by her, but turned back under my own will, and we continue to investigate the house.
 
@@ -257,7 +257,9 @@ That Monster in the basement took me underwater, but we fought valiantly and def
 
 All is well in Rose's house.
 
-### Session 5 - "Meeting Ektor"
+### Session 5 - "The Village of Barovia"
 We meet *Ekdor* in town, and he talks with us for a while. In addition to many things about this place, he tells us the Mayor of the **Village of Barovia** has b een killed, his house assaulted for days and nights. His son, *Ismark the Lesser* claims the title, and is supposed to be "in charge" at the Tavern. The date today is July 21st - the next full Moon is on the 29th. We finish talking and having tea in the late Morning. We like *Ekdor*. 
 
-We've entered the bar, and I kinda flirted with *Alenka* of the Vistani Women there (*Alenka*, *Mirabeel*, and *Sorvia*). Apparently, they own this place. *Sorvia*, the Oldest of the three, was trying to shut the flirting down, but it seemed to be working. Caspin started talking with *Ismark*. We eventually buy him a bottle of Red Dragon Crush Wine, bottled at the **Wizard of Wines**. Ismark's sister, *Ireena*, has drawn the attention of *Straud*, and her rejection led to the attacks at the house. Ismark wants us to take her somewhere "safer than here". *Arik* is the bartender here at the *Blood on the Vine*. Alenka talked about finding *Madam Eva* near the **Tser Pool** - she said I might find her there.
+We've entered the bar, and I kinda flirted with *Alenka* of the Vistani? Women there (*Alenka*, *Mirabeel*, and *Sorvia*). Apparently, they own this place. *Sorvia*, the Oldest of the three, was trying to shut the flirting down, but it seemed to be working. *Arik* is the bartender here at the *Blood on the Vine*. Alenka talked about finding *Madam Eva* near the **Tser Pool** - she said I might find her there, so I'd like to.
+
+Caspin started talking with *Ismark*. We eventually buy him a bottle of Red Dragon Crush Wine, bottled at the **Wizard of Wines**, and he tells us that his sister, *Ireena*, has drawn the attention of *Straud*, and her rejection of him led to the attacks at the house. Ismark wants us to take her somewhere "safer than here".
