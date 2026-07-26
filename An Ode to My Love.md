@@ -78,7 +78,15 @@ And the Mouse must know, surely she feels it too. She must be able to feel when 
 
 The Dog wants her to.
 
-The Dog wants to mark the Mouse
+The Dog wants the Mouse to know. To feel it too.
+
+The Dog wants to mark the Mouse.
+
+The Dog needs the Mouse. And the Mouse needs to know.
+
+In Obfuscation and Mystery, through Enigma and Anxiety, the Dog needs to play safe.
+
+"I think of you. Often, and always in awe" she says, in other words.
 
 
 
