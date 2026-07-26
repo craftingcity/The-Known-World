@@ -64,8 +64,8 @@ Perhaps it was drawn by the mark, or perhaps in historic code, or maybe it was o
 The Mouse has her space, and it will be respected.
 
 And so the Dog sat by the Mouse and growled. She bared her teeth at the interloper, seething with the need to defend her claim - or the one who claimed her? 
-It doesn't matter to the Dog in the moment, she cannot comprehend the intelligent difference, and she cannot help herself from acting on the feelingShe can only act.
-It seems to work, and as soon as it began, the night is over.
+It doesn't matter to the Dog in the moment, she cannot comprehend the intelligent difference, and she cannot help herself from acting on the feeling. She can only act.
+As soon as it began, the night is over.
 
 
 
@@ -73,19 +73,21 @@ She can't help it. The mark left by the Predator she found that night itches. It
 
 Timid, scarred, and more vulnerable than she has ever wanted to be, she approaches the Mouse some time later to scratch that itch.
 
-And for a time, just her presence is enough. 
+And for a time, just being around is enough. 
 Every time the Dog sees the Mouse, she can't help but lap up her presence. 
 She radiates beauty, and yet she does not shadow her fellows. 
 She wields knowledge like a practiced blade, sharper than any measure.
 She holds strong and fast, a bastion of her ideals, and the reckoner of all who oppose her.
 
-The Dog would become overwhelmed. The itch and the ache would only rest when she was with the one who had marked her.
+An angel.
 
-And the Mouse must know, surely she feels it too. She must be able to feel when the Dog itches and aches for her. 
+The Dog would become overwhelmed. The itch and the ache could only be remedied in the presence of the one who had marked her.
 
-The Dog wants her to.
+And the Mouse must know, thought the Dog, surely she feels it too. She must be able to feel when the Dog itches and aches for her. 
 
-The Dog wants the Mouse to know. To feel it too.
+The Dog wants her to feel it.
+
+The Dog wants the Mouse to know.
 
 The Dog wants to mark the Mouse.
 
@@ -95,10 +97,19 @@ In Obfuscation and Mystery, through Enigma and Anxiety, the Dog needs to play sa
 
 "I think of you. Often, and always in awe" she says, in other words.
 
+The Mouse replies softly, kindly, and in devious sincerity.
+
+"Whatever could you mean?"
 
 
 
+And for a time, they played this game. Catch, and release. One chasing the other while feinting ignorance. 
+Hoping that they could feel it again, that moment of change - when who is the Predator and who is the Prey becomes blurred, crossed, and reversed. 
+Trying to catch them in their own trap.
 
+And then, they were left alone.
 
+There was no one to watch. No one to perform for.
 
+No one to catch them but each other.
 
