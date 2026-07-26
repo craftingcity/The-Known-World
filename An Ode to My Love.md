@@ -37,22 +37,42 @@ And so she does - Obfuscation, Mystery, Denial - remain Aloof, remain Unbothered
 "Whatever could you mean? I am inculpable, for I am enigma and unknowable."
 
 A poor retort, and she knows it, but it is accepted for everyone to hear. The Hunter knows better, though. 
-She has been caught, a glimpse of the Hunter has been revealed for who she really is.
-A hound, a slobbering mutt at that, but a dog smart enough to wriggle and run when she's being caught.
+She has been caught, a glimpse of her has been revealed for who she really is.
+A bloodhound, a slobbering mutt, but a dog smart enough to wriggle and run when she's caught.
 
 The Mouse lets her free. Whether she knows it or not, she has left a mark on her Prey.
 
 The moment is fleeting, a whisper on the wind of a late night illuminated in a soft orange glow. 
-
 Together, they share a moment of doubt. Was it real? It was only feeling, so it could be as fictitious as either of them needed it to be, but - now we know. This moment is the beginning of everything.
 
 
 
-The Dog waits. She still thinks of herself as a Hunter, a Predator on the Prowl, but those titles were stripped from her as soon as she got caught and marked.
+The Dog waits. She still thinks of herself as a Hunter, a Predator on the prowl, but those titles were stripped from her as soon as she got caught and marked.
 
-And then she sees it. In her mind... it's another challenge. A fight, one she would happily take, and would be happier to win. At the very least, it is an opportunity. A 
+And then she sees it. In her mind, it's another challenge. A fight, one she would happily take, and would be happier to win. At the very least, it is an opportunity. A rude opportunity, but... who could blame her.
 
-One of the former, those who can, the lingering few roaming the edge of the fire, has made a mistake. He might never recognize it, but he crossed an invisible boundary. Perhaps one drawn only in the Dog's 
+One of the former, those who can, the lingering few roaming the edge of the fire, made a mistake. He might never recognize it, but he crossed an invisible boundary. It was drawn somehow, and she cannot act but to defend it.
+Perhaps it was drawn by the mark, or perhaps in historic code, or maybe it was only ever drawn in the Dog's mind - but nonetheless - she found his presence insufferable.
+
+The Mouse has her space, and it will be respected.
+
+And so the Dog sat by the Mouse and growled. She bared her teeth at the interloper, seething with the need to defend her claim - or the one who has claimed her? 
+It doesn't matter, the Dog can't think anymore. She can only act.
+It seems to work, and as soon as it began, the night is over.
+
+
+
+She can't help it. The mark left by the Predator she found that night itches. It feels too good not to scratch.
+
+Timid, scarred, and more vulnerable than she has ever wanted to be, she approaches the Mouse some time later.
+
+"Would you run?" she asks her.
+
+"If I wanted to stay" she clarifies.
+
+
+
+
 
 
 
