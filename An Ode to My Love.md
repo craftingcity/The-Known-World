@@ -12,11 +12,21 @@ Tonight was both. Uncomfortable in the first half, waiting for the people she do
 
 Thankfully, she was of the former.
 
-She wouldn't tell anyone outright, but she was on the hunt. At which end, she couldn't care less, but she was looking. Waiting. Seeking a trail, a sign, an opportunity to finally slake that gnawing hunger she has always had and never named.
+She wouldn't tell anyone outright, but she was on the hunt. She was looking. Waiting. Seeking a trail, a sign, an opportunity to finally slake that gnawing hunger she has always had and never named.
 
-And wait she did. Drinking, smoking, and drinking some more. Acting confident, knowledgeable, and always aloof. Mystery is her greatest shield, obfuscation is her most trusted ally. 
+And wait she did. Drinking, smoking, and drinking some more. Acting. Confident, Capable, but always Aloof. Mystery is her greatest shield, Obfuscation acts as her most trusted ally. 
 
-Somehow, she's spotted first. Somehow, docile and sweet, the P
+But... somehow...
+
+Somehow, she's spotted first. Somehow, docile and sweet, the Prey she hunts - this Mouse, sitting alone by the fire - bares her teeth and reveals herself.
+
+She is smart. Observant. It shows in her eyes and her words. 
+More stealthy, too, disguising herself so. 
+Strong. She holds herself as such, and she claims the space around her with ease. The others barely notice.
+Beautiful, in every sense of the word. 
+
+And the Predator became the Prey. For a moment, she felt it. The freedom.
+
 
 And then she sees it. It's vile, even - but it is an opportunity. A challenge. A fight, one she would happily take, and would be happier to win.
 
