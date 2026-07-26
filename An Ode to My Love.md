@@ -138,6 +138,20 @@ Into the self she wanted to be.
 
 She cannot now be considered faultless, or inculpable, or enigmatic. And she never wanted to be.
 
+The Dog and the Mouse work well together. 
+They are more together. 
+More than halves of a whole, they are motion, and joy, and work, and play.
 
+The Dog and the Mouse love each other very much. 
+They hold the leash bearing the other's collar. 
+They are marked together by each other, entangled in a mess of fear and ecstasy as they chase the other's tail, running and biting and holding. 
 
+As hard as they can.
 
+And as long as they can.
+
+Sometime, right now, that girl isn't very lonely anymore. And she hasn't been for a while now.
+
+---
+
+Happy Anniversary my love!! Three years together! I've told you before, but it feels like I've known you for ever - and yet not long enough. I hope that I get to say that again in a year, and again in another, and forever beyond that. You make me so comfortable and happy, in my own body, in my own mind, and in my life outside myself! You are the smartest person I know, 
