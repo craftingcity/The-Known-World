@@ -64,11 +64,22 @@ It seems to work, and as soon as it began, the night is over.
 
 She can't help it. The mark left by the Predator she found that night itches. It feels too good not to scratch.
 
-Timid, scarred, and more vulnerable than she has ever wanted to be, she approaches the Mouse some time later.
+Timid, scarred, and more vulnerable than she has ever wanted to be, she approaches the Mouse some time later to scratch that itch.
 
-"Would you run?" she asks her.
+And for a time, just her presence is enough. 
+Every time the Dog sees the Mouse, she can't help but lap up her presence. 
+She radiates beauty, and yet she does not shadow her fellows. 
+She wields knowledge like a practiced blade, sharper than any measure.
+She holds strong and fast, a bastion of her ideals, and the reckoner of all who oppose her.
 
-"If I wanted to stay" she clarifies.
+The Dog would become overwhelmed. The itch and the ache would only rest when she was with the one who had marked her.
+
+And the Mouse must know, surely she feels it too. She must be able to feel when the Dog itches and aches for her. 
+
+The Dog wants her to.
+
+The Dog wants to mark the Mouse
+
 
 
 
