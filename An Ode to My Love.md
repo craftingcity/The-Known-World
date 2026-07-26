@@ -113,20 +113,20 @@ There was no one to watch. No one to perform for.
 
 No one to catch them but each other.
 
-And so the Dog was caught again. She made a wager on a bluff, and she was quickly called. The Mouse knows her tell now.
+And so the Dog was caught again, in a wager made on a bluff, for which she was quickly called. The Mouse knows her tell now, after all.
 
 Backed against the wall, without anywhere to run, with nothing to hide behind, the Dog was forced, finally and thankfully, to tell her Mouse the truth.
 
 That she liked hunting her.
 That she liked being hunted by her.
 That she needed the Mouse to know how she feels.
-That she needed the Mouse to be hers, and she the Mouse's.
+That she needed the Mouse to be hers, and her the Mouse's.
 
 
 
 And so it was. 
 
-She needed training, as all Dogs do, but the Mouse is a kind woman. Although she wanted no Dog of her own, she would take the Hound and make her Bitch. 
+She needed training, as all Dogs do, but the Mouse is a kind woman. Although she had wanted no Dog of her own, she would take the Hound and make her Bitch. 
 
 No, make is too strong of a word. 
 The Dog was never forced.
@@ -150,8 +150,14 @@ As hard as they can.
 
 And as long as they can.
 
-Sometime, right now, that girl isn't very lonely anymore. And she hasn't been for a while now.
+And now, that girl isn't very lonely anymore. She hasn't been for a while now.
 
 ---
 
-Happy Anniversary my love!! Three years together! I've told you before, but it feels like I've known you for ever - and yet not long enough. I hope that I get to say that again in a year, and again in another, and forever beyond that. You make me so comfortable and happy, in my own body, in my own mind, and in my life outside myself! You are the smartest person I know, 
+Happy Anniversary my love!! Three years together! I've told you before, but it feels like I've known you for longer - and yet not long enough. 
+I hope that I get to say that again in a year, and again in another, and forever beyond that. 
+
+You make me so comfortable and happy, in my own body, in my own mind, and in my life outside myself! 
+You are the smartest person I know, and I am the luckiest woman in the world to know you and spend my time with you.
+In your eternal wisdom, you've chosen to keep me around, and I am so very happy you have.
+
