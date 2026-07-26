@@ -113,3 +113,31 @@ There was no one to watch. No one to perform for.
 
 No one to catch them but each other.
 
+And so the Dog was caught again. She made a wager on a bluff, and she was quickly called. The Mouse knows her tell now.
+
+Backed against the wall, without anywhere to run, with nothing to hide behind, the Dog was forced, finally and thankfully, to tell her Mouse the truth.
+
+That she liked hunting her.
+That she liked being hunted by her.
+That she needed the Mouse to know how she feels.
+That she needed the Mouse to be hers, and she the Mouse's.
+
+
+
+And so it was. 
+
+She needed training, as all Dogs do, but the Mouse is a kind woman. Although she wanted no Dog of her own, she would take the Hound and make her Bitch. 
+
+No, make is too strong of a word. 
+The Dog was never forced.
+
+She was shown the ways to change. 
+Shown who she could be, when she would try.
+She was led, in love and care, into herself. 
+Into the self she wanted to be.
+
+She cannot now be considered faultless, or inculpable, or enigmatic. And she never wanted to be.
+
+
+
+
