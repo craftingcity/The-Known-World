@@ -25,9 +25,19 @@ More stealthy, too, disguising herself so.
 Strong. She holds herself as such, and she claims the space around her with ease. The others barely notice.
 Beautiful, in every sense of the word. 
 
-And so the Predator became the Prey. For a moment, she felt it. As the fear of being noticed quickly faded into the freedom of the gesture, she was, for a moment, being reflected. Recognized. Accepted, even Challenged.
+And so, for a fleeting half-second, the Predator became the Prey. For just a moment, she felt it. The fear of being noticed quickly faded into the freedom of the gesture, she was, for a moment, being Reflected. Recognized. Accepted, or maybe even Challenged?
 
-"Defend yourself. I am nothing to be "
+"Defend yourself. I can see you, and I am not to be trifled with" says the Mouse.
+
+And so she does - Obfuscation, Mystery, Denial - remain Aloof, remain Unbothered, keeping her footing as best she can, she parries;
+
+"Whatever could you mean? I am inculpable, for I am enigma and unknowable."
+
+A poor retort, and she knows it, but it is accepted for everyone to hear - but the Hunter knows better. She has been caught, a glimpse of the Hunter has been revealed for who she really is. A hound, a slobbering mutt at that, but a dog smart enough to wriggle and run when she's being caught.
+
+The Mouse lets her free. This moment is the beginning of everything, but the moment is fleeting, a whisper 
+
+
 
 
 
