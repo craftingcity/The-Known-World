@@ -29,28 +29,8 @@
               "icon": "lucide-file",
               "title": "An Ode to My Love"
             }
-          },
-          {
-            "id": "bf2adb50ce7886cb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -345,7 +325,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf2adb50ce7886cb",
+  "active": "f129684731aa8740",
   "lastOpenFiles": [
     "An Ode to My Love.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
