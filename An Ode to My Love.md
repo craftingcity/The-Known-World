@@ -12,6 +12,8 @@ Tonight was both. Uncomfortable in the first half, waiting for the people she do
 
 Thankfully, she was of the former.
 
+
+
 She wouldn't tell anyone outright, but she was on the hunt. She was looking. Waiting. Seeking a trail, a sign, an opportunity to finally slake that gnawing hunger she has always had and never named.
 
 And wait she did. Drinking, smoking, and drinking some more. Acting. Confident, Capable, but always Aloof. Mystery is her greatest shield, Obfuscation acts as her most trusted ally. 
@@ -25,23 +27,32 @@ More stealthy, too, disguising herself so.
 Strong. She holds herself as such, and she claims the space around her with ease. The others barely notice.
 Beautiful, in every sense of the word. 
 
-And so, for a fleeting half-second, the Predator became the Prey. For just a moment, she felt it. The fear of being noticed quickly faded into the freedom of the gesture, she was, for a moment, being Reflected. Recognized. Accepted, or maybe even Challenged?
+And so, for a fleeting half-second, the Predator became the Prey. For just a moment, she felt it. 
+The fear of being noticed quickly faded into the freedom of the gesture; she was, for a moment, being Reflected. Recognized. Accepted, or... maybe even Challenged?
 
-"Defend yourself. I can see you, and I am not to be trifled with" says the Mouse.
+"Defend yourself. I can see you, and you should know that I am not to be trifled with" says the Mouse.
 
 And so she does - Obfuscation, Mystery, Denial - remain Aloof, remain Unbothered, keeping her footing as best she can, she parries;
 
 "Whatever could you mean? I am inculpable, for I am enigma and unknowable."
 
-A poor retort, and she knows it, but it is accepted for everyone to hear - but the Hunter knows better. She has been caught, a glimpse of the Hunter has been revealed for who she really is. A hound, a slobbering mutt at that, but a dog smart enough to wriggle and run when she's being caught.
+A poor retort, and she knows it, but it is accepted for everyone to hear. The Hunter knows better, though. 
+She has been caught, a glimpse of the Hunter has been revealed for who she really is.
+A hound, a slobbering mutt at that, but a dog smart enough to wriggle and run when she's being caught.
 
-The Mouse lets her free. This moment is the beginning of everything, but the moment is fleeting, a whisper 
+The Mouse lets her free. Whether she knows it or not, she has left a mark on her Prey.
+
+The moment is fleeting, a whisper on the wind of a late night illuminated in a soft orange glow. 
+
+Together, they share a moment of doubt. Was it real? It was only feeling, so it could be as fictitious as either of them needed it to be, but - now we know. This moment is the beginning of everything.
 
 
 
+The Dog waits. She still thinks of herself as a Hunter, a Predator on the Prowl, but those titles were stripped from her as soon as she got caught and marked.
 
+And then she sees it. In her mind... it's another challenge. A fight, one she would happily take, and would be happier to win. At the very least, it is an opportunity. A 
 
-And then she sees it. It's vile, even - but it is an opportunity. A challenge. A fight, one she would happily take, and would be happier to win.
+One of the former, those who can, the lingering few roaming the edge of the fire, has made a mistake. He might never recognize it, but he crossed an invisible boundary. Perhaps one drawn only in the Dog's 
 
 
 
