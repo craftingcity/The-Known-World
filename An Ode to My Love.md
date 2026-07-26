@@ -25,7 +25,10 @@ More stealthy, too, disguising herself so.
 Strong. She holds herself as such, and she claims the space around her with ease. The others barely notice.
 Beautiful, in every sense of the word. 
 
-And the Predator became the Prey. For a moment, she felt it. The freedom.
+And so the Predator became the Prey. For a moment, she felt it. As the fear of being noticed quickly faded into the freedom of the gesture, she was, for a moment, being reflected. Recognized. Accepted, even Challenged.
+
+"Defend yourself. I am nothing to be "
+
 
 
 And then she sees it. It's vile, even - but it is an opportunity. A challenge. A fight, one she would happily take, and would be happier to win.
