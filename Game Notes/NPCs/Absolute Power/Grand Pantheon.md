@@ -46,9 +46,9 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 	- Prove that you are worthy of what you have or you will lose it
 - "Prove. Or lose."
 
-*Day of Solace*
-*Day of Pride*
-*Day of All's Fair*
+*Day of Solace*, 1st of Rebirth (1/1)
+*Day of Pride*, 13th of Replowing (5/13)
+*Day of All's Fair*, 28th of Drying (8/28)
 
 #### Gromosh
 - Icon: A screaming bloody face
@@ -59,7 +59,8 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 	- To dishonor yourself is to dishonor all you know or claim
 
 *Day of Revel*
-**
+*Day of Honor*
+*Day of Obligation*
 
 ##### Gish, Wife of Gromosh
 - Icon: A screaming bloody face burning
@@ -78,6 +79,10 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 	- Your joy and the joy of yours is the only true meaning in life
 	- Even the smallest things can become the most important
 
+*Day of Games*
+*Day of Pining*
+*Day of Revealing*
+
 #### Blemon
 - Icon: A half mask / a rotten wooden staff
 - Domain: Disgust, Loathing
@@ -86,6 +91,9 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 	- Your goals are to be reached, and your obstacles removed with permanence
 	- Time is the greatest ally you may know
 
+*Day of Letting*
+*Day of Loathing*
+*Day of Rotting*
 
 ### Physical Idols
 Born from the corpse of [[All-Father Annam]], these idols of the elements rule physicality on [[Alaturmen]], and too are worshipped as Gods able to grant favor.
