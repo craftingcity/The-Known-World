@@ -555,6 +555,8 @@ magical items
 	- [[Arms and Armor - North West]]
 	- [[Arms and Armor - North East]]
 - Entertainment (fairs, festivals, and travelling bands of entertainers - "a circus")
+	- tied to the Religions / [[Grand Pantheon]]
+	- tied to the [[Nations]]
 ## Factions
 ### Big Four
 - [[The Church of the White Flame]] (`minyostalma and the great fires`)
