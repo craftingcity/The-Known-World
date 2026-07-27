@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3295887e8e701eb",
+        "id": "e454b451521c6299",
         "type": "tabs",
         "children": [
           {
-            "id": "f129684731aa8740",
+            "id": "5637562ff986294c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,14 +20,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "An Ode to My Love.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "An Ode to My Love"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -80,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#holding",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055,
-    "collapsed": true
+    "width": 297.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -325,7 +320,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f129684731aa8740",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
     "An Ode to My Love.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
