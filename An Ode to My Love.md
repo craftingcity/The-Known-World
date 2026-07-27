@@ -158,6 +158,6 @@ Happy Anniversary my love!! Three years together! I've told you before, but it f
 I hope that I get to say that again in a year, and again in another, and forever beyond that. 
 
 You make me so comfortable and happy, in my own body, in my own mind, and in my life outside myself! 
-You are the smartest person I know, and I am the luckiest woman in the world to know you and spend my time with you.
+You are the smartest person I know, and I am the luckiest woman in the world to spend my time with you.
 In your eternal wisdom, you've chosen to keep me around, and I am so very happy you have.
 
