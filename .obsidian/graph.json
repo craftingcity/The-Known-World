@@ -18,7 +18,7 @@
       "query": "tag:#npc  ",
       "color": {
         "a": 1,
-        "rgb": 3749832
+        "rgb": 3749823
       }
     },
     {
@@ -26,6 +26,13 @@
       "color": {
         "a": 1,
         "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#roster  ",
+      "color": {
+        "a": 1,
+        "rgb": 3639998
       }
     }
   ],
@@ -35,10 +42,10 @@
   "nodeSizeMultiplier": 0.683972602739726,
   "lineSizeMultiplier": 0.683972602739726,
   "collapse-forces": false,
-  "centerStrength": 0.214316376904915,
+  "centerStrength": 0.200579523502898,
   "repelStrength": 11.2921227731273,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.17501616295547243,
+  "linkDistance": 270,
+  "scale": 0.11224832115554823,
   "close": false
 }

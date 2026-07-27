@@ -46,6 +46,10 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 	- Prove that you are worthy of what you have or you will lose it
 - "Prove. Or lose."
 
+*Day of Solace*
+*Day of Pride*
+*Day of All's Fair*
+
 #### Gromosh
 - Icon: A screaming bloody face
 - Domain: Victory, Honor
@@ -53,6 +57,9 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 - Tenants:
 	- There is no honorable war without communication
 	- To dishonor yourself is to dishonor all you know or claim
+
+*Day of Revel*
+**
 
 ##### Gish, Wife of Gromosh
 - Icon: A screaming bloody face burning

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e454b451521c6299",
+        "id": "b3be2372ddc788b8",
         "type": "tabs",
         "children": [
           {
-            "id": "5637562ff986294c",
+            "id": "3a7fa77a09ec1a54",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,10 +20,14 @@
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Grand Pantheon"
             }
           }
         ]
@@ -320,8 +324,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17bba7903284a409",
+  "active": "3a7fa77a09ec1a54",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Abricadabrin.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
+    "Game Notes/NPCs/NPCs.md",
+    "Game Notes/Campaign Rosters/Cathouse Game.md",
     "An Ode to My Love.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
@@ -344,10 +352,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Aquan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Animan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Terran.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ventan.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Texts Druidic.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Untitled.canvas",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",

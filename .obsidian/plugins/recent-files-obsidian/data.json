@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "An Ode to My Love",
-      "path": "An Ode to My Love.md"
-    },
-    {
       "basename": "Grand Pantheon",
       "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
+    },
+    {
+      "basename": "Abricadabrin",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Abricadabrin.md"
+    },
+    {
+      "basename": "Yerba",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md"
+    },
+    {
+      "basename": "NPCs",
+      "path": "Game Notes/NPCs/NPCs.md"
+    },
+    {
+      "basename": "Cathouse Game",
+      "path": "Game Notes/Campaign Rosters/Cathouse Game.md"
+    },
+    {
+      "basename": "An Ode to My Love",
+      "path": "An Ode to My Love.md"
     },
     {
       "basename": "Lunna, Paladin Werewolf",
@@ -183,22 +199,6 @@
     {
       "basename": "Warevik",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/By Castle Prosper/Warevik.md"
-    },
-    {
-      "basename": "Ungaethram",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Underdark/Locations & Holdings/Ungaethram.md"
-    },
-    {
-      "basename": "Veritas Garigill",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Mossburg/Veritas Garigill.md"
-    },
-    {
-      "basename": "Unyalian",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Lower Villages/In Forests of Actsow/Unyalian.md"
-    },
-    {
-      "basename": "Tjebtekken",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Cobalt's Cacti Field/Tjebtekken.md"
     }
   ],
   "omittedPaths": [],
