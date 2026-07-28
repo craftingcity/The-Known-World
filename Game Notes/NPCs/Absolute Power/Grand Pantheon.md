@@ -58,9 +58,9 @@ All of these gods are born of the feeling of emotion. As these gods made themsel
 	- There is no honorable war without communication
 	- To dishonor yourself is to dishonor all you know or claim
 
-*Day of Revel*
-*Day of Honor*
-*Day of Obligation*
+*Day of Revel*, 5th of Producing (6/5)
+*Day of Honor*, 4th of Wind (9/4)
+*Day of Obligation*, 16th of Plowing (2/16)
 
 ##### Gish, Wife of Gromosh
 - Icon: A screaming bloody face burning
