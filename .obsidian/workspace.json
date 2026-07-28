@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3be2372ddc788b8",
+        "id": "bfdfb9e88ae22753",
         "type": "tabs",
         "children": [
           {
-            "id": "3a7fa77a09ec1a54",
+            "id": "57deddd38d02aef5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,12 +22,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+                "file": "Prenotes July 28 26.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Grand Pantheon"
+              "title": "Prenotes July 28 26"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4534f70a797b5950",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96535ec1010c618a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes July 23 26.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes July 23 26"
             }
           }
         ]
@@ -324,17 +353,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a7fa77a09ec1a54",
+  "active": "57deddd38d02aef5",
   "lastOpenFiles": [
+    "Prenotes July 23 26.md",
+    "Prenotes July 28 26.md",
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Abricadabrin.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
     "Game Notes/NPCs/NPCs.md",
     "Game Notes/Campaign Rosters/Cathouse Game.md",
     "An Ode to My Love.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
     "A Grand Notepad.md",
-    "Prenotes July 23 26.md",
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
@@ -351,7 +381,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ignan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Aquan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Animan.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Terran.md",
     "Untitled.canvas",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
