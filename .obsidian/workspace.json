@@ -29,15 +29,9 @@
               "icon": "lucide-file",
               "title": "Prenotes July 28 26"
             }
-          }
-        ]
-      },
-      {
-        "id": "4534f70a797b5950",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "96535ec1010c618a",
+            "id": "3cf42581b98ff293",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -45,21 +39,28 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Custom Class - Alchemist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Custom Class - Alchemist\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":119,\"ch\":0},\"to\":{\"line\":119,\"ch\":0}},\"scroll\":81.59416800967145}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes July 23 26.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes July 23 26"
+              "title": "Alchemy Processes & Products"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -353,10 +354,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57deddd38d02aef5",
+  "active": "3cf42581b98ff293",
   "lastOpenFiles": [
-    "Prenotes July 23 26.md",
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "Prenotes July 28 26.md",
+    "Prenotes July 23 26.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Abricadabrin.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
@@ -377,7 +379,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "mechan.md",
     "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ignan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Aquan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Animan.md",
