@@ -43,5 +43,11 @@ If too many citizens die (+50%), Sierra and Tynan flip on the Party, banishing t
 
 ### What happened?
 
+17 + 7 = 24
+5oz Harrada (POISON / IMMUTE)
+2oz Boil Goop ()
+1oz Iron FABRIM / BANE
+1oz Nitrate AIR / EARTH
+
 
 We leave our heroes on the date of ... AF, as they ...

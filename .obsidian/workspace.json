@@ -70,8 +70,32 @@
               "icon": "lucide-file",
               "title": "d_ Chapter Six - Level Five; Pick-up Sticks"
             }
+          },
+          {
+            "id": "59ffd7df9307035a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Alchemy Processes & Products"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -366,10 +390,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57deddd38d02aef5",
+  "active": "59ffd7df9307035a",
   "lastOpenFiles": [
-    "Junie's Characters/Lunna, Paladin Werewolf.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Prenotes July 28 26.md",
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+    "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Prenotes July 23 26.md",
@@ -387,13 +414,10 @@
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
     "Prenotes July 19 26.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "mechan.md",
     "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ignan.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Aquan.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Animan.md",
     "Untitled.canvas",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
