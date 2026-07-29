@@ -49,8 +49,9 @@ If too many citizens die (+50%), Sierra and Tynan flip on the Party, banishing t
 1oz Iron FABRIM / BANE
 1oz Nitrate AIR / EARTH
 
-Made Asphyxium
+Made Asphyxium, 4oz Journeymen
 
+(we talked about a Kailkeep Mercenary Company where the sponsored adventurers where body cams to stream back to the Kobolds in HQ; "For Gold and Glory!")
 
 
 We leave our heroes on the date of ... AF, as they ...
