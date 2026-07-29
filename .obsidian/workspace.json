@@ -29,9 +29,15 @@
               "icon": "lucide-file",
               "title": "Prenotes July 28 26"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "4534f70a797b5950",
+        "type": "tabs",
+        "children": [
           {
-            "id": "3cf42581b98ff293",
+            "id": "96535ec1010c618a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,26 +47,31 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Custom Class - Alchemist",
+                  "title": "Kailkeep",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Custom Class - Alchemist\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":119,\"ch\":0},\"to\":{\"line\":119,\"ch\":0}},\"scroll\":81.59416800967145}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kailkeep\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":38},\"to\":{\"line\":13,\"ch\":38}}}"
+                },
+                {
+                  "title": "Prenotes July 23 26",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes July 23 26.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes July 23 26\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":15},\"to\":{\"line\":9,\"ch\":15}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Alchemy Processes & Products"
+              "title": "d_ Chapter Six - Level Five; Pick-up Sticks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055
+    "width": 297.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -354,11 +366,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cf42581b98ff293",
+  "active": "57deddd38d02aef5",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
-    "Prenotes July 28 26.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Prenotes July 23 26.md",
+    "Prenotes July 28 26.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Abricadabrin.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
@@ -368,8 +381,6 @@
     "Junie's Characters/Lunna, Paladin Werewolf.md",
     "A Grand Notepad.md",
     "Game Notes/NPCs/List of Names.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'26/Prenotes July 19 26.md",
     "Circles of Idols.md",
@@ -379,6 +390,7 @@
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "mechan.md",
     "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
+    "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Alchemist.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ignan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Aquan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Animan.md",

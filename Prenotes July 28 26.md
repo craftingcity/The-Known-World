@@ -31,7 +31,7 @@ What do you do?
 - Sierra, Head of Roamers
 - Tynan, Roamer
 - Screw, Roamer and Ex-Merc
-- *The Kobold I've Already Named*
+- Keerik, The Elder
 
 +2 Citizens per increment of 4 on the Speech Roll(s?).
 
