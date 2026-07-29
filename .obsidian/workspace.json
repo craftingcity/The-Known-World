@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3295887e8e701eb",
+        "id": "bfdfb9e88ae22753",
         "type": "tabs",
         "children": [
           {
-            "id": "f129684731aa8740",
+            "id": "57deddd38d02aef5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,12 +22,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "An Ode to My Love.md",
+                "file": "Prenotes July 28 26.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "An Ode to My Love"
+              "title": "Prenotes July 28 26"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4534f70a797b5950",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96535ec1010c618a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prenotes July 23 26.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prenotes July 23 26"
             }
           }
         ]
@@ -80,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#holding",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055,
-    "collapsed": true
+    "width": 297.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -325,13 +353,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f129684731aa8740",
+  "active": "57deddd38d02aef5",
   "lastOpenFiles": [
-    "An Ode to My Love.md",
+    "Prenotes July 23 26.md",
+    "Prenotes July 28 26.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Abricadabrin.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
+    "Game Notes/NPCs/NPCs.md",
+    "Game Notes/Campaign Rosters/Cathouse Game.md",
+    "An Ode to My Love.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
     "A Grand Notepad.md",
-    "Prenotes July 23 26.md",
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
@@ -348,11 +381,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ignan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Aquan.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Animan.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Terran.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ventan.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Texts Druidic.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Untitled.canvas",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
