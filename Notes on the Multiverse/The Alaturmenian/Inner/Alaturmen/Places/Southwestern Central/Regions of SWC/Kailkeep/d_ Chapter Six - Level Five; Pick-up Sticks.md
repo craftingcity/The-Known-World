@@ -116,4 +116,4 @@ Alabaster, Mayor/Borgamasaer (he's aloof, and a bit of a newbie)
 - The Bar (& Hospital)
 - The Arena
 - The Farms (& Statue of Jerran the Grower)
-- The Training Grounds & Barracks
+- The Training Grounds & Barracks (& Statue of Dragoon the Wild)

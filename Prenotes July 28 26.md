@@ -29,9 +29,9 @@ What do you do?
 
 #### Gathered From Mercy
 - Sierra, Head of Roamers
-- Tynan, Roamer
+- Tynan, Roamer and Nobleman
 - Screw, Roamer and Ex-Merc
-- Kyric, The Elder
+- Kyric, The Elder Sorcerer
 
 +2 Citizens per increment of 4 on the Speech Roll(s?).
 
@@ -48,6 +48,9 @@ If too many citizens die (+50%), Sierra and Tynan flip on the Party, banishing t
 2oz Boil Goop ()
 1oz Iron FABRIM / BANE
 1oz Nitrate AIR / EARTH
+
+Made Asphyxium
+
 
 
 We leave our heroes on the date of ... AF, as they ...
