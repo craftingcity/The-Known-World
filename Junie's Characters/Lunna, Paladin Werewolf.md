@@ -107,7 +107,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - (1c*) [Command](https://dnd5e.wikidot.com/spell:command)
 - (1bc*) [Compelled Duel](https://dnd5e.wikidot.com/spell:compelled-duel)
 - (1c) [Heroism](https://dnd5e.wikidot.com/spell:heroism)
-- (1bc) [Shield of Faith](https://dnd5e.wikidot.com/spell:shield-of-faith)
+x (1bc) [Shield of Faith](https://dnd5e.wikidot.com/spell:shield-of-faith)
 - (1c) [Detect Evil & Good](https://dnd5e.wikidot.com/spell:detect-evil-and-good)
 - (1c) [Bless](https://dnd5e.wikidot.com/spell:bless)
 
@@ -267,4 +267,6 @@ Caspin started talking with *Ismark*. We eventually buy him a bottle of Red Drag
 ### Session 6 - "Meet the Bride"
 We arrive at Ismark's Estate. Today is the 22nd. Outside is a state of disarray, but inside is fine, leading us to learn that Vampires here cannot enter a residence without permission?
 
-We meet with Ireena, and we take the Burghermister's corpse and coffin to the Parish in the North side of the Village.
+We meet with Ireena, and we take the Burghermister's corpse and coffin to the Parish in the North side of the Village. The Father of the Parish is holding his Son, who has fallen to Vamparism, in a 
+
+- 1x Wood Stake (of 8 in the party)
