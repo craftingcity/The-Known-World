@@ -264,4 +264,7 @@ We've entered the bar, and I kinda flirted with *Alenka* of the Vistani? Women t
 
 Caspin started talking with *Ismark*. We eventually buy him a bottle of Red Dragon Crush Wine, bottled at the **Wizard of Wines**, and he tells us that his sister, *Ireena*, has drawn the attention of *Straud*, and her rejection of him led to the attacks at the house. Ismark wants us to take her somewhere "safer than here".
 
-### Session 6 - ""
+### Session 6 - "Meet the Bride"
+We arrive at Ismark's Estate. Outside is a state of disarray, but inside is fine, leading us to learn that Vampires here cannot enter a residence without permission?
+
+We meet with Ireena, and we take the Burghermister's corpse and coffin 
