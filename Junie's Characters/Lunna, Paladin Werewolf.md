@@ -84,7 +84,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ## Stats
 
-| L. 4 | XP: 5.1k           | / 6.5k | (0) Inspiration           |
+| L. 4 | XP: 6.9k           | / 14k | (1) Inspiration           |
 | ---- | ------------------ | ------ | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF    | +2                        |
 | CON  | 18 (+4)            | M. HP  | 50 Max HP (0/5 Exhaust)   |
@@ -267,6 +267,6 @@ Caspin started talking with *Ismark*. We eventually buy him a bottle of Red Drag
 ### Session 6 - "Meet the Bride"
 We arrive at Ismark's Estate. Today is the 22nd. Outside is a state of disarray, but inside is fine, leading us to learn that Vampires here cannot enter a residence without permission?
 
-We meet with Ireena, and we take the Burghermister's corpse and coffin to the Parish in the North side of the Village. The Father of the Parish is holding his Son, who has fallen to Vamparism, in a 
+We meet with Ireena, and we take the Burghermister's corpse and coffin to the Parish in the North side of the Village. The Father of the Parish is holding his Son, who has fallen to Vamparism, in his basement. We killed his son, and he killed himself. Day wasted.
 
 - 1x Wood Stake (of 8 in the party)
