@@ -267,4 +267,4 @@ Caspin started talking with *Ismark*. We eventually buy him a bottle of Red Drag
 ### Session 6 - "Meet the Bride"
 We arrive at Ismark's Estate. Outside is a state of disarray, but inside is fine, leading us to learn that Vampires here cannot enter a residence without permission?
 
-We meet with Ireena, and we take the Burghermister's corpse and coffin 
+We meet with Ireena, and we take the Burghermister's corpse and coffin to the Parish in the North side of the Village.
