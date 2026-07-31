@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 3639998
       }
+    },
+    {
+      "query": "tag:#mechanics  ",
+      "color": {
+        "a": 1,
+        "rgb": 13193952
+      }
+    },
+    {
+      "query": "tag:#notes",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +60,6 @@
   "repelStrength": 11.2921227731273,
   "linkStrength": 1,
   "linkDistance": 270,
-  "scale": 0.11224832115554823,
+  "scale": 0.17501616295547204,
   "close": false
 }
