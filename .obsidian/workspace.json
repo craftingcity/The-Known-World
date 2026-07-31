@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bfdfb9e88ae22753",
+        "id": "9cbd29ce6d208c5a",
         "type": "tabs",
         "children": [
           {
-            "id": "57deddd38d02aef5",
+            "id": "88881bafc018ceae",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,57 +22,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prenotes July 28 26.md",
+                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prenotes July 28 26"
+              "title": "Lunna, Paladin Werewolf"
             }
           }
         ]
       },
       {
-        "id": "4534f70a797b5950",
+        "id": "e9fad61a7596a23d",
         "type": "tabs",
         "children": [
           {
-            "id": "96535ec1010c618a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Kailkeep",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Kailkeep\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":38},\"to\":{\"line\":13,\"ch\":38}}}"
-                },
-                {
-                  "title": "Prenotes July 23 26",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prenotes July 23 26.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes July 23 26\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":15},\"to\":{\"line\":9,\"ch\":15}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "d_ Chapter Six - Level Five; Pick-up Sticks"
-            }
-          },
-          {
-            "id": "59ffd7df9307035a",
+            "id": "a361278dbcc8b182",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -86,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
+                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Alchemy Processes & Products"
+              "title": "Lunna, Paladin Werewolf"
             }
           }
         ]
@@ -389,11 +354,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57deddd38d02aef5",
+  "active": "a361278dbcc8b182",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
     "Prenotes July 28 26.md",
-    "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Homebrew Alchemy System.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",

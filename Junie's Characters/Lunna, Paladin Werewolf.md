@@ -263,3 +263,5 @@ We meet *Ekdor* in town, and he talks with us for a while. In addition to many t
 We've entered the bar, and I kinda flirted with *Alenka* of the Vistani? Women there (*Alenka*, *Mirabeel*, and *Sorvia*). Apparently, they own this place. *Sorvia*, the Oldest of the three, was trying to shut the flirting down, but it seemed to be working. *Arik* is the bartender here at the *Blood on the Vine*. Alenka talked about finding *Madam Eva* near the **Tser Pool** - she said I might find her there, so I'd like to.
 
 Caspin started talking with *Ismark*. We eventually buy him a bottle of Red Dragon Crush Wine, bottled at the **Wizard of Wines**, and he tells us that his sister, *Ireena*, has drawn the attention of *Straud*, and her rejection of him led to the attacks at the house. Ismark wants us to take her somewhere "safer than here".
+
+### Session 6 - ""
