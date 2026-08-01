@@ -58,7 +58,7 @@ Land in Actstow is a prime resource. One can purchase or lease land from the Kin
 ### Overhead
 Taxes are payed by the Clans. Clans have individual tax regimes, using different methods to calculate the correct figures, but most commoners end up paying about one-fifth of their profit to their Clan. The Clans then each turn and pay the King, about one-sixth of *their* profit. These tax collections happen every ten years, and are enforced by mundane tax collectors that quote figures based on what they can observe. Most folks attempt to cheat the collectors, leading to the low figures seen above. This crime is considered minor and is punished by fine, leading to someone who gets caught paying closer to one-third of their profit from this ten year period.
 
-All mines are owned by the King of Actstow. These veins of fortune are taxed heavily, and miners take home only as much as 1/2 or even 1/3 of what they mined after management takes its due. 
+All mines are owned by the King of Actstow. These veins of fortune are taxed heavily, and miners take home only as much as 1/2 or even 1/3 of the value of what they mined after management takes its due. 
 
 ### Cutting Corners
 Recovering from loss is difficult in Actstow. If one does not produce enough food or ore or gem or smith'd, one does not have many manners of recovery other than those they develop for themselves, i.e. just crime. 
