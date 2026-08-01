@@ -21,7 +21,7 @@ After the burning, those that learned to survive began to regroup in the [[Actst
 Cenva Minyo has a longstanding alliance with the [[Dwarven Kingdom Actstow]].
 
 ## Governance
-Each of Cenva Minyo's settlements is indepentantly organized by their Eldare - the oldest inhabitant of the settlement - but the Eldares work together easily and 
+Each of Cenva Minyo's settlements is indepentantly organized by their Eldare - the oldest inhabitant of the settlement - but the Eldares work together easily and often, acting as members of the unofficial council of Eldares.
 
 [[Yahlin]]'s Eldare is named [[Raam ben Yarom]]
 
