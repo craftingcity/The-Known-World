@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "50073e1c911e6a80",
+        "id": "df6b972042a9ca29",
         "type": "tabs",
         "children": [
           {
-            "id": "23cf5d0f32224c7f",
+            "id": "14e82a650736248c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,41 +16,28 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Grand Notepad.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "A Grand Notepad"
+            }
+          },
+          {
+            "id": "4c65cbcab6660ebd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
-                  "title": "Circles of Idols",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Circles of Idols.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Circles of Idols\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":8},\"to\":{\"line\":3,\"ch\":8}}}"
-                },
-                {
-                  "title": "Prenotes July 28 26",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'26/Prenotes July 28 26.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes July 28 26\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Prenotes July 23 26",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Prenotes/'26/Prenotes July 23 26.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Prenotes July 23 26\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lily-Mae Garqwak",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Blood Clan Leadership NPCs/Lily-Mae Garqwak.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lily-Mae Garqwak\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Custom Cultures",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Custom Cultures\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":136},\"to\":{\"line\":18,\"ch\":136}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "state": "{}",
                   "eState": "{}"
                 }
               ]
@@ -58,15 +45,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "An Ode to My Love.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "An Ode to My Love"
+              "title": "Economy Pages"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "56c776672dcb5019",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a37557ba6e79c9bc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Arms Companies and their Supply Regions.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Arms Companies and their Supply Regions"
+            }
+          },
+          {
+            "id": "e4084e6ff3b16416",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Currency of Alaturmen"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -359,8 +400,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23cf5d0f32224c7f",
+  "active": "e4084e6ff3b16416",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Arms Companies and their Supply Regions.md",
+    "A Grand Notepad.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Food and Drink - South West.md",
+    "An Ode to My Love.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Circles of Idols.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ignan.md",
     "Game Notes/Prenotes/'26/Prenotes July 28 26.md",
@@ -379,14 +425,9 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Greater Villages & Cities/Yerba.md",
     "Game Notes/NPCs/NPCs.md",
     "Game Notes/Campaign Rosters/Cathouse Game.md",
-    "An Ode to My Love.md",
-    "A Grand Notepad.md",
     "Game Notes/NPCs/List of Names.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'26/Prenotes July 19 26.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
-    "Prenotes July 19 26.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md",
     "Untitled.canvas",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",

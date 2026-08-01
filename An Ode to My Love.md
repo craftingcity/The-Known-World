@@ -59,12 +59,12 @@ And then she sees it. In her mind, it's another challenge. A fight, one she woul
 One of the former, those who can, the lingering few roaming the edge of the fire, made a mistake. 
 
 He might never recognize it, but he crossed an invisible boundary. It was drawn somehow, and she cannot act but to defend it.
-Perhaps it was drawn by the mark, or perhaps in historic code, or maybe it was only ever drawn in the Dog's mind - but nonetheless - she found his presence insufferable.
+Perhaps it was drawn by the mark, or in historic code, or maybe it was only ever drawn in the Dog's mind - but nonetheless - she found his presence insufferable.
 
 The Mouse has her space, and it will be respected.
 
 And so the Dog sat by the Mouse and growled. She bared her teeth at the interloper, seething with the need to defend her claim - or the one who claimed her? 
-It doesn't matter to the Dog in the moment, she cannot comprehend the intelligent difference, and she cannot help herself from acting on the feeling. She can only act.
+It doesn't matter to the Dog in the moment, she cannot comprehend the intelligent difference, and she cannot help herself from acting on the feeling.
 As soon as it began, the night is over.
 
 
@@ -142,7 +142,6 @@ The Dog and the Mouse work well together.
 They are more together. 
 More than halves of a whole, they are motion, and joy, and work, and play.
 
-The Dog and the Mouse love each other very much. 
 They hold the leash bearing the other's collar. 
 They are marked together by each other, entangled in a mess of fear and ecstasy as they chase the other's tail, running and biting and holding. 
 
@@ -150,7 +149,9 @@ As hard as they can.
 
 And as long as they can.
 
-And now, that girl isn't very lonely anymore. She hasn't been for a while now.
+The Dog and the Mouse love each other very much. 
+
+And so now, that girl isn't very lonely anymore. She hasn't been for a while now.
 
 ---
 
@@ -161,8 +162,6 @@ You make me so comfortable and happy, in my own body, in my own mind, and in my 
 You are the smartest person I know, and I am the luckiest woman in the world to spend my time with you.
 In your eternal wisdom, you've chosen to keep me around, and I am so very happy you have.
 
-With the hope that I may serve by your side as long as I live, I declare that I am in love with you.
-
-Forever and always yours,
+With the hope that I may serve by your side as long as I live, I am forever and always yours.
 
 Juniper <3

@@ -32,13 +32,7 @@ Firepowder is the elder of the two materials in the world of firearms, the other
 |                               |          |             |
 
 ## Southeastern Companies
-### [[SEASEC]] & The Company
-
-| Classification / Project Name | Platform | Description |
-| ----------------------------- | -------- | ----------- |
-|                               |          |             |
-
-### [[TacLight! Arms Co]]
+### [[SEASEC]] & The Company // [[TacLight! Arms Co]]
 
 | Classification / Project Name | Platform | Description |
 | ----------------------------- | -------- | ----------- |
