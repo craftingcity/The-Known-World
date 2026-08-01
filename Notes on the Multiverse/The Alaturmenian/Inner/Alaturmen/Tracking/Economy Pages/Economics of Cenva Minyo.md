@@ -90,7 +90,7 @@ Due to the long term alliance Cenva Minyo has with the [[Dwarven Kingdom Actstow
 ### Magic / Technology
 Has magic influenced any of these things? What about Technology?
 
-Many of the people of Cenva mInyo are minor Artificers by trade; either in the creation of elvenfiber, the use of automata in otherwise mundane work, or the production and creation of these  tools. In addition, many people learn a style of magic specifically developed and used to fight against the [[Its Greatness|White Flame]].
+Many of the people of Cenva mInyo are minor Artificers by trade; either in the creation of elvenfiber, the use of automata in otherwise mundane work, or the production and creation of these tools. In addition, many people learn a style of magic specifically developed and used to fight against the [[Its Greatness|White Flame]] conceptually referred to as "blackfire magic".
 
 ### Other Notes
 - 

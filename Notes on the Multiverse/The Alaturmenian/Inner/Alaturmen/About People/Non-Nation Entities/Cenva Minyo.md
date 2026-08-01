@@ -18,9 +18,11 @@ Its oldest members are the survivors of the [[Great Fires]]. These people have w
 
 After the burning, those that learned to survive began to regroup in the [[Actstow Hills]] and quickly found themselves forming and joining Cenva Minyo - swearing vengeance for their ancestors and promising power for their descendants. 
 
-Cenva Minyo has a longstanding treaty with the [[Dwarven Kingdom Actstow]].
+Cenva Minyo has a longstanding alliance with the [[Dwarven Kingdom Actstow]].
 
 ## Governance
+Each of Cenva Minyo's settlements is indepentantly organized by their Eldare - the oldest inhabitant of the settlement - but the Eldares work together easily and 
+
 [[Yahlin]]'s Eldare is named [[Raam ben Yarom]]
 
 ## Culture
