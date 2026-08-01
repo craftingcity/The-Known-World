@@ -10,6 +10,7 @@ see [[Blood Clans]]
 - [[Amelia Simonson]]
 - [[Arrek Bozkin]]
 - [[Gail Wakquk]]
+- [[Lily-Mae Garqwak]]
 - [[Trxyi Emorin]]
 
 %% End Waypoint %%

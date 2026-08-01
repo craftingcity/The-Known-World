@@ -26,6 +26,7 @@ aliases:
 		- [[Ranger's Guild]]
 - [[Cult of Reborn Glory]]
 - **Druids of the Idols**
+	- [[Circles of Idols]]
 	- [[Druids of Animan]]
 	- [[Druids of Aquan]]
 	- [[Druids of Ignan]]

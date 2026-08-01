@@ -6,7 +6,7 @@ An outreach, and an obligation. A choice to be made, and choices like this one w
 She chose to accept, and she is very glad that she did.
 
 A common occurrence in her circle. There would be an assembly, at night, with provisions, libations, and entertainment. A party, one might say. 
-Sometimes, she could find them fun. Sometimes, they are uncomfortable - all the new people, reintroducing, posturing and positioning for a social order with people you'll never hear from again.
+Sometimes, she could find them fun. Sometimes, they are uncomfortable - all the new faces. Posturing and positioning for a social order with people you'll never hear from again.
 
 Tonight was both. Uncomfortable in the first half, waiting for the people she doesn't know to trail away to wherever they go, and fun in the second, as the night filters the attendees into those who can, and those who have something to do tomorrow.
 
