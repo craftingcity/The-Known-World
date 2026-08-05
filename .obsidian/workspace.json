@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df6b972042a9ca29",
+        "id": "243c98033efe5392",
         "type": "tabs",
         "children": [
           {
-            "id": "14e82a650736248c",
+            "id": "cd5197f036c76242",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,230 +22,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Grand Notepad.md",
+                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "A Grand Notepad"
-            }
-          },
-          {
-            "id": "4c65cbcab6660ebd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Economy Pages"
-            }
-          },
-          {
-            "id": "e29c7d9fcbd783f3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of The Holyl'nds.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Economics of The Holyl'nds"
-            }
-          },
-          {
-            "id": "a7396bac3270c3e2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Economics of the Hobgoblin Territories"
-            }
-          },
-          {
-            "id": "40156892a9f3809f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Economics of Tetrimoc's Desert"
-            }
-          },
-          {
-            "id": "ca33d441e321235e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Prosper.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Economics of Prosper"
-            }
-          },
-          {
-            "id": "70572bde9548456e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Mountain Hall.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Economics of Mountain Hall"
-            }
-          },
-          {
-            "id": "16db244f714b6612",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Economics of Combine"
-            }
-          },
-          {
-            "id": "ad29abc2099a21c2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Coalition City.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Economics of Coalition City"
-            }
-          },
-          {
-            "id": "fc7c1b0919850dd6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Economics of Cenva Minyo"
+              "title": "Lunna, Paladin Werewolf"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       },
       {
-        "id": "56c776672dcb5019",
+        "id": "d6492fa1c751a214",
         "type": "tabs",
         "children": [
           {
-            "id": "a37557ba6e79c9bc",
+            "id": "75dedf40c1bd41aa",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -259,129 +51,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Arms Companies and their Supply Regions.md",
+                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Arms Companies and their Supply Regions"
-            }
-          },
-          {
-            "id": "239aa9e498fc3e2c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Merchant Companies and their Routes.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Merchant Companies and their Routes"
-            }
-          },
-          {
-            "id": "e4084e6ff3b16416",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Currency of Alaturmen"
-            }
-          },
-          {
-            "id": "530deedecb555cab",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Major Agricultural Harvests"
-            }
-          },
-          {
-            "id": "63ee5b0e4675747f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Cenva Minyo"
-            }
-          },
-          {
-            "id": "a9018d53fd4ed6dc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
+              "title": "Lunna, Paladin Werewolf"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -485,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055
+    "width": 297.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -675,17 +354,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9018d53fd4ed6dc",
+  "active": "75dedf40c1bd41aa",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Actstow.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Actstow.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Actstow Hills.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Merchant Companies and their Routes.md",
+    "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of The Holyl'nds.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md",
@@ -694,15 +365,23 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Mountain Hall.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Coalition City.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Arms Companies and their Supply Regions.md",
-    "A Grand Notepad.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Merchant Companies and their Routes.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Actstow.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Actstow.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Actstow Hills.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Food and Drink - South West.md",
     "An Ode to My Love.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Circles of Idols.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ignan.md",
     "Game Notes/Prenotes/'26/Prenotes July 28 26.md",
-    "Game Notes/Prenotes/'26/Prenotes July 23 26.md",
     "Untitled.canvas",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
