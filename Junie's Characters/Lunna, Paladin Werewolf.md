@@ -89,8 +89,8 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
 | CON  | 18 (+4)            | M. HP | 64 Max HP (0/5 Exhaust)   |
 | DEX  | 14 (+2)            | AC    | (20 // 12 & resist B/P/S) |
-| INT  | 9  (-1)            | C. HP | 50 HP                     |
-| WIS  | 14 (+2) ^          | HD    | 5d10 (4/5)                |
+| INT  | 9  (-1)            | C. HP | 61 HP                     |
+| WIS  | 14 (+2) ^          | HD    | 5d10 (3/5)                |
 | CHA  | 14 (+2) ^          | SPD   | 30' // 40'                |
 
 #### Spells
@@ -100,7 +100,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | x   | .   | .   | .   | .   | .   | .    | .   |
 | o   | x   | .   | .   | .   | .   | .   |      |     |
-| o   | .   | .   | .   | .   |     |     | DC   | 13  |
+| x   | .   | .   | .   | .   |     |     | DC   | 13  |
 | .   |     |     |     |     |     |     | ATTK | +5  |
 
 ##### Oath Spells
@@ -281,4 +281,4 @@ We meet with Ireena, and we take the Burghermister's corpse and coffin to the Pa
 
 As we're passing the day, Klarl and I encounter a Fiend that is selling "Dreampastries", that she's getting from a specific house that we know about.
 
-We spend the night.
+We spend the night - but we're interrupted by a bunch of hobbly weird guys.
