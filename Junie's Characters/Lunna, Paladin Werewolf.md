@@ -89,7 +89,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
 | CON  | 18 (+4)            | M. HP | 64 Max HP (0/5 Exhaust)   |
 | DEX  | 14 (+2)            | AC    | (20 // 12 & resist B/P/S) |
-| INT  | 9  (-1)            | C. HP | 61 HP                     |
+| INT  | 9  (-1)            | C. HP | 58 HP                     |
 | WIS  | 14 (+2) ^          | HD    | 5d10 (3/5)                |
 | CHA  | 14 (+2) ^          | SPD   | 30' // 40'                |
 
@@ -277,7 +277,7 @@ We arrive at Ismark's Estate. Today is the 22nd. Outside is a state of disarray,
 
 We meet with Ireena, and we take the Burghermister's corpse and coffin to the Parish in the North side of the Village. The Father of the Parish is holding his Son, who has fallen to Vamparism, in his basement. We killed his son, and he killed himself. Day wasted.
 
-### Session 7 - ""
+### Session 7 - "Zombies Come to the House of the Mayor"
 
 As we're passing the day, Klarl and I encounter a Fiend that is selling "Dreampastries", that she's getting from a specific house that we know about.
 
