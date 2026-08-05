@@ -89,7 +89,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
 | CON  | 18 (+4)            | M. HP | 64 Max HP (0/5 Exhaust)   |
 | DEX  | 14 (+2)            | AC    | (20 // 12 & resist B/P/S) |
-| INT  | 9  (-1)            | C. HP | 58 HP                     |
+| INT  | 9  (-1)            | C. HP | 64 HP                     |
 | WIS  | 14 (+2) ^          | HD    | 5d10 (3/5)                |
 | CHA  | 14 (+2) ^          | SPD   | 30' // 40'                |
 
@@ -98,9 +98,9 @@ You prepare the list of paladin spells that are available for you to cast, choos
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| o   | x   | .   | .   | .   | .   | .   | .    | .   |
-| o   | x   | .   | .   | .   | .   | .   |      |     |
-| x   | .   | .   | .   | .   |     |     | DC   | 13  |
+| o   | o   | .   | .   | .   | .   | .   | .    | .   |
+| o   | o   | .   | .   | .   | .   | .   |      |     |
+| o   | .   | .   | .   | .   |     |     | DC   | 13  |
 | .   |     |     |     |     |     |     | ATTK | +5  |
 
 ##### Oath Spells
@@ -109,8 +109,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - (2*) [Warding Bond](https://dnd5e.wikidot.com/spell:warding-bond)
 - (2*) [Zone of Truth](https://dnd5e.wikidot.com/spell:zone-of-truth)
 ##### Prepared Spells (Prep 4)
-- (1c) [Heroism](https://dnd5e.wikidot.com/spell:heroism)
-	- replace as (2bc) [Magic Weapon](https://dnd5e.wikidot.com/spell:magic-weapon)
+- (2bc) [Magic Weapon](https://dnd5e.wikidot.com/spell:magic-weapon)
 - (1bc) [Shield of Faith](https://dnd5e.wikidot.com/spell:shield-of-faith)
 - (1c) [Detect Evil & Good](https://dnd5e.wikidot.com/spell:detect-evil-and-good)
 - (1c) [Bless](https://dnd5e.wikidot.com/spell:bless)
@@ -168,7 +167,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [Hallow](http://dnd5e.wikidot.com/spell:hallow) spell.
 - You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
-##### Lay on Hands (20/25)
+##### Lay on Hands (25/25)
 - As an action, you can touch a creature and restore a number of hit points, up to the maximum amount remaining in your pool. You regain any spent points on a long rest.
 - Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. 
 	- You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
@@ -282,3 +281,6 @@ We meet with Ireena, and we take the Burghermister's corpse and coffin to the Pa
 As we're passing the day, Klarl and I encounter a Fiend that is selling "Dreampastries", that she's getting from a specific house that we know about.
 
 We spend the night - but we're interrupted by a bunch of hobbly weird guys - zombies.
+
+We rested!
+
