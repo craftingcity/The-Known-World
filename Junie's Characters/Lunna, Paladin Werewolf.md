@@ -84,7 +84,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ## Stats
 
-| L. 5 | XP: 6.9k           | / 14k | (1) Inspiration           |
+| L. 5 | XP: 7.6k           | / 14k | (1) Inspiration           |
 | ---- | ------------------ | ----- | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
 | CON  | 18 (+4)            | M. HP | 64 Max HP (0/5 Exhaust)   |
@@ -281,4 +281,4 @@ We meet with Ireena, and we take the Burghermister's corpse and coffin to the Pa
 
 As we're passing the day, Klarl and I encounter a Fiend that is selling "Dreampastries", that she's getting from a specific house that we know about.
 
-We spend the night - but we're interrupted by a bunch of hobbly weird guys.
+We spend the night - but we're interrupted by a bunch of hobbly weird guys - zombies.
