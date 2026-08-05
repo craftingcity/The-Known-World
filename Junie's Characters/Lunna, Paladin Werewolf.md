@@ -278,3 +278,7 @@ We arrive at Ismark's Estate. Today is the 22nd. Outside is a state of disarray,
 We meet with Ireena, and we take the Burghermister's corpse and coffin to the Parish in the North side of the Village. The Father of the Parish is holding his Son, who has fallen to Vamparism, in his basement. We killed his son, and he killed himself. Day wasted.
 
 ### Session 7 - ""
+
+As we're passing the day, Klarl and I encounter a Fiend that is selling "Dreampastries", that she's getting from a specific house that we know about.
+
+We spend the night.
