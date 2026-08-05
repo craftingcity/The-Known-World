@@ -86,7 +86,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 | L. 5 | XP: 6.9k           | / 14k | (1) Inspiration           |
 | ---- | ------------------ | ----- | ------------------------- |
-| STR  | 14 (+2) // 15 (+2) | PRF   | +2                        |
+| STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
 | CON  | 18 (+4)            | M. HP | 64 Max HP (0/5 Exhaust)   |
 | DEX  | 14 (+2)            | AC    | (20 // 12 & resist B/P/S) |
 | INT  | 9  (-1)            | C. HP | 50 HP                     |
@@ -100,8 +100,8 @@ You prepare the list of paladin spells that are available for you to cast, choos
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | x   | .   | .   | .   | .   | .   | .    | .   |
 | o   | x   | .   | .   | .   | .   | .   |      |     |
-| o   | .   | .   | .   | .   |     |     | DC   | 12  |
-| .   |     |     |     |     |     |     | ATTK | +4  |
+| o   | .   | .   | .   | .   |     |     | DC   | 13  |
+| .   |     |     |     |     |     |     | ATTK | +5  |
 
 ##### Oath Spells
 - (1c*) [Command](https://dnd5e.wikidot.com/spell:command)
