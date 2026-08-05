@@ -204,7 +204,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 	-
 *Torso*:
 	- Black Platemail (18 AC) 
-	- Brass Holy Symbol of Avandra on a Platinum Chain
+	- Brass Holy Symbol of Avandra on a Platinum Chain (three green waves)
 	- Backpack; 
 		- a bedroll 
 		- a mess kit
@@ -214,6 +214,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 		- a crowbar
 		- a waterskin (1/1L)
 		- 50 feet of hempen rope
+		- a wooden stake
 *Groin*:
 	- Black Platemail (18 AC)
 *Legs*:
@@ -276,4 +277,4 @@ We arrive at Ismark's Estate. Today is the 22nd. Outside is a state of disarray,
 
 We meet with Ireena, and we take the Burghermister's corpse and coffin to the Parish in the North side of the Village. The Father of the Parish is holding his Son, who has fallen to Vamparism, in his basement. We killed his son, and he killed himself. Day wasted.
 
-- 1x Wood Stake (of 8 in the party)
+### Session 7 - ""
