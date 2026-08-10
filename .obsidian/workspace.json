@@ -16,18 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Custom Diseases",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Custom Diseases\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Custom Diseases"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -350,8 +352,8 @@
   },
   "active": "2ada8c7e607287ee",
   "lastOpenFiles": [
-    "An Ode to My Love.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
+    "An Ode to My Love.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
