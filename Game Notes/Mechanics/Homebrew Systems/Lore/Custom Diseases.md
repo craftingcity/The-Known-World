@@ -155,4 +155,6 @@ While Transformed, a Lycanthrope experiences the following:
 
 At the beginning of the Lycanthrope's turn, if they are Transformed with Bloodlust, they may make a Wisdom Saving Throw (the DC of which is set by your DM) to dissuade their Bloodlust and regain control of themselves. If they fail, they must make an Attack against a creature of the DM's choice during this turn. If they succeed, their Bloodlust subsides, and the Lycanthrope regains control of themselves.
 
+When the Lycanthrope reduces another creature to 0 or fewer Hit Points, if that creature bleeds, the Lycanthrope makes a Wisdom Saving Throw (the DC of which is set by your DM) or regains their Bloodlust.
+
 first transformation; as their bones crack, break, and grow, their skin becomes taut against their muscles, they grow a thick layer of fur across their body, and their face breaks forward and out to form a canine snout and jaw. When this happens, the creature makes a DC 18 Con Save. If they fail, they die. Otherwise, they are Transformed.
