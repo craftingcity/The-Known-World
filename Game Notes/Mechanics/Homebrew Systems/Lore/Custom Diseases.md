@@ -138,13 +138,21 @@ A creature experiencing the initial symptoms of Lycanthropy are notably more irr
 #### Stage One
 At Stage One, the Lycanthrope is experiencing or has experienced their first Transformation.
 
+A Lycanthrope will be triggered to Transform under stress, intense emotion, or the light of the Full Moon. When triggered this way, the Lycanthrope may make a Wisdom Saving Throw to resist and retain their true form (the DC of which is set by your DM). If they fail, they are Transformed with Bloodlust.
+
+As an Action
+
 While Transformed, a Lycanthrope experiences the following:
  - You cannot speak. 
  - You cannot pick up or hold most items, including traditional weapons.
  - You cannot wear any armor, and if you were wearing armor while you Transform, it is destroyed.
  - Your Armor Class is equal to 10 plus the total of your Dexterity and Constitution Modifiers.
  - Your Strength Modifier is increased by 1.
+ - Your Walking Speed is increased by 10'.
+ - You have Advantage on Perception Checks that rely on hearing or smell.
  - You have Resistance to Bludgeoning, Piercing, or Slashing damage from non-magical or non-silver weapons.
- - You have two Natural Weapons, a Strength-based Bite Attack (2d6) and a Strength-based Claw Attack (1d8). When you make an Attack as an Action using one of the two, you may make another Attack as a Bonus Action using the other Natural Weapon.
+ - You have two Natural Weapons, a Strength-based Bite Attack (2d6) and a Strength-based Claw Attack (1d8). When you make an Attack as an Action using one of the two, you may use your Bonus Action to make an Attack using the other Natural Weapon.
+
+At the beginning of the Lycanthrope's turn, if they are Transformed with Bloodlust, they may make a Wisdom Saving Throw (the DC of which is set by your DM) to dissuade their Bloodlust and regain control of themselves. If they fail, they must make an Attack against a creature of the DM's choice during this turn. If they succeed, their Bloodlust subsides, and the Lycanthrope regains control of themselves.
 
 first transformation; as their bones crack, break, and grow, their skin becomes taut against their muscles, they grow a thick layer of fur across their body, and their face breaks forward and out to form a canine snout and jaw. When this happens, the creature makes a DC 18 Con Save. If they fail, they die. Otherwise, they are Transformed.
