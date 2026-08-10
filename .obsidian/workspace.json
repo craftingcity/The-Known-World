@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "250c9e2e42430c4a",
+        "id": "83d4b268c907de77",
         "type": "tabs",
         "children": [
           {
-            "id": "ca5c1c84953e2973",
+            "id": "2ada8c7e607287ee",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,12 +20,14 @@
               ]
             },
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.4"
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
+              "icon": "lucide-file",
+              "title": "Custom Diseases"
             }
           }
         ]
@@ -323,7 +325,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca5c1c84953e2973",
+  "active": "2ada8c7e607287ee",
   "lastOpenFiles": [
     "Junie's Characters/Lunna, Paladin Werewolf.md",
     "A Grand Notepad.md",

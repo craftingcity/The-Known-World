@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Diseases",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md"
+    },
+    {
       "basename": "Lunna, Paladin Werewolf",
       "path": "Junie's Characters/Lunna, Paladin Werewolf.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Combat Mechanics and Positioning",
       "path": "Game Notes/Mechanics/Homebrew Systems/Ingame/Combat Mechanics and Positioning.md"
-    },
-    {
-      "basename": "Dragoon's Greats Game",
-      "path": "Game Notes/Campaign Rosters/Dragoon's Greats Game.md"
     }
   ],
   "omittedPaths": [],

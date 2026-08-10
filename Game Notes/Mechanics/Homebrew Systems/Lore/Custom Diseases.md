@@ -138,4 +138,13 @@ A creature experiencing the initial symptoms of Lycanthropy are notably more irr
 #### Stage One
 At Stage One, the Lycanthrope is experiencing or has experienced their first Transformation.
 
+While Transformed, a Lycanthrope experiences the following:
+ - You cannot speak. 
+ - You cannot pick up or hold most items, including traditional weapons.
+ - You cannot wear any armor, and if you were wearing armor while you Transform, it is destroyed.
+ - Your Armor Class is equal to 10 plus the total of your Dexterity and Constitution Modifiers.
+ - Your Strength Modifier is increased by 1.
+ - You have Resistance to Bludgeoning, Piercing, or Slashing damage from non-magical or non-silver weapons.
+ - You have two Natural Weapons, a Strength-based Bite Attack (2d6) and a Strength-based Claw Attack (1d8). When you make an Attack as an Action using one of the two, you may make another Attack as a Bonus Action using the other Natural Weapon.
+
 first transformation; as their bones crack, break, and grow, their skin becomes taut against their muscles, they grow a thick layer of fur across their body, and their face breaks forward and out to form a canine snout and jaw. When this happens, the creature makes a DC 18 Con Save. If they fail, they die. Otherwise, they are Transformed.
