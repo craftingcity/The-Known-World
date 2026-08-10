@@ -140,7 +140,7 @@ At Stage One, the Lycanthrope is experiencing or has experienced their first Tra
 
 A Lycanthrope will be triggered to Transform under stress, intense emotion, or the light of the Full Moon. When triggered this way, the Lycanthrope may make a Wisdom Saving Throw to resist and retain their true form (the DC of which is set by your DM). If they fail, they are Transformed with Bloodlust.
 
-As an Action
+As an Action, while in their True Form, the Lycanthrope may choose to Transform. When they do, they immediately make a Wisdom Save to dissuade their Bloodlust.
 
 While Transformed, a Lycanthrope experiences the following:
  - You cannot speak. 
