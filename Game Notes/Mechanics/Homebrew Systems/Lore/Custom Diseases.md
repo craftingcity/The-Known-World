@@ -61,7 +61,12 @@ The Curse of the Witch of Ardor (further referred to as 'Vampirism') is a fey pa
 A creature experiencing the initial symptoms of Vampirism will become pale or discolored, and experience Sunlight Sensitivity (*You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight*). When the diseased creature takes a Long Rest, they make a DC 20 Wis Save. If they fail, their symptoms progress to Stage One.
 
 #### Stage One
-At Stage One, the diseased creature - colloquially known as a Fledgling - experiences a compulsive desire to consume blood. The Fledgeling does not require food or water to maintain their bodily form, they gain resistance to bludgeoning, slashing, and piercing damage from non-magical attacks, and their creature type changes to *undead*. If the Fledgling is exposed to any type of blood, they make a DC 20 Wisdom Save. If they fail, they are compelled to consume the blood by any means necessary. If the Fledgling is exposed to sunlight, they take 2d10 radiant damage each round they are exposed. The Fledgling gains a Strength-based Bite Attack, with which they are proficient. The Bite deals 2d6+STR piercing damage. When they make an Attack this way, they expose their target to Vampirism if their creature type is humanoid or fey.
+At Stage One, the diseased creature - colloquially known as a Fledgling - experiences a compulsive desire to consume blood. The Fledgeling experiences the following effects;
+- Your creature type becomes *undead*, and you do not require food or water to maintain your bodily form.
+- You gain resistance to bludgeoning, slashing, and piercing damage from non-magical attacks
+- If you are exposed to any type of blood, make a DC 20 Wisdom Save. If you fail, you are compelled to consume the blood by any means necessary. 
+- If you are exposed to sunlight, you take 2d10 radiant damage each round you are exposed. 
+- You have a Strength-based Natural Weapon - Bite 2d6+STR piercing damage. When they make an Attack this way, they expose their target to Vampirism if their creature type is humanoid or fey.
 
 When the Fledgeling takes a Long Rest, if they have not consumed fresh blood (collected within 48 hours) of a humanoid or fey since their last Long Rest, their Strength, Dexterity, Wisdom, and Charisma Scores decrease by 1, and they do not regain Hit Points or Hit Dice as normal. If they have, the mentioned Ability Scores instead increase by 1 if they have been reduced by Vampirism, and then, they gain a Vampiric Progression. Then, if they have three or more Vampiric Progression, their symptoms progress to Stage Two, and their Vampiric Progression is reduced to 0.
 
@@ -133,32 +138,32 @@ When a Dhampir is reduced to 0 or fewer Hit Points, if they have any Blood Token
 ### Curse of the Beast* (Lycanthropy)
 The Curse of the Beast (further referred to as 'Lycanthropy') is a fey pathogen that lies latent in the 'dormant' host until it activates, and exerts a violent metamorphic influence over the host, transforming them into a monstrous hybrid of humanoid and beast and flooding their senses with an intense hunger. The disease is spread by ritual or via the bite of an infected person. After failing a DC 17 Con Save upon exposure, initial symptoms occur immediately.
 
-A creature experiencing the initial symptoms of Lycanthropy are notably more irritable and gluttonous than they were before their exposure. Additionally, the diseased creature develops an increased tolerance for pain, and naturally recovers from minor injuries more quickly than they should. On the rise of the next full moon, the diseased creature makes a DC 20 Con Save. If they succeed, they are incapacitated and unconscious until the moon sets the next day. If they fail, they are Transformed and their symptoms progress to Stage One.
+A creature experiencing the initial symptoms of Lycanthropy are notably more irritable and gluttonous than they were before their exposure. Additionally, the diseased creature develops an increased tolerance for pain, and naturally recovers from minor injuries more quickly than they should. On the rise of the next full moon, the diseased creature makes a DC 20 Con Save. If they succeed, they are incapacitated and unconscious until the moon sets the next day. If they fail, they are *Transformed* and their symptoms progress to Stage One.
 
 #### Stage One
-At Stage One, the Lycanthrope is experiencing or has experienced their first Transformation.
+At Stage One, the Lycanthrope is experiencing or has experienced their first *Transformation*.
 
-A Lycanthrope will be triggered to Transform under stress, intense emotion, or the light of the Full Moon. When triggered this way, the Lycanthrope may make a Wisdom Saving Throw to resist and retain their true form (the DC of which is set by your DM). If they fail, they are Transformed with Bloodlust.
+A Lycanthrope will be triggered to *Transform* under stress, intense emotion, or the light of the Full Moon (i.e. whenever you or your DM decides). When triggered this way, the Lycanthrope may make a Wisdom Saving Throw to resist and retain their true form (the DC of which is set by your DM). If they fail, they are *Transformed with Bloodlust*.
 
-As an Action, while in their True Form, the Lycanthrope may choose to Transform. When they do, they immediately make a Wisdom Save to dissuade their Bloodlust.
+As an Action, while in their True Form, the Lycanthrope may choose to Transform. When they do, they immediately make a Wisdom Save to dissuade their *Bloodlust*.
 
-While Transformed, a Lycanthrope experiences the following:
+While *Transformed*, a Lycanthrope experiences the following:
  - You cannot speak. 
  - You cannot pick up or hold most items, including traditional weapons.
- - You cannot wear any armor, and if you were wearing armor while you Transform, it is destroyed.
+ - You cannot wear any armor, and if you are wearing armor while you Transform, it is destroyed.
  - Your Armor Class is equal to 10 plus the total of your Dexterity and Constitution Modifiers.
  - Your Strength Modifier is increased by 1.
  - Your Walking Speed is increased by 10'.
  - You have Advantage on Perception Checks that rely on hearing or smell.
  - You have Resistance to Bludgeoning, Piercing, or Slashing damage from non-magical or non-silver weapons.
- - You have two Natural Weapons, a Strength-based Bite Attack (2d6) and a Strength-based Claw Attack (1d8). When you make an Attack as an Action using one of the two, you may use your Bonus Action to make an Attack using the other Natural Weapon.
+ - You have two Natural Weapons, a Strength-based Bite Attack (2d6) and a Strength-based Claw Attack (1d8). When you make an Attack as an Action using one of your Natural Weapons, you may use your Bonus Action to make an Attack using the other Natural Weapon.
 
-At the beginning of the Lycanthrope's turn, if they are Transformed with Bloodlust, they may make a Wisdom Saving Throw (the DC of which is set by your DM) to dissuade their Bloodlust and regain control of themselves. If they fail, they must make an Attack against a creature of the DM's choice during this turn. If they succeed, their Bloodlust subsides, and the Lycanthrope regains control of themselves.
+At the beginning of the Lycanthrope's turn, if they are *Transformed with Bloodlust*, they may make a Wisdom Saving Throw (the DC of which is set by your DM) to dissuade their *Bloodlust* and regain control of themselves. If they fail, they must make an Attack against a creature of the DM's choice during this turn. If they succeed, their *Bloodlust* subsides, and the Lycanthrope regains control of themselves.
 
-While the Lycanthrope is Transformed, if they have dissuaded their Bloodlust, they may spend their Action to return to their true form. 
+While the Lycanthrope is *Transformed*, if they have dissuaded their *Bloodlust*, they may spend an Action to return to their true form. 
 
 When the Lycanthrope is reduced to 0 or fewer Hit Points, they return to their true form.
 
 When the Lycanthrope returns to their true form, they gain a point of Exhaustion.
 
-When the Lycanthrope reduces another creature to 0 or fewer Hit Points, if that creature bleeds, the Lycanthrope makes a Wisdom Saving Throw (the DC of which is set by your DM) or regains their Bloodlust.
+When the Lycanthrope reduces another creature to 0 or fewer Hit Points, if that creature bleeds, the Lycanthrope makes a Wisdom Saving Throw (the DC of which is set by your DM) or regains their *Bloodlust*.

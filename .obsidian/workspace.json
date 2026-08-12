@@ -33,6 +33,29 @@
             }
           },
           {
+            "id": "79130b268d89c9b0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Custom Diseases"
+            }
+          },
+          {
             "id": "7453df8a515cbf25",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -55,7 +78,8 @@
               "title": "An Ode to My Love"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -350,7 +374,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ada8c7e607287ee",
+  "active": "79130b268d89c9b0",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
     "An Ode to My Love.md",
