@@ -61,17 +61,27 @@ The Curse of the Witch of Ardor (further referred to as 'Vampirism') is a fey pa
 A creature experiencing the initial symptoms of Vampirism will become pale or discolored, and experience Sunlight Sensitivity (*You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight*). When the diseased creature takes a Long Rest, they make a DC 20 Wis Save. If they fail, their symptoms progress to Stage One.
 
 #### Stage One
-At Stage One, the diseased creature - colloquially known as a Fledgling - experiences a compulsive desire to consume blood. The Fledgeling experiences the following effects;
+At Stage One, the diseased creature - colloquially known as a Fledgling - experiences a compulsive desire to consume blood. The Fledgeling experiences the following;
 - Your creature type becomes *undead*, and you do not require food or water to maintain your bodily form.
 - You gain resistance to bludgeoning, slashing, and piercing damage from non-magical attacks
 - If you are exposed to any type of blood, make a DC 20 Wisdom Save. If you fail, you are compelled to consume the blood by any means necessary. 
 - If you are exposed to sunlight, you take 2d10 radiant damage each round you are exposed. 
-- You have a Strength-based Natural Weapon - Bite 2d6+STR piercing damage. When they make an Attack this way, they expose their target to Vampirism if their creature type is humanoid or fey.
+- You have a Strength-based Natural Weapon - Bite (2d6+STR piercing). When you make an Attack this way, you expose their target to Vampirism if their creature type is humanoid or fey.
 
-When the Fledgeling takes a Long Rest, if they have not consumed fresh blood (collected within 48 hours) of a humanoid or fey since their last Long Rest, their Strength, Dexterity, Wisdom, and Charisma Scores decrease by 1, and they do not regain Hit Points or Hit Dice as normal. If they have, the mentioned Ability Scores instead increase by 1 if they have been reduced by Vampirism, and then, they gain a Vampiric Progression. Then, if they have three or more Vampiric Progression, their symptoms progress to Stage Two, and their Vampiric Progression is reduced to 0.
+When the Fledgling takes a Long Rest, if they have not consumed fresh blood (collected within 48 hours) of a humanoid or fey since their last Long Rest, their Strength, Dexterity, Wisdom, and Charisma Scores decrease by 1, and they do not regain Hit Points or Hit Dice as normal. If they have, the mentioned Ability Scores instead increase by 1 if they have been reduced by Vampirism, and then, they gain a Vampiric Progression. Then, if they have three or more Vampiric Progression, their symptoms progress to Stage Two, and their Vampiric Progression is reduced to 0.
 
 #### Stage Two
-At Stage Two, the diseased creature - colloquially known as a Childer - experiences their compulsion as an insatiable need, rather than a simple desire. The Childer gains vulnerability to fire and radiant damage, and cannot enter a residence without permission from an occupant. If the Childer is exposed to blood, they make a DC 18 Wisdom Save. If they fail, they are compelled to consume the blood by any means necessary. If the Childer is exposed to sunlight, they take 3d10 radiant damage each round they are exposed. The Childer gains a Strength-based Bite Attack, with which they are proficient. The Bite deals 3d6+STR piercing damage. When they make an Attack this way, they expose their target to Vampirism if their creature type is humanoid or fey. When the Childer consumes fresh blood (collected within 48 hours) of a humanoid or fey, they gain a Blood Token and expose their target to Vampirism in the process. When the Childer consumes the blood of an animal or beast and kills the creature in the process, they gain a fourth of a Blood Token for each size category the creature is above Tiny. A Childer cannot gain more than two Blood Tokens per Long Rest. A Childer can have at most a number of Blood Tokens equal to the value of their Proficiency Bonus. The Childer cannot gain Hit Points by any means except by spending Blood Tokens.
+At Stage Two, the diseased creature - colloquially known as a Childer - experiences their compulsion as an insatiable need, rather than a simple desire. The Childer experiences the following, in addition to above unless stated otherwise;
+- You gain vulnerability to fire and radiant damage.
+- You cannot enter a residence without permission from an occupant. 
+- If you are exposed to blood, make a DC 18 Wisdom Save. If you fail, you are compelled to consume the blood by any means necessary. 
+- If you are exposed to sunlight, you take 3d10 radiant damage each round you are exposed. 
+- Your Bite now deals 3d6+STR piercing damage. 
+- You cannot gain Hit Points by any means except by spending Blood Tokens.
+- When you consume fresh blood (collected within 48 hours) of a humanoid or fey, you gain a Blood Token
+- When you consumes the blood of an animal or beast and kill the creature in the process, you gain a fourth of a Blood Token for each size category the creature is above Tiny.
+
+A Childer cannot gain more than two Blood Tokens per Long Rest. A Childer can have at most a number of Blood Tokens equal to the value of their Proficiency Bonus. 
 
 When a Fledgling becomes a Childer, they gain their *Vampiric Legacy*. Their *Vampiric Legacy* is the same as their Sire's, if the Sire has one. If they don't, the Childer gains one of the following at random:
  - *Sulkar*. Vampires of *Sulkar*'s Legacy are subjected to their progenitor's obsession with Magic and Power, and the pact he made with the [[Arstovich]], granting them a modest reserve of inherent magic and an everlasting greed for knowledge. 
@@ -115,7 +125,14 @@ A Childer can spend Blood Tokens in the following manners. You may only spend a 
 When the Childer takes a Long Rest, if they have a number of Blood Tokens equal to the value of their Proficiency Bonus, they gain a Vampiric Progression. Then, if they have twelve or more Vampiric Progression, their symptoms progress to Stage Three and their Vampiric Progression is reduced to 0.
 
 #### Stage Three
-At Stage Three, the diseased creature - colloquially known as a Dhampir - experiences little to no connection to the person they once were as their power and desires grow beyond humane. The Dhampir is immune to bludgeoning, slashing, and piercing damage from non-magical attacks. If the Dhampir is exposed to blood, they make a DC 15 Wisdom Save. If they fail, they are compelled to consume the blood by any means necessary. If the Dhampir are directly exposed to open flame, fire damage, or hallowed areas or objects, they make a DC 25 Wisdom Save or they become Frightened of the source of exposure for the next minute. If the Dhampir is exposed to sunlight, they take 5d10 radiant damage each round they are exposed. The Dhampir gains a Strength-based Bite Attack, with which they are proficient. The Bite deals 4d6+STR piercing damage. When they make an Attack this way, they expose their target to Vampirism if their creature type is humanoid or fey. When the Dhampir consumes fresh blood (collected within 48 hours) of a humanoid or fey, they gain a Blood Token and expose their target to Vampirism in the process. When the Dhampir consumes the blood of an animal or beast and kills the creature in the process, they gain a fourth of a Blood Token for each size category the creature is above Tiny. A Dhampir cannot gain more than five Blood Tokens per Long Rest. A Dhampir can have at most a number of Blood Tokens equal to thrice the value of their Proficiency Bonus. The Dhampir cannot gain Hit Points by any means except by spending Blood Tokens. When a Dhampir has a number of Blood Tokens less than or equal to their Proficiency Bonus, they cannot take a Long Rest without consuming blood.
+At Stage Three, the diseased creature - colloquially known as a Dhampir - experiences little to no connection to the person they once were as their power and desires grow beyond humane. The Dhampir experiences the following, in addition to above unless otherwise stated;
+- You are immune to bludgeoning, slashing, and piercing damage from non-magical attacks. 
+- If you are exposed to blood, make a DC 15 Wisdom Save. If you fail, you are compelled to consume the blood by any means necessary. 
+- If you are directly exposed to open flame, fire damage, or hallowed areas or objects, make a DC 25 Wisdom Save. If you fail, you become Frightened of the source of exposure for the next minute. 
+- If you are exposed to sunlight, you take 5d10 radiant damage each round you are exposed. 
+- Your Bite deals 4d6+STR piercing damage
+
+A Dhampir cannot gain more than five Blood Tokens per Long Rest. A Dhampir can have at most a number of Blood Tokens equal to thrice the value of their Proficiency Bonus. When a Dhampir has a number of Blood Tokens less than or equal to their Proficiency Bonus, they cannot take a Long Rest without consuming blood.
 
 A Dhampir can spend Blood Tokens in the following manners. You may only spend a whole number of Blood Tokens this way.
  - As an Action, spend any number of Blood Tokens. When you do, you roll and expend a hit die to regain a number of hit points equal to twice the result plus twice your Con for each Blood Token you spent.
@@ -157,13 +174,12 @@ While *Transformed*, a Lycanthrope experiences the following:
  - You have Advantage on Perception Checks that rely on hearing or smell.
  - You have Resistance to Bludgeoning, Piercing, or Slashing damage from non-magical or non-silver weapons.
  - You have two Natural Weapons, a Strength-based Bite Attack (2d6) and a Strength-based Claw Attack (1d8). When you make an Attack as an Action using one of your Natural Weapons, you may use your Bonus Action to make an Attack using the other Natural Weapon.
+ - If you have dissuaded your *Bloodlust*, you may spend an Action to return to your true form.
+ - When you are reduced to 0 or fewer Hit Points, you are returned to your true form.
+ - When the Lycanthrope returns to their true form, they gain a point of Exhaustion.
 
 At the beginning of the Lycanthrope's turn, if they are *Transformed with Bloodlust*, they may make a Wisdom Saving Throw (the DC of which is set by your DM) to dissuade their *Bloodlust* and regain control of themselves. If they fail, they must make an Attack against a creature of the DM's choice during this turn. If they succeed, their *Bloodlust* subsides, and the Lycanthrope regains control of themselves.
 
-While the Lycanthrope is *Transformed*, if they have dissuaded their *Bloodlust*, they may spend an Action to return to their true form. 
 
-When the Lycanthrope is reduced to 0 or fewer Hit Points, they return to their true form.
-
-When the Lycanthrope returns to their true form, they gain a point of Exhaustion.
 
 When the Lycanthrope reduces another creature to 0 or fewer Hit Points, if that creature bleeds, the Lycanthrope makes a Wisdom Saving Throw (the DC of which is set by your DM) or regains their *Bloodlust*.
