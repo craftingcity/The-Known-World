@@ -68,7 +68,7 @@ At Stage One, the diseased creature - colloquially known as a Fledgling - experi
 - If you are exposed to sunlight, you take 2d10 radiant damage each round you are exposed. 
 - You have a Strength-based Natural Weapon - Bite (2d6+STR piercing). When you make an Attack this way, you expose their target to Vampirism if their creature type is humanoid or fey.
 
-When the Fledgling takes a Long Rest, if they have not consumed fresh blood (collected within 48 hours) of a humanoid or fey since their last Long Rest, their Strength, Dexterity, Wisdom, and Charisma Scores decrease by 1, and they do not regain Hit Points or Hit Dice as normal. If they have, the mentioned Ability Scores instead increase by 1 if they have been reduced by Vampirism, and then, they gain a Vampiric Progression. Then, if they have three or more Vampiric Progression, their symptoms progress to Stage Two, and their Vampiric Progression is reduced to 0.
+When the Fledgling takes a Long Rest, if they have not consumed fresh blood (collected within 48 hours) of a humanoid or fey since their last Long Rest, their Strength, Dexterity, Wisdom, and Charisma Scores decrease by 1, and they do not regain Hit Points or Hit Dice as normal. If they have, the mentioned Ability Scores instead increase by 1 if they have been reduced by Vampirism, and then, they gain a Bestial Progression. Then, if they have three or more Bestial Progression, their symptoms progress to Stage Two, and their Bestial Progression is reduced to 0.
 
 #### Stage Two
 At Stage Two, the diseased creature - colloquially known as a Childer - experiences their compulsion as an insatiable need, rather than a simple desire. The Childer experiences the following, in addition to above unless stated otherwise;
@@ -122,7 +122,7 @@ A Childer can spend Blood Tokens in the following manners. You may only spend a 
  - As a Bonus Action, spend a Blood Token to cast *charm person* or *charm monster*. Your Charisma is your spellcasting Ability for this spell.
  - As a Bonus Action or a Reaction, spend a Blood Token. When you do, you gain +3 to Ability Checks, Saving Throws, and Attack Rolls made with your Strength, Dexterity, or Constitution Modifiers until the beginning of your next turn.
 
-When the Childer takes a Long Rest, if they have a number of Blood Tokens equal to the value of their Proficiency Bonus, they gain a Vampiric Progression. Then, if they have twelve or more Vampiric Progression, their symptoms progress to Stage Three and their Vampiric Progression is reduced to 0.
+When the Childer takes a Long Rest, if they have a number of Blood Tokens equal to the value of their Proficiency Bonus, they gain a Bestial Progression. Then, if they have twelve or more Bestial Progression, their symptoms progress to Stage Three and their Bestial Progression is reduced to 0.
 
 #### Stage Three
 At Stage Three, the diseased creature - colloquially known as a Dhampir - experiences little to no connection to the person they once were as their power and desires grow beyond humane. The Dhampir experiences the following, in addition to above unless otherwise stated;
@@ -141,9 +141,9 @@ A Dhampir can spend Blood Tokens in the following manners. You may only spend a 
  - As a Bonus Action or a Reaction, spend a Blood Token. When you do, you gain +5 to Ability Checks, Saving Throws, and Attack Rolls made with your Strength, Dexterity, or Constitution Modifiers until the beginning of your next turn.
  - As a Reaction, spend a Blood Token to re-roll an Ability Check or Saving Throw you failed.
 
-When the Dhampir takes a Long Rest, if they have a number of Blood Tokens equal to thrice the value of their Proficiency Bonus, they gain a Vampiric Progression.
+When the Dhampir takes a Long Rest, if they have a number of Blood Tokens equal to thrice the value of their Proficiency Bonus, they gain a Bestial Progression.
 
-A Dhampir can spend Vampiric Progression in the following manners.
+A Dhampir can spend Bestial Progression in the following manners.
  - At any time, you may spend any number of Vampiric Progression to gain that number of Blood Tokens.
  - As an Action, touch a creature that is Charmed by you and spend a Vampiric Progression. When you do, they make a Charisma Saving Throw against your Charisma Score. If they fail, they become Bonded to you, considering you as an important ally and friend. This Bond lasts until you dismiss it, or you die. You may have no more Bonds than the value of your Charisma Modifier.
  - During a Long Rest, spend five Vampiric Progression. When you do, choose an Ability Score to increase by 1 to a maximum of 30. Then, you are incapacitated for 24 hours.
@@ -176,10 +176,10 @@ While *Transformed*, a Lycanthrope experiences the following:
  - You have two Natural Weapons, a Strength-based Bite Attack (2d6) and a Strength-based Claw Attack (1d8). When you make an Attack as an Action using one of your Natural Weapons, you may use your Bonus Action to make an Attack using the other Natural Weapon.
  - If you have dissuaded your *Bloodlust*, you may spend an Action to return to your true form.
  - When you are reduced to 0 or fewer Hit Points, you are returned to your true form.
- - When the Lycanthrope returns to their true form, they gain a point of Exhaustion.
+ - When you return to your true form, you gain a point of Exhaustion.
 
 At the beginning of the Lycanthrope's turn, if they are *Transformed with Bloodlust*, they may make a Wisdom Saving Throw (the DC of which is set by your DM) to dissuade their *Bloodlust* and regain control of themselves. If they fail, they must make an Attack against a creature of the DM's choice during this turn. If they succeed, their *Bloodlust* subsides, and the Lycanthrope regains control of themselves.
 
+When the Lycanthrope reduces another creature to 0 or fewer Hit Points, if that creature bleeds and the Lycanthrope is *Transformed with Bloodlust*, the Lycanthrope makes a Wisdom Saving Throw (the DC of which is set by your DM). If they fail, they spend their next available Action consuming the flesh of the creature and they gain a Bestial Progression.
 
-
-When the Lycanthrope reduces another creature to 0 or fewer Hit Points, if that creature bleeds, the Lycanthrope makes a Wisdom Saving Throw (the DC of which is set by your DM) or regains their *Bloodlust*.
+When the Lycanthrope has three or more Bestial Progression, they 
