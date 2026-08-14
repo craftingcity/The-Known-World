@@ -16,7 +16,9 @@ Most people turn this into a basic bread or cake.
 ### Food
 What lives here?
 #### Meat
-We eat goat if we're in the city, or worms if we're outside. Or people. Y'know, if you have to... Meat is uncommon here, always a delicacy.
+Meat is uncommon here, always a delicacy.
+
+We eat goat if we're in the city, or worms if we're outside. Or people, if you are really far outside.
 
 #### Dairy
 Goat or Worm milks are the only choices presented to the common folk of the Desert. Rarely, and at great expense, nut milk can be locally produced or dairy can be imported from the east. Most people go without dairy in the deserts.
@@ -37,9 +39,11 @@ An expensive business is the import of eastern fruit, not only for the cost of t
 We import cheap mushrooms & potatoes, but we can grow corn, carrots, and sometimes tomatoes.
 
 #### Spice and Oil
-Rosemary, Lavender, Oregano,
+Rosemary, Lavender, Oregano, Cumin, Paprika, Saffron, Corriander, and Cinnamon.
 
 Olives and Almonds grow on the West bank of the [[Alvalini River]].
+
+The oil made from the olives grown in the Desert is the most desirable cooking-oil on the surface of Alaturmen.
 
 #### Delicacy
 Chevron & Fruit salad.
