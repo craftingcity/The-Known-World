@@ -34,7 +34,7 @@ aliases:
 		- [[Custom Diseases]]
 		- [[Custom Features]]
 		- [[Custom Heritages]]
-		- [[Custom Languages]]
+		- [[Understanding Other Languages]]
 - **Homebrew Weapons**
 	- [[Custom Weapon Mechanics]]
 	- [[Weapons of Alaturmen]]

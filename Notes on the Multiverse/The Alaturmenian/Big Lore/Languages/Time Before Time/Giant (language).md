@@ -1,5 +1,7 @@
 ---
-tags: stub, language
+tags: 
+- stub
+- language
 aliases:
 ---
 

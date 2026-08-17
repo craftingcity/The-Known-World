@@ -59,7 +59,7 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. Benkaei Avory
 	D. Ginger Ak-kizi
 
-12. The Bandit Lords were largely destroyed before the Coalition came to be. Which of the following Bandit Lord clans is still active?
+12. The Bandit Lords were largely destroyed before the Coalition came to be. Which of the following Bandit Lord clans was still active in the years after?
 	A. Arstovich
 	B. Hollyanne
 	C. Vannis
@@ -133,4 +133,36 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 
 29. I rolled really well on this new character we're making. With 18 in each Ability Score, the Scores total to 108. Can we play this character? Why or why not (1 point)?
 
-30. 
+30. I was looking through the options on the Wiki we use, and some of the entries are marked as UA. What does that mean? Can we use them for our character (1 point)?
+
+## Extra Credit
+
+EC1. Which of the following regions are NOT occupied by one of the major factions on Alaturmen?
+	A. Lord's Folly
+	B. Central Third
+	C. South Quillbuck Jungle
+	D. Greenhilles
+
+EC2. Which of the following phenomenon is "a material infection ... potent against ferrous metallics"?
+	A. Radiation
+	B. Black Blood Curse
+	C. Boil Pox
+	D. Purple District
+
+EC3. Which of the following languages is NOT spoken on the surface of Alaturmen today?
+	A. Ancient Elven
+	B. King's Common
+	C. Draconic
+	D. Giant
+
+EC4. Which of the following regions are NOT occupied by one of the major factions on Alaturmen?
+	A. 
+	B. 
+	C. 
+	D.
+
+EC5. Which of the following regions are NOT occupied by one of the major factions on Alaturmen?
+	A. 
+	B. 
+	C. 
+	D.
