@@ -182,4 +182,4 @@ At the beginning of the Lycanthrope's turn, if they are *Transformed with Bloodl
 
 When the Lycanthrope reduces another creature to 0 or fewer Hit Points, if that creature bleeds and the Lycanthrope is *Transformed with Bloodlust*, the Lycanthrope makes a Wisdom Saving Throw (the DC of which is set by your DM). If they fail, they spend their next available Action consuming the flesh of the creature and they gain a Bestial Progression.
 
-When the Lycanthrope has three or more Bestial Progression, they 
+When the Lycanthrope has three or more Bestial Progression, they may increase an Ability Score of their choice by 1 by spending three Bestial Progression.
