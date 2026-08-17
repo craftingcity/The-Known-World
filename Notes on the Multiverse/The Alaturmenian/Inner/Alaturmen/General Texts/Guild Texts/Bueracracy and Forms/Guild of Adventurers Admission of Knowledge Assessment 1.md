@@ -34,7 +34,7 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	A. The Northstone Family Trading Company
 	B. Golden Merchant's Company
 	C. The Harvord Trading Company
-	D. The Mossburg Corperation
+	D. The Mossburg Corporation
 
 5. The Golden Claws worship the entity known as Tetrimoc. Which of the following words best describes the type of entity Tetrimoc is?
 	A. Humanoid
@@ -65,13 +65,13 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. Vannis
 	D. Moore
 
-13. The Council of Mages is or was a powerful force of tempered control for the surface of Alaturmen. Which of the following people are NOT members of the Council of Mages
+13. The Council of Mages is or was a powerful force of tempered control for the surface of Alaturmen. Which of the following people are (or were) NOT members of the Council of Mages
 	A. Alergra Barrowinch
 	B. Nicolas Talaveem
 	C. Qiell Tilemundon
 	D. Jorrin Bearscarred
 
-14.
+14. 
 	A.
 	B.
 	C.
