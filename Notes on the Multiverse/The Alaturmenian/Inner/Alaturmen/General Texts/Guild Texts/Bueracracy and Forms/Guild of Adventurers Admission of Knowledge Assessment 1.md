@@ -119,11 +119,11 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. Extramis
 	D. Mountain Troopers
 
-25. Which of the following sce
-	A.
-	B.
-	C.
-	D.
+25. Which of the following scenarios grants Disadvantage to the Attacker?
+	A. The Attacker is Grappled
+	B. The Attacker is Stunned
+	C. The Attacker is Flanked
+	D. The Attacker is Frightened
 
 26. 
 
