@@ -198,7 +198,7 @@ Deep within the Walled ruins, there is some artifact that the White Flame was at
 <The Fallen speak [[Ancient Elvish (language)]], and have access to an incredible arsenal. Fallen will gather in groups of 8-32+. We have no need for designation, for we are one under the Obelisk.>
 
 ###### Equipment
-The Fallen are more than well equipped, sporting heavily modded Durandurm Carbines or Machine Repeaters, powered armors, and an array of the finest ammunition, explosives, and artifacts in Minyostalma.
+The Fallen are more than well-equipped, sporting heavily modded Durandurm Carbines or Machine Repeaters, powered armors, and an array of the finest ammunition, explosives, and artifacts in Minyostalma.
 
 | Class (lvl)        | HP  | AC                          | ATK      | DMG                          |
 | ------------------ | --- | --------------------------- | -------- | ---------------------------- |
@@ -217,4 +217,6 @@ The Fallen are more than well equipped, sporting heavily modded Durandurm Carbin
 	- <Blessed be the Obelisk. Ohum, Obelisk. Blessed be the Obelisk. Ohum, Obelisk.>
 
 ###### Politics
-- <Kill the heretic, burn the infidel, slay the invader.>
+- <Kill the heretic.>
+- <Burn the infidel.>
+- <Slay the invader.>

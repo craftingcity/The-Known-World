@@ -60,137 +60,8 @@
               "icon": "lucide-file",
               "title": "Mechanics"
             }
-          },
-          {
-            "id": "79130b268d89c9b0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 2,
-              "stack": [
-                {
-                  "title": "Dwarven Kingdom Suremantle",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Dwarven Kingdom Suremantle\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":40},\"to\":{\"line\":31,\"ch\":40}},\"scroll\":12.999912935697976}"
-                },
-                {
-                  "title": "Mountain Hall",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Mountain Hall.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Mountain Hall\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":35},\"to\":{\"line\":7,\"ch\":35}},\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Guild of Adventurers Admission of Knowledge Assessment 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Guild of Adventurers Admission of Knowledge Assessment 1\",\"popstate\":true}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":118,\"ch\":4},\"to\":{\"line\":118,\"ch\":4}},\"scroll\":105.27260499851985}"
-                },
-                {
-                  "title": "RHoD Test 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/RHoD Test 1.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"RHoD Test 1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Custom Diseases",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Custom Diseases\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The People..."
-            }
-          },
-          {
-            "id": "35e5baff5835f8e1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Sivir Bagwell",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Council of Eight NPCs/Sivir Bagwell.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Sivir Bagwell\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/NPCs.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "NPCs"
-            }
-          },
-          {
-            "id": "7453df8a515cbf25",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "An Ode to My Love.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "An Ode to My Love"
-            }
-          },
-          {
-            "id": "1dd280f07739e788",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Grand Pantheon"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "d8e153df59ec3b81",
@@ -260,8 +131,7 @@
               "title": "A Grand Notepad"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -556,20 +426,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79130b268d89c9b0",
+  "active": "2ada8c7e607287ee",
   "lastOpenFiles": [
-    "A Grand Notepad.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+    "Game Notes/Mechanics/Mechanics.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md",
+    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
+    "An Ode to My Love.md",
+    "Game Notes/NPCs/NPCs.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The People....md",
+    "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Mountain Hall.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
-    "Game Notes/Mechanics/Mechanics.md",
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Mechanics of Plane-walking.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-    "An Ode to My Love.md",
     "Game Notes/NPCs/Mild Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md",
-    "Game Notes/NPCs/NPCs.md",
     "Game Notes/NPCs/High Power/Council of Eight NPCs/Sivir Bagwell.md",
     "Game Notes/Campaign Rosters/RHoD Test 1.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",

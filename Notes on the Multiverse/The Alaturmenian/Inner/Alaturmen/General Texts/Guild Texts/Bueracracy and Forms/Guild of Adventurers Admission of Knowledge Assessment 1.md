@@ -101,7 +101,7 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. Warlock
 	D. Bard
 
-22. Which of the following martial classes gains the most powerful Extra Attack feature?
+22. Which of the following martial classes gains an Extra Attack feature that grants them more than two Attacks?
 	A. Fighter
 	B. Monk
 	C. Barbarian
@@ -113,13 +113,13 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. The Attacker is Restraining their Target
 	D. The Attacker is Grappling their Target
 
-24. Which of the following military factions operating in Minyostalma does NOT provide a firearm-specific bonus feat? 
+24. Which of the following military factions operating in Minyostalma is NOT granted a firearm-specific feat via training? 
 	A. The Company's Mercenaries
 	B. White Flame Militants
 	C. Extramis
 	D. Mountain Troopers
 
-25. 
+25. Which of the following sce
 	A.
 	B.
 	C.
