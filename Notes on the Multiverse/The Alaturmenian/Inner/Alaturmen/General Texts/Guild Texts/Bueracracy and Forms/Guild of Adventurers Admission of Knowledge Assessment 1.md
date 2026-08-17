@@ -125,12 +125,12 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. The Attacker is Flanked
 	D. The Attacker is Frightened
 
-26. 
+26. I am casting *Counterspell* at 3rd Level targeting an opposing caster's 4th Level *Dimension Door*. What happens (2+ points)?
 
-27.
+27. I am a 4th Level Fighter, and I am going to level up. I keep going down during fights, even though my stats are good. Should I multiclass? Which class would you recommend, and why (2+ points)?
 
-28.
+28. We're making a new character, and I want them to have parents of different heritages. What happens when someone plays a "half-heritage" character (1 point)?
 
-29.
+29. I rolled really well on this new character we're making. With 18 in each Ability Score, the Scores total to 108. Can we play this character? Why or why not (1 point)?
 
-30.
+30. 
