@@ -102,4 +102,39 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	B.
 	C.
 	D.
+
 22.
+	A.
+	B.
+	C.
+	D.
+
+23.
+	A.
+	B.
+	C.
+	D.
+
+24.
+	A.
+	B.
+	C.
+	D.
+
+25.
+	A.
+	B.
+	C.
+	D.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+## Extra Credit
