@@ -30,7 +30,7 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. The Dampguard
 	D. The Nobles of Mountainhall
 
-4. Which of the following major companies is owned and operated by The Kingdom of Prosper?
+4. Which of the following merchant's companies is owned and operated by The Kingdom of Prosper?
 	A. The Northstone Family Trading Company
 	B. Golden Merchant's Company
 	C. The Harvord Trading Company
@@ -46,14 +46,14 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 
 7. In the Deserts of Tetrimoc, the town of Kickoff is the most potent harvesting grounds for what rare and powerful material (1 point)?
 
-8. Coalition City is sectioned into eight wards, each of which serves a specific purpose within the city. What is the name of the ninth ward that serves as overflow from the other wards, and as the central pathway through the city (1 point)?
+8. Coalition City is sectioned into eight wards, each of which serves a specific purpose within the city. What is the name of the ninth ward that serves as both an overflow for the other wards, and as the central pathway through the city (1 point)?
 
 9. The Kingdom of Prosper is an empire with a brutal history of war. What do the people call the first war the Kingdom waged (1 point)?
 
 10. Name or describe a major commodity exported by a member-faction of the Democratic Combine of Peoples (1 point)? 
 
 ## Important Names
-11. Who among the following four powerful women do not claim the title of 'The Red Mistress'?
+11. Who among the following powerful women do not claim the title of 'The Red Mistress'?
 	A. Alergra Barrowinch
 	B. Agrandica Alamore
 	C. Benkaei Avory
@@ -65,24 +65,23 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. Vannis
 	D. Moore
 
-13. The Council of Mages is or was a powerful force of tempered control for the surface of Alaturmen. Which of the following people are (or were) NOT members of the Council of Mages?
+13. The Council of Mages is (or was) a powerful force of tempered control for the surface of Alaturmen. Who among the following people are (or were) NOT members of the Council of Mages?
 	A. Alergra Barrowinch
 	B. Nicolas Talaveem
 	C. Qiell Tilemundon
 	D. Jorrin Bearscarred
 
-14. Who among the following four people are NOT leading a major faction?
-	A. 
+14. Who among the following people are NOT leading a major faction?
+	A. Houran Venclaw
 	B. Hektor Salar
 	C. Arthur Simonson
 	D. Abraham the Wise
-	
 
-15.
-	A.
-	B.
-	C.
-	D.
+15. Who among the following extra-planar entities have made repeated attempts at assaulting our home plane, Alaturmen?
+	A. Asmodeus
+	B. Annaraura
+	C. Orcus
+	D. Demogorgon
 
 
 16.

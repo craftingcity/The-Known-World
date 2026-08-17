@@ -5,8 +5,24 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md"
     },
     {
+      "basename": "Grand Pantheon",
+      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
+    },
+    {
+      "basename": "An Ode to My Love",
+      "path": "An Ode to My Love.md"
+    },
+    {
+      "basename": "The Wizard In Blue",
+      "path": "Game Notes/NPCs/Mild Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md"
+    },
+    {
       "basename": "NPCs",
       "path": "Game Notes/NPCs/NPCs.md"
+    },
+    {
+      "basename": "Sivir Bagwell",
+      "path": "Game Notes/NPCs/High Power/Council of Eight NPCs/Sivir Bagwell.md"
     },
     {
       "basename": "RHoD Test 1",
@@ -19,10 +35,6 @@
     {
       "basename": "Custom Diseases",
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md"
-    },
-    {
-      "basename": "An Ode to My Love",
-      "path": "An Ode to My Love.md"
     },
     {
       "basename": "Lunna, Paladin Werewolf",
@@ -169,10 +181,6 @@
       "path": "Untitled.md"
     },
     {
-      "basename": "Grand Pantheon",
-      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
-    },
-    {
       "basename": "Abricadabrin",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Abricadabrin.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "The Gear...",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md"
-    },
-    {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
-    },
-    {
-      "basename": "The Texts Druidic",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Major World Texts/The Texts Druidic.md"
     }
   ],
   "omittedPaths": [],
