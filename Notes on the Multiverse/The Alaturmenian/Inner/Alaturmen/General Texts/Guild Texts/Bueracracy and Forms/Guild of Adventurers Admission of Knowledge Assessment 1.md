@@ -95,19 +95,19 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 
 ## Mechanics Mastery
 
-21.
-	A.
-	B.
-	C.
-	D.
+21. Which of the following spellcasting classes never gains more than two spell-slots? 
+	A. Paladin
+	B. Wizard
+	C. Warlock
+	D. Bard
 
-22.
-	A.
-	B.
-	C.
-	D.
+22. Which of the following martial classes gains the most powerful Extra Attack feature?
+	A. Fighter
+	B. Monk
+	C. Barbarian
+	D. Blood Hunter
 
-23.
+23. 
 	A.
 	B.
 	C.
@@ -134,5 +134,3 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 29.
 
 30.
-
-## Extra Credit

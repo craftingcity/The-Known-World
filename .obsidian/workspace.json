@@ -8,6 +8,41 @@
         "type": "tabs",
         "children": [
           {
+            "id": "79130b268d89c9b0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "RHoD Test 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/RHoD Test 1.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"RHoD Test 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Custom Diseases",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Custom Diseases\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Guild of Adventurers Admission of Knowledge Assessment 1"
+            }
+          },
+          {
             "id": "2ada8c7e607287ee",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -105,47 +140,6 @@
               },
               "icon": "lucide-file",
               "title": "Grand Pantheon"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0fac165130f915bf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "79130b268d89c9b0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "RHoD Test 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/RHoD Test 1.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"RHoD Test 1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Custom Diseases",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Custom Diseases\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Guild of Adventurers Admission of Knowledge Assessment 1"
             }
           }
         ]
@@ -252,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055
+    "width": 297.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -442,7 +437,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ada8c7e607287ee",
+  "active": "79130b268d89c9b0",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
