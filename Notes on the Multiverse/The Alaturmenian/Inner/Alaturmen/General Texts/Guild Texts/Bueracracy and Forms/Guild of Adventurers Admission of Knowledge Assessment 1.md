@@ -113,13 +113,13 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. The Attacker is Restraining their Target
 	D. The Attacker is Grappling their Target
 
-24.
-	A.
-	B.
-	C.
-	D.
+24. Which of the following military factions operating in Minyostalma does NOT provide a firearm-specific bonus feat? 
+	A. The Company's Mercenaries
+	B. White Flame Militants
+	C. Extramis
+	D. Mountain Troopers
 
-25.
+25. 
 	A.
 	B.
 	C.

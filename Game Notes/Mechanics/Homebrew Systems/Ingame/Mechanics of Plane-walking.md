@@ -29,11 +29,11 @@ For every Concentration & (or) Progress check you make (our mechanical represent
 ### DC / Progress Table
 
 | Destination          | Plane-Sheet Color         | Concentration DC | Progress DC | Progress Required |
-|----------------------|---------------------------|------------------|-------------|-------------------|
-| Ethereal Plane       | Grey                      | 8                | 0           | 3                |
+| -------------------- | ------------------------- | ---------------- | ----------- | ----------------- |
+| Ethereal Plane       | Grey                      | 8                | 0           | 3                 |
 | Astral Sea           | Pink                      | 14               | 8           | 5                 |
-| Mirror Planes        | Light Green / Dark Purple | 17               | 14          | 9                |
-| Elemental Planes     | Red/Green/Blue/Light Blue | 18               | 16          | 7                 |
+| Mirror Planes        | Light Green / Dark Purple | 17               | 14          | 9                 |
+| Elemental Planes     | Red/Green/Blue/White      | 18               | 16          | 7                 |
 | Lower Planes         | Dark Red / Crimson Black  | 21               | 6           | 6                 |
 | Shores of River Styx | Thin Grey                 | 24               | 20          | 8                 |
 | Upper Planes         | Peach White / Cream White | 26               | 24          | 24                |

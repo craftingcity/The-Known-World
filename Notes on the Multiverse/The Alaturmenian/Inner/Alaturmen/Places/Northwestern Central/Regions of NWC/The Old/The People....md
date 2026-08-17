@@ -8,7 +8,7 @@ aliases:
 Many people who come and go from this place are peaceful folk who need money, and try their luck in the prosperous ruins of [[The Old|Minyostalma]]. The most unprepared are those that believe anyone they encounter is not willing to kill them for their findings.
 
 ##### Scavengers
-A collective name for the individuals and groups without a greater affiliation to a faction without or within the Old. Most of these people came to find their fortune, and were miserably mistaken. They have likely tried and failed to escape this place, and have instead reluctantly gathered with others to survive in this place.
+A collective name for the individuals and groups without a greater affiliation to a faction within or without Minyostalma. Most of these people came to find their fortune, and were miserably mistaken. They have likely tried and failed to escape this place, and have instead reluctantly gathered with others to survive.
 
 Scavs tend to group together in buddy-groups (2-4), teams (4-6), or gangs (8+). Typically, our groups are named after our leaders (Eg. *Nail's Gang*).
 
@@ -81,7 +81,7 @@ The WFM are reasonably equipped for military containment, but undersupplied for 
 ##### Mercenaries
 Hired soldiers willing to keep their employer's identity secret, the Mercenary groups within the Old are mysterious and fickle. While often reliable, when an opportunity presents itself, the Mercenaries have no issue betraying their otherwise well-earned trust for the benefit of their patrons. 
 
-Mercenaries are typically grouped into squads (3-6) or teams (8-12). Our groups are assigned names after the Tactical Alphabet (Eg. *Delta-3*).
+Mercenaries are typically grouped into squads (3-6) or teams (8-12). Our groups are assigned names after the Tactical Alphabet (Eg. *Delta-3* or *Epsilon-2*).
 
 | Class (lvl)              | HP  | AC                          | ATK      | DMG                           |
 | ------------------------ | --- | --------------------------- | -------- | ----------------------------- |
@@ -98,7 +98,7 @@ The Mercenaries are well-equipped.
 - [[The Places...#The Factory]]
 	- Home sweet home, Factory HQ.
 	- Chokepoints help *Mercenaries* fight against *Militants*, *Scavs*, and *Troopers* to maintain control of the area.
-	- Thankfully, *Fallen* don't come up this far.
+	- Thankfully, *Fallen* don't usually come up this far.
 - [[The Places...#The Base]]
 	- The First Objective.
 	- *Mercenaries* fight against against everyone necessary to perform operations here.
@@ -116,11 +116,11 @@ The Mercenaries are well-equipped.
 - *Scavangers* are too inexperienced to survive here. May as well scam 'em first.
 - *Militants* can be trouble, but we always need them gone.
 - Other *Mercenaries* are good. We can all go home if we work together.
-- *Extramis* are fine, they don't mess with us, so we don't mess with them.
+- *Extramis* are fine. They don't mess with us, so we don't mess with them.
 - *Troopers* have a weird sense of honor. Sell you a gun only to hunt you with it's sister.
 
 ##### Extramis
-Extramis is a loose collective of ex-soldiers and experienced seekers that claim to be members of [[Arthur's Knights]] with the common drive to liberate Minyostalma into the hands of the Arthurian people. While the validity of their claim to [[The Kingdom of Prosper]] is subject to question, their effectiveness within the Old is not.
+Extramis is a loose collective of ex-soldiers and experienced seekers that claim to be members of [[Arthur's Knights]] with the common drive to liberate Minyostalma into the hands of the Arthurian people. While the validity of their claim is subject to question, their effectiveness within the Old is not.
 
 Extramis tend to group together in buddy-groups (2-4) or teams (4-6), when we can. Typically, our groups are named after the Heroes of Unification (Eg. *Buster's 3rd*).
 
@@ -150,16 +150,16 @@ Extramis is underequipped, but knowledgeable.
 	- *Extramis* work with either *Mercenaries* or *Scavengers* to fight against the other factions here.
 
 ###### Politics
-- *Scavangers* can be honorable.
+- *Scavangers* can be honorable, when you show them the way.
 - *Militants* are enemies to us, holding us all here.
 - *Mercenaries* are typically dishonorable, but not an enemy to us.
 - Other *Extramis* will help you if you need it.
-- *Troopers* are typically dishonorable. Fight them when you can.
+- *Troopers* are typically dishonorable. Fight them when you can, avoid them when you can't.
 
 ##### Mountain Troopers
 Equipped and ordered by the [[Nobles of Mountain Hall]], the Mountain Troopers are most identifiable by their thick shining metal armors and their well supplied durandurm blasters.
 
-Troopers tend to group together in buddy-groups (2-4), teams (4-6), or gangs (8+). Our groups are assigned names after metals and gemstones (Eg. *7th Steel*)
+Troopers tend to group together in buddy-groups (2-4), teams (4-6), or gangs (8+). Our groups are assigned names after metals and gemstones (Eg. *Ruby-7* or *Steel-3*)
 
 ###### Equipment
 The Mountain Troopers are well-equipped. Typically, fresh Troopers sport Tank-Plate, a HEPF2, and a standard Carbine, but after time within the M.B.E.D., they will likely have modified their Carbine to the best of their ability, and the best of the best eventually sport their own Durandurm Powered Plate.
@@ -190,10 +190,10 @@ The Mountain Troopers are well-equipped. Typically, fresh Troopers sport Tank-Pl
 - *Militants* are reasonable, just trying to work. Sometimes, we need them gone, but usually we can leave them be.
 - *Mercenaries* are terrible. Greedy, sneaky bastards.
 - *Extramis* would be better off fighting against the Mercs, not with them. Shame we have to put them down too.
-- Other *Troopers* are good folk. Even if we're not cousins, the blood we spill pushes us together.
+- Other *Troopers* are good folk. Even if we're not cousins, the blood we spill ties us together.
 
 ##### Fallen
-Deep within the Walled ruins, there is some artifact that the White Flame was attempting to destroy when it came to this place so long ago. Those who travel too deep are said to rarely return, and when they do, they are not the same, raving about the *glorious flame* and it's *beautiful oblivion*. The only mercy for them is death. They are beyond reason. Resist them.
+Deep within the Walled ruins, there is some artifact that the White Flame was attempting to destroy when it came to this place so long ago. Those who travel too deep are said to rarely return, and when they do, they are not the same, raving about the *glorious Obelisk* and it's *beautiful oblivion*. The only mercy for them is death. They are beyond reason. Resist them.
 
 <The Fallen speak [[Ancient Elvish (language)]], and have access to an incredible arsenal. Fallen will gather in groups of 8-32+. We have no need for designation, for we are one under the Obelisk.>
 
