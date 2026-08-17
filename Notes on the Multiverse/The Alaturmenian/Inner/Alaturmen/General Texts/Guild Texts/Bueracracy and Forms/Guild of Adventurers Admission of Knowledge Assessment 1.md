@@ -53,7 +53,7 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 10. Name or describe a major commodity exported by a member-faction of the Democratic Combine of Peoples (1 point)? 
 
 ## Important Names
-11. Who among the following powerful women do not claim the title of 'The Red Mistress'?
+11. Who among the following powerful women do NOT claim the title of 'The Red Mistress'?
 	A. Alergra Barrowinch
 	B. Agrandica Alamore
 	C. Benkaei Avory
@@ -71,7 +71,7 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. Qiell Tilemundon
 	D. Jorrin Bearscarred
 
-14. Who among the following people are NOT leading a major faction?
+14. Who among the following people are NOT leading a major faction of Coalition?
 	A. Houran Venclaw
 	B. Hektor Salar
 	C. Arthur Simonson
@@ -83,16 +83,15 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. Orcus
 	D. Demogorgon
 
+16. Name an Emotional God of Alaturmen, and describe at least one icon, domain, duty, or tenant associated with that God (2+ points).
 
-16.
+17. Alchemy is one of the few ways that the layfolk of Alaturmen access the magic of the Weave. Name a character associated with the development and propagation of Alaturmen's Alchemical Theories and describe that association (2+ points).
 
-17.
+18. 
 
-18.
+19. 
 
-19.
-
-20.
+20. Names are a powerful force of magic in our multiverse. Name or describe an entity or item that explicitly deals, reveals, or manipulates this magic (1 point).
 
 ## Mechanics Mastery
 
