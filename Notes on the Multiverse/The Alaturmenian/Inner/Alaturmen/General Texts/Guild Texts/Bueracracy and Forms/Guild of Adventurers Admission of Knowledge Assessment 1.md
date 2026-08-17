@@ -65,17 +65,17 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. Vannis
 	D. Moore
 
-13. The Council of Mages is or was a powerful force of tempered control for the surface of Alaturmen. Which of the following people are (or were) NOT members of the Council of Mages
+13. The Council of Mages is or was a powerful force of tempered control for the surface of Alaturmen. Which of the following people are (or were) NOT members of the Council of Mages?
 	A. Alergra Barrowinch
 	B. Nicolas Talaveem
 	C. Qiell Tilemundon
 	D. Jorrin Bearscarred
 
-14. 
-	A.
-	B.
-	C.
-	D.
+14. Who among the following four people are NOT leading a major faction?
+	A. 
+	B. Hektor Salar
+	C. Arthur Simonson
+	D. Abraham the Wise
 	
 
 15.
