@@ -107,8 +107,7 @@
               "title": "Grand Pantheon"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "0fac165130f915bf",
@@ -199,7 +198,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#npc",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -443,11 +442,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79130b268d89c9b0",
+  "active": "2ada8c7e607287ee",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "An Ode to My Love.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md",
     "Game Notes/NPCs/Mild Power/Guild Employee NPCs/Guilded Wizard NPCs/The Wizard In Blue.md",
     "Game Notes/NPCs/NPCs.md",
     "Game Notes/NPCs/High Power/Council of Eight NPCs/Sivir Bagwell.md",

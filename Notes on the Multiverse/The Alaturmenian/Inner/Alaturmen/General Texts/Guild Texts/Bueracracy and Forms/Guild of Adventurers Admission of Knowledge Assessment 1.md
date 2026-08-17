@@ -87,9 +87,9 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 
 17. Alchemy is one of the few ways that the layfolk of Alaturmen access the magic of the Weave. Name a character associated with the development and propagation of Alaturmen's Alchemical Theories and describe that association (2+ points).
 
-18. 
+18. Often, our most glorious heroes are accompanied by undervalued companions. Name one of these undervalued adventuring companions (1 point).
 
-19. 
+19. In recent history, the South-Eastern Alliance of Security has become a publicly known military conglomerate. What was the operating name of the conglomerate before their reveal as a united faction?
 
 20. Names are a powerful force of magic in our multiverse. Name or describe an entity or item that explicitly deals, reveals, or manipulates this magic (1 point).
 
