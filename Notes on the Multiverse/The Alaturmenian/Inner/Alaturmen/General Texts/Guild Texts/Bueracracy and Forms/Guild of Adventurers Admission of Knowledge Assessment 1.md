@@ -9,7 +9,7 @@ aliases:
 ### Guild of Adventurers Admission of Knowledge Assessment
 The GAAKA is an assessment designed to determine your knowledge of relevant topics of information, and your ability to coherently recall that information. Over the course of the next hour, you will answer questions by selecting one of a number of given options or providing a short written answer when prompted. 
 
-You are taking the GAAKA One, which will focus primarily on the important historical events and people of the late first century. There are a total of 35 questions, of which you will provide a written answer for 15. The final five questions are considered 'extra credit', and thus your proctor will not penalize you for an incorrect answer or a lack of answer for these questions. They are clearly marked as such.
+You are taking the GAAKA One, which will focus primarily on the important historical events and people of the late first century. There are a total of 35 questions, of which you will provide a written answer for 15. There are five questions considered 'extra credit', and thus your proctor will not penalize you for an incorrect answer or a lack of answer for these questions. They are clearly marked as such.
 
 ## Major Factions
 1. There are four major factions that form the current and acting Coalition. Of these four, which one faction is made of multiple minor factions?
@@ -107,11 +107,11 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C. Barbarian
 	D. Blood Hunter
 
-23. 
-	A.
-	B.
-	C.
-	D.
+23. Which of the following scenarios does NOT grant Advantage to the Attacker?
+	A. The Attacker has High Ground on their Target
+	B. The Attacker is Flanking their Target with an Ally
+	C. The Attacker is Restraining their Target
+	D. The Attacker is Grappling their Target
 
 24.
 	A.
@@ -125,7 +125,7 @@ You are taking the GAAKA One, which will focus primarily on the important histor
 	C.
 	D.
 
-26.
+26. 
 
 27.
 
