@@ -151,18 +151,18 @@ EC2. Which of the following phenomenon is "a material infection ... potent again
 
 EC3. Which of the following languages is NOT spoken on the surface of Alaturmen today?
 	A. Ancient Elven
-	B. King's Common
+	B. Titan
 	C. Draconic
-	D. Giant
+	D. King's Common
 
-EC4. Which of the following regions are NOT occupied by one of the major factions on Alaturmen?
-	A. 
-	B. 
-	C. 
-	D.
+EC4. Which of the following classes has the highest Hit Die?
+	A. Ranger
+	B. Rogue
+	C. Sorcerer
+	D. Warlock
 
-EC5. Which of the following regions are NOT occupied by one of the major factions on Alaturmen?
-	A. 
-	B. 
-	C. 
-	D.
+EC5. Which of the following spellcasting classes does NOT prepare their spells?
+	A. Wizard
+	B. Paladin
+	C. Sorcerer
+	D. Druid
