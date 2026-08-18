@@ -84,7 +84,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ## Stats
 
-| L. 5 | XP: 7.6k           | / 14k | (1) Inspiration           |
+| L. 5 | XP: 11.2k           | / 14k | (1) Inspiration           |
 | ---- | ------------------ | ----- | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
 | CON  | 18 (+4)            | M. HP | 64 Max HP (0/5 Exhaust)   |
@@ -290,4 +290,6 @@ Today is the 23rd. We leave the **Village of Barovia** early in the morning, and
 
 We make our way to the Tser Pool, where Alenka is not awaiting and apparently only comes to infrequently, and we meet a man named Bogen who lied about knowing the people on Klarl's card. 
 
-We meet with Madam Eva. She reads our car
+We meet with Madam Eva. She reads our cards.
+
+Straud was a mortal prince once, and he fell in battle until the Vistani nursed him back into health. 
