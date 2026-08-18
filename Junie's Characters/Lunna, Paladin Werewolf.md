@@ -284,3 +284,6 @@ We spend the night - but we're interrupted by a bunch of hobbly weird guys - zom
 
 We rested!
 
+### Session 8 - "Leaving the Village"
+
+Today is the 23rd.
