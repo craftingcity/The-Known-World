@@ -16,18 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "An Ode to My Love",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"An Ode to My Love.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"An Ode to My Love\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":137,\"ch\":0},\"to\":{\"line\":137,\"ch\":0}},\"scroll\":118.2750065268789}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "An Ode to My Love.md",
-                "mode": "source",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "An Ode to My Love"
+              "title": "Guild of Adventurers Admission of Knowledge Assessment 1"
             }
           }
         ]
@@ -327,6 +333,7 @@
   },
   "active": "78e58179ec1b6e70",
   "lastOpenFiles": [
+    "An Ode to My Love.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Understanding Other Languages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
@@ -351,7 +358,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northeastern Central/Regions of NEC/Actstow Hills.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Items by Region/Food and Drink - South West.md",
-    "An Ode to My Love.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Circles of Idols.md",
     "Untitled.canvas",
     "DATABASE.base",
