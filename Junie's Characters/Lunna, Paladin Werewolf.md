@@ -286,4 +286,4 @@ We rested!
 
 ### Session 8 - "Leaving the Village"
 
-Today is the 23rd.
+Today is the 23rd. We leave the **Village of Barovia** early in the morning, and upon going to cross the bridge over the nearby river, we are accosted by large wolves, and a pair of vampires hanging under the bridge.
