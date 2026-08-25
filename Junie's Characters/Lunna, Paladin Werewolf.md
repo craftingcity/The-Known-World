@@ -318,4 +318,6 @@ We meet with *Madam Eva*. Somehow, she knows us beyond what we've revealed. She 
 
 ### Session 9 - "Onward! From the Tser Pool"
 
+We pass by a cart we think is owned by Straud. It was empty, but opened for us before we sent it away empty. We passed by the **Old Windmill** on our way to **Vallaki**, and are followed through the forest by a leapfrogging pack of Ravens.
+
 
