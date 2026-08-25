@@ -64,7 +64,7 @@ She can't be this. She can't be a monster.
 #### After the Incident
 After the Incident, Lunna travelled. She started a new life with nothing but what she had, and would turn to petty crime or hunting and gathering as means of survival, although she had little success in both. In futility, she turned to the churches, and would find the life of a wandering paladin very appealing - she could leave when she needed to, and people would ask few questions about where she came from. During this time, she would bring herself before the Changebringer, the Maker of Ways, Attendant of the Fates, Avandra, and would follow the Way to change herself away from what she did, and into who she is.
 
-She now is a Paladin of her own Order, of Avandra, of finding meaning, of helping, of being worth the damage she causes, of surviving herself, and above all things, of being *anything* but the Monster.
+She now is a Paladin of her own Order, of Avandra, of finding meaning, of helping, of being worth the damage she causes, of surviving herself, and - above all things - of being *anything* but the Monster.
 
 #### Prayers to Avandra
 
@@ -74,7 +74,6 @@ She now is a Paladin of her own Order, of Avandra, of finding meaning, of helpin
 - "May you play well this game of fate that we are free to fight for ourselves again tomorrow"
 - "And may luck be in all our favors."
 - 
-
 
 ## Important Knowledge
 #### The Incident...
@@ -293,7 +292,7 @@ Today is the 23rd. We leave the **Village of Barovia** early in the morning, and
 
 We make our way to the **Tser Pool**, where *Alenka* is not awaiting and apparently only comes infrequently, and we meet a man named *Bogen* who lied about knowing the people on Klarl's card. He tells us that *Straud* was a mortal prince once, and he "fell in battle" until the Vistani nursed him back into health - earning them freedom of travel to and from this place. 
 
-We meet with *Madam Eva*. Somehow, she knows us beyond what we've revealed. She reads [[#The Cards...]]
+We meet with *Madam Eva*. Somehow, she knows us beyond what we've revealed. She reads [[#The Cards...]] to us. 
 
 ### Session 9 - ""
 
