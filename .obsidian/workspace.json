@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e2f113e6130a6e64",
+        "id": "36755fef29ba575b",
         "type": "tabs",
         "children": [
           {
-            "id": "c3a8ef46c12691a8",
+            "id": "76e474a0c6550b6c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,34 +16,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Lundyson",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Lundyson.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lundyson\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
-          }
-        ]
-      },
-      {
-        "id": "7b79a72a1be8a478",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b52ad69ec7ff5c6b",
+            "id": "85b548102d22cc63",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -51,27 +35,22 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Lundyson",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Lundyson.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lundyson\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Abricadabrin.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
+              "title": "Abricadabrin"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Actstow",
+                "query": "tag:#holding",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055,
-    "collapsed": true
+    "width": 297.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -366,14 +344,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b52ad69ec7ff5c6b",
+  "active": "85b548102d22cc63",
   "lastOpenFiles": [
+    "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Lundyson.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md",
     "An Ode to My Love.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Understanding Other Languages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
-    "Junie's Characters/Lunna, Paladin Werewolf.md",
     "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of The Holyl'nds.md",
