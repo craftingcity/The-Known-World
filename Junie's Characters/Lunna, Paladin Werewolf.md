@@ -322,6 +322,8 @@ We pass by a cart we think is owned by Straud. It was empty, but opened for us b
 
 We meet *Nameera*, and *Sergee*, who guard the gate to Vallaki. The Blue Water Inn is the bar they recommend, but Sergee is very forceful against his coworker's friendliness. Apparently this town does Wolf meat.
 
-And hold people in stocks, and their infrastructure is failing, and they hold weird festivals where you have to bring a kid and 'all will be well'.
+And hold people in stocks, and their infrastructure is failing, and they hold weird festivals where you have to bring your kids and 'all will be well'.
+
+Theres a Church, the Bar, two Nice Homes (Likely the Wachters & the Baron Vargis Vallakavich), and a Pattock that we can see from the square.
 
 
