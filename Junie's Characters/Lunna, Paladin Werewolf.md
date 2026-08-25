@@ -82,6 +82,9 @@ My oldest brother wasn't home at the time of the incident. His name is Matthew.
 
 I left my Father's sword behind, I couldn't take it from the bloodbath I had left it in.
 
+#### The Cards...
+
+
 ## Stats
 
 | L. 5 | XP: 11.2k          | / 14k | (1) Inspiration           |
@@ -274,7 +277,7 @@ Caspin started talking with *Ismark*. We eventually buy him a bottle of Red Drag
 ### Session 6 - "Meet the Bride"
 We arrive at Ismark's Estate. Today is the 22nd. Outside is a state of disarray, but inside is fine, leading us to learn that Vampires here cannot enter a residence without permission? Ismark and Ireena are not twins, Ismark is older, and they don't really even look related.
 
-We meet with Ireena, and we take the Burghermister's corpse and coffin to the Parish in the North side of the Village. The Father of the Parish is holding his Son, who has fallen to Vamparism, in his basement. We killed his son, and he killed himself. Day wasted.
+We meet with *Ireena*, and we take the Burghermister's corpse and coffin to the Parish in the North side of the Village. The Father of the Parish is holding his Son, who has fallen to Vamparism, in his basement. We killed his son, and he killed himself. Day wasted.
 
 ### Session 7 - "Zombies Come to the House of the Mayor"
 
@@ -288,8 +291,12 @@ We rested!
 
 Today is the 23rd. We leave the **Village of Barovia** early in the morning, and upon going to cross the bridge over the nearby river, we are accosted by large wolves, and a pair of vampires hanging under the bridge.
 
-We make our way to the Tser Pool, where Alenka is not awaiting and apparently only comes to infrequently, and we meet a man named Bogen who lied about knowing the people on Klarl's card. 
+We make our way to the **Tser Pool**, where *Alenka* is not awaiting and apparently only comes infrequently, and we meet a man named *Bogen* who lied about knowing the people on Klarl's card. He tells us that *Straud* was a mortal prince once, and he "fell in battle" until the Vistani nursed him back into health - earning them freedom of travel to and from this place. 
 
-We meet with Madam Eva. She reads our cards.
+We meet with *Madam Eva*. Somehow, she knows us beyond what we've revealed. She reads [[#The Cards...]]
 
-Straud was a mortal prince once, and he fell in battle until the Vistani nursed him back into health. 
+### Session 9 - ""
+
+
+
+
