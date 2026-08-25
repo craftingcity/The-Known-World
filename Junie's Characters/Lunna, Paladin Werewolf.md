@@ -295,7 +295,3 @@ We make our way to the **Tser Pool**, where *Alenka* is not awaiting and apparen
 We meet with *Madam Eva*. Somehow, she knows us beyond what we've revealed. She reads [[#The Cards...]] to us. 
 
 ### Session 9 - ""
-
-
-
-
