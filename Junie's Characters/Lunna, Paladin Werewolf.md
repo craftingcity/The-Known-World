@@ -73,7 +73,7 @@ She now is a Paladin of her own Order, of Avandra, of finding meaning, of helpin
 - "May you bless us this day with the bravery to see the path you lay before us"
 - "May you play well this game of fate that we are free to fight for ourselves again tomorrow"
 - "And may luck be in all our favors."
-- "May you bless us the wisdom to play the strength of our hand, and to remain vigil of the tide of luck"
+- "May you bless us the wisdom to play the strength of our hand, and to remain vigil to the tide of luck"
 
 ## Important Knowledge
 #### The Incident...
