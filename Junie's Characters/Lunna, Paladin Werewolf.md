@@ -109,7 +109,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ## Stats
 
-| L. 5 | XP: 11.2k          | / 14k | (1) Inspiration           |
+| L. 5 | XP: 11.2k          | / 14k | (3) Inspiration           |
 | ---- | ------------------ | ----- | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
 | CON  | 18 (+4)            | M. HP | 64 Max HP (0/5 Exhaust)   |
@@ -330,5 +330,7 @@ Theres a Church, the Bar, two Nice Homes (Likely the Wachters & the Baron Vargis
 As Brilynn talks with the bartender - Danica, and tries to get *Ireena* a job here in town.
 
 Caspin and I go to the Church in town. We learn of the *Order of the Silver Dragon*; a group of knightly paladins led by Lord *Arganvost*. They opposed Straud, and were defeated by him. They held a stronghold South of Vallaki at the base of the Mountain, down the Luna River.
+
+The sacred artifacts that protect the church - The Bones of Saint Andrull - have gone missing. 
 
 
