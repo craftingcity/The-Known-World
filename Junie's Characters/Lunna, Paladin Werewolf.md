@@ -82,7 +82,23 @@ My oldest brother wasn't home at the time of the incident. His name is Matthew.
 I left my Father's sword behind, I couldn't take it from the bloodbath I had left it in.
 
 #### The Cards...
+##### Enemy; 9 of Swords - Torturer
+> There is a town where all is not well.
+> There you will find a house of corruption,
+> and within, a dark room full of still ghosts
 
+##### Protection; 7 of Glyphs - Charlatan
+> I see a lonely mill on a precipice.
+> The treasure lies within.
+
+##### Strength; 5 of Stars - Elementalist
+> The treasure is hidden in a small castle, 
+> beneath a mountain, 
+> guarded by amber giants
+
+##### Ally; xxx - Ghost
+> I see a fallen paladin, of a fallen order of knights.
+> 
 
 ## Stats
 
