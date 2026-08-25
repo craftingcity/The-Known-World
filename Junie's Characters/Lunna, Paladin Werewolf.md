@@ -82,7 +82,7 @@ My oldest brother wasn't home at the time of the incident. His name is Matthew.
 I left my Father's sword behind, I couldn't take it from the bloodbath I had left it in.
 
 #### The Cards...
-##### Enemy; 9 of Swords - Torturer
+##### Knowledge; 9 of Swords - Torturer
 > There is a town where all is not well.
 > There you will find a house of corruption,
 > and within, a dark room full of still ghosts
@@ -100,7 +100,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 > I see a fallen paladin, of a fallen order of knights.
 > He lingers like a ghost in a dead dragon's lair.
 
-##### Guidance; Queen of Diamonds - Tempter
+##### Enemy; Queen of Diamonds - Tempter
 > I see a secret place.
 > A vault of temptation hidden behind a woman of great beauty.
 > The evil waits atop his tower of treasure.
@@ -121,9 +121,9 @@ You prepare the list of paladin spells that are available for you to cast, choos
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| o   | x   | .   | .   | .   | .   | .   | .    | .   |
-| x   | x   | .   | .   | .   | .   | .   |      |     |
-| x   | .   | .   | .   | .   |     |     | DC   | 13  |
+| o   | o   | .   | .   | .   | .   | .   | .    | .   |
+| o   | o   | .   | .   | .   | .   | .   |      |     |
+| o   | .   | .   | .   | .   |     |     | DC   | 13  |
 | .   |     |     |     |     |     |     | ATTK | +5  |
 
 ##### Oath Spells
@@ -316,3 +316,5 @@ We make our way to the **Tser Pool**, where *Alenka* is not awaiting and apparen
 We meet with *Madam Eva*. Somehow, she knows us beyond what we've revealed. She reads [[#The Cards...]] to us. 
 
 ### Session 9 - ""
+
+
