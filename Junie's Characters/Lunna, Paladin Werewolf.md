@@ -320,4 +320,8 @@ We meet with *Madam Eva*. Somehow, she knows us beyond what we've revealed. She 
 
 We pass by a cart we think is owned by Straud. It was empty, but opened for us before we sent it away empty. We passed by the **Old Windmill** on our way to **Vallaki**, and are followed through the forest by a leapfrogging pack of Ravens.
 
+We meet *Nameera*, and *Sergee*, who guard the gate to Vallaki. The Blue Water Inn is the bar they recommend, but Sergee is very forceful against his coworker's friendliness. Apparently this town does Wolf meat.
+
+And hold people in stocks, and their infrastructure is failing, and they hold weird festivals where you have to bring a kid and 'all will be well'.
+
 
