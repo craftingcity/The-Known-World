@@ -84,6 +84,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 #### The Cards...
 ##### Knowledge; 9 of Swords - Torturer
 > There is a town where all is not well.
+	- "All is Well" is a reference to the Baron of Vallaki
 > There you will find a house of corruption,
 > and within, a dark room full of still ghosts
 
@@ -324,6 +325,10 @@ We meet *Nameera*, and *Sergee*, who guard the gate to Vallaki. The Blue Water I
 
 And hold people in stocks, and their infrastructure is failing, and they hold weird festivals where you have to bring your kids and 'all will be well'.
 
-Theres a Church, the Bar, two Nice Homes (Likely the Wachters & the Baron Vargis Vallakavich), and a Pattock that we can see from the square.
+Theres a Church, the Bar, two Nice Homes (Likely the Wachters & the Baron Vargis Vallakovich), and a Pattock that we can see from the square.
+
+As Brilynn talks with the bartender - Danica, and tries to get *Ireena* a job here in town.
+
+Caspin and I go to the Church in town. We learn of the *Order of the Silver Dragon*; a group of knightly paladins led by Lord *Arganvost*. They opposed Straud, and were defeated by him. They held a stronghold South of Vallaki at the base of the Mountain, down the Luna River.
 
 
