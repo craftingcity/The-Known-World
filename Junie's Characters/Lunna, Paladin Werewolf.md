@@ -98,7 +98,12 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ##### Ally; xxx - Ghost
 > I see a fallen paladin, of a fallen order of knights.
-> 
+> He lingers like a ghost in a dead dragon's lair.
+
+##### Guidance; Queen of Diamonds - Tempter
+> I see a secret place.
+> A vault of temptation hidden behind a woman of great beauty.
+> The evil waits atop his tower of treasure.
 
 ## Stats
 
