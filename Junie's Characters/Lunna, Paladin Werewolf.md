@@ -89,6 +89,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ##### Protection; 7 of Glyphs - Charlatan
 > I see a lonely mill on a precipice.
+	- There is an **Old Windmill** between Tser Pool and Valaki.
 > The treasure lies within.
 
 ##### Strength; 5 of Stars - Elementalist
@@ -315,6 +316,6 @@ We make our way to the **Tser Pool**, where *Alenka* is not awaiting and apparen
 
 We meet with *Madam Eva*. Somehow, she knows us beyond what we've revealed. She reads [[#The Cards...]] to us. 
 
-### Session 9 - ""
+### Session 9 - "Onward! From the Tser Pool"
 
 
