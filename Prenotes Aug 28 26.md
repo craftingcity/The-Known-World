@@ -15,7 +15,7 @@ aliases:
 
 ### Intro
 
-When last we left our heroes...
+When last we left our heroes, they had committed to the sin of Pride; the party gathered their allies and their provisions, and travelled unto the breach. Walking through the portal in the cabinet in your basement, you found yourselves in a tightly walled section of this 
 
 ### What does the World Know?
 
