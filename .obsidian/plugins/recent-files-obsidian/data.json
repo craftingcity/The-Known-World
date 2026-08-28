@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Avernus",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md"
+    },
+    {
+      "basename": "Baator",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
+    },
+    {
       "basename": "Prenotes Aug 28 26",
       "path": "Prenotes Aug 28 26.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Druids of Ignan",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Druids of the Idols/Druids of Ignan.md"
-    },
-    {
-      "basename": "Prenotes July 28 26",
-      "path": "Game Notes/Prenotes/'26/Prenotes July 28 26.md"
-    },
-    {
-      "basename": "Prenotes July 23 26",
-      "path": "Game Notes/Prenotes/'26/Prenotes July 23 26.md"
     }
   ],
   "omittedPaths": [],

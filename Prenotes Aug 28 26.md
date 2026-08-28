@@ -21,10 +21,21 @@ You and your mercenaries dissuaded these Devils with steel and sorcery quite han
 
 You are here seeking one Devil in particular. The Arbiter that you have come to call 'Notadeer'; the thing responsible for the death of Saorsia's mentor in the Illburn Forest, the thing that is somehow involved with Otto and the research of Niko's parents - and you seek to end it's existence as we understand it. Perhaps simply facing it with your anger will be enough to end it, but if not, the righteous fury of your blessed bullets certainly will.
 
-There are two ways to go from here. You can follow the devils deeper into this tight, ravine-like area, to see where they come and go from, or - with what little sense of direction you have - you can go the other way, the way you consider "out" from here, where you assume those .  
+There are two ways to go from here. You can follow the devils deeper into this tight, ravine-like area, to see where they come and go from, or - with what little sense of direction you have - you can go the other way, the way you consider "out" from here, where you assume you would find devils lying in wait in those craters or those giant mech-things.
+
+If you have information to share, or questions to ask, now is the time, before I put the question to you;
+
+What do you do?
 
 ### What does the World Know?
 
+We are in [[Baator]], in the layer of [[Avernus]] - the Beachhead. 
+
+I honestly don't remember what all they know about the structure of Baator, but I can't imagine it's a lot. Maybe we should try to sell them a guide.
+
+The party can pass into the Second Layer, [[Dis]], either via the Spikelands into the Industrial District, or via the Outpost Afierono into the Militant District. Then, heading through the Door District, we enter [[Minauros]]'s Keep on the Wall.
+
+The party can ride the Styx (if they commandeer a viable vessel) down into [[Stygia]] and then [[Cania]], so that we can get into [[Maladomini]]'s Ichor Flows and head up to [[Minauros]]'s Bookkeeper Village.
 
 ### What happened?
 

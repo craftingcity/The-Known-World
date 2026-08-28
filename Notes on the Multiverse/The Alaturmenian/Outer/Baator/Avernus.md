@@ -42,6 +42,8 @@ The Beachhead Styx is the primary landing destination for assaulting Demons, who
 The legions of soldiers who fight here do so under their own banners, but, while at the Beachhead, follow the orders of their Theater Commander, the Duke [[Morik]] - a trusted vassal of [[Istratige]], and a fine soldier in it's own right.
 
 #### Ruined Titan
+The Ruined Titan was once a massive war-machine used in the [[Blood Wars of Fiends]]. 
+
 #### High Crags
 
 ### Flora

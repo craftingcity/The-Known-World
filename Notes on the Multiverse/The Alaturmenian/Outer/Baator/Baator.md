@@ -21,7 +21,7 @@ The third layer is an endless kingdom, filled more by toxic swamp and corpse pil
 A blazing desolation of fire and lava, the fourth layer is host to a place known as The Pit of Flame, a large pit of *hell-fire*, a flame of such strength it bypasses the strongest fire resistances - and one of the worst punishments available to those who break the Laws of Baator.
 
 #### [[Stygia]], Fifth Layer of Hell
-A vast frozen sea of icebergs and floating sheets. It is named after the [[River Styx]], which flows throughout the layer. Some of the sheets host large cities, and navigation between these settlements was relatively easy because of the presence of the Styx.
+A vast frozen sea of icebergs and floating sheets. It is named after the [[River Styx]], which flows throughout the layer. Some of the sheets host large cities, and navigation between these settlements is relatively easy because of the presence of the Styx.
 
 #### [[Malbolge]], Sixth Layer of Hell
 The landscape of the sixth layer is a steep, craggy, infinite incline that often experiences avalanches. Large fortress of copper are teardrop shaped to repel avalanches. Throughout the plane, built along the slopes of the land, pillars of adamantine that can withstand the avalanches are built, atop which platforms support suspended cages that hold condemned devils that are constantly injured by the incessant rockfalls, but never killed.
@@ -33,7 +33,7 @@ Maladomini is the seventh layer of the Nine Hells of Baator. It is an endless fi
 Cania is a relentless realm of living cold. The layer is marked by moving glaciers and icebergs that drift as fast as a running person, constantly colliding with one another and with surrounding mountains of enormous sizes. Snow avalanches are common and violent. The weather is dominated by snow storms that howled with incessant winds. Thin layers of accumulated snow often hide deep crevasses that engulf incautious explorers.
 
 #### [[Nessus]], Ninth Layer of Hell
-The layer was a featureless plain with jagged edges that extend 2,500 miles from east to west and 1,100 miles from north to south, floating in an endless misty-red void. These plains are scarred by chasms and ravines several thousand miles deep, and were frequently ravaged by fiery storm winds.
+Nessus is a featureless plain with jagged edges that extend 2,500 miles from east to west and 1,100 miles from north to south, floating in an endless misty-red void. These plains are scarred by chasms and ravines several thousand miles deep, and are frequently ravaged by fiery storm winds.
 
 
 
