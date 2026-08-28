@@ -13,7 +13,7 @@ aliases:
 - [[Holdings]]
 - [[Kitset Template]]
 - [[NPCs]]
-- [[Prenotes]]
+- [[ORGANIZATION/TEMPLATES/Prenotes]]
 - [[Region]]
 - [[Stub]]
 - [[Table]]

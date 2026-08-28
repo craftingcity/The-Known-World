@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c99cbd98b514b000",
+        "id": "a6d183df00efe9f1",
         "type": "split",
         "children": [
           {
@@ -32,46 +32,10 @@
                   },
                   "icon": "lucide-file",
                   "title": "The Secretkeepers"
-                },
-                "group": "0e9d4055487480b9"
-              }
-            ]
-          },
-          {
-            "id": "ad3d33f0ddc4a911",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "31f92aed60e977ec",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "byModifiedTime",
-                    "showSearch": true,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks for The Secretkeepers"
-                },
-                "group": "0e9d4055487480b9"
+                }
               },
               {
-                "id": "382e518238b29a3b",
+                "id": "42b3cf15c4adf50e",
                 "type": "leaf",
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -85,14 +49,21 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Game Notes/Prenotes/'26/Prenotes May 22 26.md",
+                    "file": "Prenotes Aug 28 26.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Prenotes May 22 26"
+                  "title": "Prenotes Aug 28 26"
                 }
-              },
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "0c81bc9c61e4b903",
+            "type": "tabs",
+            "children": [
               {
                 "id": "47298f0db4c05159",
                 "type": "leaf",
@@ -116,11 +87,10 @@
                   "title": "Prenotes July 03 26"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -415,11 +385,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47298f0db4c05159",
+  "active": "42b3cf15c4adf50e",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'26/Prenotes May 22 26.md",
-    "Game Notes/Prenotes/'26/Prenotes July 03 26.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "Prenotes Aug 28 26.md",
+    "Game Notes/Prenotes/'26/Prenotes July 03 26.md",
+    "Game Notes/Prenotes/'26/Prenotes May 22 26.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Lundyson.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md",
@@ -442,7 +413,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Actstow.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Actstow.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md",
     "Untitled.canvas",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
