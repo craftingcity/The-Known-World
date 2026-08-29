@@ -401,6 +401,7 @@ Goose's Carbine (295 DRM, FR); +6, 3d6+2 fire
 
 ###### Skills & Proficiencies
 ###### Actions & Features
+*Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 ###### Inventory
 
 ##### "Brittney" - Team Specialist
@@ -417,6 +418,7 @@ Goose's Carbine (295 DRM, FR); +6, 3d6+2 fire
 
 ###### Skills & Proficiencies
 ###### Actions & Features
+*Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 ###### Inventory
 
 ##### "Crow" - Team Specialist
@@ -433,6 +435,7 @@ Goose's Carbine (295 DRM, FR); +6, 3d6+2 fire
 
 ###### Skills & Proficiencies
 ###### Actions & Features
+*Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 ###### Inventory
 
 ##### "Roan" - Team Specialist
@@ -449,6 +452,7 @@ Goose's Carbine (295 DRM, FR); +6, 3d6+2 fire
 
 ###### Skills & Proficiencies
 ###### Actions & Features
+*Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 ###### Inventory
 
 ##### "Tommy" - Team Member
@@ -465,6 +469,7 @@ Goose's Carbine (295 DRM, FR); +6, 3d6+2 fire
 
 ###### Skills & Proficiencies
 ###### Actions & Features
+*Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 ###### Inventory
 
 ##### "Gourd" - Team Member
@@ -481,6 +486,7 @@ Goose's Carbine (295 DRM, FR); +6, 3d6+2 fire
 
 ###### Skills & Proficiencies
 ###### Actions & Features
+*Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 ###### Inventory
 
 ## RHOD (depreciated)

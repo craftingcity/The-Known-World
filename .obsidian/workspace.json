@@ -88,29 +88,6 @@
                 }
               },
               {
-                "id": "7144cf39b9473d76",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Game Notes/Prenotes/'26/Prenotes July 03 26.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prenotes July 03 26"
-                }
-              },
-              {
                 "id": "0f20482f828e7a7b",
                 "type": "leaf",
                 "pane-relief:history-v1": {
@@ -434,11 +411,11 @@
   },
   "active": "42b3cf15c4adf50e",
   "lastOpenFiles": [
+    "A Grand Notepad.md",
+    "Prenotes Aug 28 26.md",
     "Game Notes/Prenotes/'26/Prenotes July 03 26.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
-    "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
-    "Prenotes Aug 28 26.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
