@@ -35,9 +35,9 @@ Though you have felled the one you assumed to be the leader, their ranks do not 
 11 - Monkeys
 10 - (SPIRIT) Eight Legion (22 AC, 125HP, +12, 2d8+8)
 	~~A (6, 34, 64, 88, )~~
-	B (12, 40)
-	C (26, 40, 68)
-	D (6, 34)
+	~~B (12, 40, 82, 120)~~
+	~~C (26, 40, 68, 86, 105)~~
+	~~D (6, 34, 52, 88, )~~
 ~~9 - Chadius (28, 57, 87, 109, 158, 189, 240 / 300 SP:8/16)~~
 8 - Roan (20)
 	Silver (20, 37)
