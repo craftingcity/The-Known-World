@@ -109,6 +109,29 @@
                   "icon": "lucide-file",
                   "title": "Prenotes July 03 26"
                 }
+              },
+              {
+                "id": "0f20482f828e7a7b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "A Grand Notepad.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "A Grand Notepad"
+                }
               }
             ],
             "currentTab": 1
@@ -409,16 +432,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7144cf39b9473d76",
+  "active": "42b3cf15c4adf50e",
   "lastOpenFiles": [
+    "Game Notes/Prenotes/'26/Prenotes July 03 26.md",
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
     "Prenotes Aug 28 26.md",
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
-    "Game Notes/Prenotes/'26/Prenotes July 03 26.md",
     "Game Notes/Prenotes/'26/Prenotes May 22 26.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Lundyson.md",
@@ -426,7 +450,6 @@
     "An Ode to My Love.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Understanding Other Languages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
-    "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of The Holyl'nds.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md",
