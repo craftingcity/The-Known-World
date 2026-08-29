@@ -61,4 +61,4 @@ The party can ride the Styx (if they commandeer a viable vessel) down into [[Sty
 ### What happened?
 
 
-We leave our heroes on the date of ... AF, as they ...
+We leave our heroes on the date of ... AF, as they have met a Devil named Timir, who speaks Arthurian, and sorta saved the gang from interrogation from the Outpost's CO. They're bored and want to help things happen for the gang.
