@@ -31,10 +31,10 @@ Though you have felled the one you assumed to be the leader, their ranks do not 
 
 ### What does the World Know?
 #### The First Fight
-12 - (2i) Niko
+12 - (1i) Niko
 11 - Monkeys
 10 - (SPIRIT) Eight Legion (22 AC, 125HP, +12, 2d8+8)
-	A (6, 34, 64)
+	~~A (6, 34, 64, 88, )~~
 	B (12, 40)
 	C (26, 40, 68)
 	D (6, 34)
@@ -45,7 +45,7 @@ Though you have felled the one you assumed to be the leader, their ranks do not 
 	Crow (20)
 	Tommy (20)
 	Gourd (20)
-6 - (2i) Soarsia
+6 - Soarsia
 1 - Zipper
 
 #### After the Fight
