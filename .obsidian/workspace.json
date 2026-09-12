@@ -58,7 +58,7 @@
                 }
               },
               {
-                "id": "ce0e91d09bf2fda9",
+                "id": "b311fd23f75f239c",
                 "type": "leaf",
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -72,16 +72,16 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
+                    "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "The Gear..."
+                  "title": "Baator"
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "0c81bc9c61e4b903",
@@ -111,7 +111,7 @@
                 }
               },
               {
-                "id": "0f20482f828e7a7b",
+                "id": "df0d26ebe7cf4ecc",
                 "type": "leaf",
                 "pane-relief:history-v1": {
                   "pos": 0,
@@ -125,15 +125,16 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "A Grand Notepad.md",
+                    "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "A Grand Notepad"
+                  "title": "Dis"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -186,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dawn",
+                "query": "Actstow",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -240,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055
+    "width": 297.51240158081055,
+    "collapsed": true
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -430,19 +432,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "036c3fd2ad2c4137",
+  "active": "df0d26ebe7cf4ecc",
   "lastOpenFiles": [
-    "Prenotes Aug 28 26.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
-    "A Grand Notepad.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+    "Prenotes Aug 28 26.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Northwestern Central/Regions of NWC/The Old/The Gear....md",
-    "Game Notes/Prenotes/'26/Prenotes July 03 26.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
+    "Game Notes/Prenotes/'26/Prenotes July 03 26.md",
     "Game Notes/Prenotes/'26/Prenotes May 22 26.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Lundyson.md",
@@ -450,6 +449,7 @@
     "An Ode to My Love.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Understanding Other Languages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Tetrimoc's Desert.md",
+    "A Grand Notepad.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economy Pages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of The Holyl'nds.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of the Hobgoblin Territories.md",
@@ -458,6 +458,8 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Coalition City.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Arms Companies and their Supply Regions.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Merchant Companies and their Routes.md",
     "Untitled.canvas",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",

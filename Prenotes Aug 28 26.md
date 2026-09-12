@@ -62,3 +62,9 @@ The party can ride the Styx (if they commandeer a viable vessel) down into [[Sty
 
 
 We leave our heroes on the date of ... AF, as they have met a Devil named Timir, who speaks Arthurian, and sorta saved the gang from interrogation from the Outpost's CO. They're bored and want to help things happen for the gang.
+
+We need to get out of Afierono.
+	- We need to get Orders from a CO to stand down and return to Dis
+	- OR, we need to desert (hopefully, through the Spikelands, but we'll take the Styx if we have to)
+
+Then, we need to talk to someone about where the Notadeer is / where Arbiters came from, and maybe get ourselves a map.
