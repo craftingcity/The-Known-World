@@ -54,10 +54,13 @@ The Vassals make up the "upper-working class" of the system of Devil-kind. They 
 - *Landed*.
 
 #### on Minauros
-- *Laymen*
-- *Arbiter*
+- *Laymen*.
+- *Arbiter*.
 
 #### on Phlegethos
+- *Technician*.
+- *Torturer*.
+
 #### on Stygia
 #### on Malbolge
 #### on Maladomini
@@ -83,9 +86,12 @@ The majority of devil-kind are considered 'lessers'. They perform the work that 
 #### on Phlegethos
 - *Lemur*.
 - *Impid*.
-- **
+- *Slythe*.
 
 #### on Stygia
+- *Wight*
+- 
+
 #### on Malbolge
 #### on Maladomini
 #### on Cania
