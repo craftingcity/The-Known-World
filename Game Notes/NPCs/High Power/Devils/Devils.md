@@ -15,9 +15,9 @@ Ruled by [[Asmodeus]], the Grand Arch-Devil of Nessus and All [[Baator]], Devils
 ### Arch Devils
 The Arch-Devils are the major management of Devil-kind. Each of the Arch-Devils rule one layer of [[Baator]] and it's inhabitants. They hold a cabinet of trusted allies, and a list of enemies to destroy. Against each other, the Arch-Devils scheme and manipulate for favor and folly - of the Grand Arch-Devil in particular - in an attempt to claim portions of the other layers, of the [[Abyss]], and of the Material Planes.
 
-- [[Istratige]], Commander General and Arch-Devil of [[Avernus]]
-- [[Tektonas]], Architect and Arch-Devil of [[Dis]]
-- [[Prinkipas]], Maintainer and Arch-Devil of [[Minauros]]
+- [[Istratige]], *Commander General* and Arch-Devil of [[Avernus]]
+- [[Tektonas]], *Architect* and Arch-Devil of [[Dis]]
+- [[Prinkipas]], *Maintainer* and Arch-Devil of [[Minauros]]
 - [[Vasani]], Torturer General and Arch-Devil of [[Phlegethos]]
 - [[Psycra]], Ice King and Arch-Devil of [[Stygia]]
 - [[Syndeomai]], Domme and Arch-Devil of [[Malbolge]]
@@ -33,7 +33,6 @@ The Dukes are the minor management of Devil-kind. The Dukes ride a fine line of 
 - [[Ferochi]], Duke and Attack Dog of *Outpost Pesmenos*
 - [[Serkeree]], Duke and Commander of *Outpost Afierono*
 - [[Morik]], Duke and Theater Commander of *Beachhead Styx*
-- *High Crags*
 
 #### on Dis
 #### on Minauros
@@ -46,8 +45,31 @@ The Dukes are the minor management of Devil-kind. The Dukes ride a fine line of 
 ### Vassals
 The Vassals make up the "upper-working class" of the system of Devil-kind. They work jobs with which they are content, and largely perform voluntarily, pushing the harder or less pleasing work to their lessers. A vassal's duties are dependent on the region, and the whims of the Duke that controls it.
 
+#### on Avernus
+- *Knight*. A potent and proven fighter, the Knight leads a squad in battle with a level of independence. 
+- 
+#### on Dis
+#### on Minauros
+#### on Phlegethos
+#### on Stygia
+#### on Malbolge
+#### on Maladomini
+#### on Cania
+
 ### Lessers
 The majority of devil-kind are considered 'lessers'. They perform the work that must be done to fuel society on [[Baator]]. They rarely see opportunity for upward mobility, and most that they do see is by accident.
+
+#### on Avernus
+- *Peon*. The physical manifestation of an empty soul put to work on the frontlines of the Blood-War. Slow, and sloppy.
+- *Squire*. A Lesser formed of the soul of a soldier or mercenary in life. Largely humanoid, but small, only a 4' tallish - supporting a more powerful kin on the frontline.
+- *Soldier*. A Squire, promoted. Anything that isn't war for it's own sake has been stripped away. Taller, bulkier, and capable with it's equipment, a full-fledged fighter.
+#### on Dis
+#### on Minauros
+#### on Phlegethos
+#### on Stygia
+#### on Malbolge
+#### on Maladomini
+#### on Cania
 
 ## Culture
 Although each layer hosts it's own culture, and each species it's own subculture, devils generally are the incarnation of Evil, with a tinge of 'Law' - which they bend to their whims. While Devils will lie, cheat, and steal, the sacred honor of a "deal" goes unbroken.

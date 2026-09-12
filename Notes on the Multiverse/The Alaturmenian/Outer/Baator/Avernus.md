@@ -45,7 +45,7 @@ The legions of soldiers who fight here do so under their own banners, but, while
 The Ruined Titan was once a massive war-machine used in the [[Blood Wars of Fiends]]. Now, being buried in a wall of stone and flesh, it's host machine-spirit has become furious in it's lack of use. It waits, viciously, gnawing at itself for the taste of fresh blood and meat.
 
 #### High Crags
-The High Crags are largely unoccupied, excepting the natural fauna of the mountainous region. They may offer some advantage in their height, but with few viable targets, that advantage goes unutilized.
+The High Crags are largely unoccupied, excepting the natural fauna of the mountainous region. They may offer some advantage in their height, but with few viable targets for the Devils and no Demonic presence, that advantage goes unutilized.
 
 ### Flora
 ### Scenarios
