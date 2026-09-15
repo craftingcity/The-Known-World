@@ -109,7 +109,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ## Stats
 
-| L. 5 | XP: 11.2k          | / 14k | (3) Inspiration           |
+| L. 5 | XP: 11.2k          | / 14k | (1) Inspiration           |
 | ---- | ------------------ | ----- | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
 | CON  | 18 (+4)            | M. HP | 64 Max HP (0/5 Exhaust)   |
@@ -341,4 +341,4 @@ Brilynn & Klarl meet Szoldar & Yevgeni. It seems like they're animal hunters.
 
 We're going to meet the Wachter family to try to get Ireena a job.
 
-We meet the Butler, the Maid, and the Lady Wachter - of whom 
+We meet the Butler, the Maid, and the Lady Wachter - of whom none of which are fiendish, but I sniff out a presence that begins to escape me. I attempt to intimidate the butler into opening the door, but he refuses, and I fucking kill him for it, making good on my threats.
