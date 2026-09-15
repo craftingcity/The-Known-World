@@ -338,3 +338,7 @@ The sacred artifacts that protect the church - The Bones of Saint Andrull - have
 Our investigation into the Missing Bones continues. The Altar-boy, *Yeska*, told someone and will not reveal to whom. The Father of the Church believes the grave-keeper might have something to do with this. He did, and points us towards the Coffin-maker under oath.
 
 Brilynn & Klarl meet Szoldar & Yevgeni. It seems like they're animal hunters. 
+
+We're going to meet the Wachter family to try to get Ireena a job.
+
+We meet the Butler, the Maid, and the Lady Wachter - of whom 
