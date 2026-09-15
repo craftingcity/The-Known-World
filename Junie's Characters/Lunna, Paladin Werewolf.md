@@ -124,7 +124,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | .   | .   | .   | .   | .   | .    | .   |
-| o   | o   | .   | .   | .   | .   | .   |      |     |
+| o   | x   | .   | .   | .   | .   | .   |      |     |
 | o   | .   | .   | .   | .   |     |     | DC   | 13  |
 | .   |     |     |     |     |     |     | ATTK | +5  |
 
@@ -335,5 +335,5 @@ The sacred artifacts that protect the church - The Bones of Saint Andrull - have
 
 ### Session 10 - "In Vallaki"
 
-Our investigation into the Missing Bones continues. The Altar-boy, *Yeska*, told someone and will not reveal to whom. 
+Our investigation into the Missing Bones continues. The Altar-boy, *Yeska*, told someone and will not reveal to whom. The Fater of the Church believes the grave-keeper might have something to do with this.
 
