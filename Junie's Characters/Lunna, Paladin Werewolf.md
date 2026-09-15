@@ -216,7 +216,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - You attack twice instead of once when you take the Attack Action on your turn.
 
 #### Equipment
-20gp
+19gp, 90sp
 
 *Hands*: 
 	- Longsword (1d8 / 1d10 + STR slashing)
@@ -335,5 +335,6 @@ The sacred artifacts that protect the church - The Bones of Saint Andrull - have
 
 ### Session 10 - "In Vallaki"
 
-Our investigation into the Missing Bones continues. The Altar-boy, *Yeska*, told someone and will not reveal to whom. The Fater of the Church believes the grave-keeper might have something to do with this.
+Our investigation into the Missing Bones continues. The Altar-boy, *Yeska*, told someone and will not reveal to whom. The Father of the Church believes the grave-keeper might have something to do with this. He did, and points us towards the Coffin-maker under oath.
 
+Brilynn & Klarl meet Szoldar & Yevgeni. It seems like they're animal hunters. 
