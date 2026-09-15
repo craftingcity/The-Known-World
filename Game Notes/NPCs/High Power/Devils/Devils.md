@@ -62,6 +62,9 @@ The Vassals make up the "upper-working class" of the system of Devil-kind. They 
 - *Torturer*.
 
 #### on Stygia
+- *Styxian*
+- *Nobilia*
+
 #### on Malbolge
 #### on Maladomini
 #### on Cania
@@ -89,8 +92,9 @@ The majority of devil-kind are considered 'lessers'. They perform the work that 
 - *Slythe*.
 
 #### on Stygia
+- *Shiver*
 - *Wight*
-- 
+- *Stygian*
 
 #### on Malbolge
 #### on Maladomini
