@@ -329,8 +329,11 @@ Theres a Church, the Bar, two Nice Homes (Likely the Wachters & the Baron Vargis
 
 As Brilynn talks with the bartender - Danica, and tries to get *Ireena* a job here in town.
 
-Caspin and I go to the Church in town. We learn of the *Order of the Silver Dragon*; a group of knightly paladins led by Lord *Arganvost*. They opposed Straud, and were defeated by him. They held a stronghold South of Vallaki at the base of the Mountain, down the Luna River.
+Caspin and I go to the *Saint Andrull's* Church in town. We learn of the *Order of the Silver Dragon*; a group of knightly paladins led by Lord *Arganvost*. They opposed Straud, and were defeated by him. They held a stronghold South of Vallaki at the base of the Mountain, down the Luna River.
 
 The sacred artifacts that protect the church - The Bones of Saint Andrull - have gone missing. 
 
-### Session 10 - ""
+### Session 10 - "In Vallaki"
+
+Our investigation into the Missing Bones continues. The Altar-boy, *Yeska*, told someone and will not reveal to whom. 
+
