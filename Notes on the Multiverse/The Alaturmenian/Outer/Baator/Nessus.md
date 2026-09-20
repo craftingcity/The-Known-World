@@ -11,7 +11,7 @@ aliases:
 ## Boundaries
 ## Contents
 
-There is nothing here, now that we have entered this place.
+There is nothing here, now that we have entered this place. For as long as you persist through this empty desert, you will only see the throne of Hell when Asmodeus would have use of you.
 
 ### Flora
 ### Scenarios
