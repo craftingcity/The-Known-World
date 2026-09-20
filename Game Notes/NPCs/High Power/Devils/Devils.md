@@ -50,8 +50,8 @@ The Vassals make up the "upper-working class" of the system of Devil-kind. They 
 - *Commandant*. A Knight, promoted. Battle is a game we refuse to lose. Leading many Knights into battle, we make the choices our Duke wills upon us.
 
 #### on Dis
-- *Lender*.
-- *Landed*.
+- *Lender*. The bookies, the cattle barons, and the corporate industrialists - born and bleeding for the mythical value of currencies, forever hunting the most vulnerable to abuse.
+- *Landed*. The landlord, the taxman. Worse than the merchant or the lender, they own the life you live, and will remind you at every opportunity.
 
 #### on Minauros
 - *Laymen*.
@@ -83,11 +83,11 @@ The majority of devil-kind are considered 'lessers'. They perform the work that 
 - *Merchant*. The best of the worst, creating nothing of value and leeching on the labor of everyone they can.
 
 #### on Minauros
-- *Laborer*.
-- *Scribe*.
+- *Laborer*. The simple grunt worker, accepted and participated in the capitalist's lie, now cursed to toil forever in the unending labor of hell.
+- *Scribe*. A liar and a cheat, the lawyer scrubbing anything for the right price.
 
 #### on Phlegethos
-- *Lemur*.
+- *Lemur*. A soul tortured into an empty slime, led into the processor to fuel the everlight of the Pit.
 - *Impid*.
 - *Slythe*.
 
