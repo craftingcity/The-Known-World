@@ -54,11 +54,11 @@ The Vassals make up the "upper-working class" of the system of Devil-kind. They 
 - *Landed*. The landlord, the taxman. Worse than the merchant or the lender, they own the life you live, and will remind you at every opportunity.
 
 #### on Minauros
-- *Laymen*.
-- *Arbiter*.
+- *Laymen*. The contract enforcer, understander, and betrayer. Working around the Hells, we take the leftovers by law and turn them for our restoration.
+- *Arbiter*. It that decides, it that signs the contract. Once upon a time, we were the singular source of whole souls in all the Hells. Now most anyone can harvest a human - even the Demon scum.
 
 #### on Phlegethos
-- *Technician*.
+- *Technician*. It that makes the machines. Services the technologies of blood and steel. Torture is a statistic, and we can always make the number higher.
 - *Torturer*.
 
 #### on Stygia
@@ -88,8 +88,8 @@ The majority of devil-kind are considered 'lessers'. They perform the work that 
 
 #### on Phlegethos
 - *Lemur*. A soul tortured into an empty slime, led into the processor to fuel the everlight of the Pit.
-- *Impid*.
-- *Slythe*.
+- *Impid*. The gunk of processing taken form - the shittiest little portion of every soul we've ever taken. Assistance to their betters.
+- *Slythe*. The workhorse of the Fourth. Transport prisoners, equipment, and sometimes act in service outside of the Pits.
 
 #### on Stygia
 - *Shiver*.
