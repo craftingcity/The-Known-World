@@ -4,64 +4,209 @@
     "type": "split",
     "children": [
       {
-        "id": "e9cc095062103dd5",
-        "type": "tabs",
-        "dimension": 57.598784194528875,
+        "id": "a6d183df00efe9f1",
+        "type": "split",
         "children": [
           {
-            "id": "74992d1c97d1f046",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "405a082ecc6011e0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cf2c776c92d882e1",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Secretkeepers"
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
-                "mode": "source",
-                "source": true
               },
-              "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
-            }
-          }
-        ]
-      },
-      {
-        "id": "21cce085e09a0b3d",
-        "type": "tabs",
-        "dimension": 42.401215805471125,
-        "children": [
+              {
+                "id": "42b3cf15c4adf50e",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Prenotes Aug 28 26.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Prenotes Aug 28 26"
+                }
+              },
+              {
+                "id": "b311fd23f75f239c",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Baator"
+                }
+              },
+              {
+                "id": "08ac4034c7018b07",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/NPCs/High Power/Devils/Devils.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Devils"
+                }
+              }
+            ],
+            "currentTab": 3
+          },
           {
-            "id": "28a0b6cf8e639314",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "0c81bc9c61e4b903",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "036c3fd2ad2c4137",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Avernus"
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
-                "mode": "source",
-                "source": true
               },
-              "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
-            }
+              {
+                "id": "df0d26ebe7cf4ecc",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Dis"
+                }
+              },
+              {
+                "id": "5be07450242319ad",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Minauros"
+                }
+              },
+              {
+                "id": "12087c62302e01aa",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Phlegethos"
+                }
+              }
+            ],
+            "currentTab": 3
           }
-        ]
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -356,16 +501,64 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28a0b6cf8e639314",
+  "floating": {
+    "id": "4f2ab83018ac846a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5727592a2f9142df",
+        "type": "window",
+        "children": [
+          {
+            "id": "e885ef76d6e6c6f9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "524aec149063b9b6",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lunna, Paladin Werewolf"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 776,
+        "y": 0,
+        "width": 1008,
+        "height": 1400,
+        "maximize": true,
+        "zoom": -1
+      }
+    ]
+  },
+  "active": "524aec149063b9b6",
   "lastOpenFiles": [
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
-    "Prenotes Aug 28 26.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
-    "Game Notes/NPCs/High Power/Devils/Devils.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
+    "Game Notes/NPCs/High Power/Devils/Devils.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
+    "Prenotes Aug 28 26.md",
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Game Notes/Prenotes/'26/Prenotes July 03 26.md",
     "Game Notes/Prenotes/'26/Prenotes May 22 26.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",

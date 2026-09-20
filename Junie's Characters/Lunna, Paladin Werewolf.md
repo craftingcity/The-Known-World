@@ -335,10 +335,24 @@ The sacred artifacts that protect the church - The Bones of Saint Andrull - have
 
 ### Session 10 - "In Vallaki"
 
-Our investigation into the Missing Bones continues. The Altar-boy, *Yeska*, told someone and will not reveal to whom. The Father of the Church believes the grave-keeper might have something to do with this. He did, and points us towards the Coffin-maker under oath.
+Our investigation into the Missing Bones continues. The Altar-boy, *Yeska*, told someone and will not reveal to whom. The Father of the Church believes The Gravekeeper might have something to do with this. He did, and points us towards the Coffin-maker under oath. I drop my wallet for him.
+`The Gravekeeper reminds me of my Brother, Martin, but I don't conciously realize this.`
 
-Brilynn & Klarl meet Szoldar & Yevgeni. It seems like they're animal hunters. 
+Brilynn & Klarl meet Szoldar & Yevgeni. It seems like they're animal hunters. No-one likes it here in town. The Baron is forcing everyone to fake being happy - under threat of corporal punishment, if not worse. 
 
-We're going to meet the Wachter family to try to get Ireena a job.
+We're going to meet the Wachter family to try to get Ireena a job - they might be a better fit for a family to rule the town. There, we meet the Butler, the Maid, and the Lady Wachter. They all smell like they should, but I sniff out a fiendish presence that begins to escape me. I attempt to intimidate the butler into opening the door - on his honor, on the life of his Lady - but he refuses, and `I fucking kill him for it, making good on my threats, the scum, the waste of space; no-one in this town is worth keeping. 
+It would be better to start new. `Why do they have children here?`, we saw them in the stocks and no-one did anything, `not even you. You selfish, fucking self-serving whore! If you can't save a child - a girl ~like you~ - what fucking worth are you. I'm better than you. You're the fucking ~monster~.` 
 
-We meet the Butler, the Maid, and the Lady Wachter - of whom none of which are fiendish, but I sniff out a presence that begins to escape me. I attempt to intimidate the butler into opening the door, but he refuses, and I fucking kill him for it, making good on my threats.
+Who am `I?`
+
+`You are a murderer. How could you love anyone when you killed the people who gave you everything?`
+
+I can be better. I don't have to do this.
+
+`But I can't let it get away, so make a fucking choice. Kill youself now, or be worth anything at all, and die trying.`
+
+I am. I will. But we can't do this, we can't be this again. Please don't.
+
+`I'm not doing anything. You drew your sword. Finish this, one way or another. Or will I have to save your ass again?, just like I do every time you `
+
+### Session 11 - "My sword on their Throats"
