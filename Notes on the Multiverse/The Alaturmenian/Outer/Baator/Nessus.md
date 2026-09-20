@@ -11,15 +11,7 @@ aliases:
 ## Boundaries
 ## Contents
 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
-#### 
+There is nothing here, now that we have entered this place.
 
 ### Flora
 ### Scenarios
