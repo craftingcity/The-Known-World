@@ -501,56 +501,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "4f2ab83018ac846a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5727592a2f9142df",
-        "type": "window",
-        "children": [
-          {
-            "id": "e885ef76d6e6c6f9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "524aec149063b9b6",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Lunna, Paladin Werewolf"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 776,
-        "y": 0,
-        "width": 1008,
-        "height": 1400,
-        "maximize": true,
-        "zoom": -1
-      }
-    ]
-  },
-  "active": "524aec149063b9b6",
+  "active": "12087c62302e01aa",
   "lastOpenFiles": [
+    "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
     "Game Notes/NPCs/High Power/Devils/Devils.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
@@ -561,7 +514,6 @@
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Game Notes/Prenotes/'26/Prenotes July 03 26.md",
     "Game Notes/Prenotes/'26/Prenotes May 22 26.md",
-    "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Lundyson.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md",
     "An Ode to My Love.md",
