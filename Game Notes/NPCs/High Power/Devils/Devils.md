@@ -78,9 +78,9 @@ The majority of devil-kind are considered 'lessers'. They perform the work that 
 - *Soldier*. A Squire, promoted. Anything that isn't war and it's propagation is to be stripped away. Taller, bulkier, and capable with it's equipment, a full-fledged fighter.
 
 #### on Dis
-- *Laborer*.
-- *Smithir*.
-- *Merchant*.
+- *Laborer*. The simple grunt worker, accepted and participated in the capitalist's lie, now cursed to toil forever in the unending labor of hell.
+- *Smithir*. A lesser formed of the scammers and shoddy craftsfolks. Muscular arms are the only appendage necessary for this thing of creation - and their work is necessarily immaculate.
+- *Merchant*. The best of the worst, creating nothing of value and leeching on the labor of everyone they can.
 
 #### on Minauros
 - *Laborer*.
