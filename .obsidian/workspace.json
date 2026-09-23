@@ -60,8 +60,23 @@
               "icon": "lucide-file",
               "title": "Lunna, Paladin Werewolf"
             }
+          },
+          {
+            "id": "60d4b26e35bf74f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -356,8 +371,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28a0b6cf8e639314",
+  "active": "60d4b26e35bf74f2",
   "lastOpenFiles": [
+    "Junie's Characters/Lunna, Paladin Werewolf.md",
+    "conflict-files-obsidian-git.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Prenotes Aug 28 26.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
@@ -368,7 +385,6 @@
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md",
     "Game Notes/Prenotes/'26/Prenotes July 03 26.md",
     "Game Notes/Prenotes/'26/Prenotes May 22 26.md",
-    "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Lower Villages/Near Lakeview/Lundyson.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md",
     "An Ode to My Love.md",
@@ -383,7 +399,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Combine.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Coalition City.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Cenva Minyo.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Arms Companies and their Supply Regions.md",
     "Untitled.canvas",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",

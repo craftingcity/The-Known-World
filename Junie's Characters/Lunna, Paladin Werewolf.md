@@ -8,11 +8,13 @@ aliases:
 ## Follower of Avandra
 ### she/they/it
 
-> Boxtext for an action, outfit, and a physical trait.
+> A peachy woman wears her dark red hair as a loose braid or some half-noble vision of a refined hairstyle, her found faith as an armor of righteousness, and she bears her curse as a third party - although her face often betrays how interwoven The Beast and The Woman truly are. She shaves her face when no-one watches, usually before bed and in the morning. Her arms are covered in hair she refuses to see, and scars of cuts she gave herself every night it was too much. She is athletic, and though she doesn't believe it, she is very beautiful, very charming, and very smart. She is, however, quite aware of how cursed she is. 
+> Her other side, 'Annul' (a play on her chosen name; to remove or destroy, wholly and completely) is not honorable, or noble, or valiant. She is, by canine standards, very beautiful, charming, and smart as well - her dark copper fur covered in scars, wounds, and the blood of her enemies; her face betraying nothing but hatred, hunger, and the ever-present Bloodlust scarring her soul - but she rarely gets to participate in canine society. Instead, by civil standards, Annul is the Monster Lunna refuses to be. Beautiful only in her danger. Noble only in her rage. Honorable only in her violence.
+> Together, they are the girl and the dog at the same time, one dreams of the life of the other and both would kill themselves before they admitted it - or so they tell themselves and each other. 
 
-Lunna was a dreadfully boring girl. She liked dolls, dogs, and other cute things. She liked her family, she liked the place they lived, and she even liked the church. She was becoming an adult, weeks away from celebrating her 17th year of life, when she was attacked in the woods that surround her home. Some beast-thing, covered in fur and blood and danger, she remembers - but why it did not kill her she doesn't know. She doesn't quite understand. She wishes it had, in truth, and perhaps her story could have been short and sweet. 
+Lunna was once a dreadfully boring girl. She liked dolls, dogs, and other cute things. She liked her family, she liked the place they lived, and she even liked the church. She was becoming an adult, weeks away from celebrating her 17th year of life, when she was attacked in the woods that surround her home. Some beast-thing, covered in fur and blood and danger, she remembers - but why it did not kill her she doesn't know. She doesn't quite understand. She wishes it had, in truth, and perhaps her story could have been short and sweet. 
 
-But it didn't. So, instead, the ink of her story is written in own blood and sweat, her quill of tooth and claw. She is not cute. She is not sweet. She is a beast. But she refuses to be a Monster.
+But it didn't. So, instead, the ink of her story is written in her own blood and sweat, with her own quill of tooth and claw. She is not cute. She is not sweet. She is a beast. But she refuses to be a Monster.
 
 ## Roleplaying
 ###### "I am ***not*** a monster!"
@@ -84,7 +86,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 #### The Cards...
 ##### Knowledge; 9 of Swords - Torturer
 > There is a town where all is not well.
-	- "All is Well" is a reference to the Baron of Vallaki
+	- "All is Well" is a reference to the *Baron* of **Vallaki**?
 > There you will find a house of corruption,
 > and within, a dark room full of still ghosts
 
@@ -100,6 +102,8 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ##### Ally; xxx - Ghost
 > I see a fallen paladin, of a fallen order of knights.
+	- This is referring to the *Order of the Silver Dragon*?
+	- "They held a stronghold South of Vallaki at the base of the Mountain, down the Luna River."
 > He lingers like a ghost in a dead dragon's lair.
 
 ##### Enemy; Queen of Diamonds - Tempter
@@ -256,10 +260,14 @@ We are comrades with Caspin the Golden Dragonborn Sorcerer, Brilynn the Dark-Elf
 The Fog has come, and it follows us until we are somewhere we weren't before. We step through the Iron Gates, and the Fog allows us before the Gate closes it out.
 
 We're led to what seems like an abandoned town, where a pair of children tell us that there is a monster in their house with their baby brother.
+`Finally, something worth our time.`
 
 As we explore the house, we find a letter in a hidden room addressed to the house, from *Count Straud*. In addition, we find the deed to this house, a deed to a windmill, and the will of Gustav & Elisabeth Durst. 
+`Worthless papers of a long dead government, obviously.`
 
-Heading up to the Top floor, we encounter an apparition of a woman humming a lullaby that turns to attack us. I turned immediately as we got spooked by her, but turned back under my own will, and we continue to investigate the house.
+Heading up to the Top floor, we encounter an apparition of a woman humming a lullaby that turns to attack us. We turned immediately as we got spooked by her, 
+`Pussy, now they know. Better hope these ones believe you.`
+but turned back under my own will, and we continue to investigate the house.
 
 We solve the death of the kids, and the nurse and parents - some sort of infidelity or cult stuff - and then we head into the basement to defeat the monster there for the kids. I think it will help them become free from this place.
 
@@ -271,7 +279,7 @@ We find a room full of bones, at least sixty years old. And some prisoners' skel
 
 ### Session 3 - "This Evil Place"
 
-The fighting has taken effort, and my Turning leaves me tired. We should rest soon.
+The fighting has taken effort, and the Turning leaves me tired. We should rest soon.
 
 We've returned to the empty crypts to rest. Brilynn saw a bat on her watch, which looked at her before flying away. Ominous.
 
@@ -290,22 +298,24 @@ That Monster in the basement took me underwater, but we fought valiantly and def
 All is well in Rose's house.
 
 ### Session 5 - "The Village of Barovia"
-We meet *Ekdor* in town, and he talks with us for a while. In addition to many things about this place, he tells us the Mayor of the **Village of Barovia** has b een killed, his house assaulted for days and nights. His son, *Ismark the Lesser* claims the title, and is supposed to be "in charge" at the Tavern. The date today is July 21st - the next full Moon is on the 29th. We finish talking and having tea in the late Morning. We like *Ekdor*. 
+We meet *Ekdor* in town, and he talks with us for a while. In addition to many things about this place, he tells us the Mayor of the **Village of Barovia** has been killed, his house assaulted for days and nights. His son, *Ismark the Lesser* claims the title, and is supposed to be "in charge" at the Tavern. The date today is July 21st - the next full Moon is on the 29th. We finish talking and having tea in the late Morning. We like *Ekdor*. 
 
-We've entered the bar, and I kinda flirted with *Alenka* of the Vistani? Women there (*Alenka*, *Mirabeel*, and *Sorvia*). Apparently, they own this place. *Sorvia*, the Oldest of the three, was trying to shut the flirting down, but it seemed to be working. *Arik* is the bartender here at the *Blood on the Vine*. Alenka talked about finding *Madam Eva* near the **Tser Pool** - she said I might find her there, so I'd like to.
+We've entered the bar, and I kinda flirted with *Alenka* of the Vistani Women there (*Alenka*, *Mirabeel*, and *Sorvia*). Apparently, they own this place. *Sorvia*, the Oldest of the three, was trying to shut the flirting down, but it seemed to be working. *Arik* is the bartender here at the *Blood on the Vine*. Alenka talked about finding *Madam Eva* near the **Tser Pool** - she said I might find her there, so I'd like to.
 
 Caspin started talking with *Ismark*. We eventually buy him a bottle of Red Dragon Crush Wine, bottled at the **Wizard of Wines**, and he tells us that his sister, *Ireena*, has drawn the attention of *Straud*, and her rejection of him led to the attacks at the house. Ismark wants us to take her somewhere "safer than here".
 
 ### Session 6 - "Meet the Bride"
 We arrive at Ismark's Estate. Today is the 22nd. Outside is a state of disarray, but inside is fine, leading us to learn that Vampires here cannot enter a residence without permission? Ismark and Ireena are not twins, Ismark is older, and they don't really even look related.
 
-We meet with *Ireena*, and we take the Burghermister's corpse and coffin to the Parish in the North side of the Village. The Father of the Parish is holding his Son, who has fallen to Vamparism, in his basement. We killed his son, and he killed himself. Day wasted.
+We meet with *Ireena*, and we take the Burghermister's corpse and coffin to the Parish in the North side of the Village. The Father of the Parish is holding his Son, who has fallen to Vamparism, in his basement. We killed his son, and he killed himself. Day wasted, but job's done.
+`Why didn't you care? Bigger fish to fry? It's the little things that matter, girl.`
 
 ### Session 7 - "Zombies Come to the House of the Mayor"
 
 As we're passing the day, Klarl and I encounter a Fiend that is selling "Dreampastries", that she's getting from a specific house that we know about.
 
-We spend the night - but we're interrupted by a bunch of hobbly weird guys - zombies.
+We spend the night, but we're interrupted by a bunch of hobbly weird guys - zombies - whom we dispatch easily.
+`Thanks to me. But sure, take me out and put me away, ~just like they did~.`
 
 We rested!
 
@@ -313,7 +323,9 @@ We rested!
 
 Today is the 23rd. We leave the **Village of Barovia** early in the morning, and upon going to cross the bridge over the nearby river, we are accosted by large wolves, and a pair of vampires hanging under the bridge.
 
-We make our way to the **Tser Pool**, where *Alenka* is not awaiting and apparently only comes infrequently, and we meet a man named *Bogen* who lied about knowing the people on Klarl's card. He tells us that *Straud* was a mortal prince once, and he "fell in battle" until the Vistani nursed him back into health - earning them freedom of travel to and from this place. 
+We make our way to the **Tser Pool**, where *Alenka* is not awaiting and apparently only comes infrequently,
+`Oh? So she lied? What, could she tell? I was so excited about this one, did you scare her off or was she just using us?`
+and we meet a man named *Bogen* who lied about knowing the people on Klarl's card. He tells us that *Straud* was a mortal prince once, and he "fell in battle" until the Vistani nursed him back into health - earning them freedom of travel to and from this place. 
 
 We meet with *Madam Eva*. Somehow, she knows us beyond what we've revealed. She reads [[#The Cards...]] to us. 
 
@@ -321,24 +333,64 @@ We meet with *Madam Eva*. Somehow, she knows us beyond what we've revealed. She 
 
 We pass by a cart we think is owned by Straud. It was empty, but opened for us before we sent it away empty. We passed by the **Old Windmill** on our way to **Vallaki**, and are followed through the forest by a leapfrogging pack of Ravens.
 
-We meet *Nameera*, and *Sergee*, who guard the gate to Vallaki. The Blue Water Inn is the bar they recommend, but Sergee is very forceful against his coworker's friendliness. Apparently this town does Wolf meat.
+We meet *Nameera*, and *Sergee*, who guard the gate to Vallaki. 
+`Take the girl, please. I'm so hungry.`
+The Blue Water Inn is the bar they recommend, but Sergee is very forceful against his coworker's friendliness. Apparently this town does Wolf meat. And they hold people in stocks, and their infrastructure is failing, and they hold weird festivals where you have to bring your kids and 'all will be well'.
+`Not people, Kids. Mothers, Fathers, Sisters, Brothers, Sons, and Daughters alike. They are common people. They need to eat, to be free.`
+`Why are we doing nothing. Let us do something. Anything? Luck, Liberty and Faith?`
 
-And hold people in stocks, and their infrastructure is failing, and they hold weird festivals where you have to bring your kids and 'all will be well'.
+Theres a few places of note. *Saint Andrull's*, *Danica's*, the House of the *Wachters*, and the House of the *Baron Vargis Vallakovich*, and a Pattock that we can see from the square.
 
-Theres a Church, the Bar, two Nice Homes (Likely the Wachters & the Baron Vargis Vallakovich), and a Pattock that we can see from the square.
+Brilynn talks with the bartender - *Danica*, and tries to get *Ireena* a job here in town.
 
-As Brilynn talks with the bartender - Danica, and tries to get *Ireena* a job here in town.
+Caspin and I go to the *Saint Andrull's* Church in town. We learn of the *Order of the Silver Dragon*; a group of knightly paladins led by Lord *Arganvost*. They opposed Straud, but were defeated by him. They held a stronghold South of Vallaki at the base of the Mountain, down the Luna River.
 
-Caspin and I go to the *Saint Andrull's* Church in town. We learn of the *Order of the Silver Dragon*; a group of knightly paladins led by Lord *Arganvost*. They opposed Straud, and were defeated by him. They held a stronghold South of Vallaki at the base of the Mountain, down the Luna River.
-
-The sacred artifacts that protect the church - The Bones of Saint Andrull - have gone missing. 
+The sacred artifacts that protect the church - The Bones of *Saint Andrull* - have gone missing...
 
 ### Session 10 - "In Vallaki"
 
-Our investigation into the Missing Bones continues. The Altar-boy, *Yeska*, told someone and will not reveal to whom. The Father of the Church believes the grave-keeper might have something to do with this. He did, and points us towards the Coffin-maker under oath.
+Our investigation into the The Bones of *Saint Andrull* continues. The Altar-boy, *Yeska*, told someone but will not reveal whom. The *Father* of the Church believes The *Gravekeeper* might have something to do with this. He did, and points us towards the Coffin-maker under oath. I drop my wallet for him.
+`The Gravekeeper reminds me of your Brother, Matthew, but I don't think you noticed.`
 
-Brilynn & Klarl meet Szoldar & Yevgeni. It seems like they're animal hunters. 
+Brilynn & Klarl meet *Szoldar & Yevgeni*. It seems like they're animal hunters. No-one likes it here in town. The Baron is forcing everyone to fake being happy - under threat of corporal punishment, if not worse. 
 
-We're going to meet the Wachter family to try to get Ireena a job.
+We're going to meet the *Wachter* family to try to get Ireena a job - they might be a better fit for a family to rule the town. There, we meet the Butler, the Maid, and the *Lady Wachter*. They all smell like they should, but I sniff out a fiendish presence that begins to escape me. I attempt to intimidate the Butler into opening the door - on his honor, on the safety of his *Lady* - but he refuses, `and you should fucking kill him for it, make good on your threats against this scum, this waste of space; obviously no-one in this town is worth keeping if a butler can't open a door.`
 
-We meet the Butler, the Maid, and the Lady Wachter - of whom none of which are fiendish, but I sniff out a presence that begins to escape me. I attempt to intimidate the butler into opening the door, but he refuses, and I fucking kill him for it, making good on my threats.
+> It would be better to start new. `Why do they have children here?`, we saw them in the stocks and no-one did anything, `not even you. You selfish, fucking self-serving whore! If you can't save a child - a girl ~like you~ - what fucking worth are you? I'm better than you. I could have freed them. You're the fucking ~monster~ for keeping me inside.` 
+> Who `are you lying to?` 
+> `It's you. Always, you lie to yourself - so even if you feel like you're telling the truth, you know you aren't. "Affected by Lycanthropy". Like I'm not always here.`
+> Why do `you keep doing this?`
+> `It's because you are a ~murderer~. How could you love anyone when you killed the people who gave you everything?`
+> I can be better. I don't have to do this.
+> `But you can't let the 'monster' get away, so you need to make a fucking choice. Kill the innocent thing now, or - be worth anything at all - and die trying.`
+> I am. I will. But we can't do this, we can't be this again. Please don't.
+> `I'm not doing anything. You drew your sword. You're the one with 'Honor', right? 'Luck, Liberty, and Faith', like you preach? Finish this, one way or another. Or will I have to save your ass again? Like I do every time you and your righteous ideals put us both in danger? Like I do every time you try ~so hard~ and fail, and fail, and fail!`
+> I am not a Monster.
+> `No, sweetheart, of course not! You're worse!`
+> I AM NOT A MONSTER
+> `You're the wolf in sheep's clothing, oh so literally.`
+> `You say "I'm a monster hunter! I'm a holy woman! I'm safe, and sane, and I can make things better! And then you "TRY" - LIKE THE DUMBASS YOU ARE, AND YOU HURT EVERYONE, EVERY-FUCKING-TIME!`
+> I AM `WORSE THAN NOTHING`
+> I AM `A WORTHLESS HUSK, A WASTE OF SPACE`
+> I AM `A WALKING CORPSE, BETTER OF DEAD AND BURIED AND FORGOTTEN`
+> I AM `A PETULANT FUCKING CHILD WHO THINKS SHE KNOWS ANYTHING ABOUT ANYTHING`
+> I AM `SO USELESS, SO PATHETIC, AND SO LITTLE WITHOUT THE MEAGER SCRAPS YOU ARE FED BY YOUR BETTERS`
+> `LET ME KILL - LET ME PUT AN END TO THIS. TONIGHT YOU WILL FINALLY BE 'FREE' - BY THE HANDS OF THE ONES DUMB ENOUGH TO KEEP YOU AROUND, THE FOOLS DELUDED ENOUGH TO BELIVE YOUR IDEALS ARE THE THINGS THAT FUEL YOUR ACTIONS, OR THE SCUM HUNTERS THAT ARE TOO AFRAID OF LIVING THAT THEY WOULD LET THEMSELVES DIE OF STARVATION AND DISEASE AND BOREDOM IN A TOWN THAT LIES AS POLICY AND FORCES YOU TO SMILE ALONG? OR LET ~ME~ BE FREE OF THESE GOD-AWFUL PEOPLE WHO WANT NOTHING FOR ANYONE BUT THEMSELVES`
+> I am so sorry. 
+> I am so sorry you're scared.
+> `DO ~NOT~ PATRONIZE ME, CHILD!`
+> I want to forgive you, and I want to forgive myself.
+> `YOU ARE NOT WORTH FORGIVING, YOU DESERVE LESS THAN YOU HAVE EVER HAD.`
+> You are not alone. Please. Let it go. We're all scared. I am so scared of you. I am so scared of myself. I am so scared of everything, all the time, and I know you are too. You're good at changing things.
+> `EVEN YOUR GOD HATES YOU.`
+> You change your despair for anger.
+> `I AM BORN IN BLOOD!`
+> You change your fear for bravado.
+> `I AM WORTH MY WEIGHT!`
+> You change your sadness for violence.
+> `I AM UNDOUBTABLE, I AM ABOVE ALL, I AM YOUR BETTER!!`
+> I want to help you change it all, like you think I pretend to. I just need `TO SHUT UP!`
+ 
+`This is all in your head. You have your sword drawn, girl. Use it or lose it.`
+
+### Session 11 - "The Sword of Civility"

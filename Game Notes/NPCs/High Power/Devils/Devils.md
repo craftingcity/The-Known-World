@@ -50,15 +50,15 @@ The Vassals make up the "upper-working class" of the system of Devil-kind. They 
 - *Commandant*. A Knight, promoted. Battle is a game we refuse to lose. Leading many Knights into battle, we make the choices our Duke wills upon us.
 
 #### on Dis
-- *Lender*.
-- *Landed*.
+- *Lender*. The bookies, the cattle barons, and the corporate industrialists - born and bleeding for the mythical value of currencies, forever hunting the most vulnerable to abuse.
+- *Landed*. The landlord, the taxman. Worse than the merchant or the lender, they own the life you live, and will remind you at every opportunity.
 
 #### on Minauros
-- *Laymen*.
-- *Arbiter*.
+- *Laymen*. The contract enforcer, understander, and betrayer. Working around the Hells, we take the leftovers by law and turn them for our restoration.
+- *Arbiter*. It that decides, it that signs the contract. Once upon a time, we were the singular source of whole souls in all the Hells. Now most anyone can harvest a human - even the Demon scum.
 
 #### on Phlegethos
-- *Technician*.
+- *Technician*. It that makes the machines. Services the technologies of blood and steel. Torture is a statistic, and we can always make the number higher.
 - *Torturer*.
 
 #### on Stygia
@@ -78,18 +78,18 @@ The majority of devil-kind are considered 'lessers'. They perform the work that 
 - *Soldier*. A Squire, promoted. Anything that isn't war and it's propagation is to be stripped away. Taller, bulkier, and capable with it's equipment, a full-fledged fighter.
 
 #### on Dis
-- *Laborer*.
-- *Smithir*.
-- *Merchant*.
+- *Laborer*. The simple grunt worker, accepted and participated in the capitalist's lie, now cursed to toil forever in the unending labor of hell.
+- *Smithir*. A lesser formed of the scammers and shoddy craftsfolks. Muscular arms are the only appendage necessary for this thing of creation - and their work is necessarily immaculate.
+- *Merchant*. The best of the worst, creating nothing of value and leeching on the labor of everyone they can.
 
 #### on Minauros
-- *Laborer*.
-- *Scribe*.
+- *Laborer*. The simple grunt worker, accepted and participated in the capitalist's lie, now cursed to toil forever in the unending labor of hell.
+- *Scribe*. A liar and a cheat, the lawyer scrubbing anything for the right price.
 
 #### on Phlegethos
-- *Lemur*.
-- *Impid*.
-- *Slythe*.
+- *Lemur*. A soul tortured into an empty slime, led into the processor to fuel the everlight of the Pit.
+- *Impid*. The gunk of processing taken form - the shittiest little portion of every soul we've ever taken. Assistance to their betters.
+- *Slythe*. The workhorse of the Fourth. Transport prisoners, equipment, and sometimes act in service outside of the Pits.
 
 #### on Stygia
 - *Shiver*.

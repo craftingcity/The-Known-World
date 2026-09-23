@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Devils",
+      "path": "Game Notes/NPCs/High Power/Devils/Devils.md"
+    },
+    {
+      "basename": "Phlegethos",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md"
+    },
+    {
+      "basename": "Malbolge",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Malbolge.md"
+    },
+    {
+      "basename": "Nessus",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Nessus.md"
+    },
+    {
+      "basename": "Baator",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
+    },
+    {
+      "basename": "Cania",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Cania.md"
+    },
+    {
+      "basename": "Maladomini",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md"
+    },
+    {
+      "basename": "Stygia",
+      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Stygia.md"
+    },
+    {
       "basename": "Lunna, Paladin Werewolf",
       "path": "Junie's Characters/Lunna, Paladin Werewolf.md"
     },
@@ -13,14 +45,6 @@
       "path": "Prenotes Aug 28 26.md"
     },
     {
-      "basename": "Baator",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md"
-    },
-    {
-      "basename": "Devils",
-      "path": "Game Notes/NPCs/High Power/Devils/Devils.md"
-    },
-    {
       "basename": "Avernus",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md"
     },
@@ -31,10 +55,6 @@
     {
       "basename": "Minauros",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md"
-    },
-    {
-      "basename": "Phlegethos",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Phlegethos.md"
     },
     {
       "basename": "A Grand Notepad",
@@ -179,26 +199,6 @@
     {
       "basename": "Major Agricultural Harvests",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md"
-    },
-    {
-      "basename": "Cenva Minyo",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Cenva Minyo.md"
-    },
-    {
-      "basename": "Dwarven Kingdom Actstow",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Actstow.md"
-    },
-    {
-      "basename": "Economics of Actstow",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Economics of Actstow.md"
-    },
-    {
-      "basename": "Arthur's Knights",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/The Kingdom of Prosper/Factions/Arthur's Knights.md"
-    },
-    {
-      "basename": "APGtAv1",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md"
     }
   ],
   "omittedPaths": [],
