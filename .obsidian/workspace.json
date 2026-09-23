@@ -60,23 +60,8 @@
               "icon": "lucide-file",
               "title": "Lunna, Paladin Werewolf"
             }
-          },
-          {
-            "id": "60d4b26e35bf74f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -371,10 +356,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60d4b26e35bf74f2",
+  "active": "28a0b6cf8e639314",
   "lastOpenFiles": [
-    "Junie's Characters/Lunna, Paladin Werewolf.md",
     "conflict-files-obsidian-git.md",
+    "Junie's Characters/Lunna, Paladin Werewolf.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Prenotes Aug 28 26.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
