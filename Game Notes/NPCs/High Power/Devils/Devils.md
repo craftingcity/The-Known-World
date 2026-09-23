@@ -59,7 +59,7 @@ The Vassals make up the "upper-working class" of the system of Devil-kind. They 
 
 #### on Phlegethos
 - *Technician*. It that makes the machines. Services the technologies of blood and steel. Torture is a statistic, and we can always make the number higher.
-- *Torturer*.
+- *Torturer*. It that performs the extraction.
 
 #### on Stygia
 - *Styxian*.
