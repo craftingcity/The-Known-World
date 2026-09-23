@@ -172,7 +172,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 
 ##### Lycanthropy
 - You are a Lycanthrope. Under the light of the full moon, or in reaction to surging emotions, (and otherwise to your DM's discretion) you will be compelled to Transform.
-	- If you would resist any Lycanthropic compulsions, make a Bloodlust Skill Check. If you fail, you follow your compulsion anyway.
+	- If you would resist any Lycanthropic compulsions, including triggered, make a Bloodlust Skill Check. If you fail, you follow your compulsion anyway.
 	- You may choose to Transform as an Action, but you will be compelled by your Bloodlust as usual.
 - While Transformed...
 	- you are compelled to take the Attack Action on your turn against a creature of the DM's choice
