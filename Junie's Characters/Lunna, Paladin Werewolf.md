@@ -175,7 +175,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 	- If you would resist any Lycanthropic compulsions, including triggered, make a Bloodlust Skill Check. If you fail, you follow your compulsion anyway.
 	- You may choose to Transform as an Action, but you will be compelled by your Bloodlust as usual.
 - While Transformed...
-	- you are compelled to take the Attack Action on your turn against a creature of the DM's choice
+	- you are compelled by Bloodlust to take the Attack Action on your turn against a creature of the DM's choice
 	- you gain immunity to non-magical and/or non-silvered piercing, slashing and bludgeoning damage
 	- you gain advantage on Perception Checks based on Sound or Smell
 	- you cannot speak
@@ -208,7 +208,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
 
 ##### Divine Smite
-- When you hit a creature with a melee weapon attack (including natural weapons, and if that attack was not compelled by Lycanthropy), you may expend a spell slot to deal additional d8s of radiant damage to the target, the number of which is equal to the spell slot level plus one. The number of dice increases by an additional one if the target is undead or fiendish.
+- When you hit a creature with a melee weapon attack (including natural weapons, if that attack was not compelled by Bloodlust), you may expend a spell slot to deal additional d8s of radiant damage to the target, the number of which is equal to the spell slot level plus one. The number of dice increases by an additional one if the target is undead or fiendish.
 
 ##### Divine Health
 - You are immune to (most) disease.
@@ -326,7 +326,7 @@ We rested!
 Today is the 23rd. We leave the **Village of Barovia** early in the morning, and upon going to cross the bridge over the nearby river, we are accosted by large wolves, and a pair of vampires hanging under the bridge.
 
 We make our way to the **Tser Pool**, where *Alenka* is not awaiting and apparently only comes infrequently,
-`Oh? So she lied? What, could she tell? I was so excited about this one, did you scare her off or was she just using us?`
+`Oh? So she lied? What, could she tell? I was so excited about this one, did you scare her off, or was she just using us?`
 and we meet a man named *Bogen* who lied about knowing the people on Klarl's card. He tells us that *Straud* was a mortal prince once, and he "fell in battle" until the Vistani nursed him back into health - earning them freedom of travel to and from this place. 
 
 We meet with *Madam Eva*. Somehow, she knows us beyond what we've revealed. She reads [[#The Cards...]] to us. 

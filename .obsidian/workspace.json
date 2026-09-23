@@ -6,7 +6,6 @@
       {
         "id": "e9cc095062103dd5",
         "type": "tabs",
-        "dimension": 57.59878419452887,
         "children": [
           {
             "id": "74992d1c97d1f046",
@@ -17,29 +16,34 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Lunna, Paladin Werewolf",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Junie's Characters/Lunna, Paladin Werewolf.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lunna, Paladin Werewolf\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.58265733102679}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
+              "title": "Custom Diseases"
             }
           }
         ]
       },
       {
-        "id": "21cce085e09a0b3d",
+        "id": "3aec22bce7b545e3",
         "type": "tabs",
-        "dimension": 42.40121580547113,
         "children": [
           {
-            "id": "28a0b6cf8e639314",
+            "id": "1224bc5033912ff2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -47,18 +51,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Lunna, Paladin Werewolf",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Junie's Characters/Lunna, Paladin Werewolf.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Lunna, Paladin Werewolf\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.58265733102679}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
+              "title": "Custom Diseases"
             }
           }
         ]
@@ -356,10 +366,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28a0b6cf8e639314",
+  "active": "1224bc5033912ff2",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
+    "conflict-files-obsidian-git.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Prenotes Aug 28 26.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
