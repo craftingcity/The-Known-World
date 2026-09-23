@@ -162,7 +162,7 @@ At Stage One, the Lycanthrope is experiencing or has experienced their first *Tr
 
 A Lycanthrope will be triggered to *Transform* under stress, intense emotion, or the light of the Full Moon (i.e. whenever you or your DM decides). When triggered this way, the Lycanthrope may make a Wisdom Saving Throw to resist and retain their true form (the DC of which is set by your DM). If they fail, they are *Transformed with Bloodlust*.
 
-As an Action, while in their True Form, the Lycanthrope may choose to Transform. When they do, they immediately make a Wisdom Save to dissuade their *Bloodlust*.
+As an Action, while in their True Form, the Lycanthrope may choose to *Transform*. When they do, they immediately make a Wisdom Save to dissuade their *Bloodlust*.
 
 While *Transformed*, a Lycanthrope experiences the following:
  - You cannot speak. 
@@ -175,11 +175,10 @@ While *Transformed*, a Lycanthrope experiences the following:
  - You have Resistance to Bludgeoning, Piercing, or Slashing damage from non-magical or non-silver weapons.
  - You have two Natural Weapons, a Strength-based Bite Attack (2d6) and a Strength-based Claw Attack (1d8). When you make an Attack as an Action using one of your Natural Weapons, you may use your Bonus Action to make an Attack using the other Natural Weapon.
  - If you have dissuaded your *Bloodlust*, you may spend an Action to return to your true form.
- - When you are reduced to 0 or fewer Hit Points, you are returned to your true form.
+ - When you are reduced to 0 or fewer Hit Points, you are forcibly returned to your true form.
  - When you return to your true form, you gain a point of Exhaustion.
 
 At the beginning of the Lycanthrope's turn, if they are *Transformed with Bloodlust*, they may make a Wisdom Saving Throw (the DC of which is set by your DM) to dissuade their *Bloodlust* and regain control of themselves. If they fail, they must make an Attack against a creature of the DM's choice during this turn. If they succeed, their *Bloodlust* subsides, and the Lycanthrope regains control of themselves.
 
-When the Lycanthrope reduces another creature to 0 or fewer Hit Points, if that creature bleeds and the Lycanthrope is *Transformed with Bloodlust*, the Lycanthrope makes a Wisdom Saving Throw (the DC of which is set by your DM). If they fail, they spend their next available Action consuming the flesh of the creature and they gain a Bestial Progression.
+When the Lycanthrope reduces a creature to 0 or fewer hit points, 
 
-When the Lycanthrope has three or more Bestial Progression, they may increase an Ability Score of their choice by 1 by spending three Bestial Progression.
