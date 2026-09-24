@@ -180,5 +180,9 @@ While *Transformed*, a Lycanthrope experiences the following:
 
 At the beginning of the Lycanthrope's turn, if they are *Transformed with Bloodlust*, they may make a Wisdom Saving Throw (the DC of which is set by your DM) to dissuade their *Bloodlust* and regain control of themselves. If they fail, they must make an Attack against a creature of the DM's choice during this turn. If they succeed, their *Bloodlust* subsides, and the Lycanthrope regains control of themselves.
 
-When the Lycanthrope reduces a creature to 0 or fewer hit points while they are *Transformed*, if they have dissuaded their *Bloodlust*, they gain a Houndish Progression. Otherwise, they gain a Mongrel Progression. Then, if they have 10 or more Houndish Progression, the disease progresses to Stage 2-A, or if they have 10 or more Mongrel Progression, the disease progresses to Stage 2-B.
+When the Lycanthrope reduces a living humanoid creature to 0 or fewer hit points while they are *Transformed*, if they have dissuaded their *Bloodlust*, they gain a Houndish Progression. Otherwise, they gain a Mongrel Progression. Then, if they have 10 or more Houndish Progression, the disease progresses to Stage Two-A, or if they have 10 or more Mongrel Progression, the disease progresses to Stage Two-B.
 
+#### Stage Two-A, 'Houndish'
+At Stage Two-A, the Lycanthrope has experienced a number of *Transformations*, during which they have shown control over their *Bloodlust*
+
+#### Stage Two-B, 'Mongrel'
