@@ -164,10 +164,12 @@ A Lycanthrope will be triggered to *Transform* under stress, intense emotion, or
 
 As an Action, while in their True Form, the Lycanthrope may choose to *Transform*. When they do, they immediately make a Wisdom Save to dissuade their *Bloodlust*.
 
+When a Lycanthrope *Transforms*, they drop anything they are holding and any armor they are wearing is destroyed, or removed and dropped if it cannot be destroyed.
+
 While *Transformed*, a Lycanthrope experiences the following:
  - You cannot speak. 
  - You cannot pick up or hold most items, including traditional weapons.
- - You cannot wear any armor, and if you were wearing armor while you Transformed, it is destroyed.
+ - You cannot wear any armor.
  - Your Armor Class is equal to 10 plus the total of your Dexterity and Constitution Modifiers.
  - Your Strength Modifier is increased by 1.
  - Your Walking Speed is increased by 10'.
@@ -185,7 +187,11 @@ While *Transformed*, a Lycanthrope experiences the following:
 #### Stage Two-A, 'Houndish'
 At Stage Two-A, the Lycanthrope has experienced a number of *Transformations*, during which they have shown that they control their *Bloodlust*, rather than it controlling them. 
 
-A Houndish Lycanthrope 
+A 'Houndish' Lycanthrope has a +5 bonus to Wisdom Saving Throws made to resist *Transformation* or dissuade their *Bloodlust*, and retains their Advantage on Perception Checks that rely on hearing or smell while they are not *Transformed*.
+
+A 'Houndish' Lycanthrope experiences *Transformation* as in Stage One, excepting the following:
+- Your Strength Modifier is increased by 2.
+- Your Natural Weapons each deal an extra damage die.
 
 #### Stage Two-B, 'Mongrel'
 At Stage Two-B, the Lycanthrope has experienced a number of *Transformations*, during which they have failed to control their *Bloodlust*. 
