@@ -173,20 +173,19 @@ While *Transformed*, a Lycanthrope experiences the following:
  - Your Walking Speed is increased by 10'.
  - You have Advantage on Perception Checks that rely on hearing or smell.
  - You have Resistance to Bludgeoning, Piercing, or Slashing damage from non-magical or non-silver weapons.
- - You have two Natural Weapons, a Strength-based Bite Attack (2d6) and a Strength-based Claw Attack (1d8). When you make an Attack as an Action using one of your Natural Weapons, you may use your Bonus Action to make an Attack using the other Natural Weapon.
- - At the beginning of your turn, if you have not dissuaded your *Bloodlust*, make a Wisdom Saving Throw to dissuade your *Bloodlust*. If you fail, you must make an Attack against a creature of the DM's choice during this turn. Otherwise, you have dissuaded your B
+ - You have two Natural Weapons, a Strength-based **Bite Attack** (2d6) and a Strength-based **Claw Attack** (1d8). When you make an Attack as an Action using one of your Natural Weapons, you may use your Bonus Action to make an Attack using the other Natural Weapon.
+ - At the beginning of your turn, if you have not dissuaded your *Bloodlust*, make a Wisdom Saving Throw to dissuade your *Bloodlust*. If you fail, you must make an Attack against a creature of the DM's choice during this turn. Otherwise, you have dissuaded your *Bloodlust* and can act 'as normal' until you regain *Bloodlust*.
  - If you have dissuaded your *Bloodlust*, you may spend an Action to return to your true form.
  - When you are reduced to 0 or fewer Hit Points, you are forcibly returned to your true form.
  - When you return to your true form, you gain a point of Exhaustion.
  - When you reduce a living humanoid creature to 0 or fewer hit points...
-	 - If you dissuaded your *Bloodlust*, you gain a Houndish Progression.
-	 - If you have not dissuaded your *Bloodlust*, you gain a Mongrel Progression, and if you considered that creature an Ally, you lose three Houndish Progression.
-
-At the beginning of the Lycanthrope's turn, if they are *Transformed with Bloodlust*, they may make a Wisdom Saving Throw (the DC of which is set by your DM) to dissuade their *Bloodlust* and regain control of themselves. If they fail, they must make an Attack against a creature of the DM's choice during this turn. If they succeed, their *Bloodlust* subsides, and the Lycanthrope regains control of themselves.
-
-When the Lycanthrope reduces a living humanoid creature to 0 or fewer hit points while they are *Transformed*, if they have dissuaded their *Bloodlust*, they gain a Houndish Progression. Otherwise, they gain a Mongrel Progression. Then, if they have 10 or more Houndish Progression, the disease progresses to Stage Two-A, or if they have 10 or more Mongrel Progression, the disease progresses to Stage Two-B.
+	 - If you dissuaded your *Bloodlust*, you gain a Houndish Progression. Then, if you have 10 or more Houndish Progression, your Lycanthropy advances to Stage Two-A.
+	 - If you have not dissuaded your *Bloodlust*, you gain a Mongrel Progression, and if you considered that creature an Ally, you lose three Houndish Progression. Then, if you have 10 or more Mongrel Progression, your Lycanthropy advances to Stage Two-B.
 
 #### Stage Two-A, 'Houndish'
-At Stage Two-A, the Lycanthrope has experienced a number of *Transformations*, during which they have shown a level of control over their *Bloodlust*. 
+At Stage Two-A, the Lycanthrope has experienced a number of *Transformations*, during which they have shown that they control their *Bloodlust*, rather than it controlling them. 
+
+A Houndish Lycanthrope 
 
 #### Stage Two-B, 'Mongrel'
+At Stage Two-B, the Lycanthrope has experienced a number of *Transformations*, during which they have failed to control their *Bloodlust*. 
