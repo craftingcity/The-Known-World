@@ -167,7 +167,7 @@ As an Action, while in their True Form, the Lycanthrope may choose to *Transform
 While *Transformed*, a Lycanthrope experiences the following:
  - You cannot speak. 
  - You cannot pick up or hold most items, including traditional weapons.
- - You cannot wear any armor, and if you are wearing armor while you Transform, it is destroyed.
+ - You cannot wear any armor, and if you were wearing armor while you Transformed, it is destroyed.
  - Your Armor Class is equal to 10 plus the total of your Dexterity and Constitution Modifiers.
  - Your Strength Modifier is increased by 1.
  - Your Walking Speed is increased by 10'.
