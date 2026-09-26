@@ -176,7 +176,7 @@ While *Transformed*, a Lycanthrope experiences the following:
  - You have Advantage on Perception Checks that rely on hearing or smell.
  - You have Resistance to Bludgeoning, Piercing, or Slashing damage from non-magical or non-silver weapons.
  - You have two Natural Weapons, a Strength-based **Bite Attack** (2d6) and a Strength-based **Claw Attack** (1d8). When you make an Attack as an Action using one of your Natural Weapons, you may use your Bonus Action to make an Attack using the other Natural Weapon.
- - At the beginning of your turn, if you have not dissuaded your *Bloodlust*, make a Wisdom Saving Throw to dissuade your *Bloodlust*. If you fail, you must make an Attack against a creature of the DM's choice during this turn. Otherwise, you have dissuaded your *Bloodlust* and can act 'as normal' until you regain *Bloodlust*.
+ - At the beginning of your turn, if you have not dissuaded your *Bloodlust*, make a Wisdom Saving Throw to dissuade your *Bloodlust*. If you fail, you must make an Attack against a creature of the DM's choice during this turn. Otherwise, you have dissuaded your *Bloodlust* and can act 'as normal' `until you regain *Bloodlust*`.
  - If you have dissuaded your *Bloodlust*, you may spend an Action to return to your true form.
  - When you are reduced to 0 or fewer Hit Points, you are forcibly returned to your true form.
  - When you return to your true form, you gain a point of Exhaustion.
@@ -191,7 +191,12 @@ A 'Houndish' Lycanthrope has a +5 bonus to Wisdom Saving Throws made to resist *
 
 A 'Houndish' Lycanthrope experiences *Transformation* as in Stage One, excepting the following:
 - Your Strength Modifier is increased by 2.
-- Your Natural Weapons each deal an extra damage die.
+- Your Constitution Modifier is increased by 1.
+- As a Bonus Action on your turn, you may cast *Hunter's Mark* without spending a spell slot or performing any component requirements.
+	- `other caster who can, use your mark as theirs and you use theirs as yours too`
+ - When you reduce a living humanoid creature to 0 or fewer hit points, if that creature was *Marked*, you may gain Hit Points by rolling a Hit Die without expending it and adding your Constitution Modifier.
 
 #### Stage Two-B, 'Mongrel'
 At Stage Two-B, the Lycanthrope has experienced a number of *Transformations*, during which they have failed to control their *Bloodlust*. 
+
+A 'Mongrel' Lycanthrope has Disadvantage on Wisdom Saving Throws, 
