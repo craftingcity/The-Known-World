@@ -192,11 +192,17 @@ A 'Houndish' Lycanthrope has a +5 bonus to Wisdom Saving Throws made to resist *
 A 'Houndish' Lycanthrope experiences *Transformation* as in Stage One, excepting the following:
 - Your Strength Modifier is increased by 2.
 - Your Constitution Modifier is increased by 1.
-- As a Bonus Action on your turn, you may cast *Hunter's Mark* without spending a spell slot.
-	- `other caster who can, use your mark as theirs and you use theirs as yours too`
- - When you reduce a living humanoid creature to 0 or fewer hit points, if that creature was *Marked*, you may gain Hit Points by rolling a Hit Die without expending it and adding your Constitution Modifier.
+- As a Bonus Action on your turn, you may cast *Hunter's Mark* without spending a spell slot. Your Constitution is your Spellcasting Ability for this spell.
+	- Any Ally who can cast *Hunter's Mark* may treat your Mark as theirs.
+	- You may treat any Ally's *Hunter's Mark* as yours.
+ - When you reduce a living humanoid creature to 0 or fewer hit points, if that creature was under the effects of a *Hunter's Mark*, roll a Hit Die, and do not expend it. Then, you either gain a number of Hit Points or set your Temporary Hit Points equal to the result of your Hit Die plus your Constitution Modifier.
 
 #### Stage Two-B, 'Mongrel'
-At Stage Two-B, the Lycanthrope has experienced a number of *Transformations*, during which they have failed to control their *Bloodlust*. 
+At Stage Two-B, the Lycanthrope has experienced a number of *Transformations*, during which they have failed to control their *Bloodlust*, and it has consumed their waking life. 
 
-A 'Mongrel' Lycanthrope has Disadvantage on Wisdom Saving Throws, 
+A 'Mongrel' Lycanthrope has Disadvantage on Wisdom Saving Throws, and retains their Ability Score Bonuses while they are not *Transformed*.
+
+A 'Mongrel' Lycanthrope experiences *Transformation* as in Stage One, excepting the following:
+- Your Strength Modifier is increased by 3
+- Your Dexterity Modifier is increased by 2.
+- When you reduce a living humanoid creature to 0 or fewer hit points, you gain a number of Hit Points equal to your Strength Modifier, and you make a Wisdom Saving Throw or regain your *Bloodlust*.
