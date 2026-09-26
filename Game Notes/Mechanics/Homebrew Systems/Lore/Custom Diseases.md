@@ -66,7 +66,7 @@ At Stage One, the diseased creature - colloquially known as a Fledgling - experi
 - You gain resistance to bludgeoning, slashing, and piercing damage from non-magical attacks
 - If you are exposed to any type of blood, make a DC 20 Wisdom Save. If you fail, you are compelled to consume the blood by any means necessary. 
 - If you are exposed to sunlight, you take 2d10 radiant damage each round you are exposed. 
-- You have a Strength-based Natural Weapon - Bite (2d6+STR piercing). When you make an Attack this way, you expose their target to Vampirism if their creature type is humanoid or fey.
+- You have a Strength-based Natural Weapon - Bite (2d6+STR piercing). When you make an Attack this way, you expose your target to Vampirism if their creature type is humanoid or fey.
 
 When the Fledgling takes a Long Rest, if they have not consumed fresh blood (collected within 48 hours) of a humanoid or fey since their last Long Rest, their Strength, Dexterity, Wisdom, and Charisma Scores decrease by 1, and they do not regain Hit Points or Hit Dice as normal. If they have, the mentioned Ability Scores instead increase by 1 if they have been reduced by Vampirism, and then, they gain a Bestial Progression. Then, if they have three or more Bestial Progression, their symptoms progress to Stage Two, and their Bestial Progression is reduced to 0.
 
@@ -176,13 +176,13 @@ While *Transformed*, a Lycanthrope experiences the following:
  - You have Advantage on Perception Checks that rely on hearing or smell.
  - You have Resistance to Bludgeoning, Piercing, or Slashing damage from non-magical or non-silver weapons.
  - You have two Natural Weapons, a Strength-based **Bite Attack** (2d6) and a Strength-based **Claw Attack** (1d8). When you make an Attack as an Action using one of your Natural Weapons, you may use your Bonus Action to make an Attack using the other Natural Weapon.
- - At the beginning of your turn, if you have not dissuaded your *Bloodlust*, make a Wisdom Saving Throw to dissuade your *Bloodlust*. If you fail, you must make an Attack against a creature of the DM's choice during this turn. Otherwise, you have dissuaded your *Bloodlust* and can act 'as normal' `until you regain *Bloodlust*`.
+ - At the beginning of your turn, if you have not dissuaded your *Bloodlust*, make a Wisdom Saving Throw to dissuade your *Bloodlust*. If you fail, you must make an Attack against a creature of the DM's choice during this turn. Otherwise, you have dissuaded your *Bloodlust* and can act 'as normal' until you regain *Bloodlust*.
  - If you have dissuaded your *Bloodlust*, you may spend an Action to return to your true form.
  - When you are reduced to 0 or fewer Hit Points, you are forcibly returned to your true form.
  - When you return to your true form, you gain a point of Exhaustion.
  - When you reduce a living humanoid creature to 0 or fewer hit points...
-	 - If you dissuaded your *Bloodlust*, you gain a Houndish Progression. Then, if you have 10 or more Houndish Progression, your Lycanthropy advances to Stage Two-A.
-	 - If you have not dissuaded your *Bloodlust*, you gain a Mongrel Progression, and if you considered that creature an Ally, you lose three Houndish Progression. Then, if you have 10 or more Mongrel Progression, your Lycanthropy advances to Stage Two-B.
+	 - If you dissuaded your *Bloodlust*, you gain a 'Houndish' Progression. Then, if you have 10 or more 'Houndish' Progression, your Lycanthropy advances to Stage Two-A. Otherwise, you make a Wisdom Saving Throw or regain your *Bloodlust*.
+	 - If you have not dissuaded your *Bloodlust*, you gain a 'Mongrel' Progression, and if you considered that creature an Ally, you lose three 'Houndish' Progression. Then, if you have 10 or more 'Mongrel' Progression, your Lycanthropy advances to Stage Two-B.
 
 #### Stage Two-A, 'Houndish'
 At Stage Two-A, the Lycanthrope has experienced a number of *Transformations*, during which they have shown that they control their *Bloodlust*, rather than it controlling them. 
@@ -200,7 +200,7 @@ A 'Houndish' Lycanthrope experiences *Transformation* as in Stage One, excepting
 #### Stage Two-B, 'Mongrel'
 At Stage Two-B, the Lycanthrope has experienced a number of *Transformations*, during which they have failed to control their *Bloodlust*, and it has consumed their waking life. 
 
-A 'Mongrel' Lycanthrope has Disadvantage on Wisdom Saving Throws, and retains their Ability Score Bonuses while they are not *Transformed*.
+A 'Mongrel' Lycanthrope has Disadvantage on Wisdom Saving Throws, Advantage on Strength and Dexterity Saving Throws, and retains their Ability Score Bonuses while they are not *Transformed*.
 
 A 'Mongrel' Lycanthrope experiences *Transformation* as in Stage One, excepting the following:
 - Your Strength Modifier is increased by 3
