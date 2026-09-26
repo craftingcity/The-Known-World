@@ -192,7 +192,7 @@ A 'Houndish' Lycanthrope has a +5 bonus to Wisdom Saving Throws made to resist *
 A 'Houndish' Lycanthrope experiences *Transformation* as in Stage One, excepting the following:
 - Your Strength Modifier is increased by 2.
 - Your Constitution Modifier is increased by 1.
-- As a Bonus Action on your turn, you may cast *Hunter's Mark* without spending a spell slot or performing any component requirements.
+- As a Bonus Action on your turn, you may cast *Hunter's Mark* without spending a spell slot.
 	- `other caster who can, use your mark as theirs and you use theirs as yours too`
  - When you reduce a living humanoid creature to 0 or fewer hit points, if that creature was *Marked*, you may gain Hit Points by rolling a Hit Die without expending it and adding your Constitution Modifier.
 
