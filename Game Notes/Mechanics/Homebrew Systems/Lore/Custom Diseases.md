@@ -205,4 +205,10 @@ A 'Mongrel' Lycanthrope has Disadvantage on Wisdom Saving Throws, Advantage on S
 A 'Mongrel' Lycanthrope experiences *Transformation* as in Stage One, excepting the following:
 - Your Strength Modifier is increased by 3
 - Your Dexterity Modifier is increased by 2.
-- When you reduce a living humanoid creature to 0 or fewer hit points, you gain a number of Hit Points equal to your Strength Modifier, and you make a Wisdom Saving Throw or regain your *Bloodlust*.
+- When you reduce a living humanoid creature to 0 or fewer hit points, you gain a number of Hit Points equal to your Strength Modifier, and you make a Wisdom Saving Throw or regain your *Bloodlust*. If you regain your Bloodlust this way, you gain a 'Mongrel' Progression. Then, if you have 25 or more 'Mongrel' Progression, your Lycanthropy advances to Stage Three.
+
+#### Stage Three, 'Beastial'
+At Stage Three, the Lycanthrope has wholly succumbed to their *Bloodlust*, and lost their true form in the process. A 'Beastial' Lycanthrope is always *Transformed with Bloodlust*, an unreasoning feral beast more useful as a tool of war than a comrade in arms.
+
+A 'Beastial Lycanthrope' experiences *Transformation* as in Stage Two-B, excepting the following:
+- 
