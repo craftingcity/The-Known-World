@@ -390,4 +390,7 @@ We're going to meet the *Wachter* family to try to get Ireena a job - they might
 
 ### Session 11 - "The Sword of Civility"
 
-`I take control. You are a child of ideals, aborted at the altar of reality.`
+`I take control.`
+Until I take control.
+
+The *Lady Wachter* knows magics, and halts me in my mission. My friends are my family here.
