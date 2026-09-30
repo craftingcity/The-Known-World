@@ -120,7 +120,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
 | CON  | 18 (+4)            | M. HP | 64 Max HP (0/5 Exhaust)   |
 | DEX  | 14 (+2)            | AC    | (20 // 12 & resist B/P/S) |
-| INT  | 9  (-1)            | C. HP | 64 HP                     |
+| INT  | 9  (-1)            | C. HP | 54 HP                     |
 | WIS  | 14 (+2) ^          | HD    | 5d10 (5/5)                |
 | CHA  | 14 (+2) ^          | SPD   | 30' // 40'                |
 
