@@ -228,13 +228,11 @@ You prepare the list of paladin spells that are available for you to cast, choos
 	- Longsword (1d8 / 1d10 + STR slashing)
 	- Shield (+2 AC)
 *Arms*: 
-	- Black Platemail (18 AC)
 	- Oil Lantern, Bullseye
 *Head*:
 	-
 *Torso*:
-	- Black Platemail (18 AC) 
-	- Brass Holy Symbol of Avandra on a Platinum Chain (three green waves)
+	- Brass Holy Symbol of Avandra (three green waves)
 	- Backpack; 
 		- a bedroll 
 		- a mess kit
@@ -246,11 +244,8 @@ You prepare the list of paladin spells that are available for you to cast, choos
 		- 50 feet of hempen rope
 		- a wooden stake
 *Groin*:
-	- Black Platemail (18 AC)
 *Legs*:
-	- Black Platemail (18 AC)
 *Feet*:
-	- Black Platemail (18 AC)
 
 ## Session Log
 ### Session 1 - "You walk through a Dark Forest"
@@ -392,9 +387,7 @@ We're going to meet the *Wachter* family to try to get Ireena a job - they might
 > You change your sadness for violence.
 > `I AM UNDOUBTABLE, I AM ABOVE ALL, I AM YOUR BETTER!!`
 > I want to help you change it all, like you think I pretend to. I just need `TO SHUT UP!`
- 
-`This is all in your head. You have your sword drawn, girl. Use it or lose it.`
 
 ### Session 11 - "The Sword of Civility"
 
-
+`I take control. You are a child of ideals, aborted at the altar of reality.`
