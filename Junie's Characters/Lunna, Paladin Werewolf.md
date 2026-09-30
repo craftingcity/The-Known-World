@@ -351,7 +351,7 @@ The sacred artifacts that protect the church - The Bones of *Saint Andrull* - ha
 
 ### Session 10 - "In Vallaki"
 
-Our investigation into the The Bones of *Saint Andrull* continues. The Altar-boy, *Yeska*, told someone but will not reveal whom. The *Father* of the Church believes The *Gravekeeper* might have something to do with this. He did, and points us towards the Coffin-maker under oath. I drop my wallet for him.
+Our investigation into the The Bones of *Saint Andrull* continues. The Altar-boy, *Yeska*, told someone but will not reveal whom. The *Father* of the Church believes The *Gravekeeper* might have something to do with this. He did, and points us towards the Coffin-maker, *Hendrick*, under oath. I drop my wallet for him.
 `The Gravekeeper reminds me of your Brother, Matthew, but I don't think you noticed.`
 
 Brilynn & Klarl meet *Szoldar & Yevgeni*. It seems like they're animal hunters. No-one likes it here in town. The Baron is forcing everyone to fake being happy - under threat of corporal punishment, if not worse. 
@@ -396,4 +396,5 @@ We're going to meet the *Wachter* family to try to get Ireena a job - they might
 `This is all in your head. You have your sword drawn, girl. Use it or lose it.`
 
 ### Session 11 - "The Sword of Civility"
+
 
