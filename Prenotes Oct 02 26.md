@@ -23,7 +23,7 @@ You have collected what little materials could help you, and you all - including
 
 Your gathered speak of tokens and kobolted doors, of traps and tricks and monsters to best. The people are excited to leave, and terrified to try, but you have reignited the spark of hope they once lost.
 
-The plan you have for now is theory. The idea of a route. And you know that you will be watched, and prodded, and toyed with by the sadistic keepers of this "game" of blood and pain. But the alternative is leaving everyone here to rot, and shrivel into themselves in a mountain that only wishes them suffering for eternity. What is left for these people but to try?
+The plan you have for now is theory. The idea of a route. And you know that you will be watched, and prodded, and toyed with by the sadistic keepers of this "game" of blood and pain. But the alternative is leaving everyone here to rot, and shrivel into themselves in a mountain that only wishes them suffering for eternity.
 
 What do you do?
 
@@ -40,6 +40,9 @@ If too many citizens die (+50%), Sierra and Tynan flip on the Party, banishing t
 #### Escape Plans
 - 10 Token bargain in the Scoreboard Room (one-time-use per 10, so very expensive but theoretically real option for the main party)
 - Kobold Doors (very difficult to locate, need to surprise an operator somehow. very, very difficult, but a real option for everyone's "escape" into Kailkeep the Mountain City)
+
+#### Routing
+Mercy > Go Fish! / Bouncy House / Kobolted Door > Burning Hallway > Scoreboard
 
 ### What happened?
 
