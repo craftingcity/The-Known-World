@@ -115,12 +115,12 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ## Stats
 
-| L. 5 | XP: 11.2k          | / 14k | (1) Inspiration           |
+| L. 5 | XP: 11.85k          | / 14k | (1) Inspiration           |
 | ---- | ------------------ | ----- | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
-| CON  | 18 (+4)            | M. HP | 64 Max HP (0/5 Exhaust)   |
+| CON  | 18 (+4)            | M. HP | 64 Max HP (1/5 Exhaust)   |
 | DEX  | 14 (+2)            | AC    | (20 // 12 & resist B/P/S) |
-| INT  | 9  (-1)            | C. HP | 54 HP                     |
+| INT  | 9  (-1)            | C. HP | 40 HP                     |
 | WIS  | 14 (+2) ^          | HD    | 5d10 (5/5)                |
 | CHA  | 14 (+2) ^          | SPD   | 30' // 40'                |
 
@@ -230,8 +230,8 @@ You prepare the list of paladin spells that are available for you to cast, choos
 *Arms*: 
 	- Oil Lantern, Bullseye
 *Head*:
-	-
 *Torso*:
+	- Chain Shirt
 	- Brass Holy Symbol of Avandra (three green waves)
 	- Backpack; 
 		- a bedroll 
@@ -394,3 +394,7 @@ We're going to meet the *Wachter* family to try to get Ireena a job - they might
 Until I take control.
 
 The *Lady Wachter* knows magics, and halts me in my mission. My friends are my family here.
+
+She worships a devil, of some kind, and we must remove her for it.
+
+And so `we` do.
