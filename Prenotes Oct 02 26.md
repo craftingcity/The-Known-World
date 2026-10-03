@@ -50,19 +50,19 @@ Mercy > Go Fish! / Bouncy House / Kobolted Door > Burning Hallway > Scoreboard
 #### BIG FIGHT
 
 10 - KOBOLDS
-	A (16)
-	B ()
-	C (16)
+	~~A (16, 20, )~~
+	B (I)
+	C (16, 24, 28)
 	D ()
 	E ! ()
 	~~F (9, )~~
 	FISH ()
 	H (16)
-	Z (8)
+	~~Z (8, 20, )~~
 9 - Sierra ()
 8 - Steve
 2 - Mip
-1 - Screw ()
+1 - Screw (10, 20)
 1 - Dragoon
 0 - Civilians
 - 1 - Goblin #1 & Wrench
