@@ -47,5 +47,23 @@ Mercy > Go Fish! / Bouncy House / Kobolted Door > Burning Hallway > Scoreboard
 
 ### What happened?
 
+#### BIG FIGHT
+
+10 - KOBOLDS
+	A ()
+	B ()
+	C ()
+	D ()
+	E ! ()
+	F (9)
+	FISH ()
+	H 
+	Z
+9 - Sierra
+8 - Steve
+2 - Mip
+1 - Screw
+1 - Dragoon
+0 - Civilians
 
 We leave our heroes on the date of ... AF, as they ...
