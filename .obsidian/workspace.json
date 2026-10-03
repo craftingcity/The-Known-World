@@ -4,33 +4,100 @@
     "type": "split",
     "children": [
       {
-        "id": "ffea365712e92aca",
-        "type": "tabs",
+        "id": "3174c022a8ef9e74",
+        "type": "split",
         "children": [
           {
-            "id": "4cab1741bfdc2bf4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "ffea365712e92aca",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4cab1741bfdc2bf4",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Prenotes Oct 02 26.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Prenotes Oct 02 26"
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Oct 02 26.md",
-                "mode": "source",
-                "source": true
               },
-              "icon": "lucide-file",
-              "title": "Prenotes Oct 02 26"
-            }
+              {
+                "id": "ebc49063b69150c4",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Dragoon's Greats Game"
+                },
+                "group": "54165be10f2cfe64"
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "f5cae5ee1dbc232b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "db8fcb3ffc971ca6",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Dragoon's Greats Game"
+                },
+                "group": "54165be10f2cfe64"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "18b07d883fb92ef9",
@@ -378,7 +445,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f295892722567520",
+  "active": "db8fcb3ffc971ca6",
   "lastOpenFiles": [
     "Prenotes Oct 02 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/d_ Chapter Six - Level Five; Pick-up Sticks.md",
