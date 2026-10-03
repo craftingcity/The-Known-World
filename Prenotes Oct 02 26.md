@@ -33,7 +33,8 @@ What do you do?
 - Tynan, Roamer and Nobleman
 - Screw, Roamer and Ex-Merc
 - Kyric, The Elder Sorcerer
-- roughly 12 citizens
+- Casey, the Lost Dwarf
+- roughly 13 citizens
 
 If too many citizens die (+50%), Sierra and Tynan flip on the Party, banishing them from Mercy and taking the rest of the citizens away, hopefully back to the city.
 
