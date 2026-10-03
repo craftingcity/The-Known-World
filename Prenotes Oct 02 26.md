@@ -68,3 +68,5 @@ Mercy > Go Fish! / Bouncy House / Kobolted Door > Burning Hallway > Scoreboard
 - 1 - Goblin #1 & Wrench
 
 We leave our heroes on the date of ... AF, as they ...
+
+Have fought on the way out, they have yet to put the Tokens in when they are assaulted by a group og Kobold Gamers led by an Operator. The party incapacitated the Operator.
