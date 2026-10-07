@@ -403,3 +403,4 @@ She worships a devil, of some kind, and we remove her for it.
 
 ### Session 12 - "The Sheath & Shield of Surviving"
 
+There are two more civvies in the house. We knock the chef in the storeroom, 
