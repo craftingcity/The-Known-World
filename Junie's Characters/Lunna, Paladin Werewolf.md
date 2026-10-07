@@ -113,9 +113,14 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 > A vault of temptation hidden behind a woman of great beauty.
 > The evil waits atop his tower of treasure.
 
+#### Left Unresolved
+- My 'Date', Alenka in *Village of Barovia*
+- Devil's Pastries in *Village of Barovia*
+- Saint Andrul's Bones in *Vallaki*
+
 ## Stats
 
-| L. 5 | XP: 11.85k          | / 14k | (1) Inspiration           |
+| L. 5 | XP: 11.85k         | / 14k | (1) Inspiration           |
 | ---- | ------------------ | ----- | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
 | CON  | 18 (+4)            | M. HP | 64 Max HP (1/5 Exhaust)   |
@@ -390,11 +395,11 @@ We're going to meet the *Wachter* family to try to get Ireena a job - they might
 
 ### Session 11 - "The Sword of Civility"
 
-`I take control.`
-Until I take control.
+You can make me be you, but I don't have to do what you want. Destroy the fiend.
 
 The *Lady Wachter* knows magics, and halts me in my mission. My friends are my family here.
 
-She worships a devil, of some kind, and we must remove her for it.
+She worships a devil, of some kind, and we remove her for it.
 
-And so `we` do.
+### Session 12 - "The Sheath & Shield of Surviving"
+
