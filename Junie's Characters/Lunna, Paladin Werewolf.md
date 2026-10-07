@@ -117,6 +117,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 - My 'Date', Alenka in *Village of Barovia*
 - Devil's Pastries in *Village of Barovia*
 - Saint Andrul's Bones in *Vallaki*
+- The Other Two Whatcher Boys in *Vallaki*
 
 ## Stats
 
@@ -403,4 +404,4 @@ She worships a devil, of some kind, and we remove her for it.
 
 ### Session 12 - "The Sheath & Shield of Surviving"
 
-There are two more civvies in the house. We knock the chef in the storeroom, 
+There are two more civvies in the house. We knock the chef in the storeroom, and the maid upstairs. There is a woman here, the Daughter of *Lady Whatcher*, who calls herself "Little Kitty". 
