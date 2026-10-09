@@ -26,5 +26,7 @@ The next steps seem obvious, but I must ask; what do you do?
 
 ### What happened?
 
+The party opened the Kobolted door on the fifth level using the operator we captured.
+
 
 We leave our heroes on the date of ... AF, as they ...
