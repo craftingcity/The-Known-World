@@ -199,7 +199,7 @@ In its lowest floors, the first three, Kailkeep is a carefully crafted dungeon o
 ### The World's Biggest Entertainment Center
 Kailkeep has been crafted from the mountain by Kobolds for dozens of years. It is so large and complex a structure that not all of it could be displayed here. 
 
-The first three levels present very little challenge to even the greenest adventurers, ideally, forming some sense of Allure or Promise. Veterans should be wary, filled with unease, like prey being lured into a trap.
+The first three levels present very little challenge to even the greenest adventurers, ideally, forming some sense of Allure or Promise. Veterans should be wary, filled with unease, feeling like prey being lured into a trap.
 
 A map of Kailkeep's Hells would be *wish*ful thinking to acquire outside the Hells themselves, and even then, within the mountain, the procurement of such a valuable piece of information would be quite the feat – let alone the questions of Kailkeep's ability to even be mapped, as Operators shape, reshape, and shape again.
 

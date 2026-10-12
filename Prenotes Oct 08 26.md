@@ -26,7 +26,14 @@ The next steps seem obvious, but I must ask; what do you do?
 
 ### What happened?
 
-The party opened the Kobolted door on the fifth level using the operator we captured.
+Things escalated after regrouping some, Mip ended up getting the tokens and paying for 'Freedom' - leaving the rest of the party largely stuck until Dragoon struck a deal with Steve and then Terra to get their help releasing the civilians to keep Steve around so that they can go into the City of Kailkeep.
+
+The party opened the Kobolted door on the fifth level using the operator we captured after we sent civilians out or home.
+
+#### Whats next
+things work out such that Emilio and Jasper are coming up on the party as they are turning the key
+
+
 
 
 We leave our heroes on the date of ... AF, as they ...
