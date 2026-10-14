@@ -419,3 +419,7 @@ We've talked things over some with *Ismark* and *Ireena*. She's likely better of
 ### Session 13 - "Enter the Basement"
 
 Lots of shit is going on down here, theres a Lady in a Cage, and five cultists in a pentagram.
+
+We kill them, theres shit going on but the Wachter's worship money and power.
+
+We talk with Kitty for a while, and end up deciding that she is kinda the lady of the House now, and could hire a caretaker (*Ireena*) who can stay with her.
