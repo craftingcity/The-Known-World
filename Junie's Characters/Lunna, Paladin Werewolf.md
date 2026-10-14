@@ -126,8 +126,8 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
 | CON  | 18 (+4)            | M. HP | 64 Max HP (1/5 Exhaust)   |
 | DEX  | 14 (+2)            | AC    | (20 // 12 & resist B/P/S) |
-| INT  | 9  (-1)            | C. HP | 40 HP                     |
-| WIS  | 14 (+2) ^          | HD    | 5d10 (5/5)                |
+| INT  | 9  (-1)            | C. HP | 64 HP                     |
+| WIS  | 14 (+2) ^          | HD    | 5d10 (3/5)                |
 | CHA  | 14 (+2) ^          | SPD   | 30' // 40'                |
 
 #### Spells
@@ -416,4 +416,4 @@ Okay, don't. Don't do that. Don't be a monster, don't be her mother. Be yourself
 
 We've talked things over some with *Ismark* and *Ireena*. She's likely better off without us, and the attention `you` bring -- we bring. All of us, the Dragon, the Charlatan, the Amnesiac, and their Zealous Dog. And *Ismark* has a city to run, or, what's left of it.
 
-### Session 13 - ""
+### Session 13 - "Enter the Basement"
