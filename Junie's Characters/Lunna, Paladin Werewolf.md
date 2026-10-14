@@ -396,14 +396,22 @@ We're going to meet the *Wachter* family to try to get Ireena a job - they might
 
 ### Session 11 - "The Sword of Civility"
 
-You can make me be you, but I don't have to do what you want. Destroy the fiend.
+You can make me be you, but I don't have to do what you want. We will destroy the fiend.
 
 The *Lady Wachter* knows magics, and halts me in my mission. My friends are my family here.
 
 She worships a devil, of some kind, and we remove her for it.
 
-### Session 12 - "The Sheath & Shield of Surviving"
+### Session 12 - "The Sheath & Shield of Surviving & Moving on"
 
 There are two more civvies in the house. We knock the chef in the storeroom, and the maid upstairs. There is a woman here, the Daughter of *Lady Whatcher*, who calls herself "Little Kitty". 
 
 There are two sons in the Wachter family, though they are not home.
+
+Kitty has clearly been abused into her current state, and I feel for her.
+
+`Make her yours. She's weak. Take her away.`
+
+Okay, don't. Don't do that. Don't be a monster, don't be her mother. Be yourself, let freedom ride. Show her the Way, and show some fucking restraint, dog.
+
+### Session 13 - ""
