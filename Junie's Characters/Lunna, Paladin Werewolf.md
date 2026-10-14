@@ -137,7 +137,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | .   | .   | .   | .   | .   | .    | .   |
 | o   | x   | .   | .   | .   | .   | .   |      |     |
-| o   | .   | .   | .   | .   |     |     | DC   | 13  |
+| x   | .   | .   | .   | .   |     |     | DC   | 13  |
 | .   |     |     |     |     |     |     | ATTK | +5  |
 
 ##### Oath Spells
