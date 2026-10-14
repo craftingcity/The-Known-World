@@ -414,6 +414,6 @@ Kitty has clearly been abused into her current state, and I feel for her.
 
 Okay, don't. Don't do that. Don't be a monster, don't be her mother. Be yourself, let freedom ride. Show her the Way, and show some fucking restraint, dog.
 
-We've talked things over some with *Ismark* and *Ireena*. She's likely better off without us, and the attention `you` bring -- we bring. All of us, the Dragon, the Charlaton, the Amnesiac, and their Zealous Dog. And *Ismark* has a city to run, or, what's left of it.
+We've talked things over some with *Ismark* and *Ireena*. She's likely better off without us, and the attention `you` bring -- we bring. All of us, the Dragon, the Charlatan, the Amnesiac, and their Zealous Dog. And *Ismark* has a city to run, or, what's left of it.
 
 ### Session 13 - ""
