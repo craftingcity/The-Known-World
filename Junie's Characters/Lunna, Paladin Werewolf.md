@@ -417,3 +417,5 @@ Okay, don't. Don't do that. Don't be a monster, don't be her mother. Be yourself
 We've talked things over some with *Ismark* and *Ireena*. She's likely better off without us, and the attention `you` bring -- we bring. All of us, the Dragon, the Charlatan, the Amnesiac, and their Zealous Dog. And *Ismark* has a city to run, or, what's left of it.
 
 ### Session 13 - "Enter the Basement"
+
+Lots of shit is going on down here, theres a Lady in a Cage, and five cultists in a pentagram.
