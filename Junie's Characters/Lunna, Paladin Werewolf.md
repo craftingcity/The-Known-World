@@ -121,13 +121,13 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ## Stats
 
-| L. 5 | XP: 13k            | / 14k | (1) Inspiration           |
+| L. 5 | XP: 14k            | / 23k | (1) Inspiration           |
 | ---- | ------------------ | ----- | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
 | CON  | 18 (+4)            | M. HP | 64 Max HP (1/5 Exhaust)   |
-| DEX  | 14 (+2)            | AC    | (20 // 12 & resist B/P/S) |
-| INT  | 9  (-1)            | C. HP | 40 HP                     |
-| WIS  | 14 (+2) ^          | HD    | 5d10 (5/5)                |
+| DEX  | 14 (+2)            | AC    | (17 // 12 & resist B/P/S) |
+| INT  | 9  (-1)            | C. HP | 64 HP                     |
+| WIS  | 14 (+2) ^          | HD    | 5d10 (3/5)                |
 | CHA  | 14 (+2) ^          | SPD   | 30' // 40'                |
 
 #### Spells
@@ -137,7 +137,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | .   | .   | .   | .   | .   | .    | .   |
 | o   | x   | .   | .   | .   | .   | .   |      |     |
-| o   | .   | .   | .   | .   |     |     | DC   | 13  |
+| x   | .   | .   | .   | .   |     |     | DC   | 13  |
 | .   |     |     |     |     |     |     | ATTK | +5  |
 
 ##### Oath Spells
@@ -396,14 +396,34 @@ We're going to meet the *Wachter* family to try to get Ireena a job - they might
 
 ### Session 11 - "The Sword of Civility"
 
-You can make me be you, but I don't have to do what you want. Destroy the fiend.
+You can make me be you, but I don't have to do what you want. We will destroy the fiend.
 
 The *Lady Wachter* knows magics, and halts me in my mission. My friends are my family here.
 
 She worships a devil, of some kind, and we remove her for it.
 
-### Session 12 - "The Sheath & Shield of Surviving"
+### Session 12 - "The Sheath & Shield of Surviving & Moving on"
 
 There are two more civvies in the house. We knock the chef in the storeroom, and the maid upstairs. There is a woman here, the Daughter of *Lady Whatcher*, who calls herself "Little Kitty". 
 
 There are two sons in the Wachter family, though they are not home.
+
+Kitty has clearly been abused into her current state, and I feel for her.
+
+`Make her yours. She's weak. Take her away.`
+
+Okay, don't. Don't do that. Don't be a monster, don't be her mother. Be yourself, let freedom ride. Show her the Way, and show some fucking restraint, dog.
+
+We've talked things over some with *Ismark* and *Ireena*. She's likely better off without us, and the attention `you` bring -- we bring. All of us, the Dragon, the Charlatan, the Amnesiac, and their Zealous Dog. And *Ismark* has a city to run, or, what's left of it.
+
+### Session 13 - "Enter the Basement"
+
+Lots of shit is going on down here, theres a Lady in a Cage, and five cultists in a pentagram.
+
+We kill them, theres shit going on but the Wachter's worship money and power.
+
+We talk with Kitty for a while, and end up deciding that she is kinda the Lady of the House now, and could hire a caretaker (*Ireena*) who can stay with her.
+
+We make our story more convincing by giving Ireena a letter of notice as if we were Lady Wachter, and we promise to play her as we leave.
+
+We take a Long Rest and wake up. It is the 25th. If we can, maybe we spend a bunch of time setting up the Basement down here at the Wachters making it a nice wolf-out space for the full moon.
