@@ -57,11 +57,11 @@
         "currentTab": 1
       },
       {
-        "id": "9e47c21effc8bbf0",
+        "id": "bc4bf02a26906371",
         "type": "tabs",
         "children": [
           {
-            "id": "0d2c0e6973135b0a",
+            "id": "b4d1f436eed079a4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -75,39 +75,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
+                "file": "Prenotes Aug 28 26.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "a_ Chapter One - Introduction"
-            }
-          },
-          {
-            "id": "ab7143600667bd65",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/i_ Chapter Eleven - Maintaining Kailkeep.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "i_ Chapter Eleven - Maintaining Kailkeep"
+              "title": "Prenotes Aug 28 26"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -401,12 +377,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab7143600667bd65",
+  "active": "b4d1f436eed079a4",
   "lastOpenFiles": [
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "Prenotes Aug 28 26.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/i_ Chapter Eleven - Maintaining Kailkeep.md",
     "Prenotes Oct 17 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/i_ Chapter Eleven - Maintaining Kailkeep.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "conflict-files-obsidian-git.md",
     "Prenotes.md",
     "Untitled.md",
@@ -421,10 +399,8 @@
     "A Grand Notepad.md",
     "Game Notes/Prenotes/'26/Prenotes July 28 26.md",
     "Game Notes/Campaign Rosters/Campaign Rosters.md",
-    "Prenotes Aug 28 26.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Diseases.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Game Notes/NPCs/High Power/Devils/Devils.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Avernus.md",
