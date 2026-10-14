@@ -121,7 +121,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ## Stats
 
-| L. 5 | XP: 13k            | / 14k | (1) Inspiration           |
+| L. 5 | XP: 14k            | / 23k | (1) Inspiration           |
 | ---- | ------------------ | ----- | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
 | CON  | 18 (+4)            | M. HP | 64 Max HP (1/5 Exhaust)   |
@@ -422,4 +422,8 @@ Lots of shit is going on down here, theres a Lady in a Cage, and five cultists i
 
 We kill them, theres shit going on but the Wachter's worship money and power.
 
-We talk with Kitty for a while, and end up deciding that she is kinda the lady of the House now, and could hire a caretaker (*Ireena*) who can stay with her.
+We talk with Kitty for a while, and end up deciding that she is kinda the Lady of the House now, and could hire a caretaker (*Ireena*) who can stay with her.
+
+We make our story more convincing by giving Ireena a letter of notice as if we were Lady Wachter, and we promise to play her as we leave.
+
+We take a Long Rest and wake up. It is the 25th. If we can, maybe we spend a bunch of time setting up the Basement down here at the Wachters making it a nice wolf-out space for the full moon.
