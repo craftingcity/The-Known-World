@@ -604,3 +604,4 @@ magical items
 	- [[Kaliqeill, Lich of Orcus]] (`hes still floating around the outer planes trying to fuck shit up`)
 - [[List of Names]]
 - [[Custom Cultures]] (`write cultures relevant knowledge and lore for our players`)
+- [[Custom Heritages]] (`fix some of the worse choices`)
