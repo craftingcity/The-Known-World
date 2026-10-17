@@ -105,7 +105,8 @@
               "title": "A Grand Notepad"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -399,12 +400,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "196fc68660278755",
+  "active": "fb2948cb961ebbfe",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "EmilyOwen Game.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "A Grand Notepad.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Game Notes/Campaign Rosters/Jasper's Angels.md",
     "Game Notes/Campaign Rosters/Campaign Rosters.md",
     "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
