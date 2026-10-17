@@ -59,14 +59,14 @@ When last we left our heroes, they had made their final preparations for their j
 
 Your party stands here now, in a barrack of the Outpost Afierono, with a Devil claiming boredom as motive, and murder as career - so worry not for the state of your souls. It insults your ally pridefully, and with severe prejudice, and yet still, they might be your best bet at gaining some kind of footing in here.
 
-Timir is the one to put the question to you this time; grinning wide, happy to answer ~any~ and all questions oh-so truthfully - "What do we do now?"
+Timir is the one to put the question to you this time; grinning wide, happy to answer ~any~ and all questions oh-so truthfully, they say "So what do we do now?"
 
 ### What does the World Know?
 We need to get out of **Afierono**.
 	- We need to get Orders from a CO to stand down and return to **Dis**
-	- Or, we need to desert (hopefully, through the **Spikelands**, but we'll take the **Styx** if we have to)
+	- Or, we need to desert (hopefully, through the **Spikelands**, but we'll take the **Styx** if we have to, but that's gonna be a little slower and more dangerous)
 
-Historically, Arbiters have been since largely put out of commision - but we know they used to work in 
+Historically, Arbiters have been since largely put out of commission - but we know they used to work in [[Minauros]]. If we want to look for one, there is our best bet.
 
 ### What happened?
 
