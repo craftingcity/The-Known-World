@@ -9,7 +9,7 @@ action / strategic
 ## People
 | PLAYER | NAME      | CLASS     | HERITAGE      | CULTURE                |
 | ------ | --------- | --------- | ------------- | ---------------------- |
-| Hannah |           |           |               |                        |
+| Hannah | Mip?      |           |               |                        |
 | Emily  | Eden      | Rogue     | Spring, Elven | Arthurian              |
 | Owen   | Bloodtoof | Barbarian | Gnoll         | Cobalt's Noble Thieves |
 
