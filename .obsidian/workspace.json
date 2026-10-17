@@ -4,108 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "c85dc6f760fbe66b",
-        "type": "tabs",
+        "id": "b135f98a83be6269",
+        "type": "split",
         "children": [
           {
-            "id": "8b35170041c69b06",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "3a6989cad4da5051",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2b506e4b86bc0d31",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Prenotes Oct 17 26.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Prenotes Oct 17 26"
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EmilyOwen Game.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "EmilyOwen Game"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5ec9695218df524a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "196fc68660278755",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Custom Cultures"
-            }
+              }
+            ]
           },
           {
-            "id": "fb2948cb961ebbfe",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "cdecfb97af0f3a93",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4fdcd67d02880e98",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Prenotes Aug 28 26.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Prenotes Aug 28 26"
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Custom Heritages"
-            }
-          },
-          {
-            "id": "04f78f549043d795",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Grand Notepad.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "A Grand Notepad"
-            }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -399,20 +360,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b35170041c69b06",
+  "active": "4fdcd67d02880e98",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
+    "Prenotes Oct 17 26.md",
+    "Prenotes Aug 28 26.md",
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "EmilyOwen Game.md",
     "A Grand Notepad.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-    "EmilyOwen Game.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Game Notes/Campaign Rosters/Jasper's Angels.md",
     "Game Notes/Campaign Rosters/Campaign Rosters.md",
     "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
     "ORGANIZATION/TEMPLATES/Campaign Roster.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
-    "Prenotes Oct 17 26.md",
-    "Prenotes Aug 28 26.md",
-    "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/i_ Chapter Eleven - Maintaining Kailkeep.md",
     "conflict-files-obsidian-git.md",

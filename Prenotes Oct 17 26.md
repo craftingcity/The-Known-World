@@ -55,10 +55,18 @@ We leave our heroes on the date of ... AF, as they ...
 
 ### Intro
 
-When last we left our heroes...
+When last we left our heroes, they had made their final preparations for their journey into Hell on the hunt for the Arbiter we call the Notadeer, and made landing in a wartorn wasteland. Having defended yourselves from a group of soldiers on some patrol, you and your mercenaries walked your way into a militaristic outpost, and were quickly caught up by a pair of devils. The first, and the larger of the two, spoke to you in Infernal, asking about what squadron you belong to. The second, who we have come to know as Timir, offered his apologies to the first, claimed responsibility for you, and quickly walked you off into a barracks, hissing warnings of danger in your homeland's Arthurian along the walk.
+
+Your party stands here now, in a barrack of the Outpost Afierono, with a Devil claiming boredom as motive, and murder as career - so worry not for the state of your souls. It insults your ally pridefully, and with severe prejudice, and yet still, they might be your best bet at gaining some kind of footing in here.
+
+Timir is the one to put the question to you this time; grinning wide, happy to answer ~any~ and all questions oh-so truthfully - "What do we do now?"
 
 ### What does the World Know?
+We need to get out of **Afierono**.
+	- We need to get Orders from a CO to stand down and return to **Dis**
+	- Or, we need to desert (hopefully, through the **Spikelands**, but we'll take the **Styx** if we have to)
 
+Historically, Arbiters have been since largely put out of commision - but we know they used to work in 
 
 ### What happened?
 
