@@ -53,8 +53,7 @@
               "title": "Custom Heritages"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nova",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -348,11 +347,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "623686546d36521e",
+  "active": "17bba7903284a409",
   "lastOpenFiles": [
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Prenotes Oct 17 26.md",
     "A Grand Notepad.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "EmilyOwen Game.md",
     "Game Notes/Campaign Rosters/Jasper's Angels.md",
