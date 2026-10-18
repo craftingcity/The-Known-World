@@ -9,6 +9,10 @@
       "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
     },
     {
+      "basename": "Demons",
+      "path": "Game Notes/NPCs/High Power/Demons/Demons.md"
+    },
+    {
       "basename": "A Grand Notepad",
       "path": "A Grand Notepad.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mountain Hall",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Greater Villages & Cities/Mountain Hall.md"
-    },
-    {
-      "basename": "Dwarven Kingdom Suremantle",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Non-Nation Entities/Dwarven Kingdoms/Dwarven Kingdom Suremantle.md"
     }
   ],
   "omittedPaths": [],
