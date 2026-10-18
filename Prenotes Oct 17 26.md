@@ -39,7 +39,7 @@ Kailkeep Proper responds as a Hivemind to a degree, especially in that it is wil
 
 ### What happened?
 ~~20 - Goblin #1 (xx/)~~
-16 - YELLOW
+~~16 - YELLOW~~
 	~~D 14, 23, ~~
 	~~E 13, 20~~
 	~~F 38~~
@@ -49,7 +49,7 @@ Kailkeep Proper responds as a Hivemind to a degree, especially in that it is wil
 14 - Em
 10 - RED
 ~~7 - Sierra (12, 17, 30, )~~
-5 - Jasper (9, 17)
+5 - Jasper (9, 17, 24)
 2 - Demons
 ~~1 - Dragon~~
 
