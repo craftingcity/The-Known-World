@@ -55,7 +55,7 @@ The Vassals make up the "upper-working class" of the system of Devil-kind. They 
 
 #### on Minauros
 - *Laymen*. The contract enforcer, understander, and betrayer. Working around the Hells, we take the leftovers by law and turn them for our restoration.
-- *Arbiter*. It that decides, it that signs the contract. Once upon a time, we were the singular source of whole souls in all the Hells. Now most anyone can harvest a human - even the Demon scum.
+- *Arbiter*. It that decides, it that signs the contract. Once upon a time, we were the singular source of whole souls in all the Hells. Now most anyone can harvest a puny humanoid - even the Demon scum.
 
 #### on Phlegethos
 - *Technician*. It that makes the machines. Services the technologies of blood and steel. Torture is a statistic, and we can always make the number higher.
