@@ -40,16 +40,17 @@ Kailkeep Proper responds as a Hivemind to a degree, especially in that it is wil
 ### What happened?
 20 - Goblin #1 (/Y)
 16 - YELLOW
-	D
+	D 14
 	E
 	F
-	Dog (4)
+	Dog (4, 8)
 15 - Steve
-15 - Screw
+15 - Screw (CROWN)
 14 - Em
 10 - RED
 7 - Sierra (12)
 5 - Jasper
+1 - Dragon
 
 
 We leave our heroes on the date of ... AF, as they ...
