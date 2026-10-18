@@ -38,7 +38,7 @@ We're headed into Kailkeep Proper, specifically the tunnels around *Hauro*. Terr
 Kailkeep Proper responds as a Hivemind to a degree, especially in that it is willing to remove a significant portion of itself as long as some part continues to survive. This means their direct action will likely involve attempting to corner any intruders and then either they release themselves via one of many exits onto the surface-side, or they are contained and quickly killed (via gassing, heat/cold, or if all else fails dehydration).
 
 ### What happened?
-20 - Goblin #1
+20 - Goblin #1 (/Y)
 16 - YELLOW
 	D
 	E
@@ -48,7 +48,7 @@ Kailkeep Proper responds as a Hivemind to a degree, especially in that it is wil
 15 - Screw
 14 - Em
 10 - RED
-7 - Sierra
+7 - Sierra (12)
 5 - Jasper
 
 
