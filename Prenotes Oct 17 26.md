@@ -42,7 +42,7 @@ Kailkeep Proper responds as a Hivemind to a degree, especially in that it is wil
 16 - YELLOW
 	D 14, 23
 	E
-	F 38
+	~~F 38~~
 	Dog (4, 8)
 15 - Steve
 15 - Screw (CROWN)
