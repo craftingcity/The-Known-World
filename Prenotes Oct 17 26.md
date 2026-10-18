@@ -84,5 +84,14 @@ Historically, Arbiters have been since largely put out of commission - but we kn
 
 ### What happened?
 
+We don't trust Timir, so we said no deal on guiding us and we attacked them.
+#### TIMIR FIGHT
+20 - Saorsia
+17 - Zipper
+15 - RED
+	TIMIR AC23, (INVIS, BROKER 30, 32)
+14 - Niko
+10 - BLUE
+5 - Monkeys
 
 We leave our heroes on the date of ... AF, as they ...
