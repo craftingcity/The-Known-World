@@ -38,20 +38,20 @@ We're headed into Kailkeep Proper, specifically the tunnels around *Hauro*. Terr
 Kailkeep Proper responds as a Hivemind to a degree, especially in that it is willing to remove a significant portion of itself as long as some part continues to survive. This means their direct action will likely involve attempting to corner any intruders and then either they release themselves via one of many exits onto the surface-side, or they are contained and quickly killed (via gassing, heat/cold, or if all else fails dehydration).
 
 ### What happened?
-20 - Goblin #1 (x/)
+~~20 - Goblin #1 (xx/)~~
 16 - YELLOW
 	~~D 14, 23, ~~
-	E 13
+	E 13, 20
 	~~F 38~~
 	~~Dog (4, 8, 14, 28, 45)~~
-15 - Steve
-15 - Screw (27, 32)
+15 - Steve (/YY)
+~~15 - Screw (27, 32, 50)~~
 14 - Em
 10 - RED
 ~~7 - Sierra (12, 17, 30, )~~
 5 - Jasper
 2 - Demons
-1 - Dragon
+~~1 - Dragon~~
 
 
 We leave our heroes on the date of ... AF, as they ...
