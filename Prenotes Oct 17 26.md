@@ -48,7 +48,7 @@ Kailkeep Proper responds as a Hivemind to a degree, especially in that it is wil
 15 - Screw (CROWN)
 14 - Em
 10 - RED
-7 - Sierra (12)
+~~7 - Sierra (12, 17, 30, )~~
 5 - Jasper
 1 - Dragon
 
