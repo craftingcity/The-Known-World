@@ -89,7 +89,7 @@ We don't trust Timir, so we said no deal on guiding us and we attacked them.
 20 - Saorsia
 17 - Zipper
 15 - RED
-	TIMIR AC23, (INVIS, BROKER 30, 32)
+	TIMIR AC23, (INVIS, BROKER 30, 32, 65)
 14 - Niko
 10 - BLUE
 5 - Monkeys
