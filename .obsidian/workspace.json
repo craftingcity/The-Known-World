@@ -29,8 +29,32 @@
               "icon": "lucide-file",
               "title": "Prenotes Oct 17 26"
             }
+          },
+          {
+            "id": "623686546d36521e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Custom Heritages"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -324,8 +348,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91c8273d0c6c4b40",
+  "active": "623686546d36521e",
   "lastOpenFiles": [
+    "Prenotes Oct 17 26.md",
     "A Grand Notepad.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
@@ -335,7 +360,6 @@
     "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
     "ORGANIZATION/TEMPLATES/Campaign Roster.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
-    "Prenotes Oct 17 26.md",
     "Prenotes Aug 28 26.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/a_ Chapter One - Introduction.md",
