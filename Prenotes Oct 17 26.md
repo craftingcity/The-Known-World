@@ -41,15 +41,15 @@ Kailkeep Proper responds as a Hivemind to a degree, especially in that it is wil
 ~~20 - Goblin #1 (xx/)~~
 16 - YELLOW
 	~~D 14, 23, ~~
-	E 13, 20
+	~~E 13, 20~~
 	~~F 38~~
 	~~Dog (4, 8, 14, 28, 45)~~
-15 - Steve (/YY)
+15 - Steve (xx)
 ~~15 - Screw (27, 32, 50)~~
 14 - Em
 10 - RED
 ~~7 - Sierra (12, 17, 30, )~~
-5 - Jasper
+5 - Jasper (9, 17)
 2 - Demons
 ~~1 - Dragon~~
 
