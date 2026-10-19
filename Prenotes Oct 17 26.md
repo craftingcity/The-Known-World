@@ -91,11 +91,13 @@ We don't trust Timir, so we said no deal on guiding us and we attacked them.
 15 - RED
 	~~TIMIR AC23, (30, 32, 65, 81, 87, 114, )~~
 	~~B 32, 43~~
-	C 29, 35
+	C 29, 35, 
 	~~D 7, 24, 40, 50, ~~
 	~~E 15, 19, 29~~
 14 - Niko
 10 - BLUE
 5 - Monkeys
+
+we ran away through the gates, we're on the road to Dis now,
 
 We leave our heroes on the date of ... AF, as they ...
