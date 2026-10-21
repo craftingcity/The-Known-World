@@ -426,16 +426,16 @@ Lots of shit is going on down here, there's a Lady in a Cage, and five cultists 
 
 We kill them, there's shit going on but the Wachter's worship money and power.
 
-We talk with Kitty for a while, and end up deciding that she is kind of the Lady of the House now, and could hire a caretaker (*Ireena*) who can stay with her.
+We talk with *Kitty* for a while, and end up deciding that she is kind of the Lady of the House now, and could hire a caretaker (*Ireena*) who can stay with her.
 
-We make our story more convincing by giving Ireena a letter of notice as if we were Lady Wachter, and we promise to play her as we leave.
+We make our story more convincing by giving *Ireena* a letter of notice as if we were *Lady Wachter*, and we promise to play her as we leave.
 
 We take a Long Rest and wake up. It is the 25th. If we can, maybe we spend a bunch of time setting up the Basement down here at the Wachters making it a nice wolf-out space for the full moon.
 
 ### Session 14 - "Visiting the Coffin-maker"
 
-Today is the 25th. We are safer now that we have claimed the house of the Wachters. Today we will move on the Coffin-maker, who has the Bones of the Saint we must return.
+Today is the 25th. We are safer now that we have claimed the house of the *Wachters*. Today we will move on the Coffin-maker, who has the Bones of the Saint we must return.
 
-Vasili von Holtz is named as the Nobleman the Coffin-maker is grabbing the Bones for. We've seen his name on the Letter in the Wachter House and on the Deeds for the Wachter Lands. Von Holtz promised business would boom if the Coffin Maker would take the bones for him.
+*Vasili von Holtz* is named as the Nobleman the Coffin-maker is grabbing the Bones for. We've seen his name on the Letter in the *Wachter* House and on the Deeds for the *Wachter* Lands. *Von Holtz* promised business would boom if the Coffin Maker would take the bones for him.
 
 In the upstairs of the Coffin-maker's, there are six Vampires lying in wait.
