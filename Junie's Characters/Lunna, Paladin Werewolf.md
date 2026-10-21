@@ -124,9 +124,9 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 | L. 6 | XP: 14k            | / 23k | (1) Inspiration           |
 | ---- | ------------------ | ----- | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
-| CON  | 18 (+4)            | M. HP | 76 Max HP (0/5 Exhaust)   |
+| CON  | 18 (+4)            | M. HP | 76 Max HP (1/5 Exhaust)   |
 | DEX  | 14 (+2)            | AC    | (17 // 12 & resist B/P/S) |
-| INT  | 9  (-1)            | C. HP | 11 HP                     |
+| INT  | 9  (-1)            | C. HP | 18 HP                     |
 | WIS  | 14 (+2) ^          | HD    | 6d10 (0/6)                |
 | CHA  | 14 (+2) ^          | SPD   | 30' // 40'                |
 
