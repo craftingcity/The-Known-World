@@ -145,7 +145,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - (1bc*) [Compelled Duel](https://dnd5e.wikidot.com/spell:compelled-duel)
 - (2*) [Warding Bond](https://dnd5e.wikidot.com/spell:warding-bond)
 - (2*) [Zone of Truth](https://dnd5e.wikidot.com/spell:zone-of-truth)
-##### Prepared Spells (Prep 4)
+##### Prepared Spells (Prep 5)
 - (2bc) [Magic Weapon](https://dnd5e.wikidot.com/spell:magic-weapon)
 - (1bc) [Shield of Faith](https://dnd5e.wikidot.com/spell:shield-of-faith)
 - (1c) [Detect Evil & Good](https://dnd5e.wikidot.com/spell:detect-evil-and-good)
