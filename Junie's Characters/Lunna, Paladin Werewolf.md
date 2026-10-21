@@ -126,7 +126,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
 | CON  | 18 (+4)            | M. HP | 76 Max HP (0/5 Exhaust)   |
 | DEX  | 14 (+2)            | AC    | (17 // 12 & resist B/P/S) |
-| INT  | 9  (-1)            | C. HP | 76 HP                     |
+| INT  | 9  (-1)            | C. HP | 11 HP                     |
 | WIS  | 14 (+2) ^          | HD    | 6d10 (0/6)                |
 | CHA  | 14 (+2) ^          | SPD   | 30' // 40'                |
 
@@ -436,4 +436,6 @@ We take a Long Rest and wake up. It is the 25th. If we can, maybe we spend a bun
 
 Today is the 25th. We are safer now that we have claimed the house of the Wachters. Today we will move on the Coffin-maker, who has the Bones of the Saint we must return.
 
-Vasili von Holtz is named as the Nobleman the Coffin-maker is grabbing the Bones for. We've seen his name on the Letter in the Wachter House and on the Deeds for the Wachter Lands. 
+Vasili von Holtz is named as the Nobleman the Coffin-maker is grabbing the Bones for. We've seen his name on the Letter in the Wachter House and on the Deeds for the Wachter Lands. Von Holtz promised business would boom if the Coffin Maker would take the bones for him.
+
+In the upstairs of the Coffin-maker's, there are six Vampires lying in wait.
