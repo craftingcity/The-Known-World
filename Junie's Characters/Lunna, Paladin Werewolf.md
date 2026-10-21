@@ -121,13 +121,13 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ## Stats
 
-| L. 5 | XP: 14k            | / 23k | (1) Inspiration           |
+| L. 6 | XP: 14k            | / 23k | (1) Inspiration           |
 | ---- | ------------------ | ----- | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
-| CON  | 18 (+4)            | M. HP | 64 Max HP (1/5 Exhaust)   |
+| CON  | 18 (+4)            | M. HP | 76 Max HP (1/5 Exhaust)   |
 | DEX  | 14 (+2)            | AC    | (17 // 12 & resist B/P/S) |
 | INT  | 9  (-1)            | C. HP | 64 HP                     |
-| WIS  | 14 (+2) ^          | HD    | 5d10 (3/5)                |
+| WIS  | 14 (+2) ^          | HD    | 6d10 (4/6)                |
 | CHA  | 14 (+2) ^          | SPD   | 30' // 40'                |
 
 #### Spells
@@ -138,7 +138,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 | o   | o   | .   | .   | .   | .   | .   | .    | .   |
 | o   | x   | .   | .   | .   | .   | .   |      |     |
 | x   | .   | .   | .   | .   |     |     | DC   | 13  |
-| .   |     |     |     |     |     |     | ATTK | +5  |
+| x   |     |     |     |     |     |     | ATTK | +5  |
 
 ##### Oath Spells
 - (1c*) [Command](https://dnd5e.wikidot.com/spell:command)
@@ -226,6 +226,9 @@ You prepare the list of paladin spells that are available for you to cast, choos
 
 ##### Extra Attack
 - You attack twice instead of once when you take the Attack Action on your turn.
+
+##### Aura of Protection (+2)
+- Whenever you or a friendly creature within 10' of you must make a Saving Throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (+2). You must be conscious to grant this bonus.
 
 #### Equipment
 19gp, 90sp
