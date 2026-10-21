@@ -124,10 +124,10 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 | L. 6 | XP: 14k            | / 23k | (1) Inspiration           |
 | ---- | ------------------ | ----- | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
-| CON  | 18 (+4)            | M. HP | 76 Max HP (1/5 Exhaust)   |
+| CON  | 18 (+4)            | M. HP | 76 Max HP (0/5 Exhaust)   |
 | DEX  | 14 (+2)            | AC    | (17 // 12 & resist B/P/S) |
-| INT  | 9  (-1)            | C. HP | 64 HP                     |
-| WIS  | 14 (+2) ^          | HD    | 6d10 (4/6)                |
+| INT  | 9  (-1)            | C. HP | 76 HP                     |
+| WIS  | 14 (+2) ^          | HD    | 6d10 (0/6)                |
 | CHA  | 14 (+2) ^          | SPD   | 30' // 40'                |
 
 #### Spells
@@ -136,9 +136,9 @@ You prepare the list of paladin spells that are available for you to cast, choos
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | .   | .   | .   | .   | .   | .    | .   |
-| o   | x   | .   | .   | .   | .   | .   |      |     |
-| x   | .   | .   | .   | .   |     |     | DC   | 13  |
-| x   |     |     |     |     |     |     | ATTK | +5  |
+| o   | o   | .   | .   | .   | .   | .   |      |     |
+| o   | .   | .   | .   | .   |     |     | DC   | 13  |
+| o   |     |     |     |     |     |     | ATTK | +5  |
 
 ##### Oath Spells
 - (1c*) [Command](https://dnd5e.wikidot.com/spell:command)
@@ -150,6 +150,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - (1bc) [Shield of Faith](https://dnd5e.wikidot.com/spell:shield-of-faith)
 - (1c) [Detect Evil & Good](https://dnd5e.wikidot.com/spell:detect-evil-and-good)
 - (1c) [Bless](https://dnd5e.wikidot.com/spell:bless)
+- (1r) [Purify Food & Drink](https://dnd5e.wikidot.com/spell:purify-food-and-drink)
 
 #### Proficiencies
 ##### Skills
@@ -430,3 +431,7 @@ We talk with Kitty for a while, and end up deciding that she is kinda the Lady o
 We make our story more convincing by giving Ireena a letter of notice as if we were Lady Wachter, and we promise to play her as we leave.
 
 We take a Long Rest and wake up. It is the 25th. If we can, maybe we spend a bunch of time setting up the Basement down here at the Wachters making it a nice wolf-out space for the full moon.
+
+### Session 14 - ""
+
+Today is the 25th.
