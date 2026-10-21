@@ -136,7 +136,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | .   | .   | .   | .   | .   | .    | .   |
-| o   | o   | .   | .   | .   | .   | .   |      |     |
+| o   | x   | .   | .   | .   | .   | .   |      |     |
 | o   | .   | .   | .   | .   |     |     | DC   | 13  |
 | o   |     |     |     |     |     |     | ATTK | +5  |
 
@@ -435,3 +435,5 @@ We take a Long Rest and wake up. It is the 25th. If we can, maybe we spend a bun
 ### Session 14 - "Visiting the Coffin-maker"
 
 Today is the 25th. We are safer now that we have claimed the house of the Wachters. Today we will move on the Coffin-maker, who has the Bones of the Saint we must return.
+
+Vasili von Holtz is named as the Nobleman the Coffin-maker is grabbing the Bones for. We've seen his name on the Letter in the Wachter House and on the Deeds for the Wachter Lands. 
