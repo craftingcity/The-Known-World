@@ -28,7 +28,7 @@ Politics / Tactics (*Survival Horror*): *2* / *4*
 Evocative Title: **"The Desert's Worries"**
 Description: *'The year is 106 AF. It has been nearly 15 years since Tetrimoc has flown in the skies, and we are a house divided. There are children born who do not know the beauty of his scales. Some of us are losing faith that he still speaks to us - that the High Ambassador does speak the truth for Him. The rest of us know his return to be coming.'*
 Vibe Notation: This campaign will begin at low level, and initial questing will focus on exploring Tetrimoc's Desert and the happenings in that region.
-Politics / Tactics (**): *3* / *3*
+Politics / Tactics (*Theological Conflict*): *3* / *3*
 
 Evocative Title:
 Description:

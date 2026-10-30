@@ -5,8 +5,28 @@
       "path": "Prenotes Oct 30 26.md"
     },
     {
+      "basename": "Masham",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Masham.md"
+    },
+    {
       "basename": "EmilyOwen Game",
       "path": "EmilyOwen Game.md"
+    },
+    {
+      "basename": "Falaj Dawheer",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Falaj Dawheer.md"
+    },
+    {
+      "basename": "Thurm",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Thurm.md"
+    },
+    {
+      "basename": "Abricadabrin",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Abricadabrin.md"
+    },
+    {
+      "basename": "Campaigns",
+      "path": "Game Notes/Campaigns.md"
     },
     {
       "basename": "Devils",
@@ -169,10 +189,6 @@
       "path": "Game Notes/Prenotes/'26/Prenotes May 22 26.md"
     },
     {
-      "basename": "Abricadabrin",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Abricadabrin.md"
-    },
-    {
       "basename": "Guild of Adventurers Admission of Knowledge Assessment 1",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Mechanics",
       "path": "Game Notes/Mechanics/Mechanics.md"
-    },
-    {
-      "basename": "Languages",
-      "path": "Notes on the Multiverse/The Alaturmenian/Big Lore/Languages/Languages.md"
-    },
-    {
-      "basename": "Understanding Other Languages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Understanding Other Languages.md"
-    },
-    {
-      "basename": "Grand Pantheon",
-      "path": "Game Notes/NPCs/Absolute Power/Grand Pantheon.md"
-    },
-    {
-      "basename": "NPCs",
-      "path": "Game Notes/NPCs/NPCs.md"
     }
   ],
   "omittedPaths": [],

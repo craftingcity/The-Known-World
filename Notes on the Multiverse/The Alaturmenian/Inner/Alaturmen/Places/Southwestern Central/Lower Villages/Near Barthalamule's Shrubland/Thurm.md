@@ -3,10 +3,10 @@ tags:
 - holding
 aliases:
 ---
-# Name
+# Thurm
 #### Sub-names?
-## Holding of {Faction}
-### Located in {Region}, X:Y
+## Holding of [[Barthalmule's Thieves]]
+### Located in [[Barthalamule's Shrubland]], X:Y
 ## Description
 ### Quote
 
