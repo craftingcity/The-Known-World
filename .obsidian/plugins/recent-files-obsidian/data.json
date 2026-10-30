@@ -5,6 +5,22 @@
       "path": "Prenotes Oct 30 26.md"
     },
     {
+      "basename": "Cobalt's Thieves",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md"
+    },
+    {
+      "basename": "Barthalmule's Thieves",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Barthalmule's Thieves.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
+    },
+    {
+      "basename": "Agrandica's Thieves",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md"
+    },
+    {
       "basename": "Masham",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Masham.md"
     },
@@ -63,10 +79,6 @@
     {
       "basename": "Demons",
       "path": "Game Notes/NPCs/High Power/Demons/Demons.md"
-    },
-    {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
     {
       "basename": "Baator",
@@ -187,18 +199,6 @@
     {
       "basename": "Prenotes May 22 26",
       "path": "Game Notes/Prenotes/'26/Prenotes May 22 26.md"
-    },
-    {
-      "basename": "Guild of Adventurers Admission of Knowledge Assessment 1",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/General Texts/Guild Texts/Bueracracy and Forms/Guild of Adventurers Admission of Knowledge Assessment 1.md"
-    },
-    {
-      "basename": "An Ode to My Love",
-      "path": "An Ode to My Love.md"
-    },
-    {
-      "basename": "Mechanics",
-      "path": "Game Notes/Mechanics/Mechanics.md"
     }
   ],
   "omittedPaths": [],

@@ -7,4 +7,4 @@ aliases:
 
 Cobalt's Thieves are a group of [[The Code of Thieves|Coded Thieves]] led by [[Cobalt]]. They base themselves around the southwestern area of [[The Deserts of Tetrimoc]].
 
-While they like the other two Noble gangs participate in the Durandurm trades, but 
+While they - like the other two Noble gangs - participate in the Water and Durandurm trades, Cobalt specializes in agricultural propagation.
