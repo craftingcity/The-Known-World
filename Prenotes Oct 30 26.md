@@ -25,7 +25,7 @@ The deserts stand as harsh as they have ever been. Since having been the battleg
 
 Today is the 20th of Harvest, in the 106th year. And today is the first day in a half-century that a living Dragon has flown upon the face of Alaturmen. Coming from the East, somewhere in the DCP, a Golden-winged reptile flew across the [[Alvalini River]], above the Shrublands and the Blessings, before it came to roost on the western edge of the world. Today, a genuine Dragon has landed somewhere in the [[Lord's Folly]]. 
 
-
+Our view pans, south-south-east from the Folly, towards [[Tetrimoc's Blessings]], and closer down, into the city of [[Kamarios]].
 
 ### What does the World Know?
 
