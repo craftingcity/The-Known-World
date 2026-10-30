@@ -23,7 +23,7 @@ War has come to the North, pitching [[The Church of the White Flame]] against [[
 
 The deserts stand as harsh as they have ever been. Since having been the battleground of the first demonic invasion our world has known, little pressure has been applied to the status-que of economic castigation held and enforced by the [[Golden Claws]] of [[The Deserts of Tetrimoc]]. Some political rumblings, questions of who the [[Houran Venclaw|High Ambassador]] is truly speaking for, but little of note has changed. Until today.
 
-Today is the 20th of Harvest, in the 106th year. And today is the first day in a half-century that a living Dragon has flown upon the face of Alaturmen. Coming from the East, somewhere in the DCP, a Golden-winged reptile flew across the [[Alvalini River]], above the Shrublands and the Blessings, before it came to roost on the western edge of the world. Today, a genuine Dragon landed in the [[Lord's Folly]]. 
+Today is the 20th of Harvest, in the 106th year. And today is the first day in a half-century that a living Dragon has flown upon the face of Alaturmen. Coming from the East, somewhere in the DCP, a Golden-winged reptile flew across the [[Alvalini River]], above the Shrublands and the Blessings, before it came to roost on the western edge of the world. Today, a genuine Dragon has landed somewhere in the [[Lord's Folly]]. 
 
 
 ### What does the World Know?
