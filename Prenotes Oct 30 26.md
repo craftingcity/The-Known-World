@@ -39,14 +39,14 @@ bar fight
 
 18 - GREEN (AC 13)
 	A
-	B
-	C
-	D
+	B (3, 6)
+	C (9)
+	D (6)
 	E
 14 - Bloodtoof
 12 - Tarik
 9 - Big Poppa
-5 - Civvies (x/)
+5 - Civvies 
 3 - Eden 
 
 
