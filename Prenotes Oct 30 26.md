@@ -31,6 +31,7 @@ Our view pans, south-south-east from the Folly, towards [[Tetrimoc's Blessings]]
 
 ### What does the World Know?
 
+Tarik, Cobalt Squad Leader
 
 ### What happened?
 

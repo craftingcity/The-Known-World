@@ -6,7 +6,7 @@
       {
         "id": "9bb7383b2be4983f",
         "type": "tabs",
-        "dimension": 44.86075949367089,
+        "dimension": 50.177215189873415,
         "children": [
           {
             "id": "8cf044a6e93c1d55",
@@ -30,84 +30,14 @@
               "icon": "lucide-file",
               "title": "Prenotes Oct 30 26"
             }
-          },
-          {
-            "id": "cb148e37fc3183bc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EmilyOwen Game.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "EmilyOwen Game"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e87e20158eaeec20",
         "type": "tabs",
-        "dimension": 55.13924050632911,
+        "dimension": 49.82278481012658,
         "children": [
-          {
-            "id": "90d7c0e0265757ac",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Custom Cultures"
-            }
-          },
-          {
-            "id": "9cd1673df590cb5c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Custom Heritages"
-            }
-          },
           {
             "id": "dd3952a0ca0e2344",
             "type": "leaf",
@@ -131,8 +61,7 @@
               "title": "List of Names"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -427,14 +356,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cd1673df590cb5c",
+  "active": "8cf044a6e93c1d55",
   "lastOpenFiles": [
+    "EmilyOwen Game.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Game Notes/NPCs/List of Names.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Barthalmule's Thieves.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/How the Weave becomes Magic.md",
-    "EmilyOwen Game.md",
     "Prenotes Oct 30 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
