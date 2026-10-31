@@ -39,10 +39,10 @@ bar fight
 
 18 - GREEN (AC 13)
 	A
-	B (3, 6)
+	~~B (3, 6)~~
 	C (9)
 	D (6)
-	E
+	~~E~~
 14 - Bloodtoof
 12 - Tarik
 9 - Big Poppa
