@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Custom Cultures",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
+      "basename": "EmilyOwen Game",
+      "path": "EmilyOwen Game.md"
     },
     {
       "basename": "Prenotes Oct 30 26",
       "path": "Prenotes Oct 30 26.md"
     },
     {
-      "basename": "EmilyOwen Game",
-      "path": "EmilyOwen Game.md"
+      "basename": "Custom Heritages",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
+    },
+    {
+      "basename": "List of Names",
+      "path": "Game Notes/NPCs/List of Names.md"
+    },
+    {
+      "basename": "Agrandica's Thieves",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md"
+    },
+    {
+      "basename": "Custom Cultures",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md"
     },
     {
       "basename": "Grand Pantheon",
@@ -27,10 +39,6 @@
     {
       "basename": "Cobalt's Thieves",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md"
-    },
-    {
-      "basename": "Agrandica's Thieves",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md"
     },
     {
       "basename": "Masham",
@@ -79,10 +87,6 @@
     {
       "basename": "Custom Class - Blood Hunter",
       "path": "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md"
-    },
-    {
-      "basename": "Custom Heritages",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md"
     },
     {
       "basename": "Demons",
@@ -195,10 +199,6 @@
     {
       "basename": "Minauros",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md"
-    },
-    {
-      "basename": "Magical Items of Note",
-      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
     }
   ],
   "omittedPaths": [],

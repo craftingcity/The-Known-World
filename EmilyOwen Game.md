@@ -9,7 +9,7 @@ action / strategic
 ## People
 | PLAYER | NAME      | CLASS                               | HERITAGE      | CULTURE                |
 | ------ | --------- | ----------------------------------- | ------------- | ---------------------- |
-| Hannah |           | Paladin, Glory (Certi'alkior/Ignan) |               |                        |
+| Hannah |           | Paladin, Glory (Certi'alkior/Ignan) | Goblin        | Cobalt's Noble Thieves |
 | Emily  | Eden      | Rogue                               | Spring, Elven | Arthurian              |
 | Owen   | Bloodtoof | Barbarian                           | Gnoll         | Cobalt's Noble Thieves |
 

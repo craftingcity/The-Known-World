@@ -6,6 +6,7 @@
       {
         "id": "9bb7383b2be4983f",
         "type": "tabs",
+        "dimension": 64.65441819772529,
         "children": [
           {
             "id": "8cf044a6e93c1d55",
@@ -53,11 +54,13 @@
               "title": "EmilyOwen Game"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e87e20158eaeec20",
         "type": "tabs",
+        "dimension": 35.345581802274715,
         "children": [
           {
             "id": "90d7c0e0265757ac",
@@ -137,21 +140,28 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Agrandica's Thieves",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Agrandica's Thieves\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":194},\"to\":{\"line\":9,\"ch\":194}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md",
+                "file": "Game Notes/NPCs/List of Names.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Agrandica's Thieves"
+              "title": "List of Names"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -445,16 +455,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90d7c0e0265757ac",
+  "active": "cb148e37fc3183bc",
   "lastOpenFiles": [
     "Prenotes Oct 30 26.md",
     "EmilyOwen Game.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
     "Notes on the Multiverse/The Alaturmenian/Big Lore/How the Weave becomes Magic.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Barthalmule's Thieves.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Masham.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Falaj Dawheer.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Thurm.md",
@@ -465,14 +477,12 @@
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Prenotes Oct 17 26.md",
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/NPCs/High Power/Demons/Demons.md",
     "Game Notes/Campaign Rosters/Jasper's Angels.md",
     "Game Notes/Campaign Rosters/Campaign Rosters.md",
     "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
     "ORGANIZATION/TEMPLATES/Campaign Roster.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Regions of SWC/Kailkeep/Kailkeep.md",
-    "Prenotes Aug 28 26.md",
     "Untitled.canvas",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
