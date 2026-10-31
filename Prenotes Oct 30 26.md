@@ -35,5 +35,19 @@ Tarik, Cobalt Squad Leader
 
 ### What happened?
 
+bar fight
+
+18 - GREEN (AC 13)
+	A
+	B
+	C
+	D
+	E
+14 - Bloodtoof
+12 - Tarik
+9 - Big Poppa
+5 - Civvies (x/)
+3 - Eden 
+
 
 We leave our heroes on the date of ... AF, as they ...
