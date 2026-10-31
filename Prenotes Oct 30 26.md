@@ -31,8 +31,23 @@ Our view pans, south-south-east from the Folly, towards [[Tetrimoc's Blessings]]
 
 ### What does the World Know?
 
+Tarik, Cobalt Squad Leader
 
 ### What happened?
+
+bar fight
+
+18 - GREEN (AC 13)
+	A
+	~~B (3, 6)~~
+	C (9)
+	D (6)
+	~~E~~
+14 - Bloodtoof
+12 - Tarik
+9 - Big Poppa
+5 - Civvies 
+3 - Eden 
 
 
 We leave our heroes on the date of ... AF, as they ...
