@@ -116,18 +116,18 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 #### Left Unresolved
 - My 'Date', Alenka in *Village of Barovia*
 - Devil's Pastries in *Village of Barovia*
-- Saint Andrul's Bones in *Vallaki*
+- ~~Saint Andrul's Bones in *Vallaki*~~
 - The Other Two Whatcher Boys in *Vallaki*
 
 ## Stats
 
-| L. 6 | XP: 14k            | / 23k | (1) Inspiration           |
+| L. 6 | XP: 19.4k          | / 23k | (1) Inspiration           |
 | ---- | ------------------ | ----- | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
-| CON  | 18 (+4)            | M. HP | 76 Max HP (1/5 Exhaust)   |
+| CON  | 18 (+4)            | M. HP | 76 Max HP (0/5 Exhaust)   |
 | DEX  | 14 (+2)            | AC    | (14 // 12 & resist B/P/S) |
-| INT  | 9  (-1)            | C. HP | 48 HP                     |
-| WIS  | 14 (+2) ^          | HD    | 6d10 (0/6)                |
+| INT  | 9  (-1)            | C. HP | 76 HP                     |
+| WIS  | 14 (+2) ^          | HD    | 6d10 (6/6)                |
 | CHA  | 14 (+2) ^          | SPD   | 30' // 40'                |
 
 #### Spells
@@ -135,10 +135,10 @@ You prepare the list of paladin spells that are available for you to cast, choos
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| x   | x   | .   | .   | .   | .   | .   | .    | .   |
-| x   | x   | .   | .   | .   | .   | .   |      |     |
-| x   | .   | .   | .   | .   |     |     | DC   | 13  |
-| x   |     |     |     |     |     |     | ATTK | +5  |
+| o   | o   | .   | .   | .   | .   | .   | .    | .   |
+| o   | o   | .   | .   | .   | .   | .   |      |     |
+| o   | .   | .   | .   | .   |     |     | DC   | 13  |
+| o   |     |     |     |     |     |     | ATTK | +5  |
 
 ##### Oath Spells
 - (1c*) [Command](https://dnd5e.wikidot.com/spell:command)
@@ -205,7 +205,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [Hallow](http://dnd5e.wikidot.com/spell:hallow) spell.
 - You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
-##### Lay on Hands (0/30)
+##### Lay on Hands (30/30)
 - As an action, you can touch a creature and restore a number of hit points, up to the maximum amount remaining in your pool. You regain any spent points on a long rest.
 - Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. 
 	- You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
@@ -220,7 +220,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 ##### Divine Health
 - You are immune to (most) disease.
 
-##### Channel Divinity (0/1)
+##### Channel Divinity (1/1)
 - Regain any uses after a short or long rest.
 - **_Champion Challenge._** As a bonus action, you issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can't willingly move more than 30 feet away from you. This effect ends on the creature if you are incapacitated or die or if the creature is more than 30 feet away from you.
 - **_Turn the Tide._** As a bonus action, you can bolster injured creatures with your Channel Divinity. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 + your Charisma modifier (minimum of 1) if it has no more than half of its hit points.
@@ -447,4 +447,6 @@ In the upstairs of the Coffin-maker's, there are six Vampires lying in wait.
 Fuck, they're getting me - `FUCKING BULLSHIT` damn!
 
 We spent a lot doing this today. We all almost died. `Twice, you.`
+
+We find the Bones, and quickly return them to *Father Lucian*. Upon meeting with Klarl, the Father has some sort of dissonance in his lack of remembrance of Klarl's old Friends. He calls himself our Ally.
 
