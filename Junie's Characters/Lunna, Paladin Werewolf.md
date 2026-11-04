@@ -125,7 +125,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 | ---- | ------------------ | ----- | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
 | CON  | 18 (+4)            | M. HP | 76 Max HP (1/5 Exhaust)   |
-| DEX  | 14 (+2)            | AC    | (17 // 12 & resist B/P/S) |
+| DEX  | 14 (+2)            | AC    | (14 // 12 & resist B/P/S) |
 | INT  | 9  (-1)            | C. HP | 48 HP                     |
 | WIS  | 14 (+2) ^          | HD    | 6d10 (0/6)                |
 | CHA  | 14 (+2) ^          | SPD   | 30' // 40'                |
@@ -136,7 +136,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | x   | o   | .   | .   | .   | .   | .   | .    | .   |
-| o   | x   | .   | .   | .   | .   | .   |      |     |
+| x   | x   | .   | .   | .   | .   | .   |      |     |
 | o   | .   | .   | .   | .   |     |     | DC   | 13  |
 | o   |     |     |     |     |     |     | ATTK | +5  |
 
@@ -241,8 +241,8 @@ You prepare the list of paladin spells that are available for you to cast, choos
 	- Oil Lantern, Bullseye
 *Head*:
 *Torso*:
-	- Chain Shirt
-	- Black Platemail
+	- Chain Shirt (*BROKEN*)
+	- Black Platemail (*BROKEN*)
 	- Brass Holy Symbol of Avandra (three green waves)
 	- Backpack; 
 		- a bedroll 
