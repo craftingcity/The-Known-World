@@ -125,7 +125,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 | ---- | ------------------ | ----- | ------------------------- |
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
 | CON  | 18 (+4)            | M. HP | 76 Max HP (0/5 Exhaust)   |
-| DEX  | 14 (+2)            | AC    | (14 // 12 & resist B/P/S) |
+| DEX  | 14 (+2)            | AC    | (15 // 12 & resist B/P/S) |
 | INT  | 9  (-1)            | C. HP | 76 HP                     |
 | WIS  | 14 (+2) ^          | HD    | 6d10 (6/6)                |
 | CHA  | 14 (+2) ^          | SPD   | 30' // 40'                |
@@ -232,7 +232,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - Whenever you or a friendly creature within 10' of you must make a Saving Throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (+2). You must be conscious to grant this bonus.
 
 #### Equipment
-20gp, 80sp
+27gp, 0sp
 
 *Hands*: 
 	- Longsword (1d8 / 1d10 + STR slashing)
@@ -243,6 +243,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 *Torso*:
 	- Chain Shirt (*BROKEN*)
 	- Black Platemail (*BROKEN*)
+	- Leather Armor
 	- Brass Holy Symbol of Avandra (three green waves)
 	- Sack; Remains of Saint Andrul
 	- Backpack; 
@@ -450,4 +451,4 @@ We spent a lot doing this today. We all almost died. `Twice, you.`
 
 We find the Bones, and quickly return them to *Father Lucian*. Upon meeting with Klarl, the Father has some sort of dissonance in his lack of remembrance of Klarl's old Friends. He calls himself our Ally.
 
-We connect *Father Lucian* and *Ireena*, he speaks of the *Wachter Boys, Nikolai & Karl*, 
+We connect *Father Lucian* and *Ireena*, he speaks of the *Wachter Boys, Nikolai & Karl*, who he calls drunks, and he'll help us clean up the Wachter House.
