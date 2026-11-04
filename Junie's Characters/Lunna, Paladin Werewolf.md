@@ -450,3 +450,4 @@ We spent a lot doing this today. We all almost died. `Twice, you.`
 
 We find the Bones, and quickly return them to *Father Lucian*. Upon meeting with Klarl, the Father has some sort of dissonance in his lack of remembrance of Klarl's old Friends. He calls himself our Ally.
 
+We connect *Father Lucian* and *Ireena*, he speaks of the *Wachter Boys, Nikolai & Karl*, 
