@@ -232,7 +232,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - Whenever you or a friendly creature within 10' of you must make a Saving Throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (+2). You must be conscious to grant this bonus.
 
 #### Equipment
-19gp, 90sp
+20gp, 80sp
 
 *Hands*: 
 	- Longsword (1d8 / 1d10 + STR slashing)
@@ -244,6 +244,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 	- Chain Shirt (*BROKEN*)
 	- Black Platemail (*BROKEN*)
 	- Brass Holy Symbol of Avandra (three green waves)
+	- Sack; Remains of Saint Andrul
 	- Backpack; 
 		- a bedroll 
 		- a mess kit
@@ -444,4 +445,6 @@ In the upstairs of the Coffin-maker's, there are six Vampires lying in wait.
 ### Session 15 - "Don't Die in the Attic"
 
 Fuck, they're getting me - `FUCKING BULLSHIT` damn!
+
+We spent a lot doing this today. We all almost died. `Twice, you.`
 
