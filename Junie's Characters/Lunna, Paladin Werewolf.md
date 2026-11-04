@@ -135,7 +135,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| x   | o   | .   | .   | .   | .   | .   | .    | .   |
+| x   | x   | .   | .   | .   | .   | .   | .    | .   |
 | x   | x   | .   | .   | .   | .   | .   |      |     |
 | x   | .   | .   | .   | .   |     |     | DC   | 13  |
 | x   |     |     |     |     |     |     | ATTK | +5  |
