@@ -4,39 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "f02c75651007a129",
-        "type": "tabs",
+        "id": "e165dba282eb0207",
+        "type": "split",
         "children": [
           {
-            "id": "c80b3089ce4c1ef3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "f02c75651007a129",
+            "type": "tabs",
+            "dimension": 62.86449399656947,
+            "children": [
+              {
+                "id": "c80b3089ce4c1ef3",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Weapons of Alaturmen",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Weapons of Alaturmen\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":438.9218434257764}"
+                    }
+                  ]
                 },
-                {
-                  "title": "Weapons of Alaturmen",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
+                    "mode": "source",
+                    "source": true
+                  },
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Weapons of Alaturmen\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":438.9218434257764}"
+                  "title": "Lunna, Paladin Werewolf"
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
-            }
+              }
+            ]
+          },
+          {
+            "id": "ccfe7b36378985c2",
+            "type": "tabs",
+            "dimension": 37.13550600343053,
+            "children": [
+              {
+                "id": "3b1e22e5b158fbd3",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Weapons of Alaturmen",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Weapons of Alaturmen\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":438.9218434257764}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lunna, Paladin Werewolf"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "5910567f940155bc",
@@ -366,7 +410,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1136c72fab85a85a",
+  "active": "3b1e22e5b158fbd3",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Game Notes/NPCs/List of Names.md",

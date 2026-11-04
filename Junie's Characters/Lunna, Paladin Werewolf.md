@@ -126,7 +126,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
 | CON  | 18 (+4)            | M. HP | 76 Max HP (1/5 Exhaust)   |
 | DEX  | 14 (+2)            | AC    | (17 // 12 & resist B/P/S) |
-| INT  | 9  (-1)            | C. HP | 18 HP                     |
+| INT  | 9  (-1)            | C. HP | 48 HP                     |
 | WIS  | 14 (+2) ^          | HD    | 6d10 (0/6)                |
 | CHA  | 14 (+2) ^          | SPD   | 30' // 40'                |
 
@@ -135,7 +135,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| o   | o   | .   | .   | .   | .   | .   | .    | .   |
+| x   | o   | .   | .   | .   | .   | .   | .    | .   |
 | o   | x   | .   | .   | .   | .   | .   |      |     |
 | o   | .   | .   | .   | .   |     |     | DC   | 13  |
 | o   |     |     |     |     |     |     | ATTK | +5  |
@@ -205,7 +205,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [Hallow](http://dnd5e.wikidot.com/spell:hallow) spell.
 - You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
-##### Lay on Hands (25/25)
+##### Lay on Hands (0/30)
 - As an action, you can touch a creature and restore a number of hit points, up to the maximum amount remaining in your pool. You regain any spent points on a long rest.
 - Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. 
 	- You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
@@ -242,6 +242,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 *Head*:
 *Torso*:
 	- Chain Shirt
+	- Black Platemail
 	- Brass Holy Symbol of Avandra (three green waves)
 	- Backpack; 
 		- a bedroll 
@@ -439,3 +440,8 @@ Today is the 25th. We are safer now that we have claimed the house of the *Wacht
 *Vasili von Holtz* is named as the Nobleman the Coffin-maker is grabbing the Bones for. We've seen his name on the Letter in the *Wachter* House and on the Deeds for the *Wachter* Lands. *Von Holtz* promised business would boom if the Coffin Maker would take the bones for him.
 
 In the upstairs of the Coffin-maker's, there are six Vampires lying in wait.
+
+### Session 15 - "Don't Die in the Attic"
+
+Fuck, they're getting me - `FUCKING BULLSHIT` damn!
+
