@@ -32,6 +32,27 @@
             }
           },
           {
+            "id": "cf5c1af589877298",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
+          },
+          {
             "id": "395f6baec082a2e7",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -60,7 +81,8 @@
               "title": "Weapons of Alaturmen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e87e20158eaeec20",
@@ -432,7 +454,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cf044a6e93c1d55",
+  "active": "cf5c1af589877298",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Prenotes Oct 30 26.md",
