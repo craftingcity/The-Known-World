@@ -137,8 +137,8 @@ You prepare the list of paladin spells that are available for you to cast, choos
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | x   | o   | .   | .   | .   | .   | .   | .    | .   |
 | x   | x   | .   | .   | .   | .   | .   |      |     |
-| o   | .   | .   | .   | .   |     |     | DC   | 13  |
-| o   |     |     |     |     |     |     | ATTK | +5  |
+| x   | .   | .   | .   | .   |     |     | DC   | 13  |
+| x   |     |     |     |     |     |     | ATTK | +5  |
 
 ##### Oath Spells
 - (1c*) [Command](https://dnd5e.wikidot.com/spell:command)
