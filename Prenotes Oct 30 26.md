@@ -49,5 +49,6 @@ bar fight
 5 - Civvies 
 3 - Eden 
 
+We saw the Wyverns riding east, towards the Lord's Folly
 
 We leave our heroes on the date of ... AF, as they ...
