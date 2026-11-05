@@ -53,9 +53,30 @@
               "icon": "lucide-file",
               "title": "EmilyOwen Game"
             }
+          },
+          {
+            "id": "22bb95bebab3273b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.0"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "e87e20158eaeec20",
@@ -455,7 +476,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb148e37fc3183bc",
+  "active": "22bb95bebab3273b",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Prenotes Oct 30 26.md",
