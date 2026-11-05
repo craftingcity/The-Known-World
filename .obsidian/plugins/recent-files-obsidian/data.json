@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Baron Filip",
-      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md"
-    },
-    {
       "basename": "Huntyr Swamp",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md"
+    },
+    {
+      "basename": "Baron Filip",
+      "path": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md"
     },
     {
       "basename": "APGtAv1",
@@ -195,10 +195,6 @@
     {
       "basename": "Cania",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Cania.md"
-    },
-    {
-      "basename": "Maladomini",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Maladomini.md"
     }
   ],
   "omittedPaths": [],
