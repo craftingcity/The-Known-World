@@ -7,11 +7,11 @@ aliases:
 action / strategic
 
 ## People
-| PLAYER | NAME       | CLASS                               | HERITAGE      | CULTURE                |
-| ------ | ---------- | ----------------------------------- | ------------- | ---------------------- |
-| Hannah | 'Big Papa' | Paladin, Glory (Certi'alkior/Ignan) | Goblin        | Cobalt's Noble Thieves |
-| Emily  | Eden       | Rogue                               | Spring, Elven | Arthurian              |
-| Owen   | Bloodtoof  | Barbarian                           | Gnoll         | Cobalt's Noble Thieves |
+| PLAYER | NAME               | CLASS                               | HERITAGE      | CULTURE                |
+| ------ | ------------------ | ----------------------------------- | ------------- | ---------------------- |
+| Hannah | Paxsion 'Big Papa' | Paladin, Glory (Certi'alkior/Ignan) | Goblin        | Cobalt's Noble Thieves |
+| Emily  | Eden               | Rogue                               | Spring, Elven | Arthurian              |
+| Owen   | Bloodtoof          | Barbarian                           | Gnoll         | Cobalt's Noble Thieves |
 
 ### Trusted Allies
 ### Mortal Adversaries
