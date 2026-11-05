@@ -40,22 +40,28 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "EmilyOwen Game",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"EmilyOwen Game.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"EmilyOwen Game\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EmilyOwen Game.md",
+                "file": "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "EmilyOwen Game"
+              "title": "APGtAv1"
             }
           },
           {
-            "id": "22bb95bebab3273b",
+            "id": "35ac6f0f0eb96362",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -67,12 +73,37 @@
               ]
             },
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.15.0"
+                "file": "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.0"
+              "icon": "lucide-file",
+              "title": "Baron Filip"
+            }
+          },
+          {
+            "id": "63b808cde8091a1f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Huntyr Swamp"
             }
           }
         ],
@@ -232,7 +263,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "golden",
+                "query": "dragon",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -476,11 +507,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22bb95bebab3273b",
+  "active": "35ac6f0f0eb96362",
   "lastOpenFiles": [
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md",
+    "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
+    "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md",
+    "EmilyOwen Game.md",
     "conflict-files-obsidian-git.md",
     "Prenotes Oct 30 26.md",
-    "EmilyOwen Game.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
     "Game Notes/NPCs/List of Names.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md",
@@ -501,9 +535,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Classes/Custom Class - Blood Hunter.md",
     "Game Notes/NPCs/High Power/Demons/Demons.md",
     "Game Notes/Campaign Rosters/Jasper's Angels.md",
-    "Game Notes/Campaign Rosters/Campaign Rosters.md",
-    "Game Notes/Campaign Rosters/Dragoon's Greats Game.md",
-    "ORGANIZATION/TEMPLATES/Campaign Roster.md",
     "Untitled.canvas",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
