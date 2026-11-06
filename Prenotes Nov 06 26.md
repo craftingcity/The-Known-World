@@ -22,7 +22,7 @@ With your package secured, and the victims of this scuffle tended to, you are le
 Tarik speaks first; "Well, shit. Looks like the Claws are making a move. We should get back to Cobalt."
 
 ### What does the World Know?
-- The package the party collected is a bundle of seeding 
+- The package the party collected is a bundle of seeding Foxglove
 
 ### What happened?
 
