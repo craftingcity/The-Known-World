@@ -888,8 +888,11 @@ Upon invocation, the Petal is consumed, and you and up to 11 other creatures of 
 Upon inhalation or injection, make a DC (12 + (G * 3)) Constitution Saving Throw. If you succeed, you gain +(G * 2) to your Strength and Dexterity Modifiers for the next minute. Otherwise, you are Poisoned and Paralyzed for the next minute.
 
 **Ingredients**;
-- 16 ounces Hair of Horse (200.0sp)
+- 12 ounces Hair of Horse (150.0sp)
 - 8 ounces Hair of Humanoid (176.0sp)
+- 12 pounds Mica (6.00sp)
+	- *OR*
+- 20 ounces Foxglove (320.0sp)
 - 12 pounds Mica (6.00sp)
 	- 128 ounces Dareanamon (400.0sp) > (3.25sp / ounce) > (0.55sp / 4oz dose)
 
