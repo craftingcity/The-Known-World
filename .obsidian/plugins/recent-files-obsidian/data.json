@@ -5,8 +5,16 @@
       "path": "Prenotes Nov 06 26.md"
     },
     {
+      "basename": "Golden Claws",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md"
+    },
+    {
       "basename": "Prenotes Oct 30 26",
       "path": "Prenotes Oct 30 26.md"
+    },
+    {
+      "basename": "Currency of Alaturmen",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
     },
     {
       "basename": "Custom Cultures",
@@ -191,14 +199,6 @@
     {
       "basename": "Malbolge",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Malbolge.md"
-    },
-    {
-      "basename": "Nessus",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Nessus.md"
-    },
-    {
-      "basename": "Cania",
-      "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Cania.md"
     }
   ],
   "omittedPaths": [],
