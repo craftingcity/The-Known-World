@@ -28,5 +28,16 @@ Tarik speaks first; "Well, shit. Looks like the Claws are making big moves. We s
 
 ### What happened?
 
+15 - Bloodtoof
+14 - RED
+	~~A 5~~
+	B
+	C
+	D
+12 - Eden
+6 - Tarik
+5 - ORANGE
+3 - Big Papa
+
 
 We leave our heroes on the date of ... AF, as they ...
