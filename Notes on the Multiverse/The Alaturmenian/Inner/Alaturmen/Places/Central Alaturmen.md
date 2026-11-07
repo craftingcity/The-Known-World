@@ -1,5 +1,6 @@
 ---
-tags: region
+tags:
+- region
 aliases:
 ---
 # Central Alaturmen
