@@ -119,6 +119,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 - ~~Saint Andrul's Bones in *Vallaki*~~
 - The Other Two Whatcher Boys in *Vallaki*
 - The Toy Shop in *Vallaki*?
+	- *Izek* commissioned creepy dolls that look like *Ireena* and *Straud*. He works for the Baron.
 
 ## Stats
 
@@ -233,7 +234,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - Whenever you or a friendly creature within 10' of you must make a Saving Throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (+2). You must be conscious to grant this bonus.
 
 #### Equipment
-27gp, 0sp
+26gp, 8sp
 
 *Hands*: 
 	- Longsword (1d8 / 1d10 + STR slashing)
@@ -461,4 +462,6 @@ We connect *Father Lucian* and *Ireena*, he speaks of the *Wachter Boys, Nikolai
 
 We purchase some potions of Healing from *Father Lucian*. The only other business we haven't been to is the Toy Shop.
 
-I spend the day preparing the basement of our new **Wachter Manor** for the Full Moon while the rest of the party heads out to the Toy Shop. 
+I spend the day preparing the basement of our new **Wachter Manor** for the Full Moon while the rest of the party heads out to the Toy Shop. The party found out about a man named *Izek*, who commissioned some creepy dolls of *Ireena* and *Straud*. 
+
+We meet some guys carrying sticks.
