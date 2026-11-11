@@ -128,7 +128,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                             |
 | CON  | 18 (+4)            | M. HP | 76 Max HP (0/5 Exhaust)        |
 | DEX  | 14 (+2)            | AC    | (15 (17) // 12 & resist B/P/S) |
-| INT  | 9  (-1)            | C. HP | 53 HP                          |
+| INT  | 9  (-1)            | C. HP | 76 HP                          |
 | WIS  | 14 (+2) ^          | HD    | 6d10 (6/6)                     |
 | CHA  | 14 (+2) ^          | SPD   | 30' // 40'                     |
 
@@ -137,8 +137,8 @@ You prepare the list of paladin spells that are available for you to cast, choos
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| x   | o   | .   | .   | .   | .   | .   | .    | .   |
-| o   | x   | .   | .   | .   | .   | .   |      |     |
+| o   | o   | .   | .   | .   | .   | .   | .    | .   |
+| o   | o   | .   | .   | .   | .   | .   |      |     |
 | o   | .   | .   | .   | .   |     |     | DC   | 13  |
 | o   |     |     |     |     |     |     | ATTK | +5  |
 
@@ -242,9 +242,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 *Arms*: 
 *Head*:
 *Torso*:
-	- Chain Shirt (*BROKEN*)
-	- Black Platemail (*BROKEN*)
-	- Leather Armor
+	- Silver-Dragon Platemail
 	- Brass Holy Symbol of Avandra (three green waves)
 	- Backpack; 
 		- a bedroll 
@@ -256,12 +254,17 @@ You prepare the list of paladin spells that are available for you to cast, choos
 		- a waterskin (1/1L)
 		- 50 feet of hempen rope
 		- a wooden stake
+		- Leather Armor
 *Groin*:
 	- Belt
 		- Oil Lantern, Bullseye
 		- 1x Potion of Healing (2d4+2)
 *Legs*:
 *Feet*:
+
+*Vallaki Smith*
+- Chain Shirt (*PAID*)
+- Black Platemail (*PAID*)
 
 ## Session Log
 ### Session 1 - "You walk through a Dark Forest"
@@ -466,4 +469,4 @@ I spend the day preparing the basement of our new **Wachter Manor** for the Full
 
 We meet some guys carrying sticks. They tell us where to go in the forest, where we encounter an undead paladin of the *Order of the Silver Dragon*. I challenge them to a duel, and the gang jumps in quite quickly. I feel lucky for it, no matter my honor's loss `like you aren't already bitch-made?`.
 
-We've slain the undead, and cut off it's head. It turned to ash, so we could not in
+We've slain the undead, and cut off it's head. It turned to ash, so we could not investigate further, but I've stolen it's armor. We also killed a deer and have preserved it for ourselves.
