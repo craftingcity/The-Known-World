@@ -464,4 +464,4 @@ We purchase some potions of Healing from *Father Lucian*. The only other busines
 
 I spend the day preparing the basement of our new **Wachter Manor** for the Full Moon while the rest of the party heads out to the Toy Shop. The party found out about a man named *Izek*, who commissioned some creepy dolls of *Ireena* and *Straud*. 
 
-We meet some guys carrying sticks.
+We meet some guys carrying sticks. They tell us where to go in the forest, where we encounter an undead paladin of the *Order of the Silver Dragon*.
