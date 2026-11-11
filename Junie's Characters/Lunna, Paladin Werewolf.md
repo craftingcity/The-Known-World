@@ -123,22 +123,22 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 
 ## Stats
 
-| L. 6 | XP: 19.4k          | / 23k | (1) Inspiration           |
-| ---- | ------------------ | ----- | ------------------------- |
-| STR  | 14 (+2) // 15 (+2) | PRF   | +3                        |
-| CON  | 18 (+4)            | M. HP | 76 Max HP (0/5 Exhaust)   |
-| DEX  | 14 (+2)            | AC    | (15 // 12 & resist B/P/S) |
-| INT  | 9  (-1)            | C. HP | 76 HP                     |
-| WIS  | 14 (+2) ^          | HD    | 6d10 (6/6)                |
-| CHA  | 14 (+2) ^          | SPD   | 30' // 40'                |
+| L. 6 | XP: 21.2k          | / 23k | (1) Inspiration                |
+| ---- | ------------------ | ----- | ------------------------------ |
+| STR  | 14 (+2) // 15 (+2) | PRF   | +3                             |
+| CON  | 18 (+4)            | M. HP | 76 Max HP (0/5 Exhaust)        |
+| DEX  | 14 (+2)            | AC    | (15 (17) // 12 & resist B/P/S) |
+| INT  | 9  (-1)            | C. HP | 53 HP                          |
+| WIS  | 14 (+2) ^          | HD    | 6d10 (6/6)                     |
+| CHA  | 14 (+2) ^          | SPD   | 30' // 40'                     |
 
 #### Spells
 You prepare the list of paladin spells that are available for you to cast, choosing from the [paladin spell list](http://dnd5e.wikidot.com/spells:paladin). When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots. You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
-| o   | o   | .   | .   | .   | .   | .   | .    | .   |
-| o   | o   | .   | .   | .   | .   | .   |      |     |
+| x   | o   | .   | .   | .   | .   | .   | .    | .   |
+| o   | x   | .   | .   | .   | .   | .   |      |     |
 | o   | .   | .   | .   | .   |     |     | DC   | 13  |
 | o   |     |     |     |     |     |     | ATTK | +5  |
 
@@ -464,4 +464,6 @@ We purchase some potions of Healing from *Father Lucian*. The only other busines
 
 I spend the day preparing the basement of our new **Wachter Manor** for the Full Moon while the rest of the party heads out to the Toy Shop. The party found out about a man named *Izek*, who commissioned some creepy dolls of *Ireena* and *Straud*. 
 
-We meet some guys carrying sticks. They tell us where to go in the forest, where we encounter an undead paladin of the *Order of the Silver Dragon*.
+We meet some guys carrying sticks. They tell us where to go in the forest, where we encounter an undead paladin of the *Order of the Silver Dragon*. I challenge them to a duel, and the gang jumps in quite quickly. I feel lucky for it, no matter my honor's loss `like you aren't already bitch-made?`.
+
+We've slain the undead, and cut off it's head. It turned to ash, so we could not in
