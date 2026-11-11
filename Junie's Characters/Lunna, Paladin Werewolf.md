@@ -458,5 +458,4 @@ We connect *Father Lucian* and *Ireena*, he speaks of the *Wachter Boys, Nikolai
 
 *John Manvivik* is the Smith of **Vallaki**, and we've paid him 100g to repair our armors in 3 days time and then upgrade our leathers in another 2 days.
 
-4d4+4 for 150 (14, 10gp per hp)
-2d4+2 for 50 (7, 7.15gp per hp)
+We purchase some potions of Healing from *Father Lucian*. The only other business we haven't been to is the Toy Shop.
