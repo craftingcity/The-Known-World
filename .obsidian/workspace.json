@@ -20,10 +20,43 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lunna, Paladin Werewolf"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3ddb4c2a5d62b2d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84bcfc623d8f981e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Lunna, Paladin Werewolf"
             }
           }
         ]
@@ -323,7 +356,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5126fd58f8057f23",
+  "active": "84bcfc623d8f981e",
   "lastOpenFiles": [
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Prenotes Nov 06 26.md",
