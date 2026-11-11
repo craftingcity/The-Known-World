@@ -118,6 +118,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 - Devil's Pastries in *Village of Barovia*
 - ~~Saint Andrul's Bones in *Vallaki*~~
 - The Other Two Whatcher Boys in *Vallaki*
+- The Toy Shop in *Vallaki*?
 
 ## Stats
 
@@ -459,3 +460,5 @@ We connect *Father Lucian* and *Ireena*, he speaks of the *Wachter Boys, Nikolai
 *John Manvivik* is the Smith of **Vallaki**, and we've paid him 100g to repair our armors in 3 days time and then upgrade our leathers in another 2 days.
 
 We purchase some potions of Healing from *Father Lucian*. The only other business we haven't been to is the Toy Shop.
+
+I spend the day preparing the basement of our new **Wachter Manor** for the Full Moon while the rest of the party heads out to the Toy Shop. 
