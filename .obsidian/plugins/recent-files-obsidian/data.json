@@ -5,6 +5,10 @@
       "path": "Junie's Characters/Lunna, Paladin Werewolf.md"
     },
     {
+      "basename": "Armors of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md"
+    },
+    {
       "basename": "Central Alaturmen",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Prenotes Oct 02 26",
       "path": "Prenotes Oct 02 26.md"
-    },
-    {
-      "basename": "Prenotes July 28 26",
-      "path": "Game Notes/Prenotes/'26/Prenotes July 28 26.md"
     }
   ],
   "omittedPaths": [],

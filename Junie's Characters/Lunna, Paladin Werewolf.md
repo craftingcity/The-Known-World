@@ -238,14 +238,12 @@ You prepare the list of paladin spells that are available for you to cast, choos
 	- Longsword (1d8 / 1d10 + STR slashing)
 	- Shield (+2 AC)
 *Arms*: 
-	- Oil Lantern, Bullseye
 *Head*:
 *Torso*:
 	- Chain Shirt (*BROKEN*)
 	- Black Platemail (*BROKEN*)
 	- Leather Armor
 	- Brass Holy Symbol of Avandra (three green waves)
-	- Sack; Remains of Saint Andrul
 	- Backpack; 
 		- a bedroll 
 		- a mess kit
@@ -257,6 +255,9 @@ You prepare the list of paladin spells that are available for you to cast, choos
 		- 50 feet of hempen rope
 		- a wooden stake
 *Groin*:
+	- Belt
+		- Oil Lantern, Bullseye
+		- 1x Potion of Healing (2d4+2)
 *Legs*:
 *Feet*:
 
@@ -454,3 +455,8 @@ We find the Bones, and quickly return them to *Father Lucian*. Upon meeting with
 We connect *Father Lucian* and *Ireena*, he speaks of the *Wachter Boys, Nikolai & Karl*, who he calls drunks, and he'll help us clean up the Wachter House.
 
 ### Session 16 - ""
+
+*John Manvivik* is the Smith of **Vallaki**, and we've paid him 100g to repair our armors in 3 days time and then upgrade our leathers in another 2 days.
+
+4d4+4 for 150 (14, 10gp per hp)
+2d4+2 for 50 (7, 7.15gp per hp)
