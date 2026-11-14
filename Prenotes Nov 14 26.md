@@ -23,6 +23,8 @@ Even before you can blink away the blinding light, your senses tell you that you
 
 In your immediate area, the most recognizable building is the tavern on the corner - the glowing sign is illegible to you, but the iconography of a freshly poured ale is hard to miss. Further down the street, some two-hundred feet away, laborers drag their carts around a brawl without intervening.
 
+As lost as you were before, you are now swamped in options. What do you do?
+
 ### What does the World Know?
 
 
