@@ -7,6 +7,7 @@ aliases:
 %% Begin Waypoint %%
 - [[Cathouse Game]]
 - [[Dragoon's Greats Game]]
+- [[EmilyOwen Game]]
 - [[Jasper's Angels]]
 - [[Milliehouse Game]]
 - [[RHoD Test 1]]

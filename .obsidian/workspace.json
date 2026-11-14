@@ -4,40 +4,107 @@
     "type": "split",
     "children": [
       {
-        "id": "2595768f856e57e1",
-        "type": "tabs",
+        "id": "4759d8688437546a",
+        "type": "split",
         "children": [
           {
-            "id": "5126fd58f8057f23",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
-                "mode": "source",
-                "source": true
+            "id": "b326e442f86147a5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fe4ceabac79c4d38",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Secretkeepers"
+                },
+                "group": "bdbf25a6d4d364f9"
+              }
+            ]
+          },
+          {
+            "id": "2166576b6414f792",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "53e2dfa50655ae93",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for The Secretkeepers"
+                },
+                "group": "bdbf25a6d4d364f9"
               },
-              "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
-            }
+              {
+                "id": "85d6c285042372af",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Notes/Prenotes/'26/Prenotes Oct 17 26.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Prenotes Oct 17 26"
+                }
+              }
+            ],
+            "currentTab": 1
           }
-        ]
+        ],
+        "direction": "horizontal"
       },
       {
-        "id": "3ddb4c2a5d62b2d0",
+        "id": "3fd297092b35f180",
         "type": "tabs",
         "children": [
           {
-            "id": "84bcfc623d8f981e",
+            "id": "22cdebdabab16a83",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -51,12 +118,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
+                "file": "Prenotes Nov 14 26.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
+              "title": "Prenotes Nov 14 26"
             }
           }
         ]
@@ -111,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CHARM",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,13 +227,11 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 297.51240158081055,
-    "collapsed": true
+    "width": 297.51240158081055
   },
   "right": {
     "id": "f2489dfa6d1ed691",
@@ -356,13 +421,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5126fd58f8057f23",
+  "active": "22cdebdabab16a83",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
-    "Junie's Characters/Lunna, Paladin Werewolf.md",
+    "Game Notes/Prenotes/'26/Prenotes Oct 17 26.md",
+    "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "Prenotes Nov 14 26.md",
+    "Game Notes/Campaign Rosters/EmilyOwen Game.md",
+    "An Ode to My Love.md",
+    "Game Notes/Prenotes/'26/Prenotes Oct 30 26.md",
+    "Game Notes/Prenotes/'26/Prenotes Oct 08 26.md",
+    "Game Notes/Prenotes/'26/Prenotes Oct 02 26.md",
+    "Game Notes/Prenotes/'26/Prenotes Nov 06 26.md",
+    "Game Notes/Prenotes/'26/Prenotes Aug 28 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
-    "Prenotes Nov 06 26.md",
-    "Prenotes Oct 30 26.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Golden Claws.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
@@ -376,14 +447,8 @@
     "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md",
-    "EmilyOwen Game.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Masham.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Falaj Dawheer.md",
     "Untitled.canvas",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
