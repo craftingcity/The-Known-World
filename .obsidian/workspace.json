@@ -20,18 +20,30 @@
                     {
                       "state": "{}",
                       "eState": "{}"
+                    },
+                    {
+                      "title": "Custom Features",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Custom Features\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":74,\"ch\":0},\"to\":{\"line\":74,\"ch\":0}},\"scroll\":54.96487926301502}"
+                    },
+                    {
+                      "title": "The Secretkeepers",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/Campaign Rosters/The Secretkeepers.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"The Secretkeepers\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":29},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":15.401091694523076}"
                     }
                   ]
                 },
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
+                    "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
                     "mode": "source",
                     "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "The Secretkeepers"
+                  "title": "Dis"
                 },
                 "group": "bdbf25a6d4d364f9"
               }
@@ -56,7 +68,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Game Notes/Campaign Rosters/The Secretkeepers.md",
+                    "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "byModifiedTime",
@@ -66,7 +78,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for The Secretkeepers"
+                  "title": "Backlinks for Dis"
                 },
                 "group": "bdbf25a6d4d364f9"
               },
@@ -227,7 +239,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -421,12 +434,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22cdebdabab16a83",
+  "active": "fe4ceabac79c4d38",
   "lastOpenFiles": [
-    "Game Notes/Prenotes/'26/Prenotes Oct 17 26.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
     "Prenotes Nov 14 26.md",
     "Game Notes/Campaign Rosters/The Secretkeepers.md",
+    "Game Notes/Prenotes/'26/Prenotes Oct 17 26.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Game Notes/Campaign Rosters/EmilyOwen Game.md",
     "An Ode to My Love.md",
     "Game Notes/Prenotes/'26/Prenotes Oct 30 26.md",
@@ -448,7 +462,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
