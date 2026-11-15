@@ -31,6 +31,29 @@
             }
           },
           {
+            "id": "fce64b227175fcff",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/High Power/Devils/Devils.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Devils"
+            }
+          },
+          {
             "id": "8e8429974a304464",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -52,8 +75,32 @@
               "icon": "lucide-file",
               "title": "A Grand Notepad"
             }
+          },
+          {
+            "id": "3c2abbc8e5c647f6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/NPCs/List of Names.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "List of Names"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "88887f18038c97df",
@@ -80,29 +127,6 @@
               },
               "icon": "lucide-file",
               "title": "Prenotes Nov 14 26"
-            }
-          },
-          {
-            "id": "fce64b227175fcff",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Notes/NPCs/High Power/Devils/Devils.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Devils"
             }
           }
         ]
@@ -404,10 +428,11 @@
   },
   "active": "24cac27b4a500546",
   "lastOpenFiles": [
-    "Game Notes/NPCs/High Power/Devils/Devils.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
+    "Game Notes/NPCs/List of Names.md",
     "Prenotes Nov 14 26.md",
+    "Game Notes/NPCs/High Power/Devils/Devils.md",
     "A Grand Notepad.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
     "conflict-files-obsidian-git.md",
@@ -429,7 +454,6 @@
     "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Barthalmule's Thieves.md",
     "Untitled.canvas",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",

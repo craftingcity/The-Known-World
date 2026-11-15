@@ -27,7 +27,7 @@ As lost as you were before, you are now swamped in options. What do you do?
 
 ### What does the World Know?
 
-
+We're walking into a bar to talk with adventurers. 
 
 ### What happened?
 
