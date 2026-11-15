@@ -16,18 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Dis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Dis\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":190},\"to\":{\"line\":18,\"ch\":190}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dis"
+              "title": "Baator"
             }
           },
           {
@@ -39,18 +45,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Devils",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Devils/Devils.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Devils\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":52},\"to\":{\"line\":19,\"ch\":52}},\"scroll\":9.798047223776367}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/NPCs/High Power/Devils/Devils.md",
+                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Devils"
+              "title": "Minauros"
             }
           },
           {
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "88887f18038c97df",
@@ -426,13 +438,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fce64b227175fcff",
+  "active": "3c2abbc8e5c647f6",
   "lastOpenFiles": [
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
-    "Prenotes Nov 14 26.md",
-    "Game Notes/NPCs/High Power/Devils/Devils.md",
-    "Game Notes/NPCs/List of Names.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "A Grand Notepad.md",
+    "Prenotes Nov 14 26.md",
+    "Game Notes/NPCs/List of Names.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
+    "Game Notes/NPCs/High Power/Devils/Devils.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
     "conflict-files-obsidian-git.md",
@@ -451,9 +466,6 @@
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Major Agricultural Harvests.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemy Processes & Products.md",
     "Game Notes/Mechanics/Homebrew Systems/Alchemy/Alchemical Components.md",
-    "Game Notes/Mechanics/Homebrew Systems/Ingame/Alaturmenian Travel Table.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Cultures.md",
     "Untitled.canvas",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
