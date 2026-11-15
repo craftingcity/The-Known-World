@@ -29,7 +29,7 @@ As lost as you were before, you are now swamped in options. What do you do?
 
 We're walking into Kezerrek's bar to talk with adventurers and Kezerrek. 
 
-
+We've hired the Silver Tongues at dayrate of 4000sp, half up front, half and 10% on completion.
 
 ### What happened?
 
