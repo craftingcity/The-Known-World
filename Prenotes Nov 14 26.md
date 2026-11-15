@@ -35,13 +35,13 @@ We've hired the Silver Tongues at dayrate of 4000sp, half up front, half and 10%
 34 - Niko
 15 - Zipper
 12 - Baddies
-	A (I, HINDER, BROKER x2) 28, 44, 74, 102, 103, 113
-	B (I) 28, 36
-	C (I) 16, 39, 41
+	A (I, HINDER, BROKER x2) 28, 44, 74, 102, 103, 113, 141, 
+	~~B (I) 28, 36, 50~~
+	C (II) 16, 39, 41, 45, 70
 	D
-	E () 16, 18
+	E () 16, 18, 22, 33
 	F (II) 28, 44, 67, 69
-	G (I) 28
+	~~G (I) 28, 32, 60, ~~
 10 - Saorsia
 10 - Silver Tongue
 1 - Old Mercs

@@ -9,6 +9,26 @@
       "path": "Junie's Characters/Lunna, Paladin Werewolf.md"
     },
     {
+      "basename": "Custom Features",
+      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
+    },
+    {
+      "basename": "World Features",
+      "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md"
+    },
+    {
+      "basename": "Weapons of Alaturmen",
+      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
+    },
+    {
+      "basename": "A Grand Notepad",
+      "path": "A Grand Notepad.md"
+    },
+    {
+      "basename": "List of Names",
+      "path": "Game Notes/NPCs/List of Names.md"
+    },
+    {
       "basename": "Magical Items of Note",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md"
     },
@@ -17,16 +37,8 @@
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md"
     },
     {
-      "basename": "List of Names",
-      "path": "Game Notes/NPCs/List of Names.md"
-    },
-    {
       "basename": "Currency of Alaturmen",
       "path": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md"
-    },
-    {
-      "basename": "A Grand Notepad",
-      "path": "A Grand Notepad.md"
     },
     {
       "basename": "Devils",
@@ -39,14 +51,6 @@
     {
       "basename": "Dis",
       "path": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md"
-    },
-    {
-      "basename": "Weapons of Alaturmen",
-      "path": "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md"
-    },
-    {
-      "basename": "Custom Features",
-      "path": "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md"
     },
     {
       "basename": "The Secretkeepers",
@@ -195,10 +199,6 @@
     {
       "basename": "Dragoon's Greats Game",
       "path": "Game Notes/Campaign Rosters/Dragoon's Greats Game.md"
-    },
-    {
-      "basename": "Campaign Roster",
-      "path": "ORGANIZATION/TEMPLATES/Campaign Roster.md"
     }
   ],
   "omittedPaths": [],
