@@ -32,6 +32,11 @@ We're walking into Kezerrek's bar to talk with adventurers and Kezerrek.
 We've hired the Silver Tongues at dayrate of 4000sp, half up front, half and 10% on completion.
 
 ### What happened?
-
+34 - Niko
+15 - Zipper
+12 - Baddies
+10 - Saorsia
+10 - Silver Tongue
+1 - Old Mercs
 
 We leave our heroes on the date of ... AF, as they ...
