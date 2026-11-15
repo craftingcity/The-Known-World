@@ -12,6 +12,6 @@ connect to [[Notes on the Multiverse]]
 - [[Campaigns]]
 - **[[Mechanics]]**
 - **[[NPCs]]**
-- **[[Game Notes/Prenotes/Prenotes]]**
+- **[[Prenotes]]**
 
 %% End Waypoint %%

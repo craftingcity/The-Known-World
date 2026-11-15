@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2595768f856e57e1",
+        "id": "88887f18038c97df",
         "type": "tabs",
         "children": [
           {
-            "id": "5126fd58f8057f23",
+            "id": "24cac27b4a500546",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,65 +20,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
-            }
-          },
-          {
-            "id": "2508a503416acc74",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.1"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.1"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "3ddb4c2a5d62b2d0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "84bcfc623d8f981e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lunna, Paladin Werewolf"
+              "title": "New tab"
             }
           }
         ]
@@ -378,10 +323,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2508a503416acc74",
+  "active": "24cac27b4a500546",
   "lastOpenFiles": [
-    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
+    "conflict-files-obsidian-git.md",
+    "Prenotes Nov 14 26.md",
+    "Game Notes/Prenotes/'26/Prenotes Oct 30 26.md",
+    "Game Notes/Prenotes/'26/Prenotes Oct 17 26.md",
+    "Game Notes/Prenotes/'26/Prenotes Oct 08 26.md",
+    "Game Notes/Prenotes/'26/Prenotes Oct 02 26.md",
+    "Game Notes/Prenotes/'26/Prenotes Nov 06 26.md",
+    "Game Notes/Prenotes/'26/Prenotes Aug 28 26.md",
+    "Game Notes/Campaign Rosters/EmilyOwen Game.md",
+    "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Central Alaturmen.md",
     "Prenotes Nov 06 26.md",
     "Prenotes Oct 30 26.md",
@@ -397,15 +351,6 @@
     "Game Notes/NPCs/List of Names.md",
     "Game Notes/Mechanics/Homebrew Systems/Ancient (depreciated)/APGtAv1.md",
     "Game Notes/NPCs/High Power/Barons of Combine NPCs/Baron Filip.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southeastern Central/Regions of SEC/Huntyr Swamp.md",
-    "EmilyOwen Game.md",
-    "conflict-files-obsidian-git.md",
-    "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Heritages.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Agrandica's Thieves.md",
-    "Game Notes/NPCs/Absolute Power/Grand Pantheon.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/About People/Nations/Lands of Tetrimoc/Factions/Cobalt's Thieves.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Masham.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/Southwestern Central/Lower Villages/Near Barthalamule's Shrubland/Falaj Dawheer.md",
     "Untitled.canvas",
     "DATABASE.base",
     "MEDIA/SUPP/baatorMap.drawio",
