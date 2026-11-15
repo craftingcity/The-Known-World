@@ -36,7 +36,8 @@ The Dukes are the minor management of Devil-kind. The Dukes ride a fine line of 
 
 #### on Dis
 - [[Domisyl]], Duke and **High Landlord** of *Highland District*
-- [[Supplicant]], Duke and **
+- [[Supplicant]], Duke and **Productivity Analyst** of *Industrial District*
+- 
 #### on Minauros
 #### on Phlegethos
 #### on Stygia
