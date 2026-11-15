@@ -29,8 +29,30 @@
               "icon": "lucide-file",
               "title": "Lunna, Paladin Werewolf"
             }
+          },
+          {
+            "id": "2508a503416acc74",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3ddb4c2a5d62b2d0",
@@ -356,7 +378,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5126fd58f8057f23",
+  "active": "2508a503416acc74",
   "lastOpenFiles": [
     "Game Notes/Mechanics/Homebrew Armors/Armors of Alaturmen.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
