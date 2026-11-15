@@ -438,23 +438,6 @@ Goose's Carbine (295 DRM, FR); +6, 3d6+2 fire
 *Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
 ###### Inventory
 
-##### "Roan" - Team Specialist
-> Human? Gnom,e?, **CLASS LVL**
-
-| STAT | #    | STAT    | #                |
-| ---- | ---- | ------- | ---------------- |
-| STR  | x () | PRF     | +3               |
-| CON  | x () | MAX HP  |                  |
-| DEX  | x () | AC      | (P. Scout Armor) |
-| INT  | x () | Cur. HP |                  |
-| WIS  | x () | Hit Die |                  |
-| CHA  | x () | Speed   | 30'              |
-
-###### Skills & Proficiencies
-###### Actions & Features
-*Company Arms Training* - When you deal damage with a blaster or firearm, add twice your Dexterity Modifier instead.
-###### Inventory
-
 ##### "Tommy" - Team Member
 > Satyr, **CLASS LVL**
 

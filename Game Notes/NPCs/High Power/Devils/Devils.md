@@ -35,6 +35,8 @@ The Dukes are the minor management of Devil-kind. The Dukes ride a fine line of 
 - [[Morik]], Duke and **Theater Commander** of *Beachhead Styx*
 
 #### on Dis
+- [[Domisyl]], Duke and **High Landlord** of *Highland District*
+- [[Supplicant]], Duke and **
 #### on Minauros
 #### on Phlegethos
 #### on Stygia
