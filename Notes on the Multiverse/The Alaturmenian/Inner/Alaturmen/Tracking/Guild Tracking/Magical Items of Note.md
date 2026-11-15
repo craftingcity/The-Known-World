@@ -303,11 +303,11 @@ aliases:
 	Source: Frankie Avaati (TL-G contained, confirmed deceased)
 	Last Known Keeper: Quartermaster, Vault 2
 
-	Entry Description: GME-016 is stored within Vault 2's Warm Storage sector in a cube of pure force over 6" in each diameter.
+	Entry Description: GME-016 is to be stored within Vault 2's Warm Storage sector in a cube of pure force over 6" in each diameter.
 
 	GME-016 is a simple golden ring enscribed with the phrase 'Money, Power, Respect' in Arthurian. While worn, if the wearer speaks the words "I wish", their following sentence is considered by GME-016, which then attempts to enact the most harmful rendition of that wish.
 
-	GME-016 was contained by Kakurak after it's singular use by Frankie Avaati to remove the acting governments of the Great Northen Forests and make way for the oncoming rise of the Bandit Lords.
+	GME-016 was contained by Kakurak after it's singular use by Frankie Avaati to remove the acting governments of the Great Northen Forests and make way for the oncoming rise of the Bandit Lords. It has since been removed from Vault 2, and been traded around Baator.
 ```
 
 ###### The Token of Indestructability
@@ -788,7 +788,7 @@ aliases:
 ###### Alergra's Cloak of Diversion
 ###### Alergra's Pinksand Hourglass
 ###### Alergra's Staff of Evocation
-	- Flame Blade
+	- Flame Blade 
 	- Acid Arrow
 	- Scrosching Ray
 	- Fireball
