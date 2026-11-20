@@ -110,9 +110,30 @@
               "icon": "lucide-file",
               "title": "Lunna, Paladin Werewolf"
             }
+          },
+          {
+            "id": "87bab3144d03cdcb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.1"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "88887f18038c97df",
@@ -461,7 +482,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9badeb38cf03d6e",
+  "active": "87bab3144d03cdcb",
   "lastOpenFiles": [
     "Prenotes Nov 14 26.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
