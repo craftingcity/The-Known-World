@@ -127,7 +127,7 @@ I left my Father's sword behind, I couldn't take it from the bloodbath I had lef
 | ---- | ------------------ | ----- | ------------------------------ |
 | STR  | 14 (+2) // 15 (+2) | PRF   | +3                             |
 | CON  | 18 (+4)            | M. HP | 76 Max HP (0/5 Exhaust)        |
-| DEX  | 14 (+2)            | AC    | (15 (17) // 12 & resist B/P/S) |
+| DEX  | 14 (+2)            | AC    | (18 // 12 & resist B/P/S) |
 | INT  | 9  (-1)            | C. HP | 76 HP                          |
 | WIS  | 14 (+2) ^          | HD    | 6d10 (6/6)                     |
 | CHA  | 14 (+2) ^          | SPD   | 30' // 40'                     |
@@ -473,3 +473,5 @@ We've slain the undead, and cut off it's head. It turned to ash, so we could not
 
 ### Session 17 - ""
 Today is July 26th. The full moon occurs in three days.
+
+We are delivering our sticks to the Baron.
