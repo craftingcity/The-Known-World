@@ -471,7 +471,7 @@ We meet some guys carrying sticks. They tell us where to go in the forest, where
 
 We've slain the undead, and cut off it's head. It turned to ash, so we could not investigate further, but I've stolen it's armor. We also killed a deer and have preserved it for ourselves.
 
-### Session 17 - ""
+### Session 17 - "Fight in the Burghamasta's Mansion"
 Today is July 26th. The full moon occurs in three days.
 
-We are delivering our sticks to the Baron.
+We are delivering our sticks to the Baron. He 
