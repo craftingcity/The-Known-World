@@ -150,9 +150,9 @@ You prepare the list of paladin spells that are available for you to cast, choos
 ##### Prepared Spells (Prep 5)
 - (2bc) [Magic Weapon](https://dnd5e.wikidot.com/spell:magic-weapon)
 - (1bc) [Shield of Faith](https://dnd5e.wikidot.com/spell:shield-of-faith)
-- (1c) [Detect Evil & Good](https://dnd5e.wikidot.com/spell:detect-evil-and-good)
+- (1c) [Protection From Extraplanars](https://dnd5e.wikidot.com/spell:protection-from-evil-and-good)
 - (1c) [Bless](https://dnd5e.wikidot.com/spell:bless)
-- (1r) [Purify Food & Drink](https://dnd5e.wikidot.com/spell:purify-food-and-drink)
+- (1r) [Detect Magic](https://dnd5e.wikidot.com/spell:detect-magic)
 
 #### Proficiencies
 ##### Skills
@@ -472,3 +472,4 @@ We meet some guys carrying sticks. They tell us where to go in the forest, where
 We've slain the undead, and cut off it's head. It turned to ash, so we could not investigate further, but I've stolen it's armor. We also killed a deer and have preserved it for ourselves.
 
 ### Session 17 - ""
+Today is July 26th. The full moon occurs in three days.
