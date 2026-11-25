@@ -138,7 +138,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 | I   | II  | III | IV  | V   | VI  | VII | VIII | IX  |
 | --- | --- | --- | --- | --- | --- | --- | ---- | --- |
 | o   | o   | .   | .   | .   | .   | .   | .    | .   |
-| o   | o   | .   | .   | .   | .   | .   |      |     |
+| o   | x   | .   | .   | .   | .   | .   |      |     |
 | o   | .   | .   | .   | .   |     |     | DC   | 13  |
 | o   |     |     |     |     |     |     | ATTK | +5  |
 
@@ -207,7 +207,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 - Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [Hallow](http://dnd5e.wikidot.com/spell:hallow) spell.
 - You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
-##### Lay on Hands (30/30)
+##### Lay on Hands (20/30)
 - As an action, you can touch a creature and restore a number of hit points, up to the maximum amount remaining in your pool. You regain any spent points on a long rest.
 - Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. 
 	- You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
@@ -256,6 +256,7 @@ You prepare the list of paladin spells that are available for you to cast, choos
 		- a wooden stake
 		- Leather Armor
 		- Baron's Signet Ring
+		- Baron's Book of Barovian Fables: "Sister's Flynn"
 *Groin*:
 	- Belt
 		- Oil Lantern, Bullseye
@@ -476,4 +477,4 @@ We've slain the undead, and cut off it's head. It turned to ash, so we could not
 ### Session 17 - "Fight in the Burghamasta's Mansion"
 Today is July 26th. The full moon occurs in three days.
 
-We are delivering our sticks to the Baron. He is a bad guy, so we merc him. 
+We are delivering our sticks to the Baron. He is a bad guy, so we merc him. Eezak is a freak.
