@@ -255,10 +255,12 @@ You prepare the list of paladin spells that are available for you to cast, choos
 		- 50 feet of hempen rope
 		- a wooden stake
 		- Leather Armor
+		- Baron's Signet Ring
 *Groin*:
 	- Belt
 		- Oil Lantern, Bullseye
 		- 1x Potion of Healing (2d4+2)
+		- Baron's Ring of Keys 
 *Legs*:
 *Feet*:
 
@@ -474,4 +476,4 @@ We've slain the undead, and cut off it's head. It turned to ash, so we could not
 ### Session 17 - "Fight in the Burghamasta's Mansion"
 Today is July 26th. The full moon occurs in three days.
 
-We are delivering our sticks to the Baron. He 
+We are delivering our sticks to the Baron. He is a bad guy, so we merc him. 
