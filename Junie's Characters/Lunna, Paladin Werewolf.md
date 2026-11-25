@@ -459,7 +459,7 @@ We find the Bones, and quickly return them to *Father Lucian*. Upon meeting with
 
 We connect *Father Lucian* and *Ireena*, he speaks of the *Wachter Boys, Nikolai & Karl*, who he calls drunks, and he'll help us clean up the Wachter House.
 
-### Session 16 - ""
+### Session 16 - "Into the Woods"
 
 *John Manvivik* is the Smith of **Vallaki**, and we've paid him 100g to repair our armors in 3 days time and then upgrade our leathers in another 2 days.
 
@@ -467,6 +467,8 @@ We purchase some potions of Healing from *Father Lucian*. The only other busines
 
 I spend the day preparing the basement of our new **Wachter Manor** for the Full Moon while the rest of the party heads out to the Toy Shop. The party found out about a man named *Izek*, who commissioned some creepy dolls of *Ireena* and *Straud*. 
 
-We meet some guys carrying sticks. They tell us where to go in the forest, where we encounter an undead paladin of the *Order of the Silver Dragon*. I challenge them to a duel, and the gang jumps in quite quickly. I feel lucky for it, no matter my honor's loss `like you aren't already bitch-made?`.
+We meet some guys carrying sticks. They tell us where to go in the forest, where we encounter an undead paladin of the *Order of the Silver Dragon*. I challenge them to a duel, and the gang jumps in quite quickly. I feel lucky for it, no matter my honor's loss. `As if you aren't already bitch-made?`.
 
 We've slain the undead, and cut off it's head. It turned to ash, so we could not investigate further, but I've stolen it's armor. We also killed a deer and have preserved it for ourselves.
+
+### Session 17 - ""

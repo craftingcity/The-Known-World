@@ -8,87 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88c166a5bdddc223",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Dis",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Dis\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":190},\"to\":{\"line\":18,\"ch\":190}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Baator"
-            }
-          },
-          {
-            "id": "fce64b227175fcff",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Devils",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Game Notes/NPCs/High Power/Devils/Devils.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Devils\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":52},\"to\":{\"line\":19,\"ch\":52}},\"scroll\":9.798047223776367}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Minauros"
-            }
-          },
-          {
-            "id": "8e8429974a304464",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Grand Notepad.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "A Grand Notepad"
-            }
-          },
-          {
             "id": "f9badeb38cf03d6e",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -110,82 +29,75 @@
               "icon": "lucide-file",
               "title": "Lunna, Paladin Werewolf"
             }
-          },
-          {
-            "id": "87bab3144d03cdcb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.1"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.1"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "88887f18038c97df",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "24cac27b4a500546",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prenotes Nov 14 26.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prenotes Nov 14 26"
-            }
-          },
-          {
-            "id": "ae8e223b87cb579a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Magical Items of Note"
-            }
           }
         ]
+      },
+      {
+        "id": "35bf0be63ae7ed47",
+        "type": "split",
+        "children": [
+          {
+            "id": "06cfb37ad56f6ac7",
+            "type": "tabs",
+            "dimension": 72.04116638078902,
+            "children": [
+              {
+                "id": "12be0639b00e1f51",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lunna, Paladin Werewolf"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3746e902c95a8e8d",
+            "type": "tabs",
+            "dimension": 27.958833619210978,
+            "children": [
+              {
+                "id": "882a31d84c6a7194",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junie's Characters/Lunna, Paladin Werewolf.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lunna, Paladin Werewolf"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -482,20 +394,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87bab3144d03cdcb",
+  "active": "882a31d84c6a7194",
   "lastOpenFiles": [
-    "Prenotes Nov 14 26.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
+    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Junie's Characters/Lunna, Paladin Werewolf.md",
+    "A Grand Notepad.md",
+    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
+    "Prenotes Nov 14 26.md",
     "Game Notes/Mechanics/Homebrew Systems/Lore/Custom Features.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Places/World Features/World Features.md",
     "Game Notes/Mechanics/Homebrew Weapons/Weapons of Alaturmen.md",
-    "A Grand Notepad.md",
     "Game Notes/NPCs/List of Names.md",
-    "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Guild Tracking/Magical Items of Note.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Minauros.md",
     "Notes on the Multiverse/The Alaturmenian/Inner/Alaturmen/Tracking/Economy Pages/Currency of Alaturmen.md",
     "Game Notes/NPCs/High Power/Devils/Devils.md",
-    "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Baator.md",
     "Notes on the Multiverse/The Alaturmenian/Outer/Baator/Dis.md",
     "conflict-files-obsidian-git.md",
     "Game Notes/Prenotes/'26/Prenotes Oct 30 26.md",
